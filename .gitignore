@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.claude/settings.local.json
+
+# TTS sync mirrors — large, regenerable from the local TTS install.
+# Keep canonical edited versions under tts/saves-tracked/ instead.
+tts/saves-mirror/
+tts/mods-mirror/
+
+# Asset cache binaries are large; the manifest tracks what's cached.
+# Re-fetchable via `tts assets backup --resync`.
+tts/assets/cache/
+!tts/assets/cache/.gitkeep

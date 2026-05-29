@@ -1,0 +1,35 @@
+# typos configuration — runs from the pre-commit hook.
+# https://github.com/crate-ci/typos
+
+[default.extend-words]
+# D&D / TTRPG vocabulary that typos mis-flags.
+tiefling = "tiefling"
+tieflings = "tieflings"
+drow = "drow"
+warlock = "warlock"
+warlocks = "warlocks"
+artificer = "artificer"
+illithid = "illithid"
+illithids = "illithids"
+mindflayer = "mindflayer"
+githyanki = "githyanki"
+githzerai = "githzerai"
+yuan = "yuan"
+nat = "nat"
+
+[default.extend-identifiers]
+# TTS / Lua identifiers.
+GUID = "GUID"
+guid = "guid"
+
+[files]
+# TTS save files are large JSON blobs — vendor-shaped, not worth scanning.
+extend-exclude = [
+    "uv.lock",
+    "tts/saves/**",
+    "tts/saves-mirror/**",
+    "tts/mods-mirror/**",
+    "tts/assets/cache/**",
+    "campaign/*.db",
+    "*.db",
+]

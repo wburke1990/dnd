@@ -1,0 +1,83 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          { "type": "command", "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh" }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(gh:*)",
+      "Bash(uv:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(pytest:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(sort:*)",
+      "Bash(uniq:*)",
+      "Bash(jq:*)",
+      "Bash(awk:*)",
+      "Bash(sed:*)",
+      "Bash(column:*)",
+      "Bash(tr:*)",
+      "Bash(cut:*)",
+      "Bash(diff:*)",
+      "Bash(file:*)",
+      "Bash(stat:*)",
+      "Bash(du:*)",
+      "Bash(df:*)",
+      "Bash(tree:*)",
+      "Bash(which:*)",
+      "Bash(basename:*)",
+      "Bash(dirname:*)",
+      "Bash(realpath:*)",
+      "Bash(echo:*)",
+      "Bash(printf:*)",
+      "Bash(pwd)",
+      "Bash(env)",
+      "Bash(mkdir:*)",
+      "Bash(touch:*)",
+      "Bash(mv:*)",
+      "Bash(cp:*)",
+      "Bash(rm:*)",
+      "Bash(chmod:*)",
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(rsync:*)",
+      "Bash(sqlite3:*)",
+      "Bash(luacheck:*)",
+      "Bash(stylua:*)",
+      "Bash(gitleaks:*)",
+      "Bash(shellcheck:*)",
+      "Bash(pip-audit:*)",
+      "Bash(pip-licenses:*)",
+      "Bash(.githooks/pre-commit:*)",
+      "Bash(dnd:*)",
+      "Bash(tts:*)",
+      "Edit",
+      "Write",
+      "Edit(.claude/settings.json)",
+      "Write(.claude/settings.json)"
+    ],
+    "deny": [
+      "Bash(sudo:*)",
+      "Bash(rm -rf /)",
+      "Bash(rm -rf /*)",
+      "Bash(rm -rf ~)",
+      "Bash(rm -rf ~/*)",
+      "Bash(rm -rf $HOME:*)"
+    ],
+    "ask": []
+  }
+}
