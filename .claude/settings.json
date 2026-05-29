@@ -65,6 +65,8 @@
       "Bash(.githooks/pre-commit:*)",
       "Bash(dnd:*)",
       "Bash(tts:*)",
+      "Read(//Users/wcb/Library/Tabletop Simulator/**)",
+      "Read(//private/tmp/**)",
       "Edit",
       "Write",
       "Edit(.claude/settings.json)",
