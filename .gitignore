@@ -13,3 +13,7 @@ tts/mods-mirror/
 # Re-fetchable via `tts assets backup --resync`.
 tts/assets/cache/
 !tts/assets/cache/.gitkeep
+
+# SQLite WAL/SHM side files — campaign.db itself is the source of truth.
+*.db-wal
+*.db-shm
