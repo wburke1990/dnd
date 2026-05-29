@@ -39,20 +39,51 @@ are two commits). Deviate only when a change feels risky or unfinished.
 **Never bypass the pre-commit hook with `--no-verify`.** If a check fails,
 fix the underlying issue.
 
-### Prefer subagents — heavily
+### Prefer subagents — heavily, and aggressively
 
 Session cost scales **quadratically** with transcript length, so push work
-into subagents via `Agent` to keep the parent short:
+into subagents via `Agent` to keep the parent short. The default answer
+to "should I delegate this?" is **yes**.
+
+**Project-specific subagents** (defined under `.claude/agents/`):
+
+- `tts-inspector` — for **any** question about TTS save/mod JSON.
+  Saves are multi-MB and will wreck your context if you `Read` or `cat`
+  them. Use for "what's in this save", "find this object's GUID",
+  "what assets does mod X reference", "diff two saves".
+- `campaign-db` — for **any** question about campaign content (NPCs,
+  locations, sessions, items, factions, PCs). It knows the schema and
+  the `dnd` CLI, and returns prose answers instead of raw rows.
+
+**Generic subagents:**
+
 - Codebase questions / file lookups → `Explore`
 - Multi-step research or refactors → `general-purpose`
 - Non-trivial implementation planning → `Plan`
-- Run independent subagents **in parallel**
+
+**Run independent subagents in parallel** — single message, multiple
+`Agent` tool calls. Two campaign-db queries + one tts-inspector query
+can all fire at once.
 
 **First move for any codebase question is `Agent(Explore, …)`, not `grep`
 or `Read`** — even when one lookup feels like overkill. The trap is "just
 one quick grep" turning into five, all of which the parent re-reads every
-turn for the rest of the session. Ask the subagent for a 1–2 sentence
-summary, not raw output.
+turn for the rest of the session.
+
+**Ask subagents for 1–2 sentence summaries**, not raw output. If they
+return 200 lines, that's 200 lines you'll carry for the rest of the
+session.
+
+#### When NOT to delegate
+
+Skip the subagent when:
+- The task requires the parent to *hold* the actual file contents in
+  context to keep editing it (e.g. iterating on a Lua file).
+- The answer is one obvious shell command and you already know which
+  file/line (`git log -1`, `head -5 scripts/pyproject.toml`).
+- You're mid-edit and a subagent would lose the working state.
+
+Everything else: delegate.
 
 ### Don't `Read` large blobs
 
