@@ -3,10 +3,10 @@
 #
 # Runs code quality checks (ruff lint, ruff format, mypy strict, pytest,
 # typos, luacheck on TTS Lua) and security/compliance scans (gitleaks for
-# secrets, pip-audit for CVEs, pip-licenses for license allowlist,
-# shellcheck on this hook). Stays silent when everything passes so it
-# doesn't bloat automated commit transcripts; prints captured output for
-# any check that fails.
+# secrets, pip-audit for CVEs, pip-licenses for license allowlist, and
+# linting this hook with shellcheck). Stays silent when everything passes
+# so it doesn't bloat automated commit transcripts; prints captured output
+# for any check that fails.
 #
 # System tools (gitleaks, shellcheck, luacheck) are optional — if not on
 # PATH the check is skipped with a one-line notice (interactive shells
