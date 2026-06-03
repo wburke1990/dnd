@@ -17,3 +17,6 @@ tts/assets/cache/
 # SQLite WAL/SHM side files — campaign.db itself is the source of truth.
 *.db-wal
 *.db-shm
+
+# Map images — large binaries staged locally for TTS use, not source of truth.
+maps/

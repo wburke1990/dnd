@@ -32,9 +32,12 @@ to `main` before committing. Tests are the guardrail; write them
 generously when touching `scripts/`. Force-push is allowed but a last
 resort.
 
-**Commit and push proactively** once a change is working. Split by concern
-(a fix and its tests are two commits, a DB schema change and a TTS change
-are two commits). Deviate only when a change feels risky or unfinished.
+**Commit and push proactively** once a change is working — and **push
+every time you commit**, not in batches at the end of a session. Split
+by concern (a fix and its tests are two commits, a DB schema change and
+a TTS change are two commits). After each commit, run `git push`
+immediately so work is durable off-machine and the user can pull from
+another device. Deviate only when a change feels risky or unfinished.
 
 **Never bypass the pre-commit hook with `--no-verify`.** If a check fails,
 fix the underlying issue.
@@ -112,12 +115,37 @@ aborted.
   - `migrations/*.sql` — schema evolution
 - `sessions/` — markdown session notes & recaps
 - `tts/` — Tabletop Simulator content
-  - `saves/` — canonical, edited save bundles (committed)
+  - `saves/` — canonical, edited save bundles ⚠️ **not yet committed,
+    decision pending** — see below
   - `saves-mirror/` — raw rsync of `~/Library/Tabletop Simulator/Saves`
     (gitignored; regenerable)
   - `lua/<save>/<guid>.lua` — extracted per-object scripts (committed)
   - `assets/cache/` — gitignored binary cache of Workshop assets
   - `assets/manifest.json` — committed URL → sha256 mapping
+
+### ⚠️ Save-commit strategy is unresolved
+
+Live TTS saves like Nila are **~120 MB pretty-printed** (GitHub hard
+rejects files >100 MB) and ~50 MB compact (warns >50 MB). Every revision
+adds that to history forever, and `git clone` slows accordingly. Pick
+one strategy before pushing `tts/saves/*.json` to origin for the first
+time:
+
+1. **Git LFS** (recommended for "canonical save bundles committed" intent):
+   ```
+   git lfs install
+   git lfs track 'tts/saves/*.json'
+   git add .gitattributes
+   ```
+   Commits stay small; LFS allows up to 2 GB/file. Anyone cloning needs
+   `git lfs pull`.
+2. **Gitignore `tts/saves/`**, commit only `tts/lua/<save>/` + the asset
+   manifest. Saves are regenerable from `tts pull-saves` from the local
+   install. Repo stays lean but no longer self-contained — losing the
+   local install means losing the save.
+
+Until one of these is in place, **don't `git add` anything under
+`tts/saves/`**. Flag this to the user and let them choose.
 - `scripts/` — uv-managed Python: the `dnd` and `tts` CLIs + tests
 - `.githooks/pre-commit` — silent-on-success quality + security checks
 
