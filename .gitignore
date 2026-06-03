@@ -18,5 +18,7 @@ tts/assets/cache/
 *.db-wal
 *.db-shm
 
-# Map images — large binaries staged locally for TTS use, not source of truth.
+# Map images and mini sculpts/textures — large binaries staged locally
+# for TTS use, not source of truth.
 maps/
+minis/
