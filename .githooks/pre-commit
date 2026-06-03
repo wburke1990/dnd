@@ -23,7 +23,7 @@ SCRIPTS_DIR="$REPO_ROOT/scripts"
 # Allowlist of acceptable dependency licenses. pip-licenses matches strings
 # exactly, so include each variant the ecosystem emits (SPDX id vs classifier
 # string). Add entries deliberately after reviewing the actual license text.
-ALLOWED_LICENSES="MIT;MIT License;BSD;BSD License;BSD-2-Clause;BSD-3-Clause;Apache-2.0;Apache 2.0;Apache Software License;Apache-2.0 OR BSD-2-Clause;Mozilla Public License 2.0 (MPL 2.0);MPL-2.0;Python Software Foundation License;PSF-2.0;ISC License (ISCL);ISC"
+ALLOWED_LICENSES="MIT;MIT License;MIT-CMU;HPND;BSD;BSD License;BSD-2-Clause;BSD-3-Clause;Apache-2.0;Apache 2.0;Apache Software License;Apache-2.0 OR BSD-2-Clause;Mozilla Public License 2.0 (MPL 2.0);MPL-2.0;Python Software Foundation License;PSF-2.0;ISC License (ISCL);ISC"
 
 # Run a check, capturing both streams. On success, swallow output. On failure,
 # print a header and the captured output so the user sees what broke.

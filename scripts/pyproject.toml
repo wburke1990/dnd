@@ -8,11 +8,13 @@ dependencies = [
     "click>=8.1",
     "rich>=13.7",
     "httpx>=0.27",
+    "pillow>=10.2",
 ]
 
 [project.scripts]
 dnd = "dnd_tools.dnd_cli:main"
 tts = "dnd_tools.tts_cli:main"
+pad-maps = "dnd_tools.pad_maps:main"
 
 [dependency-groups]
 dev = [
