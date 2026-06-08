@@ -148,6 +148,50 @@ def test_cli_custom_ratio(tmp_path: Path) -> None:
     assert Image.open(out_dir / "a.png").size == (round(100 * 16 / 9), 100)
 
 
+def test_cli_auto_orient_keeps_portrait_portrait(tmp_path: Path) -> None:
+    src_dir = tmp_path / "maps"
+    out_dir = tmp_path / "padded"
+    src_dir.mkdir()
+    # Portrait source (1024x1536, ratio 0.667). Target is 1600:945 landscape;
+    # auto-orient should flip to 945:1600 portrait, producing 1024x1733.
+    _solid(src_dir / "tall.png", 1024, 1536)
+
+    runner = CliRunner()
+    result = runner.invoke(main, ["--input", str(src_dir), "--output", str(out_dir)])
+    assert result.exit_code == 0, result.output
+    out_w, out_h = Image.open(out_dir / "tall.png").size
+    assert out_h > out_w, f"expected portrait, got {out_w}x{out_h}"
+    assert (out_w, out_h) == (1024, round(1024 * 1600 / 945))
+
+
+def test_cli_no_auto_orient_forces_landscape(tmp_path: Path) -> None:
+    src_dir = tmp_path / "maps"
+    out_dir = tmp_path / "padded"
+    src_dir.mkdir()
+    _solid(src_dir / "tall.png", 1024, 1536)
+
+    runner = CliRunner()
+    result = runner.invoke(
+        main,
+        ["--input", str(src_dir), "--output", str(out_dir), "--no-auto-orient"],
+    )
+    assert result.exit_code == 0, result.output
+    out_w, out_h = Image.open(out_dir / "tall.png").size
+    assert out_w > out_h, f"expected landscape with --no-auto-orient, got {out_w}x{out_h}"
+
+
+def test_cli_auto_orient_leaves_landscape_alone(tmp_path: Path) -> None:
+    src_dir = tmp_path / "maps"
+    out_dir = tmp_path / "padded"
+    src_dir.mkdir()
+    _solid(src_dir / "wide.png", 1600, 400)
+
+    runner = CliRunner()
+    result = runner.invoke(main, ["--input", str(src_dir), "--output", str(out_dir)])
+    assert result.exit_code == 0, result.output
+    assert Image.open(out_dir / "wide.png").size == (1600, 945)
+
+
 def test_cli_empty_input_dir(tmp_path: Path) -> None:
     src_dir = tmp_path / "maps"
     out_dir = tmp_path / "padded"

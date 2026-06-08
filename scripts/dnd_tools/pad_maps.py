@@ -125,18 +125,29 @@ def _discover(input_dir: Path, output_dir: Path) -> list[Path]:
     default=False,
     help="Overwrite existing padded outputs.",
 )
+@click.option(
+    "--auto-orient/--no-auto-orient",
+    default=True,
+    show_default=True,
+    help="Flip the target ratio for portrait sources so they stay portrait.",
+)
 def main(
     paths: tuple[Path, ...],
     input_dir: Path,
     output_dir: Path,
     ratio_str: str,
     force: bool,
+    auto_orient: bool,
 ) -> None:
     """Pad images with black bars to match the OneWorld aspect ratio.
 
     With no PATHS, scans --input (defaults to ``maps/``) for jpg/png/webp
     images and writes padded copies to --output (defaults to
     ``maps/padded/``). Source files are never modified.
+
+    By default, portrait sources are padded to the inverted (portrait)
+    target ratio so they don't get pillarboxed into landscape. Pass
+    --no-auto-orient to force every output into the literal --ratio.
     """
     target_w, target_h = parse_ratio(ratio_str)
     targets = list(paths) if paths else _discover(input_dir, output_dir)
@@ -149,7 +160,14 @@ def main(
         if dst.exists() and not force:
             click.echo(f"skip   {src.name} (already padded; pass --force to overwrite)")
             continue
-        w, h = pad_to_aspect(src, dst, target_w, target_h)
+        with Image.open(src) as raw:
+            oriented = ImageOps.exif_transpose(raw) or raw
+            src_w, src_h = oriented.size
+        if auto_orient and src_h > src_w:
+            tw, th = target_h, target_w
+        else:
+            tw, th = target_w, target_h
+        w, h = pad_to_aspect(src, dst, tw, th)
         click.echo(f"padded {src.name} -> {dst} ({w}x{h})")
 
 
