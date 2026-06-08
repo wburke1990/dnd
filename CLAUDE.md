@@ -16,6 +16,13 @@ and a wide list of Bash commands (including `sqlite3`, `rsync`, `luacheck`,
 `stylua`, `dnd`, `tts`) — just edit freely. Flag before adding tools or
 network calls that would need *new* prompts.
 
+**Permission patterns are prefix-anchored on the command string.**
+`Bash(find:*)` matches `find …` but NOT `/usr/bin/find …`. If a bare
+command behaves oddly (e.g. `find: unknown option '-S'`), do NOT reach
+for `/usr/bin/find` as a workaround — that bypasses the allowlist and
+blocks on mobile. Investigate the actual flag/quoting issue instead, or
+add the absolute-path variant to `.claude/settings.json` explicitly.
+
 **Never use `cd`** — the sandbox blocks it. Use absolute paths or
 tool-native flags:
 - `uv --directory /Users/wcb/personal/dnd/scripts run <cmd>`
