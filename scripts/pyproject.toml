@@ -24,6 +24,7 @@ dev = [
     "typos>=1.46",
     "pip-audit>=2.7",
     "pip-licenses>=4.4",
+    "pip>=26.1.2",
 ]
 
 [tool.uv]
