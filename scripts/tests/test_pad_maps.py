@@ -87,17 +87,44 @@ def test_safe_margin_inflates_canvas_uniformly(tmp_path: Path) -> None:
     assert out.getpixel((w // 2, h // 2)) == (255, 0, 0)
 
 
-def test_safe_margin_landscape_source(tmp_path: Path) -> None:
-    """Wide source: short axis still gets ≥5% margin; long axis may have more."""
+def test_safe_margin_off_ratio_lr_bezel_only(tmp_path: Path) -> None:
+    """Near-square source padded to landscape: L/R gets ≥margin; T/B can be 0."""
     src = tmp_path / "wide.png"
     dst = tmp_path / "padded.png"
     _solid(src, 3760, 2895)  # ratio 1.299, narrower than 1.693
     w, h = pad_to_aspect(src, dst, 1600, 945, safe_margin=0.05)
-    # Short axis (height): margin on top/bottom should be ~5% of canvas height.
-    top_margin = (h - 2895) // 2
-    assert top_margin >= round(0.05 * h) - 1
-    # Aspect ratio preserved.
+    # L/R margin: at least 5% of canvas width per side.
+    lr_margin = (w - 3760) // 2
+    assert lr_margin >= round(0.05 * w) - 1
+    # T/B margin: source height should match canvas height (no extra T/B bezel
+    # needed — the long-axis safety + aspect constraints alone determine it).
+    assert h == 2895
     assert abs(w / h - 1600 / 945) < 0.01
+
+
+def test_nearly_square_source_zero_tb_bezel(tmp_path: Path) -> None:
+    """Ramses I shape (1350x1165): T/B bezel = 0, L/R bezel from aspect."""
+    src = tmp_path / "square.png"
+    dst = tmp_path / "padded.png"
+    _solid(src, 1350, 1165)
+    w, h = pad_to_aspect(src, dst, 1600, 945, safe_margin=0.10)
+    assert h == 1165  # no T/B bezel
+    # L/R bezel comes from the aspect constraint alone.
+    assert w == round(1165 * 1600 / 945)
+    assert (w - 1350) // 2 >= round(0.10 * w) - 1
+
+
+def test_portrait_target_short_axis_is_tb(tmp_path: Path) -> None:
+    """Portrait target: bezel guarantee shifts to T/B, L/R floats."""
+    src = tmp_path / "portrait.png"
+    dst = tmp_path / "padded.png"
+    # Source is shallower than the portrait target's natural depth.
+    _solid(src, 1024, 1200)
+    w, h = pad_to_aspect(src, dst, 945, 1600, safe_margin=0.10)
+    # T/B margin: ≥10% of canvas height per side.
+    assert (h - 1200) // 2 >= round(0.10 * h) - 1
+    # L/R floats — source width may match canvas width exactly.
+    assert w == 1024
 
 
 def test_safe_margin_default_baked_in(tmp_path: Path) -> None:
@@ -136,7 +163,11 @@ def test_cli_processes_directory(tmp_path: Path) -> None:
     bw, bh = Image.open(out_dir / "b.png").size
     assert abs(aw / ah - 1600 / 945) < 0.01
     assert abs(bw / bh - 1600 / 945) < 0.01
-    assert aw > 1600 and bw > 1600
+    # The wide source (b.png) always inflates beyond the bare 1600x945.
+    # The square source (a.png) lands at the aspect-derived size, which may
+    # match 1600 exactly without further inflation (its L/R bezel comes from
+    # the aspect constraint alone).
+    assert aw >= 1600 and bw > 1600
 
 
 def test_cli_skips_existing_without_force(tmp_path: Path) -> None:

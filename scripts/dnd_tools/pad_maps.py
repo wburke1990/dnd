@@ -51,10 +51,15 @@ def pad_to_aspect(
     """Pad ``src`` so its canvas matches ``target_w:target_h`` with a safe margin.
 
     Honors EXIF orientation so phone photos land right-side-up. Source
-    pixels are preserved at native resolution; only the canvas grows. The
-    canvas is sized so at least ``safe_margin`` of each side is black —
-    when the source already matches the target aspect, this still produces
-    a uniform border. Returns the ``(width, height)`` of the written image.
+    pixels are preserved at native resolution; only the canvas grows.
+
+    The safe margin is enforced on the canvas's **long axis only** — L/R
+    for landscape targets, T/B for portrait — because that's the side the
+    OneWorld table model actually clips. The perpendicular (short) axis
+    floats to whatever the aspect ratio demands and may end up with zero
+    bezel when the source's short dimension already fits the aspect.
+
+    Returns the ``(width, height)`` of the written image.
     """
     with Image.open(src) as raw:
         img = ImageOps.exif_transpose(raw)
@@ -63,12 +68,17 @@ def pad_to_aspect(
         img = img.convert("RGB")
     src_w, src_h = img.size
     target_ratio = target_w / target_h
-
     inner = 1.0 - 2.0 * safe_margin
-    safe_w = src_w / inner
-    safe_h = src_h / inner
-    canvas_w_f = max(safe_w, safe_h * target_ratio)
-    canvas_h_f = canvas_w_f / target_ratio
+
+    if target_ratio >= 1.0:
+        # Landscape target — guarantee bezel on canvas width (L/R edges).
+        # Short-axis (height) just has to fit the source and the aspect.
+        canvas_w_f = max(src_w / inner, src_h * target_ratio)
+        canvas_h_f = canvas_w_f / target_ratio
+    else:
+        # Portrait target — guarantee bezel on canvas height (T/B edges).
+        canvas_h_f = max(src_h / inner, src_w / target_ratio)
+        canvas_w_f = canvas_h_f * target_ratio
     new_w, new_h = round(canvas_w_f), round(canvas_h_f)
 
     canvas = Image.new("RGB", (new_w, new_h), (0, 0, 0))
