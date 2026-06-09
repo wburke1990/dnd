@@ -12,11 +12,14 @@ from dnd_tools.fix_oneworld import (
     ABAG_GUID,
     BUTTON_HOME_NEW,
     BUTTON_HOME_OLD,
+    DEFAULT_SELECTED_SBX,
     HUB_GUID,
     ORPHAN_DELETE_GUIDS,
     ORPHAN_STUBS_KEEP,
+    WBASE_GUID,
     delete_contained,
     delete_jotbase_lines,
+    ensure_wbase_default,
     find_object,
     inject_stubs,
     patch_button_home,
@@ -122,6 +125,20 @@ def test_delete_jotbase_lines_empty_set_is_noop() -> None:
     assert out == text
 
 
+def test_ensure_wbase_default_seeds_empty() -> None:
+    wbase: dict[str, Any] = {"Description": ""}
+    changed = ensure_wbase_default(wbase, "abcdef")
+    assert changed
+    assert wbase["Description"] == "abcdef"
+
+
+def test_ensure_wbase_default_preserves_existing() -> None:
+    wbase: dict[str, Any] = {"Description": "feedfa"}
+    changed = ensure_wbase_default(wbase, "abcdef")
+    assert not changed
+    assert wbase["Description"] == "feedfa"
+
+
 def test_delete_contained_filters_by_guid() -> None:
     abag: dict[str, Any] = {
         "ContainedObjects": [
@@ -157,6 +174,11 @@ def test_patch_save_end_to_end(tmp_path: Path) -> None:
                     {"GUID": "d8b5f5", "Name": "Custom_Token"},
                 ],
             },
+            {
+                "GUID": WBASE_GUID,
+                "Name": "Custom_Token",
+                "Description": "",
+            },
         ],
     }
     in_path = tmp_path / "in.json"
@@ -179,3 +201,6 @@ def test_patch_save_end_to_end(tmp_path: Path) -> None:
     assert "Wizards_Tower" in abag["LuaScript"]
     for guid in ORPHAN_DELETE_GUIDS:
         assert f"--{guid}," not in abag["LuaScript"]
+    # wBase seeded so ContinueUnit's `aBase.getGUID()` won't nil-deref.
+    wbase = next(o for o in written["ObjectStates"] if o["GUID"] == WBASE_GUID)
+    assert wbase["Description"] == DEFAULT_SELECTED_SBX

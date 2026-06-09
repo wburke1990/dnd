@@ -39,6 +39,12 @@ from typing import Any
 
 HUB_GUID = "55c90c"
 ABAG_GUID = "966e1c"
+WBASE_GUID = "1053f5"
+# wBase.Description holds the GUID of the "currently selected" SBx token.
+# If empty when the Hub loads, ContinueUnit nil-derefs aBase.getGUID().
+# Wizards_Tower is the only map with a full content bag, so it's the safe
+# default to pre-select.
+DEFAULT_SELECTED_SBX = "811bc1"
 
 # Generic Steam URL the existing Base/Name-of-Map entries already point at;
 # repurposed here as the "image missing" placeholder for unrecoverable maps.
@@ -257,6 +263,20 @@ def delete_contained(abag: dict[str, Any], guids: frozenset[str]) -> int:
     return before - len(abag["ContainedObjects"])
 
 
+def ensure_wbase_default(wbase: dict[str, Any], default_guid: str) -> bool:
+    """Set wBase.Description to a valid SBx GUID if it's currently empty.
+
+    The Hub's onLoad reads ``wBase.Description`` to recover the previously
+    selected SBx token. When it's empty, ``aBase`` is nil at load time and
+    ``ContinueUnit`` nil-derefs ``aBase.getGUID()``. Seeding a default GUID
+    makes the Hub boot cleanly. Returns True if Description was changed.
+    """
+    if wbase.get("Description"):
+        return False
+    wbase["Description"] = default_guid
+    return True
+
+
 def patch_save(in_path: Path, out_path: Path) -> None:
     raw = in_path.read_text()
     save = json.loads(raw)
@@ -267,6 +287,9 @@ def patch_save(in_path: Path, out_path: Path) -> None:
     abag = find_object(states, ABAG_GUID)
     if abag is None:
         raise RuntimeError(f"aBag object {ABAG_GUID!r} not found in {in_path}")
+    wbase = find_object(states, WBASE_GUID)
+    if wbase is None:
+        raise RuntimeError(f"wBase object {WBASE_GUID!r} not found in {in_path}")
 
     hub_lua = hub.get("LuaScript")
     if not isinstance(hub_lua, str):
@@ -282,6 +305,7 @@ def patch_save(in_path: Path, out_path: Path) -> None:
 
     tokens_removed = delete_contained(abag, ORPHAN_DELETE_GUIDS)
     added, skipped = inject_stubs(abag, ORPHAN_STUBS_KEEP)
+    wbase_changed = ensure_wbase_default(wbase, DEFAULT_SELECTED_SBX)
 
     # Bump SaveName so it shows up distinctly in the TTS save browser.
     current_name = save.get("SaveName", "")
@@ -293,6 +317,8 @@ def patch_save(in_path: Path, out_path: Path) -> None:
     print(f"Hub ButtonHome: {'patched' if lua_changed else 'already patched (noop)'}")
     print(f"JotBase: {jotbase_removed} orphan line(s) removed")
     print(f"aBag stubs: {added} added, {skipped} skipped, {tokens_removed} deleted")
+    wbase_msg = f"seeded with {DEFAULT_SELECTED_SBX}" if wbase_changed else "already set"
+    print(f"wBase.Description: {wbase_msg}")
     print(f"Wrote {out_path}")
 
 
