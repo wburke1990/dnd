@@ -42,7 +42,7 @@ def test_pad_taller_source_adds_horizontal_bars(tmp_path: Path) -> None:
     dst = tmp_path / "padded.png"
     # Source is taller than 1600:945 -> needs horizontal padding.
     _solid(src, 945, 945)
-    w, h = pad_to_aspect(src, dst, 1600, 945)
+    w, h = pad_to_aspect(src, dst, 1600, 945, safe_margin=0.0)
     assert (w, h) == (1600, 945)
     out = Image.open(dst).convert("RGB")
     # Corners should be black (padding), center should be source color.
@@ -56,7 +56,7 @@ def test_pad_wider_source_adds_vertical_bars(tmp_path: Path) -> None:
     dst = tmp_path / "padded.png"
     # Source is wider than 1600:945 -> needs vertical padding.
     _solid(src, 1600, 400)
-    w, h = pad_to_aspect(src, dst, 1600, 945)
+    w, h = pad_to_aspect(src, dst, 1600, 945, safe_margin=0.0)
     assert (w, h) == (1600, 945)
     out = Image.open(dst).convert("RGB")
     assert out.getpixel((0, 0)) == (0, 0, 0)
@@ -67,8 +67,51 @@ def test_pad_matching_source_unchanged_size(tmp_path: Path) -> None:
     src = tmp_path / "exact.png"
     dst = tmp_path / "padded.png"
     _solid(src, 1600, 945)
-    w, h = pad_to_aspect(src, dst, 1600, 945)
+    w, h = pad_to_aspect(src, dst, 1600, 945, safe_margin=0.0)
     assert (w, h) == (1600, 945)
+
+
+def test_safe_margin_inflates_canvas_uniformly(tmp_path: Path) -> None:
+    """With safe_margin > 0, a source already at target ratio still gets bars."""
+    src = tmp_path / "exact.png"
+    dst = tmp_path / "padded.png"
+    _solid(src, 1600, 945)
+    w, h = pad_to_aspect(src, dst, 1600, 945, safe_margin=0.05)
+    # Canvas should be source / (1 - 2*0.05) = source / 0.9 on each axis.
+    assert (w, h) == (round(1600 / 0.9), round(945 / 0.9))
+    # Aspect ratio preserved within rounding.
+    assert abs(w / h - 1600 / 945) < 0.01
+    out = Image.open(dst).convert("RGB")
+    # Edges are black, center is source color.
+    assert out.getpixel((0, 0)) == (0, 0, 0)
+    assert out.getpixel((w // 2, h // 2)) == (255, 0, 0)
+
+
+def test_safe_margin_landscape_source(tmp_path: Path) -> None:
+    """Wide source: short axis still gets ≥5% margin; long axis may have more."""
+    src = tmp_path / "wide.png"
+    dst = tmp_path / "padded.png"
+    _solid(src, 3760, 2895)  # ratio 1.299, narrower than 1.693
+    w, h = pad_to_aspect(src, dst, 1600, 945, safe_margin=0.05)
+    # Short axis (height): margin on top/bottom should be ~5% of canvas height.
+    top_margin = (h - 2895) // 2
+    assert top_margin >= round(0.05 * h) - 1
+    # Aspect ratio preserved.
+    assert abs(w / h - 1600 / 945) < 0.01
+
+
+def test_safe_margin_default_baked_in(tmp_path: Path) -> None:
+    """The CLI without flags should always leave a border, even on exact-ratio sources."""
+    src_dir = tmp_path / "maps"
+    out_dir = tmp_path / "padded"
+    src_dir.mkdir()
+    _solid(src_dir / "exact.png", 1600, 945)
+
+    runner = CliRunner()
+    result = runner.invoke(main, ["--input", str(src_dir), "--output", str(out_dir)])
+    assert result.exit_code == 0, result.output
+    w, h = Image.open(out_dir / "exact.png").size
+    assert w > 1600 and h > 945, f"expected safe-margin inflation, got {w}x{h}"
 
 
 def test_cli_processes_directory(tmp_path: Path) -> None:
@@ -88,8 +131,12 @@ def test_cli_processes_directory(tmp_path: Path) -> None:
     assert result.exit_code == 0, result.output
     assert (out_dir / "a.png").exists()
     assert (out_dir / "b.png").exists()
-    assert Image.open(out_dir / "a.png").size == (1600, 945)
-    assert Image.open(out_dir / "b.png").size == (1600, 945)
+    # Default safe margin inflates beyond the bare 1600x945 frame.
+    aw, ah = Image.open(out_dir / "a.png").size
+    bw, bh = Image.open(out_dir / "b.png").size
+    assert abs(aw / ah - 1600 / 945) < 0.01
+    assert abs(bw / bh - 1600 / 945) < 0.01
+    assert aw > 1600 and bw > 1600
 
 
 def test_cli_skips_existing_without_force(tmp_path: Path) -> None:
@@ -145,7 +192,10 @@ def test_cli_custom_ratio(tmp_path: Path) -> None:
         ["--input", str(src_dir), "--output", str(out_dir), "--ratio", "16:9"],
     )
     assert result.exit_code == 0
-    assert Image.open(out_dir / "a.png").size == (round(100 * 16 / 9), 100)
+    w, h = Image.open(out_dir / "a.png").size
+    # Aspect should be 16:9 within rounding; safe margin inflates beyond source.
+    assert abs(w / h - 16 / 9) < 0.01
+    assert h >= 100 and w > 100
 
 
 def test_cli_auto_orient_keeps_portrait_portrait(tmp_path: Path) -> None:
@@ -153,7 +203,7 @@ def test_cli_auto_orient_keeps_portrait_portrait(tmp_path: Path) -> None:
     out_dir = tmp_path / "padded"
     src_dir.mkdir()
     # Portrait source (1024x1536, ratio 0.667). Target is 1600:945 landscape;
-    # auto-orient should flip to 945:1600 portrait, producing 1024x1733.
+    # auto-orient should flip to 945:1600 portrait. Safe margin inflates both axes.
     _solid(src_dir / "tall.png", 1024, 1536)
 
     runner = CliRunner()
@@ -161,7 +211,10 @@ def test_cli_auto_orient_keeps_portrait_portrait(tmp_path: Path) -> None:
     assert result.exit_code == 0, result.output
     out_w, out_h = Image.open(out_dir / "tall.png").size
     assert out_h > out_w, f"expected portrait, got {out_w}x{out_h}"
-    assert (out_w, out_h) == (1024, round(1024 * 1600 / 945))
+    # Canvas aspect is 945:1600 (portrait inverse of OneWorld).
+    assert abs(out_w / out_h - 945 / 1600) < 0.01
+    # Both axes inflated past the source by the safe margin.
+    assert out_w > 1024 and out_h > 1536
 
 
 def test_cli_no_auto_orient_forces_landscape(tmp_path: Path) -> None:
@@ -189,7 +242,10 @@ def test_cli_auto_orient_leaves_landscape_alone(tmp_path: Path) -> None:
     runner = CliRunner()
     result = runner.invoke(main, ["--input", str(src_dir), "--output", str(out_dir)])
     assert result.exit_code == 0, result.output
-    assert Image.open(out_dir / "wide.png").size == (1600, 945)
+    w, h = Image.open(out_dir / "wide.png").size
+    # Landscape aspect preserved; safe margin inflates beyond bare 1600x945.
+    assert abs(w / h - 1600 / 945) < 0.01
+    assert w > h
 
 
 def test_cli_empty_input_dir(tmp_path: Path) -> None:

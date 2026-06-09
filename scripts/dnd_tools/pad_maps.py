@@ -18,6 +18,11 @@ DEFAULT_INPUT = REPO_ROOT / "maps"
 DEFAULT_OUTPUT = REPO_ROOT / "maps" / "padded"
 DEFAULT_RATIO = (1600, 945)
 SUPPORTED_SUFFIXES = {".jpg", ".jpeg", ".png", ".webp"}
+# Fraction of black border to guarantee on every side of the canvas.
+# OneWorld's table model clips the short edges of the displayed token; baking
+# this inset in keeps user content out of the clipped strip regardless of
+# orientation. Applied uniformly so source aspect is preserved.
+SAFE_MARGIN_FRAC = 0.05
 
 
 def parse_ratio(text: str) -> tuple[int, int]:
@@ -40,12 +45,15 @@ def pad_to_aspect(
     dst: Path,
     target_w: int,
     target_h: int,
+    safe_margin: float = SAFE_MARGIN_FRAC,
 ) -> tuple[int, int]:
-    """Pad ``src`` with black bars so its aspect ratio == ``target_w:target_h``.
+    """Pad ``src`` so its canvas matches ``target_w:target_h`` with a safe margin.
 
     Honors EXIF orientation so phone photos land right-side-up. Source
-    pixels are preserved at native resolution; only the canvas grows.
-    Returns the ``(width, height)`` of the written image.
+    pixels are preserved at native resolution; only the canvas grows. The
+    canvas is sized so at least ``safe_margin`` of each side is black —
+    when the source already matches the target aspect, this still produces
+    a uniform border. Returns the ``(width, height)`` of the written image.
     """
     with Image.open(src) as raw:
         img = ImageOps.exif_transpose(raw)
@@ -54,16 +62,13 @@ def pad_to_aspect(
         img = img.convert("RGB")
     src_w, src_h = img.size
     target_ratio = target_w / target_h
-    src_ratio = src_w / src_h
 
-    if abs(src_ratio - target_ratio) < 1e-6:
-        new_w, new_h = src_w, src_h
-    elif src_ratio < target_ratio:
-        new_w = round(src_h * target_ratio)
-        new_h = src_h
-    else:
-        new_w = src_w
-        new_h = round(src_w / target_ratio)
+    inner = 1.0 - 2.0 * safe_margin
+    safe_w = src_w / inner
+    safe_h = src_h / inner
+    canvas_w_f = max(safe_w, safe_h * target_ratio)
+    canvas_h_f = canvas_w_f / target_ratio
+    new_w, new_h = round(canvas_w_f), round(canvas_h_f)
 
     canvas = Image.new("RGB", (new_w, new_h), (0, 0, 0))
     offset = ((new_w - src_w) // 2, (new_h - src_h) // 2)
