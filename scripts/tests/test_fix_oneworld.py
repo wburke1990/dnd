@@ -13,7 +13,10 @@ from dnd_tools.fix_oneworld import (
     BUTTON_HOME_NEW,
     BUTTON_HOME_OLD,
     HUB_GUID,
-    ORPHAN_STUBS,
+    ORPHAN_DELETE_GUIDS,
+    ORPHAN_STUBS_KEEP,
+    delete_contained,
+    delete_jotbase_lines,
     find_object,
     inject_stubs,
     patch_button_home,
@@ -61,25 +64,25 @@ def test_inject_stubs_skips_existing() -> None:
     abag: dict[str, Any] = {
         "GUID": "abc123",
         "ContainedObjects": [
-            {"GUID": ORPHAN_STUBS[0]["guid"], "Name": "Custom_Token"},
+            {"GUID": ORPHAN_STUBS_KEEP[0]["guid"], "Name": "Custom_Token"},
         ],
     }
-    added, skipped = inject_stubs(abag, ORPHAN_STUBS)
+    added, skipped = inject_stubs(abag, ORPHAN_STUBS_KEEP)
     assert skipped == 1
-    assert added == len(ORPHAN_STUBS) - 1
+    assert added == len(ORPHAN_STUBS_KEEP) - 1
     # All declared orphan GUIDs should now be present.
     guids = {o["GUID"] for o in abag["ContainedObjects"]}
-    for s in ORPHAN_STUBS:
+    for s in ORPHAN_STUBS_KEEP:
         assert s["guid"] in guids
 
 
 def test_inject_stubs_idempotent() -> None:
     abag: dict[str, Any] = {"GUID": "abc123", "ContainedObjects": []}
-    added1, _ = inject_stubs(abag, ORPHAN_STUBS)
-    assert added1 == len(ORPHAN_STUBS)
-    added2, skipped2 = inject_stubs(abag, ORPHAN_STUBS)
+    added1, _ = inject_stubs(abag, ORPHAN_STUBS_KEEP)
+    assert added1 == len(ORPHAN_STUBS_KEEP)
+    added2, skipped2 = inject_stubs(abag, ORPHAN_STUBS_KEEP)
     assert added2 == 0
-    assert skipped2 == len(ORPHAN_STUBS)
+    assert skipped2 == len(ORPHAN_STUBS_KEEP)
 
 
 def test_find_object_nested() -> None:
@@ -90,7 +93,53 @@ def test_find_object_nested() -> None:
     assert find_object(states, "999") is None
 
 
+def test_delete_jotbase_lines_removes_target_guids() -> None:
+    jotbase = (
+        "--d8b5f5,Base,scale,size,0,0,0,1,\n"
+        "--811bc1,Wizards_Tower,scale,size,0,0,0,1,\n"
+        "--d8b5f5,Base,scale,size,0,0,0,1,\n"  # duplicate
+        "--01d3f9,Tomb_1,scale,size,0,0,0,1,\n"
+    )
+    out, removed = delete_jotbase_lines(jotbase, frozenset({"d8b5f5"}))
+    assert removed == 2
+    assert "Wizards_Tower" in out
+    assert "Tomb_1" in out
+    assert "Base" not in out
+
+
+def test_delete_jotbase_lines_preserves_crlf() -> None:
+    jotbase = "--d8b5f5,Base,a,b,0,0,0,1,\r\n--811bc1,Wizards_Tower,a,b,0,0,0,1,\r\n"
+    out, removed = delete_jotbase_lines(jotbase, frozenset({"d8b5f5"}))
+    assert removed == 1
+    assert "\r\n" in out
+    assert "Wizards_Tower" in out
+
+
+def test_delete_jotbase_lines_empty_set_is_noop() -> None:
+    text = "--d8b5f5,Base,a,b,0,0,0,1,\n"
+    out, removed = delete_jotbase_lines(text, frozenset())
+    assert removed == 0
+    assert out == text
+
+
+def test_delete_contained_filters_by_guid() -> None:
+    abag: dict[str, Any] = {
+        "ContainedObjects": [
+            {"GUID": "d8b5f5"},
+            {"GUID": "811bc1"},
+            {"GUID": "d8b5f5"},
+        ],
+    }
+    removed = delete_contained(abag, frozenset({"d8b5f5"}))
+    assert removed == 2
+    assert abag["ContainedObjects"] == [{"GUID": "811bc1"}]
+
+
 def test_patch_save_end_to_end(tmp_path: Path) -> None:
+    jotbase_lua = (
+        "".join(f"--{guid},DeadMap,a,b,0,0,0,1,\n" for guid in ORPHAN_DELETE_GUIDS)
+        + "--811bc1,Wizards_Tower,a,b,0,0,0,1,\n"
+    )
     save = {
         "SaveName": "MyTest",
         "ObjectStates": [
@@ -102,7 +151,11 @@ def test_patch_save_end_to_end(tmp_path: Path) -> None:
             {
                 "GUID": ABAG_GUID,
                 "Name": "Custom_Model_Bag",
-                "ContainedObjects": [],
+                "LuaScript": jotbase_lua,
+                "ContainedObjects": [
+                    # Pre-existing stub that should be deleted by the run.
+                    {"GUID": "d8b5f5", "Name": "Custom_Token"},
+                ],
             },
         ],
     }
@@ -117,4 +170,12 @@ def test_patch_save_end_to_end(tmp_path: Path) -> None:
     hub = next(o for o in written["ObjectStates"] if o["GUID"] == HUB_GUID)
     assert BUTTON_HOME_NEW in hub["LuaScript"]
     abag = next(o for o in written["ObjectStates"] if o["GUID"] == ABAG_GUID)
-    assert len(abag["ContainedObjects"]) == len(ORPHAN_STUBS)
+    # Stale stub deleted, KEEP stubs added.
+    guids = {o["GUID"] for o in abag["ContainedObjects"]}
+    assert "d8b5f5" not in guids
+    for s in ORPHAN_STUBS_KEEP:
+        assert s["guid"] in guids
+    # JotBase lines for deleted GUIDs are gone; Wizards_Tower stays.
+    assert "Wizards_Tower" in abag["LuaScript"]
+    for guid in ORPHAN_DELETE_GUIDS:
+        assert f"--{guid}," not in abag["LuaScript"]

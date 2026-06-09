@@ -32,6 +32,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -46,19 +47,12 @@ PLACEHOLDER_URL = (
     "973A9796374893C1BA557B320203F3B88727C93C/"
 )
 
-ORPHAN_STUBS: list[dict[str, str]] = [
-    # GUID, Nickname-suffix (no leading SBx_), ImageURL.
-    # 5 recovered from TS_AutoSave.
-    {
-        "guid": "d8b5f5",
-        "map": "Base",
-        "image": PLACEHOLDER_URL,
-    },
-    {
-        "guid": "206dd9",
-        "map": "Name of Map",
-        "image": PLACEHOLDER_URL,
-    },
+# Orphan SBx tokens to stub back in with their recovered Steam URLs. Only
+# entries whose recovered art is actually useful — the recovered images for
+# Base, Name of Map, 1Main, Garden Temple, Test map, and Castle turned out
+# to be text-only placeholders, so those get deleted (see ORPHAN_DELETE_GUIDS)
+# rather than stubbed.
+ORPHAN_STUBS_KEEP: list[dict[str, str]] = [
     {
         "guid": "01d3f9",
         "map": "Tomb_1",
@@ -83,12 +77,27 @@ ORPHAN_STUBS: list[dict[str, str]] = [
             "BECF6E329C2A81C8076C542EB8D56B056F401E07/"
         ),
     },
-    # 4 unrecoverable -> placeholder URL.
-    {"guid": "a8acde", "map": "1Main", "image": PLACEHOLDER_URL},
-    {"guid": "8fbcf1", "map": "Garden_Temple", "image": PLACEHOLDER_URL},
-    {"guid": "dd03a9", "map": "Test_map", "image": PLACEHOLDER_URL},
-    {"guid": "ffb7da", "map": "Castle", "image": PLACEHOLDER_URL},
 ]
+
+# JotBase entries to delete entirely: their recovered art (or stubbed
+# placeholder) had no usable content. Matched by SBx GUID against both
+# `aBag.LuaScript` JotBase lines and `aBag.ContainedObjects` so any
+# previously-injected stubs get cleaned up too. The `Base` GUID appears
+# twice in JotBase (a Hub bug); both lines come out.
+ORPHAN_DELETE_GUIDS: frozenset[str] = frozenset(
+    {
+        "d8b5f5",  # Base (x2)
+        "206dd9",  # Name of Map
+        "a8acde",  # 1Main
+        "8fbcf1",  # Garden Temple
+        "dd03a9",  # Test map
+        "ffb7da",  # Castle
+    }
+)
+
+# Matches a JotBase line: `--<6-hex-guid>,...`. Tolerates leading whitespace
+# from indented Lua but the Hub writes them at column 0.
+_JOTBASE_LINE_RE = re.compile(r"^\s*--([0-9a-f]{6}),")
 
 BUTTON_HOME_OLD = """    if treeMap[0] < 2 or not aBase then
         if treeMap[1] then
@@ -215,6 +224,39 @@ def inject_stubs(
     return added, skipped
 
 
+def delete_jotbase_lines(lua: str, guids: frozenset[str]) -> tuple[str, int]:
+    """Strip JotBase comment lines whose SBx GUID is in the delete set.
+
+    Preserves the source file's CRLF/LF line-ending convention.
+    """
+    if not guids:
+        return lua, 0
+    uses_crlf = "\r\n" in lua
+    lines = lua.replace("\r\n", "\n").split("\n")
+    kept: list[str] = []
+    removed = 0
+    for line in lines:
+        m = _JOTBASE_LINE_RE.match(line)
+        if m and m.group(1) in guids:
+            removed += 1
+            continue
+        kept.append(line)
+    out = "\n".join(kept)
+    if uses_crlf:
+        out = out.replace("\n", "\r\n")
+    return out, removed
+
+
+def delete_contained(abag: dict[str, Any], guids: frozenset[str]) -> int:
+    """Remove ContainedObjects whose GUID is in the delete set. Returns count."""
+    contained = abag.get("ContainedObjects") or []
+    before = len(contained)
+    abag["ContainedObjects"] = [
+        o for o in contained if not (isinstance(o, dict) and o.get("GUID") in guids)
+    ]
+    return before - len(abag["ContainedObjects"])
+
+
 def patch_save(in_path: Path, out_path: Path) -> None:
     raw = in_path.read_text()
     save = json.loads(raw)
@@ -231,7 +273,15 @@ def patch_save(in_path: Path, out_path: Path) -> None:
         raise RuntimeError("Hub.LuaScript is missing or not a string")
     new_lua, lua_changed = patch_button_home(hub_lua)
     hub["LuaScript"] = new_lua
-    added, skipped = inject_stubs(abag, ORPHAN_STUBS)
+
+    abag_lua = abag.get("LuaScript")
+    if not isinstance(abag_lua, str):
+        raise RuntimeError("aBag.LuaScript is missing or not a string")
+    new_abag_lua, jotbase_removed = delete_jotbase_lines(abag_lua, ORPHAN_DELETE_GUIDS)
+    abag["LuaScript"] = new_abag_lua
+
+    tokens_removed = delete_contained(abag, ORPHAN_DELETE_GUIDS)
+    added, skipped = inject_stubs(abag, ORPHAN_STUBS_KEEP)
 
     # Bump SaveName so it shows up distinctly in the TTS save browser.
     current_name = save.get("SaveName", "")
@@ -241,7 +291,8 @@ def patch_save(in_path: Path, out_path: Path) -> None:
     out_path.write_text(json.dumps(save))
 
     print(f"Hub ButtonHome: {'patched' if lua_changed else 'already patched (noop)'}")
-    print(f"aBag stubs: {added} added, {skipped} skipped (already present)")
+    print(f"JotBase: {jotbase_removed} orphan line(s) removed")
+    print(f"aBag stubs: {added} added, {skipped} skipped, {tokens_removed} deleted")
     print(f"Wrote {out_path}")
 
 
