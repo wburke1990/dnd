@@ -21,8 +21,9 @@ SUPPORTED_SUFFIXES = {".jpg", ".jpeg", ".png", ".webp"}
 # Fraction of black border to guarantee on every side of the canvas.
 # OneWorld's table model clips the short edges of the displayed token; baking
 # this inset in keeps user content out of the clipped strip regardless of
-# orientation. Applied uniformly so source aspect is preserved.
-SAFE_MARGIN_FRAC = 0.05
+# orientation. Applied uniformly so source aspect is preserved. Bumped from
+# 5% to 10% after 5% still let the short edges get clipped in play.
+SAFE_MARGIN_FRAC = 0.10
 
 
 def parse_ratio(text: str) -> tuple[int, int]:
