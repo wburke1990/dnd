@@ -24,12 +24,18 @@ guid = "guid"
 
 [files]
 # TTS save files are large JSON blobs — vendor-shaped, not worth scanning.
+# Patterns need to match against the absolute path typos walks, so the
+# leading "**/" is load-bearing — bare "tts/saves/**" matches nothing.
 extend-exclude = [
     "uv.lock",
-    "tts/saves/**",
-    "tts/saves-mirror/**",
-    "tts/mods-mirror/**",
-    "tts/assets/cache/**",
+    "**/tts/saves/**",
+    "**/tts/saves-mirror/**",
+    "**/tts/mods-mirror/**",
+    "**/tts/assets/cache/**",
+    # Per-object Lua/XML/manifest extracted from saves — upstream-shaped
+    # content (Borbold's OneWorld code, user-given nicknames). Our own
+    # edits in here are small and unlikely to introduce real typos.
+    "**/tts/lua/**",
     "campaign/*.db",
     "*.db",
 ]
