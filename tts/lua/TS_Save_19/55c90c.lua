@@ -211,6 +211,19 @@ function TogleEnable()
             vBaseOn = true vBase.call("SetUIText")
             r1, r3, r90 = 0, 0, 0
             rotBase() Wait.time(|| SetUI(), 0.1)
+            -- Init landed with no aBase because the home SBx was stowed in
+            -- aBag rather than sitting on the table. Pull it out so we open
+            -- to the registered home map (treeMap[1] / aBag.Description) by
+            -- default instead of the empty-base view — which otherwise lets
+            -- the next ButtonHome click auto-load whatever map happens to
+            -- be first in aBag.LuaScript.
+            if not aBase and aBag then
+                local homeGuid = string.sub(aBag.getDescription(), 10)
+                if homeGuid and homeGuid ~= "" then
+                    wBase.setDescription("")
+                    Wait.time(|| GetBase(homeGuid), 0.1)
+                end
+            end
         end, 0.25)
         return
     end
