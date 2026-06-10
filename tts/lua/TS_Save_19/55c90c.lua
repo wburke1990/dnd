@@ -660,7 +660,21 @@ function ButtonBack()
     if not vBaseOn then return end
     linkToMap = nil Wait.time(|| SetUI(), 0.1)
     if treeMap[0] < 3 then ButtonHome() return end
-    if not aBase then GetBase(treeMap[treeMap[0]]) return end
+    if not aBase then
+        -- Same logic as ButtonHome's no-aBase branch: drop the user back
+        -- on the registered home (aBag.Description) rather than the last
+        -- entry in treeMap (which is just whatever sits at the end of
+        -- aBag.LuaScript — Desert here, not the configured default).
+        if aBag then
+            local homeGuid = string.sub(aBag.getDescription(), 10)
+            if homeGuid and homeGuid ~= "" then
+                GetBase(homeGuid)
+                return
+            end
+        end
+        GetBase(treeMap[treeMap[0]])
+        return
+    end
     treeMap[-1] = treeMap[-1] - 1
     mvPoint()
 end
