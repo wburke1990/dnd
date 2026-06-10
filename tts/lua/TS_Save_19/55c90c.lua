@@ -634,8 +634,19 @@ function ButtonHome()
         return
     end
     if not aBase then
-        -- Show-All cleared aBase; advance to the second registered map
-        -- (treeMap[1] is "home", treeMap[2] is the first real entry).
+        -- Show-All cleared aBase; drop the user back on the registered
+        -- home (aBag.Description, format "_OW_aBaG_<guid>"), matching
+        -- Init's behavior. The original code advanced to treeMap[2],
+        -- which is whatever happens to come first in aBag.LuaScript —
+        -- Tomb_2 here, not the configured default. Fall back to
+        -- treeMap[2] if aBag.Description is unset.
+        if aBag then
+            local homeGuid = string.sub(aBag.getDescription(), 10)
+            if homeGuid and homeGuid ~= "" then
+                GetBase(homeGuid)
+                return
+            end
+        end
         if treeMap[2] then GetBase(treeMap[2]) end
         return
     end
