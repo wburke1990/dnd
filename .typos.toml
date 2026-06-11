@@ -36,6 +36,9 @@ extend-exclude = [
     # content (Borbold's OneWorld code, user-given nicknames). Our own
     # edits in here are small and unlikely to introduce real typos.
     "**/tts/lua/**",
+    # Test fixtures contain the literal OneWorld "_OW_aBaG_..." prefix,
+    # which typos parses as a/Ba/G and flags Ba as a typo of By/Be.
+    "**/scripts/tests/test_import_ow_map.py",
     "campaign/*.db",
     "*.db",
 ]
