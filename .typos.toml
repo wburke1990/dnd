@@ -2,6 +2,15 @@
 # https://github.com/crate-ci/typos
 
 [default.extend-words]
+# OneWorld bag-name prefix "_OW_aBaG_" / "_OW_xBaG_": typos splits the
+# identifier as a/Ba/G and flags "Ba" as a typo of "By"/"Be". This
+# repeats in code, fixtures, and docs — whitelist the word once.
+Ba = "Ba"
+# OneWorld function names with upstream typos that we must reference
+# verbatim in docs / commit messages: TogleEnable (should be "Toggle"),
+# ParceData (should be "Parse").
+Togle = "Togle"
+Parce = "Parce"
 # D&D / TTRPG vocabulary that typos mis-flags.
 tiefling = "tiefling"
 tieflings = "tieflings"
