@@ -171,6 +171,14 @@ tts pack   <save>         # re-inject edited Lua/XmlUI into the save
 tts combine A B -o OUT    # splice ObjectStates from two saves
 tts assets backup <save>  # download every asset URL into the local cache
 tts assets rehost <save>  # rewrite URLs to GitHub Raw so links can't break
+
+pad-maps                  # letterbox maps/*.{jpg,png} → maps/padded/
+                          # (OW 1600x945 canvas, 10% long-axis margin).
+                          # Idempotent: prints "skip" for already-padded
+                          # files, "padded" for new ones. Use this to
+                          # find what needs padding — do NOT write
+                          # for-loops probing maps/ vs maps/padded/
+                          # (they hit a shell-syntax permission prompt).
 ```
 
 ## OneWorld (OW) Hub — fork notes
