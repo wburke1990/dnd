@@ -181,77 +181,24 @@ pad-maps                  # letterbox maps/*.{jpg,png} → maps/padded/
                           # (they hit a shell-syntax permission prompt).
 ```
 
-## OneWorld (OW) Hub — fork notes
+## Reference docs
 
-The OW Hub Custom_Token (GUID `55c90c`, nickname `OW_Hub`) carries four
-local edits on top of Borbold's upstream OneWorld code, in both
-`tts/lua/TS_Save_18/55c90c.lua` (Nila) and `tts/lua/TS_Save_19/55c90c.lua`
-(staging):
+Detailed references for specific subsystems live under `docs/`. CLAUDE.md
+keeps only the must-know; load these on demand when the task touches them:
 
-1. `ButtonNew` spawns Custom_Token with a hard-coded URL
-   (`raw.githubusercontent.com/ColColonCleaner/TTSOneWorld/main/table_wood.jpg`)
-   instead of `CONFIG.IMAGE_ASSETS.NEW_MAP_TOKEN`.
-2. `TogleEnable`'s first-activate branch (`not vBaseOn`) takes the home SBx
-   out of `aBag` if `PutVariable` left `aBase` nil. Fixes the upstream bug
-   where Init lands in "no map" view when the home SBx is stowed.
-3. `ButtonHome` no-aBase branch defaults to `GetBase(homeGuid)` instead of
-   `treeMap[2]` (which is just the first line of `aBag.LuaScript` —
-   Tomb_2).
-4. `ButtonBack` no-aBase branch likewise defaults to home instead of the
-   last `treeMap` entry.
-
-`homeGuid` in all four branches is derived from `aBag.Description` via
-`string.sub(desc, 10)` (the prefix is the 9-char `_OW_aBaG_`). **Don't
-re-derive a clean Hub from upstream — you'll lose these four fixes.** If
-edits land in one save, copy `55c90c.lua` to the other and re-pack to
-keep them in sync.
-
-### State model — where Init/Home/current-map state actually lives
-
-OW map-selection state lives in the **save JSON Description fields**, not
-in the Hub's `LuaScriptState`. Stable GUIDs across both Nila and staging:
-
-- Hub `55c90c` · aBag `966e1c` · wBase `1053f5` · vBase `7722b8`
-
-The three load-bearing pointers:
-
-- `aBag.Description = "_OW_aBaG_<guid>"` — the **home** map (treeMap[1]).
-  After the fixes above, this is the one true source for "what map should
-  Init land on".
-- `wBase.Description = "<guid>"` — the **currently selected** SBx.
-  `cbGetBase` updates this every map switch. On `onLoad`, the Hub reseeds
-  `aBase = getObjectFromGUID(wBase.Description)` — which returns nil if
-  the SBx is stowed in `aBag`, hence the fix-2 workaround.
-- `Hub.LuaScriptState.OWEnable` — if true, `onLoad` auto-runs
-  `ContinueUnit` and resumes the saved map without showing the Init
-  button. **Set to false** if you want the user to start at the Init
-  screen.
-
-Stable map GUIDs (registered in `aBag.LuaScript` JotBase lines, format
-`--<guid>,<name>,<scale>,<size>,<r1>,<r3>,<flag>,<r90>,<links>`):
-Nila `afb258`, Wizards_Tower `811bc1`, Maalm `e36d30`, Tomb_2 `ec9fd3`,
-Suartleheim_E `ae806c`, Nila_Labelled `6a8217`, Valley_Kings `14c578`,
-Desert `43c681`, Tomb_0/1/3 `fb0696`/`01d3f9`/`e6834b`.
-
-### Edit workflow for the staging or Nila save
-
-```
-# 1. Unpack — extracts per-object Lua + manifest to tts/lua/<save>/
-uv --directory /Users/wcb/personal/dnd/scripts run tts unpack TS_Save_19
-
-# 2. Edit tts/lua/TS_Save_19/55c90c.lua (or whichever object)
-
-# 3. Pack directly into the live TTS install — don't write to tts/saves/,
-#    which is uncommittable until the LFS-vs-gitignore call.
-uv --directory /Users/wcb/personal/dnd/scripts run tts pack TS_Save_19 \
-  --out "/Users/wcb/Library/Tabletop Simulator/Saves/TS_Save_19.json"
-
-# 4. (If editing non-Lua state) walk ObjectStates + ContainedObjects in
-#    Python and patch Description / LuaScriptState fields. jq can read
-#    them but mutating a 156 MB file in jq is awkward.
-
-# 5. Commit only the changed Lua file — the save JSON stays untracked.
-```
+- **`docs/oneworld.md`** — OneWorld (OW) Hub system. Stable GUIDs
+  (Hub/aBag/mBag/wBase), the four Hub-fork edits diverging from upstream
+  Borbold, the three-piece map-registration model (OWx bag in mBag + SBx
+  token in aBag + JotBase line), and the `import_ow_map` script for
+  adding new maps from donor saves. **Read this before touching anything
+  related to the Hub Lua, map registration, or `tts/lua/TS_Save_18`/`_19`
+  per-object scripts.**
+- **`docs/tts-asset-debug.md`** — How to find broken TTS asset URLs
+  (Player.log location, GET-probe-with-peek pattern, why HEAD requests
+  miss HTML-content-wrong failures, cleanup approach). **Read this when
+  cleaning broken assets out of a save.**
+- **`docs/tts-layout-tooling.md`** — Design notes for combining mods and
+  rescaling layouts.
 
 The big saves (TS_Save_18, _19, _20, _AutoSave) are ~157 MB
 pretty-printed — never `Read` them directly; jq-project specific keys or
