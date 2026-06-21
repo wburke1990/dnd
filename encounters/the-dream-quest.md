@@ -479,7 +479,7 @@ A successful DC 14 Insight check lets a player read something in his expression.
 
 ## The Exit
 
-Before any verdict is visible — before the scales settle one way or the other — Anubis turns to the party and gestures toward a plain wooden door in the side wall of the Hall — completely ordinary against the grandeur of everything around it. He does not speak. The gesture is enough.
+Before any verdict is visible — before the scales settle one way or the other — Anubis turns to the party and gestures toward a plain wooden door in the side wall of the Hall. Completely ordinary against the grandeur of everything around it. He does not speak. The gesture is enough.
 
 The party walks to the door.
 
