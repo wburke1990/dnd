@@ -52,8 +52,13 @@ bones of the people it replaced. Preem's demon-slavery is the engine underneath.
 
 - `[OPEN — which colonial structure is front-and-center vs. background: the dead
   elven empire / Maalm itself / Kuru's Order of Sunne / Preem's demon trade?]`
-- `[OPEN — where the orcs/half-orcs fit; none of the current PCs are orcs — is
-  that intentional?]`
+- **Orcs/half-orcs** *(resolved — see [the Muspel empire & the orc wars](the-muspel-empire.md))*:
+  born ~1,000 years ago when the comet's mutating sickness came down on Musleheim and
+  remade the **Muspel empire's own people** — orcs near the impact, half-orcs at the
+  margins. A Viking-age raiding resurgence (~700–300 ya) has since been beaten back;
+  today the orcs are pushed to Musleheim and **Kuru's Order of Sunne leads the
+  reconquest** (itself colonial). `[OPEN — none of the current PCs are orcs; is that
+  intentional?]`
 
 ### B. Transformation
 Eustace's dragon-change (Dawn Treader), the shapeshifting demons, Aniess's

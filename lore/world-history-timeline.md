@@ -30,7 +30,7 @@ name for a catastrophic pass is **Ragnarok**.
 | 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
-| 6th — The Bad Pass | ~1,000 ya | Blankets the continent in an **alchemical, mutating sickness**; seas swing, islands come and go. |
+| 6th — The Bad Pass | ~1,000 ya | Blankets the continent in an **alchemical, mutating sickness**; comes down on Musleheim and **mutates the Muspel empire's own people into orcs & half-orcs** (see §VI). Seas swing, islands come and go. |
 | 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation. 🔒 Preem means to trigger it early and on purpose. |
 
 *Sources: [campaign overview §5](campaign-overview.md), [Amseh dynasty](amseh-dynasty.md), [the Second Foundation](the-second-foundation.md).*
@@ -165,12 +165,43 @@ conquerors salted the earth — survivors cling on, half-forgotten, in hidden co
 The comet passes of ~4,000 / 3,000 / 2,000 ya **raised the island of Musleheim** from
 the sea by volcanism. The most recent pass, **~1,000 ya, went badly** — an
 **alchemical, mutating sickness** across the continent, with seas swinging and islands
-appearing and vanishing. It is, right now, a wild and unstable time.
+appearing and vanishing. It is, right now, a wild and unstable time. That same pass
+also birthed the orcs — the thread §VI picks up.
 *Source: [campaign overview §5](campaign-overview.md).*
 
 ---
 
-## VI. The Campaign's "Now" — ~1,026 years into the current cycle 🔒
+## VI. The Muspel Empire & the Orc Wars — the last ~1,300 years
+
+The most recent chapter of history, and the one the party lives inside. Norse register
+(Musleheim = **Muspelheim**, the realm of fire).
+
+- **The old Muspel empire (~1,800–1,000 ya).** A settled, fire-cult, sea-going power
+  built on young volcanic Musleheim. **Well over a thousand years ago (~1,300 ya) it
+  colonized Kuru**, planting the men-dominated society Kuru still is — the *first*
+  colonizer of the recent age, and the reason the reconquest below is so bitter.
+- **The mutation (~1,000 ya).** The bad comet pass comes down on Musleheim and remakes
+  the empire's *own people*: **orcs** where the change bit deepest (near the impact),
+  **half-orcs** at the margins (the change taken halfway). The gradient is geographic.
+  By **~700 ya** the orcs and half-orcs have fully emerged and turn outward.
+- **The raiding age (~700 → ~300 ya).** Like the **Vikings**: a few hundred *good
+  years* of fast ships, raids, and conquests across the islands. Not villains —
+  plague-survivors fighting for land in a zero-sum world — but the raids were predation
+  too. Both at once.
+- **The turn (~300 ya → now).** Constant war **hardened the raided** into unified,
+  militarized powers — chief among them **Kuru**, *itself a former Muspel colony*, and
+  its crusader **Order of Sunne**. The orcs are beaten back from most of their holdings.
+- **The present war.** The fighting has reached **Musleheim itself**; the orcs are
+  pushed back to their homeland and **Kuru leads the reconquest** — liberation,
+  vengeance, or colonialism running the other way, the table can decide. Half-orcs,
+  scattered at the margins, are everywhere in the wider world (cf. **Olora** the orc
+  ranger near Aniess).
+
+*Source: [the Muspel empire & the orc wars](the-muspel-empire.md); [Aniess](../characters/aniess.md), [campaign overview](campaign-overview.md).*
+
+---
+
+## VII. The Campaign's "Now" — ~1,026 years into the current cycle 🔒
 
 - The **Second Foundation** reckons the **next Ragnarok ~1 year away.**
 - 🔒 **Preem,** the order's current **First Chair,** does not intend to wait. He means
@@ -199,5 +230,7 @@ appearing and vanishing. It is, right now, a wild and unstable time.
 - `[OPEN]` Exact present-day comet-cycle year (we're "~1,026 in" but the next pass is "~1 year out" — tighten or embrace the slack).
 - `[OPEN]` Whether the ~1,000-ya "bad pass" and a formal "Ragnarok" count are the same event.
 - `[OPEN]` Fate of the Snake Island after the Bleeding Star (damaged? destroyed? still out there?).
+- `[OPEN]` What the pre-mutation Muspel folk were (human, given the half-orcs?), and what else the old empire colonized besides Kuru.
+- `[OPEN]` Where half-orc loyalties fall in the present war, and whether the party's path ever crosses the northern front.
 
 *Companion docs: [campaign overview](campaign-overview.md) is the top-level index; this file is the chronological read of it.*
