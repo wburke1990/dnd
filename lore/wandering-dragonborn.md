@@ -207,6 +207,10 @@ growing to associate with them.** How to run it:
 
 - [characters/blackacre.md](../characters/blackacre.md) — the PC this
   faith is built around; full "Sea-Fever" text.
+- [lore/floating-fleet.md](floating-fleet.md) — the wandering sea-civilization
+  whose dead become these saints.
+- [lore/taniyn-and-lonka.md](taniyn-and-lonka.md) — the creation myth; the
+  saints' endless roaming *is* the nomad worship of Taniyn.
 - [lore/maalm-founding.md](maalm-founding.md) — Beowulf, the Eldest
   Wanderer, and his grave.
 - [handouts/requiem.md](../handouts/requiem.md) — Idris's grave
