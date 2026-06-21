@@ -12,7 +12,6 @@ dependencies = [
 ]
 
 [project.scripts]
-dnd = "dnd_tools.dnd_cli:main"
 tts = "dnd_tools.tts_cli:main"
 pad-maps = "dnd_tools.pad_maps:main"
 

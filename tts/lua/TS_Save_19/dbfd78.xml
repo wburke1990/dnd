@@ -1,0 +1,311 @@
+<Panel>
+    <InputField
+        id="TitleId"
+        width="2200"
+        height="220"
+        position="36 -125 -40"
+        rotation="0 0 180"
+        interactable="false"
+        fontSize="130"
+        fontStyle="Bold"
+        caretWidth  ="10"
+        characterLimit="1012"
+        colors="rgba(1,1,1,0)|#FFFFFFBB|#C8C8C8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="#6b251b"
+        textAlignment="TopLeft"
+        scale="0.05 0.1 0.1"
+
+        onEndEdit="inputEndEdit"/>
+
+    <InputField
+        id="HeaderId"
+        width="1500"
+        height="220"
+        position="-63 -125 -40"
+        rotation="0 0 180"
+        interactable="false"
+        fontSize="110"
+        fontStyle="BoldItalic"
+        font="DND-Font/Tts_dnd_icons-Regular"
+        caretWidth  ="10"
+        colors="rgba(0.7,0.7,0.7,0)|#B8B8B8|#A8A8A8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="White"
+        textAlignment="UpperCenter"
+        scale="0.05 0.1 0.1"
+
+        onEndEdit="inputEndEdit"/>
+
+    <InputField
+        id="InputId"
+        width="10"
+        height="10"
+        position="220 0 -40"
+        rotation="0 0 180"
+        interactable="false"
+        fontSize="100"
+        caretWidth  ="10"
+        colors="#FFFFFFAA|#FFFFFFBB|#C8C8C8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="Black"
+        textAlignment="TopLeft"
+        scale="0.05 0.1 0.1"
+
+        onValueChanged="inputEndEdit"
+        onEndEdit="inputEndEdit"/>
+
+    <Text
+        id="InputTextId"
+        alignment="UpperLeft"
+        position="0 20 -40"
+        color="Black"
+        font="DND-Font/Tts_dnd_icons-Regular"
+        fontStyle="Bold"
+        width="4100"
+        height="1500"
+        fontSize = "100"
+        rotation="180 180 0"
+        scale="0.05 0.1 0.1"/>
+
+    <InputField
+        id="SpellLevelId"
+        width="150"
+        height="300"
+        position="98 -125 -40"
+        rotation="0 0 180"
+        interactable="false"
+        fontSize="200"
+        fontStyle="Bold"
+        caretWidth  ="10"
+        colors="rgba(0.7,0.7,0.7,0)|#B8B8B8|#A8A8A8|rgba(0.78,0.78,0.78,0)"
+        navigation="None"
+        textColor="Black"
+        placeholder="0"
+        textAlignment="UpperCenter"
+        scale="0.05 0.1 0.1"
+
+        onEndEdit="inputEndEdit"/>
+
+    <InputField
+        id="RangeId"
+        width="1100"
+        height="150"
+        position="35 -69 -40"
+        rotation="0 0 180"
+        interactable="false"
+        fontSize="100"
+        caretWidth  ="10"
+        colors="rgba(0.7,0.7,0.7,0)|#B8B8B8|#A8A8A8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="Black"
+        textAlignment="MiddleCenter"
+        scale="0.05 0.1 0.1"
+
+        onEndEdit="inputEndEdit"/>
+
+    <InputField
+        id="DurationId"
+        width="1100"
+        height="150"
+        position="-34 -69 -40"
+        rotation="0 0 180"
+        interactable="false"
+        fontSize="100"
+        caretWidth  ="10"
+        colors="rgba(0.7,0.7,0.7,0)|#B8B8B8|#A8A8A8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="Black"
+        textAlignment="MiddleCenter"
+        scale="0.05 0.1 0.1"
+
+        onEndEdit="inputEndEdit"/>
+
+    <InputField
+        id="CastingId"
+        width="10"
+        height="10"
+        position="35 -165 -40"
+        rotation="0 0 180"
+        interactable="False"
+        fontSize="100"
+        font="DND-Font/Tts_dnd_icons-Regular"
+        fontStyle="Bold"
+        caretWidth  ="10"
+        colors="#FFFFFFAA|#FFFFFFBB|#C8C8C8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textAlignment="MiddleCenter"
+        scale="0.05 0.1 0.1"
+
+        onValueChanged="inputEndEdit"
+        onEndEdit="inputEndEdit"/>
+
+    <Text
+        id="CastingTextId"
+        width="1500"
+        height="220"
+        position="35 -98 -40"
+        rotation="180 180 0"
+        interactable="True"
+        alignment="MiddleCenter"
+        color="Black"
+        font="DND-Font/Tts_dnd_icons-Regular"
+        fontStyle="Bold"
+        fontSize = "100"
+        scale="0.05 0.1 0.1"/>
+
+    <ToggleButton
+        id="LockId"
+        width="485"
+        height="185"
+        position="-94 -96 -40"
+        rotation="0 0 180"
+        interactable="true"
+        text="Reload"
+        color="rgba{0,0.6, 0.8, 100}"
+        fontSize="100"
+        fontStyle="bold"
+        textColor= "White"
+        textShadow="Black"
+        scale="0.05 0.1 0.1"
+        
+        onValueChanged="lockUnlock"/>
+
+            <Toggle
+            id="VerbalId"
+            toggleWidth="140"
+            toggleHeight="140"
+            position="-24 -96 -40"
+            rotation="0 0 180"
+            scale="0.05 0.1 0.1"
+            interactable="false"
+            onValueChanged="updateButton"
+            ></Toggle>
+
+            <Toggle
+            id="SomaticId"
+            toggleWidth="140"
+            toggleHeight="140"
+            position="-50 -96 -40"
+            rotation="0 0 180"
+            scale="0.05 0.1 0.1"
+            interactable="false"
+            onValueChanged="updateButton"
+            ></Toggle>
+
+            <Toggle
+            id="MaterialId"
+            toggleWidth="140"
+            toggleHeight="140"
+            position="-76 -96 -40"
+            rotation="0 0 180"
+            scale="0.05 0.1 0.1"
+            interactable="false"
+            onValueChanged="updateButton"
+            ></Toggle>
+
+    <Toggle
+        id="ArtificerId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="91.6 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="BardId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="68.57 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="ClericId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="45.6 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="DruidId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="22.75 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="PaladinId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="-.4 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="RangerId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="-23.7 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="SorcererId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="-47 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="WarlockId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="-70 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+
+    <Toggle
+        id="WizardId"
+        toggleWidth="140"
+        toggleHeight="140"
+        position="-93 105 -40"
+        rotation="0 0 180"
+        scale="0.05 0.1 0.1"
+        interactable="false"
+        onValueChanged="updateButton"
+    ></Toggle>
+</Panel>

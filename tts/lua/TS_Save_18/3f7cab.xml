@@ -1,0 +1,174 @@
+<Defaults>
+	<Text 
+		fontSize  = "32"
+		fontStyle = "Bold"
+		color     = "rgb(0.8,0.8,0.8)" />
+	<Text 
+		class          = "left"
+		alignment      = "MiddleRight" />
+	<Text 
+		class          = "right"
+		fontStyle      = "Normal"
+		color          = "rgb(0.6,0.6,0.6)"		
+		alignment      = "MiddleRight" />
+
+	<Button 
+		fontSize        = "32"
+		fontStyle       = "Bold"
+		preferredWidth  = "360"
+		preferredHeight = "80"
+		colors          = "#eeeeee|#A9CFE9|#eeeeee|#A9CFE9" />
+	<Button
+		class           = "btn-dark"
+		preferredWidth  = "80"
+		preferredHeight = "80"
+		iconWidth       = "60"
+		iconColor       = "rgb(1,1,1)"
+		padding         = "20 20 20 20"
+		colors          = "#254F6B|#6E8B9F|#254F6B|#6E8B9F" />
+
+	<Slider
+		minValue        = "1"
+		onValueChanged  = "xml_updateData"
+		wholeNumbers    = "true"
+		preferredHeight = "60"
+		preferredWidth  = "360"
+		width           = "360"
+		fillColor       = "#6E8B9F"
+		backgroundColor = "#545F67"
+		handleColor     = "#254F6B" />
+
+	<VerticalLayout
+		childAlignment        = "MiddleCenter" />
+	<HorizontalLayout
+		spacing                = "50"
+		childForceExpandWidth  = "false"
+		childForceExpandHeight = "false" />
+
+	<TableLayout 
+		columnWidths        = "100 100 0"
+		cellSpacing         = "10"
+		cellBackgroundColor = "none"
+		/>
+	<Row 
+		preferredHeight = "50"
+		/>
+</Defaults>
+
+<Panel
+	position       = "0 -30 -12.5"
+	rotation       = "0 0 180"
+	width          = "600"
+	height         = "360"
+	scale          = "0.5 0.5 0.5"
+	childAlignment = "MiddleCenter">
+	<TableLayout>
+		<Row preferredHeight = "90">
+			<Cell></Cell>
+			<Cell>
+				<Button	
+					onClick = "clearGrid()"
+					id      = "btn_clear_grid"
+					icon    = "trash"
+					class   = "btn-dark">
+				</Button>
+			</Cell>
+			<Cell>
+				<Button	
+					id = "xml_updateGrid" 
+					onClick = "xml_updateGrid()">
+					Draw Grid
+				</Button>
+			</Cell>
+		</Row>
+		<Row>
+			<Cell>
+				<Text class="right">X</Text>
+			</Cell>
+			<Cell>
+				<Text id="xml_text_x" class="left" text="foo"></Text>
+			</Cell>
+			<Cell>
+				<Slider
+					handleColor = "Red"
+					id          = "xml_input_slider_x"
+					maxValue    = "88"
+					value       = "88">
+				</Slider>
+			</Cell>
+		</Row>
+		<Row>
+			<Cell>
+				<Text class="right">Z</Text>
+			</Cell>
+			<Cell>
+				<Text id="xml_text_z" class="left" text="foo"></Text>
+			</Cell>
+			<Cell>
+				<Slider
+					handleColor = "Blue"
+					id          = "xml_input_slider_z"
+					maxValue    = "52"
+					value       = "52">
+				</Slider>
+			</Cell>
+		</Row>
+		<Row>
+			<Cell>
+				<Text class="right">Scale</Text>
+			</Cell>
+			<Cell>
+				<Text id="xml_text_scale" class="left" text="foo"></Text>
+			</Cell>
+			<Cell>
+				<Slider
+					id       = "xml_input_slider_scale"
+					maxValue = "10"
+					value    = "3">
+				</Slider>
+			</Cell>
+		</Row>
+		<Row>
+			<Cell>
+				<Text class="right">Color</Text>
+			</Cell>
+			<Cell></Cell>
+			<Cell>
+				<HorizontalLayout spacing="0">
+					<Button 
+						onClick = "btn_changeColor(-1)"
+						icon    = "arrow-left"
+						class   = "btn-dark"
+						iconAlignment = "Left"
+						padding = "10 0 5 5">
+					</Button>
+					<Button  id = "xml_text_color">
+						Color
+					</Button>
+					<Button 
+						onClick       = "btn_changeColor(1)"
+						icon          = "arrow-right"
+						class         = "btn-dark"
+						iconAlignment = "Right"
+						padding       = "0 20 5 5">
+					</Button>
+				</HorizontalLayout>
+			</Cell>
+		</Row>
+		<Row>
+			<Cell>
+				<Text class="right">Stroke</Text>
+			</Cell>
+			<Cell>
+				<Text id="xml_text_stroke" class="left" text="foo"></Text>
+			</Cell>
+			<Cell>
+				<Slider
+					id       = "xml_input_slider_stroke"
+					maxValue = "4"
+					value    = "1">
+				</Slider>
+			</Cell>
+		</Row>
+	</TableLayout>
+</Panel>

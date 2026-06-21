@@ -1,0 +1,89 @@
+<Panel>
+    <InputField
+        id="TitleId"
+        width="2200"
+        height="220"
+        rotation="0 0 180"
+        position="36 -125 -40"
+        interactable="False"
+        fontSize="130"
+        fontStyle="Bold"
+        caretWidth  ="10"
+        characterLimit="1012"
+        colors="rgba(1,1,1,0)|#FFFFFFBB|#C8C8C8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="#6b251b"
+        textAlignment="TopLeft"
+        scale="0.05 0.1 0.1"
+
+        onEndEdit="titleEndEdit"/>
+
+    <InputField
+        id="HeaderId"
+        width="1500"
+        height="220"
+        rotation="0 0 180"
+        position="-63 -125 -40"
+        interactable="False"
+        fontSize="110"
+        fontStyle="BoldItalic"
+        caretWidth  ="10"
+        colors="rgba(0.7,0.7,0.7,0)|#B8B8B8|#A8A8A8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="White"
+        textAlignment="UpperCenter"
+        scale="0.05 0.1 0.1"
+
+        onEndEdit="headerEndEdit"/>
+
+    <InputField
+        id="InputId"
+        width="10"
+        height="10"
+        rotation="0 0 180"
+        position="220 0 -40"
+        interactable="False"
+        fontSize="100"
+        caretWidth  ="10"
+        colors="#FFFFFFAA|#FFFFFFBB|#C8C8C8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="Black"
+        textAlignment="TopLeft"
+        scale="0.05 0.1 0.1"
+
+        onValueChanged="onInputChanged"
+        onEndEdit="fieldEndEdit"/>
+
+    <Text
+        id="InputTextId"
+        alignment="UpperLeft"
+        position="0 20 -40"
+        color="Black"
+        font="DND-Font/Tts_dnd_icons-Regular"
+        fontStyle="Bold"
+        width="4100"
+        height="2500"
+        fontSize = "100"
+        rotation="180 180 0"
+        scale="0.05 0.1 0.1"/>
+
+    <ToggleButton
+        id="LockId"
+        Width="625"
+        Height="225"
+        position="-87 135 -40"
+        rotation="0 0 180"
+        text="Reload"
+        color="rgba{0,0.6, 0.8, 100}"
+        fontSize="125"
+        fontStyle="bold"
+        textColor= "White"
+        textShadow="Black"
+        scale="0.05 0.1 0.1"
+        
+        interactable="true"
+        onValueChanged="LockUnlock"/>
+</Panel>

@@ -1,0 +1,70 @@
+<Panel>
+    <InputField
+        id="TitleId"
+        width="2000"
+        height="280"
+        rotation="0 -5 180"
+        position="7 -135 -40"
+        interactable="False"
+        fontSize="140"
+        fontStyle="Bold"
+        caretWidth  ="10"
+        characterLimit="1012"
+        colors="rgba(1,1,1,0)|#FFFFFFBB|#C8C8C8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="#6b251b"
+        textAlignment="TopLeft"
+        scale="0.08 0.1 0.1"
+
+        onEndEdit="titleEndEdit"/>
+
+    <InputField
+        id="InputId"
+        width="10"
+        height="10"
+        rotation="0 0 180"
+        position="220 -5 -40"
+        interactable="False"
+        fontSize="100"
+        caretWidth  ="10"
+        colors="#FFFFFFAA|#FFFFFFBB|#C8C8C8|rgba(0.78,0.78,0.78,0)"
+        lineType="multiLineNewLine"
+        navigation="None"
+        textColor="Black"
+        textAlignment="TopLeft"
+        scale="0.08 0.1 0.1"
+
+        onValueChanged="onInputChanged"
+        onEndEdit="fieldEndEdit"/>
+
+    <Text
+        id="InputTextId"
+        alignment="UpperLeft"
+        position="0 25 -40"
+        color="Black"
+        font="DND-Font/Tts_dnd_icons-Regular"
+        fontStyle="Bold"
+        width="2500"
+        height="3000"
+        fontSize = "100"
+        rotation="180 180 0"
+        scale="0.08 0.1 0.1"/>
+
+    <ToggleButton
+        id="LockId"
+        Width="500"
+        Height="200"
+        position="-80 136 -40"
+        rotation="0 0 180"
+        text="Reload"
+        color="rgba{0,0.6, 0.8, 100}"
+        fontSize="100"
+        fontStyle="bold"
+        textColor= "White"
+        textShadow="Black"
+        scale="0.08 0.1 0.1"
+        
+        interactable="true"
+        onValueChanged="LockUnlock"/>
+</Panel>

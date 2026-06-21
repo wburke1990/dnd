@@ -1,0 +1,13 @@
+<Panel id="AreaButtons" active="false" height="0">
+    <Button onClick="setMedium" position="-15 -69 -3" width="70" height="25" color="White" textColor="Black" text="Medium"/>
+    <InputField id="AreaInput" placeholder="ft. Flight Base" font="Font/Beleren2016-Bold" characterValidation="Integer"
+        onEndEdit="adjustHeight" width="100" height="25" position="0 -147 -3" fontSize="11" textColor="Black"/>
+    <Button onClick="uiClose" position="35 -69 -3" width="25" height="25" color="Red" textColor="White" text="X"/>
+    <Button onClick="setLarge" position="-25 -94 -3" width="50" height="25" color="White" textColor="Black" text="Large"/>
+    <Button onClick="setHuge" position="25 -94 -3" width="50" height="25" color="White" textColor="Black" text="Huge"/>
+    <Button onClick="setGridIndicator" position="0 -120 -3" width="100" height="25">Grid Indicator</Button>
+</Panel>
+
+<Panel id="LocationIndicator" active="false" interactable="false" height="0">
+    <image position="0 0 -3" width="100" height="100" color="rgba(0.5,0.5,0.5,0.1)"/>
+</Panel>

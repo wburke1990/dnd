@@ -1,0 +1,110 @@
+<Defaults>
+    <Button font='Fonts/Allods' resizeTextForBestFit='True' resizeTextMaxSize='120' resizeTextMinSize='10'
+        textColor='#ffffff' color='#ffffff00' textAlignment='MiddleCenter' fontStyle='Bold'
+        tooltipFont='Fonts/Allods' tooltipFontSize='20' tooltipPosition='Above' />
+    <InputField font='Fonts/Allods' resizeTextForBestFit='True' resizeTextMaxSize='30' resizeTextMinSize='10'
+        textColor='#ffffff' color='#1f1f1ff1' textAlignment='MiddleCenter' image='uiBackButton'
+        tooltipFont='Fonts/Allods' tooltipFontSize='20' tooltipPosition='Above' characterValidation='Decimal' />
+    <Text font='Fonts/Allods' resizeTextForBestFit='True' resizeTextMaxSize='120' resizeTextMinSize='10'
+        color='#ffffff'
+        tooltipFont='Fonts/Allods' tooltipFontSize='20' tooltipPosition='Above'/>
+    <Cell dontUseTableCellBackground='true' />
+    <Panel position='0 0 -6' scale='0.5' rotation='0 0 90' />
+    
+    <Button class='workButton' textColor='Black' color='White' image='uiBackButton' />
+    <Button class='editMenuButton' textColor='Black' color='White' image='uiBackButton' resizeTextMaxSize='80' />
+</Defaults>
+
+<Panel id='backImage' width='652' height='860' image='uiBackground' raycastTarget='false'>
+    <Button id='b1' class='workButton' offsetXY='370 -400' width='80' height='50' text='Init' onClick='EnableOneWorld' />
+    <Button id='mTxt' width='680' height='140' offsetXY='260 -60' rotation='0 0 -90' text='One World' onClick='SelectMap' />
+</Panel>
+
+<Panel id='mainPanel' active='false' raycastTarget='false'>
+    <Button id='b2' class='workButton' width='80' height='50' offsetXY='-370 400' text='←' onClick='EditMenu' />
+
+    <Button id='b3' class='workButton' width='80' height='50' offsetXY='-260 -455' text='...' onClick='ButtonVert' />
+    <Button id='b4' class='workButton' width='80' height='50' offsetXY='-350 -360' rotation='0 0 270' text='...' onClick='ButtonHorz' />
+
+    <Button id='b5' class='workButton' width='40' height='40' offsetXY='-180 -445' onClick='SettingSizeBase' tooltipPosition='Right' tooltip='You can change size base'
+        icon='uiOneWorld_b5' active='false' />
+    <Button id='b6' class='workButton' width='40' height='40' offsetXY='-340 -280' rotation='0 0 270' onClick='ButtonParent' tooltipPosition='Below' tooltip='Parent' />
+
+    <Button id='b7' class='workButton' width='50' height='80' offsetXY='280 360' onClick='ButtonHome' tooltip='Next' color='#ffffff00' />
+    <Button id='b8' class='workButton' width='50' height='80' offsetXY='220 360' onClick='ButtonBack' tooltip='Last' color='#ffffff00' />
+
+    <Button id='b9' text='BUILD' class='workButton' width='120' height='80' offsetXY='390 400' onClick='ButtonBuild' active='false' />
+    <Button id='b10' text='CNI' class='workButton' width='120' height='80' offsetXY='390 400' onClick='ClearNoInteract' active='false' tooltip='Interactable any object with no_interact' />
+
+    <Button id='b11' class='workButton' width='40' height='40' offsetXY='-340 -220' rotation='0 0 270' onClick='toggleBuildMap' tooltipPosition='Below' tooltip='Toggle map build' />
+    
+    <Button id='b12' class='workButton' width='40' height='40' offsetXY='-340 -160' rotation='0 0 270' onClick='toggleSpawnZone' tooltipPosition='Below' tooltip='Toggle zone spawn' />
+
+    <TableLayout id='editMenuPanel' width='300' height='850' offsetXY='-570 0' active='false'>
+        <Row>
+            <Cell>
+                <Button id='EMP1' class='editMenuButton' text='Link' onClick='ButtonLink' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell>
+                <Button id='EMP2' class='editMenuButton' text='Pack' onClick='ButtonPack' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell>
+                <Button id='EMP3' class='editMenuButton' text='Delete' onClick='ButtonDelete' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell>
+                <Button id='EMP4' class='editMenuButton' text='Copy' onClick='ButtonCopy' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell>
+                <Button id='EMP5' class='editMenuButton' text='Edit' onClick='EditMode' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell>
+                <Button id='EMP6' class='editMenuButton' text='Export' onClick='ButtonExport' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell>
+                <Button id='EMP7' class='editMenuButton' text='See all' onClick='ButtonSeeAll' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell>
+                <Button id='EMP8' class='editMenuButton' text='New' onClick='ButtonNew' />
+            </Cell>
+        </Row>
+    </TableLayout>
+
+    <TableLayout id='settingSizes' position='-180 -530 0' width='300' height='100' image='uiBackButton' color='Black' active='false'>
+        <Row>
+            <Cell columnSpan='2'>
+                <Button text='Table map' onClick='TMBaseSize' image='uiBackButton' textColor='#e5e4e2' color='#ff6e0066' />
+            </Cell>
+            <Cell columnSpan='1'>
+                <InputField id='vBaseX' text='25' onEndEdit='ChangeSettingSize' />
+            </Cell>
+            <Cell columnSpan='1'>
+                <InputField id='vBaseZ' text='25' onEndEdit='ChangeSettingSize' />
+            </Cell>
+        </Row>
+        <Row>
+            <Cell columnSpan='2'>
+                <Text text='Mini map' />
+            </Cell>
+            <Cell columnSpan='1'>
+                <InputField id='wBaseX' text='1.85' onEndEdit='ChangeSettingSize' />
+            </Cell>
+            <Cell columnSpan='1'>
+                <InputField id='wBaseZ' text='1.85' onEndEdit='ChangeSettingSize' />
+            </Cell>
+        </Row>
+    </TableLayout>
+</Panel>

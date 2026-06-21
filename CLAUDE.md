@@ -1,20 +1,34 @@
 # dnd
 
 Personal D&D campaign repo. Combines:
-1. A SQLite **campaign database** queryable mid-session via the `dnd` CLI
-   (NPCs, locations, sessions, items, encounters, factions, PCs).
+1. **Campaign content** as plain markdown — the source of truth for all
+   worldbuilding, NPCs/bestiary, encounters, lore, quotes, and AI image
+   prompts. Kept verbatim and diffable so the whole campaign can be
+   republished (e.g. to Tabletop Simulator) word-for-word.
 2. **Tabletop Simulator** tooling: sync the local TTS install into the
    repo, unpack per-object Lua for proper editing & linting, merge mods,
    and back up Steam Workshop assets so links can't break the world.
-3. **Session notes** and lore captured as markdown under `sessions/`.
+
+> Markdown is authoritative. There is no longer a campaign database —
+> the old SQLite DB and `dnd` CLI were removed in favour of paste-and-grep
+> markdown. To answer a content question, grep the markdown (ideally via
+> an `Explore` subagent); to add content, write/append a markdown file.
 
 ## How to collaborate
 
 Sessions are usually driven from the Claude mobile app, which doesn't see
 permission prompts. `.claude/settings.json` pre-approves `Edit`, `Write`,
-and a wide list of Bash commands (including `sqlite3`, `rsync`, `luacheck`,
-`stylua`, `dnd`, `tts`) — just edit freely. Flag before adding tools or
-network calls that would need *new* prompts.
+and a wide list of Bash commands (including `rsync`, `luacheck`,
+`stylua`, `tts`, `pad-maps`, plus `for`/`while` loops) — just edit
+freely. Flag before adding tools or network calls that would need *new*
+prompts.
+
+**Write commit messages to a temp file and use `git commit -F`, not a
+`<<EOF` heredoc.** Heredocs (and other constructs the permission engine
+can't statically analyze) trigger a prompt that blocks on mobile. So:
+`Write` the message to e.g. `/tmp/msg.txt`, then
+`git -C /Users/wcb/personal/dnd commit -F /tmp/msg.txt`. A one-line
+`git commit -m "…"` is fine; the heredoc is what trips the analyzer.
 
 **Permission patterns are prefix-anchored on the command string.**
 `Bash(find:*)` matches `find …` but NOT `/usr/bin/find …`. If a bare
@@ -61,9 +75,10 @@ to "should I delegate this?" is **yes**.
   Saves are multi-MB and will wreck your context if you `Read` or `cat`
   them. Use for "what's in this save", "find this object's GUID",
   "what assets does mod X reference", "diff two saves".
-- `campaign-db` — for **any** question about campaign content (NPCs,
-  locations, sessions, items, factions, PCs). It knows the schema and
-  the `dnd` CLI, and returns prose answers instead of raw rows.
+
+For campaign **content** questions (NPCs, bestiary, lore, encounters,
+sessions) there is no dedicated agent — it's all markdown now, so use
+`Explore` to grep `bestiary/`, `characters/`, `lore/`, `sessions/`, etc.
 
 **Generic subagents:**
 
@@ -72,8 +87,8 @@ to "should I delegate this?" is **yes**.
 - Non-trivial implementation planning → `Plan`
 
 **Run independent subagents in parallel** — single message, multiple
-`Agent` tool calls. Two campaign-db queries + one tts-inspector query
-can all fire at once.
+`Agent` tool calls. Two `Explore` content lookups + one tts-inspector
+query can all fire at once.
 
 **First move for any codebase question is `Agent(Explore, …)`, not `grep`
 or `Read`** — even when one lookup feels like overkill. The trap is "just
@@ -100,8 +115,6 @@ Everything else: delegate.
 - **TTS save JSON** files (under `tts/saves/` and the mirror dirs) are
   multi-MB. Use `jq` to project specific keys, or unpack via
   `tts unpack <save>` to get per-object Lua files you *can* read.
-- **`campaign/campaign.db`** is binary — never `Read` it. Query via
-  `dnd <subcommand>` or `sqlite3 campaign/campaign.db '<query>'`.
 - **Cached assets** under `tts/assets/cache/` — inspect via
   `tts assets list` or `ls`.
 
@@ -117,10 +130,12 @@ aborted.
 
 ## Repo layout
 
-- `campaign/` — SQLite DB + schema migrations
-  - `campaign.db` (committed binary; small) — source of truth
-  - `migrations/*.sql` — schema evolution
-- `sessions/` — markdown session notes & recaps
+- `bestiary/` — creature stat blocks & encounter tables (markdown)
+- `characters/` — PC backstories & references (markdown + portraits)
+- `lore/` — worldbuilding (markdown)
+- `prompts/` — AI image-generation prompts, kept verbatim (markdown)
+- `sessions/` — session notes, recaps, encounters & scenes (markdown)
+- `maps/` — map images (`pad-maps` letterboxes them into `maps/padded/`)
 - `tts/` — Tabletop Simulator content
   - `saves/` — canonical, edited save bundles ⚠️ **not yet committed,
     decision pending** — see below
@@ -153,18 +168,12 @@ time:
 
 Until one of these is in place, **don't `git add` anything under
 `tts/saves/`**. Flag this to the user and let them choose.
-- `scripts/` — uv-managed Python: the `dnd` and `tts` CLIs + tests
+- `scripts/` — uv-managed Python: the `tts` and `pad-maps` CLIs + tests
 - `.githooks/pre-commit` — silent-on-success quality + security checks
 
 ## CLI quick reference
 
 ```
-dnd npc <name>            # query NPC stat block
-dnd location <name>       # query location
-dnd session <number>      # session recap + linked entities
-dnd add npc / add session / add item / ...
-dnd export                # dump human-readable SQL for diffing
-
 tts pull-saves            # rsync local TTS install into tts/saves-mirror
 tts unpack <save>         # extract Lua + XmlUI from a save JSON
 tts pack   <save>         # re-inject edited Lua/XmlUI into the save
