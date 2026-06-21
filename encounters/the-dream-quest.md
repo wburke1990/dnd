@@ -51,6 +51,52 @@ Neither child asks what happened to their mother. They already know she's gone. 
 
 ---
 
+# DM NOTE — THE WIZARD'S HAND
+
+*Also private from the players. This is the thread that ties the dream quest to
+the campaign's spine.*
+
+The dead merchant is **a small-scale version of [Preem](../characters/preem.md)**
+— the wizard the party already works for, even if they don't yet know he keeps
+an army of demon slaves. The merchant bound **one** demon, his wife, to himself
+with her true name. Preem has bound an army the same way. The merchant *"just
+had the decency to only bind one."*
+
+And Preem **knew him.** Not closely — a minor supplier, or an acquaintance from
+a merchant guild — but Preem knew about the wife the whole time, and he is the
+one who **set the young merchant on this path**: who told him where to find a
+bound demon, and how to "free" her by taking her true name and casting Planar
+Binding. The merchant believed he was rescuing a demon from a cruel wizard. He
+was being **recruited into a system.** He never scaled up.
+
+- Keep this entirely off the table until the party uncovers Preem's true
+  operation later in the campaign. The payoff is the moment someone asks *"wait —
+  did the wizard know about the wife?"* and the answer is **yes. He always did.**
+- **[loose]** Decide whether the "cruel wizard" the merchant thought he was
+  freeing the demon *from* was **Preem himself** — a staged rescue to recruit
+  him — or whether Preem only pointed the way. Either reading makes the merchant
+  tragic rather than merely guilty.
+
+**Why the wife could never escape — the true-name rule.** In this world,
+casting **Planar Binding while speaking a fiend's true name auto-succeeds: no
+saving throw** (see
+[True Names & Planar Binding](../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)).
+This is deliberate. With only *disadvantage* on the save, a bound demon escapes
+roughly a quarter of the time — across thirty-one years she would have been free
+many times over. The true name makes the trap **airtight.** She *"could not
+refuse,"* exactly as the merchant confesses. Planar binding is meant to feel
+**horrific**, and this is why: a true name turns a person into a possession,
+with no roll left to make.
+
+This is the quest's secret purpose. It **teaches the party Planar Binding and
+what a true name does** — because at the campaign's climax they will be handed
+the **volcano-demon's true name** and asked to use it. The dream quest is their
+**moral rehearsal** for that choice. (See
+[Preem](../characters/preem.md#the-climax--the-volcano-demon-choice) and
+[the Second Foundation](../lore/the-second-foundation.md).)
+
+---
+
 # PRE-DREAM — AT THE HOUSE
 
 ## The Setup

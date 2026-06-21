@@ -19,6 +19,33 @@ and ancient names; they fetch jewels and spell components so he can summon
 more. The party meets them as servants, associates, and helpful strangers long
 before they understand what they are dealing with.
 
+## True Names & Planar Binding *(homebrew house rule)*
+
+The mechanical heart of Preem's power, and the campaign's central moral object.
+**[settled — "Do it."]**
+
+- Casting **Planar Binding** on a fiend or celestial **while speaking its true
+  name auto-succeeds — no saving throw.** Without the true name, Planar Binding
+  works as written (the target gets its save, with disadvantage if you summoned
+  it, etc.).
+- In standard 5e a true name is flavor with no teeth. Here it has teeth. A bound
+  demon with *disadvantage* on the save still escapes roughly a quarter of the
+  time — over decades, that's a statistical certainty of at least one escape.
+  Auto-success is what makes **lifelong, generational bondage** possible, and
+  what makes the trap feel airtight.
+- This is why **the names are the whole game.** Every name the party pulls from
+  the tombs and sells to Mul is another true name in Preem's ledger — another
+  demon he can bind beyond any hope of refusal. He has an *army* of true names.
+  (See [the names quest](preem.md#the-names-quest--why-he-sends-the-party-to-the-tombs).)
+- It is also the engine of the [dream quest's](../encounters/the-dream-quest.md)
+  horror: the merchant's demon wife **could not have escaped, ever**, because he
+  held her name. Planar binding is meant to feel **horrific** — a true name
+  turns a person into a possession, with no roll left to make.
+- The endgame turns on it: the party will eventually be handed the
+  **volcano-demon's true name** and asked to use it. The dream quest is their
+  rehearsal for that choice. (See
+  [Preem](preem.md#the-climax--the-volcano-demon-choice).)
+
 ## Demonic Restoration *(homebrew house rule)*
 
 The mechanic that makes Preem's servants a **recurring cast** rather than

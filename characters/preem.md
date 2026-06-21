@@ -93,6 +93,56 @@ This is where Preem diverges from his fellow Foundationers. **[settled]**
   islands missing from the ancient tomb-map. See
   [the Second Foundation](../lore/the-second-foundation.md).)
 
+## Preem and the dream-quest merchant
+
+The party's first brush with Preem's true nature — long before they know it's
+him. **[settled]**
+
+The dead merchant of [the dream quest](../encounters/the-dream-quest.md) is **a
+small-scale Preem.** He bound a single demon — his wife — to himself with her
+true name, renewing Planar Binding every year until he died, telling himself it
+was love. He is *"a small-scale version of the wizard. He just had the decency
+to only bind one."*
+
+And the connection is direct: **Preem knew him.** **[settled]** Not closely —
+a minor supplier, or an acquaintance from a merchant guild — but Preem **knew
+about the wife the whole time**, and he is the one who **set the young merchant
+on this path**: who told him where to find a bound demon and how to "free" her
+by taking her true name and casting Planar Binding. The merchant believed he
+was cleverly rescuing a demon from a cruel wizard. He was being **recruited into
+a system** — Preem's system — and he simply never scaled up.
+
+- This makes the merchant **tragic rather than merely guilty**, and it makes
+  Preem's eventual reveal land far harder: when the party learns the true scope
+  of his operation, someone asks *"wait — did he know about the wife?"* and the
+  answer is **yes. He always knew.**
+- **[loose] — the darker option:** that the "cruel wizard" the merchant thought
+  he was freeing the demon *from* was **Preem himself**, who staged the rescue
+  to recruit him. Decide whether Preem was the original binder or only the one
+  who pointed the way.
+- Without their knowing it, the quest is also Preem's gift to the party: it
+  **teaches them Planar Binding and what a true name does** (see
+  [True Names & Planar Binding](preems-demons.md#true-names--planar-binding-homebrew-house-rule))
+  — the exact horror they will have to weigh at the campaign's climax.
+
+## The climax — the volcano-demon choice
+
+The whole campaign points here. **[settled]**
+
+- The **final battle** presents the party with a **choice**: help Preem
+  **control a demon who can set off volcanoes**, or refuse him. They will be
+  handed the **volcano-demon's true name** and asked to use it — the same act
+  the merchant performed on his wife, at world-ending scale.
+- The campaign's spine is a **climate / land-creation-and-destruction theme** —
+  *"think Krakatoa and the Hawaiian islands."* The cataclysm that buried the
+  ancient empire (the last Ragnarok) raised the volcanic islands missing from
+  the tomb-map; volcanism makes land and unmakes it. Preem wants his hand on
+  that lever.
+- The [dream quest](../encounters/the-dream-quest.md) is the **moral
+  rehearsal**. If the party has already felt what true-name binding does to one
+  person, the choice to do it to a world-breaking demon lands completely
+  differently. See [the Second Foundation](../lore/the-second-foundation.md).
+
 ## Voice & table notes
 
 - sankaku plays Preem directly. Treat the DM-side material here as scaffolding;

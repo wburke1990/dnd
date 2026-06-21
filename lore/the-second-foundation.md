@@ -50,6 +50,10 @@ the tie to the ancient-empire fall synthesizes existing campaign lore.]**
   northern sea is larger."* Those missing islands are **volcanic**. The last
   Ragnarok's **volcanic winter** is also what **raised the volcanic islands**.
   Fire and ash remade the map. That is what Ragnarok *does*.
+- The campaign's spine is this **climate / land-creation-and-destruction
+  theme** — *"think Krakatoa and the Hawaiian islands."* Volcanism makes land
+  and unmakes it; Ragnarok is that force at world-scale. Whoever controls it
+  controls the shape of the world to come.
 
 This is why a **volcano-demon** is the master key to Preem's endgame: volcanism
 is the engine of the cataclysm. Set off the volcanoes and you have set off
@@ -106,7 +110,13 @@ errand is quietly assembling the means to end the world on his own schedule.
   (see [Preem's demons](../characters/preems-demons.md)).
 - **Layer five — Ragnarok.** They understand the Foundation's premise, and then
   the worse truth: Preem doesn't intend to wait for the cataclysm. He intends to
-  **cause** it.
+  **cause** it — with a bound volcano-demon.
+- **The climax.** The final battle hands the party the **volcano-demon's true
+  name** and the choice of whether to bind it for Preem. They will have already
+  rehearsed that exact horror, at human scale, in
+  [the dream quest](../encounters/the-dream-quest.md) — where a merchant bound
+  one demon with her true name and called it love. (See
+  [Preem](../characters/preem.md#the-climax--the-volcano-demon-choice).)
 
 ## Open threads
 
