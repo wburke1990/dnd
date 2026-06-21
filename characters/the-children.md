@@ -38,7 +38,7 @@ She is less resolved. She keeps looking at the door her mother used to stand in.
 
 ## What They Don't Know
 
-- Whether their mother would have stayed if she had been free to choose
+- What their mother would have chosen, had she been free
 - What happened to their father in the Hall of Two Truths
 - The full extent of their demonic heritage and what it means for their futures
 
@@ -58,7 +58,7 @@ This answer is honest and slightly ambiguous. The children do not fully understa
 
 **The truth about their mother:**
 
-Their mother was bound to the material plane by their father using her true name, renewed every year. She does not know whether she would have stayed freely, because the binding made the question permanently unanswerable even to her. The sentence she spoke — *"I don't know what I would have chosen"* — is the most honest thing anyone in this story ever said.
+Their mother was bound to the material plane by their father using her true name, renewed every year. She does not know what she would have chosen, because the binding made the question permanently unanswerable even to her. The sentence she spoke — *"I don't know what I would have chosen"* — is the most honest thing anyone in this story ever said.
 
 **Their demonic heritage as a future hook:**
 

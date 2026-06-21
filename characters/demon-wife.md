@@ -43,7 +43,7 @@ Players who succeed feel unsettled but cannot articulate why. Do not over-descri
 
 ## What She Doesn't Know
 
-- Whether she would have stayed if she had been free to choose
+- What she would have chosen, had she been free
 - Whether what she felt for her husband was love or something that resembled it closely enough to matter
 - Whether the distinction is meaningful
 
@@ -73,10 +73,20 @@ The material plane causes demons pain — the longer they remain unbound, the mo
 The type is deliberately unresolved pending a decision that fits the campaign's serpent and volcanic imagery. Leading candidate is Marilith — a six-armed serpentine demon — which would connect her visually to Apep, the serpent-king statue at the valley entrance, and the shipwrecked sailor's great serpent. It would also create a subtle parallel with Aniess, who is Yuan-ti. This decision can wait until it becomes narratively relevant.
 
 **On her true name:**
-Her true name is presumably known to the wizard, who may have been the one to point the young merchant toward her in the first place. The dead man used it every year for thirty-one years. It is not written down anywhere the party can currently find. Whether it becomes a plot-relevant object later is TBD.
+Her true name is held by the wizard — [Preem](preem.md), who **bound her
+originally** and whose claim never lapsed, even though the dead man used it every
+year for thirty-one years. It is not written down anywhere the party can
+currently find. Because Preem still holds it, he can summon and re-bind her at
+will, so she may resurface later in the campaign.
 
 **On her relationship to the wizard:**
-It is possible — and worth considering — that the wizard knew about her from the beginning. That the young merchant's discovery of a bound demon was not accidental. That the dead man thought he was cleverly freeing a demon from a cruel wizard when he was actually being recruited into a system. He just never scaled up. This would make the dead man's entire life a smaller version of what the wizard is building, and the demon wife's true name one of many the wizard has collected.
+Canon: [Preem](preem.md) **was the cruel wizard** — he is the one who originally
+bound her. The young merchant's discovery of a "captive" demon was no accident;
+the rescue was **staged recruitment.** The dead man thought he was cleverly
+freeing a demon from a cruel wizard when he was actually being recruited into a
+system. He just never scaled up. The dead man's entire life is a smaller version
+of what Preem is building, and the demon wife's true name one of many Preem has
+collected. (See [Preem and the dream-quest merchant](preem.md#preem-and-the-dream-quest-merchant).)
 
 **On her children's futures:**
 As the children grow into their power, their demonic heritage may begin to manifest in ways connected to their mother's true form. This is a long-term hook.
