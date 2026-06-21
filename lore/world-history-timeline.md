@@ -28,7 +28,8 @@ name for a catastrophic pass is **Ragnarok**.
 |---|---|---|
 | 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. |
 | 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed. |
-| 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim.** |
+| *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
+| 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
 | 6th — The Bad Pass | ~1,000 ya | Blankets the continent in an **alchemical, mutating sickness**; seas swing, islands come and go. |
 | 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation. 🔒 Preem means to trigger it early and on purpose. |
 
@@ -52,20 +53,22 @@ name for a catastrophic pass is **Ragnarok**.
 
 ---
 
-## II. The Amseh Dynasty — the rise and fall of the elven empire (~5,000 ya, ~590 years)
+## II. The Amseh Dynasty — the rise and fall of the elven empire (~5,550–4,960 ya, ~590 years)
 
 The cautionary heart of the setting: **the elves are not the good guys.** The Amseh
 empire grew rich extracting from others and called it trade — the colonial structure
-Maalm is later built on top of.
+Maalm is later built on top of. *(Absolute dates are anchored to the firm fact that
+the Bleeding Star — Amseh III's Year 100 — fell ~5,000 years ago, then reckoned out
+along the reign lengths below.)*
 
-- **Amseh I, the Founder** *(~250-yr reign).* An elf-king raises the first dynasty
+- **Amseh I, the Founder** *(~250-yr reign; ~5,550–5,300 ya).* An elf-king raises the first dynasty
   wealthy enough to build monuments. His heir makes **first contact with the Snake
   Island** — a serpent-governed land with advanced agriculture. Guano fertilizer,
   permaculture, and the iron plow flow north; yields jump ~50%, trade doubles.
-- **Amseh II, the Golden Age** *(~200-yr reign).* Peak prosperity; the Snake-Island
+- **Amseh II, the Golden Age** *(~200-yr reign; ~5,300–5,100 ya).* Peak prosperity; the Snake-Island
   relationship matures into full cultural and commercial exchange. Stable abundance,
   no crisis on the books.
-- **Amseh III, the Warrior King** *(~120-yr reign).* A century of continued
+- **Amseh III, the Warrior King** *(~120-yr reign; ~5,100–4,980 ya).* A century of continued
   prosperity — then, at **Year 100, the Bleeding Star (Ragnarok I):** a comet-driven
   Krakatoa-analog eruption. Ash blots the sun, harvests die, three islands are
   destroyed, the Snake-Island route goes silent. Simultaneously the **Sea Peoples**
@@ -73,7 +76,7 @@ Maalm is later built on top of.
   Amseh III wins the **Battle of Dijay** (a pyrrhic victory; the climate keeps
   collapsing). He is finally deposed and killed in a palace coup that also kills his
   elder heirs.
-- **Amseh IV, the Last King** *(~20-yr reign).* A younger prince fetched home from a
+- **Amseh IV, the Last King** *(~20-yr reign; ~4,980–4,960 ya).* A younger prince fetched home from a
   foreign (Mesopotamian-flavored) court; takes the name "Amseh" to legitimize the
   claim and brings his foreign queen **Kethara (Farseh-ti)**. As famine deepens he
   performs the **Seven Sacrifices** — his seven children, one by one, painted in blue
@@ -87,23 +90,33 @@ Maalm is later built on top of.
 
 ---
 
-## III. The Dark Age — ~1,000 years of Ammit (~4,460–3,460 ya)
+## III. The Dark Age — Ammit beneath the ruins (~4,960–4,100 ya, ~860 years)
 
 The empire's ruin lies silent. **Ammit** — crocodile head, lion fore, hippo
 hindquarters — dwells in the dark tunnels beneath the dead city, the tombs sealed
-with their records intact. (This is the millennium the comet clock measures between
-catastrophe and what comes next.)
+with their records intact. This is the world at its lowest ebb: the Bleeding Star
+has thinned the land and scattered or drowned what peoples remained, and the comet
+has **not yet returned** to raise new ground from the sea. The age runs the better
+part of a thousand years, until Beowulf.
 
 *Sources: [Amseh dynasty](amseh-dynasty.md), [Maalm founding](maalm-founding.md).*
 
 ---
 
-## IV. The Founding of Maalm — ~3,460 years ago
+## IV. The Founding of Maalm — just over four thousand years ago (~4,100 ya)
+
+> **The hinge of the timeline.** Maalm is founded in the trough of the Dark Age,
+> *before* the comet's ~4,000-ya return begins raising Musleheim and the new
+> islands. That ordering is the point: Beowulf searches an empty, land-poor world
+> and finds no other dragonborn **because the lands that will one day shelter
+> scattered survivors do not yet exist.** He is, in the cruelest sense, about a
+> century too early — the world starts to heal almost as soon as he's buried.
 
 - **Beowulf's arrival.** A dragonborn wanderer named **Beowulf** arrives by boat,
   searching for other survivors of the catastrophe, with **twelve companions —
-  elves and men.** He finds no other dragonborn. The company settles on the Amseh
-  ruins, and Ammit rises to destroy them.
+  elves and men.** He finds no other dragonborn — there is, as yet, nowhere for
+  them to have survived. The company settles on the Amseh ruins, and Ammit rises to
+  destroy them.
 - **The mutual ending.** Beowulf descends alone into the dark and does not return;
   the company finds him and Ammit below, **locked together in the embrace of their
   ending.** The Twelve lay the first stones and build **Maalm** atop both the dead
@@ -117,15 +130,15 @@ catastrophe and what comes next.)
 
 ---
 
-## V. The Long Present — Maalm, the Fleet, and the Saints (~3,460 ya → today)
+## V. The Long Present — Maalm, the Fleet, and the Saints (~4,100 ya → today)
 
 These threads run in parallel from the founding down to the campaign's "now."
 
 ### The Second Foundation
 The elves who settled Maalm after the empire's fall founded a **secret order** (true
-in-world name `[OPEN]`). For at least a thousand years it has **bound demons by their
-true names** — demons "older than the oldest elves," who remember the founding
-firsthand. It is not a new heresy; it is the order's millennium-old craft.
+in-world name `[OPEN]`). For some four thousand years — since the founding — it has
+**bound demons by their true names** — demons "older than the oldest elves," who
+remember the founding firsthand. It is not a new heresy; it is the order's age-old craft.
 🔒 *Its real aim is the campaign's engine — see §VI.*
 *Source: [the Second Foundation](the-second-foundation.md).*
 

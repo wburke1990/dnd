@@ -13,6 +13,21 @@ The comet that triggered the Krakatoa eruption operates on a 1,000-year cycle. T
 
 ---
 
+# ABSOLUTE CHRONOLOGY
+
+Anchored to the **Bleeding Star** — the Krakatoa-analog eruption of Amseh III's Year 100 — at **~5,000 years ago**, the firm date the colossal statues and the comet cycle both fix. Working out from it with the reign lengths below:
+
+| King | Role | Reign | Years ago |
+|---|---|---|---|
+| Amseh I | The Founder | 250 yr | ~5,550 – 5,300 |
+| Amseh II | The Golden Age | 200 yr | ~5,300 – 5,100 |
+| Amseh III | The Warrior King | 120 yr | ~5,100 – 4,980 (Bleeding Star ~5,000, his Year 100) |
+| Amseh IV | The Last King | 20 yr | ~4,980 – 4,960 |
+
+The empire fell and Ammit rose **~4,960 years ago**. The Dark Age that followed ran the better part of a thousand years, until the **founding of Maalm just over four thousand years ago (~4,100 ya)** — set deliberately in the trough *before* the comet's ~4,000-years-ago return began raising new land from the sea, which is why Beowulf found no other Dragonborn to rescue. (See [the world-history timeline](world-history-timeline.md).)
+
+---
+
 # THE EMPIRE
 
 **Name:** [PLACEHOLDER — TBD]
@@ -195,7 +210,7 @@ The chicken farm / guano economy: the snake island maintained vast chicken farms
 The comet operates on a 1,000-year cycle. The Krakatoa-analog event was 5,000 years ago. There have been three subsequent events. The current campaign takes place in year [TBD] of the current cycle. Whether another event is coming — and when — is a question the campaign's volcanic and geological themes will eventually address.
 
 **Ammit and Maalm:**
-Ammit devoured the survivors of the empire's collapse and took up residence in the ruins. A thousand years later Beowulf fought her and the city of Maalm was built above them both. The party walks on ground where Ammit — or what remains of her after Beowulf — sleeps. This has not been made explicit to them.
+Ammit devoured the survivors of the empire's collapse and took up residence in the ruins. The better part of a thousand years later — just over four thousand years ago, in the trough before the comet's return began raising new land — Beowulf fought her and the city of Maalm was built above them both. The party walks on ground where Ammit — or what remains of her after Beowulf — sleeps. This has not been made explicit to them.
 
 **The wizard and the names:**
 The wizard sent the party to collect names from the tombs. The names of four kings, multiple gods, and Kethara/Farseh-ti are findable. Whether the wizard wants royal names specifically, divine names, or all names is something the Yochlol, Mul, has not clarified. The theological connection between Egyptian soul theory (the Ren as a component of the soul) and the Planar Binding mechanic suggests the wizard understands something about names that the party does not yet.
