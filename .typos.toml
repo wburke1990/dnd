@@ -27,9 +27,6 @@ yuan = "yuan"
 nat = "nat"
 # Egyptian mythology / campaign proper nouns typos mis-flags.
 Hapy = "Hapy"  # Son of Horus / Nile god — not "Happy"
-# Verbatim handout/scroll text preserved word-for-word by request, incl.
-# a source typo in "On Ragnarok #1": "ithe" for "the".
-ithe = "ithe"
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.

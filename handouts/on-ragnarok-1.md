@@ -9,7 +9,7 @@ August the twenty-second; from the rail
 I saw what doubtless will prompt some to pray;
 let those who want apocalypse be gratified.
 But I will use my eyes. For if the sea's
-turned white as mile, and if the sky's become
+turned white as milk, and if the sky's become
 aurora-sheened like milk, each sober man
 knows this occurred at seven p.m. in August,
 that binnacle and sextant use no magic,
@@ -17,7 +17,7 @@ point towards no covens.
         The twenty-fifth:
 raising Sunda Strait, the weather veined
 with dazzling violence over Java Head,
-I was prepared for theatre, as from ithe islands
+I was prepared for theatre, as from the islands
 rose huge smocks of ash, robes, I smiled,
 of someone's fussing god. But that was fancy.
 Fact the rain of dust and bread-hot pumice
