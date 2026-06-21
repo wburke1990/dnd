@@ -1,6 +1,6 @@
 # Tomb 4 Inner Chamber Reveal — The Lament
 
-*Image-generation prompt + player-handout text, kept verbatim. The embedded poem is a Mesopotamian-style lament (the voices of the gods falling silent) that the players find in Tomb 4 (Amseh IV, the last king's unfinished tomb), above the little coffins. See also the shorter lament quoted in [encounters/valley-of-the-kings.md](../encounters/valley-of-the-kings.md).*
+*Image-generation prompt, kept verbatim — this is the **longer draft** that actually generated the image. The canonical player-facing lament was later edited down to the shorter version; for the text given to players see [handouts/last-kings-lament.md](../handouts/last-kings-lament.md) and [encounters/valley-of-the-kings.md](../encounters/valley-of-the-kings.md). The embedded poem is a Mesopotamian-style lament (the voices of the gods falling silent), found in Tomb 4 (Amseh IV, the last king's unfinished tomb) above the little coffins.*
 
 ---
 
