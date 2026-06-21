@@ -134,6 +134,7 @@ aborted.
 - `encounters/` — prepared set-piece encounters & scenes (markdown)
 - `characters/` — PC backstories & references (markdown + portraits)
 - `lore/` — worldbuilding (markdown)
+- `handouts/` — player-facing handout texts, kept verbatim (markdown)
 - `prompts/` — AI image-generation prompts, kept verbatim (markdown)
 - `sessions/` — session notes, recaps, encounters & scenes (markdown)
 - `maps/` — map images (`pad-maps` letterboxes them into `maps/padded/`)
