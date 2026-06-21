@@ -1,6 +1,6 @@
 # Requiem — Grave Inscription (Player Handout)
 
-*An in-world grave inscription, likely for a wandering dragonborn's grave. Verbatim, line breaks and indentation preserved. (A parallel to the [Beowulf grave in Maalm](../lore/maalm-founding.md).)*
+*An in-world grave inscription for a wandering dragonborn's grave — the watch-stone of **Idris the Tide-Strong**, the monster-hunter saint (*"the hunter home from the hill"*). Verbatim, line breaks and indentation preserved. (A parallel to the [Beowulf grave in Maalm](../lore/maalm-founding.md); see [The Wandering](../lore/wandering-dragonborn.md).)*
 
 *Real-world source: Robert Louis Stevenson (1850–1894), "Requiem."*
 
