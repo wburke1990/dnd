@@ -1,19 +1,27 @@
 # Blackacre — character reference
 
-Player: **Ahms**. Distilled from the 6/2–6/19/26 backstory chat. This is a
+Player: **Ahms**. Distilled from the 5/27–6/19/26 backstory chat. This is a
 working reference for running the character and building encounters that
-highlight him — see **Encounter hooks** at the bottom.
+highlight him — see **Encounter hooks** at the bottom. World-level
+worldbuilding lives in **[lore/floating-fleet.md](../lore/floating-fleet.md)**,
+**[lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md)**, and
+**[lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)**.
 
 > Legend: **[settled]** = agreed in chat · **[loose]** = floated, not locked.
 
 ## Snapshot
 
-- **Race / vibe:** Dragonborn pirate. A **nomad of the Floating Fleet**, not
+- **Class / vibe:** Dragonborn **druid** — a wandering-fleet pirate, *not*
   one of the island zealots. **[settled]**
-- **Heritage:** Descended from the **Amatssou**, who originally came from one
-  of the towns flanking the island of **Lonka** (e.g. **Ka**) — but it's been
-  **several generations since his people lived inland**. They've long been tied
-  to the floating fleet. **[settled]**
+- **The druid hook (his whole concept):** the one thing the
+  [Floating Fleet](../lore/floating-fleet.md) **can't harvest from the sea is
+  timber** — masts, spars, hulls — so a druid who **grows and repairs wood** is
+  the most valuable hand on a fleet of ships. A deliberate inversion of "sea
+  druid = merman": **it's all about the plants.** **[settled]**
+- **Heritage:** Descended from the **Amatssou** — *"living beyond the fear,"*
+  the wandering-fleet dragonborn — who originally came from one of the towns
+  flanking the island of **Lonka** (e.g. **Ka**), but it's been **several
+  generations since his people lived inland**. **[settled]**
 - **Home port:** **Tripoca** is his standard port of call, though he grew up
   mostly at sea. **[settled]**
 - **Present base:** These days he's **firmly on Mukka**, deliberately avoiding
@@ -23,6 +31,22 @@ highlight him — see **Encounter hooks** at the bottom.
 - **Boat:** A **sloop or sail-canoe** (Caribbean-pirate sailing canoe /
   outrigger style — small, fast, quiet) that he **commandeered when he fled to
   Mukka** and secured his first letter of marque. **[settled]**
+
+## Backstory — riches to rags
+
+A **riches-to-rags** shape. **[settled — per 5/28 chat]**
+
+- His **parents were druids** — and because druids are a precious commodity
+  to a fleet of wooden ships, that made his family **valued, even comfortable.**
+- **The parents drowned** — as happens to sailors. Their death **shattered his
+  stability** when he was **already a teenager / young man**, so he carries
+  **strong tutelage in the culture, sailing, and druidcraft** but **little
+  exposure to the political realities** of the fleet.
+- He was forced to **hardscrabble**. In that stretch he **met his friend
+  [Sayid](#key-npcs)**; they **came of age together**, and **at adulthood they
+  enacted their plan** — the seizure of a few ships of the fleet (the revolt
+  below). He **lost his nerve / his faith in the play when it turned violent**,
+  and has spent the time since **wandering** — with the fleet and alone.
 
 ## Core arc & motivation
 
@@ -44,17 +68,23 @@ highlight him — see **Encounter hooks** at the bottom.
 ## The world around him
 
 ### Two dragonborn factions
-- **Lonka Zealots** — insular, island-bound. They **reclaimed Lonka from the
-  elves/humans who had repopulated it and massacred everyone** (DM analogy: the
-  Crusaders retaking Jerusalem). Blackacre is *not* one of these. **[settled]**
-- **The nomads / Floating Fleet** — sail across **Nila bay**. **Blackacre's
-  people.** **[settled]**
+Both worship the same dragon — **Taniyn**, who rested her wings on the
+island-mountain of **Lonka**, the first land; see
+[lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md). They split on how:
 
-### The Floating Fleet
-- **Big.** Structured as a **chiefdom — many tribal heads**, no single ruler.
-  **[settled]**
-- **Heavily halfling**, with a **fair share of nomadic dragonborn** mixed in.
-  **[settled]**
+- **Lonka Zealots** — insular, island-bound; they **guard the dragon's first
+  perch.** They **reclaimed Lonka from the elves/humans who had repopulated it
+  and massacred everyone** (DM analogy: the Crusaders retaking Jerusalem).
+  Blackacre is *not* one of these. **[settled]**
+- **The nomads / Floating Fleet** — sail across **Nila bay**; they **honor the
+  flight.** **Blackacre's people.** Full civilization write-up in
+  [lore/floating-fleet.md](../lore/floating-fleet.md). **[settled]**
+
+### The Floating Fleet (Blackacre's angle)
+Full detail in [lore/floating-fleet.md](../lore/floating-fleet.md) (Phoenician
+water-world nomads, majority halfling, chiefdom of many heads, timber-runs,
+whale-bladder war-drums). What matters for running *him*:
+
 - **Sayid has co-opted an *element* of it** — unified a few of the tribes (not
   the whole fleet; neither he nor Blackacre has that kind of pull) — and used
   them to **do something unsavory on Lonka**. **[settled]**
@@ -85,6 +115,22 @@ highlight him — see **Encounter hooks** at the bottom.
 - **Comedic register dissonance:** Blackacre is **silly, informal, pirate-accented
   nearly all the time**, but goes **formal and stiff around other dragonborn.**
   Great source of in-play moments. **[settled]**
+- **Accent:** a **Hollywood pirate accent**, not a Levantine rasp — Ahms is
+  playing the swashbuckler, not the dialect. Ties into the **Mukka gag**: he's
+  avoiding the place, so if the party drags him there he's **constantly rolling
+  stealth checks** and acting cagey. **[settled]**
+- **Tattoos** — two motifs, both sailor's-luck logic: **[settled]**
+  - A **shipwreck-survivor icon.** (1950s navy sailors tattooed pigs and
+    chickens because those crates floated free in a wreck.) Blackacre's is the
+    Nila equivalent — a **creature that floats / survives the wreck** (Ahms
+    floated a **flumph**, half-joking; pick a D&D beast that bobs). **[loose —
+    exact creature TBD]**
+  - **Sailcloth** patterning **running the length of his arms and legs.**
+- **Creation myth (all dragonborn):** the primordial dragon **Taniyn** rested
+  her wings and the sea raised **Lonka** up to meet her; dragonborn are her
+  children. It's why Lonka is holy to nomad and zealot alike — and the deeper
+  reason Blackacre **couldn't bring himself to raid it.** See
+  [lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md). **[settled]**
 - **Religion / theme — the Wandering.** His faith is the veneration of
   **mythological wandering dragonborn saints** — solitary heroes who sailed
   out alone in tiny boats, did demigod-scale deeds (Heracles / Maui / Coyote
@@ -101,8 +147,12 @@ highlight him — see **Encounter hooks** at the bottom.
   he keeps literally arriving at their graves — and realizes the saints'
   penance-through-deeds is his own atonement in legend. **[settled — per
   6/19 chat]**
-- **Cannibalism:** the idea of **humanoid-eating dragonborn** was floated as
-  added depth for piracy; DM said it "may be added." **[loose — not locked]**
+- **Cannibalism:** **Ahms is pro** — he pitched **humanoid-eating dragonborn**
+  as added depth for piracy and it "doesn't bother him at all." The DMs were
+  initially squeamish (*"there are monsters; we are not monsters"*) but landed
+  on **"cannibalism may be added"** (filed, per the table's running joke, below
+  Andrew-romancing on the red-flag list). **[loose — Ahms wants it; DM
+  tentatively open; decide whether it's nomads, zealots, or both]**
 
 ## Key NPCs
 
@@ -144,16 +194,20 @@ highlight him — see **Encounter hooks** at the bottom.
   Remaining: **lock the four saints' names** (Idris / Anzar / Wazzan / Tariq)
   and **pick inscriptions** for Anzar, Wazzan, Tariq (Requiem → Idris is set).
 - Lock or drop **cannibalism** as a cultural trait, and decide whether it's the
-  zealots, the nomads, or both.
+  zealots, the nomads, or both (Ahms wants it; DM tentatively open).
+- Pick the **shipwreck-survivor tattoo creature** (flumph was the joke pitch).
 - Place the reserved name **"Salahadin."**
 - A specific **good/bad deed from his past** the DM can pull an NPC from (asked,
   not yet answered).
+- Whether to run the **lost-tribes-of-dragonborn** quest (Carthage/Phoenician
+  survivors in hidden coves — see [lore/floating-fleet.md](../lore/floating-fleet.md)).
 
 ---
 
 ## Appendix — "Sea-Fever" (John Masefield)
 
-To be woven into Blackacre's religion or a quest.
+The **creed of the Wandering** — see
+[lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md).
 
 > I must go down to the seas again, to the lonely sea and the sky,
 > And all I ask is a tall ship and a star to steer her by;
