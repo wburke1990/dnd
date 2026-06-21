@@ -25,6 +25,8 @@ githyanki = "githyanki"
 githzerai = "githzerai"
 yuan = "yuan"
 nat = "nat"
+# Egyptian mythology / campaign proper nouns typos mis-flags.
+Hapy = "Hapy"  # Son of Horus / Nile god — not "Happy"
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.

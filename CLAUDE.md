@@ -131,6 +131,7 @@ aborted.
 ## Repo layout
 
 - `bestiary/` — creature stat blocks & encounter tables (markdown)
+- `encounters/` — prepared set-piece encounters & scenes (markdown)
 - `characters/` — PC backstories & references (markdown + portraits)
 - `lore/` — worldbuilding (markdown)
 - `prompts/` — AI image-generation prompts, kept verbatim (markdown)
