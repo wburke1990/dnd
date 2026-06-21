@@ -12,11 +12,11 @@ far as human eye could see,
 Saw the Vision of the world, and all the wonder that would be;
 Saw the heavens fill with commerce, argosies of magic sails,
 Pilots of the purple twilight, dropping down with costly bales;
-Heard the heavens fill with shouting, and there raind a ghastly dew
-From the nations airy navies grappling in the central blue;
+Heard the heavens fill with shouting, and there rain'd a ghastly dew
+From the nations' airy navies grappling in the central blue;
 Far along the world-wide whisper of the south-wind rushing warm,
-With the standards of the peoples plunging thro the thunder-storm;
-Till the war-drums throbbd, no longer, and the battle-flags were furled
+With the standards of the peoples plunging thro' the thunder-storm;
+Till the war-drums throbb'd no longer, and the battle-flags were furled
 In the Parliament of man, the Federation of the world.
 There the common sense of most shall hold a fretful realm in awe,
 And the kindly earth shall slumber, lapt in universal law.
