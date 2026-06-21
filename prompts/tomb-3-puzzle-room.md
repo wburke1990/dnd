@@ -1,0 +1,13 @@
+# Tomb 3 Puzzle Room — Wall Painting
+
+*Image-generation prompt, kept verbatim. (Tomb 3 / Hapi, from the Valley of the Kings encounter.)*
+
+---
+
+tomb3 puzzle room
+
+Ancient Egyptian tomb wall painting, monumental scale, covering a full limestone wall floor to ceiling. Painted directly onto plastered limestone with natural mineral pigments over 3000 years ago. Rendered in the style of Thutmose III Valley of the Kings Book of Gates wall compositions, KV34. Not a photograph, not an illustration, not a print — the painting itself, as it exists on the stone wall, emerging from deep shadow. No implied light source, no torches, no modern lighting. The darkness of the tomb is the context. Aged and weathered — pigment faded and flaked in places, limestone texture visible beneath paint in worn sections, mineral deposits and staining across the surface, cracks running through the plaster. The colors have deepened and shifted with millennia — deep greens now complex teal-grey, blacks still stark, whites now ivory-cream, the red and orange flame accents remaining the most vivid surviving color in the composition. Muted and earthen color palette, colors desaturated with age, no vivid or saturated modern colors, the palette of minerals and earth and time. The painting exists in its own darkness, ancient and undisturbed.
+
+Composition divided vertically into two parallel paths — left and right — both leading toward a distant suggested light source at the top of the image. Left path shows a land route through darkness, a series of three massive gates each flanked by towering monstrous guardian figures in strict Egyptian profile — one with a serpent head, one with a crocodile head, one with a jackal head — each carrying knives, their scale enormous in hieratic proportion compared to the small white soul figure being led through by a tall jackal-headed god carrying an ankh, identified as Anubis. Right path shows a water route, a small boat navigating dark water with flames painted in aged red and orange beneath the surface — the Lake of Fire. Between the two paths a thick band of painted darkness separates them, a wall of absolute black pigment. In the upper background behind both paths a tall ibis-headed figure — Thoth — stands recording on a papyrus palette, watching both routes simultaneously, his scale larger than the soul figure but smaller than the guardian figures.
+
+Photorealistic aged limestone and mineral pigment texture. The guardian figures dominate the composition, their scale deliberately intimidating and sacred. The scale feels overwhelming. Not a modern illustration, not cartoonish, not graphic design, not fantasy art. Ancient pigment on ancient stone. --ar 16:9 --style raw --q 2
