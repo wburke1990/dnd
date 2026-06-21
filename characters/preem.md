@@ -82,6 +82,40 @@ of years since the carbon in that sample began to decay** — i.e. how long ago
 the thing died. Made for dating mummies, grave goods, and crumbling scrolls in
 the tombs.
 
+## After the first two sessions — what's canon at the table
+
+Established **in play** over the first two sessions. This is the version the
+party has actually been handed, and it sharpens the brainstorm above: the
+"maps" and "stone" of the [gifts](#preems-gifts--bestowed-in-the-first-scene)
+table are now concrete objects with a defined mechanic. **[in play]**
+
+- **The atlas.** Preem has bestowed on the party an **atlas of maps**, one of
+  them **marked with the locations they must visit**. It is the literal
+  itinerary of the quest — the marked map says *where*, the stone says *what*
+  and *how*.
+- **The location stone.** A **special stone** that pairs with the atlas. **When
+  the party is at a location shown on the map, they apply the stone to that
+  location on the map, and instructions appear** to assist them in finding the
+  object or item to be recovered there. It is a guidance relic, not just a
+  comms link — Preem is steering the recovery hands-on from a distance.
+- **The call to adventure — the comet.** A **comet is already visible in the
+  sky**, and it will **arrive in one year.** Preem has **assembled and set
+  forth various groups** (the party is one of several) to **collect the items he
+  will need to fend off the impending catastrophe.** What is coming is left
+  ominously open at the table — *a demon? a god fallen from the sky?*
+- **The prophecy.** Preem frames the stakes with the omen:
+
+  > "The bleeding star bespoke the end. These are the last days, when the world
+  > shall be broken and remade. A new god shall be born from the graves and
+  > charnel pits."
+
+This dovetails with the Foundation's **Ragnarok-within-a-year** clock below: the
+comet *is* the bleeding star, the one-year fuse is the same fuse, and the
+multiple collection-groups are how the First Chair hedges his preparations. The
+"new god born from the graves and charnel pits" reads cleanly against Preem's
+private demon-binding work and the tombs/names quest — graves and charnel pits
+are exactly where he sends the party.
+
 ## The Second Foundation & Ragnarok
 
 Full treatment in [the Second Foundation](../lore/the-second-foundation.md).
