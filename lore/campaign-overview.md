@@ -86,12 +86,12 @@ Medjed, the 42 assessors, the seven-part soul, the Serpent of Punt — preserved
 verbatim (see [handouts](../handouts/) and
 [Egyptian afterlife mythology](egyptian-afterlife-mythology.md)).
 
-The world reads as **stitched from different real mythologies** — Egyptian in
-Maalm, Norse in the northern map regions, Mesopotamian, Celtic-weird — each region
-running on its own strange cosmology, played straight.
-
-- `[OPEN — confirm the "world = patchwork of real ancestral mythologies, one per
-  region" framing, and which myth-cultures map to which regions.]`
+**Confirmed:** the world *is* a patchwork of real ancestral mythologies — one
+cosmology per region, played straight. **Egypt (Maalm) was deliberately first**
+because Will knows it *least* well, which forced disciplined primary-source
+research; the regions the party spends more time in (the Norse north, etc.) will
+be richer and more fully fleshed because Will already knows them deeply. The
+region → myth map lives in §5.
 
 ---
 
@@ -121,8 +121,22 @@ These aren't just preferences — several are load-bearing for the themes above.
 - **The comet cycle** — ~1,000-year catastrophe cycle; the "Fall of the Star"
   / Krakatoa-analog reshaped the world 5,000 years ago (see
   [Amseh dynasty](amseh-dynasty.md)).
-- `[OPEN — region-by-region myth map; current cycle year; the present-day political
-  map.]`
+**Regions & their mythologies** — `[OPEN — confirm/correct; decoded from the map
+names, strongly suggestive but unconfirmed]`:
+
+| Region (map) | Likely mythology |
+|---|---|
+| Maalm | Egyptian ✓ (established) |
+| Musleheim | Norse — Muspelheim, the realm of fire |
+| Suartleheim (Weet / Eet = West / East) | Norse — Svartalfheim, dark elves / dwarves |
+| Lonka | South Asian — Lanka (Ramayana) |
+| Kalikhat | South Asian — Kali / Hindu? |
+| Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? |
+| Moku & Noku Kurunatuka | Polynesian / Oceanic |
+| Mukka | ? |
+
+Also `[OPEN]`: current comet-cycle year; present-day political map; which region is
+the campaign's home base / where the party spends the most time.
 
 ---
 
