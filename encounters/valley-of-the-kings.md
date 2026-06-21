@@ -568,13 +568,13 @@ If they ask about specific figures:
 
 *In the center of the room, a sarcophagus. Beside it, not in front of it, a second inscription carved into the wall at eye level — smaller than the cartouche on the lid, more careful, as if someone took time with it that they didn't have.*
 
-*But your eyes go to the base of the walls first. Arranged in a row, so carefully placed they could not be accidental, five small rectangular shapes. Child-sized. Each one slightly different. Each one sealed. They are painted in blue — still vivid, still saturated, in a chamber where everything else has faded. Someone used the best pigment they had for those."*
+*But your eyes go to the base of the walls first. Arranged in a row, so carefully placed they could not be accidental, seven small rectangular shapes. Child-sized. Each one slightly different. Each one sealed. They are painted in blue — still vivid, still saturated, in a chamber where everything else has faded. Someone used the best pigment they had for those."*
 
 If they look at the unfinished painting:
 
 *"The central composition shows a kneeling figure — a king, identifiable by his crown, which is slightly askew — with his hands raised toward a row of empty thrones above him. The thrones are elaborate. No gods sit in them. The empty seats are the most important thing in the image."*
 
-If they ask about the five coffins:
+If they ask about the seven coffins:
 
 They are sealed and small. A DC 12 Medicine check confirms they are sized for children. They have not been disturbed. There is nothing more to know about them from the outside.
 
@@ -673,7 +673,7 @@ The cartouche reads Amseh IV. Sealed. Inside, a mummified body. Nothing else. Th
 2. **The Ancient Map** — displayed when party examines the carved relief on the valley floor, and again in Tomb 1 inner chamber
 3. **Tomb 2 inner chamber** — the Shipwrecked Sailor painting
 4. **Tomb 3 inner chamber** — the Battle of Dijay painting
-5. **Tomb 4 inner chamber** — the unfinished lament with the five blue coffins
+5. **Tomb 4 inner chamber** — the unfinished lament with the seven blue coffins
 
 *Puzzle room paintings are described verbally rather than shown as images.*
 
