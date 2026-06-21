@@ -118,11 +118,19 @@ These aren't just preferences — several are load-bearing for the themes above.
   [house rules](house-rules-and-world-mechanics.md)).
 - **Maalm** — conquest-city built atop the ruined Amseh empire and over the place
   where **Ammit** sleeps (see [the founding](maalm-founding.md)).
+- **Origin & the common ancestor** — history begins ~6,000 years ago with the
+  comet's first drop: a **primordial dragon** fell from the comet and **turned
+  herself into the dragonborn island.** Her children filled the world — first on
+  the backs of literal dragons, later in boats crewed by dragonborn. On Nila
+  **mutation runs fast**, so those descendants diversified into the full sprawl of
+  D&D species. **Almost every race is homebrewed as descending from that one
+  common ancestor.** (The first event in history is thus a transformation — the
+  whole comet cosmology made literal at the creation.)
 - **The comet cycle & a world in flux** — a ~1,000-year comet cycle drives
   recurring volcanism and climate swings; the "Fall of the Star" / Krakatoa-analog
   reshaped the world 5,000 years ago (see [Amseh dynasty](amseh-dynasty.md)).
   Later passes (~4,000 / 3,000 / 2,000 years ago) **built the entire island of
-  Musleheim** through volcanism. The most recent pass (~2,000 years ago) **went
+  Musleheim** through volcanism. The most recent pass (~1,000 years ago) **went
   badly** — it blanketed the continent in an **alchemical, mutating sickness**.
   Sea levels swing dramatically and **islands come and go.** It is a wild,
   unstable time (and a transformation engine in its own right).
