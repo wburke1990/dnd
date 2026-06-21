@@ -62,20 +62,25 @@ an army of demon slaves. The merchant bound **one** demon, his wife, to himself
 with her true name. Preem has bound an army the same way. The merchant *"just
 had the decency to only bind one."*
 
-And Preem **knew him.** Not closely — a minor supplier, or an acquaintance from
-a merchant guild — but Preem knew about the wife the whole time, and he is the
-one who **set the young merchant on this path**: who told him where to find a
-bound demon, and how to "free" her by taking her true name and casting Planar
-Binding. The merchant believed he was rescuing a demon from a cruel wizard. He
-was being **recruited into a system.** He never scaled up.
+And Preem **was the cruel wizard.** The demon the merchant thought he was
+heroically rescuing had been **bound by Preem in the first place** — the
+"rescue" was a staged recruitment. Preem knew the merchant (a minor supplier,
+or a guild acquaintance), told him where to find the "captive" demon, and taught
+him to "free" her by taking her true name and casting Planar Binding. The
+merchant believed he was thwarting a cruel wizard. He was being **recruited into
+a system.** He never scaled up.
 
 - Keep this entirely off the table until the party uncovers Preem's true
   operation later in the campaign. The payoff is the moment someone asks *"wait —
-  did the wizard know about the wife?"* and the answer is **yes. He always did.**
-- **[loose]** Decide whether the "cruel wizard" the merchant thought he was
-  freeing the demon *from* was **Preem himself** — a staged rescue to recruit
-  him — or whether Preem only pointed the way. Either reading makes the merchant
-  tragic rather than merely guilty.
+  did the wizard know about the wife?"* and the answer is **yes. He bound her
+  himself.**
+- **Preem still knows her true name.** Her husband is dead and his binding died
+  with him, but Preem's claim never lapsed — he can summon and re-bind her at
+  will, so **the party may meet her again** later in the campaign.
+- **Keep it a mystery.** Never state that she would have stayed, or that she
+  loved him, or that she didn't. *"I don't know what I would have chosen"* is
+  the whole truth the campaign offers — the binding made the question
+  permanently unanswerable, even to her. Leave it that way.
 
 **Why the wife could never escape — the true-name rule.** In this world,
 casting **Planar Binding while speaking a fiend's true name auto-succeeds: no

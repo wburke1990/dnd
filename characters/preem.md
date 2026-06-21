@@ -104,22 +104,24 @@ true name, renewing Planar Binding every year until he died, telling himself it
 was love. He is *"a small-scale version of the wizard. He just had the decency
 to only bind one."*
 
-And the connection is direct: **Preem knew him.** **[settled]** Not closely —
-a minor supplier, or an acquaintance from a merchant guild — but Preem **knew
-about the wife the whole time**, and he is the one who **set the young merchant
-on this path**: who told him where to find a bound demon and how to "free" her
-by taking her true name and casting Planar Binding. The merchant believed he
-was cleverly rescuing a demon from a cruel wizard. He was being **recruited into
-a system** — Preem's system — and he simply never scaled up.
+And the connection is direct: **Preem was the cruel wizard.** **[settled]** The
+demon the merchant thought he was heroically *rescuing* had been **bound by
+Preem in the first place.** Preem knew the merchant — not closely, a minor
+supplier or a guild acquaintance — and **set him on the path**: told him where
+to find a "captive" demon and how to "free" her by taking her true name and
+casting Planar Binding. The rescue was theater. The merchant believed he was
+thwarting a cruel wizard; he was being **recruited into Preem's system**, and he
+simply never scaled up.
 
 - This makes the merchant **tragic rather than merely guilty**, and it makes
   Preem's eventual reveal land far harder: when the party learns the true scope
   of his operation, someone asks *"wait — did he know about the wife?"* and the
-  answer is **yes. He always knew.**
-- **[loose] — the darker option:** that the "cruel wizard" the merchant thought
-  he was freeing the demon *from* was **Preem himself**, who staged the rescue
-  to recruit him. Decide whether Preem was the original binder or only the one
-  who pointed the way.
+  answer is **yes. He bound her himself.**
+- **Preem still knows her true name.** **[settled]** The merchant is dead and
+  his hold died with him, but Preem's claim never lapsed — he can summon and
+  re-bind her at will, so **the party may meet her again.** What she would have
+  chosen is a **mystery the campaign never resolves** — never state that she
+  would have stayed.
 - Without their knowing it, the quest is also Preem's gift to the party: it
   **teaches them Planar Binding and what a true name does** (see
   [True Names & Planar Binding](preems-demons.md#true-names--planar-binding-homebrew-house-rule))
@@ -160,10 +162,13 @@ The whole campaign points here. **[settled]**
 
 ## Encounter hooks
 
-1. **The tower, first visit** — Preem briefs the party on the names quest and
-   hands over the [sending stone](../encounters/valley-of-the-kings.md#the-map-mechanic).
-   His associate **Mul** (a Yochlol in elf form) does the greeting on later
-   visits. Every servant they pass is a disguised demon.
+1. **The opening scene — Preem's study.** The campaign *opens* here: the party
+   meets Preem in his office. He briefs them on the names quest and hands over
+   the [sending stone](../encounters/valley-of-the-kings.md#the-map-mechanic).
+   In the same scene he gifts **Jasper** a "psychic bat" familiar — really a
+   quasit spy (see [The Psychic Bat](the-psychic-bat.md)). His associate **Mul**
+   (a Yochlol in elf form) does the greeting on later visits, and every servant
+   the party passes is a disguised demon.
 2. **The names come back** — as the party relays names from the tombs, the
    payments arrive (5 gp/name, dropped by an invisible quasit during a long
    rest). The economy of the quest *is* the on-ramp to discovering what the

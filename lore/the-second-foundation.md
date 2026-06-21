@@ -14,6 +14,10 @@ members hold that the world ends and remakes itself on a long cycle — the
 cataclysm the campaign calls **Ragnarok** — and that the next one is due
 **within roughly a year.** They exist to **prepare** for it. **[settled]**
 
+- **"Second Foundation" is a planning placeholder, not the in-world name.** The
+  order is **as yet unnamed** in the fiction — we use "Second Foundation" as the
+  working label (and a quiet Asimov nod). Pick its true name before the party
+  can learn one. **[settled — it's a working name]**
 - They are seated in the **citadel** of Maalm, beside the **council**. Their
   proximity to the seat of power is the whole point of the name: they are a
   *foundation* under the city's authority — and, for the Asimov-literate, a
@@ -74,6 +78,13 @@ demise of the valley kings.** **[settled]**
   Foundation is their inner, forward-looking cabal**: the elves old enough and
   connected enough to be planning for the *next* turn of the cycle, not just
   remembering the last.
+- The order has been **binding demons with their true names for at least a
+  thousand years** — since the founding. Demon-binding isn't Preem's invention;
+  it is the order's millennium-old practice, and he is only its current First
+  Chair. (The demons they bind are *"older than the oldest elves"* and remember
+  the founding firsthand — see
+  [Preem's demons](../characters/preems-demons.md#demonic-restoration-homebrew-house-rule).)
+  **[settled]**
 
 ## 4. Preem's heresy within the Foundation
 
@@ -84,6 +95,11 @@ in brief:
 - He uses his prestigious tower-residence to **hide his demon-binding** behind
   the council's authority. **Every servant in the tower is a disguised demon**
   (see [Preem's demons](../characters/preems-demons.md)).
+- He has bound demons **personally for longer than the party can imagine** —
+  including the demon wife of [the dream quest](../encounters/the-dream-quest.md),
+  whom he bound, then placed with a merchant through a staged "rescue," and
+  whose true name **he still holds.** She may resurface; he can re-bind her at
+  will.
 - He has a **post-Ragnarok scheme** to unleash demons once the cataclysm hits —
   a follow-up the rest of the Foundation is not party to.
 - And the escalation that makes him dangerous *now*: **why wait a year for the

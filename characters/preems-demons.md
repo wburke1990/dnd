@@ -107,6 +107,14 @@ stone. **[settled]**
 - Keeps the names-for-coin economy feeling like clockwork magic rather than a
   transaction with a monster.
 
+## The familiar — the "psychic bat"
+
+A **second quasit**, separate from the paymaster: the one Preem gifted to
+**Jasper** in the campaign's opening scene, disguised as a psychic-bat
+**familiar** and planted as a **spy.** It speaks only in Jasper's mind at first,
+and the player isn't in on it either. Full treatment in
+[The Psychic Bat](the-psychic-bat.md). **[settled]**
+
 ## The escalation roster
 
 As the party's relationship with Preem sours, the demons sent after them climb
