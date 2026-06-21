@@ -118,9 +118,23 @@ These aren't just preferences — several are load-bearing for the themes above.
   [house rules](house-rules-and-world-mechanics.md)).
 - **Maalm** — conquest-city built atop the ruined Amseh empire and over the place
   where **Ammit** sleeps (see [the founding](maalm-founding.md)).
-- **The comet cycle** — ~1,000-year catastrophe cycle; the "Fall of the Star"
-  / Krakatoa-analog reshaped the world 5,000 years ago (see
-  [Amseh dynasty](amseh-dynasty.md)).
+- **The comet cycle & a world in flux** — a ~1,000-year comet cycle drives
+  recurring volcanism and climate swings; the "Fall of the Star" / Krakatoa-analog
+  reshaped the world 5,000 years ago (see [Amseh dynasty](amseh-dynasty.md)).
+  Later passes (~4,000 / 3,000 / 2,000 years ago) **built the entire island of
+  Musleheim** through volcanism. The most recent pass (~2,000 years ago) **went
+  badly** — it blanketed the continent in an **alchemical, mutating sickness**.
+  Sea levels swing dramatically and **islands come and go.** It is a wild,
+  unstable time (and a transformation engine in its own right).
+- **The world's defining tension** — Nila is *mostly water*, and two forces pull
+  against each other with no clean answer:
+  - **Colder** → the ice caps grow, sea level drops, **more land** becomes available.
+  - **Warmer** → more precipitation and more ocean currents surfacing minerals,
+    so **more resources and food production** — but less land.
+
+  Land and food are effectively a zero-sum trade. This is fertile ground for the
+  no-easy-choices, anti-colonial resource-competition themes above: whoever wants
+  more land is wishing for everyone to have less to eat, and vice versa.
 **Regions & their mythologies** — `[OPEN — confirm/correct; decoded from the map
 names, strongly suggestive but unconfirmed]`:
 
