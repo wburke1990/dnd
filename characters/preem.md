@@ -59,6 +59,24 @@ restocking a demon-binder's pantry. **[settled — synthesizes the chat's
 jewels and spell components to summon more demons" with the existing names
 mechanic.]**
 
+## Preem's gifts — bestowed in the first scene
+
+In the opening study scene, Preem outfits each party member for the quest.
+**[settled]**
+
+| Recipient | Gift |
+|-----------|------|
+| [Blackacre](blackacre.md) | The **maps**, the **message stone** (the paired [sending stone](../encounters/valley-of-the-kings.md#the-map-mechanic) for relaying names), and a **boat** |
+| **Jasper** | **Amulet of Find Familiar** — one free summon/day; the "psychic bat" that is really a quasit spy (see [The Psychic Bat](the-psychic-bat.md)) |
+| **Aniess** | **Timebiter** |
+| **Pax** | **Glasses of Detect Magic** |
+| **Sarric** | **Pen of Comprehend Languages** |
+
+Every gift doubles as a leash: the message stone routes the party's finds to
+**Mul**, and Jasper's familiar reports back to Preem directly.
+
+> **Loose:** *Timebiter* has no writeup yet — define its effect.
+
 ## The Second Foundation & Ragnarok
 
 Full treatment in [the Second Foundation](../lore/the-second-foundation.md).
@@ -120,8 +138,7 @@ simply never scaled up.
 - **Preem still knows her true name.** **[settled]** The merchant is dead and
   his hold died with him, but Preem's claim never lapsed — he can summon and
   re-bind her at will, so **the party may meet her again.** What she would have
-  chosen is a **mystery the campaign never resolves** — never state that she
-  would have stayed.
+  chosen is a **mystery the campaign never resolves.**
 - Without their knowing it, the quest is also Preem's gift to the party: it
   **teaches them Planar Binding and what a true name does** (see
   [True Names & Planar Binding](preems-demons.md#true-names--planar-binding-homebrew-house-rule))

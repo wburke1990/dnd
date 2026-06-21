@@ -41,7 +41,7 @@ The dead man's confession is the climax of the session. Everything before it is 
 
 The children are half-demon. Their mother was bound to the material plane by their father using her true name, renewed in a Planar Binding spell every year for thirty-one years. They are the children of that binding — born of it, shaped by it. Their souls are half-anchored to the Abyss in a way that makes the Duat inaccessible to them. They cannot enter the river of stars because they are not fully of the mortal world that feeds into it. They are not fully of the demon world either. They exist in between, and the door to the afterlife does not open for them.
 
-Their mother spoke one sentence after their father died, to no one in particular, before falling silent: *"I don't know what I would have chosen."* This is the truth. Not that she would have stayed. Not that she would have left. The binding made the question permanently unanswerable, even to her. She does not know what she would have chosen because she was never free to find out.
+Their mother spoke one sentence after their father died, to no one in particular, before falling silent: *"I don't know what I would have chosen."* This is the truth. The binding made the question permanently unanswerable, even to her. She does not know what she would have chosen because she was never free to find out.
 
 **David voices the older child.** The older child has decided that the love their mother showed them was real and that is enough. They feel lighter after the dream quest — not happy, but done, in the way of someone who has waited a long time for something to be over and finally it is.
 
@@ -77,10 +77,10 @@ a system.** He never scaled up.
 - **Preem still knows her true name.** Her husband is dead and his binding died
   with him, but Preem's claim never lapsed — he can summon and re-bind her at
   will, so **the party may meet her again** later in the campaign.
-- **Keep it a mystery.** Never state that she would have stayed, or that she
-  loved him, or that she didn't. *"I don't know what I would have chosen"* is
-  the whole truth the campaign offers — the binding made the question
-  permanently unanswerable, even to her. Leave it that way.
+- **Keep it a mystery.** Don't resolve whether she loved him. *"I don't know
+  what I would have chosen"* is the whole truth the campaign offers — the
+  binding made the question permanently unanswerable, even to her. Leave it
+  that way.
 
 **Why the wife could never escape — the true-name rule.** In this world,
 casting **Planar Binding while speaking a fiend's true name auto-succeeds: no
