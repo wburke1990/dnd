@@ -155,7 +155,7 @@ She outlived him. She remained in the valley — unable or unwilling to leave �
 
 Her name is inscribed beside Amseh IV's cartouche in the inner chamber — not above it, not below it, but beside it, as an equal. Someone took time with that inscription that they didn't have.
 
-**Economic records in Tomb 3:**
+**Economic records in Tomb 4:**
 There are no meaningful trade or crop records in Tomb 4. The reign was too short and too catastrophic to produce the kind of sustained data the earlier tombs contain. What records exist show only collapse — yields near zero, trade nonexistent, military expenditure replaced by ritual expenditure as sacrifice became the empire's primary response to crisis.
 
 **What the tomb tells us:**
@@ -198,7 +198,7 @@ The comet operates on a 1,000-year cycle. The Krakatoa-analog event was 5,000 ye
 Ammit devoured the survivors of the empire's collapse and took up residence in the ruins. A thousand years later Beowulf fought her and the city of Maalm was built above them both. The party walks on ground where Ammit — or what remains of her after Beowulf — sleeps. This has not been made explicit to them.
 
 **The wizard and the names:**
-The wizard sent the party to collect names from the tombs. The names of four kings, multiple gods, and Kethara/Farseh-ti are findable. Whether the wizard wants royal names specifically, divine names, or all names is something the Yochul has not clarified. The theological connection between Egyptian soul theory (the Ren as a component of the soul) and the Planar Binding mechanic suggests the wizard understands something about names that the party does not yet.
+The wizard sent the party to collect names from the tombs. The names of four kings, multiple gods, and Kethara/Farseh-ti are findable. Whether the wizard wants royal names specifically, divine names, or all names is something the Yochlol, Mul, has not clarified. The theological connection between Egyptian soul theory (the Ren as a component of the soul) and the Planar Binding mechanic suggests the wizard understands something about names that the party does not yet.
 
 **The snake island as a future location:**
 The ancient map shows where the snake island was. The party has the map. Whether the island still exists, what happened to the Serpent of Punt during and after the volcanic catastrophe, and whether contact could be reestablished are open campaign questions.
