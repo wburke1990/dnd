@@ -81,7 +81,7 @@ stone. **[settled]**
   this group is not a sci-fi group, so I doubt they'll figure out Mul is The
   Mule. Not going to overthink that one."*
 - **Role:** holds the **paired sending stone**. When the party relays names, it
-  replies **in Sylvan**: *"Thank you for the names. I am dispatching your
+  replies **in Elvish**: *"Thank you for the names. I am dispatching your
   payment now."* On later visits to the tower, **Mul is the one who greets
   them.**
 - **Voice & manner:** a **very nasally voice**; plays **unassuming** and
