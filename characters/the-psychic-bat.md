@@ -1,8 +1,9 @@
 # The Psychic Bat — Jasper's familiar (secretly a quasit)
 
-The DM-character familiar gifted to **Jasper** in Preem's study during the
-campaign's opening scene. Jasper believes it is a **psychic bat**. It is in
-fact a **quasit** — a secret spy for [Preem](preem.md). Distilled from the
+The DM-character familiar gifted to **Jasper** — a PC whose player is
+**Doug** — in Preem's study during the campaign's opening scene. Jasper believes
+it is a **psychic bat**. It is in fact a **quasit** — a secret spy for
+[Preem](preem.md). Distilled from the
 6/8/26 Discord brainstorm. Companion to [Preem's demons](preems-demons.md).
 
 > Legend: **[settled]** = agreed in chat · **[loose]** = floated, not locked.
@@ -14,7 +15,7 @@ fact a **quasit** — a secret spy for [Preem](preem.md). Distilled from the
 - It is really a **quasit** — *Fiend (Demon), CR 1, Tiny —
   [5e.tools](https://5e.tools/bestiary.html#quasit_xmm)* — one of Preem's bound
   demons, planted as a **spy.** Jasper **has no idea** — keep the secret from
-  the **player**, not just the character. **[settled]**
+  **Doug** (the player), not just the character. **[settled]**
 - This is a **second quasit, distinct from** the invisible paymaster quasit
   that drops 5 gp/name during long rests (see
   [Preem's demons](preems-demons.md#the-quasit--the-paymaster)).

@@ -75,7 +75,12 @@ In the opening study scene, Preem outfits each party member for the quest.
 Every gift doubles as a leash: the message stone routes the party's finds to
 **Mul**, and Jasper's familiar reports back to Preem directly.
 
-> **Loose:** *Timebiter* has no writeup yet — define its effect.
+**Timebiter** (Aniess) is the party's radiocarbon-dating tool — a **mortar and
+pestle.** Like the other gifts it grants a **free 10-minute ritual** (once per
+day): grind a sample of **organic material** in it and it returns the **number
+of years since the carbon in that sample began to decay** — i.e. how long ago
+the thing died. Made for dating mummies, grave goods, and crumbling scrolls in
+the tombs.
 
 ## The Second Foundation & Ragnarok
 
