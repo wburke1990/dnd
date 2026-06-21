@@ -1,6 +1,10 @@
 # On Ragnarok #1 — Player Handout
 
-*An in-world scroll, to be presented to players as "translated from an ancient scroll." A ship's-log account of the catastrophe (the bleeding star / Krakatoa eruption) that underlies the campaign. The "#1" implies a series. Verbatim, line breaks and indentation preserved. (See the bleeding-star lore in [handouts/ramses-victory-dijay.md](ramses-victory-dijay.md) and the Fall of the Star in [prompts/tomb-1-inner-chamber-ancient-map.md](../prompts/tomb-1-inner-chamber-ancient-map.md).)*
+*An in-world scroll, to be presented to players as "translated from an ancient scroll." A ship's-log account of the catastrophe (the bleeding star / Krakatoa eruption) that underlies the campaign. The "#1" implies a series. Verbatim, line breaks and indentation preserved.*
+
+*Real-world source: Alan Gould, "Krakatoa," written in the voice of **Charles Bal** — captain of the* Charles Bal*, who logged the real 1883 eruption from the Sunda Strait. ("smocks of ash, robes" is Gould's own wording and is kept as-is.)*
+
+*(See the bleeding-star lore in [handouts/ramses-victory-dijay.md](ramses-victory-dijay.md) and the Fall of the Star in [prompts/tomb-1-inner-chamber-ancient-map.md](../prompts/tomb-1-inner-chamber-ancient-map.md).)*
 
 ---
 
