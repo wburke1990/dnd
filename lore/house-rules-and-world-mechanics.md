@@ -59,7 +59,7 @@ This means:
 - She stayed two weeks after her husband died — past the point where the binding compelled her to stay — at real physical cost
 - The wizard's bound demon army is not merely enslaved — it is enslaved and in continuous pain
 
-The Yochul shapeshifted into an elf at the wizard's tower is experiencing this right now, every time the party speaks to it.
+The Yochlol, Mul, shapeshifted into an elf at the wizard's tower is experiencing this right now, every time the party speaks to it.
 
 ## The Quasit Exception
 
