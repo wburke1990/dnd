@@ -1,6 +1,6 @@
 # Blackacre — character reference
 
-Player: **Ahms**. Distilled from the 6/2–6/10/26 backstory chat. This is a
+Player: **Ahms**. Distilled from the 6/2–6/19/26 backstory chat. This is a
 working reference for running the character and building encounters that
 highlight him — see **Encounter hooks** at the bottom.
 
@@ -85,9 +85,22 @@ highlight him — see **Encounter hooks** at the bottom.
 - **Comedic register dissonance:** Blackacre is **silly, informal, pirate-accented
   nearly all the time**, but goes **formal and stiff around other dragonborn.**
   Great source of in-play moments. **[settled]**
-- **Religion / theme:** weave **John Masefield's "Sea-Fever"** into his religion
-  or a quest. Exact incorporation TBD by player. **[loose — poem chosen, use TBD]**
-  Full poem archived at the bottom of this file.
+- **Religion / theme — the Wandering.** His faith is the veneration of
+  **mythological wandering dragonborn saints** — solitary heroes who sailed
+  out alone in tiny boats, did demigod-scale deeds (Heracles / Maui / Coyote
+  / Cú Chulainn), and died far from anyone, each marked by a **watch-stone**
+  you stumble on island to island. Full write-up — the four saints, their
+  deeds, their graves — in **[lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)**.
+  **[settled — per 6/19 chat]**
+- **"Sea-Fever" is the creed**, not a one-off quest: it's the **liturgy of
+  the Wandering**, recited the way scripture is, and its phrases are the
+  faith's vocabulary (death = *"when the long trick's over"*). Full poem at
+  the bottom of this file. **[draft — resolves the old "use TBD" thread]**
+- **Blackacre's arc with the faith:** **judgy and unimpressed at first**
+  (drowned show-offs with good publicists) but **grows to revere them** as
+  he keeps literally arriving at their graves — and realizes the saints'
+  penance-through-deeds is his own atonement in legend. **[settled — per
+  6/19 chat]**
 - **Cannibalism:** the idea of **humanoid-eating dragonborn** was floated as
   added depth for piracy; DM said it "may be added." **[loose — not locked]**
 
@@ -116,11 +129,20 @@ highlight him — see **Encounter hooks** at the bottom.
    history of the Zealots. Loaded ground for moral-weight encounters.
 5. **Preem & Mukka politics** — letters of marque as quest engine; pulls him
    between kingdoms' dirty work and his own atonement goal.
+6. **Watch-stones on every sea-road** — drop a wandering-saint's grave on the
+   route to any destination. Repetition is the point: stumbling onto stone
+   after stone is what turns Blackacre's eye-roll into faith. See the hooks in
+   [lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md) (esp.
+   **completing the labor Idris died before finishing** — maximum resonance
+   with his atonement arc).
 
 ## Open threads to resolve with the player
 
 - Invent the **dragonborn blessing/greeting** wording (Ahms's call).
-- Decide **how "Sea-Fever" is woven in** (religion vs. a specific quest).
+- ~~Decide how "Sea-Fever" is woven in~~ → **resolved:** it's the creed of
+  the Wandering ([lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)).
+  Remaining: **lock the four saints' names** (Idris / Anzar / Wazzan / Tariq)
+  and **pick inscriptions** for Anzar, Wazzan, Tariq (Requiem → Idris is set).
 - Lock or drop **cannibalism** as a cultural trait, and decide whether it's the
   zealots, the nomads, or both.
 - Place the reserved name **"Salahadin."**
