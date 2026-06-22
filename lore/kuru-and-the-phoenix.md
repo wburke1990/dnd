@@ -173,6 +173,29 @@ or infiltrate (the stone hears what its bearers hear) — but a **mad** hub mean
 whole hive can be misled, panicked, or commanded into something senseless by a
 god that no longer knows what it wants.
 
+### A finite god — the economy of the stone
+
+`[settled]` There is **only so much phoenix-stone in the world.** The god is **one
+fallen stone,** broken into the shards its faithful carry — so the **number of
+warforged is capped.** The Church cannot conjure more; it can only **redistribute
+what it has.** Kuru's religion therefore runs on a permanent, grinding **scarcity**
+no other faith knows.
+
+`[settled]` **A lost warforged is lost forever — and its stone with it.** Every
+brethren who falls abroad and is not recovered is a **permanent subtraction from the
+god,** stone that can never be reworked into a new convert. So the Church is under
+enormous pressure to **find its dead and bring them home — repatriating the bodies
+so the stone can be reclaimed and a new warforged made.** A fallen brother is less
+mourned than **inventoried.** *(This is exactly why [Aniess](../characters/aniess.md)
+is so eager to "deliver the Warforged to Kuru for glory": returning a lost brethren
+is returning precious, finite godstone — [party roster](../characters/party-roster.md).)*
+
+`[loose]` 🔒 **The stone gates demons.** Beyond power and the god's voice, phoenix-stone
+has **power over demons — it "gates" them** (`[OPEN]` exactly how: a ward that holds
+them off, a leash that binds them, or a gate that *opens* to them). This makes every
+shard a weapon against Kalikhat's demons — and makes any shard left lying among them
+far too dangerous to abandon (§5).
+
 ### Outside the hive — the other warforged
 
 `[settled]` **Not every warforged belongs to the phoenix.** The hive is only the
@@ -313,6 +336,21 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   still haunting its ruins (§3, *Outside the hive*). *(The present
   [Musleheim reconquest](the-muspel-empire.md) is a later, larger turn of the same
   colonial engine — [overview §3A](campaign-overview.md).)*
+- **The second crusades — the return for the bodies (`[loose]` dating).** `[settled]`
+  The first crusades left **warforged dead scattered across Kalikhat**, and with the
+  stone finite (§3), Kuru **could not leave them.** The second wave went back for
+  **all of it at once**, with four braided motives:
+  - **Repatriate the bodies** — recover the fallen brethren and **reclaim their
+    godstone** to make new warforged (§3);
+  - **Demons** — bring the phoenix-stone's **power over demons** (it "gates" them, §3)
+    to bear on Kalikhat's, and not leave such shards lying among the enemy;
+  - **Revenge** — for the first disaster (above);
+  - **Theft of a god** — Kuru, 🔒 **alone in understanding how godstones work,** meant
+    to **steal Kalikhat's own stone** (the region's god) for itself.
+
+  *Resource-extraction crusade — the colonial thesis at its most literal
+  ([overview §3A](campaign-overview.md)): sailing abroad to carry home your dead, your
+  enemy's demons, and a rival people's god.*
 - **Now (~1 year to the next pass).** Kuru is the **dominant power** but **weak at sea**
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
   will exploit. The phoenix is openly faltering. And the next pass is its **next
