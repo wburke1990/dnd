@@ -18,6 +18,13 @@ volcanism can be *handled* — channeled into controlled, land-building eruption
 left wild, in which case it is a Ragnarok. The First Foundation's whole craft is the
 handling.
 
+`[settled 6/22]` **The dragonborn were indispensable founders** — at Musleheim's raising
+(~4,000 ya) they were the **only people on Nila with ships,** so the seafaring half of
+"men and dragonborn" was theirs. But they did not stay: over the following millennium their
+faith turned **zealot,** and ~3,000 ya they **left the empire and walked the sea-tunnels home
+to retake Lonka/Jotunheim** (see [Lonka — Jotunheim §4](lonka-jotunheim.md)). Their exodus is
+why the [Muspel empire](the-muspel-empire.md) and **Kuru** end up *man*-dominated.
+
 ## What they built
 
 - **Origin — ~4,100 ya, the elder order.** The First Foundation must **predate the

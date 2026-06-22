@@ -79,22 +79,42 @@ dead for a millennium at least, and Lonka took the full blast of it — did the 
 become **habitable again**, and **elves out of Maalm settled it** (so, well after
 [Maalm's founding ~4,100 ya](maalm-founding.md)).
 They **renamed it Jotunheim**, the giants' land, in the Norse register of the northern
-seas. For a while it was theirs.
+seas. For a while it was theirs — **only a couple of centuries,** as it turned out (§4).
 
 ---
 
-## 4. The Zealot Reconquest — the dragonborn come back (later still)
+## 4. The Zealot Reconquest — the dragonborn walk home (~3,000 ya)
 
-Then **a great army of dragonborn arrived from parts unknown and massacred everyone on
-the island.** These are the **Lonka Zealots** — the insular dragonborn of the
-lost-tribes reclamation quest (*Sam's quest*; see [Blackacre](../characters/blackacre.md),
-who took a letter of marque to raid Lonka and **could not do it**, and
-[Taniyn & Lonka](taniyn-and-lonka.md)). To them this was not conquest but
-**reconsecration** — taking back the dragon's first perch from elf usurpers squatting on
-holy ground (the DM analogy already on file: *the Crusaders retaking Jerusalem*).
+`[settled 6/22]` The dragonborn who took Jotunheim back did not come *from parts unknown* —
+they came **from Muspelheim, on foot, under the sea.** The chain:
 
-They hold it still: **insular, mistrusted by the rest of the archipelago, but safe**
-behind their cliffs amid the chaos of the recent centuries.
+- **The dragonborn built the iron north.** When the comet raised **Musleheim** (~4,000 ya), the
+  dragonborn were **the only people on Nila with ships** (the master-mariner lashed tradition).
+  So they were **founding members of the [First Foundation](the-first-foundation.md)** ("men
+  *and* dragonborn") and of the **[Muspel empire](the-muspel-empire.md)** — and, settled on a
+  rich land empire for the first time in their history, they **multiplied** as a wandering
+  sea-people never could.
+- **A land empire changed their faith.** Across **1,000+ years** running Muspelheim, their
+  dragon-religion **drifted** — from the nomad's creed (*honor the flight, keep roaming*) toward
+  something **place-bound, insular, zealous** (*guard the holy ground*). This is the origin of
+  the **zealot strain** that divides them from the wandering saints (see
+  [Taniyn & Lonka](taniyn-and-lonka.md)).
+- **Then they left — and the gap shows.** By the time **Kuru is colonized (~3,000s) there are
+  strikingly few dragonborn left in the empire** (part of why Muspel and Kuru read as
+  *man*-dominated). Where did they go? **Home.** Once the **hot spot drifted southeast** and the
+  **northwest coast of Muspelheim cooled** enough to enter — the tunnels nearest the hot spot
+  run molten — **~3,000 ya at the earliest** — the zealots **walked the Abyss tunnels under the
+  sea** to the one island in range: **Jotunheim / Lonka,** Taniyn's first perch.
+- **You can't storm a fortress-caldera from the open sea** (sheer cliffs, one guarded channel,
+  §5) — so they **didn't.** They came **up from underneath,** out of the tunnels into the bay,
+  and **massacred the Maalm-elf colonists** who had held the island barely a couple of centuries
+  (§3). To them it was not conquest but **reconsecration** — the dragon's first perch taken back
+  from usurpers (the on-file analogy: *the Crusaders retaking Jerusalem*).
+
+These are the **Lonka Zealots** of the lost-tribes / reclamation thread (*Sam's quest*; see
+[Blackacre](../characters/blackacre.md), who took a letter of marque to raid Lonka and **could
+not do it**). They hold the caldera still: **insular, mistrusted by the rest of the archipelago,
+but safe** behind their cliffs amid all the chaos of the centuries since.
 
 ### The Ravana rhyme — handles to pull
 
@@ -105,14 +125,14 @@ This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready textu
   monstrous guardians.
 - **An Ashoka Vatika.** Add the **walled grove** where Ravana held Sita — somewhere in
   the caldera, beautiful and wrong.
-- **Hanuman's leap = the avenging return.** If the **Maalm elves who colonized the
-  radioactive wasteland read as usurpers**, then the returning dragonborn are the
-  **avengers crossing the sea** — Hanuman / Rama reclaiming the island.
-- **The causeway as a *tunnel*.** Instead of (or beside) a sea-crossing, the invading
-  army may have **walked** — a **tunnel from Muspelheim or Kalikhat** (the Abyss *is* the
-  tunnel-network; see [house rules](house-rules-and-world-mechanics.md)). Opening and
-  holding such a road would likely have needed **demon allies** — threading straight into
-  the demon-first-contact and Manichean-Ragnarok questions below. `[OPEN]`
+- **Hanuman's leap = the avenging return.** The **Maalm elves who colonized the wasteland
+  are the usurpers**, and the returning dragonborn the **avengers** — though here they cross
+  *under* the sea, not over it (§4).
+- **The causeway as a *tunnel* — `[settled]`, this is how they came (§4):** the zealots
+  **walked the Abyss tunnels from Muspelheim** under the sea (the Abyss *is* the
+  tunnel-network; see [house rules](house-rules-and-world-mechanics.md)). `[OPEN]` only whether
+  they needed **demon allies** to open or hold the road — threading into the
+  demon-first-contact and Manichean-Ragnarok questions below.
 - **Rama's vanara army (don't lose this — too cool).** The **monkey-folk host** that
   built the causeway and stormed Lanka is too good to drop: a **vanara people** as the
   avenging army or its allies, and the natural **bridge-builders** if the crossing is a

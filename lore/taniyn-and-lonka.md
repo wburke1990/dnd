@@ -49,6 +49,13 @@ now hold as **Jotunheim**. That whole arc lives in
   stop roaming until she found Lonka is to **keep roaming** — which is
   exactly what the [Wandering saints](wandering-dragonborn.md) and
   "Sea-Fever" are about. The zealots may see that as apostasy. **[draft]**
+- **Where the zealot strain came from.** `[settled 6/22]` The two creeds aren't
+  eternal — the **zealot, place-bound strain was forged by a *land empire.*** The
+  dragonborn who founded and ran **Muspelheim** for 1,000+ years (the only seafarers
+  at its raising; see [Lonka — Jotunheim §4](lonka-jotunheim.md)) drifted from *honor
+  the flight* toward *guard the holy ground* — and then **walked home under the sea to
+  retake Lonka.** The nomads who *stayed* at sea kept the older faith. So the split is
+  **wanderers who never settled vs. the settled who came back hard.**
 
 ## Open threads
 

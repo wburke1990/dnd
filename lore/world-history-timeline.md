@@ -211,10 +211,12 @@ conquerors having salted the earth; survivors cling on, half-forgotten, in hidde
 into a **caldera** (§II). Its sickness drove **Kalikhat** underground, where survivors
 mutated into the **dark elves and deep gnomes** and first dealt with **demons**. Nearly
 two thousand years on, once the poison faded, **elves from Maalm** resettled the caldera
-as **Jotunheim** —
-until a dragonborn army out of nowhere, the **Lonka Zealots**, massacred them and took
-the holy ground back (rhyming with Ravana's seizure of Lanka). They hold the
-fortress-caldera still, insular and feared; a **Dragon Turtle** guards its bay.
+as **Jotunheim** — until **~3,000 ya** the **Lonka Zealots** took it back. No army "out of
+nowhere": these were the **Muspel empire's own dragonborn** (its founding seafarers, §VI), who
+over a millennium of land-empire turned zealot, then **walked the Abyss tunnels under the sea
+from Muspelheim** — the only way to take a fortress-caldera — and massacred the colonists
+(rhyming with Ravana's seizure of Lanka). Their exodus is also why the empire reads as
+*man*-dominated. They hold it still, insular and feared; a **Dragon Turtle** guards its bay.
 *Source: [Lonka / Jotunheim](lonka-jotunheim.md).*
 
 ### The First Foundation and the making of the new lands (~4,100 → ~1,000 ya)
@@ -364,6 +366,5 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
 - `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.
 - `[draft]` The **phoenix's forgotten true name** as the campaign's candidate "most dangerous name" — bind, restore, or claim the undying god (§VII).
-- `[OPEN]` **When the Lonka Zealots retook Jotunheim** — the elves held it ~2,800 years (resettled ~3,200 ya); pin when the dragonborn army came (recently, amid the orc-war chaos, or long ago).
 
 *Companion docs: [campaign overview](campaign-overview.md) is the top-level index; this file is the chronological read of it.*
