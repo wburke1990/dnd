@@ -56,8 +56,13 @@ elven empire grew rich extracting from the snake-island folk and called it trade
 **orcs and half-orcs are noble warriors**. Maalm is a conquest-city built on the
 bones of the people it replaced. Preem's demon-slavery is the engine underneath.
 
-- `[OPEN — which colonial structure is front-and-center vs. background: the dead
-  elven empire / Maalm itself / Kuru's Order of Sunne / Preem's demon trade?]`
+- **Foreground vs. background (resolved):** **Preem's demon-slavery is the foreground**
+  — the party is personally complicit in it (they harvest the names that fuel it), so
+  it's the colonial structure they *feel*, not just witness, and it's the through-line to
+  the climax. **Kuru's reconquest** (the Order of Sunne; colonies on the Kurunatukas,
+  beachheads on Musleheim) is the **visible geopolitical background** — the war on the
+  map. The **Amseh elven empire** and **Maalm itself** are the **deep-history backdrop**,
+  proving it has always been this way. *The same operation at four scales.*
 - **Orcs/half-orcs** *(resolved — see [the Muspel empire & the orc wars](the-muspel-empire.md))*:
   born ~1,000 years ago when the comet's mutating sickness came down on Musleheim and
   remade the **Muspel empire's own people** — orcs near the impact, half-orcs at the
@@ -165,6 +170,12 @@ These aren't just preferences — several are load-bearing for the themes above.
   slow magma **flows out and builds land**, a fast clash **explodes** (Krakatoa) — which
   makes **demons a power apart** from the dragon-descended (see
   [the Second Foundation](the-second-foundation.md) / [Lonka — Jotunheim](lonka-jotunheim.md)).
+- **The hot spot (where new land comes from).** The volcanism is a **moving hot spot**
+  (think Hawaii), tracking **southeast from Lonka toward Maalm** and bubbling up new
+  islands as it goes — the **Kurunatukas are the newest land it has raised.** The coming
+  pass's **largest comet fragment is pulled to the hot spot's current position, over
+  Mukku Kurunatuka** — which is why the finale happens there (§6). `[OPEN — map "Mukku
+  Kurunatuka" to the map's Moku or Noku Kurunatuka.]`
 - **The clock (campaign present).** The next pass is essentially *now*. The comet
   is **already visible in the sky** — but the players don't realize it is **inbound**;
   it will swing close past the planet on its way back **out**, ~**one year** from
@@ -217,13 +228,21 @@ Preem's demon army, and is finally handed the **volcano-demon's true name** — 
 decide what kind of power to be. *(Sandbox caveat: this is the spine if they pull on it,
 not a track they're forced down — see §4.)*
 
-**The ending image / choice** (proposed): the comet overhead, a volcano about to be
-forced; the party **holds the volcano-demon's true name** and can **bind it** (trigger
-Ragnarok for Preem), **refuse and free it**, or **do something else entirely** — with the
-[First Foundation](the-first-foundation.md) and [Second Foundation](the-second-foundation.md)
-each wanting the coming pass controlled their own way. The cycle that opened with Taniyn
-*choosing* to become an island closes on the party *choosing* what to do with a name.
-`[OPEN — lock the exact final image]`
+**The ending image / choice:** the climax falls on **Mukku Kurunatuka** — newest of the
+Hawaii-style hot-spot islands, a nominal **Kuru colony but secretly controlled by the
+Second Foundation** — because the coming pass's **biggest comet fragment is pulled to the
+hot spot there** (see §5). The comet overhead, a volcano about to be forced, the party
+**holding the volcano-demon's true name**: **bind it** (trigger Ragnarok for Preem),
+**refuse and free it**, or **do something else entirely**, while the
+[First](the-first-foundation.md) and [Second](the-second-foundation.md) Foundations each
+fight to control the pass their own way. The cycle that opened with Taniyn *choosing* to
+become an island closes on the party *choosing* what to do with a name.
+
+**The setpiece (planned):** a **circle-cast wizard duel** — rival teams of casters. One
+team works the **planar binding** behind an **inverted magic circle + Forcecage**, their
+defenders holding a **Prismatic Wall**; the other team races to **break in and stop the
+casting** before it completes. Deliberately, gloriously complicated. `[OPEN — full
+mechanics of the circle-cast duel]`
 
 ---
 
