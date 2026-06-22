@@ -6,9 +6,11 @@ world, the party gets this map from the Wizard; this is the out-of-game
 reference. Politics/empires are deliberately **not** here (separate file) — this
 is geography and settlements only.*
 
-> **Status:** transcribed by eye from the labelled world map (2026-06). Coords
-> are approximate; **city-vs-town reads (pink vs purple markers) are best-effort
-> — correct any that are wrong.** Names spelled as written on the map.
+> **Status:** transcribed by eye from the labelled world map (2026-06), then
+> corrected by David. Coords are approximate. Names spelled as written on the
+> map (the center landmass is labelled **Musleheim**; the empire is **Muspel** /
+> Norse **Muspelheim** — spelling still unsettled, see
+> [musleheim.md](musleheim.md)).
 
 ## How to read the coordinates
 
@@ -18,8 +20,8 @@ A normalized grid over the whole map:
 - **Y: 0 = far north → 100 = far south.** (Smaller Y = further north.)
 
 So "NW of" means lower X *and* lower Y. Maalm (X88, Y93, deep SE) vs Musleheim
-(~X40, Y45, center-west): Musleheim is to Maalm's **northwest** — lower on both
-axes. Use the numbers for bearings; don't treat them as distances-to-scale.
+(~X45, Y42, the whole center): Musleheim is to Maalm's **northwest** — lower on
+both axes. Use the numbers for bearings; don't treat them as distances-to-scale.
 
 ## David's legend
 
@@ -39,45 +41,43 @@ axes. Use the numbers for bearings; don't treat them as distances-to-scale.
 | Landmass | Center (X,Y) | Where on the map |
 |---|---|---|
 | **Lonka** | 11, 11 | NW corner island |
-| **Kalikhat** | 53, 12 | north, center-left of the top |
+| **Kalikhat** | 50, 7 | north — coast strip across the top-center |
 | **Kuru** | 88, 16 | NE corner |
-| **Musleheim** | 40, 45 | center-west; the big mountainous island |
-| **Central plains** *(unlabeled belt; Iberian/Punic names)* | 70, 45 | center-east, between Kalikhat, Kuru & Noku |
+| **Musleheim** | 45, 42 | **the entire center** — grey mountains in the west, *uncoloured* interior/plains through the center-east (David left it blank). **By far the largest landmass.** |
+| **Mukka** | 9, 84 | ancient **island chain** off Musleheim's SW coast — predates the Muspel empire (appears on the Tomb 1 map) |
 | **Moku Kurunatuka** | 47, 82 | center-south; small islands |
-| **Noku Kurunatuka** | 63, 77 | center-east-south |
+| **Noku Kurunatuka** | 63, 77 | SE of Musleheim, across the strait |
 | **Suartleheim Weet** | 25, 93 | SW (bottom-left) |
 | **Suartleheim Eet** | 85, 94 | SE (bottom-right) — **Maalm's region** |
-
-*(Mukka reads as a city/region tucked into Musleheim's SW corner — see below.)*
 
 ---
 
 ## Settlements by landmass
 
-Type from marker colour where legible: **C** = city (pink), **T** = town
-(purple), **V** = village (green label / 3 dots), **?** = unsure.
+Type from marker colour: **C** = city (pink), **T** = town (purple),
+**V** = village (green label / 3 dots).
 
 ### Lonka (NW island)
 | Name | Type | X, Y |
 |---|---|---|
-| Nadu | T? | 3, 5 |
+| Nadu | T | 3, 5 |
 | Lon | V | 17, 4 |
 | Ka | V | 20, 6 |
 | Srila | C | 11, 10 |
-| Tama | T? | 4, 14 |
+| Tama | V | 4, 14 |
 
-### Kalikhat (north)
+### Kalikhat (north coast strip)
 | Name | Type | X, Y |
 |---|---|---|
 | Kali | V | 31, 3 |
 | Deshi | V | 38, 2 |
-| Beha | T? | 50, 2 |
+| Beha | T | 50, 2 |
 | Kala | C | 61, 3 |
 | Kut | C | 35, 10 |
 | Anges | V | 41, 8 |
 | Ganguli | V | 44, 6 |
 | Padma | V | 54, 7 |
-| Dak | T? | 58, 12 |
+| Dak | T | 58, 12 |
 | Nepa | V | 63, 10 |
 | Buta | V | 67, 10 |
 
@@ -97,43 +97,57 @@ Type from marker colour where legible: **C** = city (pink), **T** = town
 | Ekkek | C | 95, 37 |
 | Kenk Na | V | 87, 40 |
 | Kenk Sa | V | 89, 45 |
-| Sukkek | T? | 95, 61 |
+| Sukkek | T | 95, 61 |
 
-### Central plains (center-east belt — Iberian/Punic-flavoured names)
+*(Sukkek is Kuru's **southern tip**.)*
+
+### Musleheim (the whole center — mountains W, uncoloured interior center-E)
 | Name | Type | X, Y |
 |---|---|---|
+| Hoogli | V | 31, 23 |
 | Ottomica | V | 59, 23 |
+| Malaca | V | 41, 25 |
+| Cartakena | V | 41, 27 |
 | Calaik | T | 66, 32 |
 | Kandy | V | 73, 32 |
+| Tica | T | 40, 33 |
 | Lilbayum | C | 55, 34 |
+| Cahde | T | 15, 37 |
 | Nork | V | 73, 37 |
 | Pok Mak | V | 72, 43 |
 | Andaluca | V | 53, 45 |
 | Ilka Mak | T | 73, 49 |
-| Cordoca | V | 59, 52 |
-| Cartaga | C | 61, 57 |
-| Sagunta | T | 47, 63 |
-| Sevica | V | 48, 69 |
-
-### Musleheim (center-west, mountainous)
-| Name | Type | X, Y |
-|---|---|---|
-| Hoogli | V | 31, 23 |
-| Malaca | V | 41, 25 |
-| Cartakena | V | 41, 27 |
-| Tica | T | 40, 33 |
-| Cahde | T | 15, 37 |
 | Cartaga Nova | C | 41, 50 |
 | Tanjika | V | 17, 51 |
+| Cordoca | V | 59, 52 |
+| **Cartaga** | **C — ruined** | 61, 57 |
+| Sagunta | T | 47, 63 |
 | Saleka | V | 9, 64 |
 | Zarta | T | 30, 65 |
+| Sevica | V | 48, 69 |
 | Algica | V | 17, 70 |
 | A-Ma | V | 9, 75 |
 | Matsu | V | 11, 80 |
-| Mukka | C | 9, 83 |
 | Tripoca | V | 29, 82 |
 | Zamta | T | 24, 83 |
 | Tunica | V | 29, 86 |
+
+> **Cartaga — the drowned capital.** Cartaga was the **capital of the Muspel
+> empire** (fl. ~year 1000). It was **destroyed in the last comet pass**
+> (~1,000 ya — Ragnarok), and the **center of the city now lies submerged
+> beneath the strait that divides Musleheim from Noku Kurunatuka.** ((61, 57) is
+> that strait.) "Cartaga Nova" (41, 50) is the later inland city, distinct from
+> the sunken original. *(Worth folding into
+> [the Muspel empire](the-muspel-empire.md) / [Musleheim](musleheim.md).)*
+
+### Mukka (ancient island chain, SW of Musleheim)
+A **chain of islands off Musleheim's southwest coast** (label ~9, 84). It is
+**ancient — it predates the Muspel empire** and is drawn on the **Tomb 1 ancient
+map** ([Amseh dynasty](amseh-dynasty.md)), making it one of the few places on
+the map older than Muspel. (Per [the overview](campaign-overview.md), also the
+source of the mercenary-pirate ships Kuru & the Kurunatukas rely on.)
+`[confirm]` Whether the nearby SW coastal villages (Saleka, A-Ma, Matsu, Algica)
+belong to the Mukka chain or the Musleheim mainland.
 
 ### Suartleheim Weet (SW)
 | Name | Type | X, Y |
@@ -161,7 +175,7 @@ Type from marker colour where legible: **C** = city (pink), **T** = town
 | Nawik | V | 43, 88 |
 | Pap Stur | V | 51, 90 |
 
-### Noku Kurunatuka (center-east-south)
+### Noku Kurunatuka (SE of Musleheim, across the strait)
 | Name | Type | X, Y |
 |---|---|---|
 | Dekky Na | V | 59, 63 |
@@ -191,11 +205,15 @@ Type from marker colour where legible: **C** = city (pink), **T** = town
 ## Quick bearings (the ones we keep needing)
 
 - **Maalm** (88, 93) is in the **extreme SE**, a peninsula in Suartleheim Eet.
-- **Musleheim** (~40, 45) is **NW of Maalm**, across the open central sea — the
-  rain-shadow wall in [the drying of the valley](the-drying-of-the-valley.md).
+- **Musleheim** (~45, 42) fills the **whole center** and is **NW of Maalm** across
+  the open sea; its **mountain spine is in the west** — the rain-shadow wall in
+  [the drying of the valley](the-drying-of-the-valley.md).
+- **Cartaga** (61, 57) — sunken Muspel capital — lies on the **Musleheim–Noku
+  strait**, roughly N of the Kurunatukas.
 - **Lonka** (11, 11) is the **far NW** corner — the hot spot's start; its track
   runs NW→SE (Lonka → Musleheim → the Kurunatukas), i.e. *toward* Maalm.
-- **The Kurunatukas** (Moku ~47,82 / Noku ~63,77) sit **W-to-NW of Maalm**, the
+- **Mukka** (9, 84) — ancient island chain — sits at Musleheim's **SW** corner.
+- **The Kurunatukas** (Moku ~47,82 / Noku ~63,77) are **W-to-NW of Maalm**, the
   newest land and the gold-rush frontier.
 - **Kalikhat** (north) and **Kuru** (NE) are the far side of the map from Maalm.
 - Prevailing rain-bearing winds are taken to be **northwesterly** (off the
@@ -203,5 +221,5 @@ Type from marker colour where legible: **C** = city (pink), **T** = town
 
 ---
 
-*Source: David's labelled world map. Update coords/types here as the map is
-refined or corrected.*
+*Source: David's labelled world map, corrected by David. Update coords/types
+here as the map is refined.*
