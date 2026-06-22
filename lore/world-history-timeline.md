@@ -30,6 +30,15 @@ a pass's volcanism into *controlled, land-building eruptions* — that is how Mu
 was raised from the sea — rather than a civilization-ending explosion. Who controls
 the event, and to what end, is the hidden lever beneath all the history below.
 
+**The hot spot.** `[settled]` The land-making is not random: it wells up from a single
+**migrating hot spot** — a Hawaiian-style locus of maximum heat, magic, and
+land-generation that **dragons and demons both follow.** It sat first under **Lonka**
+(why the dragons gathered there, and why the Bleeding Star's dragon-vs-demon clash
+shattered *that* island), then drifted **southeast** — raising **Musleheim**, and now
+surfacing the **Kurunatukas**, where the *next* contest is gathering (§VII). Each region's
+"god" is one of the comet-beasts the hot spot wakes — **almost all one-life gods, save
+Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
+
 | Pass | When | What it did |
 |---|---|---|
 | 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. `[loose]` The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
@@ -195,12 +204,31 @@ the holy ground back (rhyming with Ravana's seizure of Lanka). They hold the
 fortress-caldera still, insular and feared; a **Dragon Turtle** guards its bay.
 *Source: [Lonka / Jotunheim](lonka-jotunheim.md).*
 
+### The First Foundation and the making of the new lands (~4,100 → ~1,800 ya)
+The stretch that fills the long middle. From ~4,100 the **First Foundation** — men and
+dragonborn who learned to **steer a comet pass into controlled, land-building eruptions**
+rather than catastrophe — rode the **hot spot** southeast, raising **Musleheim** and the
+new islands across the ~4,000 / 3,000 / 2,000-ya passes. They **founded Kuru** and formed
+the inner circle of what became the **Muspel empire** (§VI). In the same window the
+caldera of **Jotunheim** was resettled by Maalm elves and later fell to the **Lonka
+Zealots** (above).
+*Source: [the First Foundation](the-first-foundation.md), [Kuru & the phoenix](kuru-and-the-phoenix.md).*
+
+### Kuru and the undying phoenix
+Kuru's god — the **phoenix** that fell at Creation (§I) — is the **one comet-beast that
+dies and is reborn every pass** instead of ending, which is why Kuru believes itself
+**chosen** and owed the world. Its faith began with a lord who lost a hand and replaced
+it with a shard of the god's **sentient stone**; from him descends the **Order of Sunne**,
+whose most devout replace their flesh with god-stone until they become the near-immortal
+**warforged** who secretly run the kingdom (a hive mind sharing the god's voice). But
+every rebirth **burns the phoenix's memory**, and it is now **going mad** — a decline 🔒
+*worsened by the Second Foundation's ~1,000-ya sabotage, which botched its rebirth.*
+*Source: [Kuru & the phoenix](kuru-and-the-phoenix.md).*
+
 ### The world in flux
-The comet passes of ~4,000 / 3,000 / 2,000 ya **raised the island of Musleheim** from
-the sea by volcanism. The most recent pass, **~1,000 ya, went badly** — an
-**alchemical, mutating sickness** across the continent, with seas swinging and islands
-appearing and vanishing. It is, right now, a wild and unstable time. That same pass
-also birthed the orcs — the thread §VI picks up.
+The most recent pass, **~1,000 ya, went badly** — an **alchemical, mutating sickness**
+across the continent, with seas swinging and islands appearing and vanishing. It is, right
+now, a wild and unstable time. That same pass also birthed the orcs — the thread §VI picks up.
 *Source: [campaign overview §5](campaign-overview.md).*
 
 ---
@@ -225,6 +253,16 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - **The turn (~300 ya → now).** Constant war **hardened the raided** into unified,
   militarized powers — chief among them **Kuru**, *itself a former Muspel colony*, and
   its crusader **Order of Sunne**. The orcs are beaten back from most of their holdings.
+- **The Crusades on Kalikhat (`[loose]` dating — during Kuru's rise).** As Kuru grew into
+  a crusading power it planted **colonies on Kalikhat**, not knowing its people had fled
+  *underground* after the Bleeding Star. The colonists ran headlong into the **deep gnomes,
+  drow, and demons** below; the colonies **failed**, launching the Order of Sunne's **first
+  holy wars abroad** (and 🔒 likely Kuru's first real contact with demons — the godstone
+  *hates* them). A **second crusade** went back to recover the **warforged dead** (finite
+  godstone can't be abandoned), avenge the first, and 🔒 **steal Kalikhat's own god-stone.**
+  One failed colony — a *Jamestown* — left a single mad survivor, the **mist-warforged
+  Vigil**, fighting on in the fog to this day. `[OPEN]` whether the crusades fall before or
+  inside the orc wars.
 - **The half-orc Hannibal (recent).** A generational **half-orc warlord** — Hannibal's
   campaign in **Viking/barbarian dress**, a people-in-arms rather than a merchant-state's
   mercenaries — reversed the
@@ -243,8 +281,15 @@ The most recent chapter of history, and the one the party lives inside. Norse re
   try to migrate to them. Sailors bring back dnd-ified stories of the ice: giant
   rank-hunting sea-birds, barn-sized white bears, and the **sealskin folk** (Skræling /
   Thule) in sealskin canoes and snowsuits.
+- **The Kurunatuka gold rush & the shaky alliance (now).** As the hot spot surfaced
+  **Moku and Noku Kurunatuka** — fresh volcanic islands with **extraordinarily rich soil**
+  in a land-starved world — Kuru colonized them in a gold rush; they have since grown into
+  **client-states**, not colonies. The present Musleheim front is a **strained Kuru–Noku
+  alliance** against the orc tribes: two stalled beachheads, a navy of borrowed **Mukka**
+  pirate ships, and hard feelings after Hannibal's blows — a supply line 🔒 about to be cut
+  by [Sam's floating fleet](floating-fleet.md).
 
-*Source: [the Muspel empire & the orc wars](the-muspel-empire.md); [Aniess](../characters/aniess.md), [campaign overview](campaign-overview.md).*
+*Source: [the Muspel empire & the orc wars](the-muspel-empire.md); [Kuru & the phoenix](kuru-and-the-phoenix.md); [Aniess](../characters/aniess.md), [campaign overview](campaign-overview.md).*
 
 ---
 
@@ -261,6 +306,14 @@ The most recent chapter of history, and the one the party lives inside. Norse re
   them, the choice to use it is *entirely their own.*
 - Out in the valley, the 5,000-year-old mummy **Kethara / Farseh-ti** still tends the
   lepers sheltering in Tomb 1.
+- 🔒 **The hot spot has reached Moku Kurunatuka.** The coming pass's great
+  **dragon-vs-demon contest** will be fought *there*, on the newest land — demons are
+  already surfacing, with rumors of dragons. Moku is Kuru's client-state, and secretly the
+  **Second Foundation's** finale ground.
+- 🔒 **Kuru's private apocalypse.** The **phoenix is about to die and be reborn** more
+  degraded than ever — it may not return as itself. Its **forgotten true name** is a prime
+  candidate for the "most dangerous name" the party could be handed: to **bind**,
+  **restore**, or **claim** an undying god (see [Kuru & the phoenix §6](kuru-and-the-phoenix.md)).
 
 > **The arc:** complicity → recognition → choice. The empire, the Order of Sunne, and
 > Preem are the **same operation at different scales** — *the power to name is the
@@ -284,5 +337,8 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon** decided by **pace**: slow magma **builds land**, a fast clash **explodes** (Krakatoa; the **Dragon Turtle** in Lonka's caldera implies the dragon won there). Demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule).
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
 - `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.
+- `[OPEN]` **Crusade dating** — do Kuru's Kalikhat crusades fall before or inside the orc wars (§VI)? (Earlier instinct was "before"; the Kuru doc leans "during Kuru's rise.")
+- `[draft]` The **phoenix's forgotten true name** as the campaign's candidate "most dangerous name" — bind, restore, or claim the undying god (§VII).
+- `[OPEN]` **When the phoenix-stone fell** — lead reading is Creation (~6,000 ya), making Kuru and Lonka sibling first-lands (§I).
 
 *Companion docs: [campaign overview](campaign-overview.md) is the top-level index; this file is the chronological read of it.*
