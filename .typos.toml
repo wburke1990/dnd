@@ -27,7 +27,8 @@ yuan = "yuan"
 nat = "nat"
 # Egyptian mythology / campaign proper nouns typos mis-flags.
 Hapy = "Hapy"  # Son of Horus / Nile god — not "Happy"
-Shepard = "Shepard"  # chosen name of a Kuru warforged (SH3P4RF) — not "Shepherd"
+Shepard = "Shepard"  # chosen name of a Kuru warforged (SH3P4RD) — not "Shepherd"
+Mak = "Mak"  # place name: Ilka Mak, Noku Kurunatuka's beachhead on Musleheim
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.
