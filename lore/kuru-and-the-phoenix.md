@@ -151,10 +151,11 @@ This is dense with the campaign's themes:
 `[settled]` Warforged are **numbered in the order they were made,** and there is a
 hard **split between the old guard — say, Warforged 1 through 100 — and the newer
 ones.** The **first hundred,** forged when the bond was still **symbiotic** (below)
-and they were still **themselves,** took the liberty of **giving themselves a name
-in addition to their number.** The **newer warforged are numbers only** — made in
-the parasitic age, deeper in the hive from the moment they wake, and never granted
-(or never moved to claim) a name of their own.
+and they were still **themselves, had far more personality** — and they **gave
+themselves a name in addition to their number, painting it onto their number plate.**
+The **newer warforged are numbers only:** more deeply **parasitized** from the moment
+they wake, they **tend not to paint a name on their plate at all** — a bare number is
+all there is to them.
 
 `[settled]` The names follow a fixed **alphanumeric, license-plate format** — the
 name spelled with digits standing in for letters (A→4, E→3, I→1, O→0, S→5). Twenty
@@ -191,6 +192,14 @@ also exactly what the hive **takes back** (§4) — so an elder may carry a prou
 name, **Vigil** or **Omen,** long after there is anyone left behind it: the **name
 outliving the self,** the last handhold of an identity the godstone has already
 swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even that.
+
+`[settled]` **Named old-guard warforged in play:**
+- **Shepard — SH3P4RF.** The **lost brethren [Aniess](../characters/aniess.md) (Greg)
+  is hunting** — the warforged she means to **deliver to Kuru for glory** (and so,
+  unknowingly, return as precious finite godstone; [party roster](../characters/party-roster.md)).
+- **Axiom — 4X10M.** The **researcher of the snake island** (below, *Outside the
+  hive*) — the old-guard scholar who authored the snake-transformation. *(Cousin to
+  the table's 4X10N "Axion"; his plate reads 4X10M.)*
 
 ### The hive mind — from symbiosis to parasitism
 
@@ -285,7 +294,8 @@ god's voice in their heads.**
   `[OPEN]` whether the mist is **its own rapacious power** (distinct from any
   demon, as in WoT) or tangled with Kalikhat's demon-dealing —
   the campaign already treats **demons as a power apart**.
-- **The snake-skin warforged — the researcher of the snake island.** Another has
+- **The snake-skin warforged — Axiom (4X10M), the researcher of the snake island.**
+  An old-guard warforged (§3) who has
   lived on the **snake island** for **a millennium** (older notes say thousands of
   years; the **island-spirit is itself a giant snake**, [party roster](../characters/party-roster.md)).
   He uses **snake magic** and **sheds his skin periodically** to renew his failing
