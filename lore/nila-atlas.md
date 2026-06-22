@@ -126,8 +126,6 @@ Type from marker colour: **C** = city (pink), **T** = town (purple),
 | Zarta | T | 30, 65 |
 | Sevica | V | 48, 69 |
 | Algica | V | 17, 70 |
-| A-Ma | V | 9, 75 |
-| Matsu | V | 11, 80 |
 | Tripoca | V | 29, 82 |
 | Zamta | T | 24, 83 |
 | Tunica | V | 29, 86 |
@@ -146,8 +144,14 @@ A **chain of islands off Musleheim's southwest coast** (label ~9, 84). It is
 map** ([Amseh dynasty](amseh-dynasty.md)), making it one of the few places on
 the map older than Muspel. (Per [the overview](campaign-overview.md), also the
 source of the mercenary-pirate ships Kuru & the Kurunatukas rely on.)
-`[confirm]` Whether the nearby SW coastal villages (Saleka, A-Ma, Matsu, Algica)
-belong to the Mukka chain or the Musleheim mainland.
+
+| Name | Type | X, Y |
+|---|---|---|
+| A-Ma | V | 9, 75 |
+| Matsu | V | 11, 80 |
+
+*(The other SW coastal villages — Saleka, Tanjika, Algica — are **Musleheim**
+mainland, not Mukka.)*
 
 ### Suartleheim Weet (SW)
 | Name | Type | X, Y |
