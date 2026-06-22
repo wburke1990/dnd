@@ -24,11 +24,11 @@ pass drives volcanism and violent climate swings; on Nila **mutation runs fast**
 so a comet-pass is a transformation event as much as a geological one. The folk
 name for a catastrophic pass is **Ragnarok**.
 
-🔒 **A pass is not purely natural — it can be *steered.*** The
+🔒 **A pass is not purely natural in its outcome — the event can be *controlled.*** The
 [First Foundation](the-first-foundation.md) (men and dragonborn) learned to channel
-a pass into *controlled, land-building volcanism* — that is how Musleheim was raised
-from the sea — rather than a civilization-ending explosion. Who steers the comet,
-and to what end, is the hidden lever beneath all the history below.
+a pass's volcanism into *controlled, land-building eruptions* — that is how Musleheim
+was raised from the sea — rather than a civilization-ending explosion. Who controls
+the event, and to what end, is the hidden lever beneath all the history below.
 
 | Pass | When | What it did |
 |---|---|---|
@@ -47,7 +47,8 @@ and to what end, is the hidden lever beneath all the history below.
 
 - **The first drop.** The comet's first pass drops a **primordial dragon, Taniyn,**
   out of the sky. She rests her wings, the earth rises to meet her, and she
-  **turns herself into the island of Lonka** — the holy dragonborn homeland. The
+  **turns herself into the island of Lonka** — the holy dragonborn homeland, known in
+  the present day as **Jotunheim** ("Lonka" is its ancient name, in an older tongue). The
   very first event in history is thus a *transformation*, the comet cosmology made
   literal at the creation.
 - **The common ancestor.** Taniyn's children fill the world — first on the backs of

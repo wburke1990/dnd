@@ -63,6 +63,22 @@ This is why a **volcano-demon** is the master key to Preem's endgame: volcanism
 is the engine of the cataclysm. Set off the volcanoes and you have set off
 Ragnarok — on demand, without waiting for the cycle. See **§4**.
 
+### The First Foundation — and the sabotage that made the orcs
+
+The Second Foundation is not the only order to understand the cycle. The
+[**First Foundation**](the-first-foundation.md) — a society of **men and dragonborn**
+— learned that a comet pass's *outcome can be controlled:* its volcanism channeled
+into **building** land rather than ending the world. They raised **Musleheim** from
+the sea, formed the inner circle of the **Muspel empire**, and founded **Kuru**.
+
+The Second Foundation (Preem's elves) **infiltrated the First** and, ~1,000 years ago,
+**sabotaged its control of the pass** — turning a land-building event into catastrophe.
+It destroyed the Muspel empire and mutated its people into **orcs and half-orcs** (see
+[the Muspel empire](the-muspel-empire.md), [world-history timeline](world-history-timeline.md)).
+**Mukku Kuruantuka is a Second Foundation satellite state.** Now, with the next pass
+~a year out, it is **round 2**: both orders want to control the coming event, and the
+party will have to choose whom — if anyone — to help.
+
 ## 3. The Founding link — who the Foundationers are
 
 The Second Foundation grew out of the **elves who settled Maalm after the

@@ -40,9 +40,9 @@ clean map match yet — see the note at the bottom.*
 ## Notes / still open
 
 - **Normalized to map spellings:** Musleheim, Suartleheim, Kalikhat.
-- `[OPEN]` **Jotunheim** is used here for the dragonborn homeland, but it isn't a map
-  label — the map names the dragonborn island **Lonka**. Reconcile (same place? two
-  places?).
+- **Jotunheim = Lonka (resolved).** The same island: **Lonka** is its ancient, sacred
+  name (an older tongue); **Jotunheim** is what everyone calls it today. The shift is a
+  reveal — see [Taniyn & Lonka](taniyn-and-lonka.md) / [the Returning Tribes](the-returning-tribes.md).
 - `[OPEN]` **Novo Karanuku / Minor Karanuku / Makkku** don't match map labels either
   — the map has **Moku Kurunatuka**, **Noku Kurunatuka**, and **Mukka**. Confirm which
   table name corresponds to which map name.

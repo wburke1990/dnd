@@ -36,6 +36,7 @@ the present-day Jotunheim dragonborn religion.)*
 
 - `[OPEN]` Which elves, when — is this the Amseh-era elves, the Maalm founding elves,
   or a later reckoning?
-- `[OPEN]` Lonka vs. Jotunheim as the dragonborn homeland / religious seat — reconcile
-  (timeline calls **Lonka** the homeland; races table puts dragonborn in **Jotunheim**).
+- **Lonka = Jotunheim (resolved):** the same island — **Lonka** is its ancient, sacred
+  name; **Jotunheim** is its present-day name. The reveal is that the holy first-land
+  and modern Jotunheim are one, renamed across ages and languages.
 - `[OPEN]` The Lamanite-equivalent: is there a rebellious counter-branch?

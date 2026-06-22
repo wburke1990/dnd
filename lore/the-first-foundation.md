@@ -8,14 +8,15 @@
 
 ## What they are
 
-A society of **men and dragonborn** who learned to **harness the comet** — to steer
-the energy of its passes and the volcanism they trigger into **growing new land out
-of the sea** (they raised the island of **Musleheim** itself this way) **instead of
-letting the comet set off civilization-ending, Krakatoa-style explosions.**
+A society of **men and dragonborn** who learned to **control the event** — to channel
+the volcanism a comet pass triggers into **growing new land out of the sea** (they
+raised the island of **Musleheim** itself this way) **instead of letting the comet
+set off civilization-ending, Krakatoa-style explosions.**
 
-This is the crucial worldbuilding pivot: **the comet is steerable.** A pass can be
-*handled* — channeled into controlled, land-building volcanism — or left wild, in
-which case it is a Ragnarok. The First Foundation's whole craft is the handling.
+This is the crucial worldbuilding pivot: **the event can be controlled.** A pass's
+volcanism can be *handled* — channeled into controlled, land-building eruptions — or
+left wild, in which case it is a Ragnarok. The First Foundation's whole craft is the
+handling.
 
 ## What they built
 

@@ -43,6 +43,11 @@ This empire is the *first* colonizer in the recent age — the reason Kuru's rec
 
 The most recent comet pass — **the bad pass**, the one that blanketed the world in an
 **alchemical, mutating sickness** (~1,000 ya) — came down **on Musleheim itself**.
+🔒 And it was **no accident:** the [Second Foundation](the-second-foundation.md) had
+infiltrated the [First Foundation](the-first-foundation.md) — the men and dragonborn
+who *controlled* the comet's passes to build Musleheim — and **sabotaged that control**,
+turning what should have been a land-building event into the catastrophe that destroyed
+the empire.
 
 It transformed the empire's *own people:*
 
