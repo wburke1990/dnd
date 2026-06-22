@@ -214,15 +214,24 @@ caldera of **Jotunheim** was resettled by Maalm elves and later fell to the **Lo
 Zealots** (above).
 *Source: [the First Foundation](the-first-foundation.md), [Kuru & the phoenix](kuru-and-the-phoenix.md).*
 
-### Kuru and the undying phoenix
+### Kuru and the undying phoenix — and its first crusades
 Kuru's god — the **phoenix** that fell at Creation (§I) — is the **one comet-beast that
-dies and is reborn every pass** instead of ending, which is why Kuru believes itself
-**chosen** and owed the world. Its faith began with a lord who lost a hand and replaced
+dies and is reborn every pass** instead of ending, so Kuru believes itself **chosen** and
+owed the world. Its faith began in deep antiquity with a lord who lost a hand and replaced
 it with a shard of the god's **sentient stone**; from him descends the **Order of Sunne**,
 whose most devout replace their flesh with god-stone until they become the near-immortal
-**warforged** who secretly run the kingdom (a hive mind sharing the god's voice). But
-every rebirth **burns the phoenix's memory**, and it is now **going mad** — a decline 🔒
-*worsened by the Second Foundation's ~1,000-ya sabotage, which botched its rebirth.*
+**warforged** who secretly run the kingdom (a hive mind sharing the god's voice). Every
+rebirth **burns the phoenix's memory**, and it is now **going mad** — 🔒 *a decline
+worsened by the Second Foundation's ~1,000-ya sabotage, which botched its rebirth.*
+
+- **The Kalikhat Crusades (~2,000 → ~1,300 ya) — Kuru's first crusading era,** long before
+  the orc wars. Kuru planted **surface colonies on Kalikhat**, not knowing its people had
+  fled *underground* after the Bleeding Star, and ran headlong into the **deep gnomes,
+  drow, and demons** below. The colonies **failed**; the first holy war abroad gave way to
+  a **second wave** sent to recover the **warforged dead** (finite godstone can't be
+  abandoned), avenge the disaster, and 🔒 **steal Kalikhat's own god-stone.** One lost
+  colony — a *Jamestown* — left the mad mist-warforged **Vigil** fighting on in the fog to
+  this day. The era **ended when the Muspel empire absorbed Kuru (~1,300, §VI).**
 *Source: [Kuru & the phoenix](kuru-and-the-phoenix.md).*
 
 ### The world in flux
@@ -240,8 +249,9 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 
 - **The old Muspel empire (~1,800–1,000 ya).** A settled, fire-cult, sea-going power
   built on young volcanic Musleheim. **Well over a thousand years ago (~1,300 ya) it
-  colonized Kuru**, planting the men-dominated society Kuru still is — the *first*
-  colonizer of the recent age, and the reason the reconquest below is so bitter.
+  colonized Kuru** — **absorbing the older crusading sun-cult and ending Kuru's first
+  (Kalikhat) crusading era (§V)** — and planting the men-dominated society Kuru still is.
+  The *first* colonizer of the recent age, and the reason the reconquest below is so bitter.
 - **The mutation (~1,000 ya).** The bad comet pass comes down on Musleheim and remakes
   the empire's *own people*: **orcs** where the change bit deepest (near the impact),
   **half-orcs** at the margins (the change taken halfway). The gradient is geographic.
@@ -250,19 +260,12 @@ The most recent chapter of history, and the one the party lives inside. Norse re
   years* of fast ships, raids, and conquests across the islands. Not villains —
   plague-survivors fighting for land in a zero-sum world — but the raids were predation
   too. Both at once.
-- **The turn (~300 ya → now).** Constant war **hardened the raided** into unified,
-  militarized powers — chief among them **Kuru**, *itself a former Muspel colony*, and
-  its crusader **Order of Sunne**. The orcs are beaten back from most of their holdings.
-- **The Crusades on Kalikhat (`[loose]` dating — during Kuru's rise).** As Kuru grew into
-  a crusading power it planted **colonies on Kalikhat**, not knowing its people had fled
-  *underground* after the Bleeding Star. The colonists ran headlong into the **deep gnomes,
-  drow, and demons** below; the colonies **failed**, launching the Order of Sunne's **first
-  holy wars abroad** (and 🔒 likely Kuru's first real contact with demons — the godstone
-  *hates* them). A **second crusade** went back to recover the **warforged dead** (finite
-  godstone can't be abandoned), avenge the first, and 🔒 **steal Kalikhat's own god-stone.**
-  One failed colony — a *Jamestown* — left a single mad survivor, the **mist-warforged
-  Vigil**, fighting on in the fog to this day. `[OPEN]` whether the crusades fall before or
-  inside the orc wars.
+- **The turn (~300 ya → now) — Kuru's *second* crusade.** Constant war **hardened the
+  raided** into unified, militarized powers — chief among them **Kuru**, *itself a former
+  Muspel colony*, whose phoenix-faith had reasserted once the bad pass freed it. Risen
+  again, Kuru turned its **Order of Sunne** on Musleheim: the **reconquest is its second
+  great crusade,** after the dark times of the orc wars (its first was on Kalikhat, §V).
+  The orcs are beaten back from most of their holdings.
 - **The half-orc Hannibal (recent).** A generational **half-orc warlord** — Hannibal's
   campaign in **Viking/barbarian dress**, a people-in-arms rather than a merchant-state's
   mercenaries — reversed the
@@ -337,7 +340,6 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon** decided by **pace**: slow magma **builds land**, a fast clash **explodes** (Krakatoa; the **Dragon Turtle** in Lonka's caldera implies the dragon won there). Demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule).
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
 - `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.
-- `[OPEN]` **Crusade dating** — do Kuru's Kalikhat crusades fall before or inside the orc wars (§VI)? (Earlier instinct was "before"; the Kuru doc leans "during Kuru's rise.")
 - `[draft]` The **phoenix's forgotten true name** as the campaign's candidate "most dangerous name" — bind, restore, or claim the undying god (§VII).
 - `[OPEN]` **When the phoenix-stone fell** — lead reading is Creation (~6,000 ya), making Kuru and Lonka sibling first-lands (§I).
 

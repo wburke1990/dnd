@@ -469,8 +469,22 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   land-building.** Tie-in: the Kuru that learned to *handle* the comet is the same
   Kuru whose god *rides* the comet — the First Foundation's craft and the phoenix
   cult are two faces of one relationship with the falling sky. `[OPEN — reconcile]`
+- **The Kalikhat Crusades (~2,000 → ~1,300 ya) — Kuru's *first* crusading era.** `[settled]`
+  Long before the orc wars, the risen sun-cult pushed **colonies onto [Kalikhat](campaign-overview.md)**
+  — **not knowing the region's people had fled *underground*** after the Bleeding Star
+  ([overview §5](campaign-overview.md)). The colonists ran headlong into the world below —
+  **deep gnomes, drow, and demons** — and the colonies **failed:** the Order of Sunne's holy
+  war exported abroad for the first time, and 🔒 likely **Kuru's first real contact with
+  demons** (turning the godstone's standing **hatred of demons** into holy hatred, §3). A
+  **second wave** went back for **all of it at once** — to **repatriate the warforged dead
+  and reclaim their finite godstone** (§3), avenge the disaster, and 🔒 **steal Kalikhat's
+  own god-stone.** *The colonial thesis at its most literal: sailing abroad to carry home
+  your dead and a rival people's god.* One failed colony — **a Jamestown that never came
+  home** — left the mad mist-warforged **Vigil (V1G1L)** still haunting its ruins (§3,
+  *Outside the hive*). The era **ended when the Muspel empire absorbed Kuru (~1,300, below).**
 - **Muspel colonization (~1,300 ya).** The Norse fire-cult [Muspel empire](the-muspel-empire.md)
-  colonizes Kuru, planting the man-dominated society it still is. `[loose]` Fire-cult
+  colonizes Kuru — **ending its first crusading era (above)** — and planting the
+  man-dominated society it still is. `[loose]` Fire-cult
   layers *onto* sun-cult (both worship fire) rather than erasing it — so when the bad
   pass destroyed the Muspel, **Kuru's older phoenix-faith reasserted** and the
   ex-colony rose to power. *The colonized became the colonizer* ([overview §3A](campaign-overview.md)).
@@ -483,36 +497,11 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   theology** — you earn the stone by **bleeding for the empire** (§3) — so it was the
   **natural force to check the orcs' expansion and raids,** and rode that role to its
   present dominance and the **lead in the reconquest of Musleheim** ([overview §3A](campaign-overview.md)).
-- **The first crusades — Kalikhat (`[loose]` dating).** `[settled]` As Kuru rose into
-  a crusading power, it pushed **colonies onto [Kalikhat](campaign-overview.md)** —
-  **not knowing the region's people had fled *underground*** after the Bleeding Star
-  ([overview §5](campaign-overview.md)). The colonists set up shop and ran headlong
-  into the world below: **deep gnomes, drow, and demons** boiling up to meet them.
-  The colonies **failed**, and the catastrophe **triggered Kuru's first rounds of
-  crusades** — the Order of Sunne's holy war exported abroad for the first time, and
-  🔒 likely **Kuru's first real contact with demons** (the godstone's standing
-  **hatred of demons**, §3, turned that contact into holy hatred). One of those failed colonies
-  is **a Jamestown that never came home** — its last survivor is **Vigil (V1G1L), the
-  mist-warforged** (an old-guard crusader), still haunting its ruins (§3,
-  *Outside the hive*). *(The present
-  [Musleheim reconquest](the-muspel-empire.md) is a later, larger turn of the same
-  colonial engine — [overview §3A](campaign-overview.md).)*
-- **The second crusades — the return for the bodies (`[loose]` dating).** `[settled]`
-  The first crusades left **warforged dead scattered across Kalikhat**, and with the
-  stone finite (§3), Kuru **could not leave them.** The second wave went back for
-  **all of it at once**, with four braided motives:
-  - **Repatriate the bodies** — recover the fallen brethren and **reclaim their
-    godstone** to make new warforged (§3). *(They never recovered them all: some are in
-    the mist-warforged's tower basement to this day — §3, Outside the hive.)*
-  - **Hatred of demons** — the godstone **hates demons** (§3; 🔒 reason unknown), so the
-    warforged crusade against Kalikhat's with a personal, holy loathing;
-  - **Revenge** — for the first disaster (above);
-  - **Theft of a god** — Kuru, 🔒 **alone in understanding how godstones work,** meant
-    to **steal Kalikhat's own stone** (the region's god) for itself.
-
-  *Resource-extraction crusade — the colonial thesis at its most literal
-  ([overview §3A](campaign-overview.md)): sailing abroad to carry home your dead and a
-  rival people's god.*
+- **The Musleheim Reconquest (~300 ya → now) — Kuru's *second* crusade.** `[settled]`
+  After the dark times of the orc wars, the risen, phoenix-faithful Kuru turned the Order
+  of Sunne outward again — the long **reconquest of [Musleheim](the-muspel-empire.md)** is
+  its **second great holy war,** a later and larger turn of the same colonial engine as the
+  Kalikhat crusades (above; [overview §3A](campaign-overview.md)).
 - **The Kurunatuka gold rush (recent).** `[settled]` A running truth of the world:
   **there isn't enough land, and what there is is exhausted** ([overview §5](campaign-overview.md)).
   So when **Moku and Noku Kurunatuka rose new from the sea** — the hot spot's **freshest
