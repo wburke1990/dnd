@@ -196,15 +196,18 @@ of Beowulf's archetype, each marked by a coastal **watch-stone**:
 
 *Sources: [the wandering dragonborn](wandering-dragonborn.md), [Requiem](../handouts/requiem.md).*
 
-### The Floating Fleet (the Amatssou)
-A wandering, mostly-halfling sea-civilization with nomadic dragonborn aboard — a
-chiefdom of many tribal heads, no single ruler. They make everything from the sea
-(seaweed, bone, hide, sinew) but **cannot make timber,** so they raid island-rich
-waters on **timber-runs**; **druids,** who can grow and mend wood, are precious. A
-buried thread: the **Lost Tribes**, scattered colonies of the **Phoenician dragonborn**
-(whose mother-city is **Lonka, their Tyre**) — one ruined in the Carthage mold, its
-conquerors having salted the earth; survivors cling on, half-forgotten, in hidden coves.
-*Source: [the floating fleet](floating-fleet.md).*
+### The Floating Fleet (the Amatssou) — and the wandering dragonborn
+`[loose — Sam to own]` **Two distinct sea-peoples, not one:** the **massive halfling fleets**
+(Sam's — *island-dwarfed men* whose fleets began as islands sank) and the separate **wandering
+dragonborn** (the saints' nomads on their lashed pontoons). The **halfling fleets** are a
+chiefdom of many tribal heads, no single ruler; they make everything from the sea (seaweed,
+bone, hide, sinew) but **cannot make timber,** so they raid island-rich waters on
+**timber-runs** (druids, who grow and mend wood, are precious). A buried dragonborn thread:
+the **Lost Tribes** — scattered **Bronze-Age** colonies of the **Phoenician dragonborn**
+(mother-city **Lonka, their Tyre**), planted in their maritime golden age and **stranded when
+the Bleeding Star cut the sea-roads;** one ruined in the Carthage mold, survivors clinging on
+half-forgotten.
+*Sources: [the floating fleet](floating-fleet.md), [technology & trade](technology-and-trade.md).*
 
 ### The holy island, lost and retaken
 **Golden Lonka** — the center of the world (§I) — was obliterated by the Bleeding Star
