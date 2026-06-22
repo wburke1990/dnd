@@ -33,6 +33,22 @@ The party carries a sending stone paired with a stone held by the wizard's assoc
 
 ---
 
+# THE WALL LEDGERS — Reading the Economic Record
+
+*A deployable beat for any tomb. Beside the religious paintings, every tomb's walls are ruled into columns of **trade and harvest figures** — the fullest economic history of the dead empire. A character who studies them (**DC 12 Intelligence**, or automatic for anyone who reads Ancient Egyptian) can follow the numbers. Comparing tombs tells a story the paintings don't.*
+
+**Read aloud — reading the ledgers (Tombs 1 & 2, the prosperous kings):**
+
+*"Between the gods and the grave-scenes, the walls are ruled into neat columns of figures — harvest tallies, ship manifests, tribute lists, kept like a merchant's book. Grain up the river. Guano by the boatload. And metal: ingots of **copper** out of Lonka, ingots of **tin** carried down from the western mountains, and — rarer, set apart, almost reverently — beads of golden **amber** from somewhere far to the south, past the edge of any map you know. Year after year the numbers climb. The kingdom is growing rich, and you can see exactly how: it sits at the center of a web of roads that reaches the whole world."*
+
+**Read aloud — if they then read Tomb 3 (the warrior king):**
+
+*"The same columns, the same careful hand — and then, partway down a wall, in the hundredth year of the king, everything changes. The grain figures fall off a cliff. The guano stops. The copper stops. The **tin stops.** The amber stops. The whole web of roads goes dark at once, in a single year. And where the trade tallies end, a new kind of figure begins — soldiers, spears, rations for armies. You are looking at the exact year the world ended, written in a bookkeeper's neat hand."*
+
+**The payoff (DM):** the ledgers are the **Bronze-Age Collapse made legible.** Bronze needs *both* **copper** (from [Lonka](../lore/lonka-jotunheim.md)) **and tin** (from the [Suartleheim West](../lore/technology-and-trade.md) dwarf-mines), carried along sea-roads that all ran **through Lonka** — so when the [Bleeding Star](../lore/amseh-dynasty.md) shattered Lonka and cut the roads, **both halves of bronze died in one year,** and the weapons with them. A party that reads carefully grasps the catastrophe **economically,** not just mythically — and walks away with the names of trade-partners (Lonka; the western dwarf-mines; the amber-land in the deep south) that matter later.
+
+---
+
 # THE VALLEY ENTRANCE
 
 ## Read Aloud
