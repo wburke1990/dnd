@@ -131,6 +131,10 @@ These aren't just preferences — several are load-bearing for the themes above.
   D&D species. **Almost every race is homebrewed as descending from that one
   common ancestor.** (The first event in history is thus a transformation — the
   whole comet cosmology made literal at the creation.)
+- **Mixed peoples — no single-species cities (yet).** Fast mutation and constant
+  migration mean **every city is mixed**; there is no one-people settlement anywhere.
+  Regions *skew* — Maalm elf-elite, Kuru man-heavy, Musleheim orc-heavy — but none is
+  pure (see [the Muspel empire](the-muspel-empire.md)).
 - **The comet cycle & a world in flux** — a ~1,000-year comet cycle drives
   recurring volcanism and climate swings; the "Fall of the Star" / Krakatoa-analog
   reshaped the world 5,000 years ago (see [Amseh dynasty](amseh-dynasty.md)).

@@ -191,11 +191,22 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - **The turn (~300 ya → now).** Constant war **hardened the raided** into unified,
   militarized powers — chief among them **Kuru**, *itself a former Muspel colony*, and
   its crusader **Order of Sunne**. The orcs are beaten back from most of their holdings.
+- **The half-orc Hannibal (recent).** A generational **half-orc general** reversed the
+  reversal — a stunning resurgence (the ambush victory at **Lake Tressamine**) that
+  carried the war back onto colonizer ground before being broken (a Zama) and killed or
+  routed. **At campaign start his resurgence has just collapsed and the tide has swung
+  back to the colonizers.** `[OPEN]` Alps-vs-sea crossing; a missing fleet that sailed
+  north.
 - **The present war.** The fighting has reached **Musleheim itself**; the orcs are
   pushed back to their homeland and **Kuru leads the reconquest** — liberation,
   vengeance, or colonialism running the other way, the table can decide. Half-orcs,
   scattered at the margins, are everywhere in the wider world (cf. **Olora** the orc
   ranger near Aniess).
+- **The lost northern colonies.** Old Muspel colonies out on the cold sea — **Iceland /
+  Greenland / Vinland** analogs — have gone silent (contact lost), and besieged orcs now
+  try to migrate to them. Sailors bring back dnd-ified stories of the ice: giant
+  rank-hunting sea-birds, barn-sized white bears, and the **sealskin folk** (Skræling /
+  Thule) in sealskin canoes and snowsuits.
 
 *Source: [the Muspel empire & the orc wars](the-muspel-empire.md); [Aniess](../characters/aniess.md), [campaign overview](campaign-overview.md).*
 
@@ -230,7 +241,9 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[OPEN]` Exact present-day comet-cycle year (we're "~1,026 in" but the next pass is "~1 year out" — tighten or embrace the slack).
 - `[OPEN]` Whether the ~1,000-ya "bad pass" and a formal "Ragnarok" count are the same event.
 - `[OPEN]` Fate of the Snake Island after the Bleeding Star (damaged? destroyed? still out there?).
-- `[OPEN]` What the pre-mutation Muspel folk were (human, given the half-orcs?), and what else the old empire colonized besides Kuru.
+- `[OPEN]` What else the old (human) Muspel empire colonized besides Kuru.
 - `[OPEN]` Where half-orc loyalties fall in the present war, and whether the party's path ever crosses the northern front.
+- `[OPEN]` The half-orc Hannibal's name and register; whether his masterstroke was an Alps- or sea-crossing; whether there is a Zama; where his missing fleet went.
+- `[OPEN]` Whether any northern colony survives, what's out on the ice, and how the two Punic threads (orc Hannibal vs. dragonborn Lost Tribes) relate.
 
 *Companion docs: [campaign overview](campaign-overview.md) is the top-level index; this file is the chronological read of it.*
