@@ -20,6 +20,10 @@ handling.
 
 ## What they built
 
+- **Origin — ~4,100 ya, the elder order.** The First Foundation must **predate the
+  Second** — you cannot infiltrate what does not yet exist — so it begins no later than
+  the founding era and is the established institution by the time Preem's elves get
+  *inside* it (see [the Second Foundation](the-second-foundation.md)).
 - They formed the **inner circle of influence** of the **Muspel empire**, which grew
   from **~4,000 → ~1,000 years ago** into the dominant force in the archipelago.
 - **They founded Kuru.**
