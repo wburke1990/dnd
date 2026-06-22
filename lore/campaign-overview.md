@@ -293,6 +293,8 @@ mechanics of the circle-cast duel]`
 ## 8. Where Things Live (Index)
 
 - **`lore/`** — worldbuilding & DM references: this overview,
+  [Nila atlas (settlement gazetteer & coordinates)](nila-atlas.md),
+  [the drying of the valley](the-drying-of-the-valley.md),
   [Maalm founding](maalm-founding.md),
   [Amseh dynasty](amseh-dynasty.md),
   [Egyptian afterlife mythology](egyptian-afterlife-mythology.md),
