@@ -105,6 +105,14 @@ with a true name). The party harvests names for Preem without understanding them
 - **Scope (resolved):** there is definitely a **climactic name — the volcano-demon** —
   but the campaign seeds **escalating true-name quests along the way**, so the party
   comes to understand the mechanic (and its horror) *before* the final decision.
+- **Many groups, no rules (resolved):** the party is **not Preem's only crew** — he has
+  **many groups out hunting names at once,** and it is a **race with no rules.** This is
+  a reusable DM lever: **rival groups (or the scattered remains of their bodies)** are a
+  fun way to **raise a dungeon's danger or add a wrinkle to a quest** — a competitor who
+  beat you to the prize, a trap that already killed the last crew, a wounded survivor
+  with information to trade. (One such group escorts the resurrected warforged
+  [Shepard](../characters/shepard.md), whom [Aniess](../characters/aniess.md) means to
+  intercept.)
 
 ### D. The Weirdness of Ancestral Myth
 Most people know a few myths but don't grasp how genuinely **bizarre** the
