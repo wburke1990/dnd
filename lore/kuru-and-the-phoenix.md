@@ -221,11 +221,11 @@ outliving the self,** the last handhold of an identity the godstone has already
 swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even that.
 
 `[settled]` **Named old-guard warforged in play:**
-- **Vigil — V1G1L.** The **most crusader** of the old guard — the purest distillation
-  of the Order of Sunne's holy-war zeal. 🔒 He is also the **mad mist-warforged of
-  Kalikhat** (below, *Outside the hive*): the purest crusader became the holdout,
-  stranded when the first crusade's colony fell and fused with the mist to survive, and
-  he has **never stood down.** His name is the tragedy in one word. Full treatment below.
+- **Vigil — V1G1L.** An old-guard warforged who is, 🔒 unknown to Kuru, the **mad
+  mist-warforged of Kalikhat** (below, *Outside the hive*) — the **mist crusader.**
+  Sent on the first crusade, stranded when its colony fell, he fused with the mist to
+  survive and has **never stood down.** His name is the tragedy in one word. Full
+  treatment below.
 - **Shepard — SH3P4RD.** The **lost brethren [Aniess](../characters/aniess.md) (Greg)
   is hunting** — the warforged she means to **deliver to Kuru for glory** (and so,
   unknowingly, return as precious finite godstone; [party roster](../characters/party-roster.md)).
@@ -292,8 +292,8 @@ with no god's voice in their heads.**
 
 - **The wood-warforged.** One has used **Druid magic** to replace his rotting parts
   with **living wood and trees** — a man slowly becoming a grove.
-- **Vigil (V1G1L) — the mist-warforged of Kalikhat.** 🔒 The **old guard's most
-  crusader** (§3), sent on the first crusade. He haunts a **ruined, abandoned city on
+- **Vigil (V1G1L) — the mist-warforged of Kalikhat,** the **mist crusader.** 🔒 An
+  old-guard warforged (§3) sent on the first crusade. He haunts a **ruined, abandoned city on
   [Kalikhat](campaign-overview.md)** — once an honorable city that, in some old
   terror, **chose to fight evil with evil** and damned itself. It now drowns in a
   **sentient, lethal mist** that devours every living thing it touches, and this
@@ -313,8 +313,8 @@ with no god's voice in their heads.**
   below, was overwhelmed, and **fought evil with evil** until the city damned itself.
   Cut off and dying, far from the godstone, he **fused with the mist** to outlast his
   flesh — which **drowned the god's voice** and severed him from the hive. The cruelest
-  irony of all: **the most devoted crusader is the one warforged who can no longer hear
-  the god he crusades for,** fighting a holy war, alone, for a silence. `[settled]` And
+  irony of all: **a crusader who can no longer hear the god he crusades for,** fighting
+  a holy war, alone, for a silence. `[settled]` And
   he **never stopped fighting.** He turns the city's curse into
   a weapon — **using the mist to kill demons** (it devours even them) — **still waging
   the crusade that died around him,** a holdout who never got word the war was lost,
@@ -437,7 +437,7 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   crusades** — the Order of Sunne's holy war exported abroad for the first time, and
   🔒 likely **Kuru's first real contact with demons.** One of those failed colonies
   is **a Jamestown that never came home** — its last survivor is **Vigil (V1G1L), the
-  mist-warforged,** once the old guard's most crusader, still haunting its ruins (§3,
+  mist-warforged** (an old-guard crusader), still haunting its ruins (§3,
   *Outside the hive*). *(The present
   [Musleheim reconquest](the-muspel-empire.md) is a later, larger turn of the same
   colonial engine — [overview §3A](campaign-overview.md).)*
