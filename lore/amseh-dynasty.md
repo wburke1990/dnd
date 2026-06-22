@@ -122,6 +122,8 @@ The immediate effects:
 - The snake island trade route disrupted — the island itself may have been affected or destroyed
 - Famine beginning to spread across the empire
 
+The eruption's ash veil cleared within a decade, but the valley's river never returned — the Bleeding Star tipped the land into a self-sustaining desert, later sealed permanently by the rain shadow of rising Musleheim. See [the drying of the valley](the-drying-of-the-valley.md).
+
 **The Sea Peoples Invasion (Year 100, concurrent):**
 In the same year as the volcanic event, the Sea Peoples invaded — displaced peoples from across the known world, themselves driven by the climate catastrophe affecting their own lands. They came on rafts of skeletons, according to the tomb inscription, in the wake of the bleeding star.
 
