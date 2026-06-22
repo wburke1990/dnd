@@ -83,10 +83,13 @@ become islands, then back again. The contrast between transformation **chosen**
 True names = power over souls (the Egyptian **Ren**; Planar Binding auto-succeeds
 with a true name). The party harvests names for Preem without understanding them.
 
-- `[OPEN — how it should feel: empowering / horrifying / a trap that turns from
-  one to the other?]`
-- `[OPEN — scope: one climactic name (the volcano-demon) or a name-thread per PC
-  (Aniess's forgotten name, the demon wife's, Preem's, a god's)?]`
+- **Feel (resolved):** Planar Binding is meant to be **horrifying** — the bound demons
+  are **slaves, in constant pain** (see [house rules](house-rules-and-world-mechanics.md)).
+  **Escalate the horror** as the plot goes: begin with bound demons, then widen to
+  **other enslaved creatures** as the stakes rise.
+- **Scope (resolved):** there is definitely a **climactic name — the volcano-demon** —
+  but the campaign seeds **escalating true-name quests along the way**, so the party
+  comes to understand the mechanic (and its horror) *before* the final decision.
 
 ### D. The Weirdness of Ancestral Myth
 Most people know a few myths but don't grasp how genuinely **bizarre** the
