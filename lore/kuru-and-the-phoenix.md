@@ -225,7 +225,14 @@ god's voice in their heads.**
   set up on the surface not knowing the **deep gnomes, drow, and demons** waiting
   below, was overwhelmed, and **fought evil with evil** until the city damned itself.
   Cut off and dying, far from the godstone, he **fused with the mist** to outlast his
-  flesh. `[OPEN]` whether the mist is **its own rapacious power** (distinct from any
+  flesh. `[settled]` And he **never stopped fighting.** He turns the city's curse into
+  a weapon — **using the mist to kill demons** (it devours even them) — **still waging
+  the crusade that died around him,** a holdout who never got word the war was lost,
+  like the Japanese soldiers who kept fighting WWII for decades after it ended. After
+  so long alone in the fog he is **completely off his rocker,** so his two drives
+  tangle: a **mad holy warrior** still slaughtering Kalikhat's demons, and a
+  **Mordeth** who will gut a passing party for a fresh body to wear out of the ruins.
+  `[OPEN]` whether the mist is **its own rapacious power** (distinct from any
   demon, as in WoT) or tangled with Kalikhat's demon-dealing —
   the campaign already treats **demons as a power apart**.
 - **The snake-skin warforged — the researcher of the snake island.** Another has
