@@ -32,7 +32,7 @@ the event, and to what end, is the hidden lever beneath all the history below.
 
 | Pass | When | What it did |
 |---|---|---|
-| 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. |
+| 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. `[loose]` The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
 | 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed; **obliterates Golden Lonka into a caldera** (→ Jotunheim) and drives **Kalikhat** underground. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
@@ -63,7 +63,16 @@ the event, and to what end, is the hidden lever beneath all the history below.
   the Bleeding Star (§II) and end as the caldera of **Jotunheim** — the full arc in
   [Lonka / Jotunheim](lonka-jotunheim.md).
 
-*Sources: [Taniyn & Lonka](taniyn-and-lonka.md), [campaign overview §5](campaign-overview.md).*
+- **The sibling fall — the phoenix.** `[loose]` In the same first pass a second great
+  stone falls and becomes **Kuru.** Where Taniyn became an island and one day *ended*,
+  Kuru's beast is a **phoenix that dies and rises with every pass** — so the **god of
+  Kuru outlives every other god,** at the price of its own mind. Its worshippers chase
+  the same immortality, replacing their flesh with god-stone until they become the
+  near-immortal **warforged** who lead the Church of Sunne. The phoenix is now going
+  mad, and the **coming pass (§VII) is its next, most dangerous rebirth.** Full arc:
+  [Kuru & the phoenix](kuru-and-the-phoenix.md).
+
+*Sources: [Taniyn & Lonka](taniyn-and-lonka.md), [Kuru & the phoenix](kuru-and-the-phoenix.md), [campaign overview §5](campaign-overview.md).*
 
 ---
 

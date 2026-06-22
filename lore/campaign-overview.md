@@ -201,7 +201,7 @@ names, strongly suggestive but unconfirmed]`:
 | Suartleheim (Weet / Eet = West / East) | Norse — Svartalfheim, dark elves / dwarves |
 | Lonka (now **Jotunheim**) | Dragonborn holy origin & Phoenician **Tyre**, *fused on purpose* with Ramayana **Lanka** — Golden Lonka, Mt Trikuta, the Ravana-seizure rhyme (see [Lonka / Jotunheim](lonka-jotunheim.md)) |
 | Kalikhat | South Asian — Kali / Hindu?; **cradle of the Underdark peoples** — drow & deep gnomes who fled underground after the Bleeding Star and first dealt with demons `[OPEN — reconcile with Suartleheim/Svartalfheim]` |
-| Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? |
+| Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? Its god is a comet-born **phoenix** that dies and is reborn each pass; its warforged clergy remake themselves in god-stone (see [Kuru & the phoenix](kuru-and-the-phoenix.md)) |
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |
 | Mukka | ? |
 
@@ -266,6 +266,7 @@ mechanics of the circle-cast duel]`
   [Amseh dynasty](amseh-dynasty.md),
   [Egyptian afterlife mythology](egyptian-afterlife-mythology.md),
   [house rules & world mechanics](house-rules-and-world-mechanics.md),
+  [Kuru & the phoenix](kuru-and-the-phoenix.md),
   the Second Foundation, the elven stronghold, the wandering dragonborn.
 - **`characters/`** — PCs (Sarric, Aniess, Jasper, Pax) and NPCs (Preem,
   Preem's demons, Mul, the dream-quest children & demon wife, Blackacre, the
