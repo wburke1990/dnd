@@ -533,6 +533,17 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
     dubious strategy** its promotion-by-wounds breeds (§3, *path of wounds*). The
     alliance **needs both halves** — Kuru's stone-heavy line and Noku's brains — which
     is precisely why the rift is so dangerous.
+  - **No navy — borrowed ships.** `[settled]` **Neither power has much of a navy;** both
+    depend on **mercenary pirate ships out of [Mukka](campaign-overview.md)** to ferry
+    troops and supplies across to Musleheim. Their whole war on the big island hangs by a
+    **hired, disloyal supply line.**
+  - 🔒 **The coming reversal (planned beat).** `[loose]` That supply line is about to
+    snap: when **[Sam's halfling floating fleet](floating-fleet.md)** starts **capturing
+    the transport fleets** ([overview §5](campaign-overview.md)), **both armies are left
+    trapped on hostile Musleheim with no reinforcements and no supplies** — and the
+    **tribes hit them very hard.** A second great reversal of the war. **Which side (if
+    any) the party supports is left wide open** — the kind of no-clean-answer choice the
+    campaign is built for ([overview §4](campaign-overview.md)).
   - `[loose]` **Colony or ally?** [Overview §5](campaign-overview.md) calls the
     Kurunatukas Kuru **colonies,** but Noku here reads as a **distinct allied polity**
     with its own army and doctrine. Likely a **client-ally / restive colony** that

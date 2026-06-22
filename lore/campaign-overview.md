@@ -211,7 +211,7 @@ names, strongly suggestive but unconfirmed]`:
 | Kalikhat | South Asian — Kali / Hindu?; **cradle of the Underdark peoples** — drow & deep gnomes who fled underground after the Bleeding Star and first dealt with demons `[OPEN — reconcile with Suartleheim/Svartalfheim]` |
 | Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? Its god is a comet-born **phoenix** that dies and is reborn each pass; its warforged clergy remake themselves in god-stone (see [Kuru & the phoenix](kuru-and-the-phoenix.md)) |
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |
-| Mukka | ? |
+| Mukka | ? — source of the **mercenary pirate ships** Kuru & Noku rely on to supply the Musleheim war (no navy of their own); see [Kuru & the phoenix §5](kuru-and-the-phoenix.md) |
 
 **No home base (resolved).** The party has **no fixed base** — Sam's character has a
 **boat**, and the **map Preem gave them marks places of interest all over the
