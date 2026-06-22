@@ -99,9 +99,10 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
   something **place-bound, insular, zealous** (*guard the holy ground*). This is the origin of
   the **zealot strain** that divides them from the wandering saints (see
   [Taniyn & Lonka](taniyn-and-lonka.md)).
-- **Then they left — and the gap shows.** By the time **Kuru is colonized (~3,000s) there are
-  strikingly few dragonborn left in the empire** (part of why Muspel and Kuru read as
-  *man*-dominated). Where did they go? **Home.** Once the **hot spot drifted southeast** and the
+- **Then they left — and it shows on the map.** The empire founds **Kuru only *after* they're
+  gone** (~2,800 ya) — which is exactly why that colony is **nearly all human** (and why Muspel
+  and Kuru both read as *man*-dominated). Where did the dragonborn go? **Home.** Once the **hot
+  spot drifted southeast** and the
   **northwest coast of Muspelheim cooled** enough to enter — the tunnels nearest the hot spot
   run molten — **~3,000 ya at the earliest** — the zealots **walked the Abyss tunnels under the
   sea** to the one island in range: **Jotunheim / Lonka,** Taniyn's first perch.

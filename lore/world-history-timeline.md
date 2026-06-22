@@ -78,7 +78,7 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
   ends.)*
 - **Golden Lonka.** For this whole first age Lonka is the **center of the world** — a
   round, three-peaked **golden island** (Mount Trikuta), holy to all dragonborn and their
-  Phoenician **Tyre**, where the dragons themselves dwell. It will be **obliterated** by
+  Phoenician **Tyre** — **trade-partner of the Amseh empire (§II)** across the Bronze-Age sea — where the dragons themselves dwell. It will be **obliterated** by
   the Bleeding Star (§II) and end as the caldera of **Jotunheim** — the full arc in
   [Lonka / Jotunheim](lonka-jotunheim.md).
 
@@ -108,8 +108,9 @@ along the reign lengths below.)*
   Island** — a serpent-governed land with advanced agriculture. Guano fertilizer,
   permaculture, and the bronze-shod ard flow north; yields jump ~50%, trade doubles.
 - **Amseh II, the Golden Age** *(~200-yr reign; ~5,300–5,100 ya).* Peak prosperity; the Snake-Island
-  relationship matures into full cultural and commercial exchange. Stable abundance,
-  no crisis on the books.
+  relationship matures into full cultural and commercial exchange — and the **bronze road
+  through Lonka** (copper, tin, amber) makes the empire a hub of the early world. Stable
+  abundance, no crisis on the books.
 - **Amseh III, the Warrior King** *(~120-yr reign; ~5,100–4,980 ya).* A century of continued
   prosperity — then, at **Year 100, the Bleeding Star (Ragnarok I):** a comet-driven
   Krakatoa-analog eruption. Ash blots the sun, harvests die, three islands are
@@ -176,7 +177,10 @@ part of a thousand years, until Beowulf.
 
 ## V. The Long Present — Maalm, the Fleet, and the Saints (~4,100 ya → today)
 
-These threads run in parallel from the founding down to the campaign's "now."
+These threads run in parallel from the founding down to the campaign's "now," and sort into two
+kinds — **dated deep-middle history** (*the First Foundation & the new lands; Kuru & the undying
+phoenix; the holy island, lost and retaken*) and **ongoing traditions** (*the Second Foundation;
+the Wandering Saints; the Floating Fleet & wandering dragonborn; the world in flux*).
 
 ### The Second Foundation
 The elves who settled Maalm after the empire's fall founded a **secret order** (true
@@ -228,16 +232,17 @@ dragonborn who learned to **steer a comet pass into controlled, land-building er
 rather than catastrophe — rode the **hot spot** southeast, raising **Musleheim** and the
 new islands across the ~4,000 / 3,000 / 2,000-ya passes. They formed the inner circle of
 what became the **Muspel empire** (§VI) — which, once Musleheim was raised, **founded Kuru
-as a colony** (~3,000s; Kuru later rebelled free, §VI). In the same window the caldera of
+as a colony** (~2,800 ya — after the dragonborn exodus, so nearly all-human; Kuru later rebelled free, §VI). In the same window the caldera of
 **Jotunheim** was resettled by Maalm elves and later fell to the **Lonka Zealots** (above).
 *Source: [the First Foundation](the-first-foundation.md), [Kuru & the phoenix](kuru-and-the-phoenix.md).*
 
 ### Kuru and the undying phoenix — and its first crusades
 Kuru's god — the **phoenix** that fell at Creation (§I) — is the **one comet-beast that
 dies and is reborn every pass** instead of ending, so Kuru believes itself **chosen** and
-owed the world. Kuru **began as a colony of the Muspel empire** (founded ~3,000s ya, once
-the comet had raised Musleheim) — until it **rebelled**, and in that war a lord **lost a
-hand**, found a shard of the god's **sentient stone**, and forged a new hand from it. The
+owed the world. Kuru **began as a colony of the Muspel empire** (founded ~2,800 ya — *after*
+the empire's dragonborn had left, so nearly all-human) — until it **rebelled** (~2,500), and
+in that war a lord **lost a hand**, found a shard of the god's **sentient stone**, and forged a
+new hand from it. The
 rebellion won Kuru its freedom and birthed the **Order of Sunne**, whose most devout
 replace their flesh with god-stone until they become the near-immortal **warforged** who
 secretly run the kingdom (a hive mind sharing the god's voice). Every rebirth **burns the
@@ -272,7 +277,7 @@ The most recent chapter of history, and the one the party lives inside. Norse re
   the First-Foundation-led, fire-cult barbarian Muspel empire rose on it — the **first great
   colonizer of the recent age** and the **first iron empire** (mining the fire-island's
   iron-rich volcanic soil; see [technology & trade](technology-and-trade.md)). It **founded
-  Kuru as a colony in the ~3,000s** (§V),
+  Kuru as a colony (~2,800 ya — after its dragonborn had gone, so nearly all-human)** (§V),
   planting the men-dominated society Kuru still is; Kuru later **rebelled free** (the war
   that birthed its phoenix-faith). The empire ruled until the bad pass unmade it — and what
   makes its reconquest below so bitter is that **Kuru, its own ancient rebel colony, now

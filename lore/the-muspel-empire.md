@@ -21,10 +21,11 @@ that new fire-island a people built the **Muspel empire**: a sea-going, fire-cul
 **barbarian** power — **herders and longship-raiders** who settle the lands they take
 (Norse Muspelheim, Surtr's realm). *Not* a mercantile state: they fight their own wars.
 
-- **Kuru began as a Muspel colony (founded ~3,000s ya).** Once the comet raised Musleheim
-  (~4,000 ya), the empire spread outward and **founded Kuru**, planting the men-dominated
-  society it still is (see [Maalm — the elven stronghold](maalm-the-elven-stronghold.md),
-  which notes Kuru is ruled by men as Maalm is by elves). Kuru then **rebelled and broke
+- **Kuru began as a Muspel colony (founded ~2,800 ya).** The empire planted it **after its own
+  dragonborn had left** for Jotunheim (~3,000 ya, [Lonka §4](lonka-jotunheim.md)), so the
+  colonists were **nearly all human** — which is why Kuru is the men-dominated society it still
+  is (see [Maalm — the elven stronghold](maalm-the-elven-stronghold.md), which notes Kuru is
+  ruled by men as Maalm is by elves). Kuru then **rebelled and broke
   free** — the war that birthed its phoenix-faith (see [Kuru & the phoenix](kuru-and-the-phoenix.md))
   — so *the colonized became the colonizer* twice: first winning its independence, and now,
   ages later, leading the **reconquest of Musleheim itself** (§4–6). `[OPEN]` what *else*
