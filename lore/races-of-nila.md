@@ -40,8 +40,9 @@ clean map match yet — see the note at the bottom.*
 ## Notes / still open
 
 - **Normalized to map spellings:** Musleheim, Suartleheim, Kalikhat.
-- **Jotunheim = Lonka (resolved).** The same island: **Lonka** is its ancient, sacred
-  name (an older tongue); **Jotunheim** is what everyone calls it today. The shift is a
-  reveal — see [Taniyn & Lonka](taniyn-and-lonka.md) / [the Returning Tribes](the-returning-tribes.md).
+- **Jotunheim = Lonka (resolved).** The same island: **Golden Lonka**, the dragonborn
+  mother-city, was obliterated into a caldera by the Bleeding Star; the Maalm elves who
+  resettled the caldera **renamed it Jotunheim** (Norse register), and the dragonborn
+  zealots later reclaimed it. Full arc: [Lonka / Jotunheim](lonka-jotunheim.md).
 - **Karanuku/Mukka names normalized to the map (resolved):** Novo Karanuku → **Noku
   Kurunatuka**, Minor Karanuku → **Moku Kurunatuka**, Makkku → **Mukka**.

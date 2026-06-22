@@ -47,8 +47,8 @@ the event, and to what end, is the hidden lever beneath all the history below.
 
 - **The first drop.** The comet's first pass drops a **primordial dragon, Taniyn,**
   out of the sky. She rests her wings, the earth rises to meet her, and she
-  **turns herself into the island of Lonka** — the holy dragonborn homeland, known in
-  the present day as **Jotunheim** ("Lonka" is its ancient name, in an older tongue). The
+  **turns herself into the island of Lonka** — the holy dragonborn homeland (now
+  **Jotunheim**; see [Lonka / Jotunheim](lonka-jotunheim.md)). The
   very first event in history is thus a *transformation*, the comet cosmology made
   literal at the creation.
 - **The common ancestor.** Taniyn's children fill the world — first on the backs of

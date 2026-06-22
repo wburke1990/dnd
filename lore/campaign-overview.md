@@ -57,8 +57,8 @@ bones of the people it replaced. Preem's demon-slavery is the engine underneath.
   remade the **Muspel empire's own people** — orcs near the impact, half-orcs at the
   margins. A Viking-age raiding resurgence (~700–300 ya) has since been beaten back;
   today the orcs are pushed to Musleheim and **Kuru's Order of Sunne leads the
-  reconquest** (itself colonial). `[OPEN — none of the current PCs are orcs; is that
-  intentional?]`
+  reconquest** (itself colonial). *(The current PCs include no orcs — not by design;
+  players picked whatever species they wanted.)*
 
 ### B. Transformation
 Eustace's dragon-change (Dawn Treader), the shapeshifting demons, Aniess's
@@ -69,8 +69,13 @@ become islands, then back again. The contrast between transformation **chosen**
 
 - `[OPEN — is transformation ever chosen-and-good, or is the campaign mostly
   transformation-as-violation? The tension is the theme.]`
-- `[OPEN — how much should players eventually grasp the comet cycle as the
-  world's cosmological backbone?]`
+- **Player discovery (resolved):** reveal the mechanics *slowly* and let the players
+  **discover the comet cycle for themselves** — no exposition dump. The
+  [Island of the Thinkers](../encounters/island-of-the-thinkers.md) (an island that
+  sinks and releases a dragon) and the Egyptian tombs' inner chambers
+  ([Valley of the Kings](../encounters/valley-of-the-kings.md)) **start this process**,
+  each showing a piece of the stones ↔ dragons ↔ beasts ↔ islands cycle without
+  explaining it.
 
 ### C. The Name Quest
 *Will has waited years to run a name quest. This is a centerpiece, not a subplot.*

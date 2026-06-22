@@ -36,7 +36,8 @@ the present-day Jotunheim dragonborn religion.)*
 
 - `[OPEN]` Which elves, when — is this the Amseh-era elves, the Maalm founding elves,
   or a later reckoning?
-- **Lonka = Jotunheim (resolved):** the same island — **Lonka** is its ancient, sacred
-  name; **Jotunheim** is its present-day name. The reveal is that the holy first-land
-  and modern Jotunheim are one, renamed across ages and languages.
+- **Lonka = Jotunheim (resolved):** the same island. **Golden Lonka** was obliterated
+  into a caldera by the Bleeding Star; the Maalm elves who resettled it **renamed it
+  Jotunheim**; the returning dragonborn zealots later took it back. Full arc:
+  [Lonka / Jotunheim](lonka-jotunheim.md).
 - `[OPEN]` The Lamanite-equivalent: is there a rebellious counter-branch?
