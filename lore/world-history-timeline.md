@@ -175,7 +175,7 @@ part of a thousand years, until Beowulf.
 
 ---
 
-## V. The Long Present — Maalm, the Fleet, and the Saints (~4,100 ya → today)
+## V. The Long Present — Maalm, the Fleets, and the Saints (~4,100 ya → today)
 
 These threads run in parallel from the founding down to the campaign's "now," and sort into two
 kinds — **dated deep-middle history** (*the First Foundation & the new lands; Kuru & the undying
@@ -200,7 +200,7 @@ of Beowulf's archetype, each marked by a coastal **watch-stone**:
 
 *Sources: [the wandering dragonborn](wandering-dragonborn.md), [Requiem](../handouts/requiem.md).*
 
-### The Floating Fleet (the Amatssou) — and the wandering dragonborn
+### The Floating Fleets (the Amatssou) — and the wandering dragonborn
 `[loose — Sam to own]` **Two distinct sea-peoples, not one:** the **massive halfling fleets**
 (Sam's — *island-dwarfed men* whose fleets began as islands sank) and the separate **wandering
 dragonborn** (the saints' nomads on their lashed pontoons). The **halfling fleets** are a
@@ -238,7 +238,7 @@ as a colony** (~2,800 ya — after the dragonborn exodus, so nearly all-human; K
 
 ### Kuru and the undying phoenix — and its first crusades
 Kuru's god — the **phoenix** that fell at Creation (§I) — is the **one comet-beast that
-dies and is reborn every pass** instead of ending, so Kuru believes itself **chosen** and
+dies and is reborn** instead of ending, so Kuru believes itself **chosen** and
 owed the world. Kuru **began as a colony of the Muspel empire** (founded ~2,800 ya — *after*
 the empire's dragonborn had left, so nearly all-human) — until it **rebelled** (~2,500), and
 in that war a lord **lost a hand**, found a shard of the god's **sentient stone**, and forged a
@@ -246,8 +246,7 @@ new hand from it. The
 rebellion won Kuru its freedom and birthed the **Order of Sunne**, whose most devout
 replace their flesh with god-stone until they become the near-immortal **warforged** who
 secretly run the kingdom (a hive mind sharing the god's voice). Every rebirth **burns the
-phoenix's memory**, and it is now **going mad** — 🔒 *a decline worsened by the Second
-Foundation's ~1,000-ya sabotage, which botched its rebirth.*
+phoenix's memory**, and it is now **going mad**
 
 - **The Kalikhat Crusades (~2,000 → ~1,600 ya) — Kuru's first crusading era,** long after
   independence and well before the orc wars. Kuru planted **surface colonies on Kalikhat**
@@ -295,7 +294,7 @@ The most recent chapter of history, and the one the party lives inside. Norse re
   too. Both at once.
 - **The turn (~300 ya → now) — Kuru's *second* crusade.** Constant war **hardened the
   raided** into unified, militarized powers — chief among them **Kuru**, *itself a former
-  Muspel colony*, whose phoenix-faith had reasserted once the bad pass freed it. Risen
+  Muspel colony*, whose phoenix-faith had reasserted once the bad pass freed it from Musleheim's domination of the archipelago. Risen
   again, Kuru turned its **Order of Sunne** on Musleheim: the **reconquest is its second
   great crusade,** after the dark times of the orc wars (its first was on Kalikhat, §V).
   The orcs are beaten back from most of their holdings.
@@ -362,7 +361,7 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 ---
 
 ### Loose ends worth a DM's attention
-- `[OPEN]` The Second Foundation's true in-world name.
+- `[OPEN]` The First and Second Foundation's true in-world names.
 - `[OPEN]` Exact present-day comet-cycle year (we're "~1,026 in" but the next pass is "~1 year out" — tighten or embrace the slack).
 - `[OPEN]` Whether the ~1,000-ya "bad pass" and a formal "Ragnarok" count are the same event.
 - `[OPEN]` Fate of the Snake Island after the Bleeding Star (damaged? destroyed? still out there?).

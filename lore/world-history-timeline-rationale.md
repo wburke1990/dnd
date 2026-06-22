@@ -19,7 +19,7 @@
 - **A comet must actually *arrive* to build land.** So **Musleheim does not exist until the
   ~4,000 pass** raises it — which is why nothing happens *on* it before then, and why Maalm's
   founding (~4,100) is the empty trough *before* the land returns.
-- **A pass's alchemical sickness leaves land dead for 1,000+ years** (Musleheim is *still*
+- **A bad pass's alchemical sickness leaves land dead for 1,000+ years** (Musleheim is *still*
   half-poisoned a millennium on). So **Lonka** (hit ~5,000) is unlivable until ~3,200, and
   **Kalikhat's surface** until ~2,000 — which is when each can next be settled.
 - **The hot spot drifts southeast,** cooling what it leaves behind. The under-sea tunnels off
