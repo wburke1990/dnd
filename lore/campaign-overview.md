@@ -167,7 +167,7 @@ names, strongly suggestive but unconfirmed]`:
 | Maalm | Egyptian ✓ (established) |
 | Musleheim | Norse — Muspelheim, the realm of fire |
 | Suartleheim (Weet / Eet = West / East) | Norse — Svartalfheim, dark elves / dwarves |
-| Lonka | South Asian — Lanka (Ramayana) |
+| Lonka | South Asian — Lanka (Ramayana); *also* the dragonborn holy origin & their Phoenician **Tyre** `[OPEN — reconcile]` |
 | Kalikhat | South Asian — Kali / Hindu? |
 | Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? |
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |

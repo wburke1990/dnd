@@ -46,15 +46,20 @@ carried their people, traces back to that peak. **[settled]**
 
 ## Open threads
 
-- **Lost children of Taniyn.** The Phoenician/Carthage "lost tribes"
-  idea (dragonborn colonies scattered, ruined, hidden in coves — see
-  [floating-fleet.md](floating-fleet.md)) reads naturally as **her
-  children flung to the far corners**, and dovetails with the Beowulf
-  story of a wanderer searching for *"other dragonborn survivors of the
-  same catastrophe"* ([maalm-founding.md](maalm-founding.md)). Worth
-  deciding whether Taniyn's myth and the **Ragnarok / Second Foundation**
-  catastrophe ([the-second-foundation.md](the-second-foundation.md)) are
-  the same event told twice. **[loose]**
+- **Lost children of Taniyn / Lonka as Tyre.** The dragonborn are the
+  **Phoenician *traders*** of Nila, and **Lonka is their Tyre** — at once
+  the holy first-perch *and* the mother-city whose colonists scattered to
+  found (and lose) the **"lost tribes"** (dragonborn colonies ruined,
+  hidden in coves — see [floating-fleet.md](floating-fleet.md)). That reads
+  naturally as **her children flung to the far corners**, and dovetails with
+  the Beowulf story of a wanderer searching for *"other dragonborn survivors
+  of the same catastrophe"* ([maalm-founding.md](maalm-founding.md)). Note
+  the **split**: the *Punic War* (Hannibal) belongs to the orc Muspel
+  war-state, not the dragonborn (see [the Muspel empire](the-muspel-empire.md)).
+  Worth deciding whether Taniyn's myth and the **Ragnarok / Second Foundation**
+  catastrophe ([the-second-foundation.md](the-second-foundation.md)) are the
+  same event told twice — and reconciling Lonka-as-Tyre with the region map's
+  tentative **Lonka = Lanka (Ramayana)** read. **[loose]**
 - A **name and form for Lonka's peak** in zealot cult — is the perch
   itself a shrine, a fortress, a grave?
 

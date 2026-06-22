@@ -16,8 +16,9 @@
 
 Musleheim is one of the **youngest landmasses** in the world — volcanic ground
 raised from the sea by the comet passes of ~4,000 / 3,000 / 2,000 years ago. On
-that new fire-island a people built the **Muspel empire**: a settled, sea-going,
-colonial power, fire in its iconography (Norse Muspelheim, Surtr's realm).
+that new fire-island a people built the **Muspel empire**: a sea-going, fire-cult
+**barbarian** power — **herders and longship-raiders** who settle the lands they take
+(Norse Muspelheim, Surtr's realm). *Not* a mercantile state: they fight their own wars.
 
 - **Well over a thousand years ago (~1,300 ya), the Muspel empire colonized Kuru** —
   planting the men-dominated society that Kuru still is today (see
@@ -60,7 +61,9 @@ empire, reborn in their image, turned outward.
 
 Like the **Vikings** of our own history, the orc Muspel resurgence had a few hundred
 **good years**: fast ships out of Musleheim, raids and conquests sweeping island after
-island, holdings planted far from the fire-coast.
+island, holdings planted far from the fire-coast. These are **herdsmen and
+longship-raiders** — a people-in-arms who fight their *own* wars, never a merchant-state
+hiring others to fight them.
 
 They are **not the villains of this story.** They were survivors of a plague that
 unmade them, fighting for land and footing in a world where **land and food are a
@@ -89,9 +92,19 @@ The colonized became the reconqueror — and the reconquest is, in its turn, col
 ## 5. The Half-Orc Hannibal — a resurgence, then a Zama (recent)
 
 The long reconquest was not a straight line. In the last generation a **half-orc
-general** — David's requested **Hannibal** — rallied the orcs and half-orcs and
-*reversed the reversal*, handing the colonizer powers a string of stunning defeats and
-carrying the war back onto their own ground.
+warlord** — David's requested **Hannibal**, but in **Viking / barbarian-herdsman**
+dress — rallied the orcs and half-orcs and *reversed the reversal*, handing the
+colonizer powers a string of stunning defeats and carrying the war back onto their own
+ground.
+
+> **The Punic *shape*, not the Punic *flavor*.** We take Hannibal's campaign arc — a
+> generational genius, ruinous early victories, a famous crossing, a final Zama — and
+> drop everything mercantile about Carthage. These orcs are **herdsmen and raiders who
+> fight their own wars**: no hired mercenary armies, no merchant-oligarchy, no
+> all-consuming fixation on one rich island. Their war is **land-hunger and survival**
+> (the zero-sum land/food world of [campaign overview §5](campaign-overview.md)), waged
+> by a whole people in arms. The *trade*-Phoenician side lives with the **dragonborn**
+> (Lonka as Tyre — see [floating-fleet](floating-fleet.md)).
 
 - **Lake Tressamine** — his famous early victory (our Lake Trasimene): an ambush that
   swallowed a colonizer army whole and marked him as a generational threat.
@@ -171,9 +184,10 @@ in what state — gone native, besieged, or turned into something out on the ice
 - The **Hannibal** thread (§5) hands you a fresh, recent, emotionally-loaded war the
   party can hear of or be pulled into; his **missing fleet** and any surviving **lost
   colony** (§7) are ready-made hooks pointing north.
-- `[OPEN]` Deconflict the **two Punic threads**: the dragonborn **Lost Tribes**
-  (Phoenician trade-diaspora, salted earth — see [floating-fleet](floating-fleet.md))
-  vs. this orc **Hannibal** (Carthage the war-state). Keep them distinct facets of one
-  well, or link them.
+- **Two Punic threads, split (resolved).** The *trade-and-colony* Phoenicians are the
+  **dragonborn** (Lonka as their **Tyre**, the **Lost Tribes** their scattered colonies
+  — see [floating-fleet](floating-fleet.md)); the **Punic War** itself — Hannibal, the
+  crossings, a Zama — is **these orcs**, in Viking/barbarian dress. Carthage's
+  mercantile / mercenary-hiring / Sicily-obsessed side belongs to neither, and is dropped.
 - `[OPEN]` whether any current or future PC is an orc/half-orc, and whether the party's
   path ever crosses the northern war.

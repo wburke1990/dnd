@@ -157,8 +157,9 @@ A wandering, mostly-halfling sea-civilization with nomadic dragonborn aboard —
 chiefdom of many tribal heads, no single ruler. They make everything from the sea
 (seaweed, bone, hide, sinew) but **cannot make timber,** so they raid island-rich
 waters on **timber-runs**; **druids,** who can grow and mend wood, are precious. A
-buried thread: the **Lost Tribes**, a Carthage-mold dragonborn colony whose
-conquerors salted the earth — survivors cling on, half-forgotten, in hidden coves.
+buried thread: the **Lost Tribes**, scattered colonies of the **Phoenician dragonborn**
+(whose mother-city is **Lonka, their Tyre**) — one ruined in the Carthage mold, its
+conquerors having salted the earth; survivors cling on, half-forgotten, in hidden coves.
 *Source: [the floating fleet](floating-fleet.md).*
 
 ### The world in flux
@@ -191,7 +192,9 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - **The turn (~300 ya → now).** Constant war **hardened the raided** into unified,
   militarized powers — chief among them **Kuru**, *itself a former Muspel colony*, and
   its crusader **Order of Sunne**. The orcs are beaten back from most of their holdings.
-- **The half-orc Hannibal (recent).** A generational **half-orc general** reversed the
+- **The half-orc Hannibal (recent).** A generational **half-orc warlord** — Hannibal's
+  campaign in **Viking/barbarian dress**, a people-in-arms rather than a merchant-state's
+  mercenaries — reversed the
   reversal — a stunning resurgence (the ambush victory at **Lake Tressamine**) that
   carried the war back onto colonizer ground before being broken (a Zama) and killed or
   routed. **At campaign start his resurgence has just collapsed and the tide has swung

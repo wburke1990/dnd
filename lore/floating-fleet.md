@@ -76,17 +76,28 @@ Music is **central** to the culture, and it's also **practical**:
   becomes a drum.** A fleet maneuvering is a wall of polyrhythmic thunder.
   **[settled — Ahms's invention; great set-piece audio]**
 
-## The lost tribes (Carthage)
+## The lost tribes (the Phoenician dragonborn)
 
-A standing quest seam from 5/28: dragonborn are like the Phoenicians, and
-somewhere there's a **ruined ancient dragonborn colony** in the
+A standing quest seam from 5/28: **dragonborn are the Phoenicians of Nila** —
+the **trade-and-colony** people, not a war-state. Their mother-city is
+**Lonka, their Tyre**: at once the holy first-perch of Taniyn (see
+[taniyn-and-lonka.md](taniyn-and-lonka.md)) *and* the metropolis their
+colonists scattered from across the seas. Somewhere out among those
+colonies is a **ruined ancient dragonborn settlement** in the
 Carthage/Tunisia mold — **the conquerors salted the earth and massacred
 the inhabitants**, but **survivors cling on in hidden coves and cliffside
 caves**, integrated with local peoples and half-forgotten. **Lost tribes
-of dragonborn, scattered to the far corners** — a thread the DMs offered
-as a find-the-lost-tribes quest, and which rhymes with both **Beowulf's**
-fruitless search ([maalm-founding.md](maalm-founding.md)) and the
-**children-of-Taniyn** cosmology. **[loose — offered, not locked]**
+of dragonborn, scattered to the far corners** — a find-the-lost-tribes
+quest that rhymes with both **Beowulf's** fruitless search
+([maalm-founding.md](maalm-founding.md)) and the **children-of-Taniyn**
+cosmology. **[loose — offered, not locked]**
+
+> **Two Punic threads, deliberately split.** The *trade-and-colony*
+> Phoenicians are **here** — the dragonborn, Lonka-as-Tyre. The *Punic War*
+> (Hannibal, the crossings, a Zama) lives with the **orc Muspel war-state**
+> instead, recast as Viking/barbarian herdsmen who fight their **own** wars
+> (see [the Muspel empire §5](the-muspel-empire.md)). Carthage's mercantile,
+> mercenary-hiring, Sicily-obsessed side carries over to neither.
 
 ## Showing up in play
 
