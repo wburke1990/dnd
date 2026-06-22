@@ -125,7 +125,9 @@ The immediate effects:
 The eruption's ash veil cleared within a decade, but the valley's river never returned — the Bleeding Star tipped the land into a self-sustaining desert, later sealed permanently by the rain shadow of rising Musleheim. See [the drying of the valley](the-drying-of-the-valley.md).
 
 **The Sea Peoples Invasion (Year 100, concurrent):**
-In the same year as the volcanic event, the Sea Peoples invaded — displaced peoples from across the known world, themselves driven by the climate catastrophe affecting their own lands. They came on rafts of skeletons, according to the tomb inscription, in the wake of the bleeding star.
+In the same year as the volcanic event, the Sea Peoples invaded — displaced peoples from across the known world, themselves driven by the climate catastrophe affecting their own lands. They came in the wake of the **rafts of skeletons**, according to the tomb inscription, in the wake of the bleeding star.
+
+*(DM note: the **"rafts of skeletons" are the Krakatoa pumice rafts** — vast floating mats of pumice that carried bones and debris across the sea for years after such an eruption, a real signature of the event — **not** the invaders' boats. The Sea Peoples themselves were **Bronze-Age refugees** fleeing the collapse and came in their own ships; see [technology & trade](technology-and-trade.md).)*
 
 Amseh III defeated the initial invasion — the Battle of Dijay, preserved in his tomb's inner chamber. His victory was genuine and significant. He trapped the invaders like wild fowl, as the inscription records, using both naval and land forces.
 

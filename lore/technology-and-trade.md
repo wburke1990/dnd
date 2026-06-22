@@ -18,38 +18,42 @@ technology.** It has come in three layers, each still partly present:
   dragons** — the children of Taniyn carrying people island to island ([Taniyn & Lonka](taniyn-and-lonka.md),
   [overview §5](campaign-overview.md)). As the dragons dwindled (the hot spot moved on, the
   gods slept as islands), this was lost.
-- **The lashed pontoon (the long age — still here).** The **wandering Dragonborn** cross in
-  **small twin-pontoon sailboats** — roughly **six to a boat**, built **without a single
-  nail,** every joint **lashed** (sinew, cord, pegged wood). Cheap, repairable on any beach,
-  seaworthy in skilled hands — and **still sailed** today as the traditional dragonborn craft.
-  *(NB: the wandering Dragonborn are **not** the [massive halfling fleets](floating-fleet.md) —
-  see §3.)*
-- **The nailed hull (the age of empires).** Going **big** — colony-ships, war-fleets — means
-  **nails.** The first were **bronze** (the Amseh / Lonka sea-trade world, §2); today they are
-  **iron.** A nailed hull carries cargo and crosses open water with a real hold — but it is
-  **only as reliable as the metal trade that feeds it.** 🔒 The wreck in the [Shipwrecked
-  Sailor](amseh-dynasty.md) tale was one of the *first* of these: an early **bronze-nailed**
-  vessel, bound for **Lonka,** wrecked on the serpent's island along the way.
+- **The lashed hull (the dragonborn way — and the *best* ocean tech there is).** The
+  **wandering Dragonborn** build with **no metal at all:** every joint **lashed** (sinew,
+  cord, pegged wood), from the everyday **twin-pontoon sailboat** (~six aboard) up to the
+  great **double-hulled voyaging canoe** that can carry a colony. This is the Earth model that
+  *actually* crossed oceans — **Polynesian/Austronesian voyaging canoes and Egyptian sewn
+  boats,** all nail-free. A lashed hull **flexes with the waves instead of splitting, repairs
+  on any beach, and never rusts** — so it was never poverty-tech but a **mastery,** and the
+  dragonborn keep it **the whole way through history.** *(NB: the wandering Dragonborn are
+  **not** the [massive halfling fleets](floating-fleet.md) — see §3.)*
+- **The metal-fastened hull (the outsiders' fraught experiment).** Other peoples tried to
+  *improve* on lashing with **metal fasteners** — always a mixed bargain. 🔒 The
+  **bronze-nailed** ship of the [Shipwrecked Sailor](amseh-dynasty.md) was an early,
+  **hubristic Amseh attempt that *failed*** — bronze is soft and precious, a poor nail — and
+  it **wrecked** on the run to Lonka, vindicating the dragonborn's no-nail way. The Iron Age
+  brought the real metal hull: **clinker-built longships riveted with iron** (the Muspel/orc
+  and Kuru war-fleets) — fast and strong, but **iron rusts in seawater** and the hulls demand
+  constant upkeep. The great seafarers — the dragonborn — **never adopted either.**
 
 ### Ships and the shape of history
-`[settled]` **You cannot colonize or invade with a six-person pontoon.** Large-scale movement
-— colonies, armies — has only ever been possible in the **bronze-nailed** and now **iron**
-ship eras, which is why the timeline clusters the way it does:
+`[settled]` Crossing the deep ocean has always been possible — the **dragonborn voyaging
+canoe** could do it from the start (Polynesians colonized a third of the planet that way). So
+the timeline is gated less by *ship tech* than by **who had the land, the numbers, and the
+organization to use it:**
 
-- The **dragonborn's own colonial golden age was the Bronze Age** (~6,000–5,000 ya): with
-  bronze-nailed hulls they were the **Lonka / Tyre** sea-power, planting the colonies the
-  [Bleeding Star](amseh-dynasty.md) would later strand into the **Lost Tribes**
-  ([floating-fleet](floating-fleet.md)). When the bronze world fell, they **regressed to the
-  humble lashed pontoon** — the wandering craft is the boat of a *fallen* maritime people.
-- For the ~1,000-year [Dark Age](world-history-timeline.md) there were **no big ships,** so
-  **no colonization happens in that window** — which fits, the world being empty and
-  land-poor anyway.
-- The **Iron Age (~4,000 ya on) re-opened the sea** to fleets and armies, and **every recent
-  colonization is iron-age:** the Muspel founding Kuru, the [Kalikhat crusades](kuru-and-the-phoenix.md),
-  the Viking orc-raids, the Kurunatuka gold rush. The longship is an **iron** thing.
-- `[OPEN]` The **Lonka Zealot army** that retook Jotunheim is a puzzle by this rule: a *great
-  army* of pontoon-sailing dragonborn could not cross by sea — which **strengthens the
-  demon-opened tunnel/causeway** for that invasion ([Lonka — Jotunheim](lonka-jotunheim.md)).
+- The **dragonborn's colonial golden age was the Bronze Age** (~6,000–5,000 ya): the
+  Lonka/Tyre sea-power, voyaging-canoe colonies the [Bleeding Star](amseh-dynasty.md) would
+  strand into the **Lost Tribes** ([floating-fleet](floating-fleet.md)). They didn't lose the
+  *tech* in the fall — they lost the **scale and the home,** and shrank to wandering.
+- The **Dark Age** has no colonization not for want of ships but for want of a **world** — the
+  land drowned, the people dead, nowhere and no one to plant.
+- The **Iron Age empires** (~4,000 ya on) are the ones that build **war-fleets and
+  colony-waves at scale** — Muspel→Kuru, the [Kalikhat crusades](kuru-and-the-phoenix.md), the
+  orc raids, the Kurunatuka gold rush — riding their iron-riveted longships.
+- `[loose]` The **Lonka Zealot army** *could* have crossed in a great fleet of voyaging canoes
+  — so the **demon-opened tunnel** is one option among several, not a necessity, for how they
+  took Jotunheim ([Lonka — Jotunheim](lonka-jotunheim.md)).
 
 ---
 
@@ -61,16 +65,22 @@ Nila has lived through **two ages of metal**, and the turn between them was a ca
 The deep past ran on **bronze:** copper alloyed with **tin.** It was the age of the
 [Amseh empire](amseh-dynasty.md) and the dragonborn **Lonka/Tyre** trade — and it hung utterly
 on **long sea-roads,** because the two ingredients don't come from one place:
-- **Copper** is common and **does occur in volcanic ground** (Nila has plenty).
-- **Tin is the bottleneck.** Real tin (cassiterite) comes from **granite, not volcanic rock**
-  — so it is **rare and far-off,** reachable only by trade. Earth hauled it from **Cornwall
-  and Afghanistan;** Nila's came down the sea-roads **through Lonka,** the dragonborn entrepôt
-  (their Tyre — Phoenicians *traded* tin, they didn't mine it).
-- `[OPEN — come back to this]` Site the **tin source** (a distant granitic island) and the
-  **copper** (volcanic), and add both — plus prestige goods like **amber** — to the
-  [tomb trade-goods lists](../encounters/valley-of-the-kings.md). *(Note: **amber is not a
-  bronze ingredient** — it was the great Bronze-Age **luxury**, the Amber Road from the cold
-  north to Egypt. It belongs on the list as treasure, not metal.)*
+- **Copper: [Lonka](lonka-jotunheim.md).** Common, and **copper does occur in volcanic
+  ground** — and Lonka was the trade-city besides.
+- **Tin: [Suartleheim West](campaign-overview.md).** The bottleneck. Real tin (cassiterite)
+  comes from **granite, *never* volcanic rock** — so it lives in the old **dwarf / dark-elf
+  mining country** of Suartleheim (Earth hauled its tin the same way, from Cornwall and
+  Afghanistan), and it travelled **by sea-road through Lonka,** the dragonborn entrepôt (their
+  Tyre — Phoenicians *traded* tin, they didn't mine it).
+- **So Lonka was *both* the copper source and the tin road** — which is why the Bleeding
+  Star's destruction of Lonka cut **both halves of bronze at a single stroke.** The collapse
+  was total and built-in.
+- **Amber** is **not** a bronze ingredient — it was the Bronze-Age **luxury** (the Amber
+  Road). And it needs **deep age:** fossil resin takes millions of years, so it **cannot come
+  from the young comet-islands** (Lonka, Musleheim, the Kurunatukas, all ≤6,000 yrs) — only
+  from **truly ancient land** (the old Maalm mainland, or older). `[OPEN]` site it.
+- `[OPEN — to-do]` Write copper, tin, and amber into the
+  [tomb trade-goods inscriptions](../encounters/valley-of-the-kings.md).
 
 ### The Bronze-Age Collapse = the Bleeding Star (~5,000 ya)
 `[settled — thematically]` Bronze dies when its trade dies. The [Bleeding Star](amseh-dynasty.md)

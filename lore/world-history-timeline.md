@@ -114,7 +114,8 @@ along the reign lengths below.)*
   prosperity — then, at **Year 100, the Bleeding Star (Ragnarok I):** a comet-driven
   Krakatoa-analog eruption. Ash blots the sun, harvests die, three islands are
   destroyed, the Snake-Island route goes silent. Simultaneously the **Sea Peoples**
-  — refugees of the *same* catastrophe, arriving on rafts of skeletons — invade.
+  — refugees of the *same* catastrophe, invading in the wake of the **pumice "rafts of
+  skeletons"** (the Krakatoa debris, *not* their boats — they came in Bronze-Age ships) — strike.
   Amseh III wins the **Battle of Dijay** (a pyrrhic victory; the climate keeps
   collapsing). He is finally deposed and killed in a palace coup that also kills his
   elder heirs.
