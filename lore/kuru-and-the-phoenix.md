@@ -146,6 +146,33 @@ This is dense with the campaign's themes:
   all the stone now? A live question for any scene with one — can it be reasoned
   with, turned, freed? Or is "it" just the mad god's mouth?
 
+### The path of wounds — how a warforged is made
+
+`[settled]` You do not convert at an altar; you **earn it in battle.** The founder's
+bargain (above) has hardened into a strict **military rite:**
+
+- **The first stone** is granted only for a wound that is **near-fatal** *and* taken in
+  **heroic service of the Kuru empire** — **both at once.** Meet both conditions and the
+  Church grants you a **chance at immortality:** **stone replaces whatever was hacked
+  off.**
+- **Then you must keep bleeding for it.** Further advancement requires **further combat
+  wounds** — each one an occasion for another piece of stone, another piece of you
+  traded for the god.
+- **Off the lines.** Eventually a warforged is **pulled from the front,** and from then
+  on **every new piece of stone replaces decaying flesh** rather than a fresh wound (the
+  slow rot, above) — the conversion finishing itself by attrition.
+- **Rank is stone.** The **high officers all carry stone,** and the more you carry the
+  higher you stand — so **rank, stone, and depth in the hive mind rise together** (below).
+  *To climb the Kuru army is to be subsumed.*
+
+`[settled]` **The perverse engine.** Because **promotion runs on heroic, near-fatal
+wounds and not on ordinary merit,** the Kuru army is full of soldiers **courting
+mutilation on purpose** — making **glory-mad decisions and dubious strategy** to earn
+the wound that earns the stone. An army that **rewards almost getting yourself killed**
+fights exactly like one: ferocious, fanatical, and **tactically deranged** — which
+helps explain catastrophes like the first crusades to [Kalikhat](campaign-overview.md)
+(§5), and compounds Kuru's already-thin navy ([overview §5](campaign-overview.md)).
+
 ### Numbers and names — the old guard
 
 `[settled]` Warforged are **numbered in the order they were made,** and there is a
