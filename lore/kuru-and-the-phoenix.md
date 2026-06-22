@@ -173,6 +173,22 @@ fights exactly like one: ferocious, fanatical, and **tactically deranged** — w
 helps explain catastrophes like the first crusades to [Kalikhat](campaign-overview.md)
 (§5), and compounds Kuru's already-thin navy ([overview §5](campaign-overview.md)).
 
+### Crown and stone — who actually rules
+
+`[settled]` Kuru is a **monarchy** — but the crown is not where the power sits. The
+**warforged are the force that actually controls Kuru's politics:** rank is stone and
+the high command and high clergy are warforged (above), so **the hive runs the state
+from inside the army and the Church,** and the **monarch reigns over a kingdom the
+warforged quietly steer.** 🔒 `[OPEN]` how much the throne knows, accepts, or chafes at
+this — figurehead, junior partner, or a rival the hive merely tolerates.
+
+`[settled]` **The stone hates demons.** Beyond power, voice, and hive (above), the
+godstone carries a deep, **unexplained antipathy — it *hates* demons** (🔒 `[OPEN]`
+why), and presses that loathing onto everyone who bears it. It is a **standing engine
+of the crusades:** the warforged go at Kalikhat's demons with a personal, holy
+hatred, not just strategy (§5). *(Note: a hatred, not a ward — the stone gives no
+mechanical power to repel or bind demons.)*
+
 ### Numbers and names — the old guard
 
 `[settled]` Warforged are **numbered in the order they were made,** and there is a
@@ -431,8 +447,13 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   ex-colony rose to power. *The colonized became the colonizer* ([overview §3A](campaign-overview.md)).
 - **The bad pass (~1,000 ya).** Second Foundation sabotage; orcs born on Musleheim;
   🔒 the phoenix's rebirth botched (§4).
-- **The raiding age & the turn (~700–300 ya).** Orc Viking-age resurgence beaten back;
-  Kuru ascendant ([Muspel empire](the-muspel-empire.md)).
+- **The orc wars (~last 600 years).** `[settled]` Per the timeline, the **last ~600
+  years have been consumed by war with the orcs of [Musleheim](musleheim.md)** — the
+  Viking-age raiding resurgence and the long reconquest that followed
+  ([Muspel empire](the-muspel-empire.md)). Kuru is a **martial society by its very
+  theology** — you earn the stone by **bleeding for the empire** (§3) — so it was the
+  **natural force to check the orcs' expansion and raids,** and rode that role to its
+  present dominance and the **lead in the reconquest of Musleheim** ([overview §3A](campaign-overview.md)).
 - **The first crusades — Kalikhat (`[loose]` dating).** `[settled]` As Kuru rose into
   a crusading power, it pushed **colonies onto [Kalikhat](campaign-overview.md)** —
   **not knowing the region's people had fled *underground*** after the Bleeding Star
@@ -440,7 +461,8 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   into the world below: **deep gnomes, drow, and demons** boiling up to meet them.
   The colonies **failed**, and the catastrophe **triggered Kuru's first rounds of
   crusades** — the Order of Sunne's holy war exported abroad for the first time, and
-  🔒 likely **Kuru's first real contact with demons.** One of those failed colonies
+  🔒 likely **Kuru's first real contact with demons** (the godstone's standing
+  **hatred of demons**, §3, turned that contact into holy hatred). One of those failed colonies
   is **a Jamestown that never came home** — its last survivor is **Vigil (V1G1L), the
   mist-warforged** (an old-guard crusader), still haunting its ruins (§3,
   *Outside the hive*). *(The present
@@ -449,10 +471,12 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
 - **The second crusades — the return for the bodies (`[loose]` dating).** `[settled]`
   The first crusades left **warforged dead scattered across Kalikhat**, and with the
   stone finite (§3), Kuru **could not leave them.** The second wave went back for
-  **all of it at once**, with three braided motives:
+  **all of it at once**, with four braided motives:
   - **Repatriate the bodies** — recover the fallen brethren and **reclaim their
     godstone** to make new warforged (§3). *(They never recovered them all: some are in
     the mist-warforged's tower basement to this day — §3, Outside the hive.)*
+  - **Hatred of demons** — the godstone **hates demons** (§3; 🔒 reason unknown), so the
+    warforged crusade against Kalikhat's with a personal, holy loathing;
   - **Revenge** — for the first disaster (above);
   - **Theft of a god** — Kuru, 🔒 **alone in understanding how godstones work,** meant
     to **steal Kalikhat's own stone** (the region's god) for itself.
