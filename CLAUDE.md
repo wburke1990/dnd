@@ -133,7 +133,12 @@ aborted.
 - `bestiary/` — creature stat blocks & encounter tables (markdown)
 - `encounters/` — prepared set-piece encounters & scenes (markdown)
 - `characters/` — PC backstories & references (markdown + portraits)
-- `lore/` — worldbuilding (markdown)
+- `lore/` — worldbuilding (markdown). **Entry point: [`lore/campaign-overview.md`](lore/campaign-overview.md)**
+  — the top-level campaign design doc + index (goals, themes, the names-&-ownership
+  thesis, DMing principles, and the running `[OPEN]` decisions). **Read it first for
+  any campaign-content, worldbuilding, or brainstorming work.** Its companion
+  [`lore/world-history-timeline.md`](lore/world-history-timeline.md) is the full
+  chronology.
 - `handouts/` — player-facing handout texts, kept verbatim (markdown)
 - `prompts/` — AI image-generation prompts, kept verbatim (markdown)
 - `sessions/` — session notes, recaps, encounters & scenes (markdown)
