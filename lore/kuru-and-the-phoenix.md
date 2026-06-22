@@ -146,6 +146,52 @@ This is dense with the campaign's themes:
   all the stone now? A live question for any scene with one — can it be reasoned
   with, turned, freed? Or is "it" just the mad god's mouth?
 
+### Numbers and names — the old guard
+
+`[settled]` Warforged are **numbered in the order they were made,** and there is a
+hard **split between the old guard — say, Warforged 1 through 100 — and the newer
+ones.** The **first hundred,** forged when the bond was still **symbiotic** (below)
+and they were still **themselves,** took the liberty of **giving themselves a name
+in addition to their number.** The **newer warforged are numbers only** — made in
+the parasitic age, deeper in the hive from the moment they wake, and never granted
+(or never moved to claim) a name of their own.
+
+`[settled]` The names follow a fixed **alphanumeric, license-plate format** — the
+name spelled with digits standing in for letters (A→4, E→3, I→1, O→0, S→5). Twenty
+of the old guard, verbatim:
+
+| Designation | Name |
+|-------------|------|
+| SH3P4RF | Shepard |
+| V1G1L | Vigil |
+| 5T0N3 | Stone |
+| 4R50N | Arson |
+| B4RK3R | Barker |
+| W4RD3N | Warden |
+| 5T33L | Steel |
+| C0LT | Colt |
+| 4NC3L | Ancel |
+| B0LT | Bolt |
+| 4X10N | Axion |
+| 5P1R3 | Spire |
+| 1R0N | Iron |
+| F0RG3 | Forge |
+| 4NK3R | Anker |
+| 5T4LK | Stalk |
+| C1PH3R | Cipher |
+| 4RM0R | Armor |
+| 0M3N | Omen |
+| 5P3CT3R | Specter |
+| 1NC0R | Incor |
+
+`[loose]` It is the **Names & Ownership thesis written on the warforged themselves**
+([overview §2](campaign-overview.md)): to **name yourself is to claim yourself,** and
+the old guard did it precisely while they still could. The cruelty is that a name is
+also exactly what the hive **takes back** (§4) — so an elder may carry a proud chosen
+name, **Vigil** or **Omen,** long after there is anyone left behind it: the **name
+outliving the self,** the last handhold of an identity the godstone has already
+swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even that.
+
 ### The hive mind — from symbiosis to parasitism
 
 `[settled]` Everyone carrying god-stone hears the same voice (above) because they
