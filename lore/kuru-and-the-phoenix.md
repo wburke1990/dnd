@@ -173,6 +173,37 @@ or infiltrate (the stone hears what its bearers hear) — but a **mad** hub mean
 whole hive can be misled, panicked, or commanded into something senseless by a
 god that no longer knows what it wants.
 
+### Outside the hive — the other warforged
+
+`[settled]` **Not every warforged belongs to the phoenix.** The hive is only the
+*original and dominant* path; "warforged" is really the broader condition — **anyone
+whose human flesh is rotting and who replaces it, piece by piece, with something
+that does not die.** Those who have lived **far from the godstone** have had to
+**find other pathways** to hold themselves together, and because their bodies are
+*not* phoenix-stone, **they stand outside the hive mind — independent, with no
+god's voice in their heads.**
+
+`[settled]` Known examples (each a ready NPC / quest-figure):
+
+- **The wood-warforged.** One has used **Druid magic** to replace his rotting parts
+  with **living wood and trees** — a man slowly becoming a grove.
+- **The snake-skin warforged.** Another, on the **snake island,** uses **snake
+  magic** and **sheds their skin periodically** to renew the failing human parts —
+  immortality by molting.
+
+`[loose]` This reframes Kuru's whole "warforged" idea as a *condition with many
+materials,* and ties it straight into existing threads: the **snake-island rites**
+and **[Aniess](../characters/aniess.md)'s snake-merging by the Order**
+([overview §3B](campaign-overview.md)) look like **another path to the same end** —
+trading rotting flesh for imperishable serpent. `[OPEN]` whether the snake-island
+warforged is connected to, descended from, or a rival of the Order's snake rituals.
+
+**Why it matters thematically:** the independents are living proof that
+transformation can be **chosen without being owned** — they took the same bargain
+the hive took, but kept *themselves.* They are the campaign's clearest argument
+that the redemptive, **self-chosen** transformation ([overview §3B](campaign-overview.md))
+is *possible* — the road not taken by the Church of Sunne.
+
 ---
 
 ## 4. The price — a god going mad 🔒
