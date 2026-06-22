@@ -544,12 +544,13 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
     **tribes hit them very hard.** A second great reversal of the war. **Which side (if
     any) the party supports is left wide open** — the kind of no-clean-answer choice the
     campaign is built for ([overview §4](campaign-overview.md)).
-  - `[loose]` **Colony or ally?** [Overview §5](campaign-overview.md) calls the
-    Kurunatukas Kuru **colonies,** but Noku here reads as a **distinct allied polity**
-    with its own army and doctrine. Likely a **client-ally / restive colony** that
-    fights alongside Kuru but **not under its thumb** — and resents it. *(The other isle,
-    **Moku** Kurunatuka, is the [Second Foundation](the-second-foundation.md)'s secret
-    finale ground — [overview §6](campaign-overview.md).)*
+  - `[settled]` **From colonies to clients.** **Both Noku and Moku Kurunatuka began as
+    Kuru colonies,** but have **grown far more powerful — especially as the tide of the
+    orc wars turned against Kuru** — and are now **client-states more than colonies:**
+    they fight alongside Kuru but **on their own terms, not under its thumb,** and the
+    worse Kuru's setbacks, the **more leverage they gain.** *(Moku Kurunatuka is the
+    [Second Foundation](the-second-foundation.md)'s secret finale ground — its growing
+    autonomy is part of how that control stays hidden; [overview §6](campaign-overview.md).)*
 
 ---
 

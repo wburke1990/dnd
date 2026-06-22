@@ -219,10 +219,13 @@ archipelago.** They sail wherever they want; the campaign is a **sandbox** (the 
 expression of *no railroading*, §4).
 
 **Present-day political map (resolved).** **Kuru is the dominant power** right now — it
-holds **colonies on the Kurunatukas** (Moku & Noku Kurunatuka) and **two beachheads on
-Musleheim**. But Kuru **has little navy** — a weakness that will bite it when **Sam's
-halflings (the floating fleet) arrive hunting ships and timber.** *(Comet-cycle position
-is set: the campaign opens ~1 year before the next pass — see "The clock" above.)*
+holds **the Kurunatukas** (Moku & Noku Kurunatuka) — **once colonies, now grown into
+client-states** as the orc wars turned against Kuru (see [Kuru & the phoenix §5](kuru-and-the-phoenix.md))
+— and **two beachheads on Musleheim**. But Kuru **has little navy** (neither do the
+Kurunatukas — both lean on **Mukka mercenary-pirate transports**) — a weakness that will
+bite hard when **Sam's halflings (the floating fleet) arrive hunting ships and timber**
+and the supply line snaps. *(Comet-cycle position is set: the campaign opens ~1 year
+before the next pass — see "The clock" above.)*
 
 ---
 
