@@ -75,7 +75,7 @@ The Second Foundation (Preem's elves) **infiltrated the First** and, ~1,000 year
 **sabotaged its control of the pass** — turning a land-building event into catastrophe.
 It destroyed the Muspel empire and mutated its people into **orcs and half-orcs** (see
 [the Muspel empire](the-muspel-empire.md), [world-history timeline](world-history-timeline.md)).
-**Mukku Kuruantuka is a Second Foundation satellite state.** Now, with the next pass
+**Moku Kurunatuka is a Second Foundation satellite state.** Now, with the next pass
 ~a year out, it is **round 2**: both orders want to control the coming event, and the
 party will have to choose whom — if anyone — to help.
 

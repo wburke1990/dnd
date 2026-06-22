@@ -38,7 +38,7 @@ Foundation** and **caused the last pass (~1,000 ya) to go haywire.** Instead of 
 controlled land-building, it became catastrophe: it **destroyed the Muspel empire**
 and (per established canon) **mutated the empire's own people into orcs and
 half-orcs.** So the orc-origin atrocity was the Second Foundation's doing, from
-*inside* the First. **Mukku Kuruantuka is a satellite state of the Second Foundation.**
+*inside* the First. **Moku Kurunatuka is a satellite state of the Second Foundation.**
 
 ## Round 2 — the campaign's stakes
 

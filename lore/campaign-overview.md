@@ -174,8 +174,7 @@ These aren't just preferences — several are load-bearing for the themes above.
   (think Hawaii), tracking **southeast from Lonka toward Maalm** and bubbling up new
   islands as it goes — the **Kurunatukas are the newest land it has raised.** The coming
   pass's **largest comet fragment is pulled to the hot spot's current position, over
-  Mukku Kurunatuka** — which is why the finale happens there (§6). `[OPEN — map "Mukku
-  Kurunatuka" to the map's Moku or Noku Kurunatuka.]`
+  Moku Kurunatuka** — which is why the finale happens there (§6).
 - **The clock (campaign present).** The next pass is essentially *now*. The comet
   is **already visible in the sky** — but the players don't realize it is **inbound**;
   it will swing close past the planet on its way back **out**, ~**one year** from
@@ -228,7 +227,7 @@ Preem's demon army, and is finally handed the **volcano-demon's true name** — 
 decide what kind of power to be. *(Sandbox caveat: this is the spine if they pull on it,
 not a track they're forced down — see §4.)*
 
-**The ending image / choice:** the climax falls on **Mukku Kurunatuka** — newest of the
+**The ending image / choice:** the climax falls on **Moku Kurunatuka** — newest of the
 Hawaii-style hot-spot islands, a nominal **Kuru colony but secretly controlled by the
 Second Foundation** — because the coming pass's **biggest comet fragment is pulled to the
 hot spot there** (see §5). The comet overhead, a volcano about to be forced, the party
