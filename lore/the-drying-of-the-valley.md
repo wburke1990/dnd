@@ -23,11 +23,12 @@ it permanent. Settles the climate question behind
   ground Maalm now occupies, and out into the sea at the peninsula. The valley
   is the **headwaters/catchment** (inland, south); the dead river's **mouth** is
   at the Maalm coast (north).
-- **Musleheim lies to the northwest,** offshore in the sea between Maalm and the
-  open ocean — raised by the hot spot's track from Lonka (NW) toward Maalm (SE).
-  This is what puts it **upwind** of the valley for Act III. `[confirm on the
-  world map — these two maps don't show Musleheim; its position is inferred from
-  the hot-spot track.]`
+- **Musleheim lies to the northwest** `[confirmed — world map]`: the large
+  mountainous landmass in the center-west, with a tall mountain spine through
+  its interior, separated from Maalm by the open central sea. From Maalm it sits
+  up and to the left (NW) — squarely **upwind** of the valley if the rain-bearing
+  weather comes off the northwestern ocean (the Lonka/Musleheim quarter). This
+  is the rain-shadow wall of Act III.
 
 ---
 
@@ -110,13 +111,17 @@ didn't exist when the river still ran. The rain shadow deepens continuously as
 Musleheim grows, so there is no single year the door slams; it closes a little
 further every generation until, by the middle passes, it is shut for good.
 
-> `[confirm — world map]` — the geometry works if the rain-bearing winds are
-> **northwesterly**, off the Musleheim/Lonka quarter: Musleheim (NW, offshore)
-> then sits directly to windward and wrings the maritime moisture out before it
-> reaches Maalm and the southern interior. The river's own outlet-sea lies to
-> the *north*, so the assumption is specifically NW winds, not N. Confirm the
-> prevailing-wind direction and Musleheim's exact position on the world map
-> (David's two regional/city maps don't show it), then firm this up.
+> **The geometry (confirmed against the world map).** Musleheim is the big
+> mountainous landmass to Maalm's **northwest**, across the central sea. The
+> prevailing rain-bearing weather is **northwesterly** — off the deep ocean in
+> the Lonka/Musleheim quarter. Before Musleheim rose, those NW storms crossed
+> open water and watered the southern Troltiggen catchment, and the river ran.
+> Once the hot spot raised Musleheim's mountain spine directly to windward, that
+> NW moisture is wrung out as orographic rain **on Musleheim's own slopes**, and
+> the air that finally reaches Maalm and its southern highlands is spent. The
+> river's outlet-sea lies to the *north*, so the lock depends specifically on
+> **NW** weather, not due-north sea breezes — which the map's layout supports:
+> the open Lonka-quarter ocean is the moisture source, Musleheim the wall.
 
 ---
 
@@ -183,9 +188,9 @@ long dry coherent: a short trigger flipping a landscape into a state that keeps
 
 ## Open / to confirm
 
-- `[confirm — world map]` Prevailing-wind direction and Musleheim's exact
-  position relative to Maalm (the rain-shadow lock assumes NW winds + Musleheim
-  to windward; see Act III).
+- `[settled, per world map]` Musleheim sits NW of Maalm across the central sea;
+  prevailing rain-bearing winds are NW (Lonka/Musleheim quarter); Musleheim's
+  mountain spine is the rain-shadow wall (see Act III).
 - `[settled, per maps]` River direction (S→N), headwaters (Troltiggen highlands
   / Valley of the Kings, south), mouth (Maalm peninsula, north).
 - `[loose]` Whether any seasonal flash-flood ghost of the river survives (the
