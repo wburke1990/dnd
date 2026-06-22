@@ -77,6 +77,12 @@ A few hundred years passed while the new peoples settled into themselves; by **~
 years ago the orcs and half-orcs had fully emerged** as distinct peoples — and the
 empire, reborn in their image, turned outward.
 
+And the **sickness never fully lifted.** A pass's poison kills a land for a millennium at
+least (Lonka and Kalikhat lay dead two and three thousand years apiece; see
+[Lonka — Jotunheim](lonka-jotunheim.md)), so a thousand years on **much of Musleheim is
+still poisoned and uninhabitable** — a blasted, shrunken homeland that sharpens the orcs'
+**land-hunger** and makes every island they raid for the more precious.
+
 ---
 
 ## 3. The Raiding Age — "a few hundred good years" (~700 → ~300 ya)

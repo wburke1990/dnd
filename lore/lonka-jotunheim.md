@@ -55,7 +55,11 @@ The same disaster's **alchemical sickness** reached neighbouring **Kalikhat**.
 Civilization collapsed there too, but it was not wholly emptied: **survivors fled
 underground**, and in the dark they **mutated fast** (as everything does on Nila) into
 the subterranean peoples — **dark elves, deep gnomes, and their kin** — and, down there,
-**made friends with demons**, perhaps for the very first time.
+**made friends with demons**, perhaps for the very first time. The poisoned **surface**,
+meanwhile, lay a dead waste for **the better part of three thousand years** (a pass's
+sickness kills a land for a millennium at least) — long enough that when **Kuru's
+crusader-colonists landed (~2,000 ya)** they had no notion a whole people still lived
+*below* them (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 
 - `[OPEN]` This makes **Kalikhat the cradle of the Underdark peoples.** Reconcile with the
   region map's tentative **Suartleheim = Svartalfheim (dark elves / dwarves)** read —
@@ -68,10 +72,12 @@ the subterranean peoples — **dark elves, deep gnomes, and their kin** — and,
 
 ---
 
-## 3. Jotunheim — the elves resettle the caldera (~4,000 ya → later)
+## 3. Jotunheim — the elves resettle the caldera (~3,200 ya → later)
 
-More than a thousand years after the disaster the caldera became **habitable again**, and
-**elves out of Maalm settled it** — so, after [Maalm's founding ~4,100 ya](maalm-founding.md).
+Only after **the better part of two thousand years** — a pass's sickness leaves a land
+dead for a millennium at least, and Lonka took the full blast of it — did the caldera
+become **habitable again**, and **elves out of Maalm settled it** (so, well after
+[Maalm's founding ~4,100 ya](maalm-founding.md)).
 They **renamed it Jotunheim**, the giants' land, in the Norse register of the northern
 seas. For a while it was theirs.
 

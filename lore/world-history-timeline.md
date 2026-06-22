@@ -24,6 +24,12 @@ pass drives volcanism and violent climate swings; on Nila **mutation runs fast**
 so a comet-pass is a transformation event as much as a geological one. The folk
 name for a catastrophic pass is **Ragnarok**.
 
+`[settled]` A pass's **alchemical sickness leaves land uninhabitable for a thousand
+years at least — often far longer.** Musleheim is *still* half-poisoned a thousand years
+on; after the Bleeding Star, **Lonka lay dead the better part of two thousand years and
+Kalikhat's surface nearer three thousand** — which is why Kuru's much later colonists had
+no idea a whole people still lived *below* Kalikhat (§V–VI).
+
 🔒 **A pass is not purely natural in its outcome — the event can be *controlled.*** The
 [First Foundation](the-first-foundation.md) (men and dragonborn) learned to channel
 a pass's volcanism into *controlled, land-building eruptions* — that is how Musleheim
@@ -197,8 +203,9 @@ conquerors having salted the earth; survivors cling on, half-forgotten, in hidde
 ### The holy island, lost and retaken
 **Golden Lonka** — the center of the world (§I) — was obliterated by the Bleeding Star
 into a **caldera** (§II). Its sickness drove **Kalikhat** underground, where survivors
-mutated into the **dark elves and deep gnomes** and first dealt with **demons**. More
-than a thousand years on, **elves from Maalm** resettled the caldera as **Jotunheim** —
+mutated into the **dark elves and deep gnomes** and first dealt with **demons**. Nearly
+two thousand years on, once the poison faded, **elves from Maalm** resettled the caldera
+as **Jotunheim** —
 until a dragonborn army out of nowhere, the **Lonka Zealots**, massacred them and took
 the holy ground back (rhyming with Ravana's seizure of Lanka). They hold the
 fortress-caldera still, insular and feared; a **Dragon Turtle** guards its bay.
