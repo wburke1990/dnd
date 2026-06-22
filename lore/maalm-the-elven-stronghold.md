@@ -70,21 +70,26 @@ the city is **carved rock** rather than built. The bare highland rock above is t
   ground watered from the cisterns** while the working terraces below feed the city — **beauty
   uphill for the elite, rationed water downhill for everyone else.**
 
-**The deep — the tunnels where Ammit sleeps.** **[settled core, [loose] detail]** Maalm's
+**The deep — the tunnels and Ammit's tomb.** **[settled core, [loose] detail]** Maalm's
 water does not stand in open pools to **evaporate;** it runs and rests **underground,** in the
-**extensive tunnels beneath the city** — the same tunnels where **[Ammit](maalm-founding.md)
-sleeps,** part of the **Abyss tunnel-network that honeycombs Nila**
-([house rules](house-rules-and-world-mechanics.md)).
-- **The hidden cisterns are down there.** That is *why* they are hidden and deadly: to reach
-  one you must **enter the labyrinth,** toward Ammit and the dark. Iron law #1 (death to
-  approach a cistern) is also, quietly, *"do not wake what sleeps by the water."* **[loose]**
+**extensive tunnels beneath the city** — the same tunnels that hold **[Ammit's tomb](maalm-founding.md)**
+(Beowulf's *mutual ending* with the beast; the Twelve raised Maalm over it), reaching down into
+the **Abyss tunnel-network that honeycombs Nila** ([house rules](house-rules-and-world-mechanics.md)).
+- **The hidden cisterns are down there.** That is *why* they are hidden and deadly: reaching one
+  means **entering the labyrinth** — the dark, the easy death of getting lost, the
+  cistern-keepers' guards, and below it all the forbidden reaches of the **Abyss and its
+  demons.** To approach a cistern is to approach the underworld. **[loose]**
+- 🔒 **Is Ammit dead?** The assumption is **yes** — **Beowulf killed it** (a mutual ending,
+  [maalm-founding](maalm-founding.md)), and it lies **entombed** in the deep. There are **no
+  sightings.** Should Ammit prove **still alive** down in the dark, that is a **major reveal,**
+  not a casual fact of the setting. **[loose]**
 - **A vertical city** that stratifies cleanly:
   - **the heights** — bare catchment rock and Amseh tomb-facades;
   - **the upper city** — gated gardens, the elite;
   - **the wadi & terraces** — the productive farmland;
   - **the upper tunnels** — cisterns and water-channels (cool, evaporation-free, **hidden and
     guarded**);
-  - **the deep tunnels** — **Ammit, the Abyss, demons:** forbidden.
+  - **the deep tunnels** — **Ammit's tomb, the Abyss, demons:** forbidden.
 - Only the **cistern-keeper caste** (below) knows the safe upper paths from the deadly deep —
   the one group that walks Maalm's underworld and lives.
 
@@ -102,11 +107,11 @@ flows:**
 - **What *does* flow underground are flood-drains** — channels that carry off the violent
   excess of a flash flood so it cannot drown the city, **doubling as the intake that fills the
   cisterns.** Maalm's "sewers" are really **storm-and-water-harvesting works,** not waste-pipes.
-- 🔒 **The darkest loop.** **[loose]** The one output Maalm gives to the deep is its **dead:**
-  Ammit is **the devourer of the dead** ([Valley of the Kings](../encounters/valley-of-the-kings.md)),
-  and a city that recycles everything may quietly **send its dead — and its condemned — down to
-  the thing below,** the ultimate, monstrous closing of the cycle. A grim reveal for a
-  systems-minded party.
+- **Even the dead go back to the soil.** **[settled]** True to *waste nothing,* Maalm
+  **composts its dead,** returning them to the terraces like everything else — the cycle
+  closing on the living. *(A quiet contrast with the **[Amseh](amseh-dynasty.md)** below, who
+  spent their wealth **preserving** the dead in grand tombs; the Maalm elves above **give them
+  back to the ground.**)* **[loose]** flavor.
 
 ## The agricultural economy — water, guano, and the closed cycle
 

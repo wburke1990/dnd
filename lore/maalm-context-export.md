@@ -46,16 +46,19 @@ approaches a hidden cistern.**
 - **Gated upper-city gardens** = the elite's, **watered from the cisterns** (water
   inequality: beauty uphill, rationing downhill).
 
-## 4. The deep — Ammit's tunnels & the water  [settled core, [loose] detail]
+## 4. The deep — the tunnels & Ammit's tomb  [settled core, [loose] detail]
 
 - Water **runs and rests underground** (no evaporation) in the **Abyss tunnel-network that
-  honeycombs Nila** — the same tunnels where **Ammit sleeps.**
-- **The hidden cisterns are in the upper tunnels** → why approaching one is deadly: you'd be
-  entering the labyrinth, toward Ammit and the dark. Iron law #1 is also *"don't wake what
-  sleeps by the water."*
+  honeycombs Nila** — the same tunnels that hold **Ammit's tomb.**
+- 🔒 **Ammit is presumed dead** — **Beowulf killed it** (a mutual ending; the Twelve built
+  Maalm over the tomb). **No sightings.** If Ammit is *alive* down there, that is a **big
+  reveal,** not a given.
+- **The hidden cisterns are in the upper tunnels** → why approaching one is deadly: entering
+  the labyrinth means the dark, getting lost, the keepers' guards, and the forbidden Abyss and
+  its demons below.
 - **Vertical city:** heights (catchment rock + tomb-facades) → upper city (gated gardens) →
   wadi & terraces (farmland) → **upper tunnels** (cisterns/channels, hidden & guarded) →
-  **deep tunnels** (Ammit / Abyss / demons — forbidden).
+  **deep tunnels** (Ammit's tomb / Abyss / demons — forbidden).
 - Only the **cistern-keeper caste** knows the safe upper paths from the deadly deep.
 
 ## 5. The reuse cycle — and (almost) no sewers  [settled]
@@ -68,8 +71,9 @@ approaches a hidden cistern.**
     guano + crop residue → back into the terraces.** "Waste is close to taboo."
 - The only things that flow underground are **flood-drains** (carry off flash-flood excess,
   **double as cistern intake**) — Maalm's "sewers" are really storm-and-water-harvesting works.
-- 🔒 **[loose] Darkest loop:** the dead — and the condemned — may be **sent down to Ammit**
-  (devourer of the dead): the monstrous closing of the cycle.
+- **The dead, too, are composted** — returned to the terraces like everything else (waste
+  nothing). *(Quiet contrast: the Amseh below **preserved** their dead in grand tombs; Maalm
+  **gives them back to the soil.**)*
 
 ## 6. Ecology reveals for the eco-party (Sarric the ecoterrorist)
 
@@ -94,7 +98,7 @@ approaches a hidden cistern.**
 
 - The **cistern-keeper / seabird-warden caste** — who they are, the religion around them, how
   they relate to the council and the Second Foundation.
-- Whether the **Ammit dead-recycling** loop is literal.
+- 🔒 Whether **Ammit is truly dead** (presumed yes — Beowulf killed it); if alive, a big reveal.
 - Names of the **old families** and the **council seats.**
 
 ## 9. Spatial open-questions for David's maps (annotate these, then fold back)
@@ -106,7 +110,7 @@ Locate on the maps and label:
 - The **gated upper city + elite gardens.**
 - The **citadel, the council, and Preem's tower.**
 - The **Amseh tomb-facades / Valley of the Kings** relative to the living city.
-- **Cistern locations** (hidden) and **tunnel entrances**; **where Ammit sleeps**; the
+- **Cistern locations** (hidden) and **tunnel entrances**; **where Ammit's tomb lies**; the
   **upper-tunnel vs deep-tunnel** layout.
 - **Flood-drain / water-channel routes** and **dam sites** in the wadis.
 - **Where commoners live** vs. the elite; the **market** and the **non-elf quarters.**
