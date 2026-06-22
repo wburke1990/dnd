@@ -513,6 +513,14 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   *Resource-extraction crusade — the colonial thesis at its most literal
   ([overview §3A](campaign-overview.md)): sailing abroad to carry home your dead and a
   rival people's god.*
+- **The Kurunatuka gold rush (recent).** `[settled]` A running truth of the world:
+  **there isn't enough land, and what there is is exhausted** ([overview §5](campaign-overview.md)).
+  So when **Moku and Noku Kurunatuka rose new from the sea** — the hot spot's **freshest
+  volcanic islands** — it set off a **gold rush.** Their **young volcanic soil is
+  extraordinarily rich,** able to sustain **far more intensive agriculture than tired
+  old lands like [Maalm](maalm-the-elven-stronghold.md).** This is **why Kuru colonized
+  them, and why they grew rich enough to become client-states** (below): in a land-starved
+  world, **fresh fertile land is the real treasure,** and the Kurunatukas are a heap of it.
 - **Now (~1 year to the next pass).** Kuru is the **dominant power** but **weak at sea**
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
   will exploit. The phoenix is openly faltering. And the next pass is its **next

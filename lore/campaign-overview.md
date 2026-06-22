@@ -182,7 +182,12 @@ These aren't just preferences — several are load-bearing for the themes above.
   (think Hawaii), tracking **southeast from Lonka toward Maalm** and bubbling up new
   islands as it goes — the **Kurunatukas are the newest land it has raised.** The coming
   pass's **largest comet fragment is pulled to the hot spot's current position, over
-  Moku Kurunatuka** — which is why the finale happens there (§6).
+  Moku Kurunatuka** — which is why the finale happens there (§6). And because the world is
+  **land-starved and its old soils are exhausted** (below), this **fresh volcanic land
+  set off a gold rush:** the Kurunatukas' **young soil is extraordinarily fertile** —
+  capable of far more intensive agriculture than tired ground like Maalm — which is what
+  made them worth colonizing and let them grow into
+  [client-states](kuru-and-the-phoenix.md).
 - **The clock (campaign present).** The next pass is essentially *now*. The comet
   is **already visible in the sky** — but the players don't realize it is **inbound**;
   it will swing close past the planet on its way back **out**, ~**one year** from
