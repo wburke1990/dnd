@@ -24,13 +24,19 @@ pass drives volcanism and violent climate swings; on Nila **mutation runs fast**
 so a comet-pass is a transformation event as much as a geological one. The folk
 name for a catastrophic pass is **Ragnarok**.
 
+🔒 **A pass is not purely natural — it can be *steered.*** The
+[First Foundation](the-first-foundation.md) (men and dragonborn) learned to channel
+a pass into *controlled, land-building volcanism* — that is how Musleheim was raised
+from the sea — rather than a civilization-ending explosion. Who steers the comet,
+and to what end, is the hidden lever beneath all the history below.
+
 | Pass | When | What it did |
 |---|---|---|
 | 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. |
 | 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
-| 6th — The Bad Pass | ~1,000 ya | Blankets the continent in an **alchemical, mutating sickness**; comes down on Musleheim and **mutates the Muspel empire's own people into orcs & half-orcs** (see §VI). Seas swing, islands come and go. |
+| 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VI, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
 | 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation. 🔒 Preem means to trigger it early and on purpose. |
 
 *Sources: [campaign overview §5](campaign-overview.md), [Amseh dynasty](amseh-dynasty.md), [the Second Foundation](the-second-foundation.md).*
