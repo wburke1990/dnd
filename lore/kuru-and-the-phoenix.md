@@ -194,6 +194,11 @@ outliving the self,** the last handhold of an identity the godstone has already
 swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even that.
 
 `[settled]` **Named old-guard warforged in play:**
+- **Vigil — V1G1L.** The **most crusader** of the old guard — the purest distillation
+  of the Order of Sunne's holy-war zeal. 🔒 He is also the **mad mist-warforged of
+  Kalikhat** (below, *Outside the hive*): the purest crusader became the holdout,
+  stranded when the first crusade's colony fell and fused with the mist to survive, and
+  he has **never stood down.** His name is the tragedy in one word. Full treatment below.
 - **Shepard — SH3P4RD.** The **lost brethren [Aniess](../characters/aniess.md) (Greg)
   is hunting** — the warforged she means to **deliver to Kuru for glory** (and so,
   unknowingly, return as precious finite godstone; [party roster](../characters/party-roster.md)).
@@ -250,16 +255,18 @@ is returning precious, finite godstone — [party roster](../characters/party-ro
 `[settled]` **Not every warforged belongs to the phoenix.** The hive is only the
 *original and dominant* path; "warforged" is really the broader condition — **anyone
 whose human flesh is rotting and who replaces it, piece by piece, with something
-that does not die.** Those who have lived **far from the godstone** have had to
-**find other pathways** to hold themselves together, and because their bodies are
-*not* phoenix-stone, **they stand outside the hive mind — independent, with no
-god's voice in their heads.**
+that does not die.** Those who have lived **far from the godstone** — often **old-guard warforged sent
+abroad on crusade or research and then cut off** — have had to **find other pathways**
+to hold themselves together. Because **what now holds them is not phoenix-stone** (and
+because they are far from the god), **they stand outside the hive mind — independent,
+with no god's voice in their heads.**
 
 `[settled]` Known examples (each a ready NPC / quest-figure):
 
 - **The wood-warforged.** One has used **Druid magic** to replace his rotting parts
   with **living wood and trees** — a man slowly becoming a grove.
-- **The mist-warforged of Kalikhat.** Another haunts a **ruined, abandoned city on
+- **Vigil (V1G1L) — the mist-warforged of Kalikhat.** 🔒 The **old guard's most
+  crusader** (§3), sent on the first crusade. He haunts a **ruined, abandoned city on
   [Kalikhat](campaign-overview.md)** — once an honorable city that, in some old
   terror, **chose to fight evil with evil** and damned itself. It now drowns in a
   **sentient, lethal mist** that devours every living thing it touches, and this
@@ -278,7 +285,10 @@ god's voice in their heads.**
   set up on the surface not knowing the **deep gnomes, drow, and demons** waiting
   below, was overwhelmed, and **fought evil with evil** until the city damned itself.
   Cut off and dying, far from the godstone, he **fused with the mist** to outlast his
-  flesh. `[settled]` And he **never stopped fighting.** He turns the city's curse into
+  flesh — which **drowned the god's voice** and severed him from the hive. The cruelest
+  irony of all: **the most devoted crusader is the one warforged who can no longer hear
+  the god he crusades for,** fighting a holy war, alone, for a silence. `[settled]` And
+  he **never stopped fighting.** He turns the city's curse into
   a weapon — **using the mist to kill demons** (it devours even them) — **still waging
   the crusade that died around him,** a holdout who never got word the war was lost,
   like the Japanese soldiers who kept fighting WWII for decades after it ended. After
@@ -399,8 +409,9 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   The colonies **failed**, and the catastrophe **triggered Kuru's first rounds of
   crusades** — the Order of Sunne's holy war exported abroad for the first time, and
   🔒 likely **Kuru's first real contact with demons.** One of those failed colonies
-  is **a Jamestown that never came home** — its last survivor is the **mist-warforged**
-  still haunting its ruins (§3, *Outside the hive*). *(The present
+  is **a Jamestown that never came home** — its last survivor is **Vigil (V1G1L), the
+  mist-warforged,** once the old guard's most crusader, still haunting its ruins (§3,
+  *Outside the hive*). *(The present
   [Musleheim reconquest](the-muspel-empire.md) is a later, larger turn of the same
   colonial engine — [overview §3A](campaign-overview.md).)*
 - **The second crusades — the return for the bodies (`[loose]` dating).** `[settled]`
