@@ -134,7 +134,7 @@ further every generation until, by the middle passes, it is shut for good.
 | ~5,000–4,100 ya | Self-locking desert — **HOLD** | Bright dead land + dropped water table keep it dry with no further forcing |
 | ~4,100 ya | Maalm founded | Built on an already-dead riverbed |
 | ~4,000 / 3,000 / 2,000 ya | Hot spot raises **Musleheim** — **LOCK** | Rain shadow cuts off the moisture supply; return now impossible |
-| present | Campaign | A long-dead riverbed; Maalm survives on hidden cisterns |
+| present | Campaign | A dead wadi that still flash-floods a few times a generation; Maalm survives on hidden cisterns that harvest it |
 
 ---
 
@@ -149,6 +149,14 @@ further every generation until, by the middle passes, it is shut for good.
   survival — hidden cisterns, guarded tunnels — is the same region's water,
   hoarded 5,000 years later. The dead bed above and the deadly cisterns below
   are two ends of one story.
+- **The river isn't *gone* — it's an ephemeral ghost.** The bed is dry almost
+  always, but a few times a generation a freak storm sends a **flash flood**
+  roaring down the old course. Far from a curiosity, that rare flood is the
+  whole reason Maalm's water works exist — the **check-dams, flood-drains, and
+  cistern intakes** are engineered to seize it in the hours it lasts (you don't
+  build flood-harvesting for a river that never flows). It also gives the DM a
+  live event: a flash flood as a timed hazard, a windfall the cistern-keepers
+  fight to control, or the rare day the dead valley briefly runs again.
 - **Eco-party question (Sarric).** Because Act II is *self-sustaining*, "could
   the valley ever be re-greened?" has a real — and daunting — answer: you would
   have to break a stable desert state **and** defeat a mountain-scale rain
@@ -193,5 +201,8 @@ long dry coherent: a short trigger flipping a landscape into a state that keeps
   mountain spine is the rain-shadow wall (see Act III).
 - `[settled, per maps]` River direction (S→N), headwaters (Troltiggen highlands
   / Valley of the Kings, south), mouth (Maalm peninsula, north).
-- `[loose]` Whether any seasonal flash-flood ghost of the river survives (the
-  wadis Maalm's check-dams harvest) vs. total desiccation.
+- `[settled]` The river is an **ephemeral ghost**, not bone-dry: the channel is
+  a dead wadi 99% of the time but still **flash-floods a few times a generation**
+  after rare storms — and that episodic flood is exactly what Maalm's check-dams,
+  flood-drains, and cisterns are built to harvest (see the hook below and
+  [the elven stronghold](maalm-the-elven-stronghold.md)).
