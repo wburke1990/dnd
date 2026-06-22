@@ -518,17 +518,52 @@ The obsidian bowl is fixed to the pan — it cannot be removed. It rejects imper
 
 ## If They Investigate the Tablets
 
-Forty-two tablets. Each engraved with a confession in hieroglyphs and below that, in the common tongue:
+Forty-two tablets. Each engraved with a confession in hieroglyphs and below that, in the common tongue. They are not negative confessions — not *"I have not stolen,"* the protest of the innocent — but plain admissions. The room does not ask you to be clean. It asks you to be honest.
 
-*"I have stolen."*
-*"I have lied."*
-*"I have caused pain to another."*
-*"I have taken what was not mine."*
-*"I have spoken words that destroyed."*
-*"I have remained silent when I should have spoken."*
-*"I have acted from anger and called it justice."*
+Read any aloud as the players examine them; you do not need all forty-two in play at once. The full set, roughly ordered from the mundane to the profound:
 
-And so on — forty-two, covering the range of human wrongdoing from mundane to profound.
+1. *"I have stolen."*
+2. *"I have lied."*
+3. *"I have taken what was not mine."*
+4. *"I have coveted what belonged to another."*
+5. *"I have hoarded while others went without."*
+6. *"I have taken bread from the mouth of one who had none."*
+7. *"I have withheld water from the thirsty."*
+8. *"I have stopped the water from reaching those downstream of me."*
+9. *"I have made another weep."*
+10. *"I have caused pain to another."*
+11. *"I have spoken words that destroyed."*
+12. *"I have spoken in anger words I could not take back."*
+13. *"I have multiplied words to deceive."*
+14. *"I have remained silent when I should have spoken."*
+15. *"I have been deaf to the truth when it was spoken to me plainly."*
+16. *"I have judged before I understood."*
+17. *"I have pried into what was not mine to know."*
+18. *"I have stirred others to quarrel for my own ends."*
+19. *"I have been cruel to those weaker than myself."*
+20. *"I have raised my hand against my own kin."*
+21. *"I have shed blood."*
+22. *"I have killed."*
+23. *"I have killed, and told myself it was necessary."*
+24. *"I have acted from anger and called it justice."*
+25. *"I have set fire to what I could not save."*
+26. *"I have heard the suffering I caused and did not turn back."*
+27. *"I have placed the cause above the person standing in front of me."*
+28. *"I have harmed the living world for an end I believed was good."*
+29. *"I have abandoned someone who trusted me."*
+30. *"I have turned back from what I swore to finish."*
+31. *"I have let another carry what was mine to carry."*
+32. *"I have chosen my own safety over my given word."*
+33. *"I have broken a vow."*
+34. *"I have betrayed a trust."*
+35. *"I have used another and set them aside when they were spent."*
+36. *"I have obeyed without asking what I served."*
+37. *"I have never asked whether the convictions in my heart are my own."*
+38. *"I have called my obedience loyalty, and asked no further."*
+39. *"I have lived where others died, and never understood why."*
+40. *"I have survived what should have taken me, and called surviving a crime."*
+41. *"I have taken from the dead."*
+42. *"I have forsaken those who depended on me, as I myself was forsaken."*
 
 **DC 10 Investigation:** The tablets are a framework, not an exhaustive list. A sin not listed might still be confessable by speaking it aloud rather than placing a tablet.
 
@@ -547,6 +582,24 @@ Each character who experiences the psychic damage has a brief involuntary vision
 **If they are stuck:** A DC 10 Insight check gives a character the clear sense that the room is waiting for something to be acknowledged rather than performed.
 
 **The door:** When all five confessions are accepted, a seam appears in the far wall painting — a door-shaped outline previously invisible. It swings inward.
+
+---
+
+## DM Key — Tablets That Echo the Party
+
+*Do not steer players to these. The point is that they find their own. But several tablets were written to sit waiting for a specific character — if a player reaches for one, you'll know what it's costing them, and if they get close and stall, you can let their eye fall on the right stone. The exact, personal confession is almost always better spoken aloud (the bowl glows and accepts it) than read off a tablet — encourage that when a player is ready to name the real thing.*
+
+**Sarric Ashgazer** (the camp he burned; the screaming he didn't go back for) — tablets **23, 24, 25, 26, 27**. His truest confession is not on any stone: *"I set a fire and I heard screaming and I didn't go back."* If he says it, the bowl accepts it.
+
+**Jasper Vale** (the community lost to others' carelessness; he alone lived, at fourteen) — tablets **39, 40**. Note that Jasper has done no wrong — the room weighs whether you know yourself, not whether you sinned, so his confession is allowed to be grief rather than guilt. Spoken truth: *"I lived. Everyone else didn't. I was fourteen. I have never understood why."*
+
+**Aniess** (taken as a child, remade into a weapon, never once questioning the Order that built her) — tablets **36, 37, 38**, and **14**. Spoken truth: *"I don't know if anything I believe is mine. I have never asked."* This is the heaviest beat for Aniess — the puzzle itself is the first time she's been made to look.
+
+**Blackacre / Adghal** (lost his nerve mid-plan, left Sayid to carry the violence alone, backed out of the Lonka raid, has been avoiding it for years) — tablets **29, 30, 31, 32**. Spoken truth: *"I left my friend to finish what I started, because I was afraid."*
+
+**Pax Verdant** (backstory pending from Andrew; third of the eco-cell with Sarric and Jasper) — tablets **27, 28** hold the cause-over-person theme until his specifics land. When the backstory arrives, slot his real confession here.
+
+**For the whole party** — tablet **41** (*"I have taken from the dead"*) is pointed squarely at them: they have spent this whole valley robbing tombs. A party that notices it is reading itself. Tablet **42** is the dynasty's own confession — Amseh IV's, waiting in the inner chamber — and any character who has forsaken someone can claim it too.
 
 ---
 
