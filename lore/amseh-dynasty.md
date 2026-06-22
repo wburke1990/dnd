@@ -64,7 +64,7 @@ During Amseh I's reign, his son — the future Amseh II — established first co
 
 The trade relationship brought two things to the empire:
 - **Guano fertilizer** — the snake island maintained vast chicken farms to feed its serpent population. The surplus guano, traded to the empire, dramatically increased agricultural yields.
-- **Permaculture methods and iron plow technology** — agricultural knowledge that compounded the guano's effects over time.
+- **Permaculture methods and the bronze-shod ard** (ox-drawn ploughing) — agricultural knowledge that compounded the guano's effects over time.
 
 **Economic impact recorded in Tomb 1:**
 The crop yield records show a 50% increase in agricultural output and a doubling of trade volume coinciding with the establishment of the snake island trade route. The records are specific — quantities of guano imported, fields treated, yields per region. Players who study them carefully will understand exactly what caused the prosperity.
@@ -91,7 +91,9 @@ Amseh II personally visited the snake island, according to the Shipwrecked Sailo
 
 The gifts described in the tale — perfumes, incense, ivory, apes, baboons, precious things — reflect actual trade goods from the snake island period.
 
-**The Lonka connection** `[settled 6/22]`: the empire's *other* great trade partner was **Lonka** — the dragonborn mother-city, their Tyre (see [Lonka — Jotunheim](lonka-jotunheim.md), [technology & trade](technology-and-trade.md)) — and the Shipwrecked Sailor was in fact **bound for Lonka** when he wrecked on the snake island along the way (destination Lonka, landfall on the serpent's isle — both threads kept). His was an early **bronze-nailed** ship, a bold larger craft attempting the long Lonka run. Amseh and Lonka traded until the **Bleeding Star** (~5,000 ya) cut the sea-roads *and* shattered Lonka into the caldera of Jotunheim — one catastrophe ending both partners at once.
+**The Lonka connection** `[settled 6/22]`: the empire's *other* great trade partner was **Lonka** — the dragonborn mother-city, their Tyre (see [Lonka — Jotunheim](lonka-jotunheim.md), [technology & trade](technology-and-trade.md)) — and the Shipwrecked Sailor was in fact **bound for Lonka** when he wrecked on the snake island along the way (destination Lonka, landfall on the serpent's isle — both threads kept). His was an early **bronze-nailed** ship — a bold, doomed experiment in larger craft (bronze makes a poor nail, which is part of why it **wrecked**; see [technology & trade](technology-and-trade.md)). Amseh and Lonka traded until the **Bleeding Star** (~5,000 ya) cut the sea-roads *and* shattered Lonka into the caldera of Jotunheim — one catastrophe ending both partners at once.
+
+**The bronze road — recorded in the tombs** `[settled 6/22]`: that Lonka trade carried the empire's **bronze** itself: **copper from Lonka**, **tin from the dwarf-mines of Suartleheim West** (the rare half — cassiterite is a granite metal, never volcanic — shipped *through* Lonka as the entrepôt), and **amber** from the deep-old mainland as the prize luxury (amber needs millions of years; it cannot come from the young comet-islands). All are inscribed in the tomb trade-ledgers beside the guano, ivory, and incense. So the Valley preserves the **Bronze-Age Collapse line by line:** in Tombs 1 and 2 the copper, tin, and amber pour in; in **Tomb 3 — the Bleeding-Star year — they stop dead,** the metal-roads cut, the bronze gone, and (tellingly, for the first time) **military expenditure recorded in their place.** A party who reads the ledgers can watch an age end.
 
 **The serpent-king statue:**
 Amseh II's lower half is depicted as a serpent — reflecting his connection to the snake island, the source of the dynasty's wealth. This was not considered monstrous in the empire's cultural context. The serpent was a symbol of prosperity, wisdom, and the divine knowledge that the snake island represented.
@@ -137,7 +139,7 @@ But the victory was pyrrhic. The climate collapse continued regardless of milita
 As the situation deteriorated, the palace moved against Amseh III. He was removed from power — the exact circumstances are not recorded in the tombs, but the result is clear. His older children, who would have been his successors, were killed in the coup. Amseh III himself was killed or died shortly after being deposed. He was buried in his tomb while the empire was already failing.
 
 **Economic records in Tomb 3:**
-The crop yield records in Tomb 3 are the most dramatic in the valley. A century of sustained prosperity followed by a cliff-edge collapse in year 100 — yields dropping to a fraction of their previous levels, trade records showing the snake island route going silent, military expenditure records appearing for the first time. Players who compare Tomb 3's records to Tombs 1 and 2 will understand exactly when and how fast the empire fell.
+The crop yield records in Tomb 3 are the most dramatic in the valley. A century of sustained prosperity followed by a cliff-edge collapse in year 100 — yields dropping to a fraction of their previous levels, trade records showing the snake island route *and* the Lonka metal-road going silent — the copper, tin, and amber gone, and bronze with them — military expenditure records appearing for the first time. Players who compare Tomb 3's records to Tombs 1 and 2 will understand exactly when and how fast the empire fell.
 
 **What the tomb tells us:**
 Amseh III's tomb is about battle and judgment simultaneously. The outer chamber shows his military victory. The inner chamber shows three divine judges — Neha-hau, Am-khaibitu, Hept-Shet — assessing a soul. Thoth records the verdict. The juxtaposition is intentional: a king who won his war and lost his empire, waiting to be judged for both.
@@ -206,7 +208,7 @@ The snake island is the tiny island in the upper right corner of the ancient map
 
 The Serpent of Punt from Amseh II's tomb is the island's ruler as of his reign — a being thirty cubits long, body overlaid with gold, color like lapis lazuli. Whether this being still lives, whether the island still exists, and whether the trade relationship could theoretically be reestablished are open questions for the campaign.
 
-The chicken farm / guano economy: the snake island maintained vast chicken farms to feed its serpent population. The surplus guano was the primary trade commodity exported to the empire — a fertilizer that, combined with permaculture methods and iron plow technology also acquired through the trade relationship, produced the dramatic agricultural yields recorded in Tombs 1 and 2. The chicken farms also explain the egg supply that sustained the serpent population.
+The chicken farm / guano economy: the snake island maintained vast chicken farms to feed its serpent population. The surplus guano was the primary trade commodity exported to the empire — a fertilizer that, combined with permaculture methods and the bronze-shod ard also acquired through the trade relationship, produced the dramatic agricultural yields recorded in Tombs 1 and 2. The chicken farms also explain the egg supply that sustained the serpent population.
 
 ---
 

@@ -106,7 +106,7 @@ along the reign lengths below.)*
 - **Amseh I, the Founder** *(~250-yr reign; ~5,550–5,300 ya).* An elf-king raises the first dynasty
   wealthy enough to build monuments. His heir makes **first contact with the Snake
   Island** — a serpent-governed land with advanced agriculture. Guano fertilizer,
-  permaculture, and the iron plow flow north; yields jump ~50%, trade doubles.
+  permaculture, and the bronze-shod ard flow north; yields jump ~50%, trade doubles.
 - **Amseh II, the Golden Age** *(~200-yr reign; ~5,300–5,100 ya).* Peak prosperity; the Snake-Island
   relationship matures into full cultural and commercial exchange. Stable abundance,
   no crisis on the books.
