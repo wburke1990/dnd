@@ -82,7 +82,9 @@ on **long sea-roads,** because the two ingredients don't come from one place:
 - **Amber** is **not** a bronze ingredient — it was the Bronze-Age **luxury** (the Amber
   Road). And it needs **deep age:** fossil resin takes millions of years, so it **cannot come
   from the young comet-islands** (Lonka, Musleheim, the Kurunatukas, all ≤6,000 yrs) — only
-  from **truly ancient land** (the old Maalm mainland, or older). `[OPEN]` site it.
+  from **truly ancient land.** `[settled]` Its source is the **[ancient southern land of
+  giants](the-southern-land.md)** off the south edge of the map ([Sarric's](../characters/sarric.md)
+  homeland), reached by the closed southern tunnels.
 - `[OPEN — to-do]` Write copper, tin, and amber into the
   [tomb trade-goods inscriptions](../encounters/valley-of-the-kings.md).
 
