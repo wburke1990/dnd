@@ -226,9 +226,13 @@ swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even th
   Sent on the first crusade, stranded when its colony fell, he fused with the mist to
   survive and has **never stood down.** His name is the tragedy in one word. Full
   treatment below.
-- **Shepard — SH3P4RD.** The **lost brethren [Aniess](../characters/aniess.md) (Greg)
-  is hunting** — the warforged she means to **deliver to Kuru for glory** (and so,
-  unknowingly, return as precious finite godstone; [party roster](../characters/party-roster.md)).
+- **Shepard — SH3P4RD.** An old-guard warforged who **died on the first crusade;** his
+  stone-laced body was salvaged down the centuries — a **ship's prow,** then a **town
+  statue** — until **Preem resurrected him** as his **butler** and sent him back out
+  with **one of his many name-hunting groups** (not the PCs'). He has **lost all
+  memory** of any of it. 🔒 He is **walking, finite godstone:** [Aniess](../characters/aniess.md)
+  means to intercept his group and deliver him to Kuru, and any other warforged would
+  **kill him for his stone.** Full NPC treatment: [Shepard](../characters/shepard.md).
 - **Axiom — 4X10M.** The **researcher of the snake island** (below, *Outside the
   hive*) — the old-guard scholar who authored the snake-transformation. *(Cousin to
   the table's 4X10N "Axion"; his plate reads 4X10M.)*
@@ -290,8 +294,9 @@ with no god's voice in their heads.**
 
 `[settled]` Known examples (each a ready NPC / quest-figure):
 
-- **The wood-warforged.** One has used **Druid magic** to replace his rotting parts
-  with **living wood and trees** — a man slowly becoming a grove.
+- **The wood-warforged — Barker (B4RK3R) & Stalk (5T4LK).** A **pair** of old-guard
+  warforged who use **Druid magic** to replace their rotting parts with **living wood
+  and trees** — two men slowly becoming a grove.
 - **Vigil (V1G1L) — the mist-warforged of Kalikhat,** the **mist crusader.** 🔒 An
   old-guard warforged (§3) sent on the first crusade. He haunts a **ruined, abandoned city on
   [Kalikhat](campaign-overview.md)** — once an honorable city that, in some old
