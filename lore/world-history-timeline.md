@@ -51,7 +51,7 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 
 | Pass | When | What it did |
 |---|---|---|
-| 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. `[loose]` The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
+| 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
 | 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed; **obliterates Golden Lonka into a caldera** (→ Jotunheim) and drives **Kalikhat** underground. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
@@ -82,7 +82,7 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
   the Bleeding Star (§II) and end as the caldera of **Jotunheim** — the full arc in
   [Lonka / Jotunheim](lonka-jotunheim.md).
 
-- **The sibling fall — the phoenix.** `[loose]` In the same first pass a second great
+- **The sibling fall — the phoenix.** `[settled]` In the same first pass a second great
   stone falls and becomes **Kuru.** Where Taniyn became an island and one day *ended*,
   Kuru's beast is a **phoenix that dies and rises with every pass** — so the **god of
   Kuru outlives every other god,** at the price of its own mind. Its worshippers chase
@@ -215,7 +215,7 @@ the holy ground back (rhyming with Ravana's seizure of Lanka). They hold the
 fortress-caldera still, insular and feared; a **Dragon Turtle** guards its bay.
 *Source: [Lonka / Jotunheim](lonka-jotunheim.md).*
 
-### The First Foundation and the making of the new lands (~4,100 → ~1,800 ya)
+### The First Foundation and the making of the new lands (~4,100 → ~1,000 ya)
 The stretch that fills the long middle. From ~4,100 the **First Foundation** — men and
 dragonborn who learned to **steer a comet pass into controlled, land-building eruptions**
 rather than catastrophe — rode the **hot spot** southeast, raising **Musleheim** and the
@@ -237,7 +237,7 @@ secretly run the kingdom (a hive mind sharing the god's voice). Every rebirth **
 phoenix's memory**, and it is now **going mad** — 🔒 *a decline worsened by the Second
 Foundation's ~1,000-ya sabotage, which botched its rebirth.*
 
-- **The Kalikhat Crusades (~2,000 → ~1,300 ya) — Kuru's first crusading era,** long after
+- **The Kalikhat Crusades (~2,000 → ~1,600 ya) — Kuru's first crusading era,** long after
   independence and well before the orc wars. Kuru planted **surface colonies on Kalikhat**
   — whose poisoned surface had only just become habitable again after ~3,000 years — not
   knowing its people had fled *underground* after the Bleeding Star, and ran headlong into
@@ -268,10 +268,13 @@ The most recent chapter of history, and the one the party lives inside. Norse re
   that birthed its phoenix-faith). The empire ruled until the bad pass unmade it — and what
   makes its reconquest below so bitter is that **Kuru, its own ancient rebel colony, now
   leads the conquest of its homeland.**
-- **The mutation (~1,000 ya).** The bad comet pass comes down on Musleheim and remakes
-  the empire's *own people*: **orcs** where the change bit deepest (near the impact),
-  **half-orcs** at the margins (the change taken halfway). The gradient is geographic.
-  By **~700 ya** the orcs and half-orcs have fully emerged and turn outward.
+- **The mutation & the Mini Dark Age (~1,000 → ~700 ya).** The bad pass comes down on
+  Musleheim, **shatters the Muspel empire**, and remakes its *own people*: **orcs** where
+  the change bit deepest (near the impact), **half-orcs** at the margins (the change taken
+  halfway; the gradient is geographic). What follows is a **mini dark age** — ~300 years of
+  poisoned, broken, leaderless islands, a smaller echo of the long Dark Age after the
+  Bleeding Star (§III) — until, by **~700 ya**, the orcs and half-orcs have fully emerged
+  and turn outward (below).
 - **The raiding age (~700 → ~300 ya).** Like the **Vikings**: a few hundred *good
   years* of fast ships, raids, and conquests across the islands. Not villains —
   plague-survivors fighting for land in a zero-sum world — but the raids were predation
@@ -357,6 +360,6 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
 - `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.
 - `[draft]` The **phoenix's forgotten true name** as the campaign's candidate "most dangerous name" — bind, restore, or claim the undying god (§VII).
-- `[OPEN]` **When the phoenix-stone fell** — lead reading is Creation (~6,000 ya), making Kuru and Lonka sibling first-lands (§I).
+- `[OPEN]` **When the Lonka Zealots retook Jotunheim** — the elves held it ~2,800 years (resettled ~3,200 ya); pin when the dragonborn army came (recently, amid the orc-war chaos, or long ago).
 
 *Companion docs: [campaign overview](campaign-overview.md) is the top-level index; this file is the chronological read of it.*

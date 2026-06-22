@@ -41,19 +41,11 @@ But **each rebirth has a price** — and the bill is finally coming due (§4).
 itself.** The island *is* the god in its sleeping, hardened-stone phase; the
 living phoenix is that same stone woken to fire.
 
-`[loose — pick one; ~ is load-bearing]` **When it fell:** one of the **first
-three passes** — **~6,000 ya** (Creation, the first drop), **~5,000 ya** (the
-[Bleeding Star](amseh-dynasty.md)), or **~4,100 ya** (the [founding of Maalm](maalm-founding.md)
-pass). **Not ~3,000 ya** — that is too recent; Kuru must be ancient.
-
-> **Lead reading (recommended):** **~6,000 ya, the first drop** — the phoenix and
-> **Taniyn the primordial dragon** fall in the *same* opening pass, the two great
-> primordial comet-gods: Taniyn becomes holy **Lonka** and seeds the dragon-blooded
-> peoples ([campaign overview §5](campaign-overview.md)); the phoenix becomes
-> **Kuru**. This makes Kuru and Lonka **sibling first-lands**, and gives Kuru's
-> claim to primacy a foundation as deep as the dragonborn's. *(If instead it fell
-> at the Bleeding Star, Kuru is a child of catastrophe, not creation — a colder,
-> later, more upstart god. Choose by how old you want Kuru's arrogance to be.)*
+`[settled]` **It fell at the first drop, ~6,000 ya** — the same opening pass as **Taniyn
+the primordial dragon.** The two great primordial comet-gods fell together: Taniyn became
+holy **Lonka** and seeded the dragon-blooded peoples ([campaign overview §5](campaign-overview.md));
+the phoenix became **Kuru.** So Kuru and Lonka are **sibling first-lands**, and Kuru's
+claim to primacy runs as deep as the dragonborn's — a god of **creation, not catastrophe.**
 
 The phoenix is the **"original of the phoenix myth"** — the great beast of which
 the wild [Phoenix on the encounter table](../bestiary/egypt.md) is only a small,
@@ -460,8 +452,8 @@ separate from either Foundation's agenda.)*
 
 A Kuru-eye view; the master timeline is [world-history-timeline.md](world-history-timeline.md).
 
-- **The Fall (~6,000 ya, [loose]).** Phoenix-stone falls; becomes the island of
-  Kuru. Sibling-land to Taniyn's [Lonka](taniyn-and-lonka.md). §2.
+- **The Fall (~6,000 ya).** `[settled]` Phoenix-stone falls at the first drop, alongside
+  Taniyn; becomes the island of Kuru. Sibling-land to Taniyn's [Lonka](taniyn-and-lonka.md). §2.
 - **The undying ages.** Pass after pass, the phoenix dies into the comet and rises
   from its ash while rival gods fall once and end. Kuru's self-image as **chosen**
   and **eternal** sets here.
@@ -478,7 +470,7 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   **forged himself a new hand from it** (§3). The sentient godstone gave him power, the
   rebellion **won Kuru its freedom,** and from him descends the **Order of Sunne.** Kuru's
   whole identity — *the colonized who seized a god to throw off its master* — is set here.
-- **The Kalikhat Crusades (~2,000 → ~1,300 ya) — Kuru's *first* crusading era.** `[settled]`
+- **The Kalikhat Crusades (~2,000 → ~1,600 ya) — Kuru's *first* crusading era.** `[settled]`
   Independent now, the phoenix-cult pushed **colonies onto [Kalikhat](campaign-overview.md)**
   — whose poisoned surface had only lately become habitable again after ~3,000 years —
   **not knowing the region's people had fled *underground*** after the Bleeding Star
@@ -596,7 +588,7 @@ degraded than it has ever been. The stakes:
 
 ## 7. Open threads
 
-- `[loose]` **When the stone fell:** ~6,000 / ~5,000 / ~4,100 ya (§2). Lead: ~6,000.
+- `[settled]` **The stone fell at Creation (~6,000 ya)** — Kuru and Lonka sibling first-lands (§2).
 - `[OPEN]` **When the faith was founded** and **whether the founder's stone hand
   survives as Kuru's central relic** (§3).
 - `[OPEN]` **Do the Order's clergy know their god is a comet-beast?** (§3, §4) — and
