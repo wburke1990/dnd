@@ -155,9 +155,10 @@ part of a thousand years, until Beowulf.
 > scattered survivors do not yet exist.** He is, in the cruelest sense, about a
 > century too early — the world starts to heal almost as soon as he's buried.
 
-- **Beowulf's arrival.** A dragonborn wanderer named **Beowulf** arrives by boat,
-  searching for other survivors of the catastrophe, with **twelve companions —
-  elves and men.** He finds no other dragonborn — there is, as yet, nowhere for
+- **Beowulf's arrival.** A dragonborn wanderer named **Beowulf** — a **master mariner** whose
+  **one-of-a-kind, thirteen-berth** lashed voyaging ship (double Sam's six; see [technology &
+  trade](technology-and-trade.md)) was the only hull that could cross the empty sea — arrives
+  searching for other survivors of the catastrophe, with **twelve companions — elves and men.** He finds no other dragonborn — there is, as yet, nowhere for
   them to have survived. The company settles on the Amseh ruins, and Ammit rises to
   destroy them.
 - **The mutual ending.** Beowulf descends alone into the dark and does not return;
