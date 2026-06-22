@@ -190,12 +190,6 @@ mourned than **inventoried.** *(This is exactly why [Aniess](../characters/anies
 is so eager to "deliver the Warforged to Kuru for glory": returning a lost brethren
 is returning precious, finite godstone — [party roster](../characters/party-roster.md).)*
 
-`[loose]` 🔒 **The stone gates demons.** Beyond power and the god's voice, phoenix-stone
-has **power over demons — it "gates" them** (`[OPEN]` exactly how: a ward that holds
-them off, a leash that binds them, or a gate that *opens* to them). This makes every
-shard a weapon against Kalikhat's demons — and makes any shard left lying among them
-far too dangerous to abandon (§5).
-
 ### Outside the hive — the other warforged
 
 `[settled]` **Not every warforged belongs to the phoenix.** The hive is only the
@@ -217,9 +211,13 @@ god's voice in their heads.**
   warforged has **fused with the mist** to outlast his rotting flesh. Where the
   flesh is gone he is **not whole and not stone but absent** — **missing pieces of
   himself that are now just wispy black fog,** a body with holes the mist pours
-  through. **Bound to it, he cannot leave** — so he **lures travelers with treasure,
-  hoping to steal a living body and escape.** A predator, not a hermit. *(Inspiration: **Aridhol / Shadar
-  Logoth**, the fog **Mashadar**, and **Mordeth** — Wheel of Time.)* `[settled]` **He
+  through. **He cannot leave: he *is* the mist now** — fused with it so completely
+  that to **unfuse from it is to die.** He is trapped in his own city. `[loose]` He
+  **longs to get out** all the same, and **may be hunting for some way to steal a
+  living body** to escape in (the Mordeth temptation) — *`[OPEN]` how that could
+  possibly work without killing him is undecided.* A predator, not a hermit.
+  *(Inspiration: **Aridhol / Shadar Logoth**, the fog **Mashadar**, and **Mordeth** —
+  Wheel of Time.)* `[settled]` **He
   is what's left of one of Kuru's first crusades** (§5): the **last survivor of a
   failed early colony** on [Kalikhat](campaign-overview.md) — **a Jamestown** that
   set up on the surface not knowing the **deep gnomes, drow, and demons** waiting
@@ -229,9 +227,15 @@ god's voice in their heads.**
   a weapon — **using the mist to kill demons** (it devours even them) — **still waging
   the crusade that died around him,** a holdout who never got word the war was lost,
   like the Japanese soldiers who kept fighting WWII for decades after it ended. After
-  so long alone in the fog he is **completely off his rocker,** so his two drives
-  tangle: a **mad holy warrior** still slaughtering Kalikhat's demons, and a
-  **Mordeth** who will gut a passing party for a fresh body to wear out of the ruins.
+  so long alone in the fog he is **completely off his rocker,** so his drives tangle:
+  a **mad holy warrior** still slaughtering Kalikhat's demons, and a trapped **Mordeth**
+  who eyes any passing party as a possible way out.
+  `[settled]` **He kept his dead.** He has gathered the **bodies of his fallen
+  comrades** and **uses them to power the mist,** stockpiled in the **basement of his
+  tower at the center of the ruined colony.** Those corpses are **exactly the
+  warforged dead — and the godstone — that Kuru's second crusade went back to reclaim**
+  (§5): a party sent to recover them finds the lost brethren **fueling the fog,**
+  guarded by a maddened holdout who will surrender neither his war nor his men.
   `[OPEN]` whether the mist is **its own rapacious power** (distinct from any
   demon, as in WoT) or tangled with Kalikhat's demon-dealing —
   the campaign already treats **demons as a power apart**.
@@ -346,18 +350,17 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
 - **The second crusades — the return for the bodies (`[loose]` dating).** `[settled]`
   The first crusades left **warforged dead scattered across Kalikhat**, and with the
   stone finite (§3), Kuru **could not leave them.** The second wave went back for
-  **all of it at once**, with four braided motives:
+  **all of it at once**, with three braided motives:
   - **Repatriate the bodies** — recover the fallen brethren and **reclaim their
-    godstone** to make new warforged (§3);
-  - **Demons** — bring the phoenix-stone's **power over demons** (it "gates" them, §3)
-    to bear on Kalikhat's, and not leave such shards lying among the enemy;
+    godstone** to make new warforged (§3). *(They never recovered them all: some are in
+    the mist-warforged's tower basement to this day — §3, Outside the hive.)*
   - **Revenge** — for the first disaster (above);
   - **Theft of a god** — Kuru, 🔒 **alone in understanding how godstones work,** meant
     to **steal Kalikhat's own stone** (the region's god) for itself.
 
   *Resource-extraction crusade — the colonial thesis at its most literal
-  ([overview §3A](campaign-overview.md)): sailing abroad to carry home your dead, your
-  enemy's demons, and a rival people's god.*
+  ([overview §3A](campaign-overview.md)): sailing abroad to carry home your dead and a
+  rival people's god.*
 - **Now (~1 year to the next pass).** Kuru is the **dominant power** but **weak at sea**
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
   will exploit. The phoenix is openly faltering. And the next pass is its **next
