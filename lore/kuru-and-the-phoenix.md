@@ -183,11 +183,25 @@ warforged quietly steer.** 🔒 `[OPEN]` how much the throne knows, accepts, or 
 this — figurehead, junior partner, or a rival the hive merely tolerates.
 
 `[settled]` **The stone hates demons.** Beyond power, voice, and hive (above), the
-godstone carries a deep, **unexplained antipathy — it *hates* demons** (🔒 `[OPEN]`
-why), and presses that loathing onto everyone who bears it. It is a **standing engine
-of the crusades:** the warforged go at Kalikhat's demons with a personal, holy
-hatred, not just strategy (§5). *(Note: a hatred, not a ward — the stone gives no
-mechanical power to repel or bind demons.)*
+godstone carries a deep, **unexplained antipathy — it *hates* demons,** and presses
+that loathing onto everyone who bears it. It is a **standing engine of the crusades:**
+the warforged go at Kalikhat's demons with a personal, holy hatred, not just strategy
+(§5). *(Note: a hatred, not a ward — the stone gives no mechanical power to repel or
+bind demons.)*
+
+`[loose]` **Why it hates them (a proposal — not fully settled).** The cosmology offers
+a clean answer: the comet-born **sky-beasts** (the phoenix, Taniyn and her dragons) and
+the **magma-demons** are the **two opposed primordial powers** of Nila, and **every
+comet pass is their contest** — slow magma **flows out and builds land,** a fast clash
+**explodes** (the Manichean Ragnarok frame; [overview §5](campaign-overview.md),
+[Lonka — Jotunheim](lonka-jotunheim.md)). The phoenix is a **sky-beast of fallen
+star;** the demons are the **fire from below.** Its hatred is **structural — written
+into what the stone is:** **sun-fire against under-fire,** the sky's champion against
+the deep's, demons being **a power apart** from everything comet-descended. 🔒 There may
+also be a **personal** edge: in some past pass a magma-demon nearly **won its Ragnarok**
+and **maimed the phoenix** — and, fittingly for a god losing its memory (§4), **the one
+thing it never forgets is the hatred,** long after it has forgotten the wound. `[OPEN]`
+how much is cosmic vs. personal, and whether the demons hate the stone back.
 
 ### Numbers and names — the old guard
 
@@ -503,6 +517,28 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
   will exploit. The phoenix is openly faltering. And the next pass is its **next
   death-and-rebirth** (§6).
+- **The Musleheim front — the shaky alliance (now).** `[settled]` The orc war (above) is
+  currently prosecuted by an **alliance of Kuru and [Noku Kurunatuka](campaign-overview.md)**
+  against the **tribes of [Musleheim](musleheim.md)** — and it is **strained near
+  breaking:**
+  - **Two beachheads on the big island, both stalled.** **Kuru holds Calaik** (a Calais)
+    on the big island; **Noku holds Ilka Mak** to the south. Both **threaten the
+    half-orc stronghold of Lilbayum** — and both are **struggling to take it.**
+  - **The Hannibal wound.** A string of **defeats to [Hannibal](the-muspel-empire.md)**
+    (the half-orc general) has **shaken the allies' ability to cooperate;** there are
+    **hard feelings** on both sides.
+  - **Heavy vs. clever.** `[settled]` **Noku uses no warforged,** so it fields a
+    **smaller force with no comparable heavy infantry** — yet it is **markedly more
+    tactically capable** than Kuru, whose **warforged army fights with the glory-mad,
+    dubious strategy** its promotion-by-wounds breeds (§3, *path of wounds*). The
+    alliance **needs both halves** — Kuru's stone-heavy line and Noku's brains — which
+    is precisely why the rift is so dangerous.
+  - `[loose]` **Colony or ally?** [Overview §5](campaign-overview.md) calls the
+    Kurunatukas Kuru **colonies,** but Noku here reads as a **distinct allied polity**
+    with its own army and doctrine. Likely a **client-ally / restive colony** that
+    fights alongside Kuru but **not under its thumb** — and resents it. *(The other isle,
+    **Moku** Kurunatuka, is the [Second Foundation](the-second-foundation.md)'s secret
+    finale ground — [overview §6](campaign-overview.md).)*
 
 ---
 
