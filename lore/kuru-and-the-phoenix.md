@@ -163,7 +163,7 @@ of the old guard, verbatim:
 
 | Designation | Name |
 |-------------|------|
-| SH3P4RF | Shepard |
+| SH3P4RD | Shepard |
 | V1G1L | Vigil |
 | 5T0N3 | Stone |
 | 4R50N | Arson |
@@ -194,7 +194,7 @@ outliving the self,** the last handhold of an identity the godstone has already
 swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even that.
 
 `[settled]` **Named old-guard warforged in play:**
-- **Shepard — SH3P4RF.** The **lost brethren [Aniess](../characters/aniess.md) (Greg)
+- **Shepard — SH3P4RD.** The **lost brethren [Aniess](../characters/aniess.md) (Greg)
   is hunting** — the warforged she means to **deliver to Kuru for glory** (and so,
   unknowingly, return as precious finite godstone; [party roster](../characters/party-roster.md)).
 - **Axiom — 4X10M.** The **researcher of the snake island** (below, *Outside the
