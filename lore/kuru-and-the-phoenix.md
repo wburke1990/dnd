@@ -187,6 +187,22 @@ god's voice in their heads.**
 
 - **The wood-warforged.** One has used **Druid magic** to replace his rotting parts
   with **living wood and trees** — a man slowly becoming a grove.
+- **The mist-warforged of Kalikhat.** Another haunts a **ruined, abandoned city on
+  [Kalikhat](campaign-overview.md)** — once an honorable city that, in some old
+  terror, **chose to fight evil with evil** and damned itself. It now drowns in a
+  **sentient, lethal mist** that devours every living thing it touches, and this
+  warforged has **fused with the mist** to outlast his rotting flesh. Where the
+  flesh is gone he is **not whole and not stone but absent** — **missing pieces of
+  himself that are now just wispy black fog,** a body with holes the mist pours
+  through. **Bound to it, he cannot leave** — so he **lures travelers with treasure,
+  hoping to steal a living body and escape.** A predator, not a hermit. *(Inspiration: **Aridhol / Shadar
+  Logoth**, the fog **Mashadar**, and **Mordeth** — Wheel of Time.)* `[loose]` Fits
+  Kalikhat's history (the Kali / South-Asian region; **cradle of the Underdark peoples
+  who fled underground after the Bleeding Star and first dealt with demons**,
+  [overview §5](campaign-overview.md)) — a surface city abandoned to the dark when
+  Kalikhat went under. `[OPEN]` whether the mist is **its own rapacious power**
+  (distinct from any demon, as in WoT) or tangled with Kalikhat's demon-dealing —
+  the campaign already treats **demons as a power apart**.
 - **The snake-skin warforged — the researcher of the snake island.** Another has
   lived on the **snake island** for **a millennium** (older notes say thousands of
   years; the **island-spirit is itself a giant snake**, [party roster](../characters/party-roster.md)).
