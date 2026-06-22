@@ -129,6 +129,20 @@ guarded channel.
   without permission."* — and a **cosmological clue:** a dragon-beast surviving in the
   *blast*-caldera fits the **sky dragon having won** Lonka's Ragnarok (see the Manichean
   note below).
+- **The dragons no longer come — and the Zealots don't know why.** `[settled]` The
+  Dragon Turtle is the **only** one left: **no living dragons visit Lonka any more.** The
+  Zealots bled to reconsecrate the dragon's first perch (§4), yet their gods have
+  **abandoned the holiest ground in the world,** leaving just the turtle in the bay. 🔒 The
+  reason is cosmological — **dragons follow the hot spot, and the hot spot has drifted
+  southeast off Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas — but
+  to the zealots it is an **unexplained desolation,** a wound to their faith and a spur to
+  **dread, doubt, and ever more dangerous zeal.** It is the **same beat as
+  [Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
+  to you; you did not come; we did everything right and it meant nothing*
+  ([the gods who do not answer](egyptian-afterlife-mythology.md)) — a **recurring campaign
+  note of gods who abandon their faithful** (and a quiet rhyme with Kuru's own god failing,
+  [Kuru & the phoenix §4](kuru-and-the-phoenix.md)). `[OPEN]` what they do about it — seek
+  the vanished dragons, blame usurpers, or try to call them back.
 - **The two trees.** At the highest point of the ring-wall stand **two trees — one Ash,
   one Elm —** which the zealots hold to be the **children of the primordial dragon.**
   (Our **Ask & Embla**, the first man and woman shaped from ash and elm; here, Taniyn's
