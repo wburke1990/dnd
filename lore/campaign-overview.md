@@ -67,8 +67,12 @@ cycle**: stones fall from the comet, become dragons and mythic beasts, then
 become islands, then back again. The contrast between transformation **chosen**
 (redemptive) and transformation **inflicted** (violation) may *be* the point.
 
-- `[OPEN — is transformation ever chosen-and-good, or is the campaign mostly
-  transformation-as-violation? The tension is the theme.]`
+- **Resolved (player-driven):** it's **up to the players.** The world is full of
+  transformation-as-*violation* (Aniess, the bound demons, the Order's rituals); the
+  hope is that the PCs, over the campaign, will choose to **transform their own
+  characters willingly** — making chosen transformation the redemptive counterweight to
+  the inflicted kind. The tension *is* the theme, and the players are the ones who
+  resolve it.
 - **Player discovery (resolved):** reveal the mechanics *slowly* and let the players
   **discover the comet cycle for themselves** — no exposition dump. The
   [Island of the Thinkers](../encounters/island-of-the-thinkers.md) (an island that
