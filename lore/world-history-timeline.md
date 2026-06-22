@@ -263,7 +263,9 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 
 - **The old Muspel empire (~4,000–1,000 ya).** Once the ~4,000-ya comet raised **Musleheim**,
   the First-Foundation-led, fire-cult barbarian Muspel empire rose on it — the **first great
-  colonizer of the recent age.** It **founded Kuru as a colony in the ~3,000s** (§V),
+  colonizer of the recent age** and the **first iron empire** (mining the fire-island's
+  iron-rich volcanic soil; see [technology & trade](technology-and-trade.md)). It **founded
+  Kuru as a colony in the ~3,000s** (§V),
   planting the men-dominated society Kuru still is; Kuru later **rebelled free** (the war
   that birthed its phoenix-faith). The empire ruled until the bad pass unmade it — and what
   makes its reconquest below so bitter is that **Kuru, its own ancient rebel colony, now

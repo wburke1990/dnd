@@ -14,6 +14,14 @@ both worship the same dragon (see
 > narrative control of the sea-fleet's culture — *"whatever tall tales
 > you tell the party about the sea fleets will instantly become canon."*
 > Treat everything here as **his** to overrule. **[settled — per 5/28]**
+>
+> **`[loose — DM update 6/22]` Two peoples, not one.** Per Will, the **wandering Dragonborn**
+> (the lashed-pontoon traditionalists / [saints](wandering-dragonborn.md)) and the **massive
+> halfling fleets** are now **separate** civilizations, not one mixed society. The **halflings
+> are men shrunk by island dwarfism** (Nila runs on island dwarfism *and* gigantism), and their
+> **fleets began when islands sank beneath the rising sea.** This file still reads as the older
+> *merged* version below — **Sam to reconcile** when he takes the lore. See
+> [technology & trade §1, §3](technology-and-trade.md).
 
 ## What they are
 

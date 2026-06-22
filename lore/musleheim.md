@@ -10,6 +10,19 @@ will grow.*
 
 ---
 
+## The shape of the island — west iron, east bread, southwest ruin
+
+`[settled]` Musleheim is a **huge island** with a clear economic geography:
+- **The west — the iron mines.** Its volcanic ground is iron-rich, and the **mines of the
+  west** made Musleheim **the first iron empire** (see [technology & trade](technology-and-trade.md)).
+- **The east — the breadbasket.** Broad **farming plains** on young volcanic soil feed the island.
+- **The southwest — a smoking alchemical ruin.** Once inhabitable, the **southwest was poisoned
+  by the ~1,000-ya bad pass** and is now a **smoking, alchemical wasteland** running all the way
+  to the **border with [Mukka](campaign-overview.md)** — the lingering wound of the Ragnarok that
+  made the orcs. (The toxic Southwest Lake below lies within it.)
+
+---
+
 ## The Southwest Lake
 
 The lake in the **southwest corner** was left **toxic** after Ragnarok — all the
