@@ -139,6 +139,13 @@ These aren't just preferences — several are load-bearing for the themes above.
   badly** — it blanketed the continent in an **alchemical, mutating sickness**.
   Sea levels swing dramatically and **islands come and go.** It is a wild,
   unstable time (and a transformation engine in its own right).
+- **The clock (campaign present).** The next pass is essentially *now*. The comet
+  is **already visible in the sky** — but the players don't realize it is **inbound**;
+  it will swing close past the planet on its way back **out**, ~**one year** from
+  now. **Preem has handed the party that one-year countdown** (the
+  [Second Foundation](the-second-foundation.md) expects **Ragnarok** within ~a year;
+  see [Preem](../characters/preem.md)). The dramatic irony: the doom hangs in plain
+  sight overhead the entire campaign, and only the party's ignorance hides it.
 - **The world's defining tension** — Nila is *mostly water*, and two forces pull
   against each other with no clean answer:
   - **Colder** → the ice caps grow, sea level drops, **more land** becomes available.
@@ -162,8 +169,9 @@ names, strongly suggestive but unconfirmed]`:
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |
 | Mukka | ? |
 
-Also `[OPEN]`: current comet-cycle year; present-day political map; which region is
-the campaign's home base / where the party spends the most time.
+Also `[OPEN]`: present-day political map; which region is the campaign's home base /
+where the party spends the most time. *(The current comet-cycle position is now set —
+the campaign opens ~1 year before the next pass; see "The clock" above.)*
 
 ---
 
