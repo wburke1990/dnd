@@ -34,6 +34,19 @@ that new fire-island a people built the **Muspel empire**: a sea-going, fire-cul
   but none is pure, which keeps the mutation gradient and the wars from reading as clean
   racial blocs.
 
+**The source of their power — land, and the making of it.** `[settled]` In a world
+where **there isn't enough land and what there is is exhausted** ([overview §5](campaign-overview.md)),
+the Muspel empire's strength came from the **same mechanism now driving the
+[Kurunatuka gold rush](kuru-and-the-phoenix.md):** they **controlled the fertile land —
+and a great deal of it — because they controlled the cyclical events** that make it.
+Working through (or hand-in-glove with) the [First Foundation](the-first-foundation.md),
+who **steered the comet passes to build Musleheim** rather than let them explode, the
+empire turned the cycle into a **land-factory** — young volcanic soil, raised to order,
+far richer than the tired old ground elsewhere. 🔒 Which is exactly why the
+[Second Foundation](the-second-foundation.md)'s sabotage of that control (§2) was so
+devastating: it did not merely mutate the Muspel people, it **struck at the root of
+their power** — the cycle that made their land.
+
 This empire is the *first* colonizer in the recent age — the reason Kuru's reconquest
 (below) is so bitterly ironic: the colonized turned reconqueror.
 

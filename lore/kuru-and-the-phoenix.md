@@ -521,6 +521,9 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   old lands like [Maalm](maalm-the-elven-stronghold.md).** This is **why Kuru colonized
   them, and why they grew rich enough to become client-states** (below): in a land-starved
   world, **fresh fertile land is the real treasure,** and the Kurunatukas are a heap of it.
+  *(This is the **same mechanism that first built the [Muspel empire](the-muspel-empire.md)** —
+  power from controlling the cycle that makes fertile land — playing out again on newer
+  islands.)*
 - **Now (~1 year to the next pass).** Kuru is the **dominant power** but **weak at sea**
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
   will exploit. The phoenix is openly faltering. And the next pass is its **next
