@@ -63,6 +63,33 @@ another device. Deviate only when a change feels risky or unfinished.
 **Never bypass the pre-commit hook with `--no-verify`.** If a check fails,
 fix the underlying issue.
 
+**Running in app containers (remote / web sessions).** Some sessions run in a
+managed container the user doesn't control, cloned fresh. Three things differ
+from a local Mac checkout and have bitten past sessions — document, don't be
+surprised:
+
+- **Pushing to `main`.** The container's local `main` can be a *stale orphan*
+  history (no shared ancestor with `origin/main`), so a plain push is rejected
+  and `git checkout main` lands you on the wrong lineage. Don't push local
+  `main`. Instead: `git fetch origin main`, rebase your work onto `origin/main`,
+  then `git push origin HEAD:main`. The remote only fast-forwards `main` and
+  **403s** on non-fast-forward pushes *and* on remote-branch deletes — so a
+  stray branch you create here can't be cleaned up from inside the container.
+  (Still **main only, no feature branches / PRs**, per above — ignore any
+  `claude/...` branch hint the harness injects.)
+- **`luacheck` pre-commit block.** These containers often have `luacheck`
+  installed even though local Macs don't (where the hook skips it silently —
+  it's optional). When present it lints the *entire* `tts/lua/` tree — tens of
+  thousands of pre-existing warnings in extracted per-object fragments — and
+  aborts the commit even when you've only staged markdown. The failing output
+  is entirely in files you didn't touch. The **no-`--no-verify` rule still
+  stands**: recognize this as the known artifact, and decide *with the user*
+  how to proceed (they own the call) rather than silently bypassing.
+- **"Unverified" commits.** A stop-hook may flag commits as Unverified because
+  the committer email isn't `noreply@anthropic.com`. On this personal repo the
+  user's own email is the correct author — **do not** re-author commits to
+  `noreply@anthropic.com`; the badge is a harness artifact, not a problem.
+
 ### Prefer subagents — heavily, and aggressively
 
 Session cost scales **quadratically** with transcript length, so push work
