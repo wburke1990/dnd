@@ -457,13 +457,15 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
 - **The undying ages.** Pass after pass, the phoenix dies into the comet and rises
   from its ash while rival gods fall once and end. Kuru's self-image as **chosen**
   and **eternal** sets here.
-- **The Muspel colony (~3,500 → ~3,000 ya).** Once the comet raised **Musleheim** (~4,000
-  ya), the First-Foundation-led **[Muspel empire](the-muspel-empire.md)** spread outward
-  and **founded Kuru as a colony,** planting the man-dominated society it still is.
-  (Canon's *"[the First Foundation founded Kuru](the-first-foundation.md)"* and *"the
-  Muspel empire colonized Kuru"* are **one event** — the First Foundation worked *through*
-  the empire.) The Kuru that would learn to read the falling sky began as **someone else's
-  outpost.**
+- **The Muspel colony (~3,500 → ~3,000 ya).** Before this, Kuru-island was **sparsely and
+  democratically settled** — a thin, leaderless people scattered on the phoenix-god's
+  shore. Then, once the comet raised **Musleheim** (~4,000 ya), the First-Foundation-led
+  **[Muspel empire](the-muspel-empire.md)** spread outward and **planted a colony over
+  them,** establishing the man-dominated society it still is. (Canon's *"[the First
+  Foundation founded Kuru](the-first-foundation.md)"* and *"the Muspel empire colonized
+  Kuru"* are **one event** — the First Foundation worked *through* the empire.) Kuru's whole
+  political arc bends here: **a sparse democracy → a colony → (after the rebellion) a
+  warforged-steered monarchy** — self-rule lost twice over, the second time to its own god.
 - **The Rebellion & the stone hand (~3,000 → ~2,500 ya) — the faith is born.** `[settled]`
   Kuru **rebelled against the Muspel empire,** and in that war its founder — a lord —
   **lost a hand,** found a **shard of the phoenix-god** in the god-island's own stone, and

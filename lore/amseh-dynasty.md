@@ -91,6 +91,8 @@ Amseh II personally visited the snake island, according to the Shipwrecked Sailo
 
 The gifts described in the tale — perfumes, incense, ivory, apes, baboons, precious things — reflect actual trade goods from the snake island period.
 
+**The Lonka connection** `[settled 6/22]`: the empire's *other* great trade partner was **Lonka** — the dragonborn mother-city, their Tyre (see [Lonka — Jotunheim](lonka-jotunheim.md), [technology & trade](technology-and-trade.md)) — and the Shipwrecked Sailor was in fact **bound for Lonka** when he wrecked on the snake island along the way (destination Lonka, landfall on the serpent's isle — both threads kept). His was an early **bronze-nailed** ship, a bold larger craft attempting the long Lonka run. Amseh and Lonka traded until the **Bleeding Star** (~5,000 ya) cut the sea-roads *and* shattered Lonka into the caldera of Jotunheim — one catastrophe ending both partners at once.
+
 **The serpent-king statue:**
 Amseh II's lower half is depicted as a serpent — reflecting his connection to the snake island, the source of the dynasty's wealth. This was not considered monstrous in the empire's cultural context. The serpent was a symbol of prosperity, wisdom, and the divine knowledge that the snake island represented.
 
