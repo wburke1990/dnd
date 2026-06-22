@@ -9,12 +9,18 @@
 
 ## 1. The Pitch
 
-`[OPEN — one-paragraph player-facing pitch.]` Proposed seed: *A mixed band of
-outsiders takes work from a wizard in the conquest-city of Maalm — collecting
-names from the tombs of a dead empire. The names are not trophies. They are keys.
-And the party is being taught, one job at a time, what a key can do to a soul —
-so that when they are finally handed the most dangerous name in the world, the
-choice to use it is entirely their own.*
+**The real-world sell (to the players):** *"We've built a big, weird world with deep
+mythology and a lot to discover. Make characters you love, get a boat, and go wherever
+you want — sail the archipelago and chase whatever grabs you. There's a main quest if
+you want it, but we honestly don't care whether you follow it. Mostly: have fun, poke
+at things, and see what happens."* It's an open **sandbox** — which is exactly why
+*no railroading* (§4) is rule one.
+
+**The quiet spine underneath** (for the DMs, not the pitch): a mixed band takes work
+from a wizard in the conquest-city of Maalm, collecting names from the tombs of a dead
+empire. The names are not trophies — they are **keys**, and the party is being taught,
+one job at a time, what a key can do to a soul, so that when they are finally handed
+the most dangerous name in the world, the choice to use it is entirely their own.
 
 ---
 
@@ -189,21 +195,35 @@ names, strongly suggestive but unconfirmed]`:
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |
 | Mukka | ? |
 
-Also `[OPEN]`: present-day political map; which region is the campaign's home base /
-where the party spends the most time. *(The current comet-cycle position is now set —
-the campaign opens ~1 year before the next pass; see "The clock" above.)*
+**No home base (resolved).** The party has **no fixed base** — Sam's character has a
+**boat**, and the **map Preem gave them marks places of interest all over the
+archipelago.** They sail wherever they want; the campaign is a **sandbox** (the in-world
+expression of *no railroading*, §4).
+
+**Present-day political map (resolved).** **Kuru is the dominant power** right now — it
+holds **colonies on the Kurunatukas** (Moku & Noku Kurunatuka) and **two beachheads on
+Musleheim**. But Kuru **has little navy** — a weakness that will bite it when **Sam's
+halflings (the floating fleet) arrive hunting ships and timber.** *(Comet-cycle position
+is set: the campaign opens ~1 year before the next pass — see "The clock" above.)*
 
 ---
 
 ## 6. The Spine / Arc
 
-`[OPEN — confirm overall shape.]` Proposed: **complicity → recognition → choice.**
-The party works for Preem (Act 1: the tombs / name-gathering), gradually
-discovers what names and binding really are (the dream quest is the hinge), uncovers
-Preem's demon army, and is finally handed a true name — `[OPEN — whose? the
-volcano-demon's]` — and must decide what kind of power to be.
+**The spine** (the campaign's through-line / shape): **complicity → recognition →
+choice.** The party works for Preem (Act 1: the tombs / name-gathering), gradually
+discovers what names and binding really *are* (the dream quest is the hinge), uncovers
+Preem's demon army, and is finally handed the **volcano-demon's true name** — and must
+decide what kind of power to be. *(Sandbox caveat: this is the spine if they pull on it,
+not a track they're forced down — see §4.)*
 
-- `[OPEN — what a satisfying ending looks like: the last big choice or image.]`
+**The ending image / choice** (proposed): the comet overhead, a volcano about to be
+forced; the party **holds the volcano-demon's true name** and can **bind it** (trigger
+Ragnarok for Preem), **refuse and free it**, or **do something else entirely** — with the
+[First Foundation](the-first-foundation.md) and [Second Foundation](the-second-foundation.md)
+each wanting the coming pass controlled their own way. The cycle that opened with Taniyn
+*choosing* to become an island closes on the party *choosing* what to do with a name.
+`[OPEN — lock the exact final image]`
 
 ---
 
