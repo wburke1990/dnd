@@ -72,6 +72,15 @@ who *controlled* the comet's passes to build Musleheim — and **sabotaged that 
 turning what should have been a land-building event into the catastrophe that destroyed
 the empire.
 
+**The capital drowned.** The empire's seat was **Cartaga**, on Musleheim's
+southeastern coast. The bad pass destroyed it, and the ground it stood on went
+under: the **center of Cartaga now lies submerged beneath the strait that
+divides Musleheim from Noku Kurunatuka** — a drowned capital under the channel.
+The inland city of **Cartaga Nova** ("New Cartaga") carries the name forward.
+(See the [Nila atlas](nila-atlas.md) for positions.) `[OPEN]` whether anything
+of sunken Cartaga — vaults, the First/Second Foundation's works, the dead — is
+still reachable beneath the strait.
+
 It transformed the empire's *own people:*
 
 - **Orcs** where the change bit deepest — near the impact, in the heart of Musleheim.

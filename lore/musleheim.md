@@ -37,6 +37,18 @@ In the surrounding lands, **blights** and **bullywugs** roam.
 
 ---
 
+## Cartaga — the drowned capital
+
+**Cartaga**, on Musleheim's **southeastern coast**, was the capital of the
+[Muspel empire](the-muspel-empire.md). It was **destroyed in the last comet
+pass** (~1,000 ya — Ragnarok), and the **center of the city sank beneath the
+strait that now divides Musleheim from Noku Kurunatuka** — a drowned capital
+under the channel. The inland **Cartaga Nova** ("New Cartaga") carries the name
+on. See the [Nila atlas](nila-atlas.md) for positions; the sunken city is an
+`[OPEN]` exploration hook.
+
+---
+
 ## Open / to confirm
 
 - `[OPEN — name the waterfall]` (the river's outfall into the bay).
