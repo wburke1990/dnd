@@ -7,12 +7,13 @@
 > Norse register (Musleheim = **Muspelheim**, the realm of fire). Dates are anchored
 > to the [comet cycle](world-history-timeline.md); `[OPEN]` flags the soft spots.
 >
-> This is the history of **the last ~1,300 years** — the most recent chapter of the
-> world, and the one the party is living inside.
+> This is the history of **the last ~4,000 years** — the Muspel empire (which rose with
+> Musleheim ~4,000 ya) and the orc wars it gave way to, the most recent chapters of the
+> world and the one the party is living inside.
 
 ---
 
-## 1. The Old Muspel Empire — before the change (~1,800 ya → ~1,000 ya)
+## 1. The Old Muspel Empire — before the change (~4,000 ya → ~1,000 ya)
 
 Musleheim is one of the **youngest landmasses** in the world — volcanic ground
 raised from the sea by the comet passes of ~4,000 / 3,000 / 2,000 years ago. On
@@ -20,10 +21,14 @@ that new fire-island a people built the **Muspel empire**: a sea-going, fire-cul
 **barbarian** power — **herders and longship-raiders** who settle the lands they take
 (Norse Muspelheim, Surtr's realm). *Not* a mercantile state: they fight their own wars.
 
-- **Well over a thousand years ago (~1,300 ya), the Muspel empire colonized Kuru** —
-  planting the men-dominated society that Kuru still is today (see
-  [Maalm — the elven stronghold](maalm-the-elven-stronghold.md), which notes Kuru is
-  ruled by men as Maalm is by elves). `[OPEN]` what *else* the old empire colonized.
+- **Kuru began as a Muspel colony (founded ~3,000s ya).** Once the comet raised Musleheim
+  (~4,000 ya), the empire spread outward and **founded Kuru**, planting the men-dominated
+  society it still is (see [Maalm — the elven stronghold](maalm-the-elven-stronghold.md),
+  which notes Kuru is ruled by men as Maalm is by elves). Kuru then **rebelled and broke
+  free** — the war that birthed its phoenix-faith (see [Kuru & the phoenix](kuru-and-the-phoenix.md))
+  — so *the colonized became the colonizer* twice: first winning its independence, and now,
+  ages later, leading the **reconquest of Musleheim itself** (§4–6). `[OPEN]` what *else*
+  the old empire colonized.
 - **The pre-mutation Muspel folk were human** — *mostly* human, at least. The
   **half-orcs** the change later produced are simply the change *taken halfway*, which
   only reads if the original stock was largely human. So the old empire is a human,

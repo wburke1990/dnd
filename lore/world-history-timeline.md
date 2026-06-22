@@ -24,11 +24,15 @@ pass drives volcanism and violent climate swings; on Nila **mutation runs fast**
 so a comet-pass is a transformation event as much as a geological one. The folk
 name for a catastrophic pass is **Ragnarok**.
 
-`[settled]` A pass's **alchemical sickness leaves land uninhabitable for a thousand
-years at least — often far longer.** Musleheim is *still* half-poisoned a thousand years
-on; after the Bleeding Star, **Lonka lay dead the better part of two thousand years and
-Kalikhat's surface nearer three thousand** — which is why Kuru's much later colonists had
-no idea a whole people still lived *below* Kalikhat (§V–VI).
+`[settled]` **Only the *catastrophic* passes spread the sickness.** The ~5,000-ya Bleeding
+Star and the ~1,000-ya bad pass each loosed an **alchemical, mutating sickness**; the
+controlled land-building passes (~4,000 / 3,000 / 2,000) were **safe** — which is how
+Musleheim could be raised and settled at all. And where the sickness *did* fall, it
+**leaves land uninhabitable for a thousand years at least — often far longer:** Musleheim
+is *still* half-poisoned a thousand years on; after the Bleeding Star, **Lonka lay dead the
+better part of two thousand years and Kalikhat's surface nearer three thousand** (which is
+why Kuru's much later colonists had no idea a whole people still lived *below* Kalikhat,
+§V–VI).
 
 🔒 **A pass is not purely natural in its outcome — the event can be *controlled.*** The
 [First Foundation](the-first-foundation.md) (men and dragonborn) learned to channel
@@ -215,30 +219,33 @@ fortress-caldera still, insular and feared; a **Dragon Turtle** guards its bay.
 The stretch that fills the long middle. From ~4,100 the **First Foundation** — men and
 dragonborn who learned to **steer a comet pass into controlled, land-building eruptions**
 rather than catastrophe — rode the **hot spot** southeast, raising **Musleheim** and the
-new islands across the ~4,000 / 3,000 / 2,000-ya passes. They **founded Kuru** and formed
-the inner circle of what became the **Muspel empire** (§VI). In the same window the
-caldera of **Jotunheim** was resettled by Maalm elves and later fell to the **Lonka
-Zealots** (above).
+new islands across the ~4,000 / 3,000 / 2,000-ya passes. They formed the inner circle of
+what became the **Muspel empire** (§VI) — which, once Musleheim was raised, **founded Kuru
+as a colony** (~3,000s; Kuru later rebelled free, §VI). In the same window the caldera of
+**Jotunheim** was resettled by Maalm elves and later fell to the **Lonka Zealots** (above).
 *Source: [the First Foundation](the-first-foundation.md), [Kuru & the phoenix](kuru-and-the-phoenix.md).*
 
 ### Kuru and the undying phoenix — and its first crusades
 Kuru's god — the **phoenix** that fell at Creation (§I) — is the **one comet-beast that
 dies and is reborn every pass** instead of ending, so Kuru believes itself **chosen** and
-owed the world. Its faith began in deep antiquity with a lord who lost a hand and replaced
-it with a shard of the god's **sentient stone**; from him descends the **Order of Sunne**,
-whose most devout replace their flesh with god-stone until they become the near-immortal
-**warforged** who secretly run the kingdom (a hive mind sharing the god's voice). Every
-rebirth **burns the phoenix's memory**, and it is now **going mad** — 🔒 *a decline
-worsened by the Second Foundation's ~1,000-ya sabotage, which botched its rebirth.*
+owed the world. Kuru **began as a colony of the Muspel empire** (founded ~3,000s ya, once
+the comet had raised Musleheim) — until it **rebelled**, and in that war a lord **lost a
+hand**, found a shard of the god's **sentient stone**, and forged a new hand from it. The
+rebellion won Kuru its freedom and birthed the **Order of Sunne**, whose most devout
+replace their flesh with god-stone until they become the near-immortal **warforged** who
+secretly run the kingdom (a hive mind sharing the god's voice). Every rebirth **burns the
+phoenix's memory**, and it is now **going mad** — 🔒 *a decline worsened by the Second
+Foundation's ~1,000-ya sabotage, which botched its rebirth.*
 
-- **The Kalikhat Crusades (~2,000 → ~1,300 ya) — Kuru's first crusading era,** long before
-  the orc wars. Kuru planted **surface colonies on Kalikhat**, not knowing its people had
-  fled *underground* after the Bleeding Star, and ran headlong into the **deep gnomes,
-  drow, and demons** below. The colonies **failed**; the first holy war abroad gave way to
-  a **second wave** sent to recover the **warforged dead** (finite godstone can't be
-  abandoned), avenge the disaster, and 🔒 **steal Kalikhat's own god-stone.** One lost
-  colony — a *Jamestown* — left the mad mist-warforged **Vigil** fighting on in the fog to
-  this day. The era **ended when the Muspel empire absorbed Kuru (~1,300, §VI).**
+- **The Kalikhat Crusades (~2,000 → ~1,300 ya) — Kuru's first crusading era,** long after
+  independence and well before the orc wars. Kuru planted **surface colonies on Kalikhat**
+  — whose poisoned surface had only just become habitable again after ~3,000 years — not
+  knowing its people had fled *underground* after the Bleeding Star, and ran headlong into
+  the **deep gnomes, drow, and demons** below. The colonies **failed**; the first holy war
+  abroad gave way to a **second wave** sent to recover the **warforged dead** (finite
+  godstone can't be abandoned), avenge the disaster, and 🔒 **steal Kalikhat's own
+  god-stone.** One lost colony — a *Jamestown* — left the mad mist-warforged **Vigil**
+  fighting on in the fog to this day.
 *Source: [Kuru & the phoenix](kuru-and-the-phoenix.md).*
 
 ### The world in flux
@@ -249,16 +256,18 @@ now, a wild and unstable time. That same pass also birthed the orcs — the thre
 
 ---
 
-## VI. The Muspel Empire & the Orc Wars — the last ~1,300 years
+## VI. The Muspel Empire & the Orc Wars — the last ~4,000 years
 
 The most recent chapter of history, and the one the party lives inside. Norse register
 (Musleheim = **Muspelheim**, the realm of fire).
 
-- **The old Muspel empire (~1,800–1,000 ya).** A settled, fire-cult, sea-going power
-  built on young volcanic Musleheim. **Well over a thousand years ago (~1,300 ya) it
-  colonized Kuru** — **absorbing the older crusading sun-cult and ending Kuru's first
-  (Kalikhat) crusading era (§V)** — and planting the men-dominated society Kuru still is.
-  The *first* colonizer of the recent age, and the reason the reconquest below is so bitter.
+- **The old Muspel empire (~4,000–1,000 ya).** Once the ~4,000-ya comet raised **Musleheim**,
+  the First-Foundation-led, fire-cult barbarian Muspel empire rose on it — the **first great
+  colonizer of the recent age.** It **founded Kuru as a colony in the ~3,000s** (§V),
+  planting the men-dominated society Kuru still is; Kuru later **rebelled free** (the war
+  that birthed its phoenix-faith). The empire ruled until the bad pass unmade it — and what
+  makes its reconquest below so bitter is that **Kuru, its own ancient rebel colony, now
+  leads the conquest of its homeland.**
 - **The mutation (~1,000 ya).** The bad comet pass comes down on Musleheim and remakes
   the empire's *own people*: **orcs** where the change bit deepest (near the impact),
   **half-orcs** at the margins (the change taken halfway). The gradient is geographic.

@@ -65,11 +65,12 @@ from its ashes in days). The god does it at the scale of an age.
 ## 3. The Religion of Kuru — the man with the stone hand
 
 `[settled]` **The faith begins with an injured man** — likely a **lord** — who
-**loses a hand in a conflict.** He **finds the stone** (a shard of the
-phoenix-god) and **fashions himself a new hand from it, a prosthetic.** Because
-the stone is **sentient — a piece of a living god — the hand gives him power.**
-He is the first to wear the god in his own flesh, and from him the **[Order of
-Sunne](campaign-overview.md)** descends.
+**loses a hand in Kuru's rebellion against the Muspel empire** (§5). He **finds the
+stone** (a shard of the phoenix-god, for the island of Kuru *is* the god) and
+**fashions himself a new hand from it, a prosthetic.** Because the stone is
+**sentient — a piece of a living god — the hand gives him power.** He is the first
+to wear the god in his own flesh; with it the rebellion **wins Kuru its freedom,**
+and from him the **[Order of Sunne](campaign-overview.md)** descends.
 
 This is the **Names & Ownership thesis in one image** ([overview §2](campaign-overview.md)):
 to gain power he **takes a piece of a god into his own body** — *owning* a
@@ -95,10 +96,11 @@ into the founder's wrist.
 - **The relic-hand itself** `[OPEN]` — does the original god-stone hand survive as
   Kuru's central relic (regalia / coronation object / the thing the High Order
   guards)? A natural quest object, and a natural thing for the party to be sent after.
-- **When the faith was founded** `[OPEN]` — the *stone* fell at Creation (§2), but the
-  *man* could find a shard anytime after. Deep antiquity makes the Order primordial;
-  a founding nearer the **Muspel colonization** (§5) makes the stone-hand cult a
-  native Kuru identity that *survived* and *outlasted* its conquerors.
+- **When the faith was founded** `[settled]` — in **Kuru's war of independence from the
+  Muspel empire (~3,000 → ~2,500 ya, §5).** The phoenix-*stone* fell at Creation (§2), but
+  the *cult* is younger: a **native, rebellion-born identity** that threw off the
+  conquerors who had founded the colony — the reading that makes Kuru's whole story *the
+  colonized seizing a god to break its master.*
 
 ### The faithful become the god — the warforged of Sunne
 
@@ -462,16 +464,24 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   Kuru. Sibling-land to Taniyn's [Lonka](taniyn-and-lonka.md). §2.
 - **The undying ages.** Pass after pass, the phoenix dies into the comet and rises
   from its ash while rival gods fall once and end. Kuru's self-image as **chosen**
-  and **eternal** sets here. The **stone-hand founder** and the **Order of Sunne**
-  arise somewhere in this span (§3, exact point `[OPEN]`).
-- **The First Foundation.** `[loose]` Canon says the [First Foundation founded
-  Kuru](the-first-foundation.md) and learned to **steer comet-pass volcanism into
-  land-building.** Tie-in: the Kuru that learned to *handle* the comet is the same
-  Kuru whose god *rides* the comet — the First Foundation's craft and the phoenix
-  cult are two faces of one relationship with the falling sky. `[OPEN — reconcile]`
+  and **eternal** sets here.
+- **The Muspel colony (~3,500 → ~3,000 ya).** Once the comet raised **Musleheim** (~4,000
+  ya), the First-Foundation-led **[Muspel empire](the-muspel-empire.md)** spread outward
+  and **founded Kuru as a colony,** planting the man-dominated society it still is.
+  (Canon's *"[the First Foundation founded Kuru](the-first-foundation.md)"* and *"the
+  Muspel empire colonized Kuru"* are **one event** — the First Foundation worked *through*
+  the empire.) The Kuru that would learn to read the falling sky began as **someone else's
+  outpost.**
+- **The Rebellion & the stone hand (~3,000 → ~2,500 ya) — the faith is born.** `[settled]`
+  Kuru **rebelled against the Muspel empire,** and in that war its founder — a lord —
+  **lost a hand,** found a **shard of the phoenix-god** in the god-island's own stone, and
+  **forged himself a new hand from it** (§3). The sentient godstone gave him power, the
+  rebellion **won Kuru its freedom,** and from him descends the **Order of Sunne.** Kuru's
+  whole identity — *the colonized who seized a god to throw off its master* — is set here.
 - **The Kalikhat Crusades (~2,000 → ~1,300 ya) — Kuru's *first* crusading era.** `[settled]`
-  Long before the orc wars, the risen sun-cult pushed **colonies onto [Kalikhat](campaign-overview.md)**
-  — **not knowing the region's people had fled *underground*** after the Bleeding Star
+  Independent now, the phoenix-cult pushed **colonies onto [Kalikhat](campaign-overview.md)**
+  — whose poisoned surface had only lately become habitable again after ~3,000 years —
+  **not knowing the region's people had fled *underground*** after the Bleeding Star
   ([overview §5](campaign-overview.md)). The colonists ran headlong into the world below —
   **deep gnomes, drow, and demons** — and the colonies **failed:** the Order of Sunne's holy
   war exported abroad for the first time, and 🔒 likely **Kuru's first real contact with
@@ -481,13 +491,7 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   own god-stone.** *The colonial thesis at its most literal: sailing abroad to carry home
   your dead and a rival people's god.* One failed colony — **a Jamestown that never came
   home** — left the mad mist-warforged **Vigil (V1G1L)** still haunting its ruins (§3,
-  *Outside the hive*). The era **ended when the Muspel empire absorbed Kuru (~1,300, below).**
-- **Muspel colonization (~1,300 ya).** The Norse fire-cult [Muspel empire](the-muspel-empire.md)
-  colonizes Kuru — **ending its first crusading era (above)** — and planting the
-  man-dominated society it still is. `[loose]` Fire-cult
-  layers *onto* sun-cult (both worship fire) rather than erasing it — so when the bad
-  pass destroyed the Muspel, **Kuru's older phoenix-faith reasserted** and the
-  ex-colony rose to power. *The colonized became the colonizer* ([overview §3A](campaign-overview.md)).
+  *Outside the hive*).
 - **The bad pass (~1,000 ya).** Second Foundation sabotage; orcs born on Musleheim;
   🔒 the phoenix's rebirth botched (§4).
 - **The orc wars (~last 600 years).** `[settled]` Per the timeline, the **last ~600
