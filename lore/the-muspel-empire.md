@@ -42,7 +42,11 @@ and a great deal of it — because they controlled the cyclical events** that ma
 Working through (or hand-in-glove with) the [First Foundation](the-first-foundation.md),
 who **steered the comet passes to build Musleheim** rather than let them explode, the
 empire turned the cycle into a **land-factory** — young volcanic soil, raised to order,
-far richer than the tired old ground elsewhere. 🔒 Which is exactly why the
+far richer than the tired old ground elsewhere. This was the **hot spot passing through**
+on its long southeast drift out of Lonka ([overview §5](campaign-overview.md)), raising
+the fire-island as it went — and, since **dragons and demons follow the hot spot,** the
+building of Musleheim would have been a **dragon-and-demon-haunted age** in its own right,
+the same convergence now beginning over the [Kurunatukas](kuru-and-the-phoenix.md). 🔒 Which is exactly why the
 [Second Foundation](the-second-foundation.md)'s sabotage of that control (§2) was so
 devastating: it did not merely mutate the Muspel people, it **struck at the root of
 their power** — the cycle that made their land.

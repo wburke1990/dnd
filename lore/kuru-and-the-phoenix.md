@@ -575,6 +575,15 @@ degraded than it has ever been. The stakes:
   **not come back as itself** — or not come back at all. A sun that does not rise is
   Kuru's private **Ragnarok,** running underneath the world-ending one the
   [Foundations](the-second-foundation.md) are fighting over.
+- **The hot spot has arrived under Moku Kurunatuka.** `[settled]` The pass's **biggest
+  comet fragment is pulled to the hot spot's current seat, over Moku Kurunatuka**
+  ([overview §5–6](campaign-overview.md)) — which is why **demons are now appearing there,
+  with rumors of dragons too:** both primordial forces converge wherever the hot spot is
+  (*dragons and demons follow the hot spot*, [overview §5](campaign-overview.md)). The
+  newest land is becoming the **stage of the coming dragon-vs-demon contest** — the same
+  kind of clash that once shattered [Lonka](lonka-jotunheim.md) — and Kuru's client-state
+  Moku is sitting on top of it (and secretly in [Second Foundation](the-second-foundation.md)
+  hands).
 - **The lost name as the dangerous name.** The thesis promises the party will be
   "handed that power — **over a god,** a demon, maybe a person" ([overview §2](campaign-overview.md)).
   🔒 The phoenix's **forgotten true name** is a strong candidate for that name. Whoever

@@ -27,6 +27,13 @@ For the first thousand years of history, **Lonka was the center of the world.** 
   (the Ramayana's Trikuta), where the **dragons themselves dwelt.**
 - This is the world of [Section I of the timeline](world-history-timeline.md) — the
   comet-dragon age, before the Amseh elves of Maalm were anything at all.
+- **Why here? Lonka was the hot spot's first seat.** `[settled]` Lonka sat over the
+  **hot spot** — the place of **maximum heat, magic, and land-generation** in the first
+  age — which is **why the dragons gathered here,** and why the **dragon-vs-demon contest
+  that became the Bleeding Star (§2) was fought on this very island** ([overview §5](campaign-overview.md):
+  *dragons and demons follow the hot spot*). As the hot spot later **drifted southeast**
+  — building Musleheim, and now surfacing the [Kurunatukas](the-muspel-empire.md) — that
+  **locus of dragon-and-demon power moved with it,** leaving Lonka a spent, holy ruin.
 
 ---
 

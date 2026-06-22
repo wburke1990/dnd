@@ -188,6 +188,21 @@ These aren't just preferences — several are load-bearing for the themes above.
   capable of far more intensive agriculture than tired ground like Maalm — which is what
   made them worth colonizing and let them grow into
   [client-states](kuru-and-the-phoenix.md).
+- **Dragons and demons follow the hot spot.** Wherever the hot spot sits is the place of
+  **maximum heat, magic, and land-generation** — and **both primordial forces are drawn to
+  it:** the **sky-dragons** (comet-beasts) and the **magma-demons** (the power apart — see
+  the Manichean note above and [Lonka — Jotunheim](lonka-jotunheim.md)). So the hot spot's
+  wandering path is also a **moving front of dragon-and-demon activity,** and it threads the
+  whole history together:
+  - **Under Lonka** (~6,000–5,000 ya): the dragons dwelt there and the dragonborn rose, and
+    the **Bleeding Star was the dragon-vs-demon contest fought *on that very island*** —
+    Lonka's Ragnarok ([Lonka — Jotunheim](lonka-jotunheim.md)).
+  - **Across Musleheim** (the middle passes): the hot spot **built the fire-island** and,
+    with it, the [Muspel empire's](the-muspel-empire.md) land-power.
+  - **Now the Kurunatukas:** the sign it has **arrived** is that **demons are appearing on
+    Moku Kurunatuka, with rumors of dragons too** — both forces converging on the newest
+    land just as the coming pass pulls the **biggest comet fragment** down onto it, which is
+    why the finale is there (§6).
 - **The clock (campaign present).** The next pass is essentially *now*. The comet
   is **already visible in the sky** — but the players don't realize it is **inbound**;
   it will swing close past the planet on its way back **out**, ~**one year** from
