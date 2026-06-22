@@ -47,6 +47,67 @@ Discord brainstorm. Companion to the deep-history piece
   power like this *should* raise eyebrows — and is meant to (see
   [The Second Foundation](the-second-foundation.md)). **[settled]**
 
+## Physical geography — the basin, the terraces, and the deep
+
+**The basin and the cliffs.** **[loose — built on Petra]** Like Petra, Maalm sits in a
+**desert basin ringed by sandstone cliffs,** reached through a **narrow, defensible gorge**
+(a Siq). The cliffs are **honeycombed** — the **Amseh tombs of the
+[Valley of the Kings](../encounters/valley-of-the-kings.md)** are cut into them, and much of
+the city is **carved rock** rather than built. The bare highland rock above is the
+**catchment:** it sheds every rare rain straight into the channels.
+
+**Where the good land is — the wadi floors and terraces.** In a desert the arable land is
+**wherever water and silt collect:**
+- The **wadi floors** (seasonal flood-channels) and the **lowest terraces** hold the
+  **deepest, richest soil** — silt dropped by the flash floods. Soil and moisture **thin as
+  you climb,** so the best farmland is **low and central,** the marginal plots high and edge.
+- **Terracing** is **check-dams and stone retaining walls stepped across the wadis and up the
+  slopes.** Each wall **slows the flood, traps its fertile silt, and holds the water** so it
+  soaks in instead of tearing through. Flood water **cascades terrace to terrace,** giving up
+  silt and moisture at each step — turning a destructive flash flood into a **staircase of
+  soaked, fertilized fields.**
+- **The gated upper-city gardens** (above) are the privileged exception: **lush, ornamental
+  ground watered from the cisterns** while the working terraces below feed the city — **beauty
+  uphill for the elite, rationed water downhill for everyone else.**
+
+**The deep — the tunnels where Ammit sleeps.** **[settled core, [loose] detail]** Maalm's
+water does not stand in open pools to **evaporate;** it runs and rests **underground,** in the
+**extensive tunnels beneath the city** — the same tunnels where **[Ammit](maalm-founding.md)
+sleeps,** part of the **Abyss tunnel-network that honeycombs Nila**
+([house rules](house-rules-and-world-mechanics.md)).
+- **The hidden cisterns are down there.** That is *why* they are hidden and deadly: to reach
+  one you must **enter the labyrinth,** toward Ammit and the dark. Iron law #1 (death to
+  approach a cistern) is also, quietly, *"do not wake what sleeps by the water."* **[loose]**
+- **A vertical city** that stratifies cleanly:
+  - **the heights** — bare catchment rock and Amseh tomb-facades;
+  - **the upper city** — gated gardens, the elite;
+  - **the wadi & terraces** — the productive farmland;
+  - **the upper tunnels** — cisterns and water-channels (cool, evaporation-free, **hidden and
+    guarded**);
+  - **the deep tunnels** — **Ammit, the Abyss, demons:** forbidden.
+- Only the **cistern-keeper caste** (below) knows the safe upper paths from the deadly deep —
+  the one group that walks Maalm's underworld and lives.
+
+**The reuse cycle — and why there are (almost) no sewers.** **[settled]** A water-poor city
+**cannot afford Roman sewers:** flowing, water-borne sewage would **waste the water and flush
+away the very nutrients** Maalm is desperate to keep. So Maalm runs **two deliberately separate
+flows:**
+- **Clean water — a loop, not a line.** rain/flood → dams → underground channels → hidden
+  cisterns → piped to gardens, city, and terraces → **greywater** (from washing) → caught and
+  **sent down to the terraces again.** Nothing reaches the sea if it can be used twice.
+- **Waste — a resource, not refuse.** No flush-sewers; instead **dry latrines over collection
+  vaults,** with **night-soil carted out** to be **composted with guano and crop residue** and
+  **worked back into the terraces** (below). Human and animal waste is **fertility, not
+  filth** — which is exactly why **"waste is close to taboo."**
+- **What *does* flow underground are flood-drains** — channels that carry off the violent
+  excess of a flash flood so it cannot drown the city, **doubling as the intake that fills the
+  cisterns.** Maalm's "sewers" are really **storm-and-water-harvesting works,** not waste-pipes.
+- 🔒 **The darkest loop.** **[loose]** The one output Maalm gives to the deep is its **dead:**
+  Ammit is **the devourer of the dead** ([Valley of the Kings](../encounters/valley-of-the-kings.md)),
+  and a city that recycles everything may quietly **send its dead — and its condemned — down to
+  the thing below,** the ultimate, monstrous closing of the cycle. A grim reveal for a
+  systems-minded party.
+
 ## The agricultural economy — water, guano, and the closed cycle
 
 Maalm is a **desert city, modeled on Petra**: little rain, and **old, exhausted soil**
