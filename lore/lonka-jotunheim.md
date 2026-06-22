@@ -100,6 +100,11 @@ This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready textu
   tunnel-network; see [house rules](house-rules-and-world-mechanics.md)). Opening and
   holding such a road would likely have needed **demon allies** — threading straight into
   the demon-first-contact and Manichean-Ragnarok questions below. `[OPEN]`
+- **Rama's vanara army (don't lose this — too cool).** The **monkey-folk host** that
+  built the causeway and stormed Lanka is too good to drop: a **vanara people** as the
+  avenging army or its allies, and the natural **bridge-builders** if the crossing is a
+  built causeway/tunnel (in the Ramayana the vanaras *raise the Setu*). `[OPEN]` who the
+  vanaras are in Nila — a distinct people, or a face the dragonborn host wore.
 
 ---
 
@@ -114,7 +119,9 @@ guarded channel.
 - **The Dragon Turtle** *(David's note, verbatim):* *"In the bay of Jotunheim there is a
   Dragon Turtle. The last vestige of the dragons that inhabited the island. The
   dragonborn control it and it is a last defense for those that might enter the bay
-  without permission."*
+  without permission."* — and a **cosmological clue:** a dragon-beast surviving in the
+  *blast*-caldera fits the **sky dragon having won** Lonka's Ragnarok (see the Manichean
+  note below).
 - **The two trees.** At the highest point of the ring-wall stand **two trees — one Ash,
   one Elm —** which the zealots hold to be the **children of the primordial dragon.**
   (Our **Ask & Embla**, the first man and woman shaped from ash and elm; here, Taniyn's
@@ -131,13 +138,17 @@ guarded channel.
 ## Open threads & the bigger cosmology
 
 - **`[draft]` Manichean Ragnarok — magma demon vs. sky dragon.** A working frame for the
-  whole comet cycle: **every Ragnarok is a contest between a magma demon and a sky
-  dragon, and who wins decides what that pass does to the world.** This makes **demons a
-  separate power from the dragon-descended** — the great exception to the
-  [common-ancestor rule](campaign-overview.md) (almost everyone else descends from
-  Taniyn; demons do not). It also re-reads Preem: binding a **volcano / magma demon** to
-  *cause* Ragnarok (see [the Second Foundation](the-second-foundation.md)) is **putting a
-  thumb on the magma side of the scale.**
+  whole comet cycle, with **pace** as the hidden variable: a **slow** contest lets magma
+  **flow out and build land** (Hawaii); a **fast** one **blows the world open**
+  (Krakatoa). So the **magma demon is the slow, land-making pole; the sky dragon the
+  fast, world-ending one** — the *bleeding star*, the **sky as destroyer**. Demons are
+  thus **a power apart from the dragon-descended** (the great exception to the
+  [common-ancestor rule](campaign-overview.md) — almost everyone else descends from
+  Taniyn; demons do not). **The Dragon Turtle still in this caldera implies the sky
+  dragon won Lonka's Ragnarok** — a fast blast that shattered the holy island. And it
+  re-reads Preem: he **binds the magma demon and forces it to erupt all at once**,
+  enslaving a slow land-maker into a bomb (see [the Second Foundation](the-second-foundation.md)).
+  `[OPEN]` the exact mechanism (force the magma fast, or remove it so the dragon wins).
 - **`[OPEN]` Demon first contact** — when mortals first allied with demons; Kalikhat
   ~5,000 ya is the leading candidate (§2).
 - **`[OPEN]` The causeway** — sea-crossing vs. demon-opened tunnel for the zealot invasion

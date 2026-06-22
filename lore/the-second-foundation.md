@@ -80,14 +80,20 @@ It destroyed the Muspel empire and mutated its people into **orcs and half-orcs*
 party will have to choose whom — if anyone — to help.
 
 > **`[draft]` The Manichean frame.** A working idea sitting *under* the two Foundations:
-> each Ragnarok is a **contest between a magma demon and a sky dragon**, and the *winner*
-> decides what that pass does — new land and dragons, or sickness and ruin. It makes
-> **demons a power apart from the dragon-descended** (the exception to the
-> common-ancestor rule: almost everyone descends from Taniyn; demons do not). Read that
-> way, the **First Foundation's "control" of a pass is the mortal name for tipping the
-> contest to the dragon** (build land), and Preem binding a **magma demon** to force
-> Ragnarok is **weighting the scale to the magma side** (end the world). See
-> [Lonka / Jotunheim](lonka-jotunheim.md) for where this surfaced.
+> each Ragnarok is a **contest between a magma demon and a sky dragon**, and the
+> underlying variable is **pace.** A **slow** struggle lets magma **flow out and build
+> land** (Hawaii); a **fast** one **blows the top off the world** (Krakatoa). So the
+> **magma demon is the slow, land-making pole; the sky dragon the fast, world-ending
+> one** — and which prevails decides whether a pass *grows* the world or *shatters* it.
+> (This makes **demons a power apart from the dragon-descended** — the exception to the
+> common-ancestor rule: almost everyone descends from Taniyn; demons do not. Note the
+> inversion: the **sky** is the destroyer, fitting the *bleeding star*.) Read that way,
+> the **First Foundation "controls" a pass by keeping it slow** — letting the magma flow
+> and holding the dragon back (build land) — and Preem **binds the magma demon and forces
+> it to spend itself all at once**, a slow land-maker enslaved into a bomb (the
+> campaign's transformation-as-violation, made cosmic). `[OPEN]` the exact mechanism. See
+> [Lonka / Jotunheim](lonka-jotunheim.md), where the **Dragon Turtle still in Lonka's
+> blast-caldera implies the sky dragon won that Ragnarok.**
 
 ## 3. The Founding link — who the Foundationers are
 

@@ -143,10 +143,10 @@ These aren't just preferences — several are load-bearing for the themes above.
   badly** — it blanketed the continent in an **alchemical, mutating sickness**.
   Sea levels swing dramatically and **islands come and go.** It is a wild,
   unstable time (and a transformation engine in its own right). `[draft]` **A Manichean
-  read:** each pass may be a contest of **magma demon vs. sky dragon**, the winner
-  deciding what that Ragnarok does — which makes **demons a power apart** from the
-  dragon-descended (see [the Second Foundation](the-second-foundation.md) /
-  [Lonka — Jotunheim](lonka-jotunheim.md)).
+  read:** each pass is a contest of **magma demon vs. sky dragon** decided by **pace** —
+  slow magma **flows out and builds land**, a fast clash **explodes** (Krakatoa) — which
+  makes **demons a power apart** from the dragon-descended (see
+  [the Second Foundation](the-second-foundation.md) / [Lonka — Jotunheim](lonka-jotunheim.md)).
 - **The clock (campaign present).** The next pass is essentially *now*. The comet
   is **already visible in the sky** — but the players don't realize it is **inbound**;
   it will swing close past the planet on its way back **out**, ~**one year** from

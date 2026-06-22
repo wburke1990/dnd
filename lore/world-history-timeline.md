@@ -272,7 +272,7 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[OPEN]` Where half-orc loyalties fall in the present war, and whether the party's path ever crosses the northern front.
 - `[OPEN]` The half-orc Hannibal's name and register; whether his masterstroke was an Alps- or sea-crossing; whether there is a Zama; where his missing fleet went.
 - `[OPEN]` Whether any northern colony survives, what's out on the ice, and how the two Punic threads (orc Hannibal vs. dragonborn Lost Tribes) relate.
-- `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon**, the winner setting what the cataclysm does; demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule).
+- `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon** decided by **pace**: slow magma **builds land**, a fast clash **explodes** (Krakatoa; the **Dragon Turtle** in Lonka's caldera implies the dragon won there). Demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule).
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
 - `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.
 
