@@ -11,16 +11,20 @@
 
 ## Who he was
 
-- `[settled]` An **old-guard warforged,** designation **SH3P4RD** ("Shepard") — one of
-  the **first hundred,** from the era when warforged were still **named and had
-  personality** (see [Numbers and names](../lore/kuru-and-the-phoenix.md)). Old guard
-  **painted their name onto their number plate;** his may still be legible on whatever
-  is left of him.
+- `[settled]` An **old-guard warforged, Warforged 34,** designation **SH3P4RD**
+  ("Shepard") — one of the **first hundred,** from the era when warforged were still
+  **named and had personality** (see [Numbers and names](../lore/kuru-and-the-phoenix.md)).
+  Old guard **painted their name onto their number plate;** his may still be legible on
+  whatever is left of him.
+- 🔒 `[settled]` **He is far rarer than he looks.** Of the first hundred, **no more than
+  ~15 (probably ~8) survive** — so a low-number original like **#34** is an enormous
+  prize. **Even [Aniess](aniess.md),** who knows exactly what a lost brethren is worth,
+  would be **stunned** to learn the butler's number.
 - `[settled]` He **died — drowned, or fell — on the [first crusade to Kalikhat](../lore/kuru-and-the-phoenix.md)**
-  (§5). `[loose]` A **comrade of [Vigil](../lore/kuru-and-the-phoenix.md)** (the
-  mist-warforged), from the same doomed expedition — where Vigil's other fallen
-  brethren ended in the tower basement, Shepard's body **drifted away into a stranger
-  afterlife.**
+  (§5), a **comrade of [Vigil](../lore/kuru-and-the-phoenix.md)** (the mist-warforged)
+  from the same doomed expedition. Where Vigil's other fallen brethren ended up
+  **stockpiled in his tower basement,** Shepard's body **drifted away into a stranger
+  afterlife** (below).
 
 ## The long afterlife of a body
 
@@ -62,6 +66,17 @@
   his **name survives on his plate** while the **person behind it is gone,** and
   everyone who knows what he is values him as a **thing** (stone, glory, a butler)
   rather than a who.
+
+## Vigil knows him — the big reveal 🔒
+
+`[settled]` Shepard and **[Vigil](../lore/kuru-and-the-phoenix.md) were comrades** on
+the first crusade, and the memory runs **one way: Vigil still remembers Shepard;
+Shepard remembers nothing — not even Vigil.** If they ever meet it is a **huge
+reveal:** a friend long dead comes walking into the fog, **resurrected and hollow,** in
+front of the mad holdout who has spent a millennium **keeping his fallen brethren** in
+his basement. `[OPEN]` what Vigil does with that — **grief, recognition, a flash of
+lucidity, a lunge for the stone, or all of them at once** — and whether the encounter
+is how **Shepard first learns who he was.**
 
 ## Open threads
 

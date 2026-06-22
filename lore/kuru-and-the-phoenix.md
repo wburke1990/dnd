@@ -200,6 +200,15 @@ The **newer warforged are numbers only:** more deeply **parasitized** from the m
 they wake, they **tend not to paint a name on their plate at all** — a bare number is
 all there is to them.
 
+`[settled]` **The old guard is nearly gone.** Of the **hundred** first forged, **no
+more than fifteen — probably more like eight — are still around;** the rest are lost
+(and, with them, their irreplaceable stone, §3). A **surviving low-number old-guard
+warforged is therefore an enormous deal** — rare, ancient, and worth a fortune in
+godstone. 🔒 Which is why **[Shepard](../characters/shepard.md) being Warforged 34**
+matters so much: a butler nobody looks at twice is one of the **eight-ish living
+originals.** Even [Aniess](../characters/aniess.md) — an Order operative who knows
+exactly what a lost brethren is worth — would be **stunned** to learn his number.
+
 `[settled]` The names follow a fixed **alphanumeric, license-plate format** — the
 name spelled with digits standing in for letters (A→4, E→3, I→1, O→0, S→5). Twenty
 of the old guard, verbatim:
@@ -242,7 +251,8 @@ swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even th
   Sent on the first crusade, stranded when its colony fell, he fused with the mist to
   survive and has **never stood down.** His name is the tragedy in one word. Full
   treatment below.
-- **Shepard — SH3P4RD.** An old-guard warforged who **died on the first crusade;** his
+- **Shepard — SH3P4RD (Warforged 34).** A deep old-guard original — one of the ~8
+  surviving first-hundred (above) — who **died on the first crusade;** his
   stone-laced body was salvaged down the centuries — a **ship's prow,** then a **town
   statue** — until **Preem resurrected him** as his **butler** and sent him back out
   with **one of his many name-hunting groups** (not the PCs'). He has **lost all
@@ -349,6 +359,11 @@ with no god's voice in their heads.**
   warforged dead — and the godstone — that Kuru's second crusade went back to reclaim**
   (§5): a party sent to recover them finds the lost brethren **fueling the fog,**
   guarded by a maddened holdout who will surrender neither his war nor his men.
+  🔒 `[settled]` **And he remembers Shepard.** [Shepard (SH3P4RD)](../characters/shepard.md),
+  his comrade from this very crusade, did *not* end in the basement — his body drifted
+  off and, ages later, was **resurrected by Preem.** Vigil **still remembers him;
+  Shepard remembers nothing.** If they meet it is a **huge reveal** — a dead friend
+  walking back into the fog, and wide open what Vigil does with him.
   `[OPEN]` whether the mist is **its own rapacious power** (distinct from any
   demon, as in WoT) or tangled with Kalikhat's demon-dealing —
   the campaign already treats **demons as a power apart**.
