@@ -196,12 +196,14 @@ god's voice in their heads.**
   himself that are now just wispy black fog,** a body with holes the mist pours
   through. **Bound to it, he cannot leave** — so he **lures travelers with treasure,
   hoping to steal a living body and escape.** A predator, not a hermit. *(Inspiration: **Aridhol / Shadar
-  Logoth**, the fog **Mashadar**, and **Mordeth** — Wheel of Time.)* `[loose]` Fits
-  Kalikhat's history (the Kali / South-Asian region; **cradle of the Underdark peoples
-  who fled underground after the Bleeding Star and first dealt with demons**,
-  [overview §5](campaign-overview.md)) — a surface city abandoned to the dark when
-  Kalikhat went under. `[OPEN]` whether the mist is **its own rapacious power**
-  (distinct from any demon, as in WoT) or tangled with Kalikhat's demon-dealing —
+  Logoth**, the fog **Mashadar**, and **Mordeth** — Wheel of Time.)* `[settled]` **He
+  is what's left of one of Kuru's first crusades** (§5): the **last survivor of a
+  failed early colony** on [Kalikhat](campaign-overview.md) — **a Jamestown** that
+  set up on the surface not knowing the **deep gnomes, drow, and demons** waiting
+  below, was overwhelmed, and **fought evil with evil** until the city damned itself.
+  Cut off and dying, far from the godstone, he **fused with the mist** to outlast his
+  flesh. `[OPEN]` whether the mist is **its own rapacious power** (distinct from any
+  demon, as in WoT) or tangled with Kalikhat's demon-dealing —
   the campaign already treats **demons as a power apart**.
 - **The snake-skin warforged — the researcher of the snake island.** Another has
   lived on the **snake island** for **a millennium** (older notes say thousands of
@@ -299,6 +301,18 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   🔒 the phoenix's rebirth botched (§4).
 - **The raiding age & the turn (~700–300 ya).** Orc Viking-age resurgence beaten back;
   Kuru ascendant ([Muspel empire](the-muspel-empire.md)).
+- **The first crusades — Kalikhat (`[loose]` dating).** `[settled]` As Kuru rose into
+  a crusading power, it pushed **colonies onto [Kalikhat](campaign-overview.md)** —
+  **not knowing the region's people had fled *underground*** after the Bleeding Star
+  ([overview §5](campaign-overview.md)). The colonists set up shop and ran headlong
+  into the world below: **deep gnomes, drow, and demons** boiling up to meet them.
+  The colonies **failed**, and the catastrophe **triggered Kuru's first rounds of
+  crusades** — the Order of Sunne's holy war exported abroad for the first time, and
+  🔒 likely **Kuru's first real contact with demons.** One of those failed colonies
+  is **a Jamestown that never came home** — its last survivor is the **mist-warforged**
+  still haunting its ruins (§3, *Outside the hive*). *(The present
+  [Musleheim reconquest](the-muspel-empire.md) is a later, larger turn of the same
+  colonial engine — [overview §3A](campaign-overview.md).)*
 - **Now (~1 year to the next pass).** Kuru is the **dominant power** but **weak at sea**
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
   will exploit. The phoenix is openly faltering. And the next pass is its **next
