@@ -24,6 +24,12 @@ So: the **first land** was Lonka, raised by the sea itself to give the
 dragon somewhere to land. Every dragonborn, wherever the tides have
 carried their people, traces back to that peak. **[settled]**
 
+**Golden Lonka, then a caldera.** For the first thousand years (~6,000→5,000 ya)
+Lonka was a round, three-peaked **golden island** — the **center of the world** and the
+dragonborn's **Tyre** — until the Bleeding Star blew it into the **caldera** the zealots
+now hold as **Jotunheim**. That whole arc lives in
+[Lonka / Jotunheim](lonka-jotunheim.md). **[settled — 6/22]**
+
 ## Why it matters at the table
 
 - **Lonka is sacred to both factions.** The insular **zealots** who
@@ -58,8 +64,9 @@ carried their people, traces back to that peak. **[settled]**
   war-state, not the dragonborn (see [the Muspel empire](the-muspel-empire.md)).
   Worth deciding whether Taniyn's myth and the **Ragnarok / Second Foundation**
   catastrophe ([the-second-foundation.md](the-second-foundation.md)) are the
-  same event told twice — and reconciling Lonka-as-Tyre with the region map's
-  tentative **Lonka = Lanka (Ramayana)** read. **[loose]**
+  same event told twice. The **Lanka** read is now *used on purpose* — Golden
+  Lonka, three-peaked Mount Trikuta, and the Ravana-seizure rhyme (see
+  [Lonka / Jotunheim](lonka-jotunheim.md)). **[loose]**
 - A **name and form for Lonka's peak** in zealot cult — is the perch
   itself a shrine, a fortress, a grave?
 

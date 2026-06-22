@@ -79,6 +79,16 @@ It destroyed the Muspel empire and mutated its people into **orcs and half-orcs*
 ~a year out, it is **round 2**: both orders want to control the coming event, and the
 party will have to choose whom — if anyone — to help.
 
+> **`[draft]` The Manichean frame.** A working idea sitting *under* the two Foundations:
+> each Ragnarok is a **contest between a magma demon and a sky dragon**, and the *winner*
+> decides what that pass does — new land and dragons, or sickness and ruin. It makes
+> **demons a power apart from the dragon-descended** (the exception to the
+> common-ancestor rule: almost everyone descends from Taniyn; demons do not). Read that
+> way, the **First Foundation's "control" of a pass is the mortal name for tipping the
+> contest to the dragon** (build land), and Preem binding a **magma demon** to force
+> Ragnarok is **weighting the scale to the magma side** (end the world). See
+> [Lonka / Jotunheim](lonka-jotunheim.md) for where this surfaced.
+
 ## 3. The Founding link — who the Foundationers are
 
 The Second Foundation grew out of the **elves who settled Maalm after the

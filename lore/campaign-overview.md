@@ -142,7 +142,11 @@ These aren't just preferences — several are load-bearing for the themes above.
   Musleheim** through volcanism. The most recent pass (~1,000 years ago) **went
   badly** — it blanketed the continent in an **alchemical, mutating sickness**.
   Sea levels swing dramatically and **islands come and go.** It is a wild,
-  unstable time (and a transformation engine in its own right).
+  unstable time (and a transformation engine in its own right). `[draft]` **A Manichean
+  read:** each pass may be a contest of **magma demon vs. sky dragon**, the winner
+  deciding what that Ragnarok does — which makes **demons a power apart** from the
+  dragon-descended (see [the Second Foundation](the-second-foundation.md) /
+  [Lonka — Jotunheim](lonka-jotunheim.md)).
 - **The clock (campaign present).** The next pass is essentially *now*. The comet
   is **already visible in the sky** — but the players don't realize it is **inbound**;
   it will swing close past the planet on its way back **out**, ~**one year** from
@@ -167,8 +171,8 @@ names, strongly suggestive but unconfirmed]`:
 | Maalm | Egyptian ✓ (established) |
 | Musleheim | Norse — Muspelheim, the realm of fire |
 | Suartleheim (Weet / Eet = West / East) | Norse — Svartalfheim, dark elves / dwarves |
-| Lonka | South Asian — Lanka (Ramayana); *also* the dragonborn holy origin & their Phoenician **Tyre** `[OPEN — reconcile]` |
-| Kalikhat | South Asian — Kali / Hindu? |
+| Lonka (now **Jotunheim**) | Dragonborn holy origin & Phoenician **Tyre**, *fused on purpose* with Ramayana **Lanka** — Golden Lonka, Mt Trikuta, the Ravana-seizure rhyme (see [Lonka / Jotunheim](lonka-jotunheim.md)) |
+| Kalikhat | South Asian — Kali / Hindu?; **cradle of the Underdark peoples** — drow & deep gnomes who fled underground after the Bleeding Star and first dealt with demons `[OPEN — reconcile with Suartleheim/Svartalfheim]` |
 | Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? |
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |
 | Mukka | ? |

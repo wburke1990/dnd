@@ -33,7 +33,7 @@ the event, and to what end, is the hidden lever beneath all the history below.
 | Pass | When | What it did |
 |---|---|---|
 | 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. |
-| 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed. |
+| 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed; **obliterates Golden Lonka into a caldera** (→ Jotunheim) and drives **Kalikhat** underground. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
 | 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VI, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
@@ -54,7 +54,14 @@ the event, and to what end, is the hidden lever beneath all the history below.
 - **The common ancestor.** Taniyn's children fill the world — first on the backs of
   literal dragons, later in dragonborn-crewed boats. Because mutation runs fast on
   Nila, those descendants diversify into the full sprawl of D&D species:
-  **nearly every race is homebrewed as descending from that one dragon.**
+  **nearly every race is homebrewed as descending from that one dragon.** *(The lone
+  exception: **demons**, a power apart — see the Manichean Ragnarok note in the loose
+  ends.)*
+- **Golden Lonka.** For this whole first age Lonka is the **center of the world** — a
+  round, three-peaked **golden island** (Mount Trikuta), holy to all dragonborn and their
+  Phoenician **Tyre**, where the dragons themselves dwell. It will be **obliterated** by
+  the Bleeding Star (§II) and end as the caldera of **Jotunheim** — the full arc in
+  [Lonka / Jotunheim](lonka-jotunheim.md).
 
 *Sources: [Taniyn & Lonka](taniyn-and-lonka.md), [campaign overview §5](campaign-overview.md).*
 
@@ -169,6 +176,16 @@ buried thread: the **Lost Tribes**, scattered colonies of the **Phoenician drago
 conquerors having salted the earth; survivors cling on, half-forgotten, in hidden coves.
 *Source: [the floating fleet](floating-fleet.md).*
 
+### The holy island, lost and retaken
+**Golden Lonka** — the center of the world (§I) — was obliterated by the Bleeding Star
+into a **caldera** (§II). Its sickness drove **Kalikhat** underground, where survivors
+mutated into the **dark elves and deep gnomes** and first dealt with **demons**. More
+than a thousand years on, **elves from Maalm** resettled the caldera as **Jotunheim** —
+until a dragonborn army out of nowhere, the **Lonka Zealots**, massacred them and took
+the holy ground back (rhyming with Ravana's seizure of Lanka). They hold the
+fortress-caldera still, insular and feared; a **Dragon Turtle** guards its bay.
+*Source: [Lonka / Jotunheim](lonka-jotunheim.md).*
+
 ### The world in flux
 The comet passes of ~4,000 / 3,000 / 2,000 ya **raised the island of Musleheim** from
 the sea by volcanism. The most recent pass, **~1,000 ya, went badly** — an
@@ -255,5 +272,8 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[OPEN]` Where half-orc loyalties fall in the present war, and whether the party's path ever crosses the northern front.
 - `[OPEN]` The half-orc Hannibal's name and register; whether his masterstroke was an Alps- or sea-crossing; whether there is a Zama; where his missing fleet went.
 - `[OPEN]` Whether any northern colony survives, what's out on the ice, and how the two Punic threads (orc Hannibal vs. dragonborn Lost Tribes) relate.
+- `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon**, the winner setting what the cataclysm does; demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule).
+- `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
+- `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.
 
 *Companion docs: [campaign overview](campaign-overview.md) is the top-level index; this file is the chronological read of it.*

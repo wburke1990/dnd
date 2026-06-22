@@ -1,0 +1,155 @@
+# Lonka / Jotunheim — Golden Lonka, the Caldera, and the Zealots
+
+> **DM reference.** The full life of the holy island — from **Golden Lonka**, the
+> center of the world and mother-city of the dragonborn, through its **obliteration**
+> in the Bleeding Star, to the drowned caldera the **Lonka Zealots** now hold as
+> **Jotunheim**. This pulls the Ramayana's *Lanka* (a golden city, three-peaked
+> Trikuta, a holy island **seized by force**) onto the dragonborn-holy / Phoenician-Tyre
+> island we already had — and lays out the present-day dungeon. Norse register at the
+> caldera (Jotunheim, the giants' land; Ask & Embla). `[OPEN]` / `[draft]` flag the soft
+> and working bits.
+>
+> Companions: [Taniyn & Lonka](taniyn-and-lonka.md) (the creation myth),
+> [floating-fleet](floating-fleet.md) (Lonka as Tyre), the
+> [world-history timeline](world-history-timeline.md).
+
+---
+
+## 1. Golden Lonka — the center of the world (~6,000 → ~5,000 ya)
+
+For the first thousand years of history, **Lonka was the center of the world.** It was
+[Taniyn's first perch](taniyn-and-lonka.md), holy to every dragonborn, and the
+**mother-city** from which the Phoenician dragonborn colonized the seas — **their Tyre**.
+
+- **Golden Lonka.** A fabled golden city, after the Ramayana's *Swarna Lanka*: opulent,
+  storied, the seat of the dragon-descended at their height.
+- **Three-peaked Mount Trikuta.** A round island crowned by a three-peaked holy mountain
+  (the Ramayana's Trikuta), where the **dragons themselves dwelt.**
+- This is the world of [Section I of the timeline](world-history-timeline.md) — the
+  comet-dragon age, before the Amseh elves of Maalm were anything at all.
+
+---
+
+## 2. BOOM — the Bleeding Star wrecks it (~5,000 ya)
+
+The **Krakatoa-analog eruption** that ended the Amseh golden age (see
+[Amseh dynasty](amseh-dynasty.md)) **obliterated Lonka outright.** The round island and
+its three peaks were blown apart; what was left was a **smoking caldera in the open
+ocean** — a ring-wall of cliffs around a flooded bay whose **center sits below sea
+level.** Rafts of **skeletons and pumice** washed up on every shore for years.
+
+- **Lonka was 100% depopulated.** The center of the world became an empty, smoking ruin.
+- *Map note (the maps aren't in-repo, but for the record):* the island goes from a
+  round, mountained landmass to a **caldera** — the silhouette the present day inherits.
+
+### The Kalikhat fork — the world goes underground
+
+The same disaster's **alchemical sickness** reached neighbouring **Kalikhat**.
+Civilization collapsed there too, but it was not wholly emptied: **survivors fled
+underground**, and in the dark they **mutated fast** (as everything does on Nila) into
+the subterranean peoples — **dark elves, deep gnomes, and their kin** — and, down there,
+**made friends with demons**, perhaps for the very first time.
+
+- `[OPEN]` This makes **Kalikhat the cradle of the Underdark peoples.** Reconcile with the
+  region map's tentative **Suartleheim = Svartalfheim (dark elves / dwarves)** read —
+  maybe Kalikhat is the *origin* and Suartleheim where they later spread.
+- `[OPEN — demon first contact?]` Whether *this* — Kalikhat's underground survivors,
+  ~5,000 ya — is the **first alliance between mortals and demons** is undecided; it is a
+  strong candidate. (Demons are **older** than the elves regardless — see
+  [the Second Foundation](the-second-foundation.md) — so this is the first *pact*, not the
+  demons' origin.)
+
+---
+
+## 3. Jotunheim — the elves resettle the caldera (~4,000 ya → later)
+
+More than a thousand years after the disaster the caldera became **habitable again**, and
+**elves out of Maalm settled it** — so, after [Maalm's founding ~4,100 ya](maalm-founding.md).
+They **renamed it Jotunheim**, the giants' land, in the Norse register of the northern
+seas. For a while it was theirs.
+
+---
+
+## 4. The Zealot Reconquest — the dragonborn come back (later still)
+
+Then **a great army of dragonborn arrived from parts unknown and massacred everyone on
+the island.** These are the **Lonka Zealots** — the insular dragonborn of the
+lost-tribes reclamation quest (*Sam's quest*; see [Blackacre](../characters/blackacre.md),
+who took a letter of marque to raid Lonka and **could not do it**, and
+[Taniyn & Lonka](taniyn-and-lonka.md)). To them this was not conquest but
+**reconsecration** — taking back the dragon's first perch from elf usurpers squatting on
+holy ground (the DM analogy already on file: *the Crusaders retaking Jerusalem*).
+
+They hold it still: **insular, mistrusted by the rest of the archipelago, but safe**
+behind their cliffs amid the chaos of the recent centuries.
+
+### The Ravana rhyme — handles to pull
+
+This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready texture:
+
+- **Rakshasas.** Seed the island and its legends with **shape-shifting, man-eating
+  rakshasas** — a fit for dragon-holy ground gone strange, and for the zealots' own
+  monstrous guardians.
+- **An Ashoka Vatika.** Add the **walled grove** where Ravana held Sita — somewhere in
+  the caldera, beautiful and wrong.
+- **Hanuman's leap = the avenging return.** If the **Maalm elves who colonized the
+  radioactive wasteland read as usurpers**, then the returning dragonborn are the
+  **avengers crossing the sea** — Hanuman / Rama reclaiming the island.
+- **The causeway as a *tunnel*.** Instead of (or beside) a sea-crossing, the invading
+  army may have **walked** — a **tunnel from Muspelheim or Kalikhat** (the Abyss *is* the
+  tunnel-network; see [house rules](house-rules-and-world-mechanics.md)). Opening and
+  holding such a road would likely have needed **demon allies** — threading straight into
+  the demon-first-contact and Manichean-Ragnarok questions below. `[OPEN]`
+
+---
+
+## 5. Present-Day Jotunheim — the dungeon (David's design)
+
+The caldera as it stands now reads like **Moorcock's Melniboné by way of a drowned
+volcano:** an ancient, cruel, insular island-people in a fortress reached by a single
+guarded channel.
+
+- **Sheer cliffs** ring the outside of the caldera; the only way in is a **narrow,
+  heavily defended passageway** into the inner **bay.**
+- **The Dragon Turtle** *(David's note, verbatim):* *"In the bay of Jotunheim there is a
+  Dragon Turtle. The last vestige of the dragons that inhabited the island. The
+  dragonborn control it and it is a last defense for those that might enter the bay
+  without permission."*
+- **The two trees.** At the highest point of the ring-wall stand **two trees — one Ash,
+  one Elm —** which the zealots hold to be the **children of the primordial dragon.**
+  (Our **Ask & Embla**, the first man and woman shaped from ash and elm; here, Taniyn's
+  children — Norse myth bent onto the dragon cosmology.)
+- **The buried first city.** The **actual ruins of the first dragonborn civilization lie
+  underground**, beneath the caldera floor. With **sea level high right now**, their
+  entrances may be **drowned** — reachable only by going *under* the water of the bay.
+- **The heart-stone shards.** Deep in those ruins wait **shards of the heart-stone of the
+  primordial dragon** — Taniyn's own heart, broken in the cataclysm. `[OPEN]` what they
+  are, what they do, and what finding them means.
+
+---
+
+## Open threads & the bigger cosmology
+
+- **`[draft]` Manichean Ragnarok — magma demon vs. sky dragon.** A working frame for the
+  whole comet cycle: **every Ragnarok is a contest between a magma demon and a sky
+  dragon, and who wins decides what that pass does to the world.** This makes **demons a
+  separate power from the dragon-descended** — the great exception to the
+  [common-ancestor rule](campaign-overview.md) (almost everyone else descends from
+  Taniyn; demons do not). It also re-reads Preem: binding a **volcano / magma demon** to
+  *cause* Ragnarok (see [the Second Foundation](the-second-foundation.md)) is **putting a
+  thumb on the magma side of the scale.**
+- **`[OPEN]` Demon first contact** — when mortals first allied with demons; Kalikhat
+  ~5,000 ya is the leading candidate (§2).
+- **`[OPEN]` The causeway** — sea-crossing vs. demon-opened tunnel for the zealot invasion
+  (§4).
+- **`[OPEN]` Lonka = Lanka, resolved-ish** — the Ramayana tag is now *used on purpose*
+  (Golden Lonka, Trikuta, the Ravana rhyme), not a homophone. Still worth deciding how
+  much literal Lanka geography Lonka keeps vs. just its texture.
+- **`[OPEN]` Rakshasas & the Ashoka Vatika** — exactly where they sit in the present
+  caldera (§4).
+
+---
+
+*Companion docs: [Taniyn & Lonka](taniyn-and-lonka.md), [floating-fleet](floating-fleet.md)
+(Lonka as Tyre), [the world-history timeline](world-history-timeline.md),
+[the Second Foundation](the-second-foundation.md) (Ragnarok & demons).*
