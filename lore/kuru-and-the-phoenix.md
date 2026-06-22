@@ -187,16 +187,28 @@ god's voice in their heads.**
 
 - **The wood-warforged.** One has used **Druid magic** to replace his rotting parts
   with **living wood and trees** — a man slowly becoming a grove.
-- **The snake-skin warforged.** Another, on the **snake island,** uses **snake
-  magic** and **sheds their skin periodically** to renew the failing human parts —
-  immortality by molting.
+- **The snake-skin warforged — the researcher of the snake island.** Another has
+  lived on the **snake island** for **a millennium** (older notes say thousands of
+  years; the **island-spirit is itself a giant snake**, [party roster](../characters/party-roster.md)).
+  He uses **snake magic** and **sheds his skin periodically** to renew his failing
+  human parts — **immortality by molting** — and is the island's great researcher of
+  the stones.
 
-`[loose]` This reframes Kuru's whole "warforged" idea as a *condition with many
-materials,* and ties it straight into existing threads: the **snake-island rites**
-and **[Aniess](../characters/aniess.md)'s snake-merging by the Order**
-([overview §3B](campaign-overview.md)) look like **another path to the same end** —
-trading rotting flesh for imperishable serpent. `[OPEN]` whether the snake-island
-warforged is connected to, descended from, or a rival of the Order's snake rituals.
+`[settled]` **He is the source of the Order's snake ritual.** This researcher
+**invented the snake-transformation** and **shared it with the Warforged Crusaders
+of Kuru,** who now use it to remake their recruits and spies into Yuan-ti
+([party roster](../characters/party-roster.md)). That makes him the **origin of the
+ritual that transformed [Aniess](../characters/aniess.md) (Greg's PC)** — and 🔒
+**Aniess does not know it.** A meeting between them is a planned, loaded reveal: the
+man whose work stole her self, living quietly on the island her people can never
+leave. *(He himself is one of the dispersed "Warforged Crusaders" research sect —
+a lost brethren the party is, separately, being nudged to "deliver to Kuru for
+glory.")*
+
+`[settled]` This reframes Kuru's whole "warforged" idea as a **condition with many
+materials,** and proves transformation can be **chosen without being owned** — the
+snake-island variant being the very path the Order weaponized into the
+**snake-merging done *to* recruits** ([overview §3B](campaign-overview.md)).
 
 **Why it matters thematically:** the independents are living proof that
 transformation can be **chosen without being owned** — they took the same bargain

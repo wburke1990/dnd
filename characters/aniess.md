@@ -23,6 +23,8 @@ The Order performed a ritual on Aniess and others in her cohort, merging them wi
 
 This is the Order's version of the Witcher's Trial — the transformation of recruits into something more useful than human. Aniess accepted it because she had no frame of reference for refusing. The Order was all she knew.
 
+🔒 **The ritual's source.** The snake-merging is not the Order's invention. It was created by an ancient warforged researcher who has lived on the **snake island** for a millennium — molting his own skin to stay alive — and who shared it with the Warforged Crusaders. He is the origin of what was done to Aniess, and **she does not know it.** A meeting between them is a planned, loaded reveal. See [Kuru & the phoenix → Outside the hive](../lore/kuru-and-the-phoenix.md) and [party roster](party-roster.md).
+
 This is her first mission outside the compound.
 
 ---
