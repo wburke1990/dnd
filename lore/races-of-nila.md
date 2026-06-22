@@ -1,49 +1,48 @@
 # Races of Nila — Distribution by Region
 
-*Where the peoples of Nila live. Verbatim capture of the residency table. Region
-spellings are inconsistent in the source and need canonicalizing — see the note at
-the bottom.*
+*Where the peoples of Nila live. Region names normalized to the **map spellings**
+(per Will): Musleheim, Suartleheim, Kalikhat, Kuru, Lonka. A couple of names have no
+clean map match yet — see the note at the bottom.*
 
 ## Dominant Races
 
 | Race | Residency | Key Notes |
 |---|---|---|
-| Human | Inhabit Kuru, Kalikhat, Novo Karanuku and Muselheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Muselheim. | Found across Nila in all types of roles. No defining history/traits/etc. |
-| Dwarf | Primarily inhabit Suartlehaim and Kalikaht, but found in almost all parts of Nila sans Jotunheim and the Orc lands of Mselheim. | Found across Nila and especially in areas where mining is found. |
-| Elf | Inhabit Kuru, Kalikhat, Novo Karanuku and Muselheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Muselheim. | |
-| Half-Elf | Inhabit Kuru, Kalikhat, Novo Karanuku and Muselheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Muselheim. | |
-| Orc | Inhabit Muselheim. | |
-| Half-Orc | Primarily inhabit Muselheim, but found in almost all parts of Nila sans Jotinheim. | |
+| Human | Inhabit Kuru, Kalikhat, Novo Karanuku and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | Found across Nila in all types of roles. No defining history/traits/etc. |
+| Dwarf | Primarily inhabit Suartleheim and Kalikhat, but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | Found across Nila and especially in areas where mining is found. |
+| Elf | Inhabit Kuru, Kalikhat, Novo Karanuku and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | |
+| Half-Elf | Inhabit Kuru, Kalikhat, Novo Karanuku and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. | |
+| Orc | Inhabit Musleheim. | |
+| Half-Orc | Primarily inhabit Musleheim, but found in almost all parts of Nila sans Jotunheim. | |
 
 ## Other Races
 
 | Race | Residency |
 |---|---|
 | Halfling | Primarily seafaring, can be found at most ports of call |
-| Gnome | Inhabit Kuru, Kalikhat, Novo Karanuku and Muselheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Muselheim. |
+| Gnome | Inhabit Kuru, Kalikhat, Novo Karanuku and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. |
 | Deep Gnome | Primarily inhabit Kalikhat, but can be found in almost all parts of Nila sans Jotunheim. |
-| Tiefling | Primarily inhabit Muselheim, but can be found in almost all parts of Nila sans Jotinheim. |
+| Tiefling | Primarily inhabit Musleheim, but can be found in almost all parts of Nila sans Jotunheim. |
 | Drow | Primarily inhabit Kalikhat, but can be found in almost all parts of Nila sans Jotunheim. |
-| Goblin | Inhabit Muselheim. |
-| Hobgoblin | Inhabit Muselheim. |
-| Bugbears | Inhabit Muselheim. |
+| Goblin | Inhabit Musleheim. |
+| Hobgoblin | Inhabit Musleheim. |
+| Bugbears | Inhabit Musleheim. |
 | Dragonborn | Inhabit Jotunheim, but can be found in almost all parts of Nila (concentrating in Minor Karanuku). |
-| Tabaxi | Inhabit Kuru, Kalikhat, Novo Karanuku and Muselheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Muselheim. |
-| Githyanki | Primarily inhabit Muselhiem, but can be found in almost all parts of Nila sans Jotunheim. |
-| Harengon | Inhabit Kuru, Kalikhat, Novo Karanuku and Muselheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Muselheim. |
-| Kenku | Primarily inhabit Muselhiem, but can be found in almost all parts of Nila sans Jotunheim. |
-| Triton | Primarily inhabit Makkku and coastal lands, but can be found in almost all parts of Nila sans Jotunheim and the Orc lands of Muselheim. |
-| Warforged | Primarily inhabit Kuru and Muselheim. |
+| Tabaxi | Inhabit Kuru, Kalikhat, Novo Karanuku and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. |
+| Githyanki | Primarily inhabit Musleheim, but can be found in almost all parts of Nila sans Jotunheim. |
+| Harengon | Inhabit Kuru, Kalikhat, Novo Karanuku and Musleheim (eastern and western coasts), but found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. |
+| Kenku | Primarily inhabit Musleheim, but can be found in almost all parts of Nila sans Jotunheim. |
+| Triton | Primarily inhabit Makkku and coastal lands, but can be found in almost all parts of Nila sans Jotunheim and the Orc lands of Musleheim. |
+| Warforged | Primarily inhabit Kuru and Musleheim. |
 
 ---
 
-## `[OPEN — canonical spellings]`
+## Notes / still open
 
-The source spells several regions inconsistently. Pick one canonical form for each
-and I'll normalize this table (and the rest of `lore/`) to match:
-
-- **Musleheim** (map) / **Muspelheim** (timeline) / **Muselheim** / **Mselheim** / **Muselhiem**
-- **Jotunheim** / **Jotinheim** (and **Jotenheim** elsewhere)
-- **Suartleheim** (map) / **Suartlehaim**
-- **Kalikhat** / **Kalikaht**
-- **Novo Karanuku** / **Minor Karanuku** / **Makkku** (and the map's **Moku/Noku Kurunatuka**, **Mukka**) — confirm which of these are the same place.
+- **Normalized to map spellings:** Musleheim, Suartleheim, Kalikhat.
+- `[OPEN]` **Jotunheim** is used here for the dragonborn homeland, but it isn't a map
+  label — the map names the dragonborn island **Lonka**. Reconcile (same place? two
+  places?).
+- `[OPEN]` **Novo Karanuku / Minor Karanuku / Makkku** don't match map labels either
+  — the map has **Moku Kurunatuka**, **Noku Kurunatuka**, and **Mukka**. Confirm which
+  table name corresponds to which map name.
