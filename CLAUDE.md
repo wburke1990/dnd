@@ -37,6 +37,18 @@ for `/usr/bin/find` as a workaround — that bypasses the allowlist and
 blocks on mobile. Investigate the actual flag/quoting issue instead, or
 add the absolute-path variant to `.claude/settings.json` explicitly.
 
+**Search with `rg`, never `find … -exec`.** To search file *contents*,
+use `rg` (ripgrep) — it's allowlisted and prompt-free. `find … -exec`,
+escaped grouping `\( … \)`, and the `\;` terminator are constructs the
+permission analyzer can't statically vet (same bucket as heredocs), so
+they prompt *regardless* of any allowlist entry — which hangs a mobile
+session. There are `find * -exec …` lines in `.claude/settings.json`,
+but they don't reliably fire for these forms; don't trust them. Reach
+for `rg` instead: `rg -l "pat1|pat2" -g '*.md' <dir>` lists matching
+files, `rg -t lua …` filters by type, `rg --files -g '*.lua'` replaces
+`find -name`. Only when you genuinely need filesystem predicates
+(`-mtime`, `-size`) is `find` right — then pipe to `xargs`, don't `-exec`.
+
 **Never use `cd`** — the sandbox blocks it. Use absolute paths or
 tool-native flags:
 - `uv --directory /Users/wcb/personal/dnd/scripts run <cmd>`
