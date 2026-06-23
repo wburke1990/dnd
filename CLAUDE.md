@@ -23,6 +23,40 @@ and a wide list of Bash commands (including `rsync`, `luacheck`,
 freely. Flag before adding tools or network calls that would need *new*
 prompts.
 
+**Don't use the per-session memory system in this repo.** It's stored
+under `~/.claude/…` on a single machine, and the user works across
+multiple devices — so a memory written on one device is invisible on the
+others. All durable guidance about how to work here belongs in *this
+file* (`CLAUDE.md`), which is checked into the repo and syncs everywhere.
+If you learn something worth remembering across sessions, add it here.
+
+### Working style & preferences
+
+- **The user never reads or reviews code** — a deliberate "delegate all
+  code judgment to the agent" experiment. They haven't written Lua and
+  consider code-level trade-offs over their head. So: own implementation
+  decisions end-to-end (config strategy, which files to touch, lint
+  scope) — don't surface a menu of code options to adjudicate. Frame what
+  you did around their *goals* (save stability, no mid-game crashes,
+  don't rewrite the OneWorld mod's working scripts), and explain in
+  **plain English**, never by asking them to read a diff. Clarifying
+  questions about *intent/goals* are welcome; questions forcing a choice
+  between implementations are not.
+- **Make decisive judgment calls under a clear directive.** When intent
+  is unambiguous ("do it", "your call", "no flag") but details are
+  unspecified (defaults, paths, placeholder values, minor semantics),
+  pick a defensible option, note it briefly, and offer to revise — don't
+  stall on a sub-question. Only pause when the choice is materially
+  load-bearing or hard to reverse.
+- **Poetry is first-class campaign content.** The user loves poetry and
+  uses poems throughout the Maalm/Nila campaign as in-world artifacts
+  (grave inscriptions, "ancient scrolls"). Save pasted poems **verbatim**
+  into `handouts/` — line breaks and indentation preserved (fenced code
+  block) — with real-world attribution (author + dates + title) in the
+  file's note. Trim only obvious non-content (share/embed chrome); flag
+  suspected transcription typos rather than silently fixing. Copyright
+  isn't a concern (TTS Workshop is free-to-download).
+
 **Write commit messages to a temp file and use `git commit -F`, not a
 `<<EOF` heredoc.** Heredocs (and other constructs the permission engine
 can't statically analyze) trigger a prompt that blocks on mobile. So:
@@ -48,6 +82,22 @@ for `rg` instead: `rg -l "pat1|pat2" -g '*.md' <dir>` lists matching
 files, `rg -t lua …` filters by type, `rg --files -g '*.lua'` replaces
 `find -name`. Only when you genuinely need filesystem predicates
 (`-mtime`, `-size`) is `find` right — then pipe to `xargs`, don't `-exec`.
+
+**Roll dice with `python3 -c`, never `$((RANDOM))`.** Arithmetic
+expansion of a non-literal variable (`echo $(( (RANDOM % 20) + 1 ))`) is
+a construct the permission analyzer can't statically vet — same bucket as
+heredocs — so it prompts and hangs a mobile session. `jot` exists on
+macOS but isn't allowlisted, so it prompts too. `python`/`python3` *are*
+allowlisted, and a literal `-c` string has nothing for the analyzer to
+choke on:
+`python3 -c "import random; print(random.randint(1,20))"` (adjust bounds
+per die). Use it for any roll — encounters, attacks, saves.
+
+**Append to files with the `Write`/`Edit` tools, not shell redirection.**
+`printf … >> file` / `echo … >> file` route through the command analyzer,
+which flags any string containing `$((…))`, backticks, or `[…]` (even
+single-quoted, even though it's just text) and prompts. The file tools
+never touch the analyzer, so they're prompt-free regardless of content.
 
 **Never use `cd`** — the sandbox blocks it. Use absolute paths or
 tool-native flags:
