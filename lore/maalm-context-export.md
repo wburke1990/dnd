@@ -22,14 +22,21 @@ approaches a hidden cistern.**
 
 ## 2. Society & politics  [settled unless noted]
 
-- **Elf elite** over a varied population; **men are barred from the gated upper city.**
-- The **ruling council is exclusively elves** — but **not** identical to the Second
-  Foundation; there is an **independent faction** on the council too.
+- **Three-tier by descent:** **founder-blood elves** (descendants of the Twelve)
+  live behind the gate in the walled upper city; **common elves and all other
+  races** share the mixed lower city; **non-elves are barred from the founders'
+  quarter,** save rare exception. The line is **lineage, not species.**
+- The **ruling council is exclusively elves**, with **X seats reserved for
+  founder-blood lineages** (tied to the Twelve; several lines have thinned) and
+  the rest open to risen common elves — so it splits **old blood vs. the rest**,
+  the **independent faction** that is **not** identical to Preem's Second Foundation.
 - **Preem** (Second Foundation chair) sits **close to power** — his tower is in the
-  citadel beside the council — **but does not control it.** That gap is built-in intrigue.
+  citadel beside the council — **but does not control it:** the **newer cabal can't
+  crack the hereditary founder seats.** That gap is built-in intrigue.
 - 🔒 **[loose]** The *real* spine of power is **whoever controls water (the cistern-keeper
-  caste) and fertility (the seabird-wardens / guano stores)** — likely a caste/guild/temple
-  wrapped in religion. Undeveloped; a strong next thread.
+  caste) and fertility (the seabird-wardens / guano stores)** — **likely the founder
+  lineages themselves,** since the Twelve built over the tomb and the cisterns lie in
+  those same upper tunnels. Caste/guild/temple wrapped in religion; a strong next thread.
 
 ## 3. Physical geography (Petra model)  [loose — built on Petra]
 

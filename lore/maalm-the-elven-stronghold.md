@@ -19,26 +19,47 @@ Discord brainstorm. Companion to the deep-history piece
   **Beowulf's** twelve companions, and the old families who followed them in.
   **[settled]** (See [Maalm: The Founding Story](maalm-founding.md).)
 
-## The gated upper city
+## The gated upper city — the founders' quarter
 
-- The **upper portion of the Maalm map** is **all gated, with gardens.**
+- The **walled northern section of the Maalm map** is **all gated, with gardens.**
   **[settled]**
-- This is where the **old guard live** — the families who have been there since
-  the founding of Maalm by the elves.
-- **Non-elves are not allowed within those gates.** **[settled]** The gardens
-  and the gate are the visible line between Maalm's deep-rooted elven elite and
-  everyone else in its varied population.
+- It is a **gated community of the founder-blood elves** — the **oldest families,
+  who descend from the Twelve** (Beowulf's companions who raised Maalm over the
+  ruins; see [the founding](maalm-founding.md)). This is the hereditary
+  aristocracy. **[settled]**
+- **The line is descent, not species.** Elf-ness alone does not buy the gate —
+  **founder lineage does.** The **rest of Maalm is a mixed city** where every
+  race lives together, **common (non-founder) elves included.** So Maalm is
+  **three-tier:** founder-blood elves (behind the gate) → common elves + all
+  other races (the mixed city) → **non-elves barred from the quarter entirely,
+  save rare exception.** **[settled]**
+- The gate is the **visible monument to ownership-by-name** — the families who
+  "own" Maalm because they descend from the ones who built it (the
+  names-&-ownership thesis at city scale; see
+  [overview §2](campaign-overview.md)).
+- **[loose]** Whether a **common (non-founder) elf** may *enter* the quarter
+  (just not live or own there) or is kept out like everyone else — settle for
+  table clarity.
 
 ## Who rules
 
 - The **council that runs Maalm is exclusively elves.** **[settled]**
-- But the council is **not** simply the Second Foundation. **Not all councillors
-  are from Preem's Foundation group** — Maalm has an **independent
-  faction / leadership outside the Second Foundation.** **[settled]**
+- **Seats are split — old blood vs. the rest.** A number of seats, **X**, are
+  **reserved for the founder-blood lineages** (the gated quarter's houses); the
+  rest are open to **risen common elves.** **[loose — set X]** The natural number
+  is **twelve, one per founding companion's line — but several lines have died
+  out or thinned,** leaving **more reserved seats than surviving houses:** vacant
+  and contested seats, last-heir successions, and fights over who certifies a
+  bloodline.
+- This is what canon already gestured at — the council is **not** simply the
+  Second Foundation. **Preem's [Second Foundation](the-second-foundation.md) is
+  the newer power that cannot crack the hereditary founder seats,** which is
+  exactly why he **sits close to power but does not control it.** Read it as a
+  **three-way council: the founder bloc / the risen common-elf faction / Preem's
+  cabal.** **[settled]**
 - The cabal's chair, [Preem](../characters/preem.md), is **close to the seat of
   power** — his tower sits in the citadel beside the council — **but does not
-  control it outright.** That gap (Foundation vs. independent council) is a
-  built-in source of intrigue. **[settled]**
+  control it outright.** That gap is a built-in source of intrigue. **[settled]**
 
 ## The citadel & the tower
 
@@ -160,6 +181,12 @@ to the players in the opening session). **[settled]**
 - Control of **water (the cistern-keepers)** and **fertility (the seabird-wardens and
   guano stores)** is the **real spine of Maalm's hierarchy:** beneath the council and the
   gated upper city sits **whoever controls the cisterns and the guano.** **[loose]**
+- **The unifying move (likely):** the **founder-blood lineages *are* the families
+  that hold the cisterns.** The Twelve **built Maalm over the tomb — and the
+  cisterns lie in those same upper tunnels** (below). So the **reserved council
+  seats aren't ceremonial heritage; they're the bloodlines that hold the keys to
+  the water.** Hereditary power and water power become **one and the same** — the
+  gate, the seats, and the cisterns three faces of a single elite. **[loose]**
 - The two iron laws are the **visible tip of a sacred ecological order,** likely wrapped
   in religion — a natural seat of elven-elite power, and a pressure point. **[loose]**
   Which caste / guild / temple holds the cisterns and the seabird-cliffs, and how it
@@ -169,12 +196,25 @@ to the players in the opening session). **[settled]**
 ## Hooks & open threads
 
 - **The gate as a wall to test.** Non-elf PCs (e.g. the Dragonborn
-  [Blackacre](../characters/blackacre.md)) are barred from the upper city — a
-  ready source of friction, and a reason to need elven patronage like Preem's.
+  [Blackacre](../characters/blackacre.md)) are barred from the founders' quarter —
+  a ready source of friction, and a reason to need elven patronage like Preem's.
+  And **even common elves** hit the wall: elf blood isn't enough, only founder
+  blood — which stings in its own way.
+- **The rare exception.** Entry is barred *save rare occasion* — the in-world
+  lever by which the **party could be granted entry** to the quarter for a
+  session (a summons, a patron, a festival, a crime to answer for).
+- **Proof of lineage.** Founder claims rest on **genealogy — which can be forged,
+  bought, or hidden.** A commoner — or even a *non-elf* — who turns out to carry
+  founder blood is a names-&-ownership bomb. Who certifies a bloodline, and what
+  that power is worth, is open.
+- **Dying houses.** A reserved seat with **no clear heir** → succession fights, a
+  last heir to protect or exploit, and **what Preem will pay** to place a friendly
+  elf in an empty founder seat.
 - **Council intrigue.** The independent faction outside the Foundation is a
   natural ally for a party that turns against Preem.
-- **Loose:** the names of the old families, the council's seats, and how openly
-  the Second Foundation operates within it (sankaku/DM to develop).
+- **Loose:** the **names of the Twelve's surviving houses,** the **count of
+  reserved seats (X) and how many lines still fill them,** and how openly the
+  Second Foundation operates within the council (DM to develop).
 - **The iron laws as landmines.** Both laws are easy to break unknowingly — a hungry PC
   shoots a seabird; someone stumbles onto a cistern — and breaking either is a fast, vivid
   way to feel Maalm's ruthlessness. Strong early-session tension. **[settled]**
