@@ -99,6 +99,18 @@ which flags any string containing `$((…))`, backticks, or `[…]` (even
 single-quoted, even though it's just text) and prompts. The file tools
 never touch the analyzer, so they're prompt-free regardless of content.
 
+**Use literal absolute paths in Bash, not shell variables — and avoid
+`jq -f`.** Two more analyzer traps that prompt *regardless* of allowlist
+(so they hang a mobile session). (1) Assigning a path to a variable and
+expanding it (`SAVE="…/TS_Save_19.json"; mv "$SAVE" …`) makes the
+analyzer unable to statically resolve the target, so it prompts even
+though `mv:*`/`cp:*` are allowlisted. Write the absolute path inline in
+every command instead — yes, even when it's long and repeated. (2) `jq`'s
+`-f program.jq` flag is flagged as "dangerous" and prompts even though
+`jq:*` is allowed; pass the program inline as a single-line `jq '…'`
+string (no embedded newlines, no `#` comments) instead. Both are the same
+"static-vetting" bucket as heredocs and `$((…))`.
+
 **Never use `cd`** — the sandbox blocks it. Use absolute paths or
 tool-native flags:
 - `uv --directory /Users/wcb/personal/dnd/scripts run <cmd>`
