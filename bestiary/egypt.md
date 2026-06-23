@@ -36,6 +36,51 @@ for killing or eating them carelessly.
 
 ---
 
+## Running an encounter
+
+The party keeps **Speak with Animals** up, so every roll is a *conversation*,
+not just a stat block. Resolve each encounter in three quick beats.
+
+**1 · Detection — who gets the drop?**
+One player roll against static numbers (no extra dice for the beast unless you
+want drama):
+- **Party active Perception** vs the beast's **passive Stealth** (= 10 + its
+  Stealth bonus) → do they spot a hidden/ambushing beast first?
+- The beast notices *them* on its **passive Perception** (= 10 + its WIS
+  modifier) vs the party's Stealth (or passive Perception if they aren't
+  sneaking).
+- A side that's **unaware while the other is aware and acts** is **surprised**
+  (loses its first turn). If both are aware, roll initiative normally; if
+  neither, it's a mutual "oh!" at close range — no surprise.
+- Only roll the beast's Stealth/Perception *live* when the drama wants a swing
+  (a coiled ambusher, a wary mythic). Otherwise lean on the passives above.
+
+**2 · Disposition — roll 2d6 reaction.** This seeds the RP:
+
+| 2d6 | Mood | What it looks like |
+|----:|------|--------------------|
+| 2 | **Hostile** | Territorial/spooked. *Scale to the creature:* a small beast bristles, threatens, and flees if pressed — it only claws when cornered. A large predator or fiend may actually attack. |
+| 3–5 | **Wary** | Wants distance. Posturing, warning displays, edging to escape. Won't start a fight but won't be approached. |
+| 6–8 | **Uncertain** | Watchful standoff. Neither friend nor foe — it mirrors what the party does next. |
+| 9–11 | **Curious** | Approachable. Will parley, can be won over with food, space, or respect. |
+| 12 | **Favorable** | Helpful. May share, lead somewhere, or grant its boon freely. |
+
+*Modifiers (DM's eye):* offering food or backing off **+2**; drawn weapons,
+blood, or crowding it **−2**; bloodied/cornered **−2**. A successful CHA
+(Animal Handling) check during the Speak-with-Animals exchange can nudge the
+mood **one step** kinder.
+
+**3 · Roleplay the beast.** Give it one want and a voice, then play the
+conversation off the reaction roll. For the **mythological beasts (10–20)**,
+this is where the stakes live: most carry a **BOON** for the right interaction
+and a **CURSE** for killing or eating them carelessly (see each entry). The
+reaction roll tells you how willing it is to *let* the party earn the boon.
+**Mundane beasts (1–9)** have no boon/curse — they're safe to hunt or eat —
+so their encounters are about whether the party spends the kill or earns the
+moment.
+
+---
+
 ## Mundane Beasts (1–9)
 
 ### 1 · Nile Crocodile
