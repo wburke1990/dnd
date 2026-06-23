@@ -42,6 +42,12 @@ approaches a hidden cistern.**
 
 - **Desert basin ringed by sandstone cliffs,** entered through a **narrow defensible
   gorge** (a Siq).
+- **An engineered oasis — green within, dead without.** Fed by km of underground water
+  infrastructure + guano, Maalm is **lush**: 1,000-year fruit trees, ancient vines, a
+  canopy + sea breeze making its **own cool damp microclimate.** The green **stops dead
+  at the city edge** ("San Francisco" line) — past it, the rain-shadowed desert of
+  [the drying of the valley](the-drying-of-the-valley.md). The big standing biomass is
+  **what the guano is for.** **Canals = sea water** (tidal), not the precious fresh.
 - **Cliffs are honeycombed:** the **Amseh tombs (Valley of the Kings)** are cut into them,
   and much of the city is **carved rock,** not built. The **bare highland rock above is the
   catchment** — it sheds rain into the channels.
@@ -50,8 +56,9 @@ approaches a hidden cistern.**
 - **Terraces = check-dams + stone retaining walls** stepped across the wadis and up the
   slopes: each **slows the flood, traps fertile silt, holds water,** so a flash flood
   becomes a **staircase of soaked, fertilized fields.**
-- **Gated upper-city gardens** = the elite's, **watered from the cisterns** (water
-  inequality: beauty uphill, rationing downhill).
+- **Lushness is a gradient of wealth:** the whole oasis is green, but the **founder
+  quarter holds the deepest cool canopy + oldest trees** (cool damp shade as conspicuous
+  privilege) while commoners ration — subtler than green-elite/barren-poor.
 
 ## 4. The deep — the tunnels & Ammit's tomb  [settled core, [loose] detail]
 
@@ -86,7 +93,8 @@ approaches a hidden cistern.**
 
 - **Green marvel vs. ruthless survival:** the world's most sophisticated closed-loop city,
   held up by brutal law on land they already exhausted. *Stewardship or desperation?*
-- **Water inequality** (elite gardens vs. commoner rationing).
+- **Water inequality as a lushness gradient** (deep cool founder canopy vs. commoner
+  rationing — the whole oasis is green, but the deep shade is the elite's).
 - **Guano = wealth + *casus belli*** (hoarding, black market, guano wars, hunger for new land
   / the Kurunatukas).
 - **Seabirds one bad season from collapse** (disease / overfished waters / climate swing /

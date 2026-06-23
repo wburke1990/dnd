@@ -77,6 +77,21 @@ Discord brainstorm. Companion to the deep-history piece
 the city is **carved rock** rather than built. The bare highland rock above is the
 **catchment:** it sheds every rare rain straight into the channels.
 
+**The oasis — green within, dead without.** **[settled]** Despite the desert, Maalm is
+**lush** — an **engineered oasis** fed by kilometres of **underground water
+infrastructure** (the cisterns and channels below) and **guano fertility.** Picture
+**manicured fruit trees a thousand years old, ancient vines smothering the carved-rock
+facades, perfectly tended gardens in every home.** That standing canopy makes its **own
+cool, damp microclimate** — and with the **sea breeze** off the peninsula it keeps the
+city green where the land has no business being. So the green **stops abruptly at the
+city's edge** (a "San Francisco" line): step past the gardens and the **dead,
+rain-shadowed desert** of [the drying of the valley](the-drying-of-the-valley.md)
+resumes at once. **Maalm is a human-made island of life in a dead land** — which is
+exactly why the **water and guano that sustain it are guarded by the two iron laws,**
+and why losing either is existential. (It also answers "why so much guano?": that vast
+standing biomass is what consumes it.) The **canals are sea water** — tidal channels for
+transport and cooling, **not** the precious fresh water, which stays underground.
+
 **Where the good land is — the wadi floors and terraces.** In a desert the arable land is
 **wherever water and silt collect:**
 - The **wadi floors** (seasonal flood-channels) and the **lowest terraces** hold the
@@ -87,9 +102,11 @@ the city is **carved rock** rather than built. The bare highland rock above is t
   soaks in instead of tearing through. Flood water **cascades terrace to terrace,** giving up
   silt and moisture at each step — turning a destructive flash flood into a **staircase of
   soaked, fertilized fields.**
-- **The gated upper-city gardens** (above) are the privileged exception: **lush, ornamental
-  ground watered from the cisterns** while the working terraces below feed the city — **beauty
-  uphill for the elite, rationed water downhill for everyone else.**
+- **Lushness is a gradient of wealth.** The whole city is green, but not equally: the
+  **founder houses command the deepest, coolest, dampest canopy** — the oldest trees,
+  the thickest vines, **cool damp air as conspicuous privilege** — while the working
+  terraces and commoner gardens make do on **tighter water rationing.** Beauty
+  everywhere; the **deep shade is the elite's.**
 
 **The deep — the tunnels and Ammit's tomb.** **[settled core, [loose] detail]** Maalm's
 water does not stand in open pools to **evaporate;** it runs and rests **underground,** in the
@@ -229,9 +246,11 @@ cuts both ways, admirable and damning at once.)*
   **brutal law, a rigid caste,** and the fact that they **already exhausted their land** —
   Maalm clings to spent soil by sheer ruthless control. **Stewardship or desperation?** is
   the question to put to the table. **[settled]**
-- **Water is unequal.** The **gated upper city's gardens** drink from the hidden cisterns
-  while the commoners ration — **beauty for the elite, scarcity for the rest.** Classic
-  eco-injustice to notice (and for Sarric to rage at). **[loose]**
+- **Water is unequal — as a gradient of lushness.** Not green-elite vs. barren-poor
+  (the whole oasis is green); rather the **founder quarter holds the deepest cool canopy
+  and the ancient trees** while commoners ration and keep humbler greenery — **cool damp
+  shade as conspicuous wealth.** A subtle, crueler eco-injustice for Sarric to rage at.
+  **[settled]**
 - **Guano is wealth — and a *casus belli*.** Guano is so precious it invites **hoarding, a
   black market, smuggling, even war** (cf. our own guano wars). A natural driver of
   **Maalm's hunger for new land** — fresh seabird cliffs, or the fertile
