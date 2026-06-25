@@ -49,6 +49,10 @@ extend-exclude = [
     # content (Borbold's OneWorld code, user-given nicknames). Our own
     # edits in here are small and unlikely to introduce real typos.
     "**/tts/lua/**",
+    # Map-import inventory: a catalog of verbatim user-given TTS bag
+    # nicknames (Bottem, Cript, Labrynth, Carrage, …) — kept exact because
+    # the OneWorld import keys on the literal nickname. Not prose to fix.
+    "**/tts/one-world-maps-inventory.md",
     # Test fixtures contain the literal OneWorld "_OW_aBaG_..." prefix,
     # which typos parses as a/Ba/G and flags Ba as a typo of By/Be.
     "**/scripts/tests/test_import_ow_map.py",
