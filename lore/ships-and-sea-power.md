@@ -58,6 +58,12 @@ hard crew are worth more than any letter of law. (Kuru's **land-rush** wealth
 and the Musleheim war-supply line are the *richest* targets, but they ride the
 same hired, under-protected bottoms as everyone else.)
 
+**Where traders *won't* go:** Khalikhat (demons), Jotunheim (the Zealots and the
+Dragon Turtle), and Muspelheim **beyond its war-coast** — the rest of that island
+is hostile orcs and mutant beasts. The Kuru-held **war-coast** is the *one* Muspel
+landfall traders make (supplying the war); its candidate ports — **Tunica,
+Tripoca, Sevica** — are `[TBD — freaky stuff planned]`.
+
 ## How it got this way — the orc sea falls, new land rises
 
 For ~300 years the **Muspel orcs** ruled Nila's water on their longships. Two
