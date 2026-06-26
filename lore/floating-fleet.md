@@ -142,8 +142,15 @@ treat any ancestral echo as deep myth, not live politics.
 
 A standing quest seam from 5/28, and a **separate thread from the Sea Peoples
 above** — this is the **dragonborn** colonial diaspora, not the northern
-refugees. **Dragonborn are the Phoenicians of Nila** — the **trade-and-colony**
-people, not a war-state. Their mother-city is **Lonka, their Tyre**: at once the
+refugees. **`[DM ruling — Will, 6/26]` These Bronze-Age Phoenician dragonborn
+are the ancestors of today's *solitary wandering dragonborn*** (Blackacre's
+kind — see [wandering-dragonborn.md](wandering-dragonborn.md)): the
+trade-and-colony seafarers of 5,000 years ago dwindled, over the Ragnaroks
+since, into the scattered lone roamers of the present. The halfling **Floating
+Fleets are not their descendants** — a separate people entirely. (This makes the
+"lost tribes" really a *wandering-dragonborn heritage* thread; it may want to
+move to that file.) **Dragonborn are the Phoenicians of Nila** — the
+**trade-and-colony** people, not a war-state. Their mother-city is **Lonka, their Tyre**: at once the
 holy first-perch of Taniyn (see [taniyn-and-lonka.md](taniyn-and-lonka.md))
 *and* the metropolis their colonists scattered from across the seas. Somewhere
 out among those colonies is a **ruined ancient dragonborn settlement** in the
