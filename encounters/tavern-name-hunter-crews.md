@@ -123,6 +123,56 @@ recognition of Aniess can land as threat *or* as the only sympathy in the room.
 
 ---
 
+## Getting around Nila — how each crew moves
+
+In Nila almost nobody owns their own mobility. The sea gives food, hide, and
+bone but **never wood**, so every hull depends on two chokepoints: the
+**Floating Fleet's** timber-runs and the rare **druid-shipwrights** who grow
+and mend wood, and **Mukka**, the Tortuga-style pirate haven whose mercenary
+letters-of-marque ferry every kingdom's dirty work across the water. With the
+comet barely a year out, crossing the archipelago *fast* is the whole game —
+and how each crew moves is a clean read on what it is.
+
+- **The party — they own their mobility, and that's the secret power.**
+  Blackacre's commandeered lashed-hull sloop: small, fast, quiet, shallow
+  enough to slip into island sites, just big enough for five. No charter, no
+  Mukka debt — because **Blackacre *is* the scarce resource**, druid-shipwright
+  *and* pirate-navigator in one hull. Every other crew rents what the party
+  carries for free. A quiet edge, and a target: everyone in Nila wants what
+  Blackacre is. It also makes every port a backstory minefield — those are
+  Mukka/Fleet waters, where Sayid and his people sail.
+
+- **The Lapis Writ — they buy it.** Founder-blood Maalm elves are *desert*
+  aristocrats, not sailors; they don't crew a boat, they **charter** one. Their
+  expedition rides a hired **Mukka letter-of-marque ship** under a pirate
+  captain who serves coin, not names. Money buys a bigger hull, hired hands,
+  and speed — which is exactly *why they finished the Valley first*. The
+  weakness inside the strength: the whole expedition floats on a mercenary's
+  loyalty, and a mercenary can be outbid, flipped, or bought — by the party, by
+  Preem, or by Sayid.
+
+- **The Brass Jackals — it's killing them.** Broke Kuru freelancers with a
+  cheap, rotting hull, no druid to mend it, and no coin for a Fleet timber-run
+  — so they patch it with tar and prayer, fall a berth behind every leg, and
+  likely owe a Mukka ship for passage they can only pay off in names. They are
+  the crew whose boat is *literally dying for want of the one thing Blackacre
+  is* — the clearest way to show the table what Blackacre's gift is worth, and
+  the most concrete face of "the quest costs more than it pays."
+
+**Hazards differ by route.** The northwest lanes toward Lonka/Jotunheim mean
+the **Lonka Zealots** and the **Dragon Turtle** in the caldera bay; open
+crossings mean pirates and the comet-cycle's swinging weather and volcanic
+flux. A crew's route tells you which danger it's been eating.
+
+**Travel hooks.** (1) *Blackacre-as-target:* any crew or faction that learns a
+druid-shipwright sails with the party has reason to court, hire, rob, or
+press-gang him. (2) *The Writ's pirate captain* is a flippable, coin-loyal
+non-mirror NPC the party can turn. (3) *The Jackals' dying hull* is a mercy
+hook: does Blackacre fix a rival's boat? Doing so is kindness *and* keeps a
+doomed crew in Preem's machine — the same complicity trap as the missing names.
+
+---
+
 # Hold for a later tavern (next city)
 
 ## The Ashfoot — *the wreckage (where the road ends)*
@@ -133,6 +183,13 @@ a later city, re-provisioning between distant tombs. That distance is what
 sells "they've been out in it." They are the end state of the arc the Writ and
 Jackals begin: ragged, lean, a season too long at it, and starting to suspect
 what they're really carrying out — without the vocabulary for it yet.
+
+**Mobility (why they can't just leave).** The Ashfoot are weeks out, deep in
+the scattered sites, and their own travel has degraded to almost nothing — a
+failing hull and no way home but whatever **Floating Fleet** tribe next passes
+on its years-apart timber-run. The distance that keeps them safely far from
+Maalm also **strands** them out there: they couldn't come back quickly even if
+they found the nerve. That trap is half their dread.
 
 | # | Name | Species | Role | Hook |
 |---|------|---------|------|------|
