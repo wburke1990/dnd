@@ -320,9 +320,9 @@ The most recent chapter of history, and the one the party lives inside. Norse re
   try to migrate to them. Sailors bring back dnd-ified stories of the ice: giant
   rank-hunting sea-birds, barn-sized white bears, and the **sealskin folk** (Skræling /
   Thule) in sealskin canoes and snowsuits.
-- **The Kurunatuka gold rush & the shaky alliance (now).** As the hot spot surfaced
+- **The Kurunatuka land rush & the shaky alliance (now).** As the hot spot surfaced
   **Moku and Noku Kurunatuka** — fresh volcanic islands with **extraordinarily rich soil**
-  in a land-starved world — Kuru colonized them in a gold rush; they have since grown into
+  in a land-starved world — Kuru colonized them in a land rush; they have since grown into
   **client-states**, not colonies. The present Musleheim front is a **strained Kuru–Noku
   alliance** against the orc tribes: two stalled beachheads, a navy of borrowed **Mukka**
   pirate ships, and hard feelings after Hannibal's blows — a supply line 🔒 about to be cut

@@ -115,11 +115,21 @@ actually operate in archipelago waters are few:
   Kurunatuka** powers. **Seaworthy longships may still survive in the northeast
   of Musleheim** — a latent remnant, not a present force. **`[loose — Will,
   6/26]`**
-- **The land kingdoms' galleys** (**Kuru, Noku Kurunatuka, Suartleheim**) —
-  dominant on paper, but **little real navy**; they lean on Mukka's mercenary
-  ships for sea-work. **[settled]**
+- **The Suartleheim dwarves — the shipwrights.** The dwarf yards of Suartleheim
+  Weet (**Ools**) **build the hulls nearly everyone else sails** — Mukka's pirate
+  ships included — and are a real naval power in their own right (they broke the
+  orc sea at Hjörungavágr). Iron-riveted and crude, the opposite of the
+  dragonborn lashed hull. **`[Will, 6/26]`**
+- **The land powers — little or no navy of their own.** **Kuru** has *no* fleet
+  at all: its **warforged sink** (godstone is heavy, and they hate the water), so
+  Kuru and its **Kurunatuka** client-states **rent** everything afloat — dwarf
+  hulls and Mukka bottoms. **`[Will, 6/26]`**
 - **The Floating Fleets themselves** — open-water, over the horizon,
   archipelago-irrelevant except on the rare timber-run. **[settled]**
+
+Trade itself is **anarchic** — small independents on DIY boats through
+ungoverned water, not escorted convoys — which is the pirates' prey. Full naval
+picture: [ships & sea-power](ships-and-sea-power.md).
 
 ## Deep history — the Sea Peoples (**not** these Fleets) `[clarified — Will, 6/26]`
 
@@ -190,5 +200,7 @@ points straight at this seam. **[loose — offered, not locked]**
   factions share; "honor the flight."
 - [the-muspel-empire.md](the-muspel-empire.md) — the orc/half-orc Viking
   war-state, the half-orc Hannibal, and the missing fleet.
+- [ships-and-sea-power.md](ships-and-sea-power.md) — who builds Nila's ships (the
+  dwarves), who controls the water, and the two legendary battles.
 - [world-history-timeline.md](world-history-timeline.md) /
   [amseh-dynasty.md](amseh-dynasty.md) — the Bleeding Star and the Sea Peoples.

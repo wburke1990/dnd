@@ -218,7 +218,7 @@ mainland, not Mukka.)*
   runs NW→SE (Lonka → Musleheim → the Kurunatukas), i.e. *toward* Maalm.
 - **Mukka** (9, 84) — ancient island chain — sits at Musleheim's **SW** corner.
 - **The Kurunatukas** (Moku ~47,82 / Noku ~63,77) are **W-to-NW of Maalm**, the
-  newest land and the gold-rush frontier.
+  newest land and the land-rush frontier.
 - **Kalikhat** (north) and **Kuru** (NE) are the far side of the map from Maalm.
 - Prevailing rain-bearing winds are taken to be **northwesterly** (off the
   Lonka/Musleheim ocean quarter) — see the drying note's Act III.

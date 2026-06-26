@@ -54,7 +54,7 @@ organization to use it:**
   land drowned, the people dead, nowhere and no one to plant.
 - The **Iron Age empires** (~4,000 ya on) are the ones that build **war-fleets and
   colony-waves at scale** — Muspel→Kuru, the [Kalikhat crusades](kuru-and-the-phoenix.md), the
-  orc raids, the Kurunatuka gold rush — riding their iron-riveted longships.
+  orc raids, the Kurunatuka land rush — riding their iron-riveted longships.
 - `[loose]` The **Lonka Zealot army** *could* have crossed in a great fleet of voyaging canoes
   — so the **demon-opened tunnel** is one option among several, not a necessity, for how they
   took Jotunheim ([Lonka — Jotunheim](lonka-jotunheim.md)).

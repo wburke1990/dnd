@@ -191,7 +191,7 @@ to the players in the opening session). **[settled]**
   guano. **Waste is close to taboo.**
 - This is the [land-and-food zero-sum world](campaign-overview.md) made into a way of
   life: a society **organized around scarcity and reuse** — the exact opposite of the
-  **gold-rush abundance** of the new [Kurunatuka](kuru-and-the-phoenix.md) soils, and a
+  **land-rush abundance** of the new [Kurunatuka](kuru-and-the-phoenix.md) soils, and a
   reason Maalm's elite would covet them.
 
 ### Who really holds the power

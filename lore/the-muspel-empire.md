@@ -43,7 +43,7 @@ that new fire-island a people built the **Muspel empire**: a sea-going, fire-cul
 **The source of their power — land, and the making of it.** `[settled]` In a world
 where **there isn't enough land and what there is is exhausted** ([overview §5](campaign-overview.md)),
 the Muspel empire's strength came from the **same mechanism now driving the
-[Kurunatuka gold rush](kuru-and-the-phoenix.md):** they **controlled the fertile land —
+[Kurunatuka land rush](kuru-and-the-phoenix.md):** they **controlled the fertile land —
 and a great deal of it — because they controlled the cyclical events** that make it.
 Working through (or hand-in-glove with) the [First Foundation](the-first-foundation.md),
 who **steered the comet passes to build Musleheim** rather than let them explode, the
@@ -157,16 +157,24 @@ ground.
   rhymes harder with the setting; both are live.
 - **A Zama.** `[OPEN]` whether one climactic defeat (our Zama) breaks him, and whether
   he falls on the field or is hunted down after.
-- **The missing fleet.** `[OPEN / hook]` a fleet tied to Hannibal that sailed and never
-  came back — the natural destination being **north, toward the lost colonies (§7)**.
-- **A fallen sea-power.** `[Will, 6/26]` The Muspel are **Viking longship-raiders** by
-  tradition, but after the reconquest most of their longships are **sunk or missing** (the
-  Hannibal fleet above among them), and their **western fire-coast is now occupied by the
-  Kuru and Moku/Noku Kurunatuka** powers. **Seaworthy longships may still survive in the
-  northeast of Musleheim** — a latent remnant the orcs could rally, not a present force.
-  This is why, inside the archipelago, the orcs no longer count as a maritime power (the
-  field belongs to **Mukka**, solitary wandering dragonborn, and the land kingdoms'
-  galleys — see [floating-fleet § sea-powers](floating-fleet.md)).
+- **The missing fleet.** `[Will, 6/26]` **Hannibal's fleet was never defeated.** After his
+  resurgence it **dropped him on the Kuru mainland** for the land war, then **sailed north
+  and vanished — nobody knows where.** Its destination is **north, toward the lost colonies
+  (§7)** — a Vinland / Greenland / Iceland, and a **big reveal** waiting for any party that
+  sails after it.
+- **How the orc sea fell — two legendary battles.** `[Will, 6/26]` The Muspel ruled Nila's
+  water for ~300 years on their iron-riveted longships; two famous sea-fights broke that.
+  **(1) In the model of Svolder — orc against orc:** the Muspel were never one people, and
+  their sea-power first cracked in a ruinous *civil* battle, king against king. **(2) In the
+  model of Hjörungavågr — orc against the [Suartleheim dwarves](ships-and-sea-power.md):**
+  the dwarf fleet (built at **Ools**) won when **a small eruption of the undersea volcanoes
+  now raising the Kurunatukas** turned the sea against the Vikings — so the battle that
+  **broke the orc sea also began raising the new land.**
+- **A fallen sea-power now.** Most Muspel longships were lost in those wars (Hannibal's is
+  the exception — *missing*, not sunk, above); their **western fire-coast is occupied by
+  Kuru and the Moku/Noku Kurunatuka** client-states; and **seaworthy longships may still
+  survive in the northeast of Musleheim** — a latent remnant, not a present force. Full
+  naval picture: [ships & sea-power](ships-and-sea-power.md).
 
 **At campaign start he is dead, or freshly and finally defeated.** Either way the
 half-orc resurgence has just **collapsed** and the tide has swung **back to the

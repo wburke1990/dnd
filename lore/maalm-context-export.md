@@ -104,7 +104,7 @@ approaches a hidden cistern.**
 
 ## 7. How Maalm ties to the wider world
 
-- Its **exhausted soil** is the deliberate contrast to the **fertile Kurunatuka gold rush**
+- Its **exhausted soil** is the deliberate contrast to the **fertile Kurunatuka land rush**
   (the land-scarcity theme — [overview §5](campaign-overview.md)).
 - Built **over the Amseh + Ammit** (the dead empire and the devourer beneath).
 - **Abyss = tunnels** (house rules) — Maalm's underworld *is* part of that network.

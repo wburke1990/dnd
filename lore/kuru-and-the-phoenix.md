@@ -502,10 +502,10 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   of Sunne outward again — the long **reconquest of [Musleheim](the-muspel-empire.md)** is
   its **second great holy war,** a later and larger turn of the same colonial engine as the
   Kalikhat crusades (above; [overview §3A](campaign-overview.md)).
-- **The Kurunatuka gold rush (recent).** `[settled]` A running truth of the world:
+- **The Kurunatuka land rush (recent).** `[settled]` A running truth of the world:
   **there isn't enough land, and what there is is exhausted** ([overview §5](campaign-overview.md)).
   So when **Moku and Noku Kurunatuka rose new from the sea** — the hot spot's **freshest
-  volcanic islands** — it set off a **gold rush.** Their **young volcanic soil is
+  volcanic islands** — it set off a **land rush.** *(A **land** rush, not a metal one — the prize is the fertile new soil itself; there may be gold in the young volcanic ground, but land is what the world is starved for.)* Their **young volcanic soil is
   extraordinarily rich,** able to sustain **far more intensive agriculture than tired
   old lands like [Maalm](maalm-the-elven-stronghold.md).** This is **why Kuru colonized
   them, and why they grew rich enough to become client-states** (below): in a land-starved
@@ -536,7 +536,10 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   - **No navy — borrowed ships.** `[settled]` **Neither power has much of a navy;** both
     depend on **mercenary pirate ships out of [Mukka](campaign-overview.md)** to ferry
     troops and supplies across to Musleheim. Their whole war on the big island hangs by a
-    **hired, disloyal supply line.**
+    **hired, disloyal supply line.** `[Will, 6/26]` The deeper reason Kuru has no navy:
+    its **warforged sink** (godstone is heavy, and they hate the water) — so the great
+    land power literally cannot crew a fleet, and every hull it uses is **built by the
+    [Suartleheim dwarves](ships-and-sea-power.md) and crewed by Mukka.**
   - 🔒 **The coming reversal (planned beat).** `[loose]` That supply line is about to
     snap: when **[Sam's halfling floating fleet](floating-fleet.md)** starts **capturing
     the transport fleets** ([overview §5](campaign-overview.md)), **both armies are left
