@@ -159,6 +159,14 @@ ground.
   he falls on the field or is hunted down after.
 - **The missing fleet.** `[OPEN / hook]` a fleet tied to Hannibal that sailed and never
   came back — the natural destination being **north, toward the lost colonies (§7)**.
+- **A fallen sea-power.** `[Will, 6/26]` The Muspel are **Viking longship-raiders** by
+  tradition, but after the reconquest most of their longships are **sunk or missing** (the
+  Hannibal fleet above among them), and their **western fire-coast is now occupied by the
+  Kuru and Moku/Noku Kurunatuka** powers. **Seaworthy longships may still survive in the
+  northeast of Musleheim** — a latent remnant the orcs could rally, not a present force.
+  This is why, inside the archipelago, the orcs no longer count as a maritime power (the
+  field belongs to **Mukka**, solitary wandering dragonborn, and the land kingdoms'
+  galleys — see [floating-fleet § sea-powers](floating-fleet.md)).
 
 **At campaign start he is dead, or freshly and finally defeated.** Either way the
 half-orc resurgence has just **collapsed** and the tide has swung **back to the

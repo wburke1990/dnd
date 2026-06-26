@@ -125,15 +125,18 @@ recognition of Aniess can land as threat *or* as the only sympathy in the room.
 
 ## Getting around Nila — how each crew moves
 
-Inside the archipelago there are only two sea-powers worth the name: the
-**Mukka** pirates — the Tortuga-style haven whose mercenary letters-of-marque
-ferry every kingdom's dirty work across the water — and the rare **solitary
-wandering dragonborn** who sail their own hulls. The great **Floating Fleets**
-don't count here: they're a separate *open-water* civilization, over the
-horizon almost always, touching the archipelago only every couple years on a
-timber-run. So a crew's choice is stark — **own a boat and a sailor, or rent
-both from Mukka.** With the comet barely a year out, crossing *fast* is the
-whole game, and how each crew solves it is a clean read on what it is.
+Inside the archipelago the real sea-powers are few: the **Mukka** pirates — the
+Tortuga-style haven whose mercenary letters-of-marque ferry every kingdom's
+dirty work across the water — the rare **solitary wandering dragonborn** who
+sail their own hulls, the land kingdoms' **galleys** (dominant on paper, little
+real navy, leaning on Mukka), and the **fallen Viking longships** of the Muspel
+orcs (mostly sunk or missing, their coast occupied — a spent force, not a hull
+for hire). The great **Floating Fleets** don't count here at all: a separate
+*open-water* civilization, over the horizon almost always, in archipelago waters
+only every couple years on a timber-run. So for a name-hunting crew the choice
+still nets out stark — **own a boat and a sailor, or rent both from Mukka.**
+With the comet barely a year out, crossing *fast* is the whole game, and how
+each crew solves it is a clean read on what it is.
 
 - **The party — they own their mobility, and that's the quiet power.**
   Blackacre's commandeered lashed-hull sloop: small, fast, quiet, shallow
