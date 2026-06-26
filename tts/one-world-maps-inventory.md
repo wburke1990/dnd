@@ -1,24 +1,30 @@
 # One World maps — import inventory
 
 Inventory of the **"22 - One world maps"** TTS save (`TS_Save_22.json`,
-saved 2026-06-25, ~259 MB). The save is a flat OneWorld **map library**:
-**289 map bags loose at the top level** of `ObjectStates`, each nicknamed
+saved 2026-06-25, ~254 MB). The save is a flat OneWorld **map library**:
+**272 map bags loose at the top level** of `ObjectStates`, each nicknamed
 `OWx_<MapName>`. There is no packed Hub / `mBag` here, so every map is
 directly importable into Nila.
 
 Use this to pick maps to import. When you choose, the import workflow is
-in [`../docs/oneworld.md`](../docs/oneworld.md) (`import_ow_map`). **Each
-map's tiles live in a *separate* content bag** referenced by the GUID in
-the bag's `Description` JotBase metadata, so importing one map means
-pulling both the `OWx_` token bag **and** its linked content bag.
+in [`../docs/oneworld.md`](../docs/oneworld.md) (`import_ow_map`). Each
+map is fully self-contained: its tiles **and** its `SBx_` token live
+inside its own `ContainedObjects`, and the bag↔token GUID reference pair
+stays entirely within that one bag — there is no master registry or
+cross-map reference. So importing one map means pulling just that one
+`OWx_` bag.
+
+> **Maintenance (2026-06-25):** the save was cleaned up after this
+> inventory was first built — the 17 duplicate copies were deleted
+> (289 → 272 bags) and the malformed `OWllakovich Manor Attic` nickname
+> was corrected in-save to `OWx_Vallakovich Manor Attic`. See the
+> Duplicates section below for the record.
 
 Source file (not in the repo): `~/Library/Tabletop Simulator/Saves/TS_Save_22.json`
 
-**Legend:** `GUID` is the 6-char TTS GUID of the `OWx_` bag. `(dup)`
-marks a redundant second copy of the same map (same art, separate
-instance — see the Duplicates section). The two non-map prop/figure bags
-in the save (`Stack of Crates (Large)` e95f09, `Knight of the Morningstar`
-282d8d) are excluded.
+**Legend:** `GUID` is the 6-char TTS GUID of the `OWx_` bag. The two
+non-map prop/figure bags in the save (`Stack of Crates (Large)` e95f09,
+`Knight of the Morningstar` 282d8d) are excluded.
 
 ---
 
@@ -38,27 +44,25 @@ Tser Encampment                   1b6462
 Tser Falls                        7472b6
 Vallakovich Manor                 ebef42
 Vallakovich Manor 2               d5092b
-Vallakovich Manor Attic           36c6b1   [nickname typo'd OWllakovich → should be OWx_Vallakovich]
+Vallakovich Manor Attic           36c6b1
 Village of Barovia                814114
 Vistani Camp                      030ba2
 Yester Hill                       0dc834
 ```
 
-## Sharn / Eberron (4)
+## Sharn / Eberron (3)
 
 ```
 Precipice Quarter                 76fee7
 Sharn Streets                     502d16
-Sharn Streets                     b3d0a2   (dup)
 The Promenade                     8499b0
 ```
 
-## Dark Sun / Desert (6)
+## Dark Sun / Desert (5)
 
 ```
 Altaruk                           0e869d
 Desert Cave                       dfd079
-Desert Cave                       fc5046   (dup)
 Dry City                          4bc694
 Mekillot Cart                     f2dc89
 Under Tyr                         e20b2b
@@ -104,14 +108,12 @@ Valience Keep 1                   0121fd
 Valience Keep Sewer               fc155f
 ```
 
-## Feywild (7)
+## Feywild (5)
 
 ```
 Fey River                         f855cc
 Feywild - Foliage                 0de9e9
-Feywild - Foliage                 5dd64a   (dup)
 Feywild - Paths                   865361
-Feywild - Paths                   2c3ec7   (dup)
 Feywild - Pond                    346f81
 Feywild Alt. Trail                bd7ac3
 ```
@@ -130,13 +132,12 @@ The Abyssal Shelf - 7             5dc1a3
 The Abyssal Shelf - 8             b38d49
 ```
 
-## Cities & large towns (17)
+## Cities & large towns (16)
 
 ```
 Casle town                        de1c46
 Castle Town                       ec8490
 Fountain Park                     6d5362
-Fountain Park                     df4356   (dup)
 Gladiator Stadium                 af2ecf
 High Rise Market                  b00f40
 Inner Hearthglen                  d545b6
@@ -187,12 +188,11 @@ The Mumbling Rat                  90bd67
 Tori Dojo                         9a1fff
 ```
 
-## Castles, keeps, citadels & forts (11)
+## Castles, keeps, citadels & forts (10)
 
 ```
 Casle on a hill                   083992
 Castle Dorter - Canal             d6969c
-Castle Dorter - Canal             9a62be   (dup)
 Citadel 1                         0fab72
 Citadel 2A                        2c01c3
 Citadel Entrance                  93055e
@@ -213,7 +213,7 @@ Moonveil Manor                    b160ea
 Mountaincloak Estate              80521c
 ```
 
-## Temples, shrines & ruins (20)
+## Temples, shrines & ruins (19)
 
 ```
 BL Temple Alter                   5541e6
@@ -221,7 +221,6 @@ Buried Structure                  1fef9b
 Cultist Ruins 1                   015b34
 Cultist Ruins 2                   4dfd51
 Demetria's Ruined Temple          9d0639
-Demetria's Ruined Temple          10d58b   (dup)
 Grassy Temple Ruins               2bbd1b
 Jungle Temple 2                   a69cb1
 Monastery Chapel                  12f427
@@ -238,7 +237,7 @@ Temple Sea Wall                   8270d4
 Under Sydon's Temple              08a539
 ```
 
-## Graveyards, tombs & crypts (14)
+## Graveyards, tombs & crypts (13)
 
 ```
 Big Grave yard                    d28d59
@@ -253,16 +252,14 @@ Red King Tomb                     b5340c
 Spoopy Graveyard                  425c5e
 The cript fight                   02e635
 Tomb of the Forgotten             83848c
-Tomb of the Forgotten             50aab7   (dup)
 Tomb of Xander                    98d1c2
 ```
 
-## Caves, sewers & underdark (20)
+## Caves, sewers & underdark (19)
 
 ```
 Bugbear Cave                      a0a5d5
 Canyon Cave                       55ed53
-Canyon Cave                       68dfe5   (dup)
 Cave Altar                        432502
 CAVE Boss                         811e42
 Cave Entrance                     abc718
@@ -282,26 +279,23 @@ Underdark                         b69a1f
 Underdark more                    6a421e
 ```
 
-## Dwarven halls & mines (6)
+## Dwarven halls & mines (5)
 
 ```
 Dwarven Cavern                    ff391e
-Dwarven Cavern                    3138d8   (dup)
 Dwarven cliffs                    bfc177
 Dwarven cliffs with houses        06363d
 Middle Dwarf Town                 e57584
 Mithral Mine                      fdc25b
 ```
 
-## Dungeons, mazes & puzzle rooms (7)
+## Dungeons, mazes & puzzle rooms (5)
 
 ```
 Harrington's Labrynth             869fed
-Harrington's Labrynth             4bf727   (dup)
 Magic Trap                        4ae6eb
 Maze                              c8db8a
 Puzzle Room                       dd1317
-Puzzle Room                       8cc1f3   (dup)
 The laberinth                     c02c77
 ```
 
@@ -317,7 +311,7 @@ Mage Tower Interior               577023
 Tower                             845093
 ```
 
-## Forests, groves & wilderness (18)
+## Forests, groves & wilderness (17)
 
 ```
 Avani Druid Rings                 f1e8df
@@ -327,7 +321,6 @@ Druid's Circle                    f0152d
 Forest Clearing                   456036
 Forest Encounter 3                e0e923
 Forest Path 3                     28e589
-Forest Path 3                     42e913   (dup)
 Forest Road                       00ad94
 Gariland Hills Road               4f1803
 Grandfather Tree                  9fcef4
@@ -340,13 +333,12 @@ Wolf din                          d51e6d
 Woods ring                        dbb991
 ```
 
-## Mountains, hills, cliffs & canyons (16)
+## Mountains, hills, cliffs & canyons (15)
 
 ```
 Box Canyons                       481be4
 Brae                              8634af
 Canyon                            401c9a
-Canyon                            6dd8d7   (dup)
 Floating Hills 1                  f39ac6
 Herringbone Rock                  25bf82
 High Foothills                    416d81
@@ -361,19 +353,18 @@ Spiraling Pass                    a7d428
 The Chasm                         518a87
 ```
 
-## Snow & ice (7)
+## Snow & ice (6)
 
 ```
 Icesplitter Wreck                 4639f3
 Icy Path                          751985
 On Thin Ice                       782fdf
 Snowy Forest Path                 0730e6
-Snowy Forest Path                 388b97   (dup)
 Winter Battle field 0             b72d2e
 Winter Battle field 1             4fdeb5
 ```
 
-## Docks, ships & coast (18)
+## Docks, ships & coast (17)
 
 ```
 Blue Corsairs                     69f445
@@ -388,7 +379,6 @@ K island                          6e6aab
 Loading Docks                     d8cc23
 N.Point Sm Dock                   6e1ce4
 Ocean Cliffs                      ca14be
-Ocean Cliffs                      344585   (dup)
 Odnarb Point                      d2b323
 Port city                         85ff11
 Small ship town                   e5838c
@@ -396,11 +386,10 @@ The Docks                         824863
 Westguard Cove                    50f76c
 ```
 
-## Lakes & rivers (8)
+## Lakes & rivers (7)
 
 ```
 Black Lake                        d95910
-Black Lake                        25a6ce   (dup)
 High Flow                         de396f
 Low Flow                          47b895
 River Gorge                       e24ab3
@@ -461,39 +450,41 @@ above; listed here so you can pull a whole adventure at once):
 - **Out of the Abyss (Underdark)** — *Neverlight Grove*.
 - **Lost Mine of Phandelver** — *Phandelver Wilderness*, *Glitterhame*.
 
-## Duplicates
+## Duplicates — removed 2026-06-25
 
-17 names appear twice — same map art, but each copy is an independent
-instance with its own outer-bag GUID **and** its own content-bag GUID
-(the OneWorld "Pack creates a fresh content bag every time" artifact).
-Import either copy of a pair; deleting a redundant copy from the save
-means removing both its `OWx_` bag and its paired content bag.
+The save originally shipped 17 names twice. Each pair was the same map
+art, but each copy was an independent self-contained instance (its own
+`OWx_` bag GUID and its own nested `SBx_` token GUID; two of the pairs —
+Black Lake and Tomb of the Forgotten — were verified byte-identical in
+their image URLs and child-object counts). The redundant copy of each
+pair (the second GUID below) was deleted from the save; the first GUID is
+the surviving map listed in the groups above.
 
 ```
-Black Lake                d95910 / 25a6ce     [verified identical: 19 objs, same image URLs]
-Tomb of the Forgotten     83848c / 50aab7      [verified identical: 291 objs, same image URLs]
-Canyon                    401c9a / 6dd8d7
-Canyon Cave               55ed53 / 68dfe5
-Castle Dorter - Canal     d6969c / 9a62be
-Demetria's Ruined Temple  9d0639 / 10d58b
-Desert Cave               dfd079 / fc5046
-Dwarven Cavern            ff391e / 3138d8
-Feywild - Foliage         0de9e9 / 5dd64a
-Feywild - Paths           865361 / 2c3ec7
-Forest Path 3             28e589 / 42e913
-Fountain Park             6d5362 / df4356
-Harrington's Labrynth     869fed / 4bf727
-Ocean Cliffs              ca14be / 344585
-Puzzle Room               dd1317 / 8cc1f3
-Sharn Streets             502d16 / b3d0a2
-Snowy Forest Path         0730e6 / 388b97
+                          kept     removed
+Black Lake                d95910   25a6ce
+Tomb of the Forgotten     83848c   50aab7
+Canyon                    401c9a   6dd8d7
+Canyon Cave               55ed53   68dfe5
+Castle Dorter - Canal     d6969c   9a62be
+Demetria's Ruined Temple  9d0639   10d58b
+Desert Cave               dfd079   fc5046
+Dwarven Cavern            ff391e   3138d8
+Feywild - Foliage         0de9e9   5dd64a
+Feywild - Paths           865361   2c3ec7
+Forest Path 3             28e589   42e913
+Fountain Park             6d5362   df4356
+Harrington's Labrynth     869fed   4bf727
+Ocean Cliffs              ca14be   344585
+Puzzle Room               dd1317   8cc1f3
+Sharn Streets             502d16   b3d0a2
+Snowy Forest Path         0730e6   388b97
 ```
 
-## Note: the typo'd bag
+## Note: the typo'd bag (fixed)
 
-Bag **36c6b1** is nicknamed `OWllakovich Manor Attic` — it's missing the
-`x_Va`, so the OW prefix is malformed. It is almost certainly
-**Vallakovich Manor Attic** (companion to *Vallakovich Manor* ebef42 and
-*Vallakovich Manor 2* d5092b). Listed under Curse of Strahd above as
-"Vallakovich Manor Attic"; the underlying bag still carries the typo'd
-nickname in the save.
+Bag **36c6b1** was nicknamed `OWllakovich Manor Attic` — missing the
+`x_Va`, so the OW prefix was malformed. It is **Vallakovich Manor Attic**
+(companion to *Vallakovich Manor* ebef42 and *Vallakovich Manor 2*
+d5092b). Its nickname was corrected in-save to
+`OWx_Vallakovich Manor Attic` on 2026-06-25.
