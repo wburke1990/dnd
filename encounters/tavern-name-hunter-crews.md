@@ -125,22 +125,27 @@ recognition of Aniess can land as threat *or* as the only sympathy in the room.
 
 ## Getting around Nila — how each crew moves
 
-In Nila almost nobody owns their own mobility. The sea gives food, hide, and
-bone but **never wood**, so every hull depends on two chokepoints: the
-**Floating Fleet's** timber-runs and the rare **druid-shipwrights** who grow
-and mend wood, and **Mukka**, the Tortuga-style pirate haven whose mercenary
-letters-of-marque ferry every kingdom's dirty work across the water. With the
-comet barely a year out, crossing the archipelago *fast* is the whole game —
-and how each crew moves is a clean read on what it is.
+Inside the archipelago there are only two sea-powers worth the name: the
+**Mukka** pirates — the Tortuga-style haven whose mercenary letters-of-marque
+ferry every kingdom's dirty work across the water — and the rare **solitary
+wandering dragonborn** who sail their own hulls. The great **Floating Fleets**
+don't count here: they're a separate *open-water* civilization, over the
+horizon almost always, touching the archipelago only every couple years on a
+timber-run. So a crew's choice is stark — **own a boat and a sailor, or rent
+both from Mukka.** With the comet barely a year out, crossing *fast* is the
+whole game, and how each crew solves it is a clean read on what it is.
 
-- **The party — they own their mobility, and that's the secret power.**
+- **The party — they own their mobility, and that's the quiet power.**
   Blackacre's commandeered lashed-hull sloop: small, fast, quiet, shallow
-  enough to slip into island sites, just big enough for five. No charter, no
-  Mukka debt — because **Blackacre *is* the scarce resource**, druid-shipwright
-  *and* pirate-navigator in one hull. Every other crew rents what the party
-  carries for free. A quiet edge, and a target: everyone in Nila wants what
-  Blackacre is. It also makes every port a backstory minefield — those are
-  Mukka/Fleet waters, where Sayid and his people sail.
+  enough to slip into island sites, just big enough for five. They owe Mukka
+  nothing, because **Blackacre is one of the rare wandering dragonborn who is
+  his own captain, navigator, *and* shipwright** — his druidcraft keeps the hull
+  alive without a shipyard or a hired crew. Every other crew has to rent what
+  the party carries for free. A quiet edge, and a target: a self-sufficient
+  wandering dragonborn is a prize, and a druid who can grow and mend a wooden
+  ship is worth a fortune to the open-water Fleets — so anyone who learns what
+  he is will want him. It also makes every port a backstory minefield: those are
+  Mukka waters and the Lonka sea-lanes, where Sayid's co-opted tribes range.
 
 - **The Lapis Writ — they buy it.** Founder-blood Maalm elves are *desert*
   aristocrats, not sailors; they don't crew a boat, they **charter** one. Their
@@ -152,12 +157,13 @@ and how each crew moves is a clean read on what it is.
   Preem, or by Sayid.
 
 - **The Brass Jackals — it's killing them.** Broke Kuru freelancers with a
-  cheap, rotting hull, no druid to mend it, and no coin for a Fleet timber-run
-  — so they patch it with tar and prayer, fall a berth behind every leg, and
-  likely owe a Mukka ship for passage they can only pay off in names. They are
-  the crew whose boat is *literally dying for want of the one thing Blackacre
-  is* — the clearest way to show the table what Blackacre's gift is worth, and
-  the most concrete face of "the quest costs more than it pays."
+  cheap, rotting hull, no one aboard who can truly sail or mend it, and no coin
+  to charter a proper Mukka ship — so they patch the boat with tar and prayer,
+  fall a berth behind every leg, and likely owe a Mukka captain for passage they
+  can only pay off in names. They are the crew whose boat is *literally dying for
+  want of the one thing Blackacre is* — the clearest way to show the table what
+  a self-sufficient wandering dragonborn is worth, and the most concrete face of
+  "the quest costs more than it pays."
 
 **Hazards differ by route.** The northwest lanes toward Lonka/Jotunheim mean
 the **Lonka Zealots** and the **Dragon Turtle** in the caldera bay; open
@@ -184,12 +190,14 @@ sells "they've been out in it." They are the end state of the arc the Writ and
 Jackals begin: ragged, lean, a season too long at it, and starting to suspect
 what they're really carrying out — without the vocabulary for it yet.
 
-**Mobility (why they can't just leave).** The Ashfoot are weeks out, deep in
+**Mobility (why they can't just leave).** The Ashfoot are weeks out, deep among
 the scattered sites, and their own travel has degraded to almost nothing — a
-failing hull and no way home but whatever **Floating Fleet** tribe next passes
-on its years-apart timber-run. The distance that keeps them safely far from
-Maalm also **strands** them out there: they couldn't come back quickly even if
-they found the nerve. That trap is half their dread.
+failing hull, no wandering dragonborn to mend it, and no way home but the rare
+**Mukka** ship that comes that far out, at rates they can't pay. (If they've
+drifted toward open water, the only other sail they ever see is a Floating Fleet
+on its years-apart timber-run — no help, and gone by morning.) The distance that
+keeps them safely far from Maalm also **strands** them: they couldn't come back
+quickly even if they found the nerve. That trap is half their dread.
 
 | # | Name | Species | Role | Hook |
 |---|------|---------|------|------|

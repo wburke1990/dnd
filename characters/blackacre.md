@@ -26,6 +26,14 @@ worldbuilding lives in **[lore/floating-fleet.md](../lore/floating-fleet.md)**,
   mostly at sea. **[settled]**
 - **Present base:** These days he's **firmly on Mukka**, deliberately avoiding
   the Floating Fleet because of his association with Sayid (below). **[settled]**
+- **Why he's an odd one `[DM ruling — Will, 6/26]`:** wandering dragonborn are
+  **solitary** by nature — they roam the archipelago alone, in the mold of the
+  [Wandering saints](../lore/wandering-dragonborn.md). The great **Floating
+  Fleets** are a *separate open-water civilization* (majority halfling) that
+  touches the archipelago only every couple years on timber-runs. So Blackacre's
+  having **lived with a Fleet at all** is unusual for one of his kind — an
+  inherited anomaly (his line joined generations ago) that shaped him, and part
+  of why his druid-shipwright gift mattered so much out on the empty water.
 - **Starts the campaign in:** the **City of Maalm**, in **Suartleheim Eet**,
   having taken a letter of marque from **Preem**. **[settled]**
 - **Boat:** A **sloop or sail-canoe** (Caribbean-pirate sailing canoe /

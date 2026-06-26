@@ -203,8 +203,12 @@ of Beowulf's archetype, each marked by a coastal **watch-stone**:
 ### The Floating Fleets (the Amatssou) — and the wandering dragonborn
 `[loose — Sam to own]` **Two distinct sea-peoples, not one:** the **massive halfling fleets**
 (Sam's — *island-dwarfed men* whose fleets began as islands sank) and the separate **wandering
-dragonborn** (the saints' nomads on their lashed pontoons). The **halfling fleets** are a
-chiefdom of many tribal heads, no single ruler; they make everything from the sea (seaweed,
+dragonborn** (the saints' nomads on their lashed pontoons). **`[DM ruling — Will, 6/26]` The
+Fleets are an *open-water* civilization** — over the horizon almost always, entering the
+archipelago only ~once every couple years on a timber-run. So *inside* the archipelago the
+only sea-powers are the **Mukka** pirates and *solitary* wandering dragonborn like Blackacre;
+a wandering dragonborn who *joins* a Fleet (as Blackacre once did) is an oddity. The **halfling
+fleets** are a chiefdom of many tribal heads, no single ruler; they make everything from the sea (seaweed,
 bone, hide, sinew) but **cannot make timber,** so they raid island-rich waters on
 **timber-runs** (druids, who grow and mend wood, are precious). A buried dragonborn thread:
 the **Lost Tribes** — scattered **Bronze-Age** colonies of the **Phoenician dragonborn**

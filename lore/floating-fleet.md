@@ -15,12 +15,27 @@ both worship the same dragon (see
 > you tell the party about the sea fleets will instantly become canon."*
 > Treat everything here as **his** to overrule. **[settled — per 5/28]**
 >
-> **`[loose — DM update 6/22]` Two peoples, not one.** Per Will, the **wandering Dragonborn**
-> (the lashed-pontoon traditionalists / [saints](wandering-dragonborn.md)) and the **massive
-> halfling fleets** are now **separate** civilizations, not one mixed society. The **halflings
-> are men shrunk by island dwarfism** (Nila runs on island dwarfism *and* gigantism), and their
-> **fleets began when islands sank beneath the rising sea.** This file still reads as the older
-> *merged* version below — **Sam to reconcile** when he takes the lore. See
+> **`[DM ruling — Will, 6/26]` Two peoples, firmly separate — and the Fleet is
+> an open-water civilization, not an archipelago power.** Per Will:
+> - The **wandering Dragonborn** (solitary roamers / [saints](wandering-dragonborn.md))
+>   and the **massive halfling fleets** are **separate** civilizations, not one
+>   mixed society. The **halflings are men shrunk by island dwarfism** (Nila runs
+>   on island dwarfism *and* gigantism), and their **fleets began when islands
+>   sank beneath the rising sea.**
+> - **The Floating Fleets live on the open water and are NOT part of archipelago
+>   society.** They are over the horizon almost all the time, entering the
+>   archipelago only **about once every couple years** on timber-runs (the open
+>   sea gives them everything but wood). They are **not a maritime power within
+>   the archipelago** and not something a crew can hire on demand.
+> - **Inside the archipelago, the only established sea-powers are the Mukka
+>   pirates and individual wandering dragonborn** (solitary roamers like
+>   Blackacre). No other.
+> - **Wandering dragonborn are solitary by nature; *joining* a Floating Fleet is
+>   unusual** — which is exactly what makes **Blackacre an odd one** (he carries
+>   a Fleet association most of his kind never would).
+>
+> This file still reads as the older *merged* version below — **Sam/Ahms (the
+> sea-lore owner) to reconcile** the body when they take the lore. See
 > [technology & trade §1, §3](technology-and-trade.md).
 
 ## What they are
