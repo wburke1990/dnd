@@ -59,29 +59,54 @@ and the Musleheim war-supply line are the *richest* targets, but they ride the
 same hired, under-protected bottoms as everyone else.)
 
 **Where traders *won't* go:** Khalikhat (demons), Jotunheim (the Zealots and the
-Dragon Turtle), and Muspelheim **beyond its war-coast** — the rest of that island
-is hostile orcs and mutant beasts. The Kuru-held **war-coast** is the *one* Muspel
-landfall traders make (supplying the war); its candidate ports — **Tunica,
-Tripoca, Sevica** — are `[TBD — freaky stuff planned]`.
+Dragon Turtle), and the **orc-held heart of Muspelheim**. Two stretches of that
+island *are* reachable: the Kuru-held **war-coast** (traders supply the war
+there), and parts of the **southern coast** — the **mutant lands** the orcs
+*don't* hold. **Tunica, Tripoca, and Sevica** sit on that south coast; how safe
+each is to trade at is `[TBD — freaky stuff planned; David may make **Tripoca**
+reasonably safe — confirm]`. (Tripoca is already Blackacre's port of call.)
 
 ## How it got this way — the orc sea falls, new land rises
 
 For ~300 years the **Muspel orcs** ruled Nila's water on their longships. Two
-**legendary sea-battles** broke that dominance — both remembered, both fought in
-longships:
+**legendary sea-battles** broke that dominance — kept here under their real saga
+names, with lines worth reading aloud at the table.
 
-- **In the model of Svolder — orc against orc.** The Muspel were **never one
-  people again** — not after the Bad Pass (Ragnarok II), whose alchemical sickness
-  mutated them into orcs, half-orcs, and worse and shattered their old unity. Their
-  sea-power first cracked from *within* — a ruinous civil
-  sea-battle of lashed-together longships and boarding decks, king against king.
-- **In the model of Hjörungavågr — orc against the dwarves.** The **Suartleheim
-  dwarf fleet built at Ools** met the Muspel longships and won — decided, as at
-  the real Hjörungavågr (a freak hailstorm), by **a small eruption of the
-  undersea volcanoes that were just beginning to raise the Kurunatukas.** The
-  sea itself turned on the Vikings. That eruption is the **same hot-spot
-  volcanism still surfacing the Kurunatukas today** — so *the battle that broke
-  the orc sea and the birth of the new land are one event.*
+### The Battle of Svolder — orc against orc
+
+The Muspel were **never one people again** after the Bad Pass (Ragnarok II): its
+alchemical sickness mutated them into orcs, half-orcs, and worse and shattered
+their old unity. So their sea-power first cracked from *within* — a ruinous
+**civil** battle, king against king, longships lashed gunwale-to-gunwale into
+floating fortresses and stormed deck by bloody deck. Their greatest sea-king went
+down with his flagship rather than strike his colors — leapt overboard in his
+war-gear and let the sea take him.
+
+> *"Never have I fled from battle. Let God dispose of my life, but flight I will
+> never take."*
+> — Olaf Tryggvason at Svolðr, **Heimskringla** (Snorri Sturluson)
+>
+> *"Then the king threw himself overboard, holding his shield edgewise above his
+> head, and sank."*
+> — **Heimskringla**
+
+### The Battle of Hjörungavágr — orc against the dwarves
+
+The **Suartleheim dwarf fleet, built at Ools**, met the Muspel longships in a
+narrow bay and won — decided, as in the saga (where a god-called hailstorm broke
+the Jomsvikings), by **a small eruption of the undersea volcanoes just beginning
+to raise the Kurunatukas.** The water boiled, the sky turned, and the longships
+foundered. That eruption is the **same hot-spot volcanism still surfacing the
+Kurunatukas today** — so *the battle that broke the orc sea and the birth of the
+new land are one event.*
+
+> *"From the fingers of the troll-women arrows flew, and each shaft was a man's
+> death; and so great a hailstorm followed that every stone weighed an ounce."*
+> — the storm at Hjörungavágr, **Heimskringla / Jómsvíkinga saga**
+>
+> *"It would be good to know what comes after death. If I am still aware when my
+> head is off, I shall drive this knife into the earth."*
+> — a doomed Jomsviking before the axe, **Jómsvíkinga saga**
 
 **The knock-on (the last few hundred years):**
 
