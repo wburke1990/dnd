@@ -29,7 +29,7 @@ The party carries a sending stone paired with a stone held by the wizard's assoc
 
 **Read aloud — the wizard's sending stone message:**
 
-*"You're standing in the valley of the ancient kings of the land we now know as Maalm. As you probably already know, shortly after Maalm was founded on the ancient ruins, the lord of Maalm cleaned out these tombs. The gods of the ancients are dead now, but there are other powers in this world than gods and stolen relics. I've sent you on this quest in search of names. Search the tombs, get into the inner burial chambers. Find what names you can and relay them to my associates using the sending stone. I don't expect you to find jewels, but know that I will pay you good prices for any jewels you may find on your journeys."*
+*"You're standing in the valley of the ancient kings of the land we now know as Maalm. As you probably already know, shortly after Maalm was founded on the ancient ruins, the lords of Maalm cleaned out these tombs. The gods of the ancients are dead now, but there are other powers in this world than gods and stolen relics. I've sent you on this quest in search of names. Search the tombs, get into the inner burial chambers. Find what names you can and relay them to my associates using the sending stone. I don't expect you to find jewels, but know that I will pay you good prices for any jewels you may find on your journeys."*
 
 ---
 
@@ -39,7 +39,7 @@ The party carries a sending stone paired with a stone held by the wizard's assoc
 
 **Read aloud — reading the ledgers (Tombs 1 & 2, the prosperous kings):**
 
-*"Between the gods and the grave-scenes, the walls are ruled into neat columns of figures — harvest tallies, ship manifests, tribute lists, kept like a merchant's book. Grain up the river. Guano by the boatload. And metal: ingots of **copper** out of Lonka, ingots of **tin** carried down from the western mountains, and — rarer, set apart, almost reverently — beads of golden **amber** from somewhere far to the south, past the edge of any map you know. Year after year the numbers climb. The kingdom is growing rich, and you can see exactly how: it sits at the center of a web of roads that reaches the whole world."*
+*"Between the gods and the grave-scenes, the walls are ruled into neat columns of figures — harvest tallies, ship manifests, tribute lists, kept like a merchant's book. Grain up the river. Guano by the boatload. And metal: ingots of **copper** out of Lonka, ingots of **tin** carried down from the western mountains, and — rarer, set apart, almost reverently — beads of golden **amber** from somewhere far to the south, past the edge of any map you know. These are massive trade quantities, an order of magnitude that what you would see passing through current Maalm. The kingdom is growing rich, and you can see exactly how: it sits at the center of a web of roads that reaches the whole world."*
 
 **Read aloud — if they then read Tomb 3 (the warrior king):**
 
