@@ -106,6 +106,9 @@
       "Edit(.claude/settings.json)",
       "Write(.claude/settings.json)"
     ],
+    "additionalDirectories": [
+      "/Users/wcb/Library/Tabletop Simulator"
+    ],
     "deny": [
       "Bash(sudo:*)",
       "Bash(rm -rf /)",

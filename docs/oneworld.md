@@ -123,6 +123,74 @@ already-imported target is a noop.
 import. See [tts-asset-debug.md](tts-asset-debug.md) for the cleanup
 pattern.
 
+### Repeatable recipe: importing from the "One World maps" library
+
+The main donor we pull from is **`TS_Save_22.json` ("22 - One world
+maps")** — a flat library of 270+ self-contained `OWx_` map bags,
+catalogued in
+[`../tts/one-world-maps-inventory.md`](../tts/one-world-maps-inventory.md)
+(grouped by theme, each with its bag GUID). The user picks maps by
+name/GUID from that file; we import into **staging (`TS_Save_19`)** for a
+test load, and they save in TTS if it looks good. This flow runs often —
+follow it verbatim:
+
+1. **Get each map's floor image.** TS_Save_22 has no single `_OW_wBase`,
+   and every map carries its own floor on its nested `SBx_` token — so
+   pass `--sbx-image-url` **explicitly per map** (autodetect would paint
+   one image on all of them). Ask `tts-inspector` for each chosen bag's
+   nested `SBx_*.CustomImage.ImageURL`.
+2. **Back up staging first:** `cp` the live `TS_Save_19.json` to `/tmp`.
+3. **One `import_ow_map` run per map, chained through `/tmp`** — the
+   output of run N is the target of run N+1:
+
+   ```
+   uv --directory /Users/wcb/personal/dnd/scripts run python -m dnd_tools.import_ow_map \
+     "/Users/wcb/Library/Tabletop Simulator/Saves/TS_Save_22.json" \
+     "<target: live TS_Save_19.json for run 1; the prior /tmp output after>" \
+     "/tmp/ow_import_N.json" \
+     --owx-guid <bag GUID from the inventory> \
+     --sbx-image-url "<that map's floor image>"
+   ```
+
+   Idempotent (re-importing a present map is a noop); mints fresh GUIDs
+   on collision; wires the OWx bag into `mBag`, the new `SBx_` into
+   `aBag`, and a JotBase line into `aBag.LuaScript`.
+4. **Swap the final temp into staging:**
+   `mv /tmp/ow_import_<last>.json "/Users/.../Saves/TS_Save_19.json"`.
+   The user then loads "19 - staging" **fresh** in TTS and Builds each map.
+
+**Verify before handing off** (the import rewrites the whole save, so
+confirm it dropped nothing):
+```
+rg -oc '"GUID": ?"55c90c"' <save>   # Hub present (1)
+rg -oc '"GUID": ?"966e1c"' <save>   # aBag present (1)
+rg -oc 'OWx_<Map Name>'    <save>   # each new bag = 1
+rg -oc '<new SBx GUID>'    <save>   # each = 2 (token + JotBase line)
+```
+
+**Gotchas learned doing this:**
+- **Output is compact JSON, so the file SHRINKS even as it gains maps**
+  (e.g. 173 MB pretty-printed → 73 MB compact). That's formatting, not
+  data loss — TTS loads it fine. Don't panic at the smaller size; run the
+  greps above instead.
+- **Black-placeholder floors.** Some donor maps (e.g. *Nonspecific Inn*)
+  ship a plain black image as the floor plate
+  (`coolbackgrounds.io/...pure-black-background`). They Build fine but
+  render a black floor under the pieces — flag it for the user to eyeball.
+- **Dead-link piece textures.** Many donor maps ride decayed hosts
+  (photobucket, deviantart `orig00`, general-chaos.com, 3dstudio-max.com,
+  coolbackgrounds.io) and aging Steam UGC. The Build won't break, but
+  some piece textures 404. Harden a keeper with `tts assets backup` /
+  `tts assets rehost` on the destination — see
+  [tts-asset-debug.md](tts-asset-debug.md).
+- **Stay prompt-free.** The TTS install dir
+  (`/Users/wcb/Library/Tabletop Simulator`) is whitelisted in
+  `.claude/settings.json` → `permissions.additionalDirectories`, so
+  `cp`/`mv`/`uv`/`tts` against saves there don't prompt. Keep all map work
+  inside that dir and `/tmp`, and **don't** wrap the import in `for`-loops
+  or `$var` paths — the analyzer prompts on those regardless of allowlist
+  (CLAUDE.md). Run the per-map commands as flat, literal-path lines.
+
 ## Edit workflow for the Hub or aBag Lua
 
 ```
