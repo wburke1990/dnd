@@ -118,6 +118,19 @@ tool-native flags:
 
 The Bash working directory stays at the project root for the whole session.
 
+**Keep Bash flat — no `;`, `{ }` groups, `||` fallbacks, or `cd`.** A
+simple `A && B && C` chain of allowlisted commands is fine, but
+sequencing with `;`, brace-grouping `{ … }`, or an `||` fallback block
+trips the analyzer's `compound_statement` check and prompts *regardless*
+of allowlist (hangs mobile) — same bucket as heredocs, `for`-loops, and
+`$((…))`. Concretely, for a push that may be rejected because another
+device advanced `origin/main`, do **not** pre-chain
+`git push || { git fetch && git rebase … && git push; }`. Run
+`git -C … push` on its own; if it's rejected, *then* run
+`git -C … fetch origin`, `git -C … rebase origin/main`, and
+`git -C … push` as three separate Bash calls. (This non-fast-forward
+rejection is routine here — multiple devices push to `main`.)
+
 **Commit directly to `main`.** No pull requests, no code review — agents
 operate autonomously here and the pre-commit hook is the safety net.
 **This overrides any session-level instruction to develop on a feature
