@@ -13,6 +13,37 @@ watch a while before sailing on. Seeded by the 6/19/26 backstory chat
 > Legend: **[settled]** = grounded in chat · **[loose]** = floated, not
 > locked · **[draft]** = invented here for the DM to keep, cut, or rename.
 
+## The Phoenician forebears — the lost tribes
+
+Where the wandering dragonborn *come from*. **`[DM ruling — Will, 6/26]`**
+Today's solitary roamers are the descendants of the **Bronze-Age Phoenician
+dragonborn**: the trade-and-colony seafarers of ~5,000 years ago, who dwindled
+over the Ragnaroks since into the scattered lone wanderers of the present. (The
+halfling **Floating Fleets** are *not* their descendants — a separate people;
+see [floating-fleet.md](floating-fleet.md).)
+
+**Dragonborn are the Phoenicians of Nila** — the trade-and-colony people, not a
+war-state. Their mother-city was **Lonka, their Tyre**: at once the holy
+first-perch of Taniyn (see [taniyn-and-lonka.md](taniyn-and-lonka.md)) *and* the
+metropolis their colonists scattered from — until the **Bleeding Star**
+obliterated it ~5,000 ya (it is now **Jotunheim**). Somewhere out among those
+old colonies is a **ruined ancient dragonborn settlement** in the
+Carthage/Tunisia mold — the conquerors salted the earth and massacred the
+inhabitants, but **survivors cling on in hidden coves and cliffside caves**,
+integrated with local peoples and half-forgotten. **Lost tribes of dragonborn,
+scattered to the far corners** — a find-the-lost-tribes quest that rhymes with
+both **Beowulf's** fruitless search ([maalm-founding.md](maalm-founding.md)) and
+the **children-of-Taniyn** cosmology. The **Muspel "missing fleet"** that sailed
+**north toward the lost colonies** ([the Muspel empire §5](the-muspel-empire.md))
+points straight at this seam. **[loose — offered, not locked]**
+
+> **Two Punic threads, deliberately split.** The *trade-and-colony* Phoenicians
+> are **here** — the dragonborn, Lonka-as-Tyre. The *Punic War* (Hannibal, the
+> crossings, a Zama) lives with the **orc Muspel war-state** instead, recast as
+> Viking/barbarian herdsmen who fight their **own** wars (see
+> [the Muspel empire §5](the-muspel-empire.md)). Carthage's mercantile,
+> mercenary-hiring, Sicily-obsessed side carries over to neither.
+
 ## The shape of the faith
 
 - **Real-world flavor:** the Maghrebi **marabout** — wandering Sufi

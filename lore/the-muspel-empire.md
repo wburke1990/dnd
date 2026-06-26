@@ -147,7 +147,7 @@ ground.
 > all-consuming fixation on one rich island. Their war is **land-hunger and survival**
 > (the zero-sum land/food world of [campaign overview §5](campaign-overview.md)), waged
 > by a whole people in arms. The *trade*-Phoenician side lives with the **dragonborn**
-> (Lonka as Tyre — see [floating-fleet](floating-fleet.md)).
+> (Lonka as Tyre — see [wandering-dragonborn](wandering-dragonborn.md)).
 
 - **Lake Tressamine** — his famous early victory (our Lake Trasimene): an ambush that
   swallowed a colonizer army whole and marked him as a generational threat.
@@ -164,7 +164,7 @@ ground.
   sails after it.
 - **How the orc sea fell — two legendary battles.** `[Will, 6/26]` The Muspel ruled Nila's
   water for ~300 years on their iron-riveted longships; two famous sea-fights broke that.
-  **(1) In the model of Svolder — orc against orc:** the Muspel were never one people, and
+  **(1) In the model of Svolder — orc against orc:** the Muspel were never one people again after the Bad Pass (Ragnarok II) — its alchemical sickness mutated them into orcs, half-orcs, and worse, shattering their old unity — and
   their sea-power first cracked in a ruinous *civil* battle, king against king. **(2) In the
   model of Hjörungavågr — orc against the [Suartleheim dwarves](ships-and-sea-power.md):**
   the dwarf fleet (built at **Ools**) won when **a small eruption of the undersea volcanoes
@@ -245,7 +245,7 @@ in what state — gone native, besieged, or turned into something out on the ice
   colony** (§7) are ready-made hooks pointing north.
 - **Two Punic threads, split (resolved).** The *trade-and-colony* Phoenicians are the
   **dragonborn** (Lonka as their **Tyre**, the **Lost Tribes** their scattered colonies
-  — see [floating-fleet](floating-fleet.md)); the **Punic War** itself — Hannibal, the
+  — see [wandering-dragonborn](wandering-dragonborn.md)); the **Punic War** itself — Hannibal, the
   crossings, a Zama — is **these orcs**, in Viking/barbarian dress. Carthage's
   mercantile / mercenary-hiring / Sicily-obsessed side belongs to neither, and is dropped.
 - `[OPEN]` whether any current or future PC is an orc/half-orc, and whether the party's

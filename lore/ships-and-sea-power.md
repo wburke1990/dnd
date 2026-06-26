@@ -11,8 +11,7 @@ this way. **`[DM ruling — Will, 6/26]`**
 ## Who builds the ships — the Suartleheim dwarves
 
 - The shipwrights of Nila are the **dwarves of Suartleheim Weet** — the western
-  Svartalfheim mining isle (granite, tin, ironwork; yards at **Ools** *[or
-  Beggen — Will's pick]*). Their hulls are **iron-riveted, sturdy, and frankly
+  Svartalfheim mining isle (granite, tin, ironwork; yards at **Ools**). Their hulls are **iron-riveted, sturdy, and frankly
   crude** — the opposite of the elegant, nail-free **dragonborn lashed hull**
   ([technology-and-trade](technology-and-trade.md)). Dwarves are **builders, not
   romantics of the sea**: their ships *work*, even if they stink.
@@ -21,9 +20,11 @@ this way. **`[DM ruling — Will, 6/26]`**
   the archipelago needs a hull, it ultimately traces back to an iron-riveted
   dwarf yard — including the old **orc longships** and the **pirate ships of
   Mukka.** That is the answer to "where do the pirates' ships come from."
-- `[loose]` Ools vs Beggen is a coin-flip to lock. Dwarves **mine, they don't
-  grow wood**, so their timber is imported (plausibly up the **Lonka tin-road**)
-  — a minor open thread.
+- `[settled — Will, 6/26]` The yard is **Ools** — it already has **good timber
+  access on the map**. Dwarves **mine more than they sail**, but Ools sits by the
+  wood it needs, so no import is required. *(The old **Lonka tin-road** was a
+  Bronze-Age* sea *trade; it has not existed since the Bleeding Star ~5,000 ya,
+  and Lonka is now Jotunheim.)*
 
 ## Who controls the water now
 
@@ -64,7 +65,9 @@ For ~300 years the **Muspel orcs** ruled Nila's water on their longships. Two
 longships:
 
 - **In the model of Svolder — orc against orc.** The Muspel were **never one
-  people**; their sea-power first cracked from *within* — a ruinous civil
+  people again** — not after the Bad Pass (Ragnarok II), whose alchemical sickness
+  mutated them into orcs, half-orcs, and worse and shattered their old unity. Their
+  sea-power first cracked from *within* — a ruinous civil
   sea-battle of lashed-together longships and boarding decks, king against king.
 - **In the model of Hjörungavågr — orc against the dwarves.** The **Suartleheim
   dwarf fleet built at Ools** met the Muspel longships and won — decided, as at

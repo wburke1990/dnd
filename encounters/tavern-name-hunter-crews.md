@@ -134,10 +134,14 @@ navy of their own** — their warforged sink — and the **fallen Viking longshi
 of the Muspel orcs (mostly sunk or missing, their coast occupied — a spent force, not a hull
 for hire). The great **Floating Fleets** don't count here at all: a separate
 *open-water* civilization, over the horizon almost always, in archipelago waters
-only every couple years on a timber-run. So for a name-hunting crew the choice
-still nets out stark — **own a boat and a sailor, or rent both from Mukka.**
-With the comet barely a year out, crossing *fast* is the whole game, and how
-each crew solves it is a clean read on what it is.
+only every couple years on a timber-run. So for a name-hunting crew the options are thin: **own a boat (few can), nurse a
+crappy one, or buy passage from the small independent traders** who work the
+safer lanes. That last is how most crews get around — and it has teeth: **no
+trader will run them to Khalikhat (a land of demons), Jotunheim (the Zealots and
+the Dragon Turtle), or the Muspel war-coast**, so those corners are nearly closed
+to anyone who doesn't own a hull and the nerve to sail it. With the comet barely
+a year out, crossing *fast* is the whole game, and how each crew solves it is a
+clean read on what it is.
 
 - **The party — they own their mobility, and that's the quiet power.**
   Blackacre's commandeered lashed-hull sloop: small, fast, quiet, shallow
@@ -149,25 +153,27 @@ each crew solves it is a clean read on what it is.
   wandering dragonborn is a prize, and a druid who can grow and mend a wooden
   ship is worth a fortune to the open-water Fleets — so anyone who learns what
   he is will want him. It also makes every port a backstory minefield: those are
-  Mukka waters and the Lonka sea-lanes, where Sayid's co-opted tribes range.
+  Mukka waters and the Lonka sea-lanes, where Sayid's co-opted tribes range. The
+flip side of owning their hull: the party can push into the corners that strand
+the rivals — Khalikhat, Jotunheim, the orc coast — where no hired trader sails.
 
-- **The Lapis Writ — they buy it.** Founder-blood Maalm elves are *desert*
-  aristocrats, not sailors; they don't crew a boat, they **charter** one. Their
-  expedition rides a hired **Mukka letter-of-marque ship** under a pirate
-  captain who serves coin, not names. Money buys a bigger hull, hired hands,
-  and speed — which is exactly *why they finished the Valley first*. The
-  weakness inside the strength: the whole expedition floats on a mercenary's
-  loyalty, and a mercenary can be outbid, flipped, or bought — by the party, by
-  Preem, or by Sayid.
+- **The Lapis Writ — they buy the best seat.** Founder-blood Maalm elves are
+  *desert* aristocrats, not sailors; they don't crew a boat, they **pay for
+  passage** — and their money buys the *reliable* traders, the faster lanes, and
+  the odd fat bribe to make a nervous skipper risk a rougher crossing. It's part
+  of *why they finished the Valley first*. The catch: passage only goes where
+  traders go. When the map points at Khalikhat, Jotunheim, or the orc coast, all
+  their coin buys is a captain shaking his head — the no-go corners stall them as
+  hard as anyone.
 
-- **The Brass Jackals — it's killing them.** Broke Kuru freelancers with a
-  cheap, rotting hull, no one aboard who can truly sail or mend it, and no coin
-  to charter a proper Mukka ship — so they patch the boat with tar and prayer,
-  fall a berth behind every leg, and likely owe a Mukka captain for passage they
-  can only pay off in names. They are the crew whose boat is *literally dying for
-  want of the one thing Blackacre is* — the clearest way to show the table what
-  a self-sufficient wandering dragonborn is worth, and the most concrete face of
-  "the quest costs more than it pays."
+- **The Brass Jackals — a crappy boat of their own.** Too broke to buy decent
+  passage, the Jackals sail a cheap, rotting dwarf-built tub with no one aboard
+  who can truly sail or mend it — independent, but a berth behind every leg and
+  one bad squall from the bottom. Their leaky hull is the clearest way to show
+  the table what a self-sufficient wandering dragonborn (Blackacre) is worth —
+  and, ironically, it can take them places the trader-dependent Writ can't reach,
+  if it doesn't drown them first. The most concrete face of "the quest costs more
+  than it pays."
 
 **Hazards differ by route.** The northwest lanes toward Lonka/Jotunheim mean
 the **Lonka Zealots** and the **Dragon Turtle** in the caldera bay; open

@@ -148,38 +148,6 @@ ships** in the wake of those rafts (see
 Ragnaroks ago. **The modern halfling Fleets are their own, much later thing** —
 treat any ancestral echo as deep myth, not live politics.
 
-## The lost tribes (the Phoenician dragonborn)
-
-A standing quest seam from 5/28, and a **separate thread from the Sea Peoples
-above** — this is the **dragonborn** colonial diaspora, not the northern
-refugees. **`[DM ruling — Will, 6/26]` These Bronze-Age Phoenician dragonborn
-are the ancestors of today's *solitary wandering dragonborn*** (Blackacre's
-kind — see [wandering-dragonborn.md](wandering-dragonborn.md)): the
-trade-and-colony seafarers of 5,000 years ago dwindled, over the Ragnaroks
-since, into the scattered lone roamers of the present. The halfling **Floating
-Fleets are not their descendants** — a separate people entirely. (This makes the
-"lost tribes" really a *wandering-dragonborn heritage* thread; it may want to
-move to that file.) **Dragonborn are the Phoenicians of Nila** — the
-**trade-and-colony** people, not a war-state. Their mother-city is **Lonka, their Tyre**: at once the
-holy first-perch of Taniyn (see [taniyn-and-lonka.md](taniyn-and-lonka.md))
-*and* the metropolis their colonists scattered from across the seas. Somewhere
-out among those colonies is a **ruined ancient dragonborn settlement** in the
-Carthage/Tunisia mold — **the conquerors salted the earth and massacred the
-inhabitants**, but **survivors cling on in hidden coves and cliffside caves**,
-integrated with local peoples and half-forgotten. **Lost tribes of dragonborn,
-scattered to the far corners** — a find-the-lost-tribes quest that rhymes with
-both **Beowulf's** fruitless search ([maalm-founding.md](maalm-founding.md)) and
-the **children-of-Taniyn** cosmology. The **Muspel "missing fleet"** that sailed
-**north toward the lost colonies** ([the Muspel empire §5](the-muspel-empire.md))
-points straight at this seam. **[loose — offered, not locked]**
-
-> **Two Punic threads, deliberately split.** The *trade-and-colony* Phoenicians
-> are **here** — the dragonborn, Lonka-as-Tyre. The *Punic War* (Hannibal, the
-> crossings, a Zama) lives with the **orc Muspel war-state** instead, recast as
-> Viking/barbarian herdsmen who fight their **own** wars (see
-> [the Muspel empire §5](the-muspel-empire.md)). Carthage's mercantile,
-> mercenary-hiring, Sicily-obsessed side carries over to neither.
-
 ## Showing up in play
 
 - Because the Fleets are over the horizon almost always, their **arrival is an
