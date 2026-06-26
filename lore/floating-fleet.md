@@ -125,11 +125,14 @@ actually operate in archipelago waters are few:
 
 Do not confuse the modern Fleets with the **Sea Peoples**, an **ancient event
 with no bearing on the current balance of power.** About **5,000 years ago** the
-**Bleeding Star** (Ragnarok I) erupted Krakatoa-style, **ended the Amseh
-empire**, obliterated golden **Lonka**, and **sickened the north with alchemical
-fallout.** Refugees of that same catastrophe — driven off the ruined northern
-lands (**Lonka / Kalikhat**) — came south as the **Sea Peoples**, invading in
-the wake of the pumice **"rafts of skeletons"** (see
+**Bleeding Star** (Ragnarok I) erupted Krakatoa-style — ash blotting the sun,
+harvests failing, islands destroyed — and **ended the Amseh empire's golden
+age.** In its wake came the **"rafts of skeletons"**: vast floating mats of
+**pumice carrying the eruption's dead** across the sea for years, a grim natural
+Krakatoa aftermath — **not a people, not boats, not invaders.** The **Sea
+Peoples** were a *separate* thing — **Bronze-Age refugees from across the known
+world**, fleeing the same climate collapse, who **invaded Amseh in their own
+ships** in the wake of those rafts (see
 [world-history-timeline.md](world-history-timeline.md) and
 [amseh-dynasty.md](amseh-dynasty.md)). That was five millennia and several
 Ragnaroks ago. **The modern halfling Fleets are their own, much later thing** —
