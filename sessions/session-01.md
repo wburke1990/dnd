@@ -34,23 +34,27 @@ restocking his pantry.)
 
 # DM NOTES & OPEN THREADS
 
-- **The rat man is still loose.** Who sent it, and why an ambush *right
-  outside Preem's tower*? Leave the question open — it can resurface as a
-  recurring antagonist, a spy, or a clue that someone is watching Preem's
-  hirelings. (No stat block existed for this in prep; it was improvised at
-  the table. Worth writing one up in `bestiary/` if it returns — see
-  below.)
+- **The rat man is still loose — and he's a real recurring adversary.** He
+  isn't a throwaway: he's the antagonist quietly shadowing the party. By
+  Session 2 it's established that **he's bribing the city-gate guides** to
+  track the party's movements. The ambush *right outside Preem's tower* is a
+  thread to keep pulling — he's watching Preem's hirelings, which the party
+  will (wrongly) read as Preem himself watching them.
 - The party walked away from the fight with **rat meat** harvested from
   the encounter. This became a running prop across the next two sessions:
   they keep offering it to everything they meet.
 - Preem read as a respectable patron. The party has no reason yet to
-  distrust him — which is exactly the setup the campaign wants.
+  distrust him — which is exactly the setup the campaign wants. (Their
+  later suspicion lands on *him* when the real handler is the rat man.)
 
 ---
 
 # LOOSE ENDS FOR PREP
 
-- [ ] Stat block for the **rat man** in `bestiary/` if it returns.
-- [ ] Decide who the rat man works for (Pream-as-rival? a names rival
-      faction? a tomb-guardian cult?). See the running `[OPEN]` decisions
-      in `lore/campaign-overview.md`.
+- [ ] **Write up the rat man** in `bestiary/` — he's a real recurring
+      antagonist but isn't statted yet. (User's note: not added yet,
+      to-do.)
+- [ ] Decide the rat man's **agenda**: who he works for / what he wants
+      with the party, given he's bribing the city-gate guides to follow
+      them. See the running `[OPEN]` decisions in
+      `lore/campaign-overview.md`.

@@ -5,9 +5,10 @@
 
 # RECAP
 
-Forewarned by the magic jackal, the party pressed deeper into the **Valley
-of the Kings** and worked through **Tomb II** and **Tomb III** — the
-session's two big set pieces were the **cave lions** and the **mummy**.
+Forewarned by the Set-beast (the forked-tail jackal they spoke with on the
+road in Session 2), the party pressed deeper into the **Valley of the
+Kings** and worked through **Tomb II** and **Tomb III** — the session's two
+big set pieces were the **cave lions** and the **mummy**.
 
 ---
 
@@ -16,7 +17,7 @@ session's two big set pieces were the **cave lions** and the **mummy**.
 ## The lions (Tomb II)
 
 The party reached the **cave lions** — the servants of the old gods that
-keep Tomb II — already primed by the jackal's warning to handle them
+keep Tomb II — already primed by the Set-beast's warning to handle them
 carefully rather than charge in.
 
 - They **fed the lions a lot of rat meat.** Where the rat-meat gambit had
@@ -27,7 +28,7 @@ carefully rather than charge in.
 
 > **Payoff note:** This is the rat-meat running gag finally landing — three
 > sessions of offering rat meat to everything, and it's the *lions* (set up
-> by the jackal's tip in Session 2) where it pays off. Lean into that.
+> by the Set-beast's tip in Session 2) where it pays off. Lean into that.
 
 ## The mummy — Kethara (Tomb III / the Valley dead)
 
@@ -67,5 +68,6 @@ healing powers and a curse for anyone who harms those under her protection.
 - [ ] **Tomb IV** — prep the capstone tomb (Amseh IV) for next session.
 - [ ] Log the **names** recovered from Tombs II & III in the names ledger.
 - [ ] Track party standing with **Kethara and the lepers** for continuity.
-- [ ] Still unresolved from Session 1: the **escaped rat man**, and the
-      party's suspicion that the **city-gate guides answer to Preem**.
+- [ ] Still unresolved from Session 1: the **escaped rat man** — who is
+      **bribing the city-gate guides** to shadow the party (which the party
+      has misread as Preem watching them).
