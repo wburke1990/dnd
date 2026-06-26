@@ -104,9 +104,12 @@ new land are one event.*
 > death; and so great a hailstorm followed that every stone weighed an ounce."*
 > — the storm at Hjörungavágr, **Heimskringla / Jómsvíkinga saga**
 >
-> *"It would be good to know what comes after death. If I am still aware when my
-> head is off, I shall drive this knife into the earth."*
-> — a doomed Jomsviking before the axe, **Jómsvíkinga saga**
+> *"We Jómsvikings have often disputed whether a man knows anything once his head
+> is struck off. Mark my knife — if I keep my wits, I will turn it up."* (When the
+> blow fell, the knife fell.) — a Jomsviking facing the axe, **Jómsvíkinga saga**
+>
+> *"Whose hands are in my hair?"* — another, who jerked his head from the blade so
+> the stroke fell on the man holding his hair instead. **Jómsvíkinga saga**
 
 **The knock-on (the last few hundred years):**
 
@@ -121,3 +124,23 @@ new land are one event.*
   then **sailed north and vanished** — nobody knows where. A **big reveal waits
   in the north** (a Vinland / Greenland / Iceland — the lost colonies). See
   [the Muspel empire §5](the-muspel-empire.md).
+
+## Sources — the saga lines
+
+The quotes above are faithful renderings, but the sagas survive in **many English
+translations**, so **verify exact wording against one chosen edition before
+cutting a verbatim handout** (e.g. if the party turns up a saga-record in play).
+Public-domain / reference entry points:
+
+- **Svolder & Olaf Tryggvason** — *Heimskringla*, "King Olaf Trygvason's Saga"
+  (Snorri Sturluson; Samuel Laing trans., 1844 — the death-leap is ch. 111–112):
+  [Wikisource](https://en.wikisource.org/wiki/Heimskringla/King_Olaf_Trygvason's_Saga/Part_I)
+  · [Battle of Svolder (Wikipedia)](https://en.wikipedia.org/wiki/Battle_of_Svolder)
+- **Hjörungavágr — the hailstorm & the troll-women** (Þorgerðr Hölgabrúðr and
+  Irpa) — in *Heimskringla* (same saga) and *Jómsvíkinga saga*:
+  [Battle of Hjörungavágr (Wikipedia)](https://en.wikipedia.org/wiki/Battle_of_Hj%C3%B6rungav%C3%A1gr)
+  · [Þorgerðr Hölgabrúðr and Irpa (Wikipedia)](https://en.wikipedia.org/wiki/%C3%9Eorger%C3%B0r_H%C3%B6lgabr%C3%BA%C3%B0r_and_Irpa)
+- **The Jomsviking executions** (the knife-test and "whose hands are in my hair")
+  — *Jómsvíkinga saga*:
+  [Jomsvikings (Wikipedia)](https://en.wikipedia.org/wiki/Jomsvikings)
+  · [Jómsvíkinga saga (Wikipedia)](https://en.wikipedia.org/wiki/J%C3%B3msv%C3%ADkinga_saga)
