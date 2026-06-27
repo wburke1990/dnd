@@ -37,6 +37,34 @@ middle — and the Writ are holding exactly what the party overlooked.
 
 ---
 
+## The opening beat — what the party walks in on
+
+When the PCs push through the door, the room is already leaning toward one
+table: **Mogg**, the Brass Jackals' half-orc, is **mid-saga**, telling the old
+sea-stories of the **fallen orc fleets** — and half the tavern is listening.
+These are *his* people's tales (every half-orc descends from the Muspel), told
+with the dry relish only a half-orc brings to his own kind's doom:
+
+- **Svolder** — the orc sea-kings turning on *each other*, longships lashed into
+  floating forts and stormed deck by deck; the greatest of them going over the
+  side in his war-gear rather than be taken.
+- **Hjörungavágr** — the night the **dwarves** broke the orc sea, when the water
+  itself rose against the longships in fire and ounce-heavy hail, and arrows
+  flew from the fingers of the troll-women.
+- The **gallows-laughter** of the doomed at the chopping block — *"Whose hands
+  are in my hair?"* — which gets the biggest laugh of the night.
+
+It's set-dressing, but it does real work: the party **overhears the whole naval
+backstory** — the orcs' fall, the dwarves, the lost fleets — with not a line of
+DM exposition. (Full tales and saga lines:
+[ships-and-sea-power.md](../lore/ships-and-sea-power.md).) Linger, and Mogg will
+take requests — or a drink.
+
+*Prefer the storyteller in the other crew? Swap in **Gharn**, the Lapis Writ's
+half-orc — same beat, smugger table.*
+
+---
+
 ## Group 1 — The Lapis Writ · *the dark mirror (who you become if you win)*
 
 *Chartered, funded, smug — and **done**. They cleared every tomb in the Valley
@@ -90,7 +118,7 @@ the bridge to the haunted Ashfoot a city down the road.*
 | 1 | **Veska Tull** | Human | Leader | Fled the orbit of Kuru's **Church of Sunne** and has seen what the Order does to the children it "rescues." Takes one look at **Aniess** and knows exactly what she is — maybe the first person outside the Order ever to name it to her face. The danger: Aniess's nature is not a secret out here. |
 | 2 | **Hadda Vimm** | Dwarf | Quartermaster | The one actually reading the map — and counting the crews that go out to the far sites and never report back. Carries the **structural warning**: Preem keeps hiring because crews keep dying. An earlier, lighter echo of the Ashfoot's Olen. |
 | 3 | **Sefi** | Halfling | Scout | Youngest, in over her head, already sleeping badly because of a name she's carrying. The **cost made human** — the proto-Ashfoot. If the party wants to see where this road ends, Sefi is mile one. A mirror of their own greenness, and the easiest of all these NPCs to want to save. |
-| 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. |
+| 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. **The crew's storyteller** — the party first overhears him mid-saga (see the opening beat). |
 | 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb; it's changed him a little — a comic tic now, a sinister one later. The first faint creep of the names-rot, played for a nervous laugh. |
 
 **Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
