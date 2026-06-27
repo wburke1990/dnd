@@ -1,14 +1,17 @@
-# The Rat Man — Fester Mott, the Rat Caller
+# The Rat Man — Ratatat, the Rat Caller
 
 > **Recurring antagonist.** The rat-headed humanoid who has been ambushing
 > [Preem](../characters/preem.md)'s crews on the tower steps since
 > [Session 1](../sessions/session-01.md) — he robs departing crews of their
-> **gifts,** brings **his rats,** **pays the square's guards** for muscle, and
-> **flees rather than dies.** These are his table stats, supplied by the DM and
-> recorded here so the [ambush encounter](../encounters/the-second-hand-ambush.md)
-> is self-contained.
+> **gifts (the maps above all),** brings **his rats,** **pays the square's
+> guards** for muscle, and **flees rather than dies.** 🔒 He is **not** a lone
+> thief: he works for a **representative of the [First Foundation](../lore/the-first-foundation.md)** —
+> Preem's wronged rivals — stealing the Second Foundation's maps to learn where
+> Preem is sending crews and what he's collecting for the coming comet pass.
+> These are his table stats, supplied by the DM and recorded here so the
+> [ambush encounter](../encounters/the-second-hand-ambush.md) is self-contained.
 >
-> Built for **5 level-1 PCs, D&D 2024 rules.** Medium difficulty. Fester is
+> Built for **5 level-1 PCs, D&D 2024 rules.** Medium difficulty. Ratatat is
 > **CR ½ (100 XP)**; he fights behind **14 rat minions** (15 enemies total).
 >
 > Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
@@ -21,26 +24,34 @@
   his established **run-don't-die** behavior across Sessions 1–4; the rats are
   "his rats"; the card itself flags him as a **recurring informant/villain.** He
   fits the campaign's rat man exactly.
-- `[loose]` **Name:** the card names him **Fester Mott, "the Rat Caller."** Keep
-  **"the rat man"** as the table's working name (it's load-bearing across every
-  session); treat **Fester Mott** as his actual name/alias, handy once the party
-  gets close enough to learn it.
+- `[settled]` **Name:** **Ratatat** (David named him at the table). Keep **"the
+  rat man"** as the working descriptor (it's load-bearing across every session);
+  **Ratatat** is his name once the party gets close enough to learn it. *(The DM's
+  stat card came labeled "Fester Mott" — superseded; Ratatat wins.)*
 - `[OPEN]` **Rat-headed, or human?** Canon has called him a **rat-headed
   humanoid;** the stat card describes a **wretched human** in ragged robes whom
   the rats follow. Pick one — *literally rat-headed* (a beastman), *a filthy
   human the swarm obeys,* or *rat-headed is a mask/illusion.* The mechanics don't
   care; the reveal does.
-- 🔒 `[loose]` **Who he works for — "V."** The card's loot includes a note:
-  *"Bring more to the nest beneath the mill. — V."* This is a clean answer to the
-  standing open thread *who does the rat man ultimately work for* (
-  [Session 1](../sessions/session-01.md)): a handler/fence **"V."** at a **nest
-  beneath the mill** who wants the stolen gifts brought in. Adopt it if you like
-  — it turns the rat man from a lone thief into the bottom of a chain, and the
-  caught [gate guard](../sessions/session-04.md) is a lead toward the same nest.
+- 🔒 `[settled]` **Who he works for — the First Foundation.** Ratatat answers to a
+  **representative of the [First Foundation](../lore/the-first-foundation.md),**
+  Preem's ancient rivals. He isn't robbing crews for coin — he's running
+  **counter-espionage on the Second Foundation,** stealing Preem's **maps** to
+  learn where the crews are sent and what the Second Foundation is gathering to
+  control the next comet pass. This resolves the standing *who does the rat man
+  work for* thread ([Session 1](../sessions/session-01.md)) **and** the First
+  Foundation file's open question of *whether any remnant still operates today* —
+  yes: at least this one cell, through Ratatat.
+  - 🔒 `[loose]` **The handler "V."** The card's loot note —
+    *"Bring more to the nest beneath the mill. — V."* — reads cleanly as the
+    First Foundation **representative** giving Ratatat his orders: bring the
+    stolen maps to the cell's drop (a **nest beneath the mill**), signed **V.**
+    `[OPEN]` who V. is (the rep's name/alias) and where the mill-nest sits. The
+    caught [gate guard](../sessions/session-04.md) is a lead up the same chain.
 
 ---
 
-## Fester Mott, the Rat Caller — the rat man
+## Ratatat, the Rat Caller — the rat man
 
 *Medium humanoid (human), chaotic neutral* · **CR ½ (100 XP)**
 
@@ -59,15 +70,15 @@
 - **Skills** Animal Handling +4, Stealth +3
 - **Senses** Darkvision 30 ft., Passive Perception 12
 
-**Diseased Touch.** Any creature bitten or grappled by Fester must make a **DC 11
+**Diseased Touch.** Any creature bitten or grappled by Ratatat must make a **DC 11
 Con save** or be **poisoned** until the end of its next turn.
 
-**Rat Empathy.** As a **Bonus Action** Fester summons **2 new rat minions** from
+**Rat Empathy.** As a **Bonus Action** Ratatat summons **2 new rat minions** from
 the shadows and directs all rats within 60 ft. as part of the same command.
 
 ### Actions
 
-- **Multiattack.** Fester makes two attacks: one *Sickle* and one *Rat Fling*.
+- **Multiattack.** Ratatat makes two attacks: one *Sickle* and one *Rat Fling*.
 - **Sickle.** *Melee Weapon Attack:* +3 to hit, reach 5 ft. *Hit:* 3 (1d4+1)
   slashing.
 - **Rat Fling.** *Ranged Weapon Attack:* +3 to hit, range 20/60 ft. *Hit:* 2
@@ -112,7 +123,7 @@ the shadows and directs all rats within 60 ft. as part of the same command.
 - **Bite.** *Melee Weapon Attack:* +2 to hit, reach 5 ft. *Hit:* 1 piercing, and
   the target makes a **DC 10 Con save** or is **diseased**.
 
-**Resupply.** Fester's **Rat Empathy** Bonus Action summons **2 new rats** from
+**Resupply.** Ratatat's **Rat Empathy** Bonus Action summons **2 new rats** from
 the shadows/cracks each turn while he lives — the tide never truly stops until he
 falls. Track with tokens or a d20.
 
@@ -121,16 +132,19 @@ falls. Track with tokens or a d20.
 ## Combat tactics
 
 - **Round 1 — the tide rushes in.** All 14 rats surge forward in clusters of 3–4
-  toward the front line. Fester hangs back 25–30 ft. and uses *Rat Fling* on any
+  toward the front line. Ratatat hangs back 25–30 ft. and uses *Rat Fling* on any
   obvious caster. *Rat Empathy* Bonus Action: summon 2 more immediately.
 - **Round 2 — bite & overwhelm.** Clusters of 3 combine *Tide of Teeth* on the
-  same target to stack disease saves. Fester moves up behind his rat screen and
+  same target to stack disease saves. Ratatat moves up behind his rat screen and
   swings the *Sickle* at anyone adjacent. Summon 2 more.
 - **Round 3+ — desperate caller.** If the rats dwindle, *Call the Tide* rushes
   every remaining rat at the lowest-HP PC. Keep summoning 2 per Bonus Action.
-- **≤10 HP — Scatter! and run.** Fester triggers *Scatter!* and **bolts for the
-  exit** (or whatever he could grab — see below). If genuinely cornered he
-  **surrenders, babbling about "the Master who taught me the Calling."**
+- **≤10 HP — Scatter! and run.** Ratatat triggers *Scatter!* and **bolts for the
+  exit** (or whatever map/gift he could grab — see below). If genuinely cornered
+  he **surrenders, babbling about "the Master who taught me the Calling"** — and,
+  pressed, about the one who *pays* him for the maps (his
+  [First Foundation](../lore/the-first-foundation.md) handler, **V.** — a lead,
+  not a confession he gives up easily).
 
 > **Play tips.** One shared initiative for all rats; move them in clusters to
 > keep it fast. AoE (Burning Hands, Thunderwave) kills every rat it touches — no
@@ -159,15 +173,16 @@ drop to 8 to taste, or omit entirely for a smoother fight.
 
 | | |
 |---|---|
-| **XP** | Fester only by default (~20/player for 5 PCs); or a flat **+25 XP** for clearing the room |
-| **On Fester** | 1d6 cp + a silver ring (2 sp) |
-| **Key item** 🔒 | A crumpled note: *"Bring more to the nest beneath the mill. — V."* — the lead toward his handler/fence (see [Who he works for](#who-he-is--reconciling-the-card-with-canon)) |
+| **XP** | Ratatat only by default (~20/player for 5 PCs); or a flat **+25 XP** for clearing the room |
+| **On Ratatat** | 1d6 cp + a silver ring (2 sp) |
+| **Key item** 🔒 | A crumpled note: *"Bring more to the nest beneath the mill. — V."* — "bring more **maps**," from his [First Foundation](../lore/the-first-foundation.md) handler **V.** (see [Who he works for](#who-he-is--reconciling-the-card-with-canon)). The party's thread up the chain. |
 | **Inspiration** | The player who uses fire, a bottleneck, or the environment to wipe multiple rats at once |
 
 ## Open threads
 
 - `[OPEN]` **Rat-headed vs. human** — settle his appearance / the reveal.
-- 🔒 `[OPEN]` **"V." and the nest beneath the mill** — adopt as his handler? It
-  answers *who he works for* and gives the [gate-guard lead](../sessions/session-04.md)
-  somewhere to point.
-- `[loose]` **Fester Mott** as his true name/alias, and when the party learns it.
+- 🔒 `[OPEN]` **Who is "V."?** His [First Foundation](../lore/the-first-foundation.md)
+  handler's name/identity and where the **nest beneath the mill** sits. The
+  [gate-guard lead](../sessions/session-04.md) points up this chain.
+- 🔒 `[OPEN]` **How the First Foundation cell operates in Maalm** — is V. the only
+  remnant agent the party will meet, or the tip of a standing rival network?

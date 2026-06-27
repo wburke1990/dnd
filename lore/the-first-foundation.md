@@ -64,6 +64,28 @@ climax (the "names & ownership" thesis made concrete — see [campaign overview]
 
 ---
 
-*Open: the First Foundation's true in-world name; whether any First Foundation
-remnant still operates today, or whether the Second Foundation supplanted it after
-the ~1,000-ya coup.*
+## A remnant still operates — in Maalm, now 🔒
+
+`[settled — in play]` **At least one First Foundation cell is active today,** running
+**counter-espionage on Preem's Second Foundation from inside Maalm.** Its field agent
+is **[Ratatat, the rat man](../bestiary/the-rat-man.md)** — the rat-headed thief who
+**ambushes Preem's crews on the tower steps and steals their maps,** the atlases Preem
+hands out marking where each crew is sent. The maps are **intelligence:** they tell the
+First Foundation *where Preem is collecting and what,* ahead of the one-year comet pass
+both orders mean to control.
+
+- Ratatat reports to a **representative of the Foundation, "V.",** at a **"nest beneath
+  the mill"** (a local drop). `[OPEN]` V.'s identity, and whether V. is a lone holdout
+  or the visible end of a standing rival network in the city.
+- This reframes the party's [Session 1](../sessions/session-01.md) doorstep ambush: it
+  was never Preem watching his hirelings — it was **Preem's enemy watching Preem.** The
+  party has begun pulling the thread (a caught [gate guard](../sessions/session-04.md)
+  in their pay).
+- **Why it matters:** the order the party may ultimately side with to *avert* the
+  cataclysm is already moving against their patron — and using a wretched, rat-ridden
+  thief to do it. First contact with the "good" Foundation is through its grubbiest agent.
+
+---
+
+*Open: the First Foundation's true in-world name; **V.'s identity and the reach of the
+Maalm cell** (above).*

@@ -38,6 +38,12 @@
   thread moves their suspicion **off Preem and onto the rat man** — the correct
   read the campaign has been steering toward since the
   [Session 1 doorstep ambush](session-01.md). Reward it.
+- 🔒 **And the thread runs deeper than the rat man.** [Ratatat](../bestiary/the-rat-man.md)
+  serves a **[First Foundation](../lore/the-first-foundation.md) representative**
+  ("V."), stealing Preem's **maps** as espionage. Followed far enough, this
+  gate-guard lead is the party's **first contact with Preem's rivals** — the order
+  that wants to *avert* the cataclysm Preem means to trigger. Don't rush it;
+  let them earn the rungs (guard → rat man → V.).
 - **Give him a name and a depth.** `[loose]` Call him **Dask** for now (swap
   freely). `[OPEN]` decide whether he's a **paid informant** (just sells movements
   for coin, scared, will flip) or a **true accomplice** (knows the rat man's
@@ -50,10 +56,11 @@
 
 - [ ] **Name and stat the gate guard** (provisional: **Dask**) — `[OPEN]`
       informant vs. accomplice; what he knows; whether he flips.
-- [ ] **Decide what the thread leads to** — the rat man's hideout, the
-      [square guards](../encounters/the-second-hand-ambush.md) he pays for the
-      ambushes, or his **handler "V." at the "nest beneath the mill"** (the lead
-      surfaced on the rat man's loot — see
-      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md)).
+- [ ] **Decide what the thread leads to.** It runs up to the
+      **[First Foundation](../lore/the-first-foundation.md) cell** behind the rat
+      man ([Ratatat](../bestiary/the-rat-man.md)): the [square guards](../encounters/the-second-hand-ambush.md)
+      he pays → Ratatat himself → his handler **"V." at the "nest beneath the
+      mill."** This is the party's on-ramp to Preem's rivals — the order they may
+      ultimately side with.
 - [ ] Carry forward the open threads from [Session 3](session-03.md): **Tomb IV**
       (Amseh IV, the Valley capstone) and the **names ledger**.
