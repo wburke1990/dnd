@@ -177,12 +177,23 @@ rg -oc '<new SBx GUID>'    <save>   # each = 2 (token + JotBase line)
   ship a plain black image as the floor plate
   (`coolbackgrounds.io/...pure-black-background`). They Build fine but
   render a black floor under the pieces — flag it for the user to eyeball.
-- **Dead-link piece textures.** Many donor maps ride decayed hosts
-  (photobucket, deviantart `orig00`, general-chaos.com, 3dstudio-max.com,
-  coolbackgrounds.io) and aging Steam UGC. The Build won't break, but
-  some piece textures 404. Harden a keeper with `tts assets backup` /
-  `tts assets rehost` on the destination — see
-  [tts-asset-debug.md](tts-asset-debug.md).
+- **Dead-link assets — and the kind that CRASHES the Build.** Many donor
+  maps ride decayed hosts (photobucket, deviantart `orig00`,
+  general-chaos.com, 3dstudio-max.com, coolbackgrounds.io) and aging
+  Steam UGC. A dead *texture* (a CustomMesh Diffuse/Image URL) is only
+  cosmetic — the piece renders blank. But a dead **`Custom_Assetbundle`**
+  is fatal: TTS feeds the bad payload to the bundle decompressor, throws
+  `Failed to decompress data for the AssetBundle 'Memory'` mid-build, and
+  OneWorld closes **without clearing or spawning the area** (exactly the
+  "Build broke / won't clear" symptom). The usual offender is a
+  Google-Drive `uc?export=download` URL that has flipped to an HTML
+  sign-in interstitial — a GET returns `<!doctype …>` instead of magic
+  bytes `UnityFS`. Diagnose by GET-probing each `Custom_Assetbundle`
+  child's `AssetbundleURL` and checking the first bytes; fix by deleting
+  the offending child from the content bag **and** its line from the SBx
+  position manifest (a dangling manifest entry can itself break the
+  build), or rehost the bundle. Harden keepers with `tts assets backup` /
+  `tts assets rehost` — see [tts-asset-debug.md](tts-asset-debug.md).
 - **Stay prompt-free.** The TTS install dir
   (`/Users/wcb/Library/Tabletop Simulator`) is whitelisted in
   `.claude/settings.json` → `permissions.additionalDirectories`, so

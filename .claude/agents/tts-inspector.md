@@ -40,6 +40,33 @@ back in prose.
   you need to narrow the query.
 - Quote your jq filters with single quotes; escape shell metacharacters.
 
+## Bash must be FLAT — or you spam the user with permission prompts
+
+The permission analyzer prompts the user for **any Bash command it can't
+statically vet**, and those prompts block on mobile and **cannot be
+allowlisted away**. A single inspection that fires six analyzer-tripping
+commands means six blocking prompts. So every command you run must be a
+single, flat, literal pipeline:
+
+- **One command per Bash call.** Pipes are fine
+  (`jq … | sort | uniq -c | head`); a simple `a && b` is fine.
+- **NO `for`/`while` loops, NO `;` sequencing, NO `{ … }` grouping, NO
+  shell functions** (`probe() { … }`). Need to check N things? Make N
+  separate Bash calls, or fold the iteration **into jq**
+  (`select(.GUID | IN("a","b","c"))`, `--args`, `reduce`) — jq's own
+  loops don't trip the analyzer; shell loops do.
+- **NO shell variables.** No `P="…/file.json"; jq … "$P"`, no
+  `g=$(…)` command substitution, no `${var}` or `$(( … ))`. Write the
+  literal absolute path inline in every command, every single time.
+- **NO process substitution `<( … )`** and **no `jq -f file`**.
+- To probe many asset URLs, run `curl` once per URL as separate flat
+  calls — more calls, but zero prompts.
+
+These are not style preferences: `for`-loops trip `simple_expansion`,
+`;`/`{}` trip `compound_statement`, `<()` trips `process_substitution`,
+shell functions trip `brace with quote` — each prompts regardless of any
+allowlist entry. Flat literal commands are the only prompt-free path.
+
 ## What you return
 
 A short prose paragraph (preferred) or a small structured list. Lead with
