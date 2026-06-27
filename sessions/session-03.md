@@ -70,4 +70,6 @@ healing powers and a curse for anyone who harms those under her protection.
 - [ ] Track party standing with **Kethara and the lepers** for continuity.
 - [ ] Still unresolved from Session 1: the **escaped rat man** — who is
       **bribing the city-gate guides** to shadow the party (which the party
-      has misread as Preem watching them).
+      has misread as Preem watching them). **Now being pulled:** in
+      [Session 4](session-04.md) the party Insight-checked the gate guards
+      and caught **one who knows the rat man** — a live lead into his network.

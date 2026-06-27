@@ -39,7 +39,8 @@ restocking his pantry.)
   Session 2 it's established that **he's bribing the city-gate guides** to
   track the party's movements. The ambush *right outside Preem's tower* is a
   thread to keep pulling — he's watching Preem's hirelings, which the party
-  will (wrongly) read as Preem himself watching them.
+  will (wrongly) read as Preem himself watching them. (Pulled in
+  [Session 4](session-04.md): the party caught a gate guard who knows him.)
 - **His real motive: the gifts.** Preem outfits every crew with magic gifts
   ([Preem's gifts](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene)),
   and the rat man knows it — so he waits outside the tower and **robs crews of
