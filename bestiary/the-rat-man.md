@@ -4,10 +4,11 @@
 > [Preem](../characters/preem.md)'s crews on the tower steps since
 > [Session 1](../sessions/session-01.md) — he robs departing crews of their
 > **gifts (the maps above all),** brings **his rats,** **pays the square's
-> guards** for muscle, and **flees rather than dies.** 🔒 He is **not** a lone
-> thief: he works for a **representative of the [First Foundation](../lore/the-first-foundation.md)** —
-> Preem's wronged rivals — stealing the Second Foundation's maps to learn where
-> Preem is sending crews and what he's collecting for the coming comet pass.
+> guards** for muscle, and **flees rather than dies.** 🔒 He's a **useful
+> idiot:** a buyer he knows only as **"V."** pays him to steal Preem's **maps,**
+> and Ratatat asks no questions. He has **no idea** V. is an agent of the
+> [First Foundation](../lore/the-first-foundation.md), Preem's wronged rivals —
+> so catching him exposes a thief and a name, not the conspiracy behind it.
 > These are his table stats, supplied by the DM and recorded here so the
 > [ambush encounter](../encounters/the-second-hand-ambush.md) is self-contained.
 >
@@ -33,21 +34,23 @@
   the rats follow. Pick one — *literally rat-headed* (a beastman), *a filthy
   human the swarm obeys,* or *rat-headed is a mask/illusion.* The mechanics don't
   care; the reveal does.
-- 🔒 `[settled]` **Who he works for — the First Foundation.** Ratatat answers to a
-  **representative of the [First Foundation](../lore/the-first-foundation.md),**
-  Preem's ancient rivals. He isn't robbing crews for coin — he's running
-  **counter-espionage on the Second Foundation,** stealing Preem's **maps** to
-  learn where the crews are sent and what the Second Foundation is gathering to
-  control the next comet pass. This resolves the standing *who does the rat man
-  work for* thread ([Session 1](../sessions/session-01.md)) **and** the First
-  Foundation file's open question of *whether any remnant still operates today* —
-  yes: at least this one cell, through Ratatat.
-  - 🔒 `[loose]` **The handler "V."** The card's loot note —
-    *"Bring more to the nest beneath the mill. — V."* — reads cleanly as the
-    First Foundation **representative** giving Ratatat his orders: bring the
-    stolen maps to the cell's drop (a **nest beneath the mill**), signed **V.**
-    `[OPEN]` who V. is (the rep's name/alias) and where the mill-nest sits. The
-    caught [gate guard](../sessions/session-04.md) is a lead up the same chain.
+- 🔒 `[settled]` **Who he works for — a useful idiot, knowingly for "V.,"
+  unknowingly for the First Foundation.** Ratatat steals Preem's **maps** for a
+  buyer called **"V."** and asks nothing more; the coin is good. He does **not**
+  know V. is an agent of the [First Foundation](../lore/the-first-foundation.md),
+  or that the maps are espionage on the Second Foundation. That ignorance is the
+  point: he's the **insulation layer** that keeps the real conspiracy off the
+  books. Catch him and you get a thief who can give up **V.** — and nothing
+  above V., because there is nothing above V. *that Ratatat knows.* (This
+  resolves *who the rat man works for* from [Session 1](../sessions/session-01.md):
+  the answer is a cut-out.)
+  - 🔒 `[settled]` **The lead ends at V.** V. is the **single known First
+    Foundation agent in Maalm** (the city is Second-Foundation ground, and they're
+    ruthless — so the Foundation runs **compartmentalized:** agents don't know
+    each other, and they handle real comms **by magic,** leaving no network to
+    roll up). V. keeps Ratatat at arm's length precisely so a captured thief is a
+    dead end. The caught [gate guard](../sessions/session-04.md) and Ratatat both
+    point at **V. and no further.** `[OPEN]` who V. is.
 
 ---
 
@@ -141,10 +144,10 @@ falls. Track with tokens or a d20.
   every remaining rat at the lowest-HP PC. Keep summoning 2 per Bonus Action.
 - **≤10 HP — Scatter! and run.** Ratatat triggers *Scatter!* and **bolts for the
   exit** (or whatever map/gift he could grab — see below). If genuinely cornered
-  he **surrenders, babbling about "the Master who taught me the Calling"** — and,
-  pressed, about the one who *pays* him for the maps (his
-  [First Foundation](../lore/the-first-foundation.md) handler, **V.** — a lead,
-  not a confession he gives up easily).
+  he **surrenders, babbling about "the Master who taught me the Calling"** and,
+  pressed, about **"V.,"** the buyer who pays him for maps. He **can't** say more
+  than that — he has no idea who V. really is (see
+  [Who he works for](#who-he-is--reconciling-the-card-with-canon)).
 
 > **Play tips.** One shared initiative for all rats; move them in clusters to
 > keep it fast. AoE (Burning Hands, Thunderwave) kills every rat it touches — no
@@ -175,14 +178,14 @@ drop to 8 to taste, or omit entirely for a smoother fight.
 |---|---|
 | **XP** | Ratatat only by default (~20/player for 5 PCs); or a flat **+25 XP** for clearing the room |
 | **On Ratatat** | 1d6 cp + a silver ring (2 sp) |
-| **Key item** 🔒 | A crumpled note: *"Bring more to the nest beneath the mill. — V."* — "bring more **maps**," from his [First Foundation](../lore/the-first-foundation.md) handler **V.** (see [Who he works for](#who-he-is--reconciling-the-card-with-canon)). The party's thread up the chain. |
+| **Key item** 🔒 | A crumpled note: *"Bring more to the mill. — V."* — crude pay-instructions from **V.** (Ratatat's outside the magic-comms loop, so V. scrawls notes to him). Points to a **meeting spot, and so to V.** — the one thread, which ends there. |
 | **Inspiration** | The player who uses fire, a bottleneck, or the environment to wipe multiple rats at once |
 
 ## Open threads
 
 - `[OPEN]` **Rat-headed vs. human** — settle his appearance / the reveal.
-- 🔒 `[OPEN]` **Who is "V."?** His [First Foundation](../lore/the-first-foundation.md)
-  handler's name/identity and where the **nest beneath the mill** sits. The
-  [gate-guard lead](../sessions/session-04.md) points up this chain.
-- 🔒 `[OPEN]` **How the First Foundation cell operates in Maalm** — is V. the only
-  remnant agent the party will meet, or the tip of a standing rival network?
+- 🔒 `[OPEN]` **Who is "V."?** Identity of the [First Foundation](../lore/the-first-foundation.md)'s
+  one known agent in Maalm — the buyer Ratatat fences maps to, and where they
+  meet. The [gate-guard lead](../sessions/session-04.md) and Ratatat both point
+  here, and the trail **ends here** (V. is compartmentalized; no network above to
+  uncover).

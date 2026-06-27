@@ -50,12 +50,14 @@ restocking his pantry.)
   moment they leave,** freshly loaded. The **map is the prize** (the rats lunged
   for it here); he pays the square's guards to fight and grabs for it. Replayed
   in full as [The Second Hand Ambush](../encounters/the-second-hand-ambush.md).
-- 🔒 **And he's not freelancing — he serves the First Foundation.** Ratatat
-  answers to a **representative of the [First Foundation](../lore/the-first-foundation.md),**
-  Preem's ancient rivals. Stealing the Second Foundation's maps is **espionage:**
-  the First Foundation wants to know *where Preem is sending crews and what he's
-  collecting* for the coming comet pass. So the doorstep ambush isn't Preem
-  watching the party — it's **Preem's enemy watching Preem.**
+- 🔒 **And he's a useful idiot, not a freelancer.** Ratatat steals the maps for a
+  buyer he knows only as **"V."** — and has **no idea** V. is an agent of the
+  [First Foundation](../lore/the-first-foundation.md), Preem's ancient rivals, or
+  that the maps are **espionage** (telling them *where Preem is sending crews and
+  what he's collecting* for the comet pass). So the doorstep ambush isn't Preem
+  watching the party — it's **Preem's enemy watching Preem,** through a thief who
+  doesn't know whose errand he runs. Catching Ratatat leads only to V., and no
+  further.
 - The party walked away from the fight with **rat meat** harvested from
   the encounter. This became a running prop across the next two sessions:
   they keep offering it to everything they meet.
@@ -71,10 +73,10 @@ restocking his pantry.)
 - [x] **Rat man + rats stat blocks recorded** in
       [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (**Ratatat,**
       "the Rat Caller" — CR ½ + 14 rat minions).
-- [x] **Rat man's agenda settled:** he robs crews of their **maps** for a
-      **[First Foundation](../lore/the-first-foundation.md) representative**
-      (espionage on Preem's Second Foundation). Still `[OPEN]`: **who the
-      representative is** (the handler "V.") and how deep the cell runs — see
+- [x] **Rat man's agenda settled:** a **useful idiot** who steals the **maps**
+      for a buyer "V." — unknowingly feeding **[First Foundation](../lore/the-first-foundation.md)**
+      espionage on Preem. Trail ends at **V.** (the one Maalm agent;
+      compartmentalized). Still `[OPEN]`: **who V. is** — see
       [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md).
 - [ ] **He hunts *every* Preem crew, not just the PCs.** Replayed as a
       set-piece in [The Second Hand Ambush](../encounters/the-second-hand-ambush.md):

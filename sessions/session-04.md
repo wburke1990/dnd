@@ -38,12 +38,14 @@
   thread moves their suspicion **off Preem and onto the rat man** — the correct
   read the campaign has been steering toward since the
   [Session 1 doorstep ambush](session-01.md). Reward it.
-- 🔒 **And the thread runs deeper than the rat man.** [Ratatat](../bestiary/the-rat-man.md)
-  serves a **[First Foundation](../lore/the-first-foundation.md) representative**
-  ("V."), stealing Preem's **maps** as espionage. Followed far enough, this
-  gate-guard lead is the party's **first contact with Preem's rivals** — the order
-  that wants to *avert* the cataclysm Preem means to trigger. Don't rush it;
-  let them earn the rungs (guard → rat man → V.).
+- 🔒 **And the thread runs one rung deeper — then stops.** [Ratatat](../bestiary/the-rat-man.md)
+  is a **useful idiot** who sells Preem's stolen **maps** to a buyer **"V."**,
+  never knowing V. is a **[First Foundation](../lore/the-first-foundation.md)**
+  agent running espionage on Preem. So the chain is **guard → Ratatat → V., and
+  ends at V.** (the Foundation's one Maalm agent — compartmentalized, magic-comms,
+  nothing above her/him that anyone below knows). Reaching V. is the party's
+  **first contact with Preem's rivals,** the order that wants to *avert* the
+  cataclysm. Don't rush it; let them earn each rung.
 - **Give him a name and a depth.** `[loose]` Call him **Dask** for now (swap
   freely). `[OPEN]` decide whether he's a **paid informant** (just sells movements
   for coin, scared, will flip) or a **true accomplice** (knows the rat man's
@@ -56,11 +58,11 @@
 
 - [ ] **Name and stat the gate guard** (provisional: **Dask**) — `[OPEN]`
       informant vs. accomplice; what he knows; whether he flips.
-- [ ] **Decide what the thread leads to.** It runs up to the
-      **[First Foundation](../lore/the-first-foundation.md) cell** behind the rat
-      man ([Ratatat](../bestiary/the-rat-man.md)): the [square guards](../encounters/the-second-hand-ambush.md)
-      he pays → Ratatat himself → his handler **"V." at the "nest beneath the
-      mill."** This is the party's on-ramp to Preem's rivals — the order they may
-      ultimately side with.
+- [ ] **Decide what the thread leads to.** The chain is **guard →
+      [Ratatat](../bestiary/the-rat-man.md) → "V."** — and **ends at V.,** the
+      [First Foundation](../lore/the-first-foundation.md)'s one (compartmentalized)
+      agent in Maalm. Ratatat is a useful idiot who can only point at V.; V. is
+      the party's on-ramp to Preem's rivals, the order they may ultimately side
+      with. `[OPEN]` who V. is.
 - [ ] Carry forward the open threads from [Session 3](session-03.md): **Tomb IV**
       (Amseh IV, the Valley capstone) and the **names ledger**.

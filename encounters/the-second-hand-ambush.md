@@ -55,8 +55,9 @@ fighting, snatches what he can, and **flees the moment the party turns the
 tide** — as he always does. Stats: **[The Rat Man (Ratatat)](../bestiary/the-rat-man.md)**
 (CR ½ + 14 rat minions). He's a skirmisher who grabs loot and bolts, not a
 creature who stands and trades blows — his **Scatter!** reaction *is* the escape.
-🔒 He works for a **[First Foundation](../lore/the-first-foundation.md)
-representative** and is really after the crew's **maps.**
+🔒 He's a **useful idiot** after the crew's **maps,** selling them to a buyer
+"V." he doesn't know is a **[First Foundation](../lore/the-first-foundation.md)**
+agent.
 
 **The three corrupt guards** — the muscle. **Guards posted in the square** that
 the rat man **pays off on the spot** to turn on the departing crew. **Three** of

@@ -66,26 +66,37 @@ climax (the "names & ownership" thesis made concrete — see [campaign overview]
 
 ## A remnant still operates — in Maalm, now 🔒
 
-`[settled — in play]` **At least one First Foundation cell is active today,** running
-**counter-espionage on Preem's Second Foundation from inside Maalm.** Its field agent
-is **[Ratatat, the rat man](../bestiary/the-rat-man.md)** — the rat-headed thief who
-**ambushes Preem's crews on the tower steps and steals their maps,** the atlases Preem
-hands out marking where each crew is sent. The maps are **intelligence:** they tell the
-First Foundation *where Preem is collecting and what,* ahead of the one-year comet pass
-both orders mean to control.
+`[settled — in play]` **The First Foundation still has a hand in Maalm,** running
+**counter-espionage on Preem's Second Foundation.** But Maalm is the Second
+Foundation's own city and they are **ruthless,** so the remnant operates with hard
+**operational security:**
 
-- Ratatat reports to a **representative of the Foundation, "V.",** at a **"nest beneath
-  the mill"** (a local drop). `[OPEN]` V.'s identity, and whether V. is a lone holdout
-  or the visible end of a standing rival network in the city.
+- **One known agent: "V."** The party will meet exactly **one** First Foundation
+  operative in Maalm — the handler called **V.** `[settled]` This is deliberate, not
+  thin worldbuilding: more visible agents = more ways to get rolled up by Preem's
+  people. `[OPEN]` V.'s identity.
+- **Compartmentalized, and magical.** Agents **don't know each other,** and they handle
+  real communication **by magic** (sending and the like) rather than couriers or
+  dead-drops — magic exists, so there's no paper trail or comms network for Preem to
+  unravel. Capturing one thread doesn't unspool the rest.
+- **Ratatat is a useful idiot, not a member.** The rat-headed thief
+  **[Ratatat](../bestiary/the-rat-man.md)** does the dirty work — ambushing Preem's
+  crews on the tower steps and **stealing their maps** (the atlases marking where each
+  crew is sent, i.e. *where Preem is collecting and what*). But V. only ever shows him
+  **coin and crude instructions;** Ratatat has **no idea** he serves the First
+  Foundation, or that the maps are intelligence. He's the **insulation layer** — a
+  captured thief gives up V.'s meeting spot and nothing more, because that's all he
+  knows.
 - This reframes the party's [Session 1](../sessions/session-01.md) doorstep ambush: it
-  was never Preem watching his hirelings — it was **Preem's enemy watching Preem.** The
-  party has begun pulling the thread (a caught [gate guard](../sessions/session-04.md)
-  in their pay).
+  was never Preem watching his hirelings — it was **Preem's enemy watching Preem,**
+  through a thief who doesn't know whose errand he runs. The party has begun pulling
+  the thread (a caught [gate guard](../sessions/session-04.md) in Ratatat's pay).
 - **Why it matters:** the order the party may ultimately side with to *avert* the
-  cataclysm is already moving against their patron — and using a wretched, rat-ridden
-  thief to do it. First contact with the "good" Foundation is through its grubbiest agent.
+  cataclysm is already moving against their patron — and its first, grubbiest face is a
+  rat-ridden thief who isn't even in on the secret. The trail runs **guard → Ratatat →
+  V., and stops at V.**
 
 ---
 
-*Open: the First Foundation's true in-world name; **V.'s identity and the reach of the
-Maalm cell** (above).*
+*Open: the First Foundation's true in-world name; **V.'s identity** (the one known Maalm
+agent, above).*
