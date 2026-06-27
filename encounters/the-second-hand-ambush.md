@@ -52,9 +52,9 @@ The encounter has three beats:
 **thief working the tower's loading dock,** here for the **gifts** the departing
 crew is carrying. He brings **his rats,** lets the **paid guards** do the heavy
 fighting, snatches what he can, and **flees the moment the party turns the
-tide** — as he always does. (Run him and his rats from their existing stat
-blocks; he's a skirmisher who grabs loot and bolts, not a creature who stands and
-trades blows.)
+tide** — as he always does. Stats: **[The Rat Man / Fester Mott](../bestiary/the-rat-man.md)**
+(CR ½ + 14 rat minions). He's a skirmisher who grabs loot and bolts, not a
+creature who stands and trades blows — his **Scatter!** reaction *is* the escape.
 
 **The three corrupt guards** — the muscle. **Guards posted in the square** that
 the rat man **pays off on the spot** to turn on the departing crew. **Three** of
@@ -154,9 +154,9 @@ gone — but the party has now **seen** the rat man field corrupt guards, and th
 
 # LOOSE ENDS FOR PREP
 
-- [ ] **Record the rat man + rats stat blocks in `bestiary/`** if they aren't
-      written down yet — they exist at the table, but the markdown is the source
-      of truth, so drop them in so the encounter is self-contained.
+- [x] **Rat man + rats stat blocks recorded** in
+      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (Fester Mott, CR ½
+      + 14 rat minions). Scale guard count / rats to your party.
 - [ ] **Lock the corrupt-guard sergeant's name** and his history with Cassia.
 - [ ] **Decide the citadel staging** — alley vs. plaza vs. the tower steps
       themselves (most pointed: ambushed on Preem's own doorstep).

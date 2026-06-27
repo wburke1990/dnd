@@ -50,8 +50,10 @@
 
 - [ ] **Name and stat the gate guard** (provisional: **Dask**) — `[OPEN]`
       informant vs. accomplice; what he knows; whether he flips.
-- [ ] **Decide what the thread leads to** — the rat man's hideout, his fence for
-      the stolen gifts, or the [square guards](../encounters/the-second-hand-ambush.md)
-      he pays for the ambushes.
+- [ ] **Decide what the thread leads to** — the rat man's hideout, the
+      [square guards](../encounters/the-second-hand-ambush.md) he pays for the
+      ambushes, or his **handler "V." at the "nest beneath the mill"** (the lead
+      surfaced on the rat man's loot — see
+      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md)).
 - [ ] Carry forward the open threads from [Session 3](session-03.md): **Tomb IV**
       (Amseh IV, the Valley capstone) and the **names ledger**.

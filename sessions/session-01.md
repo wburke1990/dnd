@@ -59,9 +59,9 @@ restocking his pantry.)
 
 # LOOSE ENDS FOR PREP
 
-- [ ] **Record the rat man + rats stat blocks in `bestiary/`** if they
-      aren't written down yet — they exist at the table; the markdown is
-      the source of truth, so capture them there.
+- [x] **Rat man + rats stat blocks recorded** in
+      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (Fester Mott,
+      "the Rat Caller" — CR ½ + 14 rat minions).
 - [ ] Decide the rat man's **deeper agenda**: his ambush motive is now
       settled (he robs Preem's outfitted crews of their **gifts** —
       see DM notes above), but **who he ultimately works for / what he
