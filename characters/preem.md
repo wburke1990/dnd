@@ -237,6 +237,12 @@ The whole campaign points here. **[settled]**
 5. **Blackacre's letter** — Preem issued the letter of marque that brought
    [Blackacre](blackacre.md) to Maalm. Useful lever for tying that PC's arc to
    the patron.
+6. **The other crews** — Preem runs [many name-hunting groups](#after-the-first-two-sessions--whats-canon-at-the-table)
+   at once. One of them, [The Second Hand](the-second-hand.md), the party meets
+   being ambushed by the rat man just as they were
+   ([the ambush](../encounters/the-second-hand-ambush.md)); saved, the crew
+   becomes a standing ally — and, because Preem runs them too, a lever he can
+   turn against the party at the climax.
 
 ## Open threads to resolve with the player (sankaku)
 

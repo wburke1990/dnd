@@ -58,3 +58,8 @@ restocking his pantry.)
       with the party, given he's bribing the city-gate guides to follow
       them. See the running `[OPEN]` decisions in
       `lore/campaign-overview.md`.
+- [ ] **He hunts *every* Preem crew, not just the PCs.** Replayed as a
+      set-piece in [The Second Hand Ambush](../encounters/the-second-hand-ambush.md):
+      the party finds another of Preem's groups ([The Second Hand](../characters/the-second-hand.md))
+      pinned down by the rat man and **corrupt city guards**, saves them,
+      and gains a standing ally / anti-TPK cavalry.
