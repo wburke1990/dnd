@@ -45,7 +45,7 @@ flat. Tune races/classes to taste.
 - `[loose]` **Captain Cassia Roan** — **human**, the crew's leader and the
   voice that orders a rescue. **Ex–Maalm citadel watch:** she wore the same
   badge the corrupt guards still wear, and **quit when she saw the rot** — which
-  is why she has a personal score with the gate-sergeant now in the rat man's
+  is why she has a personal score with the square's sergeant now in the rat man's
   pocket ([the ambush](../encounters/the-second-hand-ambush.md)). Fighter /
   battle-captain. Pragmatic, dry, hard to rattle. She decides who the Second
   Hand spends itself for — and after the party saves her people, that's the
@@ -74,12 +74,14 @@ flat. Tune races/classes to taste.
 ## How they meet — the ambush that bonds them
 
 `[settled]` Full encounter: **[The Second Hand Ambush](../encounters/the-second-hand-ambush.md).**
-In short: somewhere in Maalm's citadel district the party comes on the Second
-Hand **already losing** — the **rat man** has caught them leaving Preem's tower
-the way he caught the PCs, but this time he's brought **corrupt city guards**
-(the bribed gate-guides, now openly his) to close the trap. The party wades in,
-the rat man **runs** (as he always does), the corrupt guards are **cut down or
-break,** and the Second Hand owes the party their lives.
+In short: just outside Preem's tower the party comes on the Second Hand
+**already losing** — the **rat man** has caught them on the way out the way he
+caught the PCs, because Preem **outfits every crew with magic gifts** and the rat
+man **robs them the moment they leave, freshly loaded.** This time he's brought
+**his rats** and **paid three of the square's guards** to do the killing while he
+claws for the loot. The party wades in, the rat man **runs** (as he always does)
+with whatever he could grab, the **three corrupt guards** are cut down or break,
+and the Second Hand owes the party their lives.
 
 Why it works:
 - **It's the party's own Session-1 ambush, replayed for them to watch.** Seeing
@@ -87,10 +89,13 @@ Why it works:
   **all** of Preem's crews, and — incorrectly, the way the campaign wants — that
   **Preem's people are watched,** which curdles their trust toward the patron
   instead of the real handler. ([Session 1 DM notes](../sessions/session-01.md).)
-- **It introduces the corrupt guards as a faction,** not a one-off: the rat man
-  doesn't just bribe informants, he **owns muscle inside the watch.** Cassia's
-  history with them makes the fight personal and gives the party a hook into
-  Maalm's civic rot.
+- **It introduces the corrupt watch,** not as a one-off: the rat man can **buy
+  the square's guards on the spot** to do his killing. Cassia's history with the
+  sergeant makes the fight personal and gives the party a hook into Maalm's civic
+  rot.
+- **It tells the party what the ambushes are *for*:** the rat man preys on
+  Preem's outfitted crews to **strip them of their gifts** — which is, in
+  hindsight, exactly what he tried on the PCs in Session 1.
 - **It earns the alliance.** A cavalry that just *shows up* is a cheat; a
   cavalry the party **first saved themselves** is a debt being repaid. The
   rescue button costs nothing precisely because the party already paid for it

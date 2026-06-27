@@ -18,6 +18,17 @@ outside.** The rat man does to *every* one of Preem's crews what he did to the
 PCs; this time the party stumbles on it mid-fight, with the victims still
 salvageable.
 
+**Why the rat man is there — the gifts.** Preem
+[outfits every crew](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene)
+he sends out with **magic gifts** (the atlas and location stone, an amulet, the
+rest). The rat man **knows the tower's habit,** so he doesn't chase crews across
+the world — he **waits outside the tower and robs them the moment they leave,**
+loaded with fresh gifts and not yet scattered. He brings **his rats** and **pays
+the guards in the square** to do the heavy fighting; he stays at the edge and
+grabs for the loot. (This is also, in hindsight, why he hit the **PCs** right
+outside the tower in [Session 1](../sessions/session-01.md) — they were freshly
+gifted and walking out the door.)
+
 Run it any time the party is **back in Maalm's citadel district** after Session 1
 — returning to the tower, resupplying, reporting a name. The closer to Preem's
 square tower, the better the thematic rhyme.
@@ -37,17 +48,20 @@ The encounter has three beats:
 # DRAMATIS PERSONAE
 
 **The rat man** — the rat-headed humanoid who ambushed the party in
-[Session 1](../sessions/session-01.md) and has been shadowing Preem's hirelings
-since. He is **not here to die.** He springs the trap, lets the corrupt guards do
-the work, and **flees the moment the party turns the tide** — as he always does.
-*(Still un-statted as of Session 1's loose ends — run him as a skirmisher who
-disengages and bolts; statting him properly is a [standing to-do](../sessions/session-01.md).)*
+[Session 1](../sessions/session-01.md). He's not here on a grudge — he's a
+**thief working the tower's loading dock,** here for the **gifts** the departing
+crew is carrying. He brings **his rats,** lets the **paid guards** do the heavy
+fighting, snatches what he can, and **flees the moment the party turns the
+tide** — as he always does. (Run him and his rats from their existing stat
+blocks; he's a skirmisher who grabs loot and bolts, not a creature who stands and
+trades blows.)
 
-**The corrupt city guards** — the real fight. The **bribed gate-guides** the rat
-man pays to track Preem's crews, now openly his muscle. A **sergeant** and
-**3–5 guards** (scale to party). Use the **Guard** / **Veteran** stat blocks; the
-sergeant is a Veteran. They fight as professionals until the sergeant falls or
-the rat man flees, then **break and run.**
+**The three corrupt guards** — the muscle. **Guards posted in the square** that
+the rat man **pays off on the spot** to turn on the departing crew. **Three** of
+them; use the **Guard** stat block, and make one a **Veteran sergeant** if you
+want Cassia's grudge to have a face (she used to outrank him). They fight while
+the coin's good — when the sergeant drops or the rat man bolts, they **break and
+run.**
 
 **The Second Hand** — the crew being ambushed, introduced fully in
 [their writeup](../characters/the-second-hand.md):
@@ -57,8 +71,8 @@ the rat man flees, then **break and run.**
   arrives (he put himself between the guards and the others).
 - **Nuru** — valley-born mage, out of spells, the one who later **splits the
   scrying-glyph.**
-- **Corvin Lark** — half-elf scout; the guards came for him first because he
-  works the same informant network they do.
+- **Corvin Lark** — half-elf scout; was carrying the crew's **fresh gifts** (the
+  location stone among them), which is exactly what the rat man is lunging for.
 
 ---
 
@@ -66,10 +80,11 @@ the rat man flees, then **break and run.**
 
 A crew of four backed against a wall in a citadel alley or plaza: a dwarf down in
 the dirt with a human captain standing over him, a mage with nothing left, a
-scout bleeding. Closing on them — **men in city-watch colors,** which is the
-wrong thing to see, because the watch shouldn't be murdering people in Preem's
-shadow. And at the edge of it, half in a doorway, **a rat-headed figure the party
-will recognize.**
+scout bleeding. Closing on them — **three guards in city-watch colors,** which is
+the wrong thing to see, because the watch shouldn't be murdering people in Preem's
+shadow, and **rats boiling out of the gutters** with them. And at the edge of it,
+half in a doorway, **a rat-headed figure the party will recognize** — already
+clawing at the scout's satchel of gifts.
 
 The read the party is meant to take — and the read the campaign *wants* them to
 take — diverge, and that's the point:
@@ -84,16 +99,20 @@ take — diverge, and that's the point:
 
 # RUNNING THE FIGHT
 
-- **The rat man is a coward by design.** He opens the scene, maybe throws one
-  nasty trick, and **disengages and flees** the instant the party's weight lands.
-  Do **not** let the party corner and kill him here — he's the campaign's
-  recurring antagonist and the chase is a thread, not a kill. If they pursue, he
-  loses them in the gate-guide warren (his home turf).
-- **The corrupt guards are the encounter.** Sergeant (Veteran) + 3–5 Guards,
-  scaled to party level and size. They fight with discipline; they **break** when
-  the sergeant drops or the rat man bolts. A surrendered or captured guard is a
-  **lever into Maalm's civic rot** and a way for the party to learn the watch is
-  compromised.
+- **The rat man is a coward by design.** He fights through his **rats** and the
+  paid guards, grabs for the gifts, and **disengages and flees** the instant the
+  party's weight lands. Do **not** let the party corner and kill him here — he's
+  the campaign's recurring antagonist and the chase is a thread, not a kill. If
+  they pursue, he loses them in the alleys (his home turf).
+- **The prize is the gifts.** What the rat man actually wants is the **crew's
+  gifts** — the location stone above all. Let him **try to escape with one** if
+  the party is slow; recovering it (or failing to) is a clean stake on top of the
+  lives. It also tells the party, correctly, what these ambushes are *for*.
+- **Three corrupt guards + the rats are the combat.** Three **Guards** (one a
+  **Veteran sergeant** if you want Cassia's grudge to land) plus the rat man's
+  **rats.** The guards fight while the coin's good and **break** when the sergeant
+  drops or the rat man bolts. A surrendered or captured guard is a **lever into
+  Maalm's civic rot** — proof the rat man can buy the watch in the square.
 - **Cassia fights to reach the sergeant.** If the party keeps Halvard alive and
   lets Cassia get her hands on the man who sold out the watch, that's the
   emotional beat — let it land.
@@ -135,8 +154,9 @@ gone — but the party has now **seen** the rat man field corrupt guards, and th
 
 # LOOSE ENDS FOR PREP
 
-- [ ] **Stat the rat man** (still the standing [Session 1](../sessions/session-01.md)
-      to-do) — even a skirmisher block makes his flee-mechanic cleaner to run.
+- [ ] **Record the rat man + rats stat blocks in `bestiary/`** if they aren't
+      written down yet — they exist at the table, but the markdown is the source
+      of truth, so drop them in so the encounter is self-contained.
 - [ ] **Lock the corrupt-guard sergeant's name** and his history with Cassia.
 - [ ] **Decide the citadel staging** — alley vs. plaza vs. the tower steps
       themselves (most pointed: ambushed on Preem's own doorstep).

@@ -40,6 +40,13 @@ restocking his pantry.)
   track the party's movements. The ambush *right outside Preem's tower* is a
   thread to keep pulling — he's watching Preem's hirelings, which the party
   will (wrongly) read as Preem himself watching them.
+- **His real motive: the gifts.** Preem outfits every crew with magic gifts
+  ([Preem's gifts](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene)),
+  and the rat man knows it — so he waits outside the tower and **robs crews of
+  their gifts the moment they leave,** freshly loaded. That's why the PCs got
+  hit on the doorstep with the ink barely dry on their atlas. He pays the
+  square's guards to do the fighting and grabs for the loot. Replayed in full as
+  [The Second Hand Ambush](../encounters/the-second-hand-ambush.md).
 - The party walked away from the fight with **rat meat** harvested from
   the encounter. This became a running prop across the next two sessions:
   they keep offering it to everything they meet.
@@ -51,13 +58,14 @@ restocking his pantry.)
 
 # LOOSE ENDS FOR PREP
 
-- [ ] **Write up the rat man** in `bestiary/` — he's a real recurring
-      antagonist but isn't statted yet. (User's note: not added yet,
-      to-do.)
-- [ ] Decide the rat man's **agenda**: who he works for / what he wants
-      with the party, given he's bribing the city-gate guides to follow
-      them. See the running `[OPEN]` decisions in
-      `lore/campaign-overview.md`.
+- [ ] **Record the rat man + rats stat blocks in `bestiary/`** if they
+      aren't written down yet — they exist at the table; the markdown is
+      the source of truth, so capture them there.
+- [ ] Decide the rat man's **deeper agenda**: his ambush motive is now
+      settled (he robs Preem's outfitted crews of their **gifts** —
+      see DM notes above), but **who he ultimately works for / what he
+      wants beyond the loot** is still open. See the running `[OPEN]`
+      decisions in `lore/campaign-overview.md`.
 - [ ] **He hunts *every* Preem crew, not just the PCs.** Replayed as a
       set-piece in [The Second Hand Ambush](../encounters/the-second-hand-ambush.md):
       the party finds another of Preem's groups ([The Second Hand](../characters/the-second-hand.md))
