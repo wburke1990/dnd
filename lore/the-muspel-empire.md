@@ -114,6 +114,19 @@ zero-sum trade** (see [campaign overview §5](campaign-overview.md)). Orc and ha
 warrior culture is genuinely **noble** — and the raids were also predation. Both true
 at once: the campaign's *no-clean-good-guys* thesis at war-scale.
 
+**Raiding *and* trading — the same longship.** `[Will, 6/28]` The Viking parallel runs
+all the way through: the Norse **raided and traded on the same voyage,** and so did the
+Muspel. A captain who burned a monastery one season ran **furs, walrus-ivory, amber, and
+slaves** down the river-roads the next (our **Rus** opening the routes to the southern
+markets). So the orcs/half-orcs had a real **sea-borne commerce** at their height — but it
+was **never a merchant *state* and never a guild.** It was financed the way the Norse
+financed everything: a **small king or petty captain bankrolled an expedition,** took the
+lion's share, and shared out the rest among the crew. Trade and war were one enterprise
+under one warlord, not a separate mercantile class. *(The fully mercantile,
+merchant-oligarchy side of the Phoenician analog lives with the **dragonborn** — Lonka as
+Tyre — see [wandering-dragonborn](wandering-dragonborn.md); these orcs keep only the
+raider's version of trade.)*
+
 ---
 
 ## 4. The Turn — constant war hardens the raided (~300 ya → present)
@@ -218,6 +231,20 @@ worst of it from the shadows — so port mobs and Sunne-blessed militias have
 families and town-born half-orcs who never raided anyone, as "the sea-devils'
 spawn." The reconquest's ugliness (§4–6) carried inland, against civilians, with no
 army to dignify it as war.
+
+**The last vestige — half-orcs and the sea-roads they still hold.** `[Will, 6/28]`
+What the diaspora kept, when the longships and the crowns were gone, was the **trade**
+(§3). Settled in other peoples' ports, half-orc families stayed **the skippers, pilots,
+and brokers** of the inter-island routes — independent coasters and the old **trade-houses
+("merchant halls") on the wharves,** the **last vestige of the age when their people ruled
+Nila's water.** It is a shadow of the old sea-dominance — not a fleet, not a state, just
+families who still know the currents and the customers. 🔒 And it is **being taken from
+them:** the [Company](the-company.md) out of [Noku Kurunatuka](nila-atlas.md) is **muscling
+the half-orc skippers off the routes and seizing the old merchant halls** — sometimes by
+undercutting and buying out, sometimes by wrecking, blacklisting, and worse. The
+commercial side of the same colonial squeeze the Order of Sunne runs with fire and faith:
+where Kuru burns the diaspora as heathens, the Company simply **ruins** them and takes the
+business. (See [the Company](the-company.md).)
 
 ---
 
