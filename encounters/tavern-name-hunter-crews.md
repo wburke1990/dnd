@@ -146,11 +146,34 @@ are **theirs**.*
 
 | # | Name | Species | ↔ PC | The opposite choice they made |
 |---|------|---------|------|-------------------------------|
-| 1 | **Setha Renk** | Half-elf | **Blackacre** | A half-blood in a founder-blood crew, twice as ruthless to hold a seat the pure lines say she hasn't earned. On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
+| 1 | **Setha Renk** | Half-elf | **Blackacre** | **Preem's half-blood protégée** — she carries a thinned founder line the old houses killed her mother to bury, and means to claw the council seat back over anyone in her way (full story below). On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | Has burned camps and buried the screaming. He'll tell Sarric, kindly, over a drink, that the screams stop following you eventually — you just have to let them. The exact peace Sarric is terrified of making. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | Chose to be remade to read the names — gave up a piece of herself willingly and has never once doubted it. Aniess was transformed without consent and can't say who she'd have been; Issa was transformed by choice and is perfectly, chillingly sure. |
 | 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
 | 5 | **Vael Astre** | Elf | **Pax** | Had his own revelation in the tombs: he looked at what the names *do* and decided dominion over souls is simply the right order of things. Pax speaks for the wounded living world; Vael speaks for the hand that owns it. Two prophets, opposite gods. |
+
+**Setha's claim (why she's like this).** Setha is a **founder-blood bomb in
+half-elf skin.** Her mother was the last of a **thinned founder house** — real
+old blood, a near-dead claim to a reserved, elves-only council seat — who tied
+the dying line to **Preem's cabal** for a road back to power, and bore Setha to
+a non-elf father. To the **founder bloc** that holds the old quarter, a
+half-blood carrying a live founder claim was intolerable twice over — an
+upstart's client *and* a "names-and-ownership bomb" that could revive a seat
+they'd written off — so **one of the old houses had her mother killed** to end
+the line quietly. Preem, who never wastes a useful asset, took the orphaned
+half-blood in and **chartered her the Lapis Writ**. That history is the engine
+under everything she does:
+
+- **On Preem** — genuinely loyal, because he's the only door that ever opened
+  for her, but **no true believer**; she resents needing him and knows he uses
+  her right back. *(A live flip-lever: show her what Preem really is, or offer
+  her the houses' heads, and her loyalty is in play.)*
+- **On the houses** — cold, patient fury. They scorned her, murdered her
+  mother, and sit on the seat that is hers by blood.
+- **Why she's *this* ruthless** — the flawless Valley run is at once her
+  **audition for Preem** and her war-chest against the houses, so nothing
+  outweighs the record. *("Lapis Writ" reads as the writ of claim she means to
+  win back.)*
 
 **Setha's buried truth (tomb three).** Her betrayal happened somewhere the
 party has already stood: the **rising-water puzzle in tomb three**, which they
