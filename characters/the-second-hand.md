@@ -50,13 +50,19 @@ flat. Tune races/classes to taste.
   battle-captain. Pragmatic, dry, hard to rattle. She decides who the Second
   Hand spends itself for — and after the party saves her people, that's the
   party.
-- `[loose]` **Halvard Stone** — **Suartleheim dwarf,** oath-bound shieldbearer
+- `[settled]` **Halvard Stone** — **Suartleheim dwarf,** oath-bound shieldbearer
   (paladin). The **body that takes the hit:** when the Second Hand bails the
-  party out, Halvard is the one who plants himself in the breach. An old soldier
-  — `[OPEN]` possibly a veteran of one of the [Kuru crusades](../lore/kuru-and-the-phoenix.md),
-  a thread you can pull if [Shepard](shepard.md) or [Vigil](../lore/kuru-and-the-phoenix.md)
-  ever crosses the party. The crew's moral anchor and its conscience about what,
-  exactly, they're being paid to dig up.
+  party out, Halvard is the one who plants himself in the breach. A **veteran of
+  the [Musleheim Reconquest](../lore/kuru-and-the-phoenix.md):** a shipwright from
+  the yards at Ools who took an oath and shipped out with Kuru's holy war against
+  the orc-held lands, and came home **soured on it** — a colonial engine dressed
+  as faith, a god that may be going mad. The crew's **moral anchor,** and its
+  **conscience** about what they're being paid to dig up: he has stood in a holy
+  cause that curdled before, and he watches this one the same way. **Shepard
+  hook:** Shepard spent centuries as a statue in a Suartleheim town, so Halvard
+  can simply **recognize him** — "the iron saint from the square back home" — a
+  quiet way to spring the [Shepard](shepard.md) / [Vigil](../lore/kuru-and-the-phoenix.md)
+  thread through an ally instead of exposition.
 - `[loose]` **Nuru** — **valley-born mage,** descended from the peoples near the
   [Valley of the Kings](../encounters/valley-of-the-kings.md). The crew's
   lore-value to the party: Nuru can **read the tombs, the old script, and the
@@ -182,7 +188,5 @@ Why it works:
 - `[OPEN]` **Does a Second Hand member die** in a rescue, and if so **who, and
   when** (Pell, the youngest, is the leading candidate) — the most reliable way
   to keep the anti-TPK lever from going stale.
-- `[OPEN]` **Halvard's crusade past** and whether it ties to
-  [Kuru / Vigil / Shepard](../lore/kuru-and-the-phoenix.md).
 - `[OPEN]` **Climax allegiance** — do they break Preem's leash for the party, or
   not?
