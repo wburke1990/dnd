@@ -42,14 +42,23 @@
 Five members, sketched so you can run them fast and lose one without it landing
 flat. Tune races/classes to taste.
 
-- `[loose]` **Captain Cassia Roan** — **human**, the crew's leader and the
-  voice that orders a rescue. **Ex–Maalm citadel watch:** she wore the same
-  badge the corrupt guards still wear, and **quit when she saw the rot** — which
-  is why she has a personal score with the square's sergeant now in the rat man's
-  pocket ([the ambush](../encounters/the-second-hand-ambush.md)). Fighter /
-  battle-captain. Pragmatic, dry, hard to rattle. She decides who the Second
-  Hand spends itself for — and after the party saves her people, that's the
-  party.
+- `[settled]` **Captain Cassia Roan** — **human** fighter / battle-captain, the
+  crew's leader. **Ex–Maalm citadel watch:** she wore the same badge the corrupt
+  guards still wear, until she moved to expose her sergeant's racket — the watch
+  taking Ratatat's coin to look away from his robberies and killings — and was
+  **forced out and blacklisted** for it, the rot closing ranks against the one
+  honest badge. That's the wound beneath the trait: she stood in a uniform that
+  bled people for nothing and could save no one, so now she **decides who the
+  Second Hand spends itself for** and guards them ferociously — which is why, the
+  moment the party saves her people, that loyalty swings to them. **The irony she
+  can't see:** in quitting one corrupt master she signed straight onto a worse,
+  hidden one in Preem, and when his leash is finally revealed it lands as the
+  watch all over again — priming her to be the one who **breaks it**
+  ([the climax](#the-alliance--and-the-anti-tpk-lever)). Pragmatic, dry, hard to
+  rattle — right up until she watches the bought guards move to **"arrest"**
+  Ratatat and walk him to safety (or pile into the fight when the party won't
+  fall for it), and the old fury comes straight back up
+  ([the ambush](../encounters/the-second-hand-ambush.md)).
 - `[settled]` **Halvard Stone** — **Suartleheim dwarf,** oath-bound shieldbearer
   (paladin). The **body that takes the hit:** when the Second Hand bails the
   party out, Halvard is the one who plants himself in the breach. A **veteran of
@@ -108,9 +117,12 @@ caught the PCs, because Preem **outfits every crew with magic gifts** and the ra
 man **robs them the moment they leave, freshly loaded.** This time he's brought
 **his rats** and turns **three of the square's guards he already owns** — bought
 into silence as witnesses to his crimes — to do the killing while he claws for
-the loot. The party wades in, the rat man **runs** (as he always does)
-with whatever he could grab, the **three corrupt guards** are cut down or break,
-and the Second Hand owes the party their lives.
+the loot. The party wades in — and the bought guards pull the watch's oldest
+trick: badges out, they move to **"arrest" Ratatat** and march him off to
+"custody" (and safety). Let them, and he's gone clean; refuse, and they **drop
+the pretense and fight** to cover his exit. Either way the rat man **runs** (as
+he always does) with whatever he could grab, the corrupt guards are cut down or
+break, and the Second Hand owes the party their lives.
 
 Why it works:
 - **It's the party's own Session-1 ambush, replayed for them to watch.** Seeing
@@ -120,8 +132,9 @@ Why it works:
   instead of the real handler. ([Session 1 DM notes](../sessions/session-01.md).)
 - **It introduces the corrupt watch,** not as a one-off: the rat man **already
   owns the square's guards** — every witness to his crimes bought into silence —
-  and turns them on his killing. Cassia's history with the sergeant makes the
-  fight personal and gives the party a hook into Maalm's civic rot.
+  and turns them on his killing. Watching the watch **shield Ratatat with a sham
+  arrest** is the precise rot Cassia was blacklisted for naming, so the fight is
+  personal for her and gives the party a hook into Maalm's civic rot.
 - **It tells the party what the ambushes are *for*:** the rat man preys on
   Preem's outfitted crews to **strip them of their gifts** — which is, in
   hindsight, exactly what he tried on the PCs in Session 1.
