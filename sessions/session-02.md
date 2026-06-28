@@ -37,18 +37,24 @@ table intends.
 > charmed/frightened for a week; the curse is sandstorms following the eater
 > 3d6 days (disadvantage on ranged attacks outdoors).
 
-## Suspicion at the city gate
+## The city gate — the guards and the lepers' supplies
 
-The party came away suspicious of the **guides at the city gate** — that the
-people who pointed them toward the Valley aren't the neutral locals they
+At the gate out toward the Valley the party dealt with **Wiglaf,** the guard on
+the post — clean, straight as they come — while two others, **Unferth** and
+**Hygelac,** loaded the **huts with the charity supplies** bound for the lepers
+sheltering at the tombs. The party came away **suspicious of the gate** — that
+the men who point travelers toward the Valley aren't the neutral locals they
 seem.
 
-- The party's working theory is that the guides answer to **Preem**. That's
-  *wrong* — but it's a productive wrong. **The guides are actually being
-  bribed by the rat man** (the creature that ambushed the party outside
-  Preem's tower in Session 1). So the party has correctly sensed they're
-  being watched/handled, but wrongly pinned it on their patron instead of on
-  the escaped ambusher who's been one step ahead of them since the city.
+- The party's working theory is that the guards answer to **Preem**. That's
+  *wrong* — but it's a productive wrong. The rot is **one man, not the post:**
+  **Hygelac** takes the **rat man's** coin (the creature that ambushed the party
+  outside Preem's tower in Session 1). Hygelac also pulls **shifts in the town
+  square,** and what he's really paid for is to **look the other way while the
+  rat man ambushes Preem's crews there.** **Wiglaf and Unferth are clean.** So
+  the party has correctly sensed something's off at the gate, but wrongly pinned
+  it on their patron instead of on the escaped ambusher — and on the one bought
+  guard, not the whole watch.
 
 ## The first tomb
 
@@ -65,13 +71,17 @@ chamber and recovered what the tomb held (per Preem's commission, the
   as a universal goodwill offering — set up the **lepers** at the Valley
   entrance (who find the offer insulting) and the **cave lions** (Session
   3) as payoff/contrast.
-- **The guides answer to the rat man, not Preem.** The party's suspicion is
+- **Hygelac answers to the rat man, not Preem.** The party's suspicion is
   pointed at the wrong man. The real link is back to the **escaped rat man**
-  (S1), who is bribing the city-gate guides — so he's tracking the party's
-  movements without Preem necessarily knowing. Big lever: when the party
-  eventually unpicks this, it both *exonerates* Preem in their eyes (keeping
-  them trusting their patron longer) and reveals the rat man as a real,
-  persistent adversary. Decide what the guides actually feed back to him.
+  (S1), who pays **Hygelac** — a gate guard who also works the **town square** —
+  to **look the other way while he ambushes Preem's outfitted crews** there.
+  **Wiglaf and Unferth are clean;** the rot is one bought guard, not the post.
+  Big lever: when the party eventually unpicks this, it both *exonerates* Preem
+  in their eyes (keeping them trusting their patron longer) and reveals the rat
+  man as a real, persistent adversary. Hygelac is also the guard
+  **[Corvin Lark](../characters/the-second-hand.md)** of the Second Hand had
+  dealt with for years — the same betrayal that lets *that* crew walk into an
+  ambush.
 - **The Set-beast's tip about the lions** paid off in Session 3 — the party
   arrived at the lions' tomb already inclined to parley/feed rather than
   fight.
@@ -83,7 +93,9 @@ chamber and recovered what the tomb held (per Preem's commission, the
 - [ ] Decide whether the **Set-beast** is a one-off hunt-table result or
       something that recurs (it's a Fiend of Set — could be a recurring
       omen/guide rather than just a meal).
-- [ ] Pin down what the **city-gate guides** actually feed back to the
-      **rat man**, so the party's misplaced suspicion can pay off later.
+- [ ] **Decide when/how the party exposes Hygelac** — the one bought gate guard,
+      who takes the rat man's coin to look away during the square ambushes
+      (Wiglaf and Unferth are clean). The mechanic's settled; this is payoff
+      timing.
 - [ ] Tomb I's **name** — log which name they pulled, for the running
       names-collected ledger.

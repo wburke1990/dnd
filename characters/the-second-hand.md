@@ -90,12 +90,12 @@ flat. Tune races/classes to taste.
   mouth in the city. He deals in **forged names and papers** — a mundane rhyme
   with the campaign's name-obsession: he sells *false* names for coin while Preem
   steals *true* ones from the dead. Corvin knows Maalm's gates and squares cold,
-  and which guards are bought: at the gate just **one** is Ratatat's (the one the
-  party met), but **all** the square's guards are on the take, since they're
-  witnesses Ratatat has to keep quiet. The ambush is **personal** for him — that
-  one dirty gate guard was someone Corvin had dealt with for years
-  (`[OPEN]` his name to come, from the guard's card), and the man sold the Second
-  Hand's departure to Ratatat for coin. Charming, transactional, never quotes a
+  and which guards are bought: at the gate only **Hygelac** takes Ratatat's coin
+  — **Wiglaf** and **Unferth** run straight — and Hygelac also pulls **square
+  shifts,** where Ratatat owns every guard as a witness to keep quiet. The ambush
+  is **personal** for Corvin: Hygelac was a man he'd dealt with for years, and
+  he's the one who took the coin to **look the other way** while the Second Hand
+  walked into the trap. Charming, transactional, never quotes a
   straight price; in his trade, trust gets you killed.
 - `[loose]` **Pell** — **human field-medic** (Life-domain hedge-cleric or
   herbalist), the crew's **healer and its heart.** Learned medicine tending the
