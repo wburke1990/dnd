@@ -64,15 +64,18 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 > dry land. That's the only way a dwarf ever bested an orc at sea — by making it
 > not the sea.
 >
-> "So they called on the deep — or the deep answered for them, who's to say —
-> and the sea itself rose against *everyone* in that bay. The water boiled black.
-> Hail came down the size of a fist, an ounce to every stone, and it caved in
-> skulls on both fleets — dwarf and orc alike. And out of the burning fog the
-> hag-queens of the deep walked the waves, and from every finger of their hands an
-> arrow flew, and every arrow was a death — and they did not care whose. You can't
-> fight that. You can't board a witch. The longships caught fire on the water and
-> went down with the drums still beating — and a good many dwarf hulls burned down
-> beside them.
+> "And we weren't fighting alone. The orcs called on the deep — on the hag-queens
+> of the dark water, our own drowned grandmothers — and they *came*. Out of the
+> burning fog they walked the waves, and from every finger of their hands an arrow
+> flew, and every arrow was a dwarf's death. We were *winning*, witches and all.
+>
+> "And then the floor of the sea opened its mouth. Not for us, not for them — the
+> mountain under the water just woke, and the whole bay boiled black. Hail the
+> size of a fist, an ounce to every stone, caving in skulls on every deck — dwarf,
+> orc, and witch alike. The deep doesn't take sides; it took *everyone*. You can't
+> fight that. You can't board a drowning mountain. The longships caught fire on the
+> water and went down with the drums still beating — and a good many dwarf hulls
+> burned down beside them.
 >
 > "But hear me — they didn't *beat* us. Man for man, deck for deck, the orcs had
 > the better of that fight; we left a dwarf dead for every son of ours the sea

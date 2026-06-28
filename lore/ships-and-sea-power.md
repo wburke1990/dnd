@@ -100,16 +100,25 @@ rigged with a **corvus** — a hinged boarding-ramp tipped with a heavy iron bea
 that dropped through a longship's deck and nailed it fast, so the dwarves could
 storm across and settle it hand-to-hand, where they win. And it *still* wasn't
 enough — the **outnumbered orcs were winning,** gutting the dwarf fleet ship for
-ship, until the bay itself decided things: **a small eruption of the undersea
-volcanoes just beginning to raise the Kurunatukas** (the saga's god-called
-hailstorm) tore the floor out from under *both* fleets. The water boiled, the sky
-turned, and fire and ounce-heavy hail fell on **dwarf and orc alike** — the deep
-playing no favorites. But the orcs were the fewer, and lashed fast to the dwarves'
-own corvi, so they **broke first.** The dwarves were left holding the bay — and a
+ship, and loosing worse than steel: the **troll-women of the deep** (the saga's
+Þorgerðr and Irpa, here the **orcs' own dark sea-patrons**) walked the waves and
+loosed an arrow from every finger, each one a dwarf's death. What broke it was
+loyal to neither side — **a small eruption of the undersea volcanoes just
+beginning to raise the Kurunatukas** (the saga's god-called hailstorm) tore the
+floor out from under *both* fleets. The water boiled, the sky turned, and fire and
+ounce-heavy hail fell on **dwarf, orc, and witch alike** — the deep playing no
+favorites. But the orcs were the fewer, and lashed fast to the dwarves' own corvi,
+so they **broke first.** The dwarves were left holding the bay — and a
 fleet gutted twice over, by orc steel and by the mountain under the sea.
 That eruption is the **same hot-spot volcanism still surfacing the
 Kurunatukas today** — so *the battle that broke the orc sea and the birth of the
 new land are one event.*
+
+`[loose — Will, 6/26]` **The troll-women are the *orcs'* patrons for now** (their
+arrows fell dwarves). We may **flip them to the dwarf side** later — the
+saga-literal reading, since Þorgerðr and Irpa fought for Hákon, the *winner*. To
+switch sides, swap whose arrows they loose, here and in Mogg's tavern telling
+([tavern-name-hunter-crews.md](../encounters/tavern-name-hunter-crews.md)).
 
 > *"From the fingers of the troll-women arrows flew, and each shaft was a man's
 > death; and so great a hailstorm followed that every stone weighed an ounce."*
@@ -123,8 +132,8 @@ new land are one event.*
 > the stroke fell on the man holding his hair instead. **Jómsvíkinga saga**
 
 **A victory that drowned — three deaths of one fleet.** The dwarves came with the
-**bigger fleet** and lost it three times over: **orc steel** gutted them ship for
-ship in the bay; the **eruption** took dwarf and orc together; and on the voyage
+**bigger fleet** and lost it three times over: **orc steel and the troll-women's arrows** gutted them in the
+bay; the **eruption** took dwarf, orc, and witch together; and on the voyage
 home a **storm** found what was left. The **corvus** is iron and it rides *high*,
 so a top-heavy fleet — already savaged to a remnant — capsizes the moment the sea
 gets up: the whole thing rolled belly-up and went down with all hands, not one
