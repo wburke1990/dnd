@@ -63,6 +63,16 @@ bones of the people it replaced. Preem's demon-slavery is the engine underneath.
   beachheads on Musleheim) is the **visible geopolitical background** — the war on the
   map. The **Amseh elven empire** and **Maalm itself** are the **deep-history backdrop**,
   proving it has always been this way. *The same operation at four scales.*
+- **The two arms of the present conquest (resolved — 6/28):** the colonization of the
+  archipelago runs on **two methods that rhyme.** **Kuru is the militaristic *religious*
+  arm** — the [Order of Sunne](kuru-and-the-phoenix.md), crusade and warforged legions,
+  fire and faith. **The [Company](the-company.md) is the militaristic *merchant* arm** —
+  Nila's **East India Company** out of [Noku Kurunatuka](nila-atlas.md), 🔒 secretly the
+  [Second Foundation](the-second-foundation.md)'s and the **source of Preem's money** —
+  coin, charter, and a private army. One burns the [orc diaspora](the-muspel-empire.md)
+  as heathens; the other ruins and buys them out. The Company is also the **single author
+  the campaign was missing for its ecological atrocities** (the party's backstory crimes
+  included) — *the thing they should want to burn down.*
 - **Orcs/half-orcs** *(resolved — see [the Muspel empire & the orc wars](the-muspel-empire.md))*:
   born ~1,000 years ago when the comet's mutating sickness came down on Musleheim and
   remade the **Muspel empire's own people** — orcs near the impact, half-orcs at the
@@ -300,12 +310,14 @@ mechanics of the circle-cast duel]`
   [Egyptian afterlife mythology](egyptian-afterlife-mythology.md),
   [house rules & world mechanics](house-rules-and-world-mechanics.md),
   [Kuru & the phoenix](kuru-and-the-phoenix.md),
+  [the Company (the merchant arm)](the-company.md),
   the Second Foundation, the elven stronghold, the wandering dragonborn.
 - **`characters/`** — PCs (Sarric, Aniess, Jasper, Pax) and NPCs (Preem,
   Preem's demons, Mul, the dream-quest children & demon wife, Blackacre, the
   psychic bat).
 - **`encounters/`** — [Valley of the Kings](../encounters/valley-of-the-kings.md),
-  [The Dream Quest](../encounters/the-dream-quest.md).
+  [The Dream Quest](../encounters/the-dream-quest.md),
+  [The Haals Runoff (first eco-terror job)](../encounters/the-haals-runoff.md).
 - **`handouts/`** — player-facing text: tomb inscriptions, grave poems, the
   Dream-of-the-Blue-Veil incantation, the Ragnarok scroll.
 - **`prompts/`** — verbatim AI image-generation prompts for the tomb art.
