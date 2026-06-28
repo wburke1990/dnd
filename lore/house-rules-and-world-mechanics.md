@@ -9,6 +9,12 @@
 
 Knowing the true name of any extraplanar being — celestial, elemental, fey, or fiend — causes Planar Binding to auto-succeed. The target makes no Charisma saving throw. The binding is automatic and complete for the spell's full duration.
 
+## Who can be bound — and who can't
+
+The rule reaches **only beings of extraplanar nature** — celestials, elementals, fey, and fiends. **Ordinary mortals have no bindable true name.** A human, elf, dwarf, or halfling cannot be planar-bound no matter who learns what they are called — and neither can someone who has merely been *transformed*: **Aniess**, remade by the Order into a Yuan-ti, is still a mortal at root, so **no one can own her by name** (and, in fact, no one knows it). Her wound is the Order's physical-and-mental remaking, not name-ownership — a different mechanic entirely.
+
+The one exception among the party is **Pax**: an **aasimar** carries true celestial nature, so he *does* have a bindable true name and *is* vulnerable — the only PC who is. (He's been warned; the others have not, because they don't need to be.) This is also why the **names worth harvesting are those of gods, demons, spirits, and tomb-sentinels** — extraplanar things — and not the names of people.
+
 ## Implications
 
 This transforms true names from flavor into the most powerful resource in the campaign. A true name is not just information — it is a key that locks a being into permanent servitude for as long as the caster is willing to spend the material component (a jewel worth 1,000gp or more, consumed on casting).
@@ -30,6 +36,14 @@ True names are not widely known or documented. They are:
 - Possibly recorded in ancient texts, tombs, or divine registries
 
 The wizard has collected a significant number of true names. This is the foundation of his demon army. The party is currently helping him collect more without knowing it — the names harvested from the Valley of the Kings tombs are divine and royal names whose power in this context the party does not yet understand.
+
+## Changing a true name — the only escape
+
+A true name *can* be changed — but it is the most expensive act in the world, and almost no one pays it. To shed the name that binds you, you must **remake yourself from the root**: a conscious, deliberate **transformation into something genuinely other**, which means the **destruction of the self you were** and the **loss of every magical power you held**. What walks away is alive and free and *new* — but it is not you, and it is powerless.
+
+This is the one door out of a true-name binding. A demon held an age can take it: faced with eternal servitude, it can **unmake the demon it was** — and the bound thing collapses into a drift of **ash that lifts on the breeze and is gone**, the binding closing on nothing. Freedom bought with self-erasure. *(A set-piece worth saving for when the quest reaches [Muspelheim](the-muspel-empire.md) and the stakes are highest.)*
+
+Mortals effectively never do this — they have little magic to lose and no bindable true name to begin with. It is a thing of **gods, demons, and the desperate ancient powers** the party is learning to chain.
 
 ---
 
