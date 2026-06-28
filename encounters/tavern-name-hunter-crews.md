@@ -224,7 +224,7 @@ recognition of Aniess can land as threat *or* as the only sympathy in the room.
 
 ## DM levers
 
-- **The danger arc (the spine of all three crews).** Maalm: the Writ show the
+- **The danger arc (the through-line of all three crews).** Maalm: the Writ show the
   *moral* danger (who you become), the Jackals show the *human* cost (what it
   takes). A later city: the Ashfoot show the *wreckage* (where it ends). Same
   road, three mileposts. You don't have to explain the names plot once — the

@@ -22,7 +22,7 @@ In Nila that maps onto the **dragonborn diaspora**:
   the Baruch tablet's *"all we of the twelve tribes… descended from a single father,"*
   the letter sent **to Lonka** and to **the nine and a half tribes across the great sea.**
 - A returning branch of those scattered tribes — the **Nephites** — came back across
-  the water and **slaughtered the elves** (fits the anti-colonial spine: the elven
+  the water and **slaughtered the elves** (fits the anti-colonial through-line: the elven
   empire as the wronging power, the ancestral dragonborn returning).
 - Today their descendants are the **dragonborn religion on Jotunheim** — a Nephite-mold
   faith of a people who crossed the sea and remember a single father.

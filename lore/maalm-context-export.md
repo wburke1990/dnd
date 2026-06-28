@@ -33,7 +33,7 @@ approaches a hidden cistern.**
 - **Preem** (Second Foundation chair) sits **close to power** — his tower is in the
   citadel beside the council — **but does not control it:** the **newer cabal can't
   crack the hereditary founder seats.** That gap is built-in intrigue.
-- 🔒 **[loose]** The *real* spine of power is **whoever controls water (the cistern-keeper
+- 🔒 **[loose]** The *real* seat of power is **whoever controls water (the cistern-keeper
   caste) and fertility (the seabird-wardens / guano stores)** — **likely the founder
   lineages themselves,** since the Twelve built over the tomb and the cisterns lie in
   those same upper tunnels. Caste/guild/temple wrapped in religion; a strong next thread.

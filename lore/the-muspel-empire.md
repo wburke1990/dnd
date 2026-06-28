@@ -236,7 +236,7 @@ in what state — gone native, besieged, or turned into something out on the ice
 - **Kuru / the Order of Sunne** is one of the *"same operation at different scales"*
   (campaign overview §2) — a colonial-crusader power standing beside the dead Amseh
   empire and Preem's demon-trade.
-- Feeds the **anti-colonial** spine: there is no innocent party here. Muspel colonized
+- Feeds the **anti-colonial** through-line: there is no innocent party here. Muspel colonized
   Kuru; the orcs raided the islands; Kuru now marches on Musleheim. Everyone has named
   someone else's world as their own.
 - The **Hannibal** thread (§5) hands you a fresh, recent, emotionally-loaded war the

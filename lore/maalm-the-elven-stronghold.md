@@ -196,7 +196,7 @@ to the players in the opening session). **[settled]**
 
 ### Who really holds the power
 - Control of **water (the cistern-keepers)** and **fertility (the seabird-wardens and
-  guano stores)** is the **real spine of Maalm's hierarchy:** beneath the council and the
+  guano stores)** is the **real bedrock of Maalm's hierarchy:** beneath the council and the
   gated upper city sits **whoever controls the cisterns and the guano.** **[loose]**
 - **The unifying move (likely):** the **founder-blood lineages *are* the families
   that hold the cisterns.** The Twelve **built Maalm over the tomb — and the

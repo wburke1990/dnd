@@ -54,7 +54,7 @@ Neither child asks what happened to their mother. They already know she's gone. 
 # DM NOTE — THE WIZARD'S HAND
 
 *Also private from the players. This is the thread that ties the dream quest to
-the campaign's spine.*
+the campaign's through-line.*
 
 The dead merchant is **a small-scale version of [Preem](../characters/preem.md)**
 — the wizard the party already works for, even if they don't yet know he keeps

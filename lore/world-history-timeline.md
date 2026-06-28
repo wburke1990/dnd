@@ -7,7 +7,7 @@
 > is load-bearing — most of this is myth recorded by unreliable hands, and several
 > spans are deliberately soft (`[OPEN]` flags the genuinely unresolved ones).
 >
-> Sources are linked per entry. The spine to keep in view: **the comet returns on
+> Sources are linked per entry. The thread to keep in view: **the comet returns on
 > a ~1,000-year cycle, and every return remakes the world** — stones fall, become
 > dragons and beasts, become islands, and back again. History begins with a
 > transformation and is paced by them. (See the campaign's

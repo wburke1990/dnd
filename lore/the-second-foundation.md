@@ -54,7 +54,7 @@ the tie to the ancient-empire fall synthesizes existing campaign lore.]**
   northern sea is larger."* Those missing islands are **volcanic**. The last
   Ragnarok's **volcanic winter** is also what **raised the volcanic islands**.
   Fire and ash remade the map. That is what Ragnarok *does*.
-- The campaign's spine is this **climate / land-creation-and-destruction
+- The campaign's through-line is this **climate / land-creation-and-destruction
   theme** — *"think Krakatoa and the Hawaiian islands."* Volcanism makes land
   and unmakes it; Ragnarok is that force at world-scale. Whoever controls it
   controls the shape of the world to come.

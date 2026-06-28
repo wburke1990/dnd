@@ -191,7 +191,7 @@ The whole campaign points here. **[settled]**
   **control a demon who can set off volcanoes**, or refuse him. They will be
   handed the **volcano-demon's true name** and asked to use it — the same act
   the merchant performed on his wife, at world-ending scale.
-- The campaign's spine is a **climate / land-creation-and-destruction theme** —
+- The campaign's through-line is a **climate / land-creation-and-destruction theme** —
   *"think Krakatoa and the Hawaiian islands."* The cataclysm that buried the
   ancient empire (the last Ragnarok) raised the volcanic islands missing from
   the tomb-map; volcanism makes land and unmakes it. Preem wants his hand on
