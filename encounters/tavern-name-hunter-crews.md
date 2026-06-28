@@ -151,7 +151,7 @@ are **theirs**.*
 |---|------|---------|------|-------------------------------|
 | 1 | **Setha Renk** | Half-elf | **Blackacre** | **Preem's half-blood protégée** — she carries a thinned founder line the old houses killed her mother to bury, and means to claw the council seat back over anyone in her way (full story below). On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | A **Suartleheim powderman** (the mining-isle's rock-breaking-and-fire craft) who carried the old **Hjörungavágr** grudge into the **Sunne pogroms** — burning out orc-diaspora quarters of settled families and town-born half-orcs (full story below). What he torched "was not only men," and he forgives himself two ways at once — his faith calls the fire holy, his people's old grudge calls it deserved — so he's warm, weary, and genuinely at rest. He'll tell Sarric, kindly, that **the cause carries the screams for you — you just have to let it**. The exact peace Sarric refuses. |
-| 3 | **Issa Quib** | Halfling | **Aniess** | Chose to be remade to read the names — gave up a piece of herself willingly and has never once doubted it. Aniess was transformed without consent and can't say who she'd have been; Issa was transformed by choice and is perfectly, chillingly sure. |
+| 3 | **Issa Quib** | Halfling | **Aniess** | The Writ's **tomb-walker.** She paid for an old funerary rite that left her **death-touched** — cold, too still, half a step out of life — so the tombs' dead and sentinels take her for one of their own and let her pass (it's why the Writ walked the whole Valley and lost no one). She **chose** it, gave up being fully alive, and is serenely sure it was worth it (full story below). Aniess was remade into a not-quite-human thing *without consent* and grieves the self she can't recover; Issa gave hers away on purpose and beams at the quiet. |
 | 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
 | 5 | **Vael Astre** | Elf | **Pax** | Had his own revelation in the tombs: he looked at what the names *do* and decided dominion over souls is simply the right order of things. Pax speaks for the wounded living world; Vael speaks for the hand that owns it. Two prophets, opposite gods. |
 
@@ -240,6 +240,30 @@ the charter said it was legal"*). This is the brainstorm's reframe — swapping 
 **ultimate author** of the atrocity from the Kuru church to the Company without
 losing his faith-and-grudge peace: the pogroms **stoked by Sunne, bankrolled by the
 Company.** Use whichever depth fits the table; they compound rather than compete.
+
+**Issa's bargain (why she's like this).** Reading the old names is just a
+learned skill — the hard part is **surviving the tombs** to do it, and that's
+what Issa solved. She sought out and paid dearly for an **old funerary rite of
+the dead empire's death-cult** that left her **death-touched**: still a living
+halfling, but cold to the touch, breath shallow, half a step into death — so the
+tombs' **mummies, sentinels, and bound watchmen read her as kin, not as living
+prey**, and she walks the inner chambers that kill ordinary crews. That is the
+quiet engine behind the Writ's flawless Valley: where the Jackals lose a Sefi and
+the Ashfoot lose everyone, Issa just *walks in.*
+
+**What it cost — and the mirror.** She gave up **being fully alive**: warmth, the
+ordinary living world, the road back to who she was. She doesn't mourn it. Where
+**Aniess** was remade into a not-quite-human thing *as a child, without consent,*
+and is only now waking in grief to a self she can't recover, **Issa chose every
+step, awake,** and is **serenely, chillingly sure.** To Aniess: *"You mourn what
+they took. I gave mine away on purpose — and the quiet on the other side is worth
+it. Stop reaching for who you were."* The axis isn't ownership (Issa is a mortal;
+no one holds her by name) — it's **remade-and-grieving vs. remade-and-glad.**
+
+**Not a death knight.** Issa is **living and lesser** — death-*touched*, not
+undead: no martial menace, no command over the dead. She slips *past* them; she
+doesn't raise them. (If a death-knight figure ever surfaces elsewhere, Issa is
+the shallow end of that water — a different thing entirely.)
 
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their
