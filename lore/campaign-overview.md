@@ -16,7 +16,7 @@ you want it, but we honestly don't care whether you follow it. Mostly: have fun,
 at things, and see what happens."* It's an open **sandbox** — which is exactly why
 *no railroading* (§4) is rule one.
 
-**The quiet spine underneath** (for the DMs, not the pitch): a mixed band takes work
+**The quiet through-line underneath** (for the DMs, not the pitch): a mixed band takes work
 from a wizard in the conquest-city of Maalm, collecting names from the tombs of a dead
 empire. The names are not trophies — they are **keys**, and the party is being taught,
 one job at a time, what a key can do to a soul, so that when they are finally handed
@@ -249,13 +249,13 @@ before the next pass — see "The clock" above.)*
 
 ---
 
-## 6. The Spine / Arc
+## 6. The Through-Line / Arc
 
-**The spine** (the campaign's through-line / shape): **complicity → recognition →
+**The through-line** (the campaign's shape): **complicity → recognition →
 choice.** The party works for Preem (Act 1: the tombs / name-gathering), gradually
 discovers what names and binding really *are* (the dream quest is the hinge), uncovers
 Preem's demon army, and is finally handed the **volcano-demon's true name** — and must
-decide what kind of power to be. *(Sandbox caveat: this is the spine if they pull on it,
+decide what kind of power to be. *(Sandbox caveat: this is the through-line if they pull on it,
 not a track they're forced down — see §4.)*
 
 **The ending image / choice:** the climax falls on **Moku Kurunatuka** — newest of the
