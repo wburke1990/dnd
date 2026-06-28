@@ -144,7 +144,7 @@ are **theirs**.*
 
 | # | Name | Species | ↔ PC | The opposite choice they made |
 |---|------|---------|------|-------------------------------|
-| 1 | **Setha Renk** | Half-elf | **Blackacre** | A half-blood in a founder-blood crew, twice as ruthless to hold a seat the pure lines say she hasn't earned. On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the name-ledger, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
+| 1 | **Setha Renk** | Half-elf | **Blackacre** | A half-blood in a founder-blood crew, twice as ruthless to hold a seat the pure lines say she hasn't earned. On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | Has burned camps and buried the screaming. He'll tell Sarric, kindly, over a drink, that the screams stop following you eventually — you just have to let them. The exact peace Sarric is terrified of making. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | Chose to be remade to read the names — gave up a piece of herself willingly and has never once doubted it. Aniess was transformed without consent and can't say who she'd have been; Issa was transformed by choice and is perfectly, chillingly sure. |
 | 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
@@ -158,9 +158,13 @@ in sandals, recent, within the last week… they either went in and didn't come
 out, or left without being noticed"* (see
 [`valley-of-the-kings.md`](valley-of-the-kings.md)). That was Setha's crew. The
 puzzle flooded on a botched choice; in the panic **Aurin went back for the
-hired diggers and Setha took the ledger and the exit**, leaving them to drown —
+hired diggers and Setha took the names and the exit**, leaving them to drown —
 the precise inverse of Blackacre, who bailed on a deadly plan to *spare*
-others. Afterward she returned, recovered the bodies, and buried them somewhere
+others. (Crews don't carry names home: Preem issues each one a **map** and a
+**paired sending stone**, and they **relay the names to him by voice** — the
+ledger or scratch-paper is just where a crew jots them before transmitting. So
+the slip in Setha's fist was the *only* copy of tomb three's names, not yet
+sent — worth more to her than the people who'd found them.) Afterward she returned, recovered the bodies, and buried them somewhere
 off the Valley path (kept deliberately vague) so Preem heard only of a clean,
 flawless clear — which is why the party found no corpses inside. Those unmarked
 graves are a live loose end: stumble on them later and the Writ's perfect
@@ -175,8 +179,9 @@ feel the pull and the revulsion at once.
 **The missing names (the table-fix, weaponized as a mirror).** The party
 fumbled names in tombs one through three; the Writ didn't — Issa's ledger holds
 the complete set, copied and cross-checked. A name is *knowledge*, not a
-consumable, so the Writ lose nothing by sharing duplicates — which is exactly
-why they will, as a flex. Stage it as the **mirror handing over the miss**:
+consumable, so the Writ lose nothing by sharing duplicates — the party just
+speak them down their *own* sending stone — which is exactly why they will, as
+a flex. Stage it as the **mirror handing over the miss**:
 Doruk slides Sarric the names from the camp-tomb; Issa gifts Aniess hers with a
 serene little smile. However it plays, the party leave with the names they
 missed. *(Whether Preem pays a bounty on duplicates is your call — the point is
