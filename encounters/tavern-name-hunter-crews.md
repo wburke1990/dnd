@@ -230,6 +230,17 @@ thread between the crews. (2) He's drinking three feet from **Mogg** (Brass
 Jackals, half-orc), mid-saga over the orc dead — the very people whose diaspora
 cousins Doruk burned. Yours to decide whether that powder lights.
 
+**`[loose — 6/28]` A third hand behind the torch — the Company.** Doruk's craft
+(a Suartleheim powderman: rock, powder, fire) is *exactly* who the
+[Company](../lore/the-company.md) hires to strip [Suartleheim Eet](../lore/nila-atlas.md)
+ore and **clear ground for its plantations** — so you can run his orc-burning as
+**Company land-clearing and slave-raids** as much as Sunne pogrom: the same fire, a
+**third paymaster,** and a *third* way to forgive himself (*"it was only business —
+the charter said it was legal"*). This is the brainstorm's reframe — swapping the
+**ultimate author** of the atrocity from the Kuru church to the Company without
+losing his faith-and-grudge peace: the pogroms **stoked by Sunne, bankrolled by the
+Company.** Use whichever depth fits the table; they compound rather than compete.
+
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their
 counterpart — Doruk corners Sarric, Vael debates Pax, Gharn genuinely charms
