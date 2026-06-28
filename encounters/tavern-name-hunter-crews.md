@@ -150,7 +150,7 @@ are **theirs**.*
 | # | Name | Species | ↔ PC | The opposite choice they made |
 |---|------|---------|------|-------------------------------|
 | 1 | **Setha Renk** | Half-elf | **Blackacre** | **Preem's half-blood protégée** — she carries a thinned founder line the old houses killed her mother to bury, and means to claw the council seat back over anyone in her way (full story below). On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
-| 2 | **Doruk Pell** | Dwarf | **Sarric** | Has burned camps and buried the screaming. He'll tell Sarric, kindly, over a drink, that the screams stop following you eventually — you just have to let them. The exact peace Sarric is terrified of making. |
+| 2 | **Doruk Pell** | Dwarf | **Sarric** | A **Suartleheim powderman** (the mining-isle's rock-breaking-and-fire craft) who carried the old **Hjörungavágr** grudge into the **Sunne pogroms** — burning out orc-diaspora quarters of settled families and town-born half-orcs (full story below). What he torched "was not only men," and he made his peace twice over — *holy* and *ancestral* — so he's warm, weary, and genuinely at rest. He'll tell Sarric, kindly, that **the cause carries the screams for you — you just have to let it**. The exact peace Sarric refuses. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | Chose to be remade to read the names — gave up a piece of herself willingly and has never once doubted it. Aniess was transformed without consent and can't say who she'd have been; Issa was transformed by choice and is perfectly, chillingly sure. |
 | 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
 | 5 | **Vael Astre** | Elf | **Pax** | Had his own revelation in the tombs: he looked at what the names *do* and decided dominion over souls is simply the right order of things. Pax speaks for the wounded living world; Vael speaks for the hand that owns it. Two prophets, opposite gods. |
@@ -197,6 +197,34 @@ off the Valley path (kept deliberately vague) so Preem heard only of a clean,
 flawless clear — which is why the party found no corpses inside. Those unmarked
 graves are a live loose end: stumble on them later and the Writ's perfect
 record, and Setha's seat, come apart.
+
+**Doruk's peace (why he's like this).** Doruk Pell is a **Suartleheim dwarf**, a
+**powderman** by trade — the mining isle's craft of rock-breaking, powder, and
+fire. He didn't carry it to the Muspelheim front (dwarves don't soldier that
+war); he carried it to the **pogroms at home** — the burning-out of orc-diaspora
+quarters in the port-towns (see
+[`the-muspel-empire.md` → *The scattered diaspora*](../lore/the-muspel-empire.md)).
+He was the **torch-hand**, and what he burned *"was not only men"*: settled
+families and town-born half-orcs who had never raided anyone. He made his peace
+through **two sanctifications stacked** — the **Church of Sunne** told him the
+fire was holy, and his own blood told him it was *owed*: **Hjörungavágr** is the
+Suartleheim dwarves' great battle, so torching the sea-devils' scattered spawn
+felt like finishing a four-thousand-year debt, blessed by a god. Now he's the
+Writ's **closer**, the hand that does what needs doing — but **kindly, weary, and
+genuinely at rest**, which is the horror.
+
+**The mirror.** Sarric's wound is one camp he burned, where *"the screams he
+heard were not only the screams of men,"* and the numbness he refuses — he will
+not let the cause forgive him. Doruk is that forgiveness **achieved**: *"the
+cause carries the screams for you, lad. You just have to let it."* He'll say it
+gently, as kindness — because for him it worked. That is the precise peace Sarric
+is terrified of making.
+
+**Two live wires.** (1) The pogroms were **Sunne** work — the same faith the
+Brass Jackals' **Veska Tull** fled; Doruk served what she ran from, a quiet
+thread between the crews. (2) He's drinking three feet from **Mogg** (Brass
+Jackals, half-orc), mid-saga over the orc dead — the very people whose diaspora
+cousins Doruk burned. Yours to decide whether that powder lights.
 
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their
