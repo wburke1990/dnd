@@ -53,8 +53,8 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 
 > "...and so the fleets met in the narrow water at Hjörungavágr — our
 > grandfathers' grandfathers, in the iron-riveted longships, against the dwarves
-> of the deep yards. Oh, the orcs were winning. *Of course* they were winning —
-> have you ever known an orc to lose a *fair* fight? But the dwarves didn't want
+> of the deep yards. Oh, the orcs were winning. The dwarves came **two hulls to our one** — and we
+> were *still* winning, for have you ever known an orc to lose a *fair* fight? But the dwarves didn't want
 > a fair fight. Dwarves never do.
 >
 > "A dwarf can't *sail* — never could, never will — so they don't try. They throw
@@ -65,12 +65,14 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 > not the sea.
 >
 > "So they called on the deep — or the deep answered for them, who's to say —
-> and the sea itself rose against my people. The water boiled black. Hail came
-> down the size of a fist, an ounce to every stone, and it fell on the orcs and
-> spared the dwarves, every cursed one. And out of the burning fog the hag-queens
-> walked the waves, and from every finger of their hands an arrow flew, and every
-> arrow was a man's death. You can't fight that. You can't board a witch. The
-> longships caught fire on the water and went down with the drums still beating.
+> and the sea itself rose against *everyone* in that bay. The water boiled black.
+> Hail came down the size of a fist, an ounce to every stone, and it caved in
+> skulls on both fleets — dwarf and orc alike. And out of the burning fog the
+> hag-queens of the deep walked the waves, and from every finger of their hands an
+> arrow flew, and every arrow was a death — and they did not care whose. You can't
+> fight that. You can't board a witch. The longships caught fire on the water and
+> went down with the drums still beating — and a good many dwarf hulls burned down
+> beside them.
 >
 > "But hear me — they didn't *beat* us. Man for man, deck for deck, the orcs had
 > the better of that fight; we left a dwarf dead for every son of ours the sea

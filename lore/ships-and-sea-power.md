@@ -94,17 +94,19 @@ war-gear and let the sea take him.
 
 ### The Battle of Hjörungavágr — orc against the dwarves
 
-The **Suartleheim dwarf fleet, built at Ools**, met the Muspel longships in a
-narrow bay. Dwarves are no sailors, so they fought as landsmen do: every hull
+The **Suartleheim dwarf fleet, built at Ools**, came to that narrow bay with the **bigger fleet** and met a smaller force of
+Muspel longships. Dwarves are no sailors, so they fought as landsmen do: every hull
 rigged with a **corvus** — a hinged boarding-ramp tipped with a heavy iron beak
 that dropped through a longship's deck and nailed it fast, so the dwarves could
-storm across and settle it hand-to-hand, where they win. That, and the sea's own
-betrayal, broke the orcs — the battle decided, as in the saga (where a god-called
-hailstorm broke the Jomsvikings), by **a small eruption of the undersea volcanoes just beginning
-to raise the Kurunatukas.** The water boiled, the sky turned, and the longships
-foundered. **But the orcs sold it dear:** they had been *winning* the boarding
-fight outright, and gutted the dwarf fleet ship for ship before the deep turned —
-so even the victors limped out of that bay a bled-white, half-wrecked remnant.
+storm across and settle it hand-to-hand, where they win. And it *still* wasn't
+enough — the **outnumbered orcs were winning,** gutting the dwarf fleet ship for
+ship, until the bay itself decided things: **a small eruption of the undersea
+volcanoes just beginning to raise the Kurunatukas** (the saga's god-called
+hailstorm) tore the floor out from under *both* fleets. The water boiled, the sky
+turned, and fire and ounce-heavy hail fell on **dwarf and orc alike** — the deep
+playing no favorites. But the orcs were the fewer, and lashed fast to the dwarves'
+own corvi, so they **broke first.** The dwarves were left holding the bay — and a
+fleet gutted twice over, by orc steel and by the mountain under the sea.
 That eruption is the **same hot-spot volcanism still surfacing the
 Kurunatukas today** — so *the battle that broke the orc sea and the birth of the
 new land are one event.*
@@ -120,15 +122,18 @@ new land are one event.*
 > *"Whose hands are in my hair?"* — another, who jerked his head from the blade so
 > the stroke fell on the man holding his hair instead. **Jómsvíkinga saga**
 
-**A victory that drowned.** The dwarves won — and the very thing that won it
-killed them. The **corvus** was iron and it rode *high*, and a fleet of
-top-heavy hulls — and the orcs had already mauled this one half to wrecks — is a
-fleet that capsizes the moment the sea gets up. Sailing home
-fat with triumph, they met a storm, and the whole fleet rolled belly-up and went
-down with all hands; not one hull reached a dwarven harbor. *(Both the device and
-this end are taken word-for-word from Rome's First Punic War: the boarding-**corvus**
-won Mylae and Ecnomus but left the ships unseaworthy, and a top-heavy Roman fleet
-was wrecked in a storm off Camarina in 255 BC — ~280 of 364 ships lost. `[Will]`)* So
+**A victory that drowned — three deaths of one fleet.** The dwarves came with the
+**bigger fleet** and lost it three times over: **orc steel** gutted them ship for
+ship in the bay; the **eruption** took dwarf and orc together; and on the voyage
+home a **storm** found what was left. The **corvus** is iron and it rides *high*,
+so a top-heavy fleet — already savaged to a remnant — capsizes the moment the sea
+gets up: the whole thing rolled belly-up and went down with all hands, not one
+hull reaching a dwarven harbor. Their numbers at the outset are the only reason
+any of it reads as a *win* — they had hulls to spend, and spent every last one.
+*(Both the corvus and this end are taken word-for-word from Rome's First Punic
+War: the boarding-corvus won Mylae and Ecnomus but left the ships unseaworthy, and
+a top-heavy Roman fleet was wrecked in a storm off Camarina in 255 BC — ~280 of
+364 ships lost. `[Will]`)* So
 **both** great war-fleets died in that war — the orcs broken in the bay, the
 dwarves drowned on the way home — and **neither has ruled the water since.** The
 dwarves never built another navy; they kept only their shipyards, which is why
