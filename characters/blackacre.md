@@ -108,10 +108,15 @@ above), which is where his druid-shipwright gift was prized:
   the Floating Fleet.** **[settled]**
 
 ### Naval balance of power
-- **Kuru, Noku Kurunatuka, and Suartleheim** field **galleys** as the dominant
-  powers — but those are **no match for the little sloops and canoes** pirates
-  use to raid and escape. The Floating Fleet runs **all variations of boats.**
-  **[settled]**
+- **No standing navy rules the water `[updated — Will, 6/26]`.** **Kuru** has
+  *no* fleet at all — its **warforged sink** — so it rents Mukka bottoms and
+  dwarf hulls; the **Kurunatukas** lean the same way. The **Suartleheim dwarves**
+  are the archipelago's **shipwrights** (they build the hulls, Mukka's included),
+  but their one war-fleet **drowned winning the orc war** and they never rebuilt
+  it. So the water belongs to the **Mukka pirates**, the **small independent
+  traders** they prey on, and lone **wandering dragonborn** like Blackacre — fast
+  little sloops and canoes, no galley-power among them. Full picture:
+  [lore/ships-and-sea-power.md](../lore/ships-and-sea-power.md).
 
 ## Culture, language & religion
 

@@ -48,8 +48,8 @@ the two below for the party to walk in on (he saves the other for the next
 round). Either way they **overhear the whole naval backstory** — the orcs' fall,
 the dwarves, the lost fleets — without a line of DM exposition.
 
-**Option A — Hjörungavágr ("how the sea took the longships"):** the tavern is
-roaring at the last line as the party enters.
+**Option A — Hjörungavágr ("how the sea took the longships"):** the party walks
+in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 
 > "...and so the fleets met in the narrow water at Hjörungavágr — our
 > grandfathers' grandfathers, in the iron-riveted longships, against the dwarves
@@ -77,7 +77,18 @@ roaring at the last line as the party enters.
 > I'll not have it bloodied.' So a dwarf takes the hair in both fists, and the
 > axe comes down — and the lad snaps his head back, and the blade takes the
 > dwarf's hands clean off at the wrist. And the orc looks up, grinning, and says:
-> *'Whose hands are in my hair?'*"
+> *'Whose hands are in my hair?'*
+>
+> *[As the laughter dies, Mogg doesn't laugh. He turns his cup.]*
+>
+> "But here's the joke the dwarves don't tell. They *won*. They lined our heads
+> up on the strand and sailed for home fat with it — and the same sea that
+> drowned us rose up behind them and took every last hull down with all hands.
+> Not one dwarf of that fleet ever saw his own harbor again. The deep doesn't
+> keep friends, see — it drowned my people, then it drowned the ones who cheered.
+> That's the only side the sea is ever on." *[He drinks.]* "They never built
+> another war-fleet after. Just the boats they sell now. Wouldn't you wonder
+> why.""
 
 **Option B — Svolder ("the king who would not strike his sail"):**
 

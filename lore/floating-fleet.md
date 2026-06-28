@@ -117,9 +117,10 @@ actually operate in archipelago waters are few:
   6/26]`**
 - **The Suartleheim dwarves — the shipwrights.** The dwarf yards of Suartleheim
   Weet (**Ools**) **build the hulls nearly everyone else sails** — Mukka's pirate
-  ships included — and are a real naval power in their own right (they broke the
-  orc sea at Hjörungavágr). Iron-riveted and crude, the opposite of the
-  dragonborn lashed hull. **`[Will, 6/26]`**
+  ships included. They broke the orc sea at Hjörungavágr, but **lost that
+  war-fleet in a storm on the way home and never rebuilt it** — so today they
+  *build* hulls rather than sail them in force. Iron-riveted and crude, the
+  opposite of the dragonborn lashed hull. **`[Will, 6/26]`**
 - **The land powers — little or no navy of their own.** **Kuru** has *no* fleet
   at all: its **warforged sink** (godstone is heavy, and they hate the water), so
   Kuru and its **Kurunatuka** client-states **rent** everything afloat — dwarf

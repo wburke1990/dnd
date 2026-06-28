@@ -30,8 +30,10 @@ this way. **`[DM ruling — Will, 6/26]`**
 
 - **Mukka pirates** — the dominant predatory force, crewing dwarf-built hulls.
   The mercenary haven everyone hires and everyone fears.
-- **The Suartleheim dwarves** — the shipwrights, and a genuine naval power in
-  their own right (they broke the orc sea at Hjörungavágr, below).
+- **The Suartleheim dwarves** — the **shipwrights.** They broke the orc sea at
+  Hjörungavágr (below), but **their one war-fleet drowned on the voyage home**
+  and they never built another — so today they *build* hulls, they don't *sail*
+  them in force.
 - **Solitary wandering dragonborn** — lone free agents on lashed hulls
   (Blackacre).
 - **The Muspel orcs — *fallen*.** For ~300 years the masters of the sea on their
@@ -110,6 +112,17 @@ new land are one event.*
 >
 > *"Whose hands are in my hair?"* — another, who jerked his head from the blade so
 > the stroke fell on the man holding his hair instead. **Jómsvíkinga saga**
+
+**A victory that drowned.** The dwarves won — and then lost everything they won
+it with. Sailing home heavy with triumph, their whole fleet went down in a storm
+with all hands; not one hull of it reached a dwarven harbor. *(Modeled on the
+Roman fleet that smashed Carthage at sea in 255 BC and was then wrecked by a
+storm off Camarina on the voyage back — ~280 of 364 ships lost. `[Will]`)* So
+**both** great war-fleets died in that war — the orcs broken in the bay, the
+dwarves drowned on the way home — and **neither has ruled the water since.** The
+dwarves never built another navy; they kept only their shipyards, which is why
+they **build** hulls today rather than **sail** them in force. The sea they both
+bled for fell to **Mukka** and the small traders.
 
 **The knock-on (the last few hundred years):**
 
