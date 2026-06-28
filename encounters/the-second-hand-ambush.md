@@ -23,9 +23,9 @@ salvageable.
 he sends out with **magic gifts** (the atlas and location stone, an amulet, the
 rest). The rat man **knows the tower's habit,** so he doesn't chase crews across
 the world — he **waits outside the tower and robs them the moment they leave,**
-loaded with fresh gifts and not yet scattered. He brings **his rats** and **pays
-the guards in the square** to do the heavy fighting; he stays at the edge and
-grabs for the loot. (This is also, in hindsight, why he hit the **PCs** right
+loaded with fresh gifts and not yet scattered. He brings **his rats**, and the
+**square's guards are already his** — bought into silence as witnesses to his
+crimes — to do the heavy fighting; he stays at the edge and grabs for the loot. (This is also, in hindsight, why he hit the **PCs** right
 outside the tower in [Session 1](../sessions/session-01.md) — they were freshly
 gifted and walking out the door.)
 
@@ -39,7 +39,8 @@ The encounter has three beats:
    shouting, a crew losing.
 2. **The intervention.** The party chooses to wade in (they will). The rat man
    runs the instant the fight stops being easy; the corrupt guards are the real
-   combat.
+   combat — and if the party **pins** the rat man instead of letting him flee,
+   the guards move to **"arrest" him** out of their hands (see Running the Fight).
 3. **The aftermath.** A saved crew, a debt, and the **split-glyph** that arms
    the alliance.
 
@@ -60,16 +61,18 @@ creature who stands and trades blows — his **Scatter!** reaction *is* the esca
 agent.
 
 **The three corrupt guards** — the muscle. **Guards posted in the square** that
-the rat man **pays off on the spot** to turn on the departing crew. **Three** of
-them; use the **Guard** stat block, and make one a **Veteran sergeant** if you
-want Cassia's grudge to have a face (she used to outrank him). They fight while
-the coin's good — when the sergeant drops or the rat man bolts, they **break and
-run.**
+the rat man **already owns** — every witness to his crimes in that square, bought
+into silence — turned on the departing crew. **Three** of them; use the **Guard**
+stat block, and make one a **Veteran sergeant** if you want Cassia's grudge to
+have a face (she outranked him, moved to expose his racket, and was forced out for
+it). They fight while the coin's good — when the sergeant drops or the rat man
+bolts, they **break and run.**
 
 **The Second Hand** — the crew being ambushed, introduced fully in
 [their writeup](../characters/the-second-hand.md):
-- **Captain Cassia Roan** — human ex-watch officer; **knows the sergeant by
-  name** (she used to outrank him), which makes the fight personal.
+- **Captain Cassia Roan** — human ex-watch officer; she **outranked the
+  sergeant,** moved to expose his racket, and was **forced out** for it — so the
+  fight is personal, and the watch shielding Ratatat in front of her is salt in it.
 - **Halvard Stone** — dwarf shieldbearer, **down or nearly down** when the party
   arrives (he put himself between the guards and the others).
 - **Nuru** — valley-born mage, out of spells, the one who later **splits the
@@ -103,10 +106,22 @@ take — diverge, and that's the point:
 # RUNNING THE FIGHT
 
 - **The rat man is a coward by design.** He fights through his **rats** and the
-  paid guards, grabs for the gifts, and **disengages and flees** the instant the
+  bought guards, grabs for the gifts, and **disengages and flees** the instant the
   party's weight lands. Do **not** let the party corner and kill him here — he's
   the campaign's recurring antagonist and the chase is a thread, not a kill. If
   they pursue, he loses them in the alleys (his home turf).
+- **The guards' sham arrest — Ratatat's other way out.** The square's watch is
+  *his,* and they will not let the party have him. As long as he's still standing,
+  the trigger is the party's **intent** toward him:
+  - **Going for the kill?** The guards **fight at once** — a dead paymaster is no
+    good to them, and a corpse can't be walked away to safety.
+  - **Going to capture or interrogate him?** The guards instead **"arrest" him** —
+    badges out, *"Stand down, watch business, he's coming with us"* — to march him
+    off to "custody" and quietly let him slip. **Let them and he's gone clean; try
+    to keep him, and *then* they fight.**
+  This is his backup exit if his **Scatter!** flee fails and the party pins him.
+  Either way the watch protects the criminal in the open — the exact rot Cassia
+  was blacklisted for naming, and her fury here is the scene's emotional spike.
 - **The prize is the gifts.** What the rat man actually wants is the **crew's
   gifts** — the location stone above all. Let him **try to escape with one** if
   the party is slow; recovering it (or failing to) is a clean stake on top of the
@@ -115,7 +130,7 @@ take — diverge, and that's the point:
   **Veteran sergeant** if you want Cassia's grudge to land) plus the rat man's
   **rats.** The guards fight while the coin's good and **break** when the sergeant
   drops or the rat man bolts. A surrendered or captured guard is a **lever into
-  Maalm's civic rot** — proof the rat man can buy the watch in the square.
+  Maalm's civic rot** — proof the rat man **owns** the watch in the square.
 - **Cassia fights to reach the sergeant.** If the party keeps Halvard alive and
   lets Cassia get her hands on the man who sold out the watch, that's the
   emotional beat — let it land.
@@ -142,13 +157,13 @@ If the party saves them:
   [The Second Hand → The alliance](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
   The short version: **not a teleport** (reach governs whether they can come),
   **every arrival costs them,** and the alliance runs **both ways.**
-- **The hooks open.** The corrupt watch, the rat man's informant network, Nuru's
-  unease about the names — all live threads from here. See the
+- **The hooks open.** The corrupt watch, the rat man's hold on the gate, Nuru's
+  unease about the tombs — all live threads from here. See the
   [crew's encounter hooks](../characters/the-second-hand.md#encounter-hooks).
 
 If the party **doesn't** intervene (or arrives too late): the Second Hand is
-wiped or scattered, the citadel gets a body or four, and the cavalry option is
-gone — but the party has now **seen** the rat man field corrupt guards, and the
+wiped or scattered, the citadel gets a body or four, and the **lifeline** option
+is gone — but the party has now **seen** the rat man field corrupt guards, and the
 "scattered remains of a rival crew" become a grim prop for the
 [Valley of the Kings](valley-of-the-kings.md), exactly as the
 [overview](../lore/campaign-overview.md) frames it.
