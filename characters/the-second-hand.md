@@ -1,4 +1,4 @@
-# The Second Hand — Preem's other crew, and the party's cavalry
+# The Second Hand — Preem's other crew, and the party's mirror
 
 > **NPC adventuring party.** One of [Preem](preem.md)'s **many name-hunting
 > crews** ([overview](../lore/campaign-overview.md)) — a sibling group to the
@@ -30,7 +30,7 @@
   the names are for, any more than the PCs do.
 - `[settled]` **Why they exist at the table:** a **funhouse mirror of the
   party** (capable, a little more weathered, their own flaws) and the
-  campaign's **cavalry** — the crew the GM can send over the hill when the dice
+  campaign's **lifeline** — the crew the GM can send over the hill when the dice
   turn murderous. See [The alliance — and the anti-TPK lever](#the-alliance--and-the-anti-tpk-lever).
 - 🔒 `[settled]` **The trap underneath:** Preem **runs them too.** Whatever
   leash is on the PCs (a familiar that spies, a stone that listens) is on the
@@ -96,8 +96,8 @@ Why it works:
 - **It tells the party what the ambushes are *for*:** the rat man preys on
   Preem's outfitted crews to **strip them of their gifts** — which is, in
   hindsight, exactly what he tried on the PCs in Session 1.
-- **It earns the alliance.** A cavalry that just *shows up* is a cheat; a
-  cavalry the party **first saved themselves** is a debt being repaid. The
+- **It earns the alliance.** A rescue that just *shows up* is a cheat; a
+  rescue the party **first earned themselves** is a debt being repaid. The
   rescue button costs nothing precisely because the party already paid for it
   here.
 
@@ -159,8 +159,8 @@ Why it works:
    true names?* A way to seed the [Preem reveal](preem.md#drawing-the-link)
    sideways, through an ally instead of the party's own deduction.
 5. **The climax inversion** 🔒 — Preem turns or ransoms the crew at the
-   [volcano-demon choice](preem.md#the-climax--the-volcano-demon-choice). The
-   cavalry becomes the question.
+   [volcano-demon choice](preem.md#the-climax--the-volcano-demon-choice). Their
+   allegiance becomes the question.
 
 ## Open threads
 
