@@ -18,24 +18,26 @@
 
 ---
 
-## 1. The two arms of the conquest `[settled — the brainstorm's spine]`
+## 1. Two empires, two militaristic arms `[settled — the brainstorm's spine]`
 
-The archipelago is being colonized by **two empires with two methods,** and the
-campaign should make them rhyme:
+The archipelago is colonized by **two separate powers** whose methods *rhyme* — but they
+are **rivals, not partners,** and emphatically **not one machine:**
 
-- **Kuru — the militaristic *religious* arm.** The [Order of Sunne](kuru-and-the-phoenix.md)
-  spreads Kuru's reach with **fire and faith:** crusade, warforged legions, the holy
-  reconquest of [Musleheim](the-muspel-empire.md). The war you can see on the map.
-- **The Company — the militaristic *merchant* arm.** Out of [Noku Kurunatuka](nila-atlas.md),
-  the Company spreads control with **coin and contract:** trading posts that become
-  forts, charters that become law, and a **private army and hired fleets** to enforce
-  both. The quieter conquest — colonization run as a business.
+- **Kuru** projects power through its militaristic *religious* arm — the
+  [Order of Sunne](kuru-and-the-phoenix.md): crusade, warforged legions, the holy
+  reconquest of [Musleheim](the-muspel-empire.md). Fire and faith; the war you can see on
+  the map.
+- **Noku Kurunatuka** projects power through its militaristic *merchant* arm — the
+  **Company:** trading posts that become forts, charters that become law, and a **private
+  army and hired fleets** to enforce both. Coin and contract; colonization run as a
+  business.
 
-Both are colonialism (`[overview §3A](campaign-overview.md)` — *"the same operation at
-different scales"*); they simply collect in different currencies. Where the Order
-**burns** the [orc-diaspora quarters](the-muspel-empire.md) as heathens, the Company
-**ruins and buys out** the same people and takes their business. Faith and commerce,
-two hands of one squeeze.
+Both are colonialism, and they make a clean thematic rhyme — where the Order **burns** the
+[orc-diaspora quarters](the-muspel-empire.md) as heathens, the Company **ruins and buys
+out** the same people and takes their business. But the rhyme is the *only* link:
+**Kuru is its own empire, with no tie to the [Second Foundation](the-second-foundation.md)
+behind the Company** (§2). On the [Musleheim front](kuru-and-the-phoenix.md) Noku even
+*fights beside* Kuru — which makes the betrayal underneath all the colder (§2).
 
 ---
 
@@ -49,21 +51,26 @@ The Foundation's foreknowledge of the **[comet cycle](world-history-timeline.md)
 not just doom-prophecy; it is an **edge,** and the Company is that edge cashed out:
 cosmic knowledge converted into a worldly empire.
 
-- **Two faces in the Kurunatukas.** The Foundation already holds **Moku Kurunatuka** as
-  its secret **finale ground** (the cosmic/demonic operation; `[overview §6](campaign-overview.md)`,
-  [Kuru §5](kuru-and-the-phoenix.md)). **Noku Kurunatuka is its *commercial* seat** — the
-  Company. Two faces of the same hidden hand: **Moku for the apocalypse, Noku for the
-  profit.** Noku's reputation as the *clever, autonomous* client-state (brains to Kuru's
-  brawn — [Kuru §5](kuru-and-the-phoenix.md)) reads, to the party, as ordinary
-  independence; it is actually a different master.
-- **The Foundation's worldly motive — protect the gains across the pass.** `[settled]`
-  Set beside the [First Foundation](the-first-foundation.md), whose craft is **celestial
-  land-transformation** (channeling a pass's volcanism to *build* land), the Second
-  Foundation has become, in practice, **the Company: an incumbent empire ensuring the
-  coming comet pass does not wreck its holdings.** It is no longer only a survival cult —
-  it is **invested money defending itself against the end of the world.**
-- 🔒 **Which is exactly the seam Preem splits (see §5):** the Company wants **stability**
-  to keep earning; its own First Chair wants to **trigger Ragnarok** anyway.
+- **Two faces in the Kurunatukas — both infiltrated, neither an ally of Kuru.** The
+  Foundation holds **Moku Kurunatuka** as its secret **finale ground** (the cosmic/demonic
+  operation; `[overview §6](campaign-overview.md)`, [Kuru §5](kuru-and-the-phoenix.md)) and
+  **Noku Kurunatuka** as its **commercial seat** — the Company. Two faces of the same
+  hidden hand: **Moku for the apocalypse, Noku for the profit.** Both are **Kuru
+  client-states the Foundation has quietly infiltrated** — *not* Kuru itself, and **not
+  Kuru's allies.** Noku's reputation as the clever, autonomous client-state reads, to the
+  party (and to Kuru), as ordinary independence; it is actually a different master.
+- **The short game and the endgame.** `[settled]` The Company is the Foundation's **short
+  game** — wealth, now. The **endgame is the comet.** Where the
+  [First Foundation](the-first-foundation.md)'s craft is **celestial land-transformation**
+  (steering a pass to *build* land and avert catastrophe), the Second Foundation means to
+  **let the coming pass fall as Ragnarok** — riding it out while it **wipes the
+  [Musleheim](musleheim.md) battlefields clean: Kuru's armies, Noku's, the orc tribes,
+  everyone, in about a year** ([the Second Foundation §2](the-second-foundation.md)). The
+  Company's coin funds and masks that plan; the profit is real, but it is **not the point.**
+- 🔒 **Preem goes further still (see §5).** The Foundation will ride out the cataclysm; its
+  First Chair wants to **own** it — to **trigger Ragnarok on demand** and **bind a
+  volcano-demon** ([the Second Foundation §4](the-second-foundation.md)) — a private heresy
+  stacked on top of the Foundation's already-apocalyptic plan.
 
 ---
 
@@ -83,26 +90,30 @@ can hand the party. `[loose]` on the specific goods; `[settled]` that the Compan
   [Haals](nila-atlas.md)** where you wouldn't expect them — they're **contractors, not
   natives** (and the runoff from that work is its own crime — see
   [the eco-terror side quest](#campaign-connections)).
-- **The slaughter of wonders in [Kalikhat](campaign-overview.md).** `[loose — brainstorm]`
-  Kalikhat is mined for ore too — but its real horror is the **killing of its magical
-  beasts.** The Company **hunts out unicorns and stranger comet-beasts** for the **rare
-  material in them** — a magical "ore" of horn, blood, and bone (the same logic as
-  godstone and star-metal: comet-descended creatures are *made of* the precious stuff;
-  [technology & trade §2](technology-and-trade.md)). It is the **ivory trade against the
-  marvelous** — a genocide of the world's wonders for reagents and trophies, in a land
-  already haunted by demons and the [mist-warforged](kuru-and-the-phoenix.md). `[OPEN]`
-  exactly how a beast yields "ore," and whether this collides with Kalikhat's
-  demon-and-godstone lore (reconcile when Kalikhat is fleshed out).
+- **Ore out of [Kalikhat](campaign-overview.md), too.** `[loose — brainstorm]` The
+  Company strips the northern land of [Kalikhat](campaign-overview.md) for ore as it does
+  Suartleheim Eet — `[OPEN]` *what,* exactly, in a land that is old, poisoned, and
+  demon-haunted (reconcile when Kalikhat is fleshed out; the drow/deep-gnome world below
+  and the [mist-warforged](kuru-and-the-phoenix.md) make it a dangerous dig). *(We dropped
+  the earlier "harvest unicorns and comet-beasts for magical ore" idea — killing a
+  comet-beast is an army-of-spellcasters job, not a mining operation.)*
 - **Plantations on [Musleheim](musleheim.md).** `[settled — brainstorm]` Musleheim's
   **young volcanic soil is extraordinarily rich** ([Kuru §5](kuru-and-the-phoenix.md)),
-  and the Company works it as **vast cash-crop plantations** — `[loose]` **coffee and
-  sugar** the headline (volcanic-island coffee is literally our Java; sugar the classic
-  plantation crop), cotton and tea behind them — **clearing the recovering land** to
-  plant them (our Indonesian-rainforest / Brazilian clearances). And they are worked by
-  **slave labor:** the **conquered orcs and half-orcs** of the reconquest
-  ([the Muspel empire §4–6](the-muspel-empire.md)). The holy war and the plantation are
-  one machine — Kuru breaks the orcs, the Company **enslaves the survivors to grow its
-  coffee.** *(The party "always asks if things are ethically sourced." Nothing here is.)*
+  and the Company works it as **vast cash-crop plantations** — **coffee** the headline
+  (volcanic-island coffee is literally our **Java**), with **sugar** and other cash crops
+  behind it — **clearing land to plant them** (our Indonesian / Brazilian clearances).
+  Two harms in one:
+  - **It enslaves people.** The labor is the **conquered orcs and half-orcs** of the
+    reconquest ([the Muspel empire §4–6](the-muspel-empire.md)) — war-captives worked to
+    death in the rows. *(The reconquest makes the captives; the Company buys and works
+    them. Noku fights that war beside Kuru, but the two are not one machine — see §1–2.)*
+  - **It displaces a way of life.** The orcs are **herders with huge herds**
+    ([the Muspel empire](the-muspel-empire.md)); the Company's plantations **eat the
+    grazing land,** enclosing pasture into coffee rows and driving the pastoralists off —
+    the classic colonial enclosure (think the Highland Clearances). *(So the Company is a
+    **planter, not a rancher.** Ranching would just be the orcs' own herding; the sharper,
+    non-redundant story is plantations* devouring *that herding.)*
+  *(The party "always asks if things are ethically sourced." Nothing here is.)*
 
 ---
 
@@ -134,20 +145,21 @@ nefarious action:**
 of the Second Foundation,** and the Second Foundation **is the Company.** Therefore **the
 Company is Preem's money** — and Preem's money is **the party's pay.** Every
 [gift](../characters/preem.md) he outfits a crew with, every coin he hands them for a
-name, is **Company blood-money:** slaughtered unicorns, slave-grown coffee, stripped
-eastern hills, ruined half-orc families.
+name, is **Company blood-money:** slave-grown coffee, stripped eastern hills, ore out of
+Kalikhat, ruined half-orc families.
 
 - **The reveal line.** When the party finally traces the money, Preem does not flinch —
   he is **amused:** *"Where did you think your money was coming from?"* They took the
   gifts, the pay, the patronage, and **never once asked if it was ethically sourced.**
   Their complicity in Preem's demon-trade (`[overview §2](campaign-overview.md)`) has a
   **second floor underneath it** — they have been living on the Company the whole time.
-- 🔒 **Preem's heresy is *beyond* the Company.** The Foundation-as-Company wants the pass
-  to pass **quietly** so it can keep earning. Preem wants more: *all that profit is fine,*
-  he reasons, *but I want to control demons too* — and he means to **trigger Ragnarok**
-  and bind a volcano-demon ([the Second Foundation §4](the-second-foundation.md)), which
-  would **destroy the very holdings the Company exists to protect.** The merchant cabal
-  and its own First Chair are on a **collision course** — a fracture the party can pull on.
+- 🔒 **And it is worse than a paycheck.** The same Foundation that pays them intends to
+  **let the coming pass fall as Ragnarok** and bury everyone — including the **Kuru armies
+  the Company sells to** (§2). Preem goes one step further still: he wants to **own** the
+  cataclysm — *all that profit is fine,* he reasons, *but I want to control demons too* —
+  **trigger Ragnarok on demand** and **bind a volcano-demon**
+  ([the Second Foundation §4](the-second-foundation.md)). The party's wages come from the
+  people planning the end of the world.
 
 ---
 
@@ -166,16 +178,19 @@ eastern hills, ruined half-orc families.
   replace, his existing backstory).
 - **The half-orc squeeze** ([Muspel §6](the-muspel-empire.md)) — the commercial half of
   the colonial through-line, opposite the Order of Sunne's pogroms.
-- **The Foundations finale** — the Company is *why* the Second Foundation has something to
-  lose, and the internal split (§5) is a way into the climax that isn't only cosmic.
+- **The Foundations finale** — the Company is the Second Foundation's worldly mask: a
+  commercial empire that profits today off a war whose every side it means to bury in the
+  pass (§2). A way into the climax that starts grubby and local (a trade dispute, a ruined
+  family) and only later proves cosmic.
 
 ## Open threads
 
 - `[OPEN]` The Company's **true in-world name** (§ front matter).
-- `[OPEN]` **Cash crops** — lock coffee/sugar vs. cotton/tea (§3).
-- `[OPEN]` **How Kalikhat's beasts yield "ore,"** and reconciling with Kalikhat's
-  demon/godstone lore (§3).
-- `[OPEN]` Whether the party can **turn Company or Noku elements against Preem** once the
-  merchant/heretic split (§5) is in the open.
+- `[settled]` **Cash crop locked: coffee** (the Java model), sugar/others secondary (§3).
+- `[OPEN]` **What the Company mines in Kalikhat** (conventional ore), reconciled with
+  Kalikhat's demon/godstone lore (§3).
+- `[OPEN]` Whether the party can **turn Noku or the Company against the Foundation** once
+  they learn the merchant empire they fight is secretly the cult that means to end the
+  world.
 - `[loose]` The Company's **own leadership** — a governor in Noku, a board, a face the
   party can confront — and how much it knows of the Foundation behind it.

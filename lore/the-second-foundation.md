@@ -185,21 +185,24 @@ troops, forts, and hired fleets.
 - **Foreknowledge cashed out.** The Foundation's understanding of the
   [comet cycle](world-history-timeline.md) is not only doom-prophecy; it is an **edge.**
   The Company is that edge converted into a worldly empire — ore stripped from
-  [Suartleheim Eet](nila-atlas.md), the magical beasts of [Kalikhat](campaign-overview.md)
-  slaughtered for their materials, and slave-worked coffee-and-sugar plantations on
-  [Musleheim](musleheim.md)'s rich volcanic soil. (Full ledger in
-  [the Company §3](the-company.md).)
-- **The contrast with the [First Foundation](the-first-foundation.md).** The First's craft
-  is **celestial land-transformation** — channeling a pass's volcanism to *build* land.
-  The Second's has become, in practice, **mercantile incumbency:** an empire that wants the
-  coming pass to **pass quietly so its holdings keep earning.** It is no longer only a
-  survival cult — it is **invested money defending itself against the end of the world.**
-- 🔒 **The seam this opens (the Preem fracture).** The Foundation-as-Company wants
-  **stability.** Its own First Chair (§4) wants to **trigger Ragnarok** and bind a
-  volcano-demon — which would **destroy the very holdings the Company exists to protect.**
-  Preem's logic: *the profit is fine, but I want to control demons too.* The merchant
-  cabal and its heretic chair are on a **collision course** — a way into the climax that
-  is commercial, not only cosmic.
+  [Suartleheim Eet](nila-atlas.md) and [Kalikhat](campaign-overview.md), and slave-worked
+  **coffee** plantations (our Java) on [Musleheim](musleheim.md)'s rich volcanic soil.
+  (Full ledger in [the Company §3](the-company.md).)
+- **The short game and the endgame.** Where the [First Foundation](the-first-foundation.md)'s
+  craft is **celestial land-transformation** — steering a pass to *build* land and avert
+  catastrophe — the Second Foundation means to **let the coming pass fall as Ragnarok,**
+  riding it out while it **wipes everyone else away** (§2 — the orc tribes *and* the
+  Kuru/Noku armies fighting over [Musleheim](musleheim.md), within ~a year). The Company's
+  wealth is the **short game;** the cataclysm is the point, and the profit merely funds and
+  masks it.
+- **Not Kuru's ally.** 🔒 The Foundation has **infiltrated the Kuru client-states** (Noku
+  via the Company, Moku as its finale ground) but has **no tie to Kuru itself and is not
+  its ally** — on the surface Noku even fights beside Kuru on Musleheim, while the
+  Foundation behind it plans to bury those same armies in the pass. (See
+  [the Company §1–2](the-company.md).)
+- 🔒 **Preem goes further (§4).** The Foundation will *ride out* the cataclysm; its First
+  Chair wants to **own** it — trigger Ragnarok on demand and bind a volcano-demon — a
+  private heresy stacked atop the Foundation's already-apocalyptic plan.
 - **The party's complicity, second floor.** [Preem](../characters/preem.md)'s pay and
   [gifts](../characters/preem.md) are **Company blood-money.** When the party traces it,
   the reveal is his line — *"Where did you think your money was coming from?"* They never

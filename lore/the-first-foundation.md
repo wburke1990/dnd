@@ -61,9 +61,10 @@ Foundations want to control it:
 🔒 **And the two orders differ in their *worldly* faces, too.** Where the First Foundation's
 craft is **celestial land-transformation** (building land from a pass), the Second Foundation
 has become, in practice, **the [Company](the-company.md)** — a mercantile empire out of
-[Noku Kurunatuka](nila-atlas.md) that means to **profit from** the pass, not merely survive
-it (see [the Second Foundation §6](the-second-foundation.md)). The First makes land; the
-Second makes money.
+[Noku Kurunatuka](nila-atlas.md) that **profiteers in the meantime and means to let the pass
+fall as Ragnarok,** burying the orc tribes and the Kuru/Noku armies alike (see
+[the Second Foundation §6](the-second-foundation.md)). The First makes land; the Second makes
+money — and then the end of the world.
 
 **The party will have to decide** whether to help the First Foundation, help the
 Second Foundation, or do something else entirely. That choice is the campaign's

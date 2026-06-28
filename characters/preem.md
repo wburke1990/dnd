@@ -138,20 +138,22 @@ In brief:
 **[Company](../lore/the-company.md)** (Nila's East India Company, out of
 [Noku Kurunatuka](../lore/nila-atlas.md)). So the **pay and
 [gifts](#preems-gifts--bestowed-in-the-first-scene)** he hands the party are
-**Company blood-money:** slaughtered [Kalikhat](../lore/campaign-overview.md)
-unicorns, slave-grown coffee off [Musleheim](../lore/musleheim.md), ore stripped
-from [Suartleheim Eet](../lore/nila-atlas.md), ruined half-orc trader families.
+**Company blood-money:** slave-grown coffee off [Musleheim](../lore/musleheim.md),
+ore stripped from [Suartleheim Eet](../lore/nila-atlas.md) and
+[Kalikhat](../lore/campaign-overview.md), ruined half-orc trader families.
 
 - **The reveal line.** When the party traces the money, Preem doesn't flinch — he
   is **amused:** *"Where did you think your money was coming from?"* They took the
   coin and the patronage and **never once asked if it was ethically sourced** (and
   this party *always* asks). A **second floor** under their complicity in his
   demon-trade.
-- 🔒 **His heresy threatens his own empire.** The Company wants the coming pass to
-  **pass quietly** so its holdings keep earning. Preem wants to **trigger Ragnarok**
-  anyway — *the profit is fine, but I want to control demons too.* He is the heretic
-  inside his own merchant cabal, and that fracture is a lever the party can pull (see
-  [the Second Foundation §6](../lore/the-second-foundation.md)).
+- 🔒 **And the money buys the end of the world.** The Foundation he chairs means to
+  **let the coming pass fall as Ragnarok** and bury everyone — including the **Kuru
+  armies the Company profits by supplying** (Kuru is no ally of the Foundation; it has
+  merely been *infiltrated*). Preem wants to go further still: **own** the cataclysm —
+  *the profit is fine, but I want to control demons too* — trigger Ragnarok on demand
+  and bind a volcano-demon. The party's wages come from the people planning the
+  apocalypse (see [the Second Foundation §6](../lore/the-second-foundation.md)).
 
 ## The demon scheme — his private heresy
 

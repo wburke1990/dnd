@@ -63,16 +63,20 @@ bones of the people it replaced. Preem's demon-slavery is the engine underneath.
   beachheads on Musleheim) is the **visible geopolitical background** — the war on the
   map. The **Amseh elven empire** and **Maalm itself** are the **deep-history backdrop**,
   proving it has always been this way. *The same operation at four scales.*
-- **The two arms of the present conquest (resolved — 6/28):** the colonization of the
-  archipelago runs on **two methods that rhyme.** **Kuru is the militaristic *religious*
-  arm** — the [Order of Sunne](kuru-and-the-phoenix.md), crusade and warforged legions,
-  fire and faith. **The [Company](the-company.md) is the militaristic *merchant* arm** —
-  Nila's **East India Company** out of [Noku Kurunatuka](nila-atlas.md), 🔒 secretly the
-  [Second Foundation](the-second-foundation.md)'s and the **source of Preem's money** —
-  coin, charter, and a private army. One burns the [orc diaspora](the-muspel-empire.md)
-  as heathens; the other ruins and buys them out. The Company is also the **single author
-  the campaign was missing for its ecological atrocities** (the party's backstory crimes
-  included) — *the thing they should want to burn down.*
+- **Two rival empires, two militaristic arms (resolved — 6/28):** the archipelago is
+  colonized by **two separate powers** whose methods *rhyme but are not coordinated.*
+  **Kuru** projects power through its militaristic *religious* arm — the
+  [Order of Sunne](kuru-and-the-phoenix.md), crusade and warforged legions, fire and
+  faith. **Noku Kurunatuka** projects power through its militaristic *merchant* arm —
+  **the [Company](the-company.md),** Nila's East India Company: coin, charter, and a
+  private army. They rhyme — one burns the [orc diaspora](the-muspel-empire.md) as
+  heathens, the other ruins and buys them out — but they are **rivals, not allies:**
+  🔒 the Company is secretly the [Second Foundation](the-second-foundation.md)'s (the
+  source of Preem's money), and the Foundation has **infiltrated Kuru's Kurunatuka
+  colonies while planning to wipe out Kuru's armies — and everyone — with the coming
+  comet pass.** The Company is also the **single author the campaign was missing for its
+  ecological atrocities** (the party's backstory crimes included) — *the thing they
+  should want to burn down.*
 - **Orcs/half-orcs** *(resolved — see [the Muspel empire & the orc wars](the-muspel-empire.md))*:
   born ~1,000 years ago when the comet's mutating sickness came down on Musleheim and
   remade the **Muspel empire's own people** — orcs near the impact, half-orcs at the
