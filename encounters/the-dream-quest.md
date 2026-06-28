@@ -15,13 +15,13 @@ The dead man's confession is the climax of the session. Everything before it is 
 
 # DRAMATIS PERSONAE
 
-**The Dead Man** — a wealthy merchant and spellcaster who died recently. Old and stooped. He spent thirty-one years binding a demon to his service using her true name, telling himself it was love, never asking whether she agreed. He has two children who survive him. David voices him.
+**The Dead Man — Ghassan al Qahtani** — a wealthy merchant and spellcaster who died recently. Old and stooped. He spent thirty-one years binding a demon to his service using her true name, telling himself it was love, never asking whether she agreed. He has two children who survive him. David voices him.
 
-**[PLACEHOLDER — Older Child]** — the elder of the two children. David voices them at the house. They have made a kind of peace with their parents' history. After the dream they feel lighter — not happy, but done.
+**Muntadhir al Qahtani** — the elder of the two children. David voices them at the house. They have made a kind of peace with their parents' history. After the dream they feel lighter — not happy, but done.
 
-**[PLACEHOLDER — Younger Child]** — the younger of the two children. You voice them at the house. They are less resolved. When the party wakes they start to ask something and stop.
+**Alizayd al Qahtani ("Ali")** — the younger of the two children. You voice them at the house. They are less resolved. When the party wakes they start to ask something and stop.
 
-**[PLACEHOLDER — Demon Wife]** — the dead man's wife. Present at the house before the dream. Silent. Gone when the party wakes. She spoke one sentence after her husband died, to no one in particular: *"I don't know what I would have chosen."*
+**Manizheh** — the dead man's wife. Present at the house before the dream. Silent. Gone when the party wakes. She spoke one sentence after her husband died, to no one in particular: *"I don't know what I would have chosen."*
 
 **Thoth** — the ibis-headed god of knowledge and record-keeping. Appears at Gate Three as the questioner. Appears again in the Hall of Two Truths recording the verdict. The party will recognize him the second time.
 
@@ -157,7 +157,7 @@ The curse, if active on any party member, pauses for the duration of the dream. 
 
 ## Waking on the Boat — Read Aloud
 
-*"You wake already on the boat. No transition, no darkness before — just suddenly you are here. White robes. No weapons, no equipment, nothing you arrived with. The boat is wooden and merchant-built, clearly someone's working vessel. His name is on the hull — [PLACEHOLDER].*
+*"You wake already on the boat. No transition, no darkness before — just suddenly you are here. White robes. No weapons, no equipment, nothing you arrived with. The boat is wooden and merchant-built, clearly someone's working vessel. His name is on the hull — Ghassan al Qahtani.*
 
 *The river is vast and black. Stars above and below in equal measure. It is impossible to tell if the boat is sailing through sky or through deep ocean. There is no horizon. There is no shore visible yet.*
 
@@ -267,7 +267,7 @@ The heart. DC 8 Intelligence.
 The Feather of Ma'at. DC 8 Intelligence.
 
 **Question 5:** *"Name the soul you carry."*
-The dead man's name — [PLACEHOLDER]. If the party knows it, DC 8 Intelligence to state it clearly. If they don't know it, Thoth waits. The dead man can tell them his own name if they ask him directly. Asking him — in this place, at this moment — is significant. He says it quietly.
+The dead man's name — Ghassan al Qahtani. If the party knows it, DC 8 Intelligence to state it clearly. If they don't know it, Thoth waits. The dead man can tell them his own name if they ask him directly. Asking him — in this place, at this moment — is significant. He says it quietly.
 
 ## Resolution
 

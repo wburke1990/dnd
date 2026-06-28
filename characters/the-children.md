@@ -1,4 +1,4 @@
-# The Children of [PLACEHOLDER — DEAD MAN'S NAME]
+# The Children of Ghassan al Qahtani
 
 ## Role in the Campaign
 
@@ -8,22 +8,22 @@ The children are the party's primary contact for the dream quest. They hire the 
 
 ## Basic Information
 
-**[PLACEHOLDER — SON'S NAME]** — the older child, a boy. Adult.
-**[PLACEHOLDER — DAUGHTER'S NAME]** — the younger child, a girl. Adult.
+**Muntadhir al Qahtani** — the older child, a boy. Adult.
+**Alizayd al Qahtani** ("Ali") — the younger child, a boy. Adult.
 
 **Family business:** [PLACEHOLDER — BUSINESS NAME] — a wealthy merchant operation dealing in healing spells and potions. The children are powerful spellcasters in their own right.
 
-**Heritage:** Half-demon. Their mother was [PLACEHOLDER — DEMON WIFE'S NAME], a shapeshifting demon bound to their father by Planar Binding for thirty-one years. Their father was a mortal spellcaster. The children appear fully human. Their demonic heritage is not visible.
+**Heritage:** Half-demon. Their mother was Manizheh, a shapeshifting demon bound to their father by Planar Binding for thirty-one years. Their father was a mortal spellcaster. The children appear fully human. Their demonic heritage is not visible.
 
 ---
 
 ## Personality
 
-**The older child (son) — played by David:**
+**The older child (son), Muntadhir — played by David:**
 He has made a kind of peace with his parents' history. He has decided that the love his mother showed them was real and that is enough. He is practical, forward-thinking, and carries grief the way people do when they have had a long time to prepare for something. After the dream quest he feels lighter — not happy, but done, in the way of someone who has waited a long time for something to be over and finally it is. He helps the party up without being asked when they wake. He is already thinking about what comes next.
 
-**The younger child (daughter) — played by you:**
-She is less resolved. She keeps looking at the door her mother used to stand in. She is not sure it is right to feel relieved. When the party wakes from the dream quest she starts to ask — *"Did he — was it —"* — and then stops. She realizes she doesn't want the answer. Or that there isn't one to give. She will take longer to find her footing after this night than her brother will.
+**The younger child (son), Ali — played by you:**
+He is less resolved. He keeps looking at the door his mother used to stand in. He is not sure it is right to feel relieved. When the party wakes from the dream quest he starts to ask — *"Did he — was it —"* — and then stops. He realizes he doesn't want the answer. Or that there isn't one to give. He will take longer to find his footing after this night than his brother will.
 
 ---
 
@@ -90,8 +90,8 @@ They honor this bargain fully and without resentment. They are grateful. They ju
 
 **On how long their mother stayed after the funeral:**
 *(They disagree gently, the way siblings disagree about things that hurt too much to remember clearly.)*
-Son: *"She stayed a week."*
-Daughter: *"It felt longer than that. It felt like a month."*
+Muntadhir: *"She stayed a week."*
+Ali: *"It felt longer than that. It felt like a month."*
 
 **On what their mother said:**
 *"She spoke once, after father died. Just once, to no one in particular."*
