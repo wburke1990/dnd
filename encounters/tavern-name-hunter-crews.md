@@ -117,7 +117,7 @@ are **theirs**.*
 
 | # | Name | Species | ↔ PC | The opposite choice they made |
 |---|------|---------|------|-------------------------------|
-| 1 | **Setha Renk** | Half-elf | **Blackacre** | Had her own sacred ancestral claim and a people to answer to. When the commission asked her to desecrate it, she didn't flinch — she led the dig herself and called it progress. Blackacre backed out of raiding Lonka; Setha is the one who went through with it and sleeps fine. |
+| 1 | **Setha Renk** | Half-elf | **Blackacre** | Came up with a partner on a shared, idealistic cause — and when it curdled into betrayal and bloodshed, she **didn't flinch**. She went through with it, took the prize, and left her partner and her scruples in the wreckage. Blackacre balked at that exact threshold and has wandered ever since trying to mend what tore; Setha crossed it — she became her own Sayid — and sleeps fine. |
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | Has burned camps and buried the screaming. He'll tell Sarric, kindly, over a drink, that the screams stop following you eventually — you just have to let them. The exact peace Sarric is terrified of making. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | Chose to be remade to read the names — gave up a piece of herself willingly and has never once doubted it. Aniess was transformed without consent and can't say who she'd have been; Issa was transformed by choice and is perfectly, chillingly sure. |
 | 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
