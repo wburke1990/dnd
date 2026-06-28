@@ -164,8 +164,8 @@ ground.
   sails after it.
 - **How the orc sea fell — two legendary battles.** `[Will, 6/26]` The Muspel ruled Nila's
   water for ~300 years on their iron-riveted longships; two famous sea-fights broke that.
-  **(1) the Battle of Svolder — orc against orc:** the Muspel were never one people again after the Bad Pass (Ragnarok II) — its alchemical sickness mutated them into orcs, half-orcs, and worse, shattering their old unity — and
-  their sea-power first cracked in a ruinous *civil* battle, king against king. **(2) the Battle of Hjörungavágr — orc against the [Suartleheim dwarves](ships-and-sea-power.md):**
+  **(1) the Battle of Svolder (~320 ya) — orc against orc:** the Muspel were never one people again after the Bad Pass (Ragnarok II) — its alchemical sickness mutated them into orcs, half-orcs, and worse, shattering their old unity — and
+  their sea-power first cracked in a ruinous *civil* battle, king against king. **(2) the Battle of Hjörungavágr (~300 ya) — orc against the [Suartleheim dwarves](ships-and-sea-power.md):**
   the dwarf fleet (built at **Ools**) won when **a small eruption of the undersea volcanoes
   now raising the Kurunatukas** turned the sea against the Vikings — so the battle that
   **broke the orc sea also began raising the new land.**

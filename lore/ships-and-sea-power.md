@@ -71,10 +71,11 @@ reasonably safe — confirm]`. (Tripoca is already Blackacre's port of call.)
 ## How it got this way — the orc sea falls, new land rises
 
 For ~300 years the **Muspel orcs** ruled Nila's water on their longships. Two
-**legendary sea-battles** broke that dominance — kept here under their real saga
-names, with lines worth reading aloud at the table.
+**legendary sea-battles** at the close of the raiding age — **Svolder (~320 ya)**,
+then **Hjörungavágr (~300 ya)** — broke that dominance. They are kept here under
+their real saga names, with lines worth reading aloud at the table.
 
-### The Battle of Svolder — orc against orc
+### The Battle of Svolder — orc against orc (~320 ya)
 
 The Muspel were **never one people again** after the Bad Pass (Ragnarok II): its
 alchemical sickness mutated them into orcs, half-orcs, and worse and shattered
@@ -92,7 +93,7 @@ war-gear and let the sea take him.
 > head, and sank."*
 > — **Heimskringla**
 
-### The Battle of Hjörungavágr — orc against the dwarves
+### The Battle of Hjörungavágr — orc against the dwarves (~300 ya)
 
 The **Suartleheim dwarf fleet, built at Ools**, came to that narrow bay with the **bigger fleet** and met a smaller force of
 Muspel longships. Dwarves are no sailors, so they fought as landsmen do: every hull

@@ -208,9 +208,10 @@ He was the **torch-hand**, and what he burned *"was not only men"*: settled
 families and town-born half-orcs who had never raided anyone. He forgives
 himself **two ways at once.** *His faith:* the **Church of Sunne** brands the
 orcs heathen sea-devils, so he tells himself the burning was holy work.
-*His blood:* **Hjörungavágr** was the famous battle where his own people, the
-Suartleheim dwarves, broke the orc war-fleets — so burning the orcs' scattered
-descendants felt like settling an old family score, four thousand years owed.
+*His blood:* **Hjörungavágr** (~300 years ago) was the battle where his own
+people, the Suartleheim dwarves, broke the orc war-fleets — so burning the orcs'
+scattered descendants felt like finishing what his grandfathers started, a
+three-hundred-year score.
 Holy cause and ancient grudge together let him sleep. Now he's the Writ's
 **closer**, the hand that does what needs doing — but **kindly, weary, and
 genuinely at rest**, which is the horror.
