@@ -63,12 +63,20 @@ flat. Tune races/classes to taste.
   can simply **recognize him** — "the iron saint from the square back home" — a
   quiet way to spring the [Shepard](shepard.md) / [Vigil](../lore/kuru-and-the-phoenix.md)
   thread through an ally instead of exposition.
-- `[loose]` **Nuru** — **valley-born mage,** descended from the peoples near the
-  [Valley of the Kings](../encounters/valley-of-the-kings.md). The crew's
-  lore-value to the party: Nuru can **read the tombs, the old script, and the
-  old gods,** and is already **uneasy** about why a Maalm archmage wants dead
-  kings' true names. Keeper of the rescue-signal (below). Quiet, watchful, the
-  first of either crew likely to **draw the link** Preem hopes someone draws.
+- `[settled]` **Nuru** — **valley-born mage** of a **hereditary tomb-warden
+  line:** the remnant people who never left the [Valley of the
+  Kings](../encounters/valley-of-the-kings.md), keeping the old script and the
+  funerary rites by oral tradition and charged for generations with shepherding
+  the dead kings toward judgment and **guarding their graves.** She took Preem's
+  contract to get **back into the valley her displaced people were shut out of**
+  — only to find the job is the exact desecration her line swore to prevent:
+  cracking sealed tombs and stripping the kings of what was buried with them.
+  Hers is a **keeper's** unease, not a scholar's — she does **not** know what the
+  names are *for*, only that breaking these seals is a sin she was raised to
+  stop. Still the crew's lore-value (she reads the tombs and the old gods) and
+  the keeper of the rescue-signal (below). Quiet, watchful, grieving a little
+  more with every seal they break. (Valley keepers go by given name and lineage,
+  not a Maalm-style surname — hence simply **Nuru.**)
 - `[loose]` **Corvin Lark** — **half-elf scout and face.** Works the
   **city-gate guide network** — the exact network the **rat man bribes** to
   track Preem's hirelings ([Session 1 notes](../sessions/session-01.md)). That's
@@ -170,10 +178,11 @@ Why it works:
 3. **The favor called back** — the Second Hand breaks **their** shard. The party
    chooses whether to be someone else's cavalry, and learns what their own
    rescues have been costing.
-4. **Nuru draws the link** — the valley mage voices, out loud, the suspicion the
-   campaign wants the party to reach: *why does a Maalm archmage want dead kings'
-   true names?* A way to seed the [Preem reveal](preem.md#drawing-the-link)
-   sideways, through an ally instead of the party's own deduction.
+4. **Nuru's divided faith** — the keeper grasps that the contract desecrates the
+   tombs her line swore to guard. She drags her feet, begs to leave certain
+   graves sealed, or quietly works against the dig — a slow-burn loyalty crisis
+   the party can push either way, and a mirror for their own qualms about the
+   work.
 5. **The climax inversion** 🔒 — Preem turns or ransoms the crew at the
    [volcano-demon choice](preem.md#the-climax--the-volcano-demon-choice). Their
    allegiance becomes the question.
