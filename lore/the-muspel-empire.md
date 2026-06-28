@@ -197,6 +197,28 @@ analog he is drawn from.
   **Olora**, the orc ranger in [Aniess's orbit](../characters/aniess.md)). `[OPEN]`
   where half-orc loyalties fall now that the homeland is besieged.
 
+### The scattered diaspora — and the pogroms
+
+`[Will, 6/28]` The orcs were **never a unified people and never an empire** — that
+died with the old human Muspel a thousand years ago (§1–2). Their mutant children
+raided **Viking-fashion**: independent bands and petty captains, never one crown.
+So the **settlements they left** in the raiding age (§3) were **scattered,
+independent coastal footholds** — a mixed orc/half-orc quarter in a trade-town, a
+longship-haven cove — not an imperial network. (Our Dublin and the Danelaw: Norse
+blood settled wide without a Norse state.)
+
+When the orc sea broke (§5), those communities were **stranded** — no homeland
+fleet, no crown, no one to shield them — disunified diaspora in other peoples'
+ports. Some endure, absorbed and intermarried (part of why half-orcs turn up
+*everywhere*, above). Others have been the targets of **pogroms**: with the orcs
+cast as the old sea-devils, **Kuru's Church of Sunne** openly damns the diaspora as
+the fire-coast's heathen remnant, while the **secret Order of Sunne** stokes the
+worst of it from the shadows — so port mobs and Sunne-blessed militias have
+**burned out** orc-diaspora quarters far from any battlefront, killing settled
+families and town-born half-orcs who never raided anyone, as "the sea-devils'
+spawn." The reconquest's ugliness (§4–6) carried inland, against civilians, with no
+army to dignify it as war.
+
 ---
 
 ## 7. The Lost Northern Colonies & the Ice Frontier
