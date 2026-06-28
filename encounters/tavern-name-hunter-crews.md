@@ -137,11 +137,27 @@ are **theirs**.*
 
 | # | Name | Species | ↔ PC | The opposite choice they made |
 |---|------|---------|------|-------------------------------|
-| 1 | **Setha Renk** | Half-elf | **Blackacre** | Came up with a partner on a shared, idealistic cause — and when it curdled into betrayal and bloodshed, she **didn't flinch**. She went through with it, took the prize, and left her partner and her scruples in the wreckage. Blackacre balked at that exact threshold and has wandered ever since trying to mend what tore; Setha crossed it — she became her own Sayid — and sleeps fine. |
+| 1 | **Setha Renk** | Half-elf | **Blackacre** | A half-blood in a founder-blood crew, twice as ruthless to hold a seat the pure lines say she hasn't earned. On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the name-ledger, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | Has burned camps and buried the screaming. He'll tell Sarric, kindly, over a drink, that the screams stop following you eventually — you just have to let them. The exact peace Sarric is terrified of making. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | Chose to be remade to read the names — gave up a piece of herself willingly and has never once doubted it. Aniess was transformed without consent and can't say who she'd have been; Issa was transformed by choice and is perfectly, chillingly sure. |
 | 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
 | 5 | **Vael Astre** | Elf | **Pax** | Had his own revelation in the tombs: he looked at what the names *do* and decided dominion over souls is simply the right order of things. Pax speaks for the wounded living world; Vael speaks for the hand that owns it. Two prophets, opposite gods. |
+
+**Setha's buried truth (tomb three).** Her betrayal happened somewhere the
+party has already stood: the **rising-water puzzle in tomb three**, which they
+ran in **session three**. They even brushed the trace without knowing it — the
+freshly, roughly dug-out third entrance, *"footprints of at least three people
+in sandals, recent, within the last week… they either went in and didn't come
+out, or left without being noticed"* (see
+[`valley-of-the-kings.md`](valley-of-the-kings.md)). That was Setha's crew. The
+puzzle flooded on a botched choice; in the panic **Aurin went back for the
+hired diggers and Setha took the ledger and the exit**, leaving them to drown —
+the precise inverse of Blackacre, who bailed on a deadly plan to *spare*
+others. Afterward she returned, recovered the bodies, and buried them somewhere
+off the Valley path (kept deliberately vague) so Preem heard only of a clean,
+flawless clear — which is why the party found no corpses inside. Those unmarked
+graves are a live loose end: stumble on them later and the Writ's perfect
+record, and Setha's seat, come apart.
 
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their

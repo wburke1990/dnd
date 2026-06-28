@@ -385,8 +385,6 @@ The digging was done with simple tools — shovels and bare hands. Footprints of
 
 No sign of whoever did the digging. They either went in and didn't come out, or left without being noticed.
 
-**DC 14 Investigation:** One set of footprints is deeper on the way in — someone carrying something heavy. On the way out, those footprints are absent. Whatever they carried in, they didn't carry out.
-
 ---
 
 ## The Puzzle Chamber — Read Aloud
