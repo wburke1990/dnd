@@ -77,13 +77,17 @@ flat. Tune races/classes to taste.
   the keeper of the rescue-signal (below). Quiet, watchful, grieving a little
   more with every seal they break. (Valley keepers go by given name and lineage,
   not a Maalm-style surname — hence simply **Nuru.**)
-- `[loose]` **Corvin Lark** — **half-elf scout and face.** Works the
-  **city-gate guide network** — the exact network the **rat man bribes** to
-  track Preem's hirelings ([Session 1 notes](../sessions/session-01.md)). That's
-  both how the Second Hand gets ambushed (the rat man owns their informants) and
-  how they later **arrive in time** to save the party (Corvin hears where the
-  trouble is before anyone else). Charming, transactional, never gives a
-  straight price.
+- `[settled]` **Corvin Lark** — **half-elf scout & face,** the crew's eyes and
+  mouth in the city. He deals in **forged names and papers** — a mundane rhyme
+  with the campaign's name-obsession: he sells *false* names for coin while Preem
+  steals *true* ones from the dead. Corvin knows Maalm's gates and squares cold,
+  and which guards are bought: at the gate just **one** is Ratatat's (the one the
+  party met), but **all** the square's guards are on the take, since they're
+  witnesses Ratatat has to keep quiet. The ambush is **personal** for him — that
+  one dirty gate guard was someone Corvin had dealt with for years
+  (`[OPEN]` his name to come, from the guard's card), and the man sold the Second
+  Hand's departure to Ratatat for coin. Charming, transactional, never quotes a
+  straight price; in his trade, trust gets you killed.
 - `[loose]` **Pell** — **human field-medic** (Life-domain hedge-cleric or
   herbalist), the crew's **healer and its heart.** Learned medicine tending the
   dying in **Maalm's poorhouses,** and knows death too well to be easy about the
