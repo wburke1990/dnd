@@ -11,17 +11,16 @@ worldbuilding lives in **[lore/floating-fleet.md](../lore/floating-fleet.md)**,
 
 ## Snapshot
 
-- **Class / vibe:** Dragonborn **druid** — a wandering-fleet pirate, *not*
-  one of the island zealots. **[settled]**
+- **Class / vibe:** Dragonborn **druid** — a **solitary wandering** pirate,
+  *not* one of the island zealots. **[settled]**
 - **The druid hook (his whole concept):** the one thing the
   [Floating Fleet](../lore/floating-fleet.md) **can't harvest from the sea is
   timber** — masts, spars, hulls — so a druid who **grows and repairs wood** is
   the most valuable hand on a fleet of ships. A deliberate inversion of "sea
   druid = merman": **it's all about the plants.** **[settled]**
 - **Heritage:** Descended from the **Amatssou** — *"living beyond the fear,"*
-  the wandering-fleet dragonborn — who originally came from one of the towns
-  flanking the island of **Lonka** (e.g. **Ka**), but it's been **several
-  generations since his people lived inland**. **[settled]**
+  the **wandering nomadic dragonborn**: solitary roamers of the archipelago,
+  *not* a fleet and *not* the island Zealots. **[settled]**
 - **Home port:** **Tripoca** is his standard port of call, though he grew up
   mostly at sea. **[settled]**
 - **Present base:** These days he's **firmly on Mukka**, deliberately avoiding
@@ -58,23 +57,19 @@ A **riches-to-rags** shape. **[settled — per 5/28 chat]**
 
 ## Core arc & motivation
 
-- He and his former friend **Sayid** once shared a plan: **do something about
-  the Lonka zealots** — retake land, or open diplomatic relations, *something*
-  to better the relationship between the Floating Fleet and the island
-  dragonborn. **[settled]**
-- The two **fell out — possibly violently** — and Blackacre **bailed on the
-  plan**. **[settled]**
-- When the plan **turned violent against Lonka itself**, he **couldn't be part
-  of it** — Lonka (now the fortress-caldera of **Jotunheim**) is his ancestral
-  home and the dragon's holy first perch, and no fleet storms that island from
-  the open sea anyway (sheer cliffs, one guarded channel, the Dragon Turtle in
-  the bay). **Sayid went through with it; Blackacre didn't.** He fled to
-  **Mukka** and took a **letter of marque from Preem**, which is what brings him
-  to Maalm. **[settled]**
-- **Driving motivation:** **atone / make amends** — not necessarily with Sayid,
-  but at least to **mend things between the Floating Fleet and the Zealots**. He
-  *doesn't know how yet*. **Personal power acquisition** is the lever that makes
-  it possible, so tying that to an overarching story works for him. **[settled]**
+- He and his former friend **Sayid** came up together and **enacted a plan to
+  seize a few ships of the Floating Fleet** — the halfling water-nomads his
+  family had lived among (see *The Floating Fleet* below). When it **turned
+  violent, Blackacre lost his nerve and bailed**; Sayid went through with it.
+  They **fell out — possibly violently** — and Sayid is now an antagonist.
+  **[settled]**
+- He **fled to Mukka**, commandeered a boat, and took a **letter of marque from
+  Preem**, which is what brings him to Maalm. **[settled]**
+- **Driving motivation:** **mend the rift between the two dragonborn factions** —
+  the island-bound **Lonka Zealots** and his own people, the **solitary
+  wandering nomads**. He *doesn't know how yet*. **Personal power acquisition**
+  is the lever that makes it possible, so tying that to an overarching story
+  works for him. **[settled]**
 
 ## The world around him
 
@@ -87,18 +82,22 @@ island-mountain of **Lonka**, the first land; see
   perch.** They **reclaimed Lonka from the elves/humans who had repopulated it
   and massacred everyone** (DM analogy: the Crusaders retaking Jerusalem).
   Blackacre is *not* one of these. **[settled]**
-- **The nomads / Floating Fleet** — sail across **Nila bay**; they **honor the
-  flight.** **Blackacre's people.** Full civilization write-up in
-  [lore/floating-fleet.md](../lore/floating-fleet.md). **[settled]**
+- **The wandering nomads** — **solitary** dragonborn who roam the archipelago
+  alone (*not* a fleet); they **honor the flight.** **Blackacre's people.** (The
+  halfling **Floating Fleet** is a *separate* open-water civilization — see below
+  — **not** this faction and **nothing to do with the Zealots**.) **[settled]**
 
 ### The Floating Fleet (Blackacre's angle)
 Full detail in [lore/floating-fleet.md](../lore/floating-fleet.md) (Phoenician
-water-world nomads, majority halfling, chiefdom of many heads, timber-runs,
-whale-bladder war-drums). What matters for running *him*:
+water-world nomads, **majority halfling**, chiefdom of many heads, timber-runs,
+whale-bladder war-drums). A **separate open-water civilization — not the
+dragonborn nomad faction, and nothing to do with the Lonka Zealots.** What
+matters for running *him* is that his family lived among them (the anomaly
+above), which is where his druid-shipwright gift was prized:
 
 - **Sayid has co-opted an *element* of it** — unified a few of the tribes (not
-  the whole fleet; neither he nor Blackacre has that kind of pull) — and used
-  them to **do something unsavory on Lonka**. **[settled]**
+  the whole fleet; neither he nor Blackacre has that kind of pull), and went
+  through with the violent ship-seizure Blackacre bailed on. **[settled]**
 - Recognition rule: in a big world, Blackacre **could brush up against the
   fleet unrecognized** — but if he runs into **Sayid's** faction, **he can't
   disguise who he is.** **[settled]**
@@ -139,9 +138,9 @@ whale-bladder war-drums). What matters for running *him*:
   - **Sailcloth** patterning **running the length of his arms and legs.**
 - **Creation myth (all dragonborn):** the primordial dragon **Taniyn** rested
   her wings and the sea raised **Lonka** up to meet her; dragonborn are her
-  children. It's why Lonka is holy to nomad and zealot alike — and the deeper
-  reason Blackacre **could never raise a hand against it.** See
-  [lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md). **[settled]**
+  children. It's why **Lonka is holy to nomad and zealot alike**, and why the
+  Zealots guard it. (A race-wide origin myth, not a personal tie of Blackacre's.)
+  See [lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md). **[settled]**
 - **Religion / theme — the Wandering.** His faith is the veneration of
   **mythological wandering dragonborn saints** — solitary heroes who sailed
   out alone in tiny boats, did demigod-scale deeds (Heracles / Maui / Coyote
@@ -168,9 +167,10 @@ whale-bladder war-drums). What matters for running *him*:
 ## Key NPCs
 
 - **Sayid** — former friend turned antagonist; co-opted part of the Floating
-  Fleet and did something unsavory on Lonka. The emotional center of Blackacre's
-  arc. (Name "Salahadin" was considered for him but is being **saved for someone
-  else — possibly the ruler of the Zealots**.) **[settled]**
+  Fleet and went through with the violent ship-seizure Blackacre bailed on. The
+  emotional center of Blackacre's arc. (Name "Salahadin" was considered for him
+  but is being **saved for someone else — possibly the ruler of the Zealots**.)
+  **[settled]**
 - **Preem** — issued the letter of marque that brings Blackacre to Maalm.
   Patron / quest-giver. **[settled]**
 - **"Salahadin"** — reserved name, likely the **Zealot ruler** or someone
@@ -180,15 +180,15 @@ whale-bladder war-drums). What matters for running *him*:
 
 1. **Sayid's fleet, in person** — unavoidable recognition, no disguise. The
    confrontation with his estranged (ex-)friend is the payoff of the whole arc.
-2. **The Wizard's quest reaches Lonka** — DM flagged this as a natural tie-in
-   for Blackacre **atoning for what Sayid did** on his ancestral island.
+2. **The quest reaches Lonka / Jotunheim** — a natural tie-in to Blackacre's
+   goal of **mending the Zealot/nomad rift**, on the holy ground at its center.
 3. **Dragonborn on the Maalm docks** — DM leans toward staging the first
    dragonborn-to-dragonborn encounter here (nomads wouldn't run a shop). Trigger
    the **formal/stiff register + Arabic call-and-response greeting** for comedic
    dissonance and fast feedback on the language bit.
-4. **Lonka itself (now Jotunheim)** — ancestral home he refused to move
-   against; an unstormable fortress-caldera carrying the massacre history of
-   the Zealots. Loaded ground for moral-weight encounters.
+4. **Lonka / Jotunheim itself** — the Zealots' island fortress and the dragon's
+   holy first perch; an unstormable fortress-caldera carrying the massacre
+   history of the Zealots. Ground zero of the rift Blackacre wants to mend.
 5. **Preem & Mukka politics** — letters of marque as quest engine; pulls him
    between kingdoms' dirty work and his own atonement goal.
 6. **Watch-stones on every sea-road** — drop a wandering-saint's grave on the
