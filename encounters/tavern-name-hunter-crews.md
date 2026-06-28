@@ -40,23 +40,65 @@ middle — and the Writ are holding exactly what the party overlooked.
 ## The opening beat — what the party walks in on
 
 When the PCs push through the door, the room is already leaning toward one
-table: **Mogg**, the Brass Jackals' half-orc, is **mid-saga**, telling the old
-sea-stories of the **fallen orc fleets** — and half the tavern is listening.
-These are *his* people's tales (every half-orc descends from the Muspel), told
-with the dry relish only a half-orc brings to his own kind's doom:
+table: **Mogg**, the Brass Jackals' half-orc, is **mid-saga**. He's telling
+**one** of his people's old sea-stories — every half-orc descends from the
+Muspel, so the fall of the orc fleets is *his* family's tragedy, and he tells it
+with the dry relish only an orc brings to his own kind's doom. Pick **one** of
+the two below for the party to walk in on (he saves the other for the next
+round). Either way they **overhear the whole naval backstory** — the orcs' fall,
+the dwarves, the lost fleets — without a line of DM exposition.
 
-- **Svolder** — the orc sea-kings turning on *each other*, longships lashed into
-  floating forts and stormed deck by deck; the greatest of them going over the
-  side in his war-gear rather than be taken.
-- **Hjörungavágr** — the night the **dwarves** broke the orc sea, when the water
-  itself rose against the longships in fire and ounce-heavy hail, and arrows
-  flew from the fingers of the troll-women.
-- The **gallows-laughter** of the doomed at the chopping block — *"Whose hands
-  are in my hair?"* — which gets the biggest laugh of the night.
+**Option A — Hjörungavágr ("how the sea took the longships"):** the tavern is
+roaring at the last line as the party enters.
 
-It's set-dressing, but it does real work: the party **overhears the whole naval
-backstory** — the orcs' fall, the dwarves, the lost fleets — with not a line of
-DM exposition. (Full tales and saga lines:
+> "...and so the fleets met in the narrow water at Hjörungavágr — our
+> grandfathers' grandfathers, in the iron-riveted longships, against the dwarves
+> of the deep yards. Oh, the orcs were winning. *Of course* they were winning —
+> have you ever known an orc to lose a *fair* fight? But the dwarves didn't want
+> a fair fight. Dwarves never do.
+>
+> "So they called on the deep — or the deep answered for them, who's to say —
+> and the sea itself rose against my people. The water boiled black. Hail came
+> down the size of a fist, an ounce to every stone, and it fell on the orcs and
+> spared the dwarves, every cursed one. And out of the burning fog the hag-queens
+> walked the waves, and from every finger of their hands an arrow flew, and every
+> arrow was a man's death. You can't fight that. You can't board a witch. The
+> longships caught fire on the water and went down with the drums still beating.
+>
+> "And the dwarves fished the living out and lined them on the strand to lose
+> their heads — that's what dwarves do with courage they can't match. And did my
+> people weep? Did they beg? *Hah.* One of them, when the axe-man comes, says:
+> 'We've argued many a night whether a man knows aught after his head's off. Here
+> — I'll hold up my knife. If I keep my wits, I'll turn it up. If not, watch it
+> fall.' They struck, and the knife fell — and *that*, friends, is the only
+> honest experiment a dwarf ever helped an orc to run.
+>
+> "And the last of them, a lad, hair like gold, says: 'Hold my hair off my neck.
+> I'll not have it bloodied.' So a dwarf takes the hair in both fists, and the
+> axe comes down — and the lad snaps his head back, and the blade takes the
+> dwarf's hands clean off at the wrist. And the orc looks up, grinning, and says:
+> *'Whose hands are in my hair?'*"
+
+**Option B — Svolder ("the king who would not strike his sail"):**
+
+> "...for the bitter truth is the orcs were never beaten by any *one* people. We
+> were beaten by ourselves. At Svolder it was orc against orc — king against
+> king, our own kin laying their longships alongside ours.
+>
+> "They lashed the great ships together, gunwale to gunwale, into one floating
+> fortress, and fought from it deck by deck as the enemy came over the rails. And
+> the sea-king on the highest deck — the best of them, in his gilded helm — his
+> men cried at him to strike the sail and run while there was still water to run
+> on. And he says: 'Never have I fled a battle. Let the gods do as they like with
+> my life — but flight I will never take.' And when the last deck was lost, he
+> didn't kneel and he didn't yield. He stepped up onto the rail in his full
+> war-gear, lifted his shield over his head, and stepped off into the sea — and
+> the water closed over him, and no living man ever saw him again. Some say he
+> drowned in his iron. Some say he slipped the mail off underwater and swam away
+> to die old under a false name. An orc gets to pick which ending he likes. Me, I
+> like them both."
+
+(Full tales and the saga lines these are drawn from:
 [ships-and-sea-power.md](../lore/ships-and-sea-power.md).) Linger, and Mogg will
 take requests — or a drink.
 
