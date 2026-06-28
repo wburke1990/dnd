@@ -113,8 +113,8 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
   from usurpers (the on-file analogy: *the Crusaders retaking Jerusalem*).
 
 These are the **Lonka Zealots** of the lost-tribes / reclamation thread (*Sam's quest*; see
-[Blackacre](../characters/blackacre.md), who took a letter of marque to raid Lonka and **could
-not do it**). They hold the caldera still: **insular, mistrusted by the rest of the archipelago,
+[Blackacre](../characters/blackacre.md), who **refused to raise a hand against Lonka** when
+Sayid's plan turned violent against it). They hold the caldera still: **insular, mistrusted by the rest of the archipelago,
 but safe** behind their cliffs amid all the chaos of the centuries since.
 
 ### The Ravana rhyme — handles to pull

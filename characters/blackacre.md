@@ -64,10 +64,13 @@ A **riches-to-rags** shape. **[settled — per 5/28 chat]**
   dragonborn. **[settled]**
 - The two **fell out — possibly violently** — and Blackacre **bailed on the
   plan**. **[settled]**
-- He **took a letter of marque to raid Lonka** (the fleet's dragonborn could
-  get in), then **backed out at the last minute** — it's still his ancestral
-  home. He returned to Mukka and took **another letter of marque from Preem**,
-  which is what brings him to Maalm. **[settled, "spitballed" framing]**
+- When the plan **turned violent against Lonka itself**, he **couldn't be part
+  of it** — Lonka (now the fortress-caldera of **Jotunheim**) is his ancestral
+  home and the dragon's holy first perch, and no fleet storms that island from
+  the open sea anyway (sheer cliffs, one guarded channel, the Dragon Turtle in
+  the bay). **Sayid went through with it; Blackacre didn't.** He fled to
+  **Mukka** and took a **letter of marque from Preem**, which is what brings him
+  to Maalm. **[settled]**
 - **Driving motivation:** **atone / make amends** — not necessarily with Sayid,
   but at least to **mend things between the Floating Fleet and the Zealots**. He
   *doesn't know how yet*. **Personal power acquisition** is the lever that makes
@@ -137,7 +140,7 @@ whale-bladder war-drums). What matters for running *him*:
 - **Creation myth (all dragonborn):** the primordial dragon **Taniyn** rested
   her wings and the sea raised **Lonka** up to meet her; dragonborn are her
   children. It's why Lonka is holy to nomad and zealot alike — and the deeper
-  reason Blackacre **couldn't bring himself to raid it.** See
+  reason Blackacre **could never raise a hand against it.** See
   [lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md). **[settled]**
 - **Religion / theme — the Wandering.** His faith is the veneration of
   **mythological wandering dragonborn saints** — solitary heroes who sailed
@@ -183,8 +186,9 @@ whale-bladder war-drums). What matters for running *him*:
    dragonborn-to-dragonborn encounter here (nomads wouldn't run a shop). Trigger
    the **formal/stiff register + Arabic call-and-response greeting** for comedic
    dissonance and fast feedback on the language bit.
-4. **Lonka itself** — ancestral home he refused to raid; carries the massacre
-   history of the Zealots. Loaded ground for moral-weight encounters.
+4. **Lonka itself (now Jotunheim)** — ancestral home he refused to move
+   against; an unstormable fortress-caldera carrying the massacre history of
+   the Zealots. Loaded ground for moral-weight encounters.
 5. **Preem & Mukka politics** — letters of marque as quest engine; pulls him
    between kingdoms' dirty work and his own atonement goal.
 6. **Watch-stones on every sea-road** — drop a wandering-saint's grave on the
