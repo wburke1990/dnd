@@ -57,6 +57,13 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 > have you ever known an orc to lose a *fair* fight? But the dwarves didn't want
 > a fair fight. Dwarves never do.
 >
+> "A dwarf can't *sail* — never could, never will — so they don't try. They throw
+> the *corvus*: a great hooked iron beak on a swinging arm that drops and bites
+> clean through your deck and nails your ship to theirs. And then the stunted
+> devils come across it, swinging, and fight it out on your own boards like it's
+> dry land. That's the only way a dwarf ever bested an orc at sea — by making it
+> not the sea.
+>
 > "So they called on the deep — or the deep answered for them, who's to say —
 > and the sea itself rose against my people. The water boiled black. Hail came
 > down the size of a fist, an ounce to every stone, and it fell on the orcs and
@@ -82,9 +89,11 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 > *[As the laughter dies, Mogg doesn't laugh. He turns his cup.]*
 >
 > "But here's the joke the dwarves don't tell. They *won*. They lined our heads
-> up on the strand and sailed for home fat with it — and the same sea that
-> drowned us rose up behind them and took every last hull down with all hands.
-> Not one dwarf of that fleet ever saw his own harbor again. The deep doesn't
+> up on the strand and sailed for home fat with it — and the sea wasn't done with
+> anyone that year. A storm caught them on the way home, and those iron *corvus*
+> beaks rode so high and heavy on every bow that the whole fleet just rolled over.
+> Top-heavy. Every hull went down with all hands; not one dwarf of that fleet ever
+> saw his own harbor again. The deep doesn't
 > keep friends, see — it drowned my people, then it drowned the ones who cheered.
 > That's the only side the sea is ever on." *[He drinks.]* "They never built
 > another war-fleet after. Just the boats they sell now. Wouldn't you wonder

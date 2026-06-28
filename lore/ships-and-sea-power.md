@@ -95,8 +95,12 @@ war-gear and let the sea take him.
 ### The Battle of Hjörungavágr — orc against the dwarves
 
 The **Suartleheim dwarf fleet, built at Ools**, met the Muspel longships in a
-narrow bay and won — decided, as in the saga (where a god-called hailstorm broke
-the Jomsvikings), by **a small eruption of the undersea volcanoes just beginning
+narrow bay. Dwarves are no sailors, so they fought as landsmen do: every hull
+rigged with a **corvus** — a hinged boarding-ramp tipped with a heavy iron beak
+that dropped through a longship's deck and nailed it fast, so the dwarves could
+storm across and settle it hand-to-hand, where they win. That, and the sea's own
+betrayal, broke the orcs — the battle decided, as in the saga (where a god-called
+hailstorm broke the Jomsvikings), by **a small eruption of the undersea volcanoes just beginning
 to raise the Kurunatukas.** The water boiled, the sky turned, and the longships
 foundered. That eruption is the **same hot-spot volcanism still surfacing the
 Kurunatukas today** — so *the battle that broke the orc sea and the birth of the
@@ -113,11 +117,14 @@ new land are one event.*
 > *"Whose hands are in my hair?"* — another, who jerked his head from the blade so
 > the stroke fell on the man holding his hair instead. **Jómsvíkinga saga**
 
-**A victory that drowned.** The dwarves won — and then lost everything they won
-it with. Sailing home heavy with triumph, their whole fleet went down in a storm
-with all hands; not one hull of it reached a dwarven harbor. *(Modeled on the
-Roman fleet that smashed Carthage at sea in 255 BC and was then wrecked by a
-storm off Camarina on the voyage back — ~280 of 364 ships lost. `[Will]`)* So
+**A victory that drowned.** The dwarves won — and the very thing that won it
+killed them. The **corvus** was iron and it rode *high*, and a fleet of
+top-heavy hulls is a fleet that capsizes the moment the sea gets up. Sailing home
+fat with triumph, they met a storm, and the whole fleet rolled belly-up and went
+down with all hands; not one hull reached a dwarven harbor. *(Both the device and
+this end are taken word-for-word from Rome's First Punic War: the boarding-**corvus**
+won Mylae and Ecnomus but left the ships unseaworthy, and a top-heavy Roman fleet
+was wrecked in a storm off Camarina in 255 BC — ~280 of 364 ships lost. `[Will]`)* So
 **both** great war-fleets died in that war — the orcs broken in the bay, the
 dwarves drowned on the way home — and **neither has ruled the water since.** The
 dwarves never built another navy; they kept only their shipyards, which is why
