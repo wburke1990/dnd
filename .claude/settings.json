@@ -11,6 +11,7 @@
   "permissions": {
     "allow": [
       "Bash(git:*)",
+      "Bash(GIT_EDITOR=true git:*)",
       "Bash(gh:*)",
       "Bash(uv:*)",
       "Bash(python:*)",
