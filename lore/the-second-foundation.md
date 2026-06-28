@@ -31,6 +31,13 @@ cataclysm the campaign calls **Ragnarok** — and that the next one is due
   an **independent faction / leadership outside the Foundation**; not every
   elven elite is a Foundationer, and not every Foundationer answers to Preem.
   He is *close* to power, not in sole command of it. **[settled]**
+- **Its worldly power runs on the [Company](the-company.md).** 🔒 Beneath the
+  Ragnarok-cult framing, the Second Foundation is also an **economic empire:** it
+  secretly owns Nila's **East India Company** out of
+  [Noku Kurunatuka](nila-atlas.md) — the **merchant arm** of the archipelago's
+  colonization and the source of [Preem](../characters/preem.md)'s money. The
+  cosmic agenda and the commercial one are **one order.** See
+  [§6, the worldly arm](#6-the-worldly-arm--the-company-). **[settled — 6/28]**
 
 ## 2. Ragnarok — the world's cataclysm cycle
 
@@ -166,6 +173,37 @@ errand is quietly assembling the means to end the world on his own schedule.
   [the dream quest](../encounters/the-dream-quest.md) — where a merchant bound
   one demon with her true name and called it love. (See
   [Preem](../characters/preem.md#the-climax--the-volcano-demon-choice).)
+
+## 6. The worldly arm — the Company 🔒
+
+`[settled — 6/28 brainstorm]` The Foundation is usually described in **cosmic and
+demonic** terms (Ragnarok, true names, bound demons). Its **material face** is just as
+important: the Second Foundation **is, in practice, the [Company](the-company.md)** — the
+chartered **East India Company** seated in [Noku Kurunatuka](nila-atlas.md), with its own
+troops, forts, and hired fleets.
+
+- **Foreknowledge cashed out.** The Foundation's understanding of the
+  [comet cycle](world-history-timeline.md) is not only doom-prophecy; it is an **edge.**
+  The Company is that edge converted into a worldly empire — ore stripped from
+  [Suartleheim Eet](nila-atlas.md), the magical beasts of [Kalikhat](campaign-overview.md)
+  slaughtered for their materials, and slave-worked coffee-and-sugar plantations on
+  [Musleheim](musleheim.md)'s rich volcanic soil. (Full ledger in
+  [the Company §3](the-company.md).)
+- **The contrast with the [First Foundation](the-first-foundation.md).** The First's craft
+  is **celestial land-transformation** — channeling a pass's volcanism to *build* land.
+  The Second's has become, in practice, **mercantile incumbency:** an empire that wants the
+  coming pass to **pass quietly so its holdings keep earning.** It is no longer only a
+  survival cult — it is **invested money defending itself against the end of the world.**
+- 🔒 **The seam this opens (the Preem fracture).** The Foundation-as-Company wants
+  **stability.** Its own First Chair (§4) wants to **trigger Ragnarok** and bind a
+  volcano-demon — which would **destroy the very holdings the Company exists to protect.**
+  Preem's logic: *the profit is fine, but I want to control demons too.* The merchant
+  cabal and its heretic chair are on a **collision course** — a way into the climax that
+  is commercial, not only cosmic.
+- **The party's complicity, second floor.** [Preem](../characters/preem.md)'s pay and
+  [gifts](../characters/preem.md) are **Company blood-money.** When the party traces it,
+  the reveal is his line — *"Where did you think your money was coming from?"* They never
+  asked if it was ethically sourced. (See [the Company §5](the-company.md).)
 
 ## Open threads
 

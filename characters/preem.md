@@ -131,6 +131,28 @@ In brief:
   independent faction outside the cabal. Preem is close to the seat of power
   but does not own it outright. **[settled]**
 
+## Where the money comes from — the Company 🔒
+
+`[settled — 6/28 brainstorm]` Preem's wealth is not wizardly mystery — it is
+**trade.** As First Chair, he sits atop the Second Foundation's worldly arm, the
+**[Company](../lore/the-company.md)** (Nila's East India Company, out of
+[Noku Kurunatuka](../lore/nila-atlas.md)). So the **pay and
+[gifts](#preems-gifts--bestowed-in-the-first-scene)** he hands the party are
+**Company blood-money:** slaughtered [Kalikhat](../lore/campaign-overview.md)
+unicorns, slave-grown coffee off [Musleheim](../lore/musleheim.md), ore stripped
+from [Suartleheim Eet](../lore/nila-atlas.md), ruined half-orc trader families.
+
+- **The reveal line.** When the party traces the money, Preem doesn't flinch — he
+  is **amused:** *"Where did you think your money was coming from?"* They took the
+  coin and the patronage and **never once asked if it was ethically sourced** (and
+  this party *always* asks). A **second floor** under their complicity in his
+  demon-trade.
+- 🔒 **His heresy threatens his own empire.** The Company wants the coming pass to
+  **pass quietly** so its holdings keep earning. Preem wants to **trigger Ragnarok**
+  anyway — *the profit is fine, but I want to control demons too.* He is the heretic
+  inside his own merchant cabal, and that fracture is a lever the party can pull (see
+  [the Second Foundation §6](../lore/the-second-foundation.md)).
+
 ## The demon scheme — his private heresy
 
 This is where Preem diverges from his fellow Foundationers. **[settled]**

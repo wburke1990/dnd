@@ -58,6 +58,13 @@ Foundations want to control it:
 - The **Second Foundation** (Preem) means to **trigger it early and on purpose** by
   binding a volcano-demon with its true name.
 
+🔒 **And the two orders differ in their *worldly* faces, too.** Where the First Foundation's
+craft is **celestial land-transformation** (building land from a pass), the Second Foundation
+has become, in practice, **the [Company](the-company.md)** — a mercantile empire out of
+[Noku Kurunatuka](nila-atlas.md) that means to **profit from** the pass, not merely survive
+it (see [the Second Foundation §6](the-second-foundation.md)). The First makes land; the
+Second makes money.
+
 **The party will have to decide** whether to help the First Foundation, help the
 Second Foundation, or do something else entirely. That choice is the campaign's
 climax (the "names & ownership" thesis made concrete — see [campaign overview](campaign-overview.md)).
