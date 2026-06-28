@@ -39,7 +39,7 @@
 
 ## The crew
 
-Four members, sketched so you can run them fast and lose one without it landing
+Five members, sketched so you can run them fast and lose one without it landing
 flat. Tune races/classes to taste.
 
 - `[loose]` **Captain Cassia Roan** — **human**, the crew's leader and the
@@ -70,6 +70,16 @@ flat. Tune races/classes to taste.
   how they later **arrive in time** to save the party (Corvin hears where the
   trouble is before anyone else). Charming, transactional, never gives a
   straight price.
+- `[loose]` **Pell** — **human field-medic** (Life-domain hedge-cleric or
+  herbalist), the crew's **healer and its heart.** Learned medicine tending the
+  dying in **Maalm's poorhouses,** and knows death too well to be easy about the
+  job: *you don't rob a corpse of the last thing it still owns* — a second
+  conscience for the crew, angled away from Halvard's soldier's honor. In fiction
+  Pell is **how the lifeline actually works:** Nuru sees the shard flare, Pell
+  does the saving — the hands that stabilize a downed party that should have
+  wiped. The **youngest and least hardened,** the one the others instinctively
+  shield, which makes Pell the natural answer to *who dies* if a rescue ever has
+  to cost the Second Hand a member. Warm, blunt, jokes while stitching.
 
 ## How they meet — the ambush that bonds them
 
@@ -164,13 +174,14 @@ Why it works:
 
 ## Open threads
 
-- `[OPEN]` **Final crew name** (`The Second Hand` is a proposal) and the four
+- `[OPEN]` **Final crew name** (`The Second Hand` is a proposal) and the five
   members' locked races/classes/voices.
 - `[OPEN]` **The signal's exact form and limit** — shard, token, horn; soft cap
   on rescues vs. escalating-cost model. Pick what your table will actually
   honor.
 - `[OPEN]` **Does a Second Hand member die** in a rescue, and if so **who, and
-  when** — the most reliable way to keep the anti-TPK lever from going stale.
+  when** (Pell, the youngest, is the leading candidate) — the most reliable way
+  to keep the anti-TPK lever from going stale.
 - `[OPEN]` **Halvard's crusade past** and whether it ties to
   [Kuru / Vigil / Shepard](../lore/kuru-and-the-phoenix.md).
 - `[OPEN]` **Climax allegiance** — do they break Preem's leash for the party, or
