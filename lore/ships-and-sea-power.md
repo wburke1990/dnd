@@ -93,6 +93,18 @@ war-gear and let the sea take him.
 > head, and sank."*
 > — **Heimskringla**
 
+**Between the two (~320 → ~300 ya).** Svolder *thinned* the orcs but did not
+scatter them. Out of the civil bloodletting **one victor consolidated the
+surviving longships** under a single hand — not the lost empire-wide unity (that
+died with the Bad Pass), but the **most unified and dangerous** the orc sea had
+been since the mutation: a single warlord's bloc in place of the squabbling
+many-kings before it. That *rising*, concentrated threat is what finally moved
+the **Suartleheim dwarves** to act — and forging an iron war-fleet big enough to
+meet it took the better part of **twenty years**. So Hjörungavágr was no
+mop-up of a spent foe: the dwarves armed against an orc power near its
+post-Svolder *peak*, which is why they came with the **bigger fleet** and still
+nearly lost.
+
 ### The Battle of Hjörungavágr — orc against the dwarves (~300 ya)
 
 The **Suartleheim dwarf fleet, built at Ools**, came to that narrow bay with the **bigger fleet** and met a smaller force of
