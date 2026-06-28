@@ -72,6 +72,13 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 > arrow was a man's death. You can't fight that. You can't board a witch. The
 > longships caught fire on the water and went down with the drums still beating.
 >
+> "But hear me — they didn't *beat* us. Man for man, deck for deck, the orcs had
+> the better of that fight; we left a dwarf dead for every son of ours the sea
+> drowned, and the boats that crawled out of that bay rode low with their own
+> dead. The dwarves didn't *win* Hjörungavágr — the deep *handed* it to them, and
+> even with the ocean on their side we made them pay a fleet's worth of widows for
+> it.
+>
 > "And the dwarves fished the living out and lined them on the strand to lose
 > their heads — that's what dwarves do with courage they can't match. And did my
 > people weep? Did they beg? *Hah.* One of them, when the axe-man comes, says:

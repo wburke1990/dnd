@@ -102,7 +102,10 @@ storm across and settle it hand-to-hand, where they win. That, and the sea's own
 betrayal, broke the orcs — the battle decided, as in the saga (where a god-called
 hailstorm broke the Jomsvikings), by **a small eruption of the undersea volcanoes just beginning
 to raise the Kurunatukas.** The water boiled, the sky turned, and the longships
-foundered. That eruption is the **same hot-spot volcanism still surfacing the
+foundered. **But the orcs sold it dear:** they had been *winning* the boarding
+fight outright, and gutted the dwarf fleet ship for ship before the deep turned —
+so even the victors limped out of that bay a bled-white, half-wrecked remnant.
+That eruption is the **same hot-spot volcanism still surfacing the
 Kurunatukas today** — so *the battle that broke the orc sea and the birth of the
 new land are one event.*
 
@@ -119,7 +122,8 @@ new land are one event.*
 
 **A victory that drowned.** The dwarves won — and the very thing that won it
 killed them. The **corvus** was iron and it rode *high*, and a fleet of
-top-heavy hulls is a fleet that capsizes the moment the sea gets up. Sailing home
+top-heavy hulls — and the orcs had already mauled this one half to wrecks — is a
+fleet that capsizes the moment the sea gets up. Sailing home
 fat with triumph, they met a storm, and the whole fleet rolled belly-up and went
 down with all hands; not one hull reached a dwarven harbor. *(Both the device and
 this end are taken word-for-word from Rome's First Punic War: the boarding-**corvus**
