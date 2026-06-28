@@ -44,7 +44,7 @@ flat. Tune races/classes to taste.
 
 - `[settled]` **Captain Cassia Roan** — **human** fighter / battle-captain, the
   crew's leader. **Ex–Maalm citadel watch:** she wore the same badge the corrupt
-  guards still wear, until she moved to expose her sergeant's racket — the watch
+  guards still wear, until she moved to expose her sergeant **Marcellus's** racket — the watch
   taking Ratatat's coin to look away from his robberies and killings — and was
   **forced out and blacklisted** for it, the rot closing ranks against the one
   honest badge. That's the wound beneath the trait: she stood in a uniform that

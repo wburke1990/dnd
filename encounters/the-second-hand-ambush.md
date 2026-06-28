@@ -51,7 +51,7 @@ The encounter has three beats:
 **The rat man** — the rat-headed humanoid who ambushed the party in
 [Session 1](../sessions/session-01.md). He's not here on a grudge — he's a
 **thief working the tower's loading dock,** here for the **gifts** the departing
-crew is carrying. He brings **his rats,** lets the **paid guards** do the heavy
+crew is carrying. He brings **his rats,** lets the **bought guards** do the heavy
 fighting, snatches what he can, and **flees the moment the party turns the
 tide** — as he always does. Stats: **[The Rat Man (Ratatat)](../bestiary/the-rat-man.md)**
 (CR ½ + 14 rat minions). He's a skirmisher who grabs loot and bolts, not a
