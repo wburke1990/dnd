@@ -58,6 +58,23 @@ restocking his pantry.)
   watching the party — it's **Preem's enemy watching Preem,** through a thief who
   doesn't know whose errand he runs. Catching Ratatat leads only to V., and no
   further.
+- **The three square guards — Marcellus, Bernardo, and Francisco — were in on
+  it, and the lame excuse one of them gave is the tell.** (Named for the sentries
+  who open *Hamlet*.) These are the guards Ratatat **already owns** (bought into
+  silence as witnesses to his racket — see the
+  [ambush writeup](../encounters/the-second-hand-ambush.md)). In *this* fight,
+  though, they were posted in the square and **didn't lift a finger** while the
+  rat man attacked; afterward, questioned, one of them stammered a bad explanation
+  for why they hadn't helped. That excuse is *true-by-being-false* — the real plan
+  was to **turn a blind eye**, let the rat man take the party's **map**, and then
+  **wade in at the end to "fake-fight the rats" and pose as rescuers** (collecting
+  their cut and the credit). The rat man **botched it** — the party fought him off
+  instead of being robbed — so the staged rescue never came, the guards were
+  caught flat-footed, and they **panicked when questioned.** Hence the terrible
+  excuse. It pays off directly in
+  [The Second Hand Ambush](../encounters/the-second-hand-ambush.md): the same
+  three guards, done with the charade after the embarrassment, **fight openly for
+  the rat man** — and the party gets to *see* what the excuse was hiding.
 - The party walked away from the fight with **rat meat** harvested from
   the encounter. This became a running prop across the next two sessions:
   they keep offering it to everything they meet.

@@ -60,19 +60,26 @@ creature who stands and trades blows — his **Scatter!** reaction *is* the esca
 "V." he doesn't know is a **[First Foundation](../lore/the-first-foundation.md)**
 agent.
 
-**The three corrupt guards** — the muscle. **Guards posted in the square** that
-the rat man **already owns** — every witness to his crimes in that square, bought
-into silence — turned on the departing crew. **Three** of them; use the **Guard**
-stat block, and make one a **Veteran sergeant** if you want Cassia's grudge to
-have a face (she outranked him, moved to expose his racket, and was forced out for
-it). They fight while the coin's good — when the sergeant drops or the rat man
-bolts, they **break and run.**
+**The three corrupt guards — Marcellus, Bernardo, and Francisco** — the muscle,
+and **the same three guards from the party's own [Session 1](../sessions/session-01.md)
+ambush.** (Named for the sentries who open *Hamlet*.) These are guards the rat man
+**already owns** — every witness to his racket in that square, bought into silence.
+In Session 1 their job was subtle: turn a blind eye, let him rob the freshly-gifted
+party, then wade in at the end to "fake-fight the rats" and play rescuer. He botched
+it, the staged rescue never came, and they panicked and gave the party a lame excuse
+for not helping. **This time they've dropped the pretense** — done with finesse after
+that embarrassment, they **fight openly for him,** which is exactly how the party
+finally *sees* what the Session-1 excuse was hiding. Use the **Guard** stat block;
+**Marcellus is the Veteran sergeant** — the man **Cassia outranked, moved to expose,
+and was forced out for naming,** which gives her grudge a face. They fight while the
+coin's good — when Marcellus drops or the rat man bolts, the other two **break and
+run.**
 
 **The Second Hand** — the crew being ambushed, introduced fully in
 [their writeup](../characters/the-second-hand.md):
-- **Captain Cassia Roan** — human ex-watch officer; she **outranked the
-  sergeant,** moved to expose his racket, and was **forced out** for it — so the
-  fight is personal, and the watch shielding Ratatat in front of her is salt in it.
+- **Captain Cassia Roan** — human ex-watch officer; she **outranked Marcellus,**
+  moved to expose his racket, and was **forced out** for it — so the fight is
+  personal, and the watch shielding Ratatat in front of her is salt in it.
 - **Halvard Stone** — dwarf shieldbearer, **down or nearly down** when the party
   arrives (he put himself between the guards and the others).
 - **Nuru** — valley-born mage, out of spells, the one who later **splits the
@@ -126,11 +133,15 @@ take — diverge, and that's the point:
   gifts** — the location stone above all. Let him **try to escape with one** if
   the party is slow; recovering it (or failing to) is a clean stake on top of the
   lives. It also tells the party, correctly, what these ambushes are *for*.
-- **Three corrupt guards + the rats are the combat.** Three **Guards** (one a
-  **Veteran sergeant** if you want Cassia's grudge to land) plus the rat man's
-  **rats.** The guards fight while the coin's good and **break** when the sergeant
-  drops or the rat man bolts. A surrendered or captured guard is a **lever into
-  Maalm's civic rot** — proof the rat man **owns** the watch in the square.
+- **Three corrupt guards + the rats are the combat.** Three **Guards** —
+  **Marcellus** the **Veteran sergeant**, **Bernardo** and **Francisco** the rank
+  and file — plus the rat man's **rats.** The guards fight while the coin's good
+  and **break** when Marcellus drops or the rat man bolts. A surrendered or
+  captured guard is a **lever into Maalm's civic rot** — proof the rat man **owns**
+  the watch in the square. **If the party recognizes them** from
+  [Session 1](../sessions/session-01.md) (the guards who "couldn't" help and gave
+  the bad excuse), lean into it — this is the moment the excuse is exposed for
+  what it was.
 - **Cassia fights to reach the sergeant.** If the party keeps Halvard alive and
   lets Cassia get her hands on the man who sold out the watch, that's the
   emotional beat — let it land.
@@ -175,7 +186,9 @@ is gone — but the party has now **seen** the rat man field corrupt guards, and
 - [x] **Rat man + rats stat blocks recorded** in
       [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (Ratatat, CR ½
       + 14 rat minions). Scale guard count / rats to your party.
-- [ ] **Lock the corrupt-guard sergeant's name** and his history with Cassia.
+- [x] **Locked: the three guards are Marcellus (Veteran sergeant), Bernardo, and
+      Francisco** — the same trio from [Session 1](../sessions/session-01.md);
+      Cassia outranked Marcellus and was forced out for naming his racket.
 - [ ] **Decide the citadel staging** — alley vs. plaza vs. the tower steps
       themselves (most pointed: ambushed on Preem's own doorstep).
 - [ ] **Pick the split-glyph's form and limit** — see the
