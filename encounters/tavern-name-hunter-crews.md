@@ -280,7 +280,7 @@ the bridge to the haunted Ashfoot a city down the road.*
 | 2 | **Hadda Vimm** | Dwarf | Quartermaster | The one actually reading the map — and counting the crews that go out to the far sites and never report back. Carries the **structural warning**: Preem keeps hiring because crews keep dying. An earlier, lighter echo of the Ashfoot's Olen. |
 | 3 | **Sefi** | Halfling | Scout | Youngest, in over her head, already sleeping badly because of a name she's carrying. The **cost made human** — the proto-Ashfoot. If the party wants to see where this road ends, Sefi is mile one. A mirror of their own greenness, and the easiest of all these NPCs to want to save. |
 | 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. **The crew's storyteller** — the party first overhears him mid-saga (see the opening beat). |
-| 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb; it's changed him a little — a comic tic now, a sinister one later. The first faint creep of the names-rot, played for a nervous laugh. |
+| 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb and can't leave the names alone — and the work is fraying him: a comic nervous tic now, something colder later. No curse on him, no rot — just a soft mind cracking under what the job really is, played for a nervous laugh. |
 
 **Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
 the two crews are a half-step from a brawl the moment the party walks in. Veska
