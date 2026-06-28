@@ -106,8 +106,9 @@ In short: just outside Preem's tower the party comes on the Second Hand
 **already losing** — the **rat man** has caught them on the way out the way he
 caught the PCs, because Preem **outfits every crew with magic gifts** and the rat
 man **robs them the moment they leave, freshly loaded.** This time he's brought
-**his rats** and **paid three of the square's guards** to do the killing while he
-claws for the loot. The party wades in, the rat man **runs** (as he always does)
+**his rats** and turns **three of the square's guards he already owns** — bought
+into silence as witnesses to his crimes — to do the killing while he claws for
+the loot. The party wades in, the rat man **runs** (as he always does)
 with whatever he could grab, the **three corrupt guards** are cut down or break,
 and the Second Hand owes the party their lives.
 
@@ -117,10 +118,10 @@ Why it works:
   **all** of Preem's crews, and — incorrectly, the way the campaign wants — that
   **Preem's people are watched,** which curdles their trust toward the patron
   instead of the real handler. ([Session 1 DM notes](../sessions/session-01.md).)
-- **It introduces the corrupt watch,** not as a one-off: the rat man can **buy
-  the square's guards on the spot** to do his killing. Cassia's history with the
-  sergeant makes the fight personal and gives the party a hook into Maalm's civic
-  rot.
+- **It introduces the corrupt watch,** not as a one-off: the rat man **already
+  owns the square's guards** — every witness to his crimes bought into silence —
+  and turns them on his killing. Cassia's history with the sergeant makes the
+  fight personal and gives the party a hook into Maalm's civic rot.
 - **It tells the party what the ambushes are *for*:** the rat man preys on
   Preem's outfitted crews to **strip them of their gifts** — which is, in
   hindsight, exactly what he tried on the PCs in Session 1.
