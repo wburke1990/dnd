@@ -11,7 +11,7 @@ She is not a villain. She is not a victim in any simple sense. She is a being wh
 ## Basic Information
 
 **True name:** Hatset
-**Demon type:** [PLACEHOLDER — shapeshifting demon, type TBD]
+**Demon type:** Yochlol (reflavored — see DM note). One of the demon-people of the deep; appears as a beautiful human woman.
 **Current whereabouts:** Unknown. She left sometime after the dead man's funeral. The children are not sure exactly when.
 
 ---
@@ -40,12 +40,14 @@ Players who succeed feel unsettled but cannot articulate why. Do not over-descri
 - That the binding made the question of her own feelings permanently unanswerable
 - That she loves her children completely and without reservation
 - That she stayed after her husband died longer than she had to
+- The whole history of her people — the old alliance that built Muspelheim, its collapse, the binders who came after (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)). She lived it. She is one of the few living witnesses to any of it.
 
 ## What She Doesn't Know
 
 - What she would have chosen, had she been free
 - Whether what she felt for her husband was love or something that resembled it closely enough to matter
 - Whether the distinction is meaningful
+- **The magma demon's true name.** No demon of her standing was ever party to it. This matters mechanically: because she is bound, anyone who held her name could simply order her to give up anything she knows — so it is important that she does *not* know this one thing. She cannot be a shortcut to the campaign's central secret.
 
 ---
 
@@ -70,7 +72,7 @@ The material plane causes demons pain — the longer they remain unbound, the mo
 ## DM NOTE — PRIVATE
 
 **On her demon type:**
-The type is deliberately unresolved pending a decision that fits the campaign's serpent and volcanic imagery. Leading candidate is Marilith — a six-armed serpentine demon — which would connect her visually to Apep, the serpent-king statue at the valley entrance, and the shipwrecked sailor's great serpent. It would also create a subtle parallel with Aniess, who is Yuan-ti. This decision can wait until it becomes narratively relevant.
+She is a **Yochlol**, run off that stat block but reflavored away from Lolth — exactly as Mul is (see [Preem's demons](preems-demons.md)). In this world the Yochlol is simply the demon that can wear a person: Change Shape into a beautiful human woman, Dominate Person, Detect Thoughts, Magic Resistance. CR 10 reads as genuinely formidable, which suits a being thousands of years old. She is one of the **demon-people of the deep** (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)), having followed the hotspot across the buried cities since before the elves. That she and Mul are the same kind is deliberate: the shapeshifter-demon is Preem's standard instrument, so she is not unusual as a kind. She is unusual as a person.
 
 **On her true name:**
 Her true name is held by the wizard — [Preem](preem.md), who **bound her
@@ -89,7 +91,13 @@ of what Preem is building, and the demon wife's true name one of many Preem has
 collected. (See [Preem and the dream-quest merchant](preem.md#preem-and-the-dream-quest-merchant).)
 
 **On her children's futures:**
-As the children grow into their power, their demonic heritage may begin to manifest in ways connected to their mother's true form. This is a long-term hook.
+As the children grow into their power, their demonic heritage may begin to manifest in ways connected to their mother's Yochlol nature — a shapeshifter's inheritance. This is a long-term hook.
+
+**Her return, and how she ends:**
+Manizheh is not gone for good. Preem's claim on her name never lapsed, so at some later point he summons and re-binds her and turns her against the party. She does not obey. Out of gratitude — they carried her husband through the dream to his judgment, a thing she and her children could not do — she spends the one freedom a bound demon has: she **changes her own true name.** Doing so strips her demonic nature, including the power to re-form, so instead of being thrown back to the Abyss she comes apart on the spot, into ash and smoke, permanently. She chooses this knowing what it costs.
+
+**Why there is no afterlife for her, and why that is the point:**
+The river of stars and the Hall of Two Truths are for mortal souls. A demon is not a mortal soul, so that road was never hers — her exclusion from the dream quest is not a curse but her nature, the same reason her half-demon children cannot make the crossing either. When she unmakes herself she walks into a death her people have no map for: no judgment, no return, nothing anyone, including her, can name. Her last question is the unanswerable one — *is there anything at all, for us?* — and she goes without an answer. She also carries everything she knows of the old history into that silence. She witnessed ages no one else remembers, and she tells none of it. The first time she stood at the edge of true death, long ago, she gave up her name to keep existing; at the end she does the reverse, ending herself rather than be used. The same choice, made the other way.
 
 ---
 

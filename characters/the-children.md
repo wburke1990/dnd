@@ -13,7 +13,7 @@ The children are the party's primary contact for the dream quest. They hire the 
 
 **Family business:** [PLACEHOLDER — BUSINESS NAME] — a wealthy merchant operation dealing in healing spells and potions. The children are powerful spellcasters in their own right.
 
-**Heritage:** Half-demon. Their mother was Manizheh, a shapeshifting demon bound to their father by Planar Binding for thirty-one years. Their father was a mortal spellcaster. The children appear fully human. Their demonic heritage is not visible.
+**Heritage:** Half-demon. Their mother was Manizheh, a shapeshifting demon — a Yochlol (see [Manizheh](demon-wife.md)) — bound to their father by Planar Binding for thirty-one years. Their father was a mortal spellcaster. In game terms the children are **cambions**, the offspring of a fiend and a mortal. They appear fully human; their demonic heritage is not visible.
 
 ---
 
@@ -78,7 +78,7 @@ do not "fix" her gender to match the Alizayd reading.
 
 **Their demonic heritage as a future hook:**
 
-The children are powerful spellcasters. As they grow into their power, subtle aspects of their demonic heritage may begin to manifest — the nature of which depends on their mother's demon type once that is decided. This is a long-term campaign hook, not an immediate concern.
+The children are powerful spellcasters. As they grow into their power, subtle aspects of their demonic heritage may begin to manifest — the nature of which depends on their mother's nature as a Yochlol, a shapeshifter's inheritance. This is a long-term campaign hook, not an immediate concern.
 
 ---
 
