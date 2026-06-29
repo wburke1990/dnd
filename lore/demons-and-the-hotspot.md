@@ -116,7 +116,13 @@ The order's names did not come gently, and they did not come twice.
 
 **First the elves built the key.** Binding by true name is **elven magecraft,
 invented to kill an empire** — not demon-lore handed over by a merciful captive.
-Through the long lead-up to the founding, the mages of Maalm — working from
+**The seed was a story they already told: Isis and Ra** — the goddess who
+masters the sun-god not by any gift but by **poisoning him and prising his
+hidden true name out of him at the edge of death.** The Maalm mages read that
+myth as a recipe, and it handed them *both* halves of what they built: the
+**principle** (a secret name is a leash, even on a god) and the **method** (take
+it at the brink). Through the long lead-up to the founding, the mages of Maalm —
+working from
 **inside the First Foundation** (the Asimov nesting made literal: a hidden order
 within the elder one; see [the Second Foundation](the-second-foundation.md)) —
 bent decades of patient research toward one weapon against demon-powered Muspel:
