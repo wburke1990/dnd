@@ -386,16 +386,27 @@ with no god's voice in their heads.**
   human parts — **immortality by molting** — and is the island's great researcher of
   the stones.
 
-`[settled]` **He is the source of the Order's snake ritual.** This researcher
-**invented the snake-transformation** and **shared it with the Warforged Crusaders
-of Kuru,** who now use it to remake their recruits and spies into Yuan-ti
-([party roster](../characters/party-roster.md)). That makes him the **origin of the
-ritual that transformed [Aniess](../characters/aniess.md) (Greg's PC)** — and 🔒
-**Aniess does not know it.** A meeting between them is a planned, loaded reveal: the
-man whose work stole her self, living quietly on the island her people can never
-leave. *(He himself is one of the dispersed "Warforged Crusaders" research sect —
-a lost brethren the party is, separately, being nudged to "deliver to Kuru for
-glory.")*
+`[settled]` **He is how the Order got the snake ritual — but he did not invent
+it.** The transformation is the **snake-people of Punt's own coming-of-age rite,**
+the rite that *makes* a snake-person; Axiom is its outside **researcher**, and in
+one of his infrequent **letters to Kuru** he **documented** it. The **Warforged
+Crusaders** seized on that letter and now use the rite to remake their recruits
+and spies into Yuan-ti ([party roster](../characters/party-roster.md)) — so his
+field-notes are the **origin of what was done to [Aniess](../characters/aniess.md)
+(Greg's PC)**, though the rite itself is Punt's, not his. 🔒 **Aniess knows none
+of it** — not that Axiom exists, not that a whole island of her kind lives on
+Punt, not that she is the **first snake-person ever made outside it.** Out in the
+wider world her nature is a true secret: there is no one to recognize her, because
+there are no others. A meeting with Axiom is a planned, loaded reveal — the man
+whose notes stole her self, living quietly on the island her people never leave.
+*(He is himself one of the dispersed "Warforged Crusaders" research sect — a lost
+brother the party is, separately, nudged to "deliver to Kuru for glory.")*
+
+**The road to Punt is already in the party's hands:** the **ancient map from
+Tomb 1** marks it — the gold-and-lapis serpent isle in the upper-right corner
+(see [the Amseh dynasty](amseh-dynasty.md) and
+[Valley of the Kings](../encounters/valley-of-the-kings.md)). Sail there and they
+find Axiom — and the truth about Aniess.
 
 `[settled]` This reframes Kuru's whole "warforged" idea as a **condition with many
 materials,** and proves transformation can be **chosen without being owned** — the
