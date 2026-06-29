@@ -278,7 +278,8 @@ to tell you over a drink. But Jasper carries his survivor's guilt in the open an
 spends his life **fighting** the strong; Bram carries **no guilt at all** and
 **became** one of their hands. Same warm, honest face — opposite soul. He's the
 most unsettling Writ mirror precisely because **the party will like him**, and
-liking him is the trap.
+liking him is the trap. *(Sample dialogue — the lines built to actually charm
+Jasper — in [Bram's NPC card](../characters/bram-hale.md).)*
 
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their
