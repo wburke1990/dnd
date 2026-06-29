@@ -315,6 +315,7 @@ mechanics of the circle-cast duel]`
   [house rules & world mechanics](house-rules-and-world-mechanics.md),
   [Kuru & the phoenix](kuru-and-the-phoenix.md),
   [the Company (the merchant arm)](the-company.md),
+  [demons, the hotspot & the deep cities](demons-and-the-hotspot.md),
   the Second Foundation, the elven stronghold, the wandering dragonborn.
 - **`characters/`** — PCs (Sarric, Aniess, Jasper, Pax) and NPCs (Preem,
   Preem's demons, Mul, the dream-quest children & demon wife, Blackacre, the
@@ -325,7 +326,7 @@ mechanics of the circle-cast duel]`
 - **`handouts/`** — player-facing text: tomb inscriptions, grave poems, the
   Dream-of-the-Blue-Veil incantation, the Ragnarok scroll.
 - **`prompts/`** — verbatim AI image-generation prompts for the tomb art.
-- **`bestiary/`** — [the Egypt encounter table](../bestiary/egypt.md).
+- **`bestiary/`** — [the Egypt encounter table](../bestiary/egypt.md), [available demons (stat-block roster)](../bestiary/available-demons.md).
 - **`maps/`** — region and city maps (letterboxed copies in `maps/padded/`).
 
 ---
