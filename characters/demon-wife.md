@@ -77,17 +77,17 @@ She is a **Yochlol**, run off that stat block but reflavored away from Lolth —
 **On her true name:**
 Her true name is held by [Preem](preem.md) and, through him, by the Second
 Foundation. Preem did not bind her originally — she is far older than he is; her
-name was wrenched out **ages ago by the order's predecessors**, and Preem
-inherited a claim that never lapsed, even though the dead man used it every
+name was taken by the **Second Foundation** generations before Preem held the
+chair, and he inherited a claim that never lapsed, even though the dead man used it every
 year for thirty-one years. It is not written down anywhere the party can
 currently find. Because Preem still holds it, he can summon and re-bind her at
 will, so she may resurface later in the campaign.
 
 **On her relationship to the wizard:**
 Canon: [Preem](preem.md) **was the cruel wizard** of the staged rescue, but he
-is not the one who originally bound her — the Second Foundation has owned her
-name since before the oldest elves, taken by the binders who came before him;
-Preem inherited the claim and played the captor. The young merchant's discovery of a "captive" demon was no accident;
+is not the one who originally bound her — the Second Foundation has held her
+name for generations, taken by the binders who held the chair before him; Preem
+inherited the claim and played the captor. The young merchant's discovery of a "captive" demon was no accident;
 the rescue was **staged recruitment.** The dead man thought he was cleverly
 freeing a demon from a cruel wizard when he was actually being recruited into a
 system. He just never scaled up. The dead man's entire life is a smaller version

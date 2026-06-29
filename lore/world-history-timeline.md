@@ -182,13 +182,17 @@ kinds — **dated deep-middle history** (*the First Foundation & the new lands; 
 phoenix; the holy island, lost and retaken*) and **ongoing traditions** (*the Second Foundation;
 the Wandering Saints; the Floating Fleet & wandering dragonborn; the world in flux*).
 
-### The Second Foundation
-The elves who settled Maalm after the empire's fall founded a **secret order** (true
-in-world name `[OPEN]`). For some four thousand years — since the founding — it has
-**bound demons by their true names** — demons "older than the oldest elves," who
-remember the founding firsthand. It is not a new heresy; it is the order's age-old craft.
-🔒 *Its real aim is the campaign's engine — see §VI.*
-*Source: [the Second Foundation](the-second-foundation.md).*
+### The Second Foundation (~2,000 ya → today)
+The elven elite of Maalm formed a **secret order** (true in-world name `[OPEN]`)
+**about two thousand years ago**, as the Muspel empire's relentless march
+southeast brought it toward the elf cities. **Binding demons by their true names
+is the order's own invention from that era** — the elves' answer to a
+demon-powered empire — *not* an age-old craft: it is younger than the order, and
+the demons it binds are far older than either ("older than the oldest elves,"
+remembering the world's founding firsthand). 🔒 *Its real aim is the campaign's
+engine — see §VI.*
+*Sources: [the Second Foundation](the-second-foundation.md),
+[Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md).*
 
 ### The Wandering Saints
 A dragonborn maritime religion venerating solitary wandering heroes, each a retelling
@@ -373,7 +377,7 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 - `[OPEN]` Where half-orc loyalties fall in the present war, and whether the party's path ever crosses the northern front.
 - `[OPEN]` The half-orc Hannibal's name and register; whether his masterstroke was an Alps- or sea-crossing; whether there is a Zama; where his missing fleet went.
 - `[OPEN]` Whether any northern colony survives, what's out on the ice, and how the two Punic threads (orc Hannibal vs. dragonborn Lost Tribes) relate.
-- `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon** decided by **pace**: slow magma **builds land**, a fast clash **explodes** (Krakatoa; the **Dragon Turtle** in Lonka's caldera implies the dragon won there). Demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule).
+- `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon** decided by **pace**: slow magma **builds land**, a fast clash **explodes** (Krakatoa; the **Dragon Turtle** in Lonka's caldera implies the dragon won there). Demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule). (See [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md) for the magma-force-vs-demon-people distinction, the deep cities, and how true names are taken.)
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
 - `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.
 - `[draft]` The **phoenix's forgotten true name** as the campaign's candidate "most dangerous name" — bind, restore, or claim the undying god (§VII).

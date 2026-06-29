@@ -64,8 +64,8 @@ had the decency to only bind one."*
 
 And Preem **was the cruel wizard** of the rescue, though he did not bind her in
 the first place. The demon the merchant thought he was heroically rescuing had
-been a **bound possession of the Second Foundation**, her true name taken **ages
-ago by the order's predecessors** and held ever since. Preem inherited the claim
+been a **bound possession of the Second Foundation**, her true name taken **by
+the Second Foundation generations ago** and held ever since. Preem inherited the claim
 and staged the recruitment. Preem knew the merchant (a minor supplier,
 or a guild acquaintance), told him where to find the "captive" demon, and taught
 him to "free" her by taking her true name and casting Planar Binding. The
@@ -75,7 +75,7 @@ a system.** He never scaled up.
 - Keep this entirely off the table until the party uncovers Preem's true
   operation later in the campaign. The payoff is the moment someone asks *"wait —
   did the wizard know about the wife?"* and the answer is **yes — his order has
-  owned her since before the elves.**
+  held her name for generations.**
 - **Preem still knows her true name.** Her husband is dead and his binding died
   with him, but Preem's claim never lapsed — he can summon and re-bind her at
   will, so **the party may meet her again** later in the campaign.

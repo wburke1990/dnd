@@ -73,12 +73,15 @@ It came apart in steps:
    empire's power had been demon-power, Kuru's revolution was anti-demon at its
    root, and the Phoenix later made a creed of it — *look what their power did*
    (see [Kuru and the Phoenix](kuru-and-the-phoenix.md)).
-5. From there the demon-people were left with only the mortals who had always
-   hunted them. The Second Foundation and the binders before it had taken demons
-   by their true names since the founding age; with the alliance gone there was
-   no counterweight, and Kuru carried holy war against them underground in the
-   Kalikhat crusades. What had been one relationship among several became the
-   only one left.
+5. Later — about two thousand years ago — the elves founded the **Second
+   Foundation** as the expanding Muspel empire marched toward their cities, and
+   it was they who **invented the binding of demons by their true names.** That
+   technique is the order's own, not an ancient inheritance; it turned the
+   demon-people from former partners into enslaved instruments. With the old
+   alliance long gone, the demon-people were left with only the mortals who hunt
+   them — the binders of Maalm, and Kuru's crusaders carrying holy war into the
+   Kalikhat tunnels. What had been one relationship among several became the only
+   one left.
 
 **A note on ships.** The early dragonborn hulls could not move armies; the
 longship is a later evolution of that tech. That is why the crossing to
@@ -90,7 +93,10 @@ Large-scale sea power is a recent thing.
 
 For the binding rule itself — Planar Binding plus a true name, no save — see
 [Preem's demons](../characters/preems-demons.md). What matters here is how a
-name is gotten in the first place, which is hard on purpose.
+name is gotten in the first place, which is hard on purpose. The art of taking a
+name and binding by it is itself recent — the Second Foundation's own invention,
+only about two thousand years old; through the long alliance before that the
+demon-people were partners, not property.
 
 A personal demon's true name cannot be read from a distance or overheard. The
 only way to take one is to bring the demon to the edge of true death and have it
