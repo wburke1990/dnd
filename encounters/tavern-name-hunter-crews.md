@@ -140,7 +140,7 @@ take requests — or a drink.
 
 *Chartered, funded, smug — and **done**. They cleared every tomb in the Valley
 without missing a name, and they will make sure the party knows it. Each of the
-five is one PC's road-not-taken: the version who said **yes**, didn't flinch,
+**four** is one PC's road-not-taken: the version who said **yes**, didn't flinch,
 and is proud of it. They don't think the names are evil. They think the names
 are **theirs**.*
 
@@ -150,7 +150,15 @@ are **theirs**.*
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | A **Suartleheim powderman** (the mining-isle's rock-breaking-and-fire craft) who carried the old **Hjörungavágr** grudge into the **Sunne pogroms** — burning out orc-diaspora quarters of settled families and town-born half-orcs (full story below). What he torched "was not only men," and he forgives himself two ways at once — his faith calls the fire holy, his people's old grudge calls it deserved — so he's warm, weary, and genuinely at rest. He'll tell Sarric, kindly, that **the cause carries the screams for you — you just have to let it**. The exact peace Sarric refuses. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | She paid for an old funerary rite that left her **death-touched** — cold, too still, half a step out of life — not to read the names (Preem's **Pen of Comprehend Languages** does that for anyone) but to **stop being fully alive.** She **chose** it, and she's serenely sure it was worth it (full story below). Aniess was remade into a not-quite-human thing *without consent* and grieves the self she can't recover; Issa gave hers away on purpose and beams at the quiet. |
 | 4 | **Bram Hale** | Human | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — the powerful wrecked his home for gain — and drew the opposite lesson: *the world eats the weak, so don't be weak.* Where Jasper turned that into a war **for** the powerless, Bram **sold his strong right arm to the powerful** — took their coin, did their work, climbed. Warm, open, tells the whole story freely, exactly like Jasper — which is why the party will *like* him before they clock what he is (full story below). |
-| 5 | **Vael Astre** | Elf | **Pax** | Had his own revelation in the tombs: he looked at what the names *do* and decided dominion over souls is simply the right order of things. Pax speaks for the wounded living world; Vael speaks for the hand that owns it. Two prophets, opposite gods. |
+
+**No mirror for Pax — by design.** Four of the party's five meet their
+road-not-taken here; **Pax does not.** His wound — souls, dominion, who gets to
+*own* whom — is the campaign's deepest secret, so a prophet preaching it at this
+tavern would *tell* the party the ending. His reflection is **held for late
+game**: **Vael Astre**, a [Second Foundation](../lore/the-second-foundation.md)
+prophet of dominion the party meets around **level 12+**, once the
+names-and-ownership truth is already surfacing. Two prophets, opposite gods —
+delivered when it lands, not when it spoils.
 
 **Setha's claim (why she's like this).** Setha is a **founder-blood bomb in
 half-elf skin.** Her mother was the last of a **thinned founder house** — real
@@ -283,8 +291,8 @@ Jasper — in [Bram's NPC card](../characters/bram-hale.md).)*
 
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their
-counterpart — Doruk corners Sarric, Vael debates Pax, Bram genuinely charms
-Jasper — so the mirror lands as *conversation*, not a lecture. Let the players
+counterpart — Doruk corners Sarric, Bram genuinely charms Jasper — so the
+mirror lands as *conversation*, not a lecture. Let the players
 feel the pull and the revulsion at once.
 
 **The missing names (the table-fix, weaponized as a mirror).** The party
@@ -341,7 +349,7 @@ recognition of Aniess can land as threat *or* as the only sympathy in the room.
 - **Mirror handoffs.** Stage the missing-names exchange member-to-counterpart
   (Doruk→Sarric, Issa→Aniess, etc.). Doubles the gut-punch and backfills the
   collectibles in one beat.
-- **Pecking order.** Writs *above* the party, Jackals *below*. Let Vael lord it
+- **Pecking order.** Writs *above* the party, Jackals *below*. Let Setha lord it
   and Veska scrap upward — two recurring faces to root against and for.
 - **Complicity, not exposition.** Restraint in Maalm: the mirrors do the work.
   Don't tip Preem's endgame here; let the party *feel* the danger off the

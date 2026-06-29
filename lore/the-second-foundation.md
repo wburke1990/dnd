@@ -208,6 +208,31 @@ troops, forts, and hired fleets.
   the reveal is his line — *"Where did you think your money was coming from?"* They never
   asked if it was ethically sourced. (See [the Company §5](the-company.md).)
 
+## 7. Vael Astre — a prophet of dominion (the party meets him ~level 12+)
+
+`[seed — 6/28]` Not every Foundationer is a cold instrumentalist like Preem;
+some are **true believers**, and **Vael Astre** is the order's gospel made flesh.
+An elf of the Foundation who has **seen real true-name binding** — a will erased
+by a spoken name, no resistance, no appeal — and drawn the ecstatic conclusion
+that **dominion over souls is simply the right order of the cosmos.** The strong
+are *meant* to name and own the weak; freedom is the lie the soft tell
+themselves; the names are scripture. He is serene, urbane, and terrifyingly
+reasonable — an aristocrat discussing the owning of souls the way a noble
+discusses the owning of land.
+
+He is **[Pax](../characters/pax.md)'s mirror, deliberately held for late game.**
+Pax speaks for the wounded living world that is owned and damaged; Vael speaks
+for **the hand that owns** — two prophets, opposite gods, and (like Pax) maybe a
+madman dressing power in scripture, maybe genuinely touched by something old that
+answered him. Introduce him only when the **names-and-ownership truth is already
+unfolding** (roughly **level 12+**), so he *confirms* what the party has begun to
+dread rather than *announcing* it. He was kept **out** of the early rival-crew
+tavern scene for exactly that reason (see
+[the rival crews](../encounters/tavern-name-hunter-crews.md)).
+
+`[OPEN]` whether Vael is a full Chair, a lesser Foundationer, or an outer-circle
+zealot — and what, if anything, actually spoke to him in the dark.
+
 ## Open threads
 
 - Whether the Foundation is **public knowledge** in Maalm or a half-secret.
