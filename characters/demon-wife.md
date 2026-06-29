@@ -10,7 +10,7 @@ She is not a villain. She is not a victim in any simple sense. She is a being wh
 
 ## Basic Information
 
-**True name:** [PLACEHOLDER]
+**True name:** Hatset
 **Demon type:** [PLACEHOLDER — shapeshifting demon, type TBD]
 **Current whereabouts:** Unknown. She left sometime after the dead man's funeral. The children are not sure exactly when.
 
