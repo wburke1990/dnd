@@ -77,7 +77,11 @@ It came apart in steps:
    Foundation** as the expanding Muspel empire marched toward their cities, and
    it was they who **invented the binding of demons by their true names.** That
    technique is the order's own, not an ancient inheritance; it turned the
-   demon-people from former partners into enslaved instruments. With the old
+   demon-people from former partners into enslaved instruments. Maalm had not
+   forgotten Jotunheim, either: it was the **demon-people's tunnels** that had
+   carried the zealots up into the caldera to slaughter Maalm's colonists (step
+   2), so binding demons was retribution as much as defense — the power that had
+   been the road to that massacre, taken and chained. With the old
    alliance long gone, the demon-people were left with only the mortals who hunt
    them — the binders of Maalm, and Kuru's crusaders carrying holy war into the
    Kalikhat tunnels. What had been one relationship among several became the only

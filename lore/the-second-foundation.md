@@ -130,6 +130,18 @@ demise of the valley kings.** **[settled]**
   oldest elves"* — and remember the world's founding firsthand; see
   [Preem's demons](../characters/preems-demons.md#demonic-restoration-homebrew-house-rule).)
   **[settled — 6/29]**
+- **The grievance behind it is older than the advancing empire — Jotunheim.**
+  A thousand years before the founding, ~3,000 ya, **Maalm's own colonists
+  holding Jotunheim were massacred** by the breakaway Muspel dragonborn — the
+  **Lonka Zealots** — who crossed under the sea through the **demon-people's
+  tunnels** and came up *inside* the caldera to do it (see
+  [Lonka / Jotunheim](lonka-jotunheim.md) and
+  [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md)). That
+  the demons' tunnels had been the *road* to that slaughter is the wound the
+  order is built on. When, a thousand years later, the same demon-power drove
+  the empire southeast toward Maalm itself, the old grief and the new threat
+  fused — and the elves' answer carried a bitter justice: **take the very power
+  that carried our killers, and bind it.** **[settled — 6/29]**
 
 ## 4. Preem's heresy within the Foundation
 
