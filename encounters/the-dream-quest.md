@@ -19,7 +19,7 @@ The dead man's confession is the climax of the session. Everything before it is 
 
 **Muntadhir al Qahtani** — the elder of the two children. David voices them at the house. They have made a kind of peace with their parents' history. After the dream they feel lighter — not happy, but done.
 
-**Alizayd al Qahtani ("Ali")** — the younger of the two children. You voice them at the house. They are less resolved. When the party wakes they start to ask something and stop.
+**Ali/Zaynab al Qahtani** — the younger of the two children. (Given name decided at the table — Alizayd "Ali" or Zaynab; see the children's character note.) You voice them at the house. They are less resolved. When the party wakes they start to ask something and stop.
 
 **Manizheh** — the dead man's wife. Present at the house before the dream. Silent. Gone when the party wakes. She spoke one sentence after her husband died, to no one in particular: *"I don't know what I would have chosen."*
 

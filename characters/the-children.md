@@ -9,7 +9,7 @@ The children are the party's primary contact for the dream quest. They hire the 
 ## Basic Information
 
 **Muntadhir al Qahtani** — the older child, a boy. Adult.
-**Alizayd al Qahtani** ("Ali") — the younger child, a girl. Adult.
+**Ali/Zaynab al Qahtani** — the younger child, a girl. Adult. Her given name is left open between **Alizayd ("Ali")** and **Zaynab**, to be settled at the table (see DM note).
 
 **Family business:** [PLACEHOLDER — BUSINESS NAME] — a wealthy merchant operation dealing in healing spells and potions. The children are powerful spellcasters in their own right.
 
@@ -22,7 +22,7 @@ The children are the party's primary contact for the dream quest. They hire the 
 **The older child (son), Muntadhir — played by David:**
 He has made a kind of peace with his parents' history. He has decided that the love his mother showed them was real and that is enough. He is practical, forward-thinking, and carries grief the way people do when they have had a long time to prepare for something. After the dream quest he feels lighter — not happy, but done, in the way of someone who has waited a long time for something to be over and finally it is. He helps the party up without being asked when they wake. He is already thinking about what comes next.
 
-**The younger child (daughter), Ali — played by you:**
+**The younger child (daughter), Ali/Zaynab — played by you:**
 She is less resolved. She keeps looking at the door her mother used to stand in. She is not sure it is right to feel relieved. When the party wakes from the dream quest she starts to ask — *"Did he — was it —"* — and then stops. She realizes she doesn't want the answer. Or that there isn't one to give. She will take longer to find her footing after this night than her brother will.
 
 ---
@@ -60,13 +60,21 @@ This answer is honest and slightly ambiguous. The children do not fully understa
 
 Their mother was bound to the material plane by their father using her true name, renewed every year. She does not know what she would have chosen, because the binding made the question permanently unanswerable even to her. The sentence she spoke — *"I don't know what I would have chosen"* — is the most honest thing anyone in this story ever said.
 
-**Ali's name — a deliberate, quiet table joke:**
+**The younger daughter's name — a game-time decision:**
 
-Her full name, Alizayd, and the short form "Ali," both scan as a man's
-name. She is a woman. This is intentional — left in place to see whether
-the party ever remarks on the mismatch. Do not draw attention to it. If
-no one ever notices, that is the correct outcome. **Do not "fix" this to
-match the name's gender — the daughter is meant to stay a daughter.**
+Her name is intentionally left open between two options, to be chosen
+live at the table:
+
+- **Alizayd ("Ali")** — scans as a man's name; the short form even more
+  so. Naming a daughter this way is a quiet joke, left in to see whether
+  the party ever remarks on the mismatch. If you take it, do not draw
+  attention to it — if no one notices, that is the correct outcome.
+- **Zaynab** — the unambiguously feminine, canonical sister-name in the
+  same world the family's names are drawn from.
+
+Pick one in the moment based on the table's mood. Until then she appears
+as "Ali/Zaynab" throughout these notes. Either way **she is a woman** —
+do not "fix" her gender to match the Alizayd reading.
 
 **Their demonic heritage as a future hook:**
 
@@ -99,7 +107,7 @@ They honor this bargain fully and without resentment. They are grateful. They ju
 **On how long their mother stayed after the funeral:**
 *(They disagree gently, the way siblings disagree about things that hurt too much to remember clearly.)*
 Muntadhir: *"She stayed a week."*
-Ali: *"It felt longer than that. It felt like a month."*
+Ali/Zaynab: *"It felt longer than that. It felt like a month."*
 
 **On what their mother said:**
 *"She spoke once, after father died. Just once, to no one in particular."*
