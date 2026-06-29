@@ -357,7 +357,7 @@ the bridge to the haunted Ashfoot a city down the road.*
 
 | # | Name | Species | Role | Tie to the party's world / the cost |
 |---|------|---------|------|-------------------------------------|
-| 1 | **Veska Tull** | Human | Leader | Fled the orbit of Kuru's **Church of Sunne** and has seen what the Order does to the children it "rescues." Takes one look at **Aniess** and knows exactly what she is — maybe the first person outside the Order ever to name it to her face. The danger: Aniess's nature is not a secret out here. |
+| 1 | **Veska Tull** | Human | Leader | A former **preacher of Sunne** who gave the holy war its words — blessed the **pogroms**, called the burning *light* — until she saw up close what the merciful sun-faith really is: a colonial war-engine the Warforged steer, mercy as a mask for slaughter. She **lost her faith and ran.** Now she leads the Jackals on the burnt-out fervor of a preacher who no longer believes but still knows how to make desperate people follow — toward one more grave, because the alternative is watching them starve. Her cost: she clawed out of one machine that eats people and walked straight into another (Preem's), lucid enough to know it. The **deserter** to the Writ's Doruk, who served the same Sunne fire and made his peace. *(She fled the* public *Church, never its hidden child-arm — which is why she can't tell what Aniess is; out here,* no one *can.)* |
 | 2 | **Hadda Vimm** | Dwarf | Quartermaster | The one actually reading the map — and counting the crews that go out to the far sites and never report back. Carries the **structural warning**: Preem keeps hiring because crews keep dying. An earlier, lighter echo of the Ashfoot's Olen. |
 | 3 | **Sefi** | Halfling | Scout | Youngest, in over her head, already sleeping badly because of a name she's carrying. The **cost made human** — the proto-Ashfoot. If the party wants to see where this road ends, Sefi is mile one. A mirror of their own greenness, and the easiest of all these NPCs to want to save. |
 | 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. **The crew's storyteller** — the party first overhears him mid-saga (see the opening beat). |
@@ -367,8 +367,10 @@ the bridge to the haunted Ashfoot a city down the road.*
 the two crews are a half-step from a brawl the moment the party walks in. Veska
 may pitch the party a "screw the aristocrats" alliance. But under the bravado
 they're frightened: corner Hadda or Sefi and the **warning leaks out** — crews
-vanishing, names that won't let you sleep, the far sites a grinder. Veska's
-recognition of Aniess can land as threat *or* as the only sympathy in the room.
+vanishing, names that won't let you sleep, the far sites a grinder. And Veska, if
+she warms to them, says the quiet part: every banner — the Church she fled,
+Preem, all of it — is the same machine wearing a different face, and she'd know;
+she served one and barely got out.
 
 ---
 
