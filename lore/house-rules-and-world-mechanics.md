@@ -13,7 +13,7 @@ Knowing the true name of any extraplanar being — celestial, elemental, fey, or
 
 The rule reaches **only beings of extraplanar nature** — celestials, elementals, fey, and fiends. **Ordinary mortals have no bindable true name.** A human, elf, dwarf, or halfling cannot be planar-bound no matter who learns what they are called — and neither can someone who has merely been *transformed*: **Aniess**, remade by the Order into a Yuan-ti, is still a mortal at root, so **no one can own her by name** (and, in fact, no one knows it). Her wound is the Order's physical-and-mental remaking, not name-ownership — a different mechanic entirely.
 
-The one exception among the party is **Pax**: an **aasimar** carries true celestial nature, so he *does* have a bindable true name and *is* vulnerable — the only PC who is. (He's been warned; the others have not, because they don't need to be.) This is also why the **names worth harvesting are those of gods, demons, spirits, and tomb-sentinels** — extraplanar things — and not the names of people.
+The one exception among the party is **Pax**: an **aasimar** carries true celestial nature, so he *does* have a bindable true name and *is* vulnerable — the only PC who is. (He's been warned; the others have not, because they don't need to be.) A bindable name belongs only to a **living** extraplanar being, so most of what a name-hunt turns up is **useless** — the names of the dead, and of mortals, bind nothing.
 
 ## Implications
 
@@ -35,7 +35,7 @@ True names are not widely known or documented. They are:
 - Discoverable through extremely dangerous direct negotiation with the being
 - Possibly recorded in ancient texts, tombs, or divine registries
 
-The wizard has collected a significant number of true names. This is the foundation of his demon army. The party is currently helping him collect more without knowing it — the names harvested from the Valley of the Kings tombs are divine and royal names whose power in this context the party does not yet understand.
+The wizard has collected a number of true names over the years — the foundation of his demon army. But he has **not visited the sites on his own map;** he sends crews out to **prospect** them — a fishing expedition for the rare usable name, with no guarantee any given dig turns one up. Most hauls disappoint: the **Valley of the Kings tombs, for instance, gave up only the divine and royal names of the long dead** — gods that are gone, kings that were mortal, names that bind nothing. The party is unknowingly prospecting demon-binding fuel for him, but a fishing trip is a fishing trip; sometimes the net comes up empty.
 
 ## Changing a true name — the only escape
 
