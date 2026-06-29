@@ -14,9 +14,9 @@ Pax's *deep* mirror (the souls-and-dominion truth) comes later: **Vael Astre**,
 ## 🔒 The truth behind the voice (DM only)
 
 Calix is a **prophet who is really a puppet.** The "voice of God" in his mind is
-the **telepathy of his familiar** — a small companion-beast he believes is a
-blessed sign, in truth a **quasit** (a tiny demon), and the quasit is
-**[Preem](preem.md)'s**. Preem furnished it disguised as a holy omen and steers
+the **telepathy of his familiar** — his **pet toad**, which he believes is a
+blessed sign, in truth a **quasit** (a tiny demon — and a toad is one of its own
+true forms), and the quasit is **[Preem](preem.md)'s**. Preem furnished it disguised as a holy omen and steers
 Calix through it: the voice points him exactly where Preem wants a deniable,
 true-believing pawn, and Calix obeys it as divine command. He does **not** know
 it's a demon, does **not** know it answers to Preem, and would be serenely
@@ -28,10 +28,14 @@ zealot is the same trick at a longer leash.)
 This resolves the obvious objection — *why would a demon send a man to help
 enslave demons?* It wouldn't. **Preem** does, using one of his own.
 
-**Vindication = Preem's hand.** The voice only ever points Calix at what serves
-Preem, and the leash keeps him alive where crewmates die — so the streak is
-unbroken and he reads it as divine favor. The exact inverse of Pax, whose
-revelation got him *thrown out* and never confirmed.
+**Vindication = a warning, not a miracle.** A quasit is no guardian angel — it
+can't shield Calix in a fight. What it *can* do is **know things and warn him:**
+it scouts ahead unseen, it carries whatever Preem knows, and it tells him which
+hall to skip and when to walk out. Calix obeys (the lots, the voice), so he keeps
+ending up the one who left *before* it went wrong — and reads being the survivor
+as proof. It's small nudges and good intel, not divine power, and he can't tell
+the difference. The exact inverse of Pax, whose revelation got him *thrown out*
+and never confirmed.
 
 **A thread back to Preem.** If the party ever clocks the familiar for what it is —
 a demon — or notices the telepathy, Calix is a quiet wire leading to Preem's

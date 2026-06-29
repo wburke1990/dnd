@@ -307,13 +307,15 @@ the names *do* any more than the party does, so he gives nothing away. (Pax's
 Astre** — see the [Second Foundation](../lore/the-second-foundation.md).)
 
 **🔒 The truth behind the voice (DM).** Calix is a **prophet who is really a
-puppet.** The "voice of God" is the **telepathy of his familiar** — a small
-companion-beast he takes for a blessed sign, in truth a **quasit**, and the
-quasit is **Preem's**. Preem steers his deniable true-believer through it; Calix
-obeys as divine command, never knowing it's a demon or that it answers to Preem.
-(That also resolves *why a demon would aim a man at enslaving demons* — it
-wouldn't; **Preem** does, with one of his own.) His unbroken luck is the leash
-being managed, which he reads as divine favor. And he makes **no big choice
+puppet.** The "voice of God" is the **telepathy of his familiar** — his **pet toad**,
+which he takes for a blessed sign, in truth a **quasit** (a toad is one of its
+own forms), and the quasit is **Preem's**. Preem steers his deniable
+true-believer through it; Calix obeys as divine command, never knowing it's a
+demon or that it answers to Preem. (That also resolves *why a demon would aim a
+man at enslaving demons* — it wouldn't; **Preem** does, with one of his own.) A
+quasit can't shield him in a fight, but it can **scout and warn** — so the voice
+steers him clear of what kills his crewmates, and he reads being the survivor as
+divine favor. And he makes **no big choice
 himself** — he **casts lots** (worn coins, knucklebones) at every fork and obeys
 the throw as God's will, serene the burden was never his (the voice "interprets"
 an ambiguous result, so Preem can tip even the coin). Clock the familiar for a
