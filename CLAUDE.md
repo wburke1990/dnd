@@ -236,7 +236,13 @@ Everything else: delegate.
 
 Run `git config core.hooksPath .githooks` once per clone. (A SessionStart
 hook in `.claude/settings.json` does this automatically inside Claude
-sessions.) The hook runs `ruff check`, `ruff format --check`,
+sessions — and, because this repo is driven from several machines, it also
+**fast-forwards your local `main` to `origin/main` at session start** so you
+don't work off stale files. It *only* fast-forwards: if `main` has diverged
+or origin is unreachable it no-ops, and you resolve that via the normal
+fetch/rebase push path. It only acts when you're on `main`. This is a
+start-of-session safety net, not a continuous sync — still fetch before a
+push.) The hook runs `ruff check`, `ruff format --check`,
 `mypy --strict`, `pytest`, `typos`, and `luacheck` on TTS Lua, plus
 gitleaks / pip-audit / pip-licenses / shellcheck. Silent on pass; on
 fail, only the failing tool's output is printed and the commit is

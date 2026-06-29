@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 # SessionStart hook — runs once per Claude session.
 #
-# Always: wires up core.hooksPath so the project's pre-commit hook fires.
+# Always: wires up core.hooksPath so the project's pre-commit hook fires, and
+# fast-forwards local `main` to origin so a session that starts behind another
+# device's pushes doesn't work off stale files (this repo is driven from several
+# machines).
 #
 # Cloud sessions only: also installs the optional system binaries the
 # pre-commit hook expects (gitleaks for secret scanning, shellcheck for
@@ -16,6 +19,21 @@ set -u
 
 # Always-on: hook path wiring. Cheap and required for commits to be guarded.
 git config core.hooksPath .githooks 2>/dev/null || true
+
+# Always-on: fast-forward main to origin so a session starting behind another
+# device's pushes doesn't read stale files. Safe by construction:
+#   - only when on `main` (this repo is main-only; never touch a feature branch)
+#   - only a fast-forward — never creates a merge commit; a diverged or offline
+#     checkout just no-ops, and the normal fetch/rebase push path handles it.
+# The http low-speed guard caps a stalled fetch so an unreachable origin can't
+# hang session startup.
+if [[ "$(git symbolic-ref --short HEAD 2>/dev/null)" == "main" ]]; then
+    if git -c http.lowSpeedLimit=1000 -c http.lowSpeedTime=10 \
+        fetch --quiet origin main 2>/dev/null; then
+        git merge --ff-only --quiet origin/main 2>/dev/null \
+            || echo "session-start: local main has diverged from origin; not fast-forwarding (continuing)" >&2
+    fi
+fi
 
 # Skip the rest on local machines — apt-get and the Linux gitleaks tarball
 # won't work outside the cloud sandbox.
