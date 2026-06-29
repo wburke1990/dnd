@@ -62,9 +62,11 @@ an army of demon slaves. The merchant bound **one** demon, his wife, to himself
 with her true name. Preem has bound an army the same way. The merchant *"just
 had the decency to only bind one."*
 
-And Preem **was the cruel wizard.** The demon the merchant thought he was
-heroically rescuing had been **bound by Preem in the first place** — the
-"rescue" was a staged recruitment. Preem knew the merchant (a minor supplier,
+And Preem **was the cruel wizard** of the rescue, though he did not bind her in
+the first place. The demon the merchant thought he was heroically rescuing had
+been a **bound possession of the Second Foundation**, her true name taken **ages
+ago by the order's predecessors** and held ever since. Preem inherited the claim
+and staged the recruitment. Preem knew the merchant (a minor supplier,
 or a guild acquaintance), told him where to find the "captive" demon, and taught
 him to "free" her by taking her true name and casting Planar Binding. The
 merchant believed he was thwarting a cruel wizard. He was being **recruited into
@@ -72,8 +74,8 @@ a system.** He never scaled up.
 
 - Keep this entirely off the table until the party uncovers Preem's true
   operation later in the campaign. The payoff is the moment someone asks *"wait —
-  did the wizard know about the wife?"* and the answer is **yes. He bound her
-  himself.**
+  did the wizard know about the wife?"* and the answer is **yes — his order has
+  owned her since before the elves.**
 - **Preem still knows her true name.** Her husband is dead and his binding died
   with him, but Preem's claim never lapsed — he can summon and re-bind her at
   will, so **the party may meet her again** later in the campaign.

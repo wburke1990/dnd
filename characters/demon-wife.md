@@ -75,15 +75,19 @@ The material plane causes demons pain — the longer they remain unbound, the mo
 She is a **Yochlol**, run off that stat block but reflavored away from Lolth — exactly as Mul is (see [Preem's demons](preems-demons.md)). In this world the Yochlol is simply the demon that can wear a person: Change Shape into a beautiful human woman, Dominate Person, Detect Thoughts, Magic Resistance. CR 10 reads as genuinely formidable, which suits a being thousands of years old. She is one of the **demon-people of the deep** (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)), having followed the hotspot across the buried cities since before the elves. That she and Mul are the same kind is deliberate: the shapeshifter-demon is Preem's standard instrument, so she is not unusual as a kind. She is unusual as a person.
 
 **On her true name:**
-Her true name is held by the wizard — [Preem](preem.md), who **bound her
-originally** and whose claim never lapsed, even though the dead man used it every
+Her true name is held by [Preem](preem.md) and, through him, by the Second
+Foundation. Preem did not bind her originally — she is far older than he is; her
+name was wrenched out **ages ago by the order's predecessors**, and Preem
+inherited a claim that never lapsed, even though the dead man used it every
 year for thirty-one years. It is not written down anywhere the party can
 currently find. Because Preem still holds it, he can summon and re-bind her at
 will, so she may resurface later in the campaign.
 
 **On her relationship to the wizard:**
-Canon: [Preem](preem.md) **was the cruel wizard** — he is the one who originally
-bound her. The young merchant's discovery of a "captive" demon was no accident;
+Canon: [Preem](preem.md) **was the cruel wizard** of the staged rescue, but he
+is not the one who originally bound her — the Second Foundation has owned her
+name since before the oldest elves, taken by the binders who came before him;
+Preem inherited the claim and played the captor. The young merchant's discovery of a "captive" demon was no accident;
 the rescue was **staged recruitment.** The dead man thought he was cleverly
 freeing a demon from a cruel wizard when he was actually being recruited into a
 system. He just never scaled up. The dead man's entire life is a smaller version

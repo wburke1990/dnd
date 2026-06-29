@@ -73,9 +73,12 @@ It came apart in steps:
    empire's power had been demon-power, Kuru's revolution was anti-demon at its
    root, and the Phoenix later made a creed of it — *look what their power did*
    (see [Kuru and the Phoenix](kuru-and-the-phoenix.md)).
-5. From there the decline ran on. The Second Foundation perfected the binding of
-   demons by their true names and turned them into property. Kuru carried holy
-   war against them underground in the Kalikhat crusades.
+5. From there the demon-people were left with only the mortals who had always
+   hunted them. The Second Foundation and the binders before it had taken demons
+   by their true names since the founding age; with the alliance gone there was
+   no counterweight, and Kuru carried holy war against them underground in the
+   Kalikhat crusades. What had been one relationship among several became the
+   only one left.
 
 **A note on ships.** The early dragonborn hulls could not move armies; the
 longship is a later evolution of that tech. That is why the crossing to

@@ -186,8 +186,9 @@ was love. He is *"a small-scale version of the wizard. He just had the decency
 to only bind one."*
 
 And the connection is direct: **Preem was the cruel wizard.** **[settled]** The
-demon the merchant thought he was heroically *rescuing* had been **bound by
-Preem in the first place.** Preem knew the merchant — not closely, a minor
+demon the merchant thought he was heroically *rescuing* had been bound **ages ago, by the Second Foundation's
+predecessors** — Preem merely inherited the claim and played the captor in the
+staged rescue. Preem knew the merchant — not closely, a minor
 supplier or a guild acquaintance — and **set him on the path**: told him where
 to find a "captive" demon and how to "free" her by taking her true name and
 casting Planar Binding. The rescue was theater. The merchant believed he was
@@ -197,7 +198,7 @@ simply never scaled up.
 - This makes the merchant **tragic rather than merely guilty**, and it makes
   Preem's eventual reveal land far harder: when the party learns the true scope
   of his operation, someone asks *"wait — did he know about the wife?"* and the
-  answer is **yes. He bound her himself.**
+  answer is **yes — his order has owned her since before the oldest elves.**
 - **Preem still knows her true name.** **[settled]** The merchant is dead and
   his hold died with him, but Preem's claim never lapsed — he can summon and
   re-bind her at will, so **the party may meet her again.** What she would have
