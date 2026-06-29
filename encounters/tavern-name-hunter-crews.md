@@ -134,9 +134,6 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 [ships-and-sea-power.md](../lore/ships-and-sea-power.md).) Linger, and Mogg will
 take requests — or a drink.
 
-*Prefer the storyteller in the other crew? Swap in **Gharn**, the Lapis Writ's
-half-orc — same beat, smugger table.*
-
 ---
 
 ## Group 1 — The Lapis Writ · *the dark mirror (who you become if you win)*
@@ -152,7 +149,7 @@ are **theirs**.*
 | 1 | **Setha Renk** | Half-elf | **Blackacre** | **Preem's half-blood protégée** — she carries a thinned founder line the old houses killed her mother to bury, and means to claw the council seat back over anyone in her way (full story below). On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | A **Suartleheim powderman** (the mining-isle's rock-breaking-and-fire craft) who carried the old **Hjörungavágr** grudge into the **Sunne pogroms** — burning out orc-diaspora quarters of settled families and town-born half-orcs (full story below). What he torched "was not only men," and he forgives himself two ways at once — his faith calls the fire holy, his people's old grudge calls it deserved — so he's warm, weary, and genuinely at rest. He'll tell Sarric, kindly, that **the cause carries the screams for you — you just have to let it**. The exact peace Sarric refuses. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | She paid for an old funerary rite that left her **death-touched** — cold, too still, half a step out of life — not to read the names (Preem's **Pen of Comprehend Languages** does that for anyone) but to **stop being fully alive.** She **chose** it, and she's serenely sure it was worth it (full story below). Aniess was remade into a not-quite-human thing *without consent* and grieves the self she can't recover; Issa gave hers away on purpose and beams at the quiet. |
-| 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
+| 4 | **Bram Hale** | Human | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — the powerful wrecked his home for gain — and drew the opposite lesson: *the world eats the weak, so don't be weak.* Where Jasper turned that into a war **for** the powerless, Bram **sold his strong right arm to the powerful** — took their coin, did their work, climbed. Warm, open, tells the whole story freely, exactly like Jasper — which is why the party will *like* him before they clock what he is (full story below). |
 | 5 | **Vael Astre** | Elf | **Pax** | Had his own revelation in the tombs: he looked at what the names *do* and decided dominion over souls is simply the right order of things. Pax speaks for the wounded living world; Vael speaks for the hand that owns it. Two prophets, opposite gods. |
 
 **Setha's claim (why she's like this).** Setha is a **founder-blood bomb in
@@ -265,9 +262,27 @@ undead: no martial menace, no command over the dead. She slips *past* them; she
 doesn't raise them. (If a death-knight figure ever surfaces elsewhere, Issa is
 the shallow end of that water — a different thing entirely.)
 
+**Bram's choice (why he's like this).** Bram Hale grew up powerless and watched
+**the powerful wreck his home for profit** — the same crime that forged Jasper.
+He came out of it with the opposite conviction: not *protect the weak* but
+*never be weak again.* So he did the thing Jasper never could — he **went to
+work for the kind of people who did it.** He sold the powerful his strength and
+his loyalty, asked no questions, and climbed, hard job by hard job, until a
+chartered elite crew like the **Writ** was glad to have him. *(The disaster that
+made him plays fine left vague, like Jasper's own — or pin it to the **Company's**
+land-clearing or a **Kuru** land-grab if you want a name.)*
+
+**The mirror.** Jasper and Bram are the same man at the fork. Both survived the
+strong eating the weak; both are **completely open about it**, no secrets, glad
+to tell you over a drink. But Jasper carries his survivor's guilt in the open and
+spends his life **fighting** the strong; Bram carries **no guilt at all** and
+**became** one of their hands. Same warm, honest face — opposite soul. He's the
+most unsettling Writ mirror precisely because **the party will like him**, and
+liking him is the trap.
+
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their
-counterpart — Doruk corners Sarric, Vael debates Pax, Gharn genuinely charms
+counterpart — Doruk corners Sarric, Vael debates Pax, Bram genuinely charms
 Jasper — so the mirror lands as *conversation*, not a lecture. Let the players
 feel the pull and the revulsion at once.
 
