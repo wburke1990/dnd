@@ -363,6 +363,36 @@ the bridge to the haunted Ashfoot a city down the road.*
 | 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. **The crew's storyteller** — the party first overhears him mid-saga (see the opening beat). |
 | 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb and can't leave the names alone — and the work is fraying him: a comic nervous tic now, something colder later. No curse on him, no rot — just a soft mind cracking under what the job really is, played for a nervous laugh. |
 
+**Veska's break (why she's like this).** Veska Tull was a poor Kuru girl with a
+gift for the pulpit, and she rose fast in the **Church of Sunne** — preaching the
+**reconquest** as holy work: the orcs as heathen *sea-devils,* the fire-coast
+crusade as the Sunne's light burning back the dark. Crowds wept and enlisted when
+she spoke. Her real office was the **pogroms** — she went ahead of the Order's
+torch-men to work a port's faithful into righteous fury before the burning; her
+sermons lit the match, men like the Writ's **Doruk** carried the fire.
+
+It broke at **Sukkek.** She had preached the harbor crowd hot the night before;
+she walked into the burned quarter at dawn to bless the cleansed ground, and the
+dead were not sea-devils — they were town-born half-orc families, old people,
+children who had never raided anyone, neighbors that one word had made killable.
+She had supplied the kindling with her own mouth. Something in her went out that
+morning and never relit.
+
+The Church believes she **died in that fire,** and she lets them. A preacher who
+stops believing is a danger to the faith, but a *dead* one is no one's problem —
+so she stays dead: she ran south with nothing and has never raised her voice in
+the Sunne's name since. (The catch: her one real weapon is the pulpit, and the
+day she preaches *against* them is the day Kuru learns she walked out of Sukkek
+alive.)
+
+Broke and faithless, skilled only at moving people and surviving, she fell in
+with northern freelancers and became their leader — the **Brass Jackals** —
+taking Preem's grave-coin because it does not ask where you came from. She still
+leads the only way she knows, the old fire gone cold, rallying desperate people
+toward one more grave because the alternative is watching them starve. She clawed
+out of one machine that eats people and walked straight into another, and she is
+lucid enough to know it.
+
 **Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
 the two crews are a half-step from a brawl the moment the party walks in. Veska
 may pitch the party a "screw the aristocrats" alliance. But under the bravado
