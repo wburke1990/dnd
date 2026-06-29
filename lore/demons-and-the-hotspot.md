@@ -110,6 +110,67 @@ name can be written down, copied, and handed on, and it can never be recalled.
 This is why a bound demon's only real escape is to change its own name, which
 unmakes it (see [Manizheh](../characters/demon-wife.md)).
 
+### The founding harvest — taken once, and never again
+
+The order's names did not come gently, and they did not come twice.
+
+**First the elves built the key.** Binding by true name is **elven magecraft,
+invented to kill an empire** — not demon-lore handed over by a merciful captive.
+Through the long lead-up to the founding, the mages of Maalm — working from
+**inside the First Foundation** (the Asimov nesting made literal: a hidden order
+within the elder one; see [the Second Foundation](the-second-foundation.md)) —
+bent decades of patient research toward one weapon against demon-powered Muspel:
+the discovery that **Planar Binding, spoken with a true name, takes hold with no
+save and never lets go** (see [Preem's demons](../characters/preems-demons.md)).
+The First Foundation had raised Muspelheim *with* the demon-people and so knew
+them — their deep-cities, their nature — and that knowledge, held from within, is
+what aimed the weapon. Elves plan in centuries; this was such a plan.
+
+**Then they took the names — fast, under cover, and at a horrific price.** A key
+is useless without a name to turn it, and a living demon's name can only be torn
+out at the edge of true death, down in the tunnels. Maalm could not wrest names
+from Muspel's own mighty deep-city demons without bringing the empire's whole
+weight down on them — so the harvest fell instead on a **weaker, reachable branch
+of the demon-people,** in a single swift strike masked by a larger chaos. It was
+tunnel-slaughter at its worst: close, lightless, and bloody enough that no power
+could pay its cost twice.
+
+It was the **only** harvest there will ever be. The betrayal was total, and the
+demon-people — who had once counted mortals as partners — learned in it that
+mortals will tear the name out of you. **After it, no demon ever again let a name
+be taken alive.** Everything downstream hangs on that:
+
+- The roster is **finite and blood-bought:** every demon in Preem's tower is a
+  name taken in that founding horror, or copied from one.
+- Live harvesting is **foreclosed forever** — so the only new names left are the
+  ones already **written down** in forgotten places. Robbing a dead temple is now
+  *easier than taking a name alive,* and it is the whole ground of the party's
+  name-quest.
+- The lone exception is the name no temple holds — the **magma demon's** — which
+  is why winning it (below) means committing the founding atrocity once more, in
+  miniature.
+
+> **`[OPEN — WHERE AND WHEN THE HARVEST FELL. Keystone; settle deliberately.]`**
+> Leading shape: **Kalikhat, under cover of the Kuru Crusades (~2,000 ya).**
+> Kuru's holy war had already turned the Kalikhat tunnels into a slaughter of
+> deep gnomes, drow, and demons (see [timeline §V–VI](world-history-timeline.md));
+> a **second, hidden force** — the elven harvesters — could move under that
+> cover, fall on the **Underdark-allied demon branch** (weaker than Muspel's
+> deep-city demons, and the very demons who *first* befriended mortals ~5,000 ya,
+> so the betrayal strikes the oldest trust of all), and be gone. It keeps Muspel
+> and its armies wholly out of it, it is fast, and it sits exactly in the order's
+> founding window. The alternative — the **deep-city beneath Muspelheim** — is
+> thematically the empire's own engine, but it invites the massive-army problem
+> the harvest must avoid and is hard to make quick; prefer Kalikhat absent a
+> reason to pay the Muspel cost.
+
+> **`[OPEN — WHO RECORDED THE TEMPLE-NAMES, AND WHEN. Critical and unsettled —
+> settle next.]`** If new names come from old temples, *someone wrote them
+> there.* Until that is decided the party's name-quest has no source. Candidates:
+> alliance-era records from when demons were partners powering Muspelheim; or the
+> Second Foundation's own founding-era ledger of harvested names, since
+> scattered. **Not yet chosen.**
+
 The magma demon has no mind to bargain with, so its name cannot be taken that
 way. It can only be **derived**, and only the demon-people, who have lived
 inside the force for ages, ever derived it. The First Foundation never
