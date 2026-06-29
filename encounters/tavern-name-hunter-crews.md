@@ -380,8 +380,10 @@ morning and never relit.
 
 The Church believes she **died in that fire,** and she lets them. A preacher who
 stops believing is a danger to the faith, but a *dead* one is no one's problem —
-so she stays dead: she ran south with nothing and has never raised her voice in
-the Sunne's name since. (The catch: her one real weapon is the pulpit, and the
+so she stays dead: she stole a small rowboat the morning of the fire and made the
+crossing south to **Raand** alone, half-dead at the oars — no one saw her go,
+which is why Kuru is sure she burned — and she has never raised her voice in the
+Sunne's name since. (The catch: her one real weapon is the pulpit, and the
 day she preaches *against* them is the day Kuru learns she walked out of Sukkek
 alive.)
 
