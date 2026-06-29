@@ -358,10 +358,25 @@ the bridge to the haunted Ashfoot a city down the road.*
 | # | Name | Species | Role | Tie to the party's world / the cost |
 |---|------|---------|------|-------------------------------------|
 | 1 | **Veska Tull** | Human | Leader | A former **preacher of Sunne** who gave the holy war its words — blessed the **pogroms**, called the burning *light* — until she saw up close what the merciful sun-faith really is: a colonial war-engine the Warforged steer, mercy as a mask for slaughter. She **lost her faith and ran.** Now she leads the Jackals on the burnt-out fervor of a preacher who no longer believes but still knows how to make desperate people follow — toward one more grave, because the alternative is watching them starve. Her cost: she clawed out of one machine that eats people and walked straight into another (Preem's), lucid enough to know it. The **deserter** to the Writ's Doruk, who served the same Sunne fire and made his peace. *(She fled the* public *Church, never its hidden child-arm — which is why she can't tell what Aniess is; out here,* no one *can.)* |
-| 2 | **Hadda Vimm** | Dwarf | Quartermaster | The one actually reading the map — and counting the crews that go out to the far sites and never report back. Carries the **structural warning**: Preem keeps hiring because crews keep dying. An earlier, lighter echo of the Ashfoot's Olen. |
+| 2 | **Hadda Vimm** | Dwarf | Quartermaster | Keeps the crew's coin, supplies, and map — and its **death-book:** every Jackal they've buried, by name. She haggles with the same handful of traders and skippers who supply and ferry *every* crew, and from their chatter she's pieced together a pattern no one says aloud — crews ship out for the far sites and **never reorder, never come back, their kit turns up secondhand.** She can't prove it's Preem's doing, but the math keeps adding up: **the wages look like a body-count dressed as pay.** Trapped with the rest (broke, no other work), she keeps the ledger honest and waits to write in the next name. The lighter, not-yet-broken echo of the Ashfoot's Olen. |
 | 3 | **Sefi** | Halfling | Scout | Youngest, in over her head, already sleeping badly because of a name she's carrying. The **cost made human** — the proto-Ashfoot. If the party wants to see where this road ends, Sefi is mile one. A mirror of their own greenness, and the easiest of all these NPCs to want to save. |
 | 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. **The crew's storyteller** — the party first overhears him mid-saga (see the opening beat). |
 | 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb and can't leave the names alone — and the work is fraying him: a comic nervous tic now, something colder later. No curse on him, no rot — just a soft mind cracking under what the job really is, played for a nervous laugh. |
+
+**Before Preem — the crew's own dead.** The Brass Jackals didn't start as
+grave-robbers. They were **scavengers of the Muspel reconquest** — trailing
+Kuru's holy war into **Musleheim** to strip the battlefields, salvage foundered
+hulls, and pick over the ruined ports the crusade left behind. *Brass* and
+*jackal* both: brazen, broke, eating off other people's slaughter. **Robbing
+tombs for Preem is the same trade on new ground** — which is why he hired them
+and why they took it; dead kings pay better than dead soldiers. Their losses are
+from those years, not from him: scavenging kills (a wreck that shifts, a
+battlefield not as dead as it looked, desperate men who knife you over a
+salvage). The crew's founder, **Old Brakker**, went down with a salvage that
+flooded — which is how **Veska**, who'd washed up at Raand with a gift for
+holding frightened people together, came to lead a crew she never founded. The
+most recent name in the book is **Riska**, their young scout, lost on the road
+not long ago; green **Sefi** is the one filling her shoes, and not ready.
 
 **Veska's break (why she's like this).** Veska Tull was a poor Kuru girl with a
 gift for the pulpit, and she rose fast in the **Church of Sunne** — preaching the
@@ -394,6 +409,17 @@ leads the only way she knows, the old fire gone cold, rallying desperate people
 toward one more grave because the alternative is watching them starve. She clawed
 out of one machine that eats people and walked straight into another, and she is
 lucid enough to know it.
+
+**Hadda's arithmetic (why she keeps the count).** Hadda has been a
+scavenger-crew quartermaster longer than anyone else aboard — long enough to have
+filled most of the death-book in her own hand. She keeps it not out of morbidity
+but because **someone should remember them**, and because the numbers are the
+only honest thing in a trade that runs on the lies people tell themselves to keep
+going. She is the one who can't *not* see the pattern — and the cruelty of her is
+that **seeing it changes nothing.** She does the arithmetic, knows where it ends,
+and packs the supplies for the next job anyway, because the alternative is the
+whole crew starving today instead of dying later. The Ashfoot's Olen is where
+this leads when the knowing finally wins; Hadda is still keeping the books.
 
 **Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
 the two crews are a half-step from a brawl the moment the party walks in. Veska
