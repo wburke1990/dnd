@@ -151,7 +151,7 @@ are **theirs**.*
 |---|------|---------|------|-------------------------------|
 | 1 | **Setha Renk** | Half-elf | **Blackacre** | **Preem's half-blood protégée** — she carries a thinned founder line the old houses killed her mother to bury, and means to claw the council seat back over anyone in her way (full story below). On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | A **Suartleheim powderman** (the mining-isle's rock-breaking-and-fire craft) who carried the old **Hjörungavágr** grudge into the **Sunne pogroms** — burning out orc-diaspora quarters of settled families and town-born half-orcs (full story below). What he torched "was not only men," and he forgives himself two ways at once — his faith calls the fire holy, his people's old grudge calls it deserved — so he's warm, weary, and genuinely at rest. He'll tell Sarric, kindly, that **the cause carries the screams for you — you just have to let it**. The exact peace Sarric refuses. |
-| 3 | **Issa Quib** | Halfling | **Aniess** | She paid for an old funerary rite that left her **death-touched** — cold, too still, half a step out of life — not to read the names (that's a learned skill) but to **stop being fully alive.** She **chose** it, and she's serenely sure it was worth it (full story below). Aniess was remade into a not-quite-human thing *without consent* and grieves the self she can't recover; Issa gave hers away on purpose and beams at the quiet. |
+| 3 | **Issa Quib** | Halfling | **Aniess** | She paid for an old funerary rite that left her **death-touched** — cold, too still, half a step out of life — not to read the names (Preem's **Pen of Comprehend Languages** does that for anyone) but to **stop being fully alive.** She **chose** it, and she's serenely sure it was worth it (full story below). Aniess was remade into a not-quite-human thing *without consent* and grieves the self she can't recover; Issa gave hers away on purpose and beams at the quiet. |
 | 4 | **Gharn** | Half-orc | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — and drew the opposite lesson: the world eats the weak, so he sold his arm to the strong. Warm, open, tells his story freely like Jasper does. The most unsettling mirror, because the party will *like* him. |
 | 5 | **Vael Astre** | Elf | **Pax** | Had his own revelation in the tombs: he looked at what the names *do* and decided dominion over souls is simply the right order of things. Pax speaks for the wounded living world; Vael speaks for the hand that owns it. Two prophets, opposite gods. |
 
@@ -242,7 +242,8 @@ losing his faith-and-grudge peace: the pogroms **stoked by Sunne, bankrolled by 
 Company.** Use whichever depth fits the table; they compound rather than compete.
 
 **Issa's bargain (why she's like this).** Issa didn't need remaking to read the
-names — that's a learned skill. She did it to **stop being fully alive.** She
+names — Preem hands his crews a **Pen of Comprehend Languages**, so anyone can.
+She did it to **stop being fully alive.** She
 sought out and paid dearly for an **old funerary rite of the dead empire's
 death-cult** that left her **death-touched**: still a living halfling, but cold
 to the touch, breath shallow, a half-step into death. The tombs hold nothing that
