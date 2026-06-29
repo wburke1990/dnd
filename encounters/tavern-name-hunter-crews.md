@@ -140,7 +140,7 @@ take requests — or a drink.
 
 *Chartered, funded, smug — and **done**. They cleared every tomb in the Valley
 without missing a name, and they will make sure the party knows it. Each of the
-**four** is one PC's road-not-taken: the version who said **yes**, didn't flinch,
+**five** is one PC's road-not-taken: the version who said **yes**, didn't flinch,
 and is proud of it. They don't think the names are evil. They think the names
 are **theirs**.*
 
@@ -150,15 +150,7 @@ are **theirs**.*
 | 2 | **Doruk Pell** | Dwarf | **Sarric** | A **Suartleheim powderman** (the mining-isle's rock-breaking-and-fire craft) who carried the old **Hjörungavágr** grudge into the **Sunne pogroms** — burning out orc-diaspora quarters of settled families and town-born half-orcs (full story below). What he torched "was not only men," and he forgives himself two ways at once — his faith calls the fire holy, his people's old grudge calls it deserved — so he's warm, weary, and genuinely at rest. He'll tell Sarric, kindly, that **the cause carries the screams for you — you just have to let it**. The exact peace Sarric refuses. |
 | 3 | **Issa Quib** | Halfling | **Aniess** | She paid for an old funerary rite that left her **death-touched** — cold, too still, half a step out of life — not to read the names (Preem's **Pen of Comprehend Languages** does that for anyone) but to **stop being fully alive.** She **chose** it, and she's serenely sure it was worth it (full story below). Aniess was remade into a not-quite-human thing *without consent* and grieves the self she can't recover; Issa gave hers away on purpose and beams at the quiet. |
 | 4 | **Bram Hale** | Human | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — the powerful wrecked his home for gain — and drew the opposite lesson: *the world eats the weak, so don't be weak.* Where Jasper turned that into a war **for** the powerless, Bram **sold his strong right arm to the powerful** — took their coin, did their work, climbed. Warm, open, tells the whole story freely, exactly like Jasper — which is why the party will *like* him before they clock what he is (full story below). |
-
-**No mirror for Pax — by design.** Four of the party's five meet their
-road-not-taken here; **Pax does not.** His wound — souls, dominion, who gets to
-*own* whom — is the campaign's deepest secret, so a prophet preaching it at this
-tavern would *tell* the party the ending. His reflection is **held for late
-game**: **Vael Astre**, a [Second Foundation](../lore/the-second-foundation.md)
-prophet of dominion the party meets around **level 12+**, once the
-names-and-ownership truth is already surfacing. Two prophets, opposite gods —
-delivered when it lands, not when it spoils.
+| 5 | **Calix Vire** | Elf | **Pax** | A deadpan true believer who is, with total serenity, **"on a mission from God."** Like Pax, he's certain a higher power chose him as its instrument — but where Pax's revelation got him *cast out* (so he wanders, anguished, still insisting he's right), Calix was *believed*, and every success since has only hardened it. He does the work and leaves the wreckage without a flicker of doubt or remorse, usually with a flat one-liner. **Pax sweats his calling; Calix wears sunglasses to his** (full story below). |
 
 **Setha's claim (why she's like this).** Setha is a **founder-blood bomb in
 half-elf skin.** Her mother was the last of a **thinned founder house** — real
@@ -289,10 +281,35 @@ most unsettling Writ mirror precisely because **the party will like him**, and
 liking him is the trap. *(Sample dialogue — the lines built to actually charm
 Jasper — in [Bram's NPC card](../characters/bram-hale.md).)*
 
+**Calix's certainty (why he's like this).** Calix Vire has the one thing
+[Pax](../characters/pax.md) can never get: **to be believed.** Pax had his
+revelation and his own monastery threw him out for it — so he wanders, anguished,
+reframing every rejection as proof. Calix had his own private revelation that he
+was **chosen for a purpose**, and the world seemed to *agree*: he was elevated,
+he succeeded, and every win since has hardened the certainty into something
+**serene and total.** He never explains the mission and never doubts it; he
+simply *knows.* The grave-work — and any bodies, any wreckage, any line
+crossed — is just part of The Mission, shrugged off with a calm that plays funny
+right up until you realize **he means every word.**
+
+**Play him like the Blues Brothers.** Flat, unflappable, sunglasses-cool —
+*"we're on a mission from God"* — chaos in his wake and not a hair out of place.
+The comedy is the horror: a man this certain, this calm, doing this much damage,
+and sleeping like a baby.
+
+**The mirror.** Same chosen-instrument conviction as Pax, opposite reception:
+Pax **rejected** and tormented by it; Calix **vindicated** and untroubled by
+anything. To stand beside a man as certain as he is — but *calm* — is Pax's quiet
+nightmare: either what he could become, or proof his own torment is just noise.
+Calix's certainty is **pure psychology, not cosmology** — he doesn't know what
+the names *do* any more than the party does, so he gives nothing away. (Pax's
+*deep* mirror, the one who does understand, waits for late game in **Vael
+Astre** — see the [Second Foundation](../lore/the-second-foundation.md).)
+
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the
 party about how careless they've been. Each Writ member drifts toward their
-counterpart — Doruk corners Sarric, Bram genuinely charms Jasper — so the
-mirror lands as *conversation*, not a lecture. Let the players
+counterpart — Doruk corners Sarric, Calix unsettles Pax, Bram genuinely charms
+Jasper — so the mirror lands as *conversation*, not a lecture. Let the players
 feel the pull and the revulsion at once.
 
 **The missing names (the table-fix, weaponized as a mirror).** The party

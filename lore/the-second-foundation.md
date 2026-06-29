@@ -226,8 +226,10 @@ for **the hand that owns** — two prophets, opposite gods, and (like Pax) maybe
 madman dressing power in scripture, maybe genuinely touched by something old that
 answered him. Introduce him only when the **names-and-ownership truth is already
 unfolding** (roughly **level 12+**), so he *confirms* what the party has begun to
-dread rather than *announcing* it. He was kept **out** of the early rival-crew
-tavern scene for exactly that reason (see
+dread rather than *announcing* it. Pax's **early, surface** mirror — his
+chosen-instrument zealotry with no cosmology attached — is **Calix Vire** in the
+rival-crew tavern; **Vael is the deep one**, the same man's reflection held until
+the souls-and-dominion truth can land without spoiling it (see
 [the rival crews](../encounters/tavern-name-hunter-crews.md)).
 
 `[OPEN]` whether Vael is a full Chair, a lesser Foundationer, or an outer-circle
