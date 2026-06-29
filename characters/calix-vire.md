@@ -50,6 +50,34 @@ ambiguous throw, so Preem can tip even the coin.) It looks erratic; he calls it
 *surrender.* It also means a party can **watch him decide life and death on a
 coin**, smiling, without a flicker.
 
+## Past "vindications" (sample antics)
+
+Every one is within a quasit's reach — a *warning,* a *nudge,* dumb luck — and
+every one he reads as proof. Pull these out when the party needs to *feel* his
+certainty.
+
+- **The founding proof.** Long before the Writ, on an earlier dig, the lots told
+  him to climb out for air — and the workings came down on everyone still below.
+  He walked away the only survivor and has not doubted since. His reputation —
+  *the man the cave-in spares* — is part of why the Writ recruited him. *(The
+  toad sensed the bad ground, or Preem had a use for him; a timely nudge, no
+  shield.)*
+- **The impossible bet — and the pampered toad.** He once won a wager nobody
+  wins (a coin he let ride on the voice) and funded the crew's passage for a
+  season. He tithes a tenth of every score *"to the one who carries me"* — which
+  in practice means **the toad eats better than the crew does**, off a little
+  dish. He's certain the toad is a *holy sign* sent to him; he has **no idea**
+  it's the literal carrier of the voice. The crew just sees a grown man feeding a
+  toad delicacies. *(The dark joke is on him: he keeps his own leash fat and
+  content.)*
+- **The wedding he crashed.** A coin sent him through the wrong door into a
+  founder-family wedding; deadpan-certain he was *meant* to be there, he walked
+  out having made the exact contact the Writ needed. *"Told you."*
+- **The coin that chose a life.** At a fork with one prisoner and no time, he
+  flipped for it — *heads walks, tails doesn't* — and abided by it without a
+  flicker. *"Wasn't my call."* His serenest, ugliest trick: no guilt, because he
+  never *chose.*
+
 ## How to play him
 
 Flat, unflappable, sunglasses-cool — *"we're on a mission from God"* — chaos in
