@@ -3,6 +3,9 @@
 > **Placeholder name.** The counterpart to [the Second Foundation](the-second-foundation.md).
 > Together they're an Asimov homage (First Foundation / Second Foundation — and
 > **Mul**, the disguised Yochlol, is "the Mule"). 🔒 mostly unknown to the party.
+>
+> See also [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md) —
+> the First Foundation's old alliance with the demon-people, and how it fell.
 
 ---
 

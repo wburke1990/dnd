@@ -11,7 +11,9 @@
 >
 > Companions: [Taniyn & Lonka](taniyn-and-lonka.md) (the creation myth),
 > [floating-fleet](floating-fleet.md) (Lonka as Tyre), the
-> [world-history timeline](world-history-timeline.md).
+> [world-history timeline](world-history-timeline.md), and
+> [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md) (the
+> demon-tunnels beneath the caldera, and the massacre they made possible).
 
 ---
 

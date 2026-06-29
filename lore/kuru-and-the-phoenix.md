@@ -8,6 +8,9 @@
 > `[loose]` floated, not locked · `[OPEN]` still to decide · 🔒 DM secret the
 > players don't have yet. Dates are `~years ago` and the `~` is load-bearing —
 > this is myth from unreliable mouths.
+>
+> See also [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md) —
+> why Kuru's anti-demon creed began as a revolt against a demon-powered empire.
 
 ---
 
