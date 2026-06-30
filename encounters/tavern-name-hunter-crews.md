@@ -359,7 +359,7 @@ the bridge to the haunted Ashfoot a city down the road.*
 |---|------|---------|------|-------------------------------------|
 | 1 | **Veska Tull** | Human | Leader | A former **preacher of Sunne** who gave the holy war its words — blessed the **pogroms**, called the burning *light* — until she saw up close what the merciful sun-faith really is: a colonial war-engine the Warforged steer, mercy as a mask for slaughter. She **lost her faith and ran.** Now she leads the Jackals on the burnt-out fervor of a preacher who no longer believes but still knows how to make desperate people follow — toward one more grave, because the alternative is watching them starve. Her cost: she clawed out of one machine that eats people and walked straight into another (Preem's), lucid enough to know it. The **deserter** to the Writ's Doruk, who served the same Sunne fire and made his peace. *(She fled the* public *Church, never its hidden child-arm — which is why she can't tell what Aniess is; out here,* no one *can.)* |
 | 2 | **Hadda Vimm** | Dwarf | Quartermaster | Keeps the crew's coin, supplies, and map — and its **death-book:** every Jackal they've buried, by name, from the scavenging years. She's as new to Preem as the rest, so she *knows* nothing about his operation — but a quartermaster who's outlived a dozen bad jobs has a **nose**, and this one reeks: the pay is too high for grave-robbing, he runs an odd number of crews at once, and the sites are a long way to send people. She can't prove a thing. She just knows what a wage that generous is usually paying *for*, and she's quietly pricing the odds and not liking them. A **bad feeling, not a body-count** — the lighter echo of the Ashfoot's Olen, who has the proof she only dreads. |
-| 3 | **Sefi** | Halfling | Scout | Youngest, in over her head, already sleeping badly because of a name she's carrying. The **cost made human** — the proto-Ashfoot. If the party wants to see where this road ends, Sefi is mile one. A mirror of their own greenness, and the easiest of all these NPCs to want to save. |
+| 3 | **Sefi** | Halfling | Scout | A halfling **war-orphan** the Jackals pulled out of the wreckage in their scavenging years and raised as the crew's kid. When **Riska** died she got pushed into the scout's seat — **first into the dark**, the deadliest job, and nowhere near ready. By day she's **thrilled** (she went deepest, she got the prize, she's a *real* Jackal now); by night a child's **nightmares about the mummy** — alone in the black with the ancient dead — sharpened by the one real thing she half-knows: Riska died doing exactly this. The **cost made human**: a kid in the deadliest seat, too desperate to belong to see it. Mile one of the Ashfoot's road, and the easiest of all these NPCs to want to save. |
 | 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. **The crew's storyteller** — the party first overhears him mid-saga (see the opening beat). |
 | 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb and can't leave the names alone — and the work is fraying him: a comic nervous tic now, something colder later. No curse on him, no rot — just a soft mind cracking under what the job really is, played for a nervous laugh. |
 
@@ -424,12 +424,30 @@ quartermaster's bad feeling doesn't feed anyone. So she prices the next job and
 packs for it, watching. The Ashfoot's Olen is what's left when the hunch has been
 proven; Hadda is still hoping she's wrong.
 
+**Sefi (the cost, mile one).** Sefi has known nothing but the crew. The Jackals
+found her in the ruins of a port the **Muspel reconquest** had broken — a
+halfling child living off scraps — and took her in the way scavengers do: another
+small mouth, another set of quick hands. She grew up their mascot, then their
+odd-jobber, and she **worshipped Riska**, the scout who let her tag along. When
+Riska didn't come back, Sefi pulled on the too-big kit and the role with it,
+fierce to prove she could fill the gap. She is **brave the way only a kid trying
+to be brave is** — loud about the danger by daylight, undone by it in the dark.
+
+**Veska cannot bear to lose her.** Sefi is exactly the kind of child the holy war
+Veska once preached left in the ash, and saving this one is the only redemption
+Veska can imagine — so every job Sefi walks back from is a reprieve Veska doesn't
+trust, and the day the road takes her, it is Veska failing the children all over
+again. At the table Sefi is the **live wire of the Jackals scene:** the one the
+party will want to pull out of Preem's machine, and the plainest measure of what
+the machine costs if no one does. Reach for her and the Jackals have a reason to
+love the party; don't, and she is the Ashfoot walking, twenty years early.
+
 **Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
 the two crews are a half-step from a brawl the moment the party walks in. Veska
 may pitch the party a "screw the aristocrats" alliance. But under the bravado
 they're frightened: corner Hadda or Sefi and the **dread leaks out** — Hadda's
-nose for a job that pays too well, Sefi's names that won't let her sleep, the
-plain bad odds of grave-work this far out. And Veska, if
+nose for a job that pays too well, Sefi's nightmares of the mummy in the dark,
+the plain bad odds of grave-work this far out. And Veska, if
 she warms to them, says the quiet part: every banner — the Church she fled,
 Preem, all of it — is the same machine wearing a different face, and she'd know;
 she served one and barely got out.
