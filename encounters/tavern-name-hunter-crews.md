@@ -360,7 +360,7 @@ the bridge to the haunted Ashfoot a city down the road.*
 | 1 | **Veska Tull** | Human | Leader | A former **preacher of Sunne** who gave the holy war its words — blessed the **pogroms**, called the burning *light* — until she saw up close what the merciful sun-faith really is: a colonial war-engine the Warforged steer, mercy as a mask for slaughter. She **lost her faith and ran.** Now she leads the Jackals on the burnt-out fervor of a preacher who no longer believes but still knows how to make desperate people follow — toward one more grave, because the alternative is watching them starve. Her cost: she clawed out of one machine that eats people and walked straight into another (Preem's), lucid enough to know it. The **deserter** to the Writ's Doruk, who served the same Sunne fire and made his peace. *(She fled the* public *Church, never its hidden child-arm — which is why she can't tell what Aniess is; out here,* no one *can.)* |
 | 2 | **Hadda Vimm** | Dwarf | Quartermaster | Keeps the crew's coin, supplies, and map — and its **death-book:** every Jackal they've buried, by name, from the scavenging years. She's as new to Preem as the rest, so she *knows* nothing about his operation — but a quartermaster who's outlived a dozen bad jobs has a **nose**, and this one reeks: the pay is too high for grave-robbing, he runs an odd number of crews at once, and the sites are a long way to send people. She can't prove a thing. She just knows what a wage that generous is usually paying *for*, and she's quietly pricing the odds and not liking them. A **bad feeling, not a body-count** — the lighter echo of the Ashfoot's Olen, who has the proof she only dreads. |
 | 3 | **Sefi** | Halfling | Scout | A halfling **war-orphan** the Jackals pulled out of the wreckage in their scavenging years and raised as the crew's kid. When **Riska** died she got pushed into the scout's seat — **first into the dark**, the deadliest job, and nowhere near ready. By day she's **thrilled** (she went deepest, she got the prize, she's a *real* Jackal now); by night a child's **nightmares about the mummy** — alone in the black with the ancient dead — sharpened by the one real thing she half-knows: Riska died doing exactly this. The **cost made human**: a kid in the deadliest seat, too desperate to belong to see it. Mile one of the Ashfoot's road, and the easiest of all these NPCs to want to save. |
-| 4 | **Mogg** | Half-orc | Enforcer | Deadpan, funnier than he should be, and quietly decent — a man who does violence and still *flinches*, the exact opposite of the Writ's numbed Doruk. Useful contrast if you want the party to see the choice isn't fixed. **The crew's storyteller** — the party first overhears him mid-saga (see the opening beat). |
+| 4 | **Mogg** | Half-orc | Enforcer | A half-orc of the **diaspora** — and a survivor of the crusades and pogroms that hunt his kind — who does the Jackals' violence and still *flinches*, because he has been on the receiving end and won't let himself forget it. The exact opposite of the Writ's **numbed Doruk:** Mogg refuses the peace numbness buys, and pays for it by feeling every blow. Deadpan, funnier than he should be, quietly decent — **the crew's storyteller** and the keeper of his people's drowned history (the party first overhears him mid-saga; see the opening beat). |
 | 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb and can't leave the names alone — and the work is fraying him: a comic nervous tic now, something colder later. No curse on him, no rot — just a soft mind cracking under what the job really is, played for a nervous laugh. |
 
 **Before Preem — the crew's own dead.** The Brass Jackals didn't start as
@@ -441,6 +441,31 @@ again. At the table Sefi is the **live wire of the Jackals scene:** the one the
 party will want to pull out of Preem's machine, and the plainest measure of what
 the machine costs if no one does. Reach for her and the Jackals have a reason to
 love the party; don't, and she is the Ashfoot walking, twenty years early.
+
+**Mogg (the soul of a doomed crew).** Every half-orc descends from the drowned
+Muspel, and Mogg carries that fall like a man carries a name. His own kin are
+gone the way his people always go — to the crusades and the pogroms that call
+orcs *sea-devils* and burn them out of every port they settle — and he came up
+in that long wreckage: hunted, joking, alive. He tells the old sagas (the
+fleets, Hjörungavágr, the king who would not strike his sail) because **a people
+everyone wants dead stays a people by remembering its dead**, and gallows-humor
+is the only way to carry that weight without it crushing you.
+
+That history is why he is the Jackals' enforcer **and** their conscience. He does
+the crew's hard work — he is big, and the work needs someone big — but he will
+**not** make the peace with it the Writ's Doruk made, because he knows from the
+inside what it is to be the one the strong hurt. So every blow he lands stays
+with him; he flinches where Doruk shrugs. The cost the Jackals show through Mogg
+is the **price of keeping your soul** in a trade built to take it: he feels all
+of it, and the work is bleeding the warmth out of him a little at a time. He is
+the decency of a doomed crew — and the proof, against Doruk, that the choice was
+never fixed.
+
+*Threads.* Mogg is, unknowing, a survivor of the very violence **Veska** once
+preached; the penitent and the hunted share a campfire with the crime unsaid
+between them. And he is **Doruk's** cross-crew mirror — the half-orc who survived
+the burning and can't make peace, against the dwarf who lit it and did. Cross
+them in the tavern with care.
 
 **Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
 the two crews are a half-step from a brawl the moment the party walks in. Veska
