@@ -155,13 +155,11 @@ crack hands him another key.** Two things give the hunt teeth:
   freely purge the sunlit temples themselves — which is exactly why a patron needs
   **mortals,** who can walk in where demons can't. Every name-hunt is a race
   against something with everything to lose.
-- **The slow burn.** The party think they are grave-robbing for a scholar-patron
-  — but Preem's bound demons **pass as ordinary people.** Every servant in his
-  tower wears a human face; Manizheh spent thirty-one years as a merchant's wife.
-  So sooner or later the party come to trust someone — a servant, a helpful
-  contact, an ally — who is secretly one of these bound demons, **enslaved by a
-  true name the party themselves recovered and handed up.** They forged the chain
-  before they knew there was one.
+- **The slow burn.** The party think they are grave-robbing for a scholar-patron.
+  The dawning horror is what the names are *for*: every one they recover and hand
+  up is the key that locks a living demon into servitude — a vrock in a pit as
+  readily as anything wearing a human face. They are forging chains, link by link,
+  and delivering them to Preem, and they grasp it only after they have done it.
 
 The endpoint of the hunt is the **one name no temple holds — the magma demon's** —
 which is why getting *it* (below) is a different and far worse deed than robbing a
