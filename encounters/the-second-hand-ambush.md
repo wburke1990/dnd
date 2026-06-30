@@ -79,7 +79,10 @@ run.**
 [their writeup](../characters/the-second-hand.md):
 - **Captain Cassia Roan** — human ex-watch officer; she **outranked Marcellus,**
   moved to expose his racket, and was **forced out** for it — so the fight is
-  personal, and the watch shielding Ratatat in front of her is salt in it.
+  personal, and the watch shielding Ratatat in front of her is salt in it. (Her
+  foil is **Wiglaf,** a still-serving gate guard who learned the *same* rot and
+  chose **silence** to keep the leper-charity running — the cost-of-naming vs.
+  the cost-of-silence. See the [Session 2 DM notes](../sessions/session-02.md).)
 - **Halvard Stone** — dwarf shieldbearer, **down or nearly down** when the party
   arrives (he put himself between the guards and the others).
 - **Nuru** — valley-born mage, out of spells, the one who later **splits the

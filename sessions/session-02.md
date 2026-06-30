@@ -42,7 +42,10 @@ table intends.
 At the gate out toward the Valley the party dealt with **Wiglaf,** the guard on
 the post — clean, straight as they come — while two others, **Unferth** and
 **Hygelac,** loaded the **huts with the charity supplies** bound for the lepers
-sheltering at the tombs. The party came away **suspicious of the gate** — that
+sheltering at the tombs. (Wiglaf is clean but **not naive** — see the DM note
+below: he *knows* the watch is rotten and has chosen silence to keep the charity
+running. He's the foil to **[Cassia](../characters/the-second-hand.md),** who
+named the same rot and was destroyed for it.) The party came away **suspicious of the gate** — that
 the men who point travelers toward the Valley aren't the neutral locals they
 seem.
 
@@ -82,6 +85,37 @@ chamber and recovered what the tomb held (per Preem's commission, the
   **[Corvin Lark](../characters/the-second-hand.md)** of the Second Hand had
   dealt with for years — the same betrayal that lets *that* crew walk into an
   ambush.
+- **Wiglaf — the man who kept his mouth shut (foil to [Cassia](../characters/the-second-hand.md)).**
+  Wiglaf reads as "clean, straight as they come," and he is — but his cleanness
+  is a *choice he's still making,* not innocence. He **knows** there's a corrupt
+  clique inside the watch — the bought men who take the rat man's coin (Hygelac
+  at the gate, Marcellus's crew in the square). And he **saw what happened to
+  Cassia Roan.** At the time he may not have understood why a good captain was
+  cashiered and blacklisted; now he knows the truth — she named the racket, she
+  was *right,* and naming it cost her the badge, her name, everything. So Wiglaf
+  chose the **opposite path from the same knowledge:** he keeps his mouth shut.
+  Not out of cowardice and not because he's bought — because as long as he stays
+  clean *and* quiet he keeps his post, and from inside the post he can shepherd
+  the things the watch still does right: the **charity runs to the lepers** at
+  the tombs, and the other quiet decencies the guard manages. Speak, and you're
+  out — and the good goes out the door with your career. Stay, and you can
+  protect it.
+  - **Why he's the foil.** Cassia and Wiglaf are two honest people who learned
+    the same rot and made **opposite trades** — and the campaign refuses to call
+    either one clean. Cassia is the **cost of naming:** she spoke, and the name
+    she spoke unmade her (this is the campaign's whole thesis about names and
+    what speaking them costs, worn by a city guard instead of a demon). Wiglaf is
+    the **cost of silence:** the lepers eat because he said nothing, and the rat
+    man's watch shields its paymaster in the open because *honest men like Wiglaf
+    said nothing.* He is complicit-by-silence in the exact thing Cassia burned
+    for naming. Neither is wrong; neither is clean.
+  - **Where this can go.** Wiglaf is a live **inside man** if the party ever
+    moves to expose the racket — he could corroborate what Cassia named, but
+    doing so risks the charity he's been protecting, so make him *pay* to help.
+    And a **Cassia–Wiglaf reunion is loaded:** she may see his silence as the
+    cowardice that let the rot fester after she paid to fight it; he may see her
+    crusade as having abandoned the people the guard's quiet good still feeds.
+    Don't resolve it — let the party (and Cassia) sit in it.
 - **The Set-beast's tip about the lions** paid off in Session 3 — the party
   arrived at the lions' tomb already inclined to parley/feed rather than
   fight.

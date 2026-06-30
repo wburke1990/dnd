@@ -91,7 +91,9 @@ flat. Tune races/classes to taste.
   with the campaign's name-obsession: he sells *false* names for coin while Preem
   steals *true* ones from the dead. Corvin knows Maalm's gates and squares cold,
   and which guards are bought: at the gate only **Hygelac** takes Ratatat's coin
-  — **Wiglaf** and **Unferth** run straight — and Hygelac also pulls **square
+  — **Wiglaf** and **Unferth** run straight (and **Wiglaf** is Cassia's quiet
+  foil — he knows the rot and stays silent to protect the lepers' charity; see
+  the [Session 2 DM notes](../sessions/session-02.md)) — and Hygelac also pulls **square
   shifts,** where Ratatat owns every guard as a witness to keep quiet. The ambush
   is **personal** for Corvin: Hygelac was a man he'd dealt with for years, and
   he's the one who took the coin to **look the other way** while the Second Hand
