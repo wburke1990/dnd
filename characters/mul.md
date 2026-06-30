@@ -28,8 +28,8 @@ that's how he tells a royal name from a god's name from a true name without
 saying why. Payment is implied (the quasit brings coin at the next long rest);
 he spends his words *fishing*.
 
-**First reply** (the very first names come in — he probes, doesn't thank):
-- "Names — good. That first one: carved alone, or beside others? And the spelling — did it end in a hard sound, or soft?"
+**First reply** (the very first names come in — he confirms payment, then probes):
+- "I've dispatched payment. Now — that first name: carved alone, or beside others? And the spelling — did it end in a hard sound, or soft?"
 - "Which of those sat above a door, and which below? Were any ringed — a cartouche, a border, a circle? Detail matters. Note it."
 - "Say the third again next call — slowly, sound by sound. I must have it exact. The rest are fine. Payment comes tonight."
 
