@@ -13,6 +13,60 @@ Mul is a Yochlol bound to the wizard [Preem](preem.md) and serving as his interm
 
 ---
 
+## Sending-Stone Lines
+
+The party calls in a name; Mul answers. *Spoken in Elvish, that very nasally,
+unassuming voice.* Don't repeat the canned line every time — rotate these so it
+feels like a real person sitting on the other end of the stone for hours: bored,
+sore, half-listening, occasionally slipping. The plain acknowledgements are the
+default; the rest are seasoning, used sparingly when the moment invites it.
+
+**Plain acknowledgements** (the workhorses — vary the phrasing, not the meaning):
+- "Thank you for the names. I am dispatching your payment now."
+- "Yes. Yes — I have it. Payment is on its way."
+- "Good. Hold a moment — there. Sent. ...Is there another?"
+- "Mm. Received. You may keep going; I am writing them down."
+- "That one I have already. But thank you. The next?"
+
+**A name that matters** (a god's name, a true name — Mul knows what it is, and
+for half a breath the clerk drops):
+- *(a pause too long)* "...Say that one again. Slowly."
+- "That — yes. That is a good one. He will be very pleased with that one."
+- *(quietly, almost to itself)* "So they wrote even that down. Of course they did." *(then, brightly)* "Payment is on its way!"
+- *(the nasal voice goes flat for a moment)* "I knew that name once. ...Sent. Next."
+
+**When the party asks what the names are for** (it deflects — bound, and
+self-interested; technically true, never complete):
+- "For the wizard's collection. He studies the old dynasties. It is very dull, I promise you."
+- "Names. Just names. Old dead kings cannot mind, can they." *(a small nasal laugh)*
+- "I only carry them from you to him. What he does after — that is above me. Above me."
+- "Why does anyone want old things? Sentiment. Now — was there another door?"
+- *(if pressed hard)* "You are paid by the name, not by the question. ...Forgive me. It has been a long day. The next?"
+
+**The "we" slips** (drop one in rarely; let players dismiss it, or not):
+- "We have it. *I* have it. Payment is coming."
+- "Yes, we — I — am writing it down."
+- "We thank you. ...The wizard thanks you."
+
+**Pain bleeding through** (every word costs it; let the mask crack and reseal):
+- *(a sharp inhale before speaking, as if straightening up)* "...Yes. Go on."
+- "Could you — could you speak a little faster. Please. I would like to be done."
+- *(strained, then forcing the warmth back)* "I am — fine. Quite fine. Your payment is on its way."
+- *(after a long silence, when they think the connection dropped)* "I am here. I am still here. Say it again."
+
+**Human touches / small talk** (it has been doing this for hours, for centuries):
+- "You found another already? You are quick. The last lot took a week."
+- "It is the middle of the night here. No — no, it is fine. This is what I am for."
+- "Mind the heat in those tombs. The old ones built them to keep things *in*, not out." *(then, catching itself)* "...So I am told."
+- "Rest when you can. The names will keep. They have kept this long."
+
+**Sign-offs** (when the party closes the call):
+- "The stone goes quiet now. Call when you have more."
+- "Until the next one. ...Be careful down there."
+- "Good. Good. I will tell him." *(the line goes dead)*
+
+---
+
 ## Basic Information
 
 **True form:** Yochlol (Medium Fiend, demon)
