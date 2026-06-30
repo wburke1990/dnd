@@ -7,7 +7,7 @@
 
 Mul is a Yochlol bound to the wizard [Preem](preem.md) and serving as his intermediary with the party. At the wizard's tower Mul shape-shifts into an elf; this disguised elf is the party's main point of contact, and they do not know it is a demon. Like all of Preem's bound demons, Mul is in continuous pain on the surface (see [house rules — demon suffering](../lore/house-rules-and-world-mechanics.md)), every time the party speaks to it.
 
-**The sending stone.** Mul holds the sending stone paired with the one the party carries into the [Valley of the Kings](../encounters/valley-of-the-kings.md). When the party relays the names they find in the tombs, Mul is the "associate" on the other end who receives them — and it replies **in Elvish**: *"Thank you for the names. I am dispatching your payment now."* What the wizard actually wants — royal names, divine names, or all of them — is something Mul has not clarified (see [Amseh dynasty](../lore/amseh-dynasty.md)).
+**The sending stone.** Mul holds the sending stone paired with the one the party carries into the [Valley of the Kings](../encounters/valley-of-the-kings.md). It casts *Sending* — **once a day, 25 words each way** — so each exchange is a single tight burst, not a conversation. When the party relays the names they find in the tombs, Mul is the "associate" on the other end who receives them, replying **in Elvish**. It does not waste its 25 words on thanks: its replies are *followup questions* about the names just relayed — spelling, placement, what was carved alongside — the way it sorts a royal name from a god's name from a true name without ever saying why (payment arrives separately, by quasit, at the next long rest). What the wizard actually wants — royal names, divine names, or all of them — is something Mul has not clarified (see [Amseh dynasty](../lore/amseh-dynasty.md)). See [Sending-Stone Lines](#sending-stone-lines) for a bank of in-voice transmissions.
 
 **Voice & manner.** A very nasally voice; plays unassuming and harmless on purpose; sometimes refers to itself as "we." On later visits to the tower, Mul is the one who greets the party. The name is an Asimov "the Mule" easter egg. (Full canonical entry, incl. the Demonic-Restoration "tavern girl" gambit and the homebrew Acid Kiss, lives in [preems-demons.md](preems-demons.md#mul--the-yochlol-associate).)
 
@@ -15,55 +15,45 @@ Mul is a Yochlol bound to the wizard [Preem](preem.md) and serving as his interm
 
 ## Sending-Stone Lines
 
-The party calls in a name; Mul answers. *Spoken in Elvish, that very nasally,
-unassuming voice.* Don't repeat the canned line every time — rotate these so it
-feels like a real person sitting on the other end of the stone for hours: bored,
-sore, half-listening, occasionally slipping. The plain acknowledgements are the
-default; the rest are seasoning, used sparingly when the moment invites it.
+**The mechanic.** The paired stone casts *Sending* — **once per day, 25 words
+each way.** So this is not a chat. The party gets one 25-word burst to relay
+what they found; Mul gets one 25-word burst back; then the stone is dead until
+tomorrow. Every reply below is ≤25 words on purpose — a single day's
+transmission. *Spoken in Elvish, that very nasally, unassuming voice.*
 
-**Plain acknowledgements** (the workhorses — vary the phrasing, not the meaning):
-- "Thank you for the names. I am dispatching your payment now."
-- "Yes. Yes — I have it. Payment is on its way."
-- "Good. Hold a moment — there. Sent. ...Is there another?"
-- "Mm. Received. You may keep going; I am writing them down."
-- "That one I have already. But thank you. The next?"
+**His first reply is questions, not thanks.** Because he only gets 25 words a
+day, Mul does not waste them on "thank you." His opening transmission interrogates
+what they just relayed — spelling, placement, what was carved alongside — because
+that's how he tells a royal name from a god's name from a true name without
+saying why. Payment is implied (the quasit brings coin at the next long rest);
+he spends his words *fishing*.
 
-**A name that matters** (a god's name, a true name — Mul knows what it is, and
-for half a breath the clerk drops):
-- *(a pause too long)* "...Say that one again. Slowly."
-- "That — yes. That is a good one. He will be very pleased with that one."
-- *(quietly, almost to itself)* "So they wrote even that down. Of course they did." *(then, brightly)* "Payment is on its way!"
-- *(the nasal voice goes flat for a moment)* "I knew that name once. ...Sent. Next."
+**First reply** (the very first names come in — he probes, doesn't thank):
+- "Names — good. That first one: carved alone, or beside others? And the spelling — did it end in a hard sound, or soft?"
+- "Which of those sat above a door, and which below? Were any ringed — a cartouche, a border, a circle? Detail matters. Note it."
+- "Say the third again next call — slowly, sound by sound. I must have it exact. The rest are fine. Payment comes tonight."
 
-**When the party asks what the names are for** (it deflects — bound, and
-self-interested; technically true, never complete):
-- "For the wizard's collection. He studies the old dynasties. It is very dull, I promise you."
-- "Names. Just names. Old dead kings cannot mind, can they." *(a small nasal laugh)*
-- "I only carry them from you to him. What he does after — that is above me. Above me."
-- "Why does anyone want old things? Sentiment. Now — was there another door?"
-- *(if pressed hard)* "You are paid by the name, not by the question. ...Forgive me. It has been a long day. The next?"
+**Daily replies** (one acknowledgement packed with a probe — he can't afford two messages):
+- "All received, paid. But that last name — was anything carved with it? A beast, a star, a second word? It changes the worth."
+- "Two I had already. The king's name is new — good. Did you skip any for being broken? Bring me the broken ones too."
+- "Received. The god-names — temple side, or tomb side? It matters where they lie. Note which, and call tomorrow."
+- "Good batch. Were there others in that chamber you could not read? Look again — walls, lids, floor. Old names hide low."
 
-**The "we" slips** (drop one in rarely; let players dismiss it, or not):
-- "We have it. *I* have it. Payment is coming."
-- "Yes, we — I — am writing it down."
-- "We thank you. ...The wizard thanks you."
+**A name that matters** (a god's name, a true name — the clerk drops for half a line):
+- "...Say that one again. Slowly. I must have every sound. The others can wait. That one — call me back the moment you can."
+- "That — yes. He will be very pleased with that one. Where exactly was it carved? Tell me everything around it. Everything."
+- "So they wrote even that down. Of course they did. ...Good. Sent. Find me more like the last."
 
-**Pain bleeding through** (every word costs it; let the mask crack and reseal):
-- *(a sharp inhale before speaking, as if straightening up)* "...Yes. Go on."
-- "Could you — could you speak a little faster. Please. I would like to be done."
-- *(strained, then forcing the warmth back)* "I am — fine. Quite fine. Your payment is on its way."
-- *(after a long silence, when they think the connection dropped)* "I am here. I am still here. Say it again."
+**When asked what the names are for** (bound and self-interested; technically true, never whole):
+- "For the wizard's study of dead kings. Dull work, truly. The older the name, the better he likes it. Why do you ask?"
+- "Above me, that question. I carry; I do not ask. You are paid by the name, not the question. The next door?"
 
-**Human touches / small talk** (it has been doing this for hours, for centuries):
-- "You found another already? You are quick. The last lot took a week."
-- "It is the middle of the night here. No — no, it is fine. This is what I am for."
-- "Mind the heat in those tombs. The old ones built them to keep things *in*, not out." *(then, catching itself)* "...So I am told."
-- "Rest when you can. The names will keep. They have kept this long."
+**The "we" slip** (rare — let players dismiss it, or not):
+- "We have them. I have them. Were there others near — names we — *he* — would want? Look once more tomorrow."
 
-**Sign-offs** (when the party closes the call):
-- "The stone goes quiet now. Call when you have more."
-- "Until the next one. ...Be careful down there."
-- "Good. Good. I will tell him." *(the line goes dead)*
+**Pain bleeding through** (every word costs it; the mask cracks and reseals):
+- "...I am here. The names — slower next time. I would like this done quickly. Were there more? Tell me there were not."
+- "Fine. I am fine. Send the rest at dawn; the stone tires me. ...Good work. Truly."
 
 ---
 
