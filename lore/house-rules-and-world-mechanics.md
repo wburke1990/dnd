@@ -23,6 +23,15 @@ Run it in the old register — the **geis of Celtic myth**: a strange, specific 
 
 **So the party is exposed after all.** Every living one of them has a true name and can be geas'd by anyone who learns it — not only Pax (who alone can be *enslaved*). Their shield is **secrecy, not immunity:** true names are hidden and hard to come by (see *True Names in the World*, below), which is why they are safe in practice and not in principle. **Aniess** is the sharp case — remade into a Yuan-ti, she still **can't be owned** (no bindable name), but like any living mortal she *could* be geas'd if her true name were known; it isn't. `[None of them have been warned they can be geas'd — DM's call whether and when they find out.]`
 
+## Breaking your own name — the last door
+
+A name-hold can be slipped from the inside, by **changing your own true name** so the stolen key turns nothing — this is the "breaking of the name" that ends a geas (above). The price is total, and it differs by what you are:
+
+- A **demon** that changes its name is **unmade** by the act — for a demon, escape and self-destruction are the same thing (see [demons & the hotspot](demons-and-the-hotspot.md)).
+- A **mortal** lives through it — body and **afterlife both intact** — but **loses all of their abilities.** Everything they had made themselves into was carried in the name they shed; change it and you keep your soul and your place in the Duat, yet walk away stripped of all you could do.
+
+The door is real for both. Neither walks through it whole.
+
 ## Implications
 
 This transforms true names from flavor into the most powerful resource in the campaign. A true name is not just information — it is a key that locks a being into permanent servitude for as long as the caster is willing to spend the material component (a jewel worth 1,000gp or more, consumed on casting).
