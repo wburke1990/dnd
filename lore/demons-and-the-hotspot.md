@@ -98,84 +98,78 @@ Large-scale sea power is a recent thing.
 For the binding rule itself — Planar Binding plus a true name, no save — see
 [Preem's demons](../characters/preems-demons.md). What matters here is how a
 name is gotten in the first place, which is hard on purpose. The art of taking a
-name and binding by it is itself recent — the Second Foundation's own invention,
-only about two thousand years old; through the long alliance before that the
-demon-people were partners, not property.
+name and binding by it is **recent** — the Second Foundation's own invention (the
+working figure is about two thousand years, though the timing is still loose);
+through the long alliance before that the demon-people were partners, not
+property.
 
-A personal demon's true name cannot be read from a distance or overheard. The
-only way to take one is to bring the demon to the edge of true death and have it
-surrender its name in exchange for its life. (For a demon, true death is final —
-no judgment, no return — which is what makes the threat absolute.) Once taken, a
-name can be written down, copied, and handed on, and it can never be recalled.
-This is why a bound demon's only real escape is to change its own name, which
-unmakes it (see [Manizheh](../characters/demon-wife.md)).
+A personal demon's true name cannot be read off it or overheard — a living demon
+that guards its name gives nothing away. There are only **two ways to come by
+one.** The first is to **find it already written:** recovered from the records of
+the open-names age (below), when demons used their names freely and mortals wrote
+them down. The second is to **take it fresh:** bring the demon to the edge of true
+death and have it surrender its name for its life — for a demon, true death is
+final, no return, which is what makes the threat absolute. Either way, once a name
+is had it can be copied and handed on and **never recalled;** a bound demon's only
+escape is to change its own name, which unmakes it (see
+[Manizheh](../characters/demon-wife.md)).
 
-### The founding harvest — taken once, and never again
+### Where the names come from — and why the party hunts them
 
-The order's names did not come gently, and they did not come twice.
-
-**First the elves built the key.** Binding by true name is **elven magecraft,
-invented to kill an empire** — not demon-lore handed over by a merciful captive.
-**The seed was a story they already told: Isis and Ra** — the goddess who
-masters the sun-god not by any gift but by **poisoning him and prising his
-hidden true name out of him at the edge of death.** The Maalm mages read that
-myth as a recipe, and it handed them *both* halves of what they built: the
-**principle** (a secret name is a leash, even on a god) and the **method** (take
-it at the brink). Through the long lead-up to the founding, the mages of Maalm —
-working from
+**The elves built the key.** Binding by true name is **elven magecraft, invented
+to kill an empire** — not demon-lore handed over by a merciful captive. **The seed
+was a story they already told: Isis and Ra** — the goddess who masters the
+sun-god not by any gift but by **poisoning him and prising his hidden true name
+out of him at the edge of death.** The Maalm mages read that myth as a recipe, and
+it handed them both halves of what they built: the **principle** (a secret name is
+a leash, even on a god) and the **method** (take it at the brink). Working from
 **inside the First Foundation** (the Asimov nesting made literal: a hidden order
-within the elder one; see [the Second Foundation](the-second-foundation.md)) —
-bent decades of patient research toward one weapon against demon-powered Muspel:
-the discovery that **Planar Binding, spoken with a true name, takes hold with no
-save and never lets go** (see [Preem's demons](../characters/preems-demons.md)).
-The First Foundation had raised Muspelheim *with* the demon-people and so knew
-them — their deep-cities, their nature — and that knowledge, held from within, is
-what aimed the weapon. Elves plan in centuries; this was such a plan.
+within the elder one; see [the Second Foundation](the-second-foundation.md)), they
+turned it into the weapon — **Planar Binding, spoken with a true name, takes hold
+with no save and never lets go** (see [Preem's demons](../characters/preems-demons.md)).
 
-**Then they took the names — fast, under cover, and at a horrific price.** A key
-is useless without a name to turn it, and a living demon's name can only be torn
-out at the edge of true death, down in the tunnels. Maalm could not wrest names
-from Muspel's own mighty deep-city demons without bringing the empire's whole
-weight down on them — so the harvest fell instead on a **weaker, reachable branch
-of the demon-people,** in a single swift strike masked by a larger chaos. It was
-tunnel-slaughter at its worst: close, lightless, and bloody enough that no power
-could pay its cost twice.
+**But the key is useless without names to turn — and those come from the deep
+past.** In the long age before the weapon existed, **a true name was not a
+secret.** Knowing one did nothing; the spell that makes a name a chain had not
+been dreamed of. So demons, mortals, and gods alike **used their true names
+openly,** and those names were written down the way any name is — into
+temple-rolls, tomb-inscriptions, treaty-stones — by a world with no reason to
+guard them. The demon-people, **partners then and not prey, are all through those
+old records under their right names.** The invention of binding turned every one
+of those innocent inscriptions into a **loaded key** — and a demon that has never
+changed its name (to change it is to be unmade) can **still be bound today by the
+name it carried five thousand years ago.**
 
-It was the **only** harvest there will ever be. The betrayal was total, and the
-demon-people — who had once counted mortals as partners — learned in it that
-mortals will tear the name out of you. **After it, no demon ever again let a name
-be taken alive.** Everything downstream hangs on that:
+#### The quest
 
-- The roster is **finite and blood-bought:** every demon in Preem's tower is a
-  name taken in that founding horror, or copied from one.
-- Live harvesting is **foreclosed forever** — so the only new names left are the
-  ones already **written down** in forgotten places. Robbing a dead temple is now
-  *easier than taking a name alive,* and it is the whole ground of the party's
-  name-quest.
-- The lone exception is the name no temple holds — the **magma demon's** — which
-  is why winning it (below) means committing the founding atrocity once more, in
-  miniature.
+This is the campaign's spine. The Second Foundation does not *extract* names — it
+**recovers** them, working the old sites to lift true names out of the deep past,
+and it does the dangerous part the way it always has: with **expendable hired
+crews.** That is the "tomb errand" Preem hires the party for. **Every site they
+crack hands him another key.** Two things give the hunt teeth:
 
-> **`[OPEN — WHERE AND WHEN THE HARVEST FELL. Keystone; settle deliberately.]`**
-> Leading shape: **Kalikhat, under cover of the Kuru Crusades (~2,000 ya).**
-> Kuru's holy war had already turned the Kalikhat tunnels into a slaughter of
-> deep gnomes, drow, and demons (see [timeline §V–VI](world-history-timeline.md));
-> a **second, hidden force** — the elven harvesters — could move under that
-> cover, fall on the **Underdark-allied demon branch** (weaker than Muspel's
-> deep-city demons, and the very demons who *first* befriended mortals ~5,000 ya,
-> so the betrayal strikes the oldest trust of all), and be gone. It keeps Muspel
-> and its armies wholly out of it, it is fast, and it sits exactly in the order's
-> founding window. The alternative — the **deep-city beneath Muspelheim** — is
-> thematically the empire's own engine, but it invites the massive-army problem
-> the harvest must avoid and is hard to make quick; prefer Kalikhat absent a
-> reason to pay the Muspel cost.
+- **The demons guard their own chains.** The demon-people remember the open age
+  and know what sleeps in those temples — the names that can enslave them — so
+  they **hunt the records to destroy them and hold the sites against intruders.**
+  But the surface burns them (demons sicken in the open, above), so they cannot
+  freely purge the sunlit temples themselves — which is exactly why a patron needs
+  **mortals,** who can walk in where demons can't. Every name-hunt is a race
+  against something with everything to lose.
+- **The slow burn.** The party think they are grave-robbing for a scholar-patron.
+  Only later do they **meet the owners** — realize that a servant in Preem's
+  tower, an ally, a "person" they trusted is a demon bound by a name *they*
+  delivered. They forged the chain before they knew there was one.
 
-> **`[OPEN — WHO RECORDED THE TEMPLE-NAMES, AND WHEN. Critical and unsettled —
-> settle next.]`** If new names come from old temples, *someone wrote them
-> there.* Until that is decided the party's name-quest has no source. Candidates:
-> alliance-era records from when demons were partners powering Muspelheim; or the
-> Second Foundation's own founding-era ledger of harvested names, since
-> scattered. **Not yet chosen.**
+The endpoint of the hunt is the **one name no temple holds — the magma demon's** —
+which is why getting *it* (below) is a different and far worse deed than robbing a
+tomb.
+
+> `[OPEN — the timing.]` Exactly when the binding was invented, and when the
+> open-names age ended, is **not pinned** (working figure ~2,000 ya, but loose).
+> **Settled and load-bearing for play:** names were used openly in the deep past
+> and recorded everywhere; the weapon came later and made those records lethal;
+> recovering them from dangerous, demon-watched sites is now an endless hunt — and
+> that hunt is the party's quest.
 
 The magma demon has no mind to bargain with, so its name cannot be taken that
 way. It can only be **derived**, and only the demon-people, who have lived
