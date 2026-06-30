@@ -599,6 +599,16 @@ doomed crew in Preem's machine — the same complicity trap as the missing names
 
 # Hold for a later tavern (next city)
 
+> **Develop these crews late, against the real party.** The Ashfoot (and the
+> ally crew, the Second Hand) are deliberately left as skeletons. By the time
+> the party is near them the PCs will have their own history — names carried,
+> crew lost, lines crossed — and these NPCs land hardest when each one mirrors
+> *that* specific party rather than a guess made chapters early. When the party
+> is a town or two out, flesh them member-by-member the way the Writ and Jackals
+> were done: pick the PC each one shadows, then make the backstory concrete.
+> The hooks below are placeholders, not commitments — keep what still fits,
+> reshape the rest to who the party has become.
+
 ## The Ashfoot — *the wreckage (where the road ends)*
 
 *Do NOT use in Maalm.* This crew has run the **Valley of the Kings** and pushed
