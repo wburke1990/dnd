@@ -90,6 +90,12 @@ He later fell in with Sarric and Jasper, becoming the third member of their orga
 
 **The Verdant Fist:** The monastery that raised and exiled him. His relationship to it is unresolved — he frames the exile as a transformation, but the elders' rejection of his Revelation is a wound he has reinterpreted rather than healed.
 
+**[Master Ilyra Mosswake](ilyra-mosswake.md):** The Verdant Fist monk who trained him — and voted to exile him. The mentor whose judgment still lands like weather. Pax calls her "Root-Mother Ilyra" when sincere, "Agent of Stone-Thinking" when upset.
+
+**[Brother Tovin Reedhand](tovin-reedhand.md):** His closest friend at the monastery; gentle, practical, terrified of him, and still loyal. Pax calls him "Sweet Reedhand" / "my least treasonous brother."
+
+**[Old Fenrick Mottle](fenrick-mottle.md):** The swamp hermit who found him half-starved after the exile and taught him alchemy — beloved "Uncle Fen," and a thoroughly bad influence.
+
 ---
 
 ## Notable Details
