@@ -361,7 +361,7 @@ the bridge to the haunted Ashfoot a city down the road.*
 | 2 | **Hadda Vimm** | Dwarf | Quartermaster | Keeps the crew's coin, supplies, and map — and its **death-book:** every Jackal they've buried, by name, from the scavenging years. She's as new to Preem as the rest, so she *knows* nothing about his operation — but a quartermaster who's outlived a dozen bad jobs has a **nose**, and this one reeks: the pay is too high for grave-robbing, he runs an odd number of crews at once, and the sites are a long way to send people. She can't prove a thing. She just knows what a wage that generous is usually paying *for*, and she's quietly pricing the odds and not liking them. A **bad feeling, not a body-count** — the lighter echo of the Ashfoot's Olen, who has the proof she only dreads. |
 | 3 | **Sefi** | Halfling | Scout | A halfling **war-orphan** the Jackals pulled out of the wreckage in their scavenging years and raised as the crew's kid. When **Riska** died she got pushed into the scout's seat — **first into the dark**, the deadliest job, and nowhere near ready. By day she's **thrilled** (she went deepest, she got the prize, she's a *real* Jackal now); by night a child's **nightmares about the mummy** — alone in the black with the ancient dead — sharpened by the one real thing she half-knows: Riska died doing exactly this. The **cost made human**: a kid in the deadliest seat, too desperate to belong to see it. Mile one of the Ashfoot's road, and the easiest of all these NPCs to want to save. |
 | 4 | **Mogg** | Half-orc | Enforcer | A half-orc of the **diaspora** — and a survivor of the crusades and pogroms that hunt his kind — who does the Jackals' violence and still *flinches*, because he has been on the receiving end and won't let himself forget it. The exact opposite of the Writ's **numbed Doruk:** Mogg refuses the peace numbness buys, and pays for it by feeling every blow. Deadpan, funnier than he should be, quietly decent — **the crew's storyteller** and the keeper of his people's drowned history (the party first overhears him mid-saga; see the opening beat). |
-| 5 | **Pim Riddle** | Gnome | Alchemist | Got too curious about a relic out of the near tomb and can't leave the names alone — and the work is fraying him: a comic nervous tic now, something colder later. No curse on him, no rot — just a soft mind cracking under what the job really is, played for a nervous laugh. |
+| 5 | **Pim Riddle** | Gnome | Alchemist | The crew's pickman and trap-breaker, and a **self-poisoner.** Grave-work terrifies him, so he doses it away with his own chemistry — stimulants to keep going down in the dark, nerve-tonics to hold his hands steady on a trap, sleep-draughts to black out the dreams. Years of using himself as the test subject have **hollowed his mind:** the comic stammer and the eye-tic and the lost words are his own compounds, not any curse. He is the crew's twitchy little canary, played for a nervous laugh — and he has quietly cooked his own brain doing it. His cost: he's the one who tried to **chemistry the cost away,** and the cure is killing him faster than the job would. |
 
 **Before Preem — the crew's own dead.** The Brass Jackals didn't start as
 grave-robbers. They were **scavengers of the Muspel reconquest** — trailing
@@ -467,12 +467,41 @@ between them. And he is **Doruk's** cross-crew mirror — the half-orc who survi
 the burning and can't make peace, against the dwarf who lit it and did. Cross
 them in the tavern with care.
 
+**Pim (the cost, self-administered).** Pim Riddle was a real alchemist once —
+clever hands, a good nose for a reaction — and on a better crew he'd have a shop
+and a sign over the door. He landed with the Jackals because grave-work pays and
+nothing else would take a nervous gnome, and the trade asks the one thing he can't
+give: to go down into the dark, alone and first, and put his fingers on things
+built to kill the curious. He was never brave enough for it. So he did the only
+thing he knew how to do — he **built himself a braver Pim out of bottles.** A
+stimulant to get down the shaft. A nerve-tonic so his hands won't shake on a
+trigger-stone. Something bitter to burn off the fear, and something heavier to
+black out the dreams afterward. It worked. That's the trap of it: it *worked,* job
+after job, for years.
+
+The bill came due in his head. He has been his own only test subject for too long,
+and the dosing that got him through each dig has been quietly **dismantling the
+man** — the stammer, the tic under one eye, the word that isn't there when he
+reaches for it, the way he'll start a sentence three times. The crew reads it as
+Pim being *Pim,* their twitchy little canary, and laughs, kindly enough; he plays
+along, because the laugh is easier than the truth. The truth is he knows exactly
+what's wrong with him, knows the cause is in his own kit, and **takes the next dose
+anyway,** because the alternative is going down a tomb sober and that he cannot do.
+
+He's the Jackals' cost worn inside-out. Veska's machine eats people from the
+outside; Mogg pays in the warmth bleeding out of him; **Pim is the one who tried to
+solve the cost himself, with chemistry, and the solution is the thing killing
+him.** Played light — he's genuinely funny, and the table will be fond of him fast
+— which is the point: the party laughs at the canary for a session before anyone
+clocks that the canary is dying of the air, by his own hand, one dig at a time.
+
 **Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
 the two crews are a half-step from a brawl the moment the party walks in. Veska
 may pitch the party a "screw the aristocrats" alliance. But under the bravado
 they're frightened: corner Hadda or Sefi and the **dread leaks out** — Hadda's
 nose for a job that pays too well, Sefi's nightmares of the mummy in the dark,
-the plain bad odds of grave-work this far out. And Veska, if
+Pim's bottles rattling a little too often, the plain bad odds of grave-work this
+far out. And Veska, if
 she warms to them, says the quiet part: every banner — the Church she fled,
 Preem, all of it — is the same machine wearing a different face, and she'd know;
 she served one and barely got out.
