@@ -13,7 +13,15 @@ Knowing the true name of any extraplanar being — celestial, elemental, fey, or
 
 The rule reaches **only beings of extraplanar nature** — celestials, elementals, fey, and fiends. **Ordinary mortals have no bindable true name.** A human, elf, dwarf, or halfling cannot be planar-bound no matter who learns what they are called — and neither can someone who has merely been *transformed*: **Aniess**, remade by the Order into a Yuan-ti, is still a mortal at root, so **no one can own her by name** (and, in fact, no one knows it). Her wound is the Order's physical-and-mental remaking, not name-ownership — a different mechanic entirely.
 
-The one exception among the party is **Pax**: an **aasimar** carries true celestial nature, so he *does* have a bindable true name and *is* vulnerable — the only PC who is. (He's been warned; the others have not, because they don't need to be.) A bindable name belongs only to a **living** extraplanar being, so most of what a name-hunt turns up is **useless** — the names of the dead, and of mortals, bind nothing.
+The one exception among the party is **Pax**: an **aasimar** carries true celestial nature, so he *does* have a bindable true name and *can be enslaved* — the only PC who can be. (He's been warned.) A bindable name belongs only to a **living** extraplanar being, so most of what a name-hunt turns up **binds** nothing — the names of the dead, and of mortals, enslave no one. But a living mortal's name is not worthless: it grounds a **geas** (below).
+
+## Geas — the name-hold on mortals
+
+Mortals cannot be *bound* — but they can be *geas'd*, and the true name is what makes it absolute. **Speaking a living mortal's true name makes Geas auto-succeed: no Wisdom save, and the charge cannot be lifted by ordinary magic** — only by the caster's release, or by the breaking of the name itself. Where a demon's true name makes a **slave**, a mortal's true name makes a **geis**.
+
+Run it in the old register — the **geis of Celtic myth**: a strange, specific prohibition or sworn charge whose breaking brings ruin (*"you shall never refuse a feast set before you," "you shall not lift a weapon against your own blood"*). Word the charge in the myths' own cadence where you can; with the true name behind it, the geis simply **holds**.
+
+**So the party is exposed after all.** Every living one of them has a true name and can be geas'd by anyone who learns it — not only Pax (who alone can be *enslaved*). Their shield is **secrecy, not immunity:** true names are hidden and hard to come by (see *True Names in the World*, below), which is why they are safe in practice and not in principle. **Aniess** is the sharp case — remade into a Yuan-ti, she still **can't be owned** (no bindable name), but like any living mortal she *could* be geas'd if her true name were known; it isn't. `[None of them have been warned they can be geas'd — DM's call whether and when they find out.]`
 
 ## Implications
 
