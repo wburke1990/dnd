@@ -104,6 +104,66 @@ the **volcano-demon's true name** and asked to use it. The dream quest is their
 
 ---
 
+# THE STORE — THE HIRE
+
+The party's first contact with the family. **Muntadhir** — the elder
+child, the practical one — is minding the family's healing-goods shop
+while his father lies dead at the house and his sister sits with the body.
+He hires the party here, giving away as little as possible. Everything
+about what the rite actually is, what the family is, and what waits in the
+dream stays for the house.
+
+**Design rule for this scene.** The children speak of the afterlife only
+as inherited rite and rumor — never as an itinerary they have travelled.
+Muntadhir is half-demon and barred from that afterlife himself, so he must
+not hint at it, at *why* he cannot perform the rite, or at what the family
+is. In the store he is only a grieving merchant hiring help for "a rite
+for my father." Keep the river, the gates, the judgment, the Dream of the
+Blue Veil spell, and Wynken, Blynken and Nod all for the house.
+
+## Two Ways In
+
+**If the party haggles for a discount** (the natural trigger — they came
+in as customers):
+
+*(Muntadhir, weighing them, not unkind)*
+*"A discount. No — I don't discount. Ask anyone on this street; my prices are my prices."* *(then, deciding something)* *"But I'll do you better than a discount, if you're the sort who earns it."*
+
+**If the party doesn't haggle**, he reads them and opens it himself:
+
+*"Healing draughts, restoratives — a few things stronger, if you've the coin and the need."* *(glancing up, reading them)* *"Though you don't strike me as buyers. You've the look of people who take work."*
+
+## The Pitch
+
+*"My father died this week. There's a task the family needs done for him — a rite. I'd rather not lay it out across a counter. Do that for me, and you don't get a* discount *— you get everything on these shelves at my* cost*, for as long as you deal with us. No margin, nothing kept back. And a debt owed, from me and mine, the kind you call in when it matters. That's worth more than any coin off a price, and a trader like me doesn't offer it twice."*
+
+*(the close:)* *"Come to the house tonight and find out."*
+
+## If Pressed
+
+**"What's the work, exactly?"**
+*"A rite. A ritual for my father — for the dead. It has to be done properly, and done soon, and I'd sooner pay for hands that know their business than leave it to luck. What it asks of you, I'll tell you at the house. Not before."*
+
+**"Why hire strangers? Why not do it yourselves?"**
+*(a beat — and he simply doesn't answer it)* *"Come to the house."*
+
+He withholds without lying. His refusal to answer a reasonable question is
+the scene's only real hook that something is wrong — and it leaks nothing
+about what he is or what waits in the dream.
+
+## What He Will and Won't Say Here
+
+- **Will:** his father died; there is a rite to be performed for him; it
+  pays in goods-at-cost plus a personal debt from both siblings; come to
+  the house.
+- **Won't** (the house's to reveal): that it is a soul-crossing through
+  the Duat; that a spell (Dream of the Blue Veil) is involved; that he and
+  his sister cannot do it themselves, and *why*; that their mother is a
+  demon; anything of Wynken, Blynken and Nod. If the party digs, he
+  deflects to the house.
+
+---
+
 # PRE-DREAM — AT THE HOUSE
 
 ## The Setup
