@@ -38,19 +38,23 @@ approaches a hidden cistern.**
   lineages themselves,** since the Twelve built over the tomb and the cisterns lie in
   those same upper tunnels. Caste/guild/temple wrapped in religion; a strong next thread.
 
-## 3. Physical geography (Petra model)  [loose — built on Petra]
+## 3. Physical geography — the cliff-girt river mouth  [settled]
 
-- **Desert basin ringed by sandstone cliffs,** entered through a **narrow defensible
-  gorge** (a Siq).
+- **A built brick city on the old river mouth** (David's city plan = the Castello Plan of
+  **New Amsterdam**): colossal-brick port, harbour, canal, gardens, and the founders'
+  quarter as a **four-pointed star fortress.** It sits on the delta at the foot of the
+  **Troltiggen highlands** — **not carved;** the carving is the tombs, upstream.
 - **An engineered oasis — green within, dead without.** Fed by km of underground water
   infrastructure + guano, Maalm is **lush**: 1,000-year fruit trees, ancient vines, a
   canopy + sea breeze making its **own cool damp microclimate.** The green **stops dead
   at the city edge** ("San Francisco" line) — past it, the rain-shadowed desert of
   [the drying of the valley](the-drying-of-the-valley.md). The big standing biomass is
   **what the guano is for.** **Canals = sea water** (tidal), not the precious fresh.
-- **Cliffs are honeycombed:** the **Amseh tombs (Valley of the Kings)** are cut into them,
-  and much of the city is **carved rock,** not built. The **bare highland rock above is the
-  catchment** — it sheds rain into the channels.
+- **Cliff-girt, and no Siq:** the peninsula's seaward rim is **huge black sea-cliffs** (the
+  **seabird / guano colonies** + natural rampart). Maalm is defended by **cliffs + brick
+  walls + the harbour + the star-fort citadel,** not a gorge. The **Valley of the Kings
+  tombs are carved, upstream/south** in the Troltiggen — a separate place; the **highlands
+  are the catchment** that sheds the rare rain into the dead river.
 - **The good land is low and central:** the **wadi floors** and **lowest terraces** hold the
   **deepest silt and most water;** soil/moisture **thin as you climb.**
 - **Terraces = check-dams + stone retaining walls** stepped across the wadis and up the

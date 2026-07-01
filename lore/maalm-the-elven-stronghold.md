@@ -21,8 +21,10 @@ Discord brainstorm. Companion to the deep-history piece
 
 ## The gated upper city — the founders' quarter
 
-- The **walled northern section of the Maalm map** is **all gated, with gardens.**
-  **[settled]**
+- The founders' quarter is the **four-pointed star fortress** in the **walled northern
+  section of the city plan** — a **bastion fort:** gated, gardened, set apart on its own
+  ground. **[settled]** (Very likely the same **citadel** that holds the council and, beside
+  it, Preem's tower — see "The citadel & the tower" below; `[confirm]`.)
 - It is a **gated community of the founder-blood elves** — the **oldest families,
   who descend from the Twelve** (Bedraageon's companions who raised Maalm over the
   ruins; see [the founding](maalm-founding.md)). This is the hereditary
@@ -68,19 +70,34 @@ Discord brainstorm. Companion to the deep-history piece
   power like this *should* raise eyebrows — and is meant to (see
   [The Second Foundation](the-second-foundation.md)). **[settled]**
 
-## Physical geography — the basin, the terraces, and the deep
+## Physical geography — the river mouth, the cliffs, and the deep
 
-**The basin and the cliffs.** **[loose — built on Petra]** Like Petra, Maalm sits in a
-**desert basin ringed by sandstone cliffs,** reached through a **narrow, defensible gorge**
-(a Siq). The cliffs are **honeycombed** — the **Amseh tombs of the
-[Valley of the Kings](../encounters/valley-of-the-kings.md)** are cut into them, and much of
-the city is **carved rock** rather than built. The bare highland rock above is the
-**catchment:** it sheds every rare rain straight into the channels.
+**The cliff-girt river mouth — reconciling David's two maps.** **[settled]** Maalm is a
+**built city of colossal brick.** David's city plan is the **Castello Plan of New
+Amsterdam:** a dense walled port of block-on-block brick — harbour, canal, gardens, and a
+**four-pointed star fortress** (the founders' quarter, above). It stands on the **delta
+where the dead river once met the sea** — the old **river mouth,** at the foot of the
+**Troltiggen highlands.** It is **not carved from rock;** the carving is the **tombs,
+upstream.** David's hand-drawn regional map supplies what the plan omits: the peninsula's
+seaward rim is **huge black sea-cliffs** — the nesting **colonies of the sacred seabirds**
+(the guano) and the city's **natural rampart.** The two maps reconcile cleanly: **the plan
+is the built delta; the terrain map is the cliffs around it.**
+
+**The approach and the defence — no Siq.** **[settled]** The old Petra
+**basin-reached-by-a-gorge** framing is retired. The party comes **down the dead riverbed
+from the south** — out of the Troltiggen, where the **[Valley of the Kings](../encounters/valley-of-the-kings.md)**
+is cut into the highland cliffs, a **separate place upstream** — and **looks down** on the
+cliff-rimmed peninsula and the green city at the mouth (see
+[the handout](../handouts/the-dry-river-to-maalm.md)). Maalm is defended not by a Siq but
+by its **sea-cliffs, its brick walls, the harbour it commands, and the star-fortress
+citadel.** The **highlands upstream are the catchment,** shedding the rare rain into the
+dead river whose flash floods the city still harvests (see
+[the drying note](the-drying-of-the-valley.md)).
 
 **The oasis — green within, dead without.** **[settled]** Despite the desert, Maalm is
 **lush** — an **engineered oasis** fed by kilometres of **underground water
 infrastructure** (the cisterns and channels below) and **guano fertility.** Picture
-**manicured fruit trees a thousand years old, ancient vines smothering the carved-rock
+**manicured fruit trees a thousand years old, ancient vines smothering the brick
 facades, perfectly tended gardens in every home.** That standing canopy makes its **own
 cool, damp microclimate** — and with the **sea breeze** off the peninsula it keeps the
 city green where the land has no business being. So the green **stops abruptly at the
