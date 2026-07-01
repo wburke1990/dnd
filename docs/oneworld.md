@@ -194,6 +194,14 @@ rg -oc '<new SBx GUID>'    <save>   # each = 2 (token + JotBase line)
   position manifest (a dangling manifest entry can itself break the
   build), or rehost the bundle. Harden keepers with `tts assets backup` /
   `tts assets rehost` — see [tts-asset-debug.md](tts-asset-debug.md).
+  Repointing a *texture* is self-propagating in-game: TTS de-dups custom
+  assets by URL, so editing one object's Diffuse/Image URL in TTS
+  auto-updates **every** object that shared the old URL. Fixing one brick
+  wall re-skinned all 83 at once — no save edit or per-object work needed
+  (confirmed live on the "Brick bar" tavern import). So for a shared dead
+  *texture*, the fastest fix is often to hand the user a working image URL
+  and have them edit a single piece; reserve the save-level batch edit for
+  dead *meshes/assetbundles*, which don't self-propagate the same way.
 - **Stay prompt-free.** The TTS install dir
   (`/Users/wcb/Library/Tabletop Simulator`) is whitelisted in
   `.claude/settings.json` → `permissions.additionalDirectories`, so
