@@ -518,39 +518,30 @@ NPC wouldn't say aloud:** Setha's drowned diggers, Calix's demon-toad, Doruk's
 Company paymaster, Issa's death-cult rite — all DM-side. These are the lines the
 crew hands the party over a drink; the horror is what's underneath them.*
 
-### The bartender — a Letap satyr, on the mural
+### The bartender — a Letap satyr, at the bar
 
-*His founding-story monologue lives in
-[`maalm-founding.md` → The Bartender's Story](../lore/maalm-founding.md); these are
-the shorter beats for when the party is drinking, ordering, and looking up at the
-wall. Same voice: measured, dry, unhurried — the goat-legs and the wine-god
-easiness under a gravekeeper's patience. He points left to right without looking,
-because he's told it ten thousand times.*
+*The mural is up on the wall for the players to look at — he doesn't narrate the
+picture. When the party asks him to *tell* it, he gives the full founding-story
+monologue in
+[`maalm-founding.md` → The Bartender's Story](../lore/maalm-founding.md). These
+are the shorter bar-side beats: the drink custom and the couple of lines that add
+what a look at the paint can't. Same voice: measured, dry, unhurried — the
+goat-legs and the wine-god easiness under a gravekeeper's patience.*
 
 - **Drink service / the dragonborn custom.** *"First one's free if you've got
   scales — Beowulf's rule, not mine, and a Letap doesn't argue with the dead."*
   *[to the rest]* *"The rest of you pay like everybody else. What'll it be?"*
-- **If they ask about the mural (he nods at the wall, keeps polishing).**
-  *"That? That's the whole town, on one wall. You read it like a scar — left to
-  right. Boat comes in on the black water, thirteen aboard. The big one with the
-  scales, that's Beowulf. The ruins ahead of them — that's what Maalm was before
-  it was Maalm. Nothing. Sand and old bones."*
-- **Middle panel.** *"There — where the ground opens. That's Ammit coming up.
-  Crocodile at the front, lion in the middle, hippo behind. Painter made her
-  big on purpose; she was bigger. See how the scaled one's stepped out ahead of
-  his people? He told them to hold. He went down to her alone. That's the last
-  anyone painted him standing."*
-- **Right panel.** *"And there's the end of it. Count them — twelve. He's not in
-  it. They couldn't carry the beast up, couldn't leave him down there with her,
-  so they buried him in the sun and laid the first stones over the rest. You're
-  drinking on top of the both of them right now."*
+- **If they ask what it is** — he tells the founding story (linked above),
+  unhurried, polishing a glass, and lets it land on: *"...so they buried him in
+  the sun and built the city over the rest. You're drinking on top of the both of
+  them right now."*
 - **If pushed on why the paint's so worn.** *"It's older than your grandmother's
   grandmother, and nobody's touched it up. You don't fix a thing like that. You
   let it wear. That's how you know it's true — a lie gets repainted."*
-- **Closing a mural beat / turning them back to the room.** *[a nod toward the
-  two loud tables]* *"Now — you want the old dead, that's the wall. You want the
-  fresh trouble, that's those two crews at each other's throats over there. Both
-  came in off the Valley same as you. Drink's the same price for stories."*
+- **Turning them back to the room.** *[a nod toward the two loud tables]* *"Now —
+  you want the old dead, that's the wall. You want the fresh trouble, that's those
+  two crews at each other's throats over there. Both came in off the Valley same
+  as you. Drink's the same price for stories."*
 
 ### The Lapis Writ — the ones who won
 
