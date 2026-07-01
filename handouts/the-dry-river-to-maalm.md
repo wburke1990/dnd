@@ -33,8 +33,8 @@ course on course.
 Past the city the coastal cliffs are streaked chalk-white and hung with slow,
 turning clouds of seabirds. Beyond them lies the flat shine of the open sea, and
 along the waterline the thin vertical strokes of ships' masts. Set apart within
-the city, walled off on its own ground, stands the oldest and darkest stand of
-trees, taller than all the rest.
+the city, behind the angled points of a star-shaped fortress walled off on its own
+ground, stands the oldest and darkest stand of trees, taller than all the rest.
 
 At the foot of the slope, where the last of the dry riverbed runs out onto the
 plain, a paved road begins, running north to the gate.

@@ -23,8 +23,10 @@ Discord brainstorm. Companion to the deep-history piece
 
 - The founders' quarter is the **four-pointed star fortress** in the **walled northern
   section of the city plan** — a **bastion fort:** gated, gardened, set apart on its own
-  ground. **[settled]** (Very likely the same **citadel** that holds the council and, beside
-  it, Preem's tower — see "The citadel & the tower" below; `[confirm]`.)
+  ground. **[settled]** It **is the citadel** — the same star fort holds the **council** and,
+  beside it, **Preem's tower** (see "The citadel & the tower" below). **[settled]** So the
+  founders' quarter, the seat of government, and Preem's perch are **one walled fortress:**
+  power, blood, and water all behind the same gate.
 - It is a **gated community of the founder-blood elves** — the **oldest families,
   who descend from the Twelve** (Bedraageon's companions who raised Maalm over the
   ruins; see [the founding](maalm-founding.md)). This is the hereditary
@@ -65,10 +67,10 @@ Discord brainstorm. Companion to the deep-history piece
 
 ## The citadel & the tower
 
-- The **citadel space** on the Maalm map holds the council and, beside it, the
-  **square building** that is **Preem's tower.** A wizard residing in a place of
-  power like this *should* raise eyebrows — and is meant to (see
-  [The Second Foundation](the-second-foundation.md)). **[settled]**
+- The **citadel is the four-pointed star fortress** of the founders' quarter (above). Within
+  it sit the **council** and, beside it, the **square building** on the plan that is
+  **Preem's tower.** A wizard residing in a place of power like this *should* raise eyebrows
+  — and is meant to (see [The Second Foundation](the-second-foundation.md)). **[settled]**
 
 ## Physical geography — the river mouth, the cliffs, and the deep
 
