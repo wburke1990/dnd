@@ -6,7 +6,7 @@ still sing of, and died far from anyone. Where one of them fell, his
 people raise a **watch-stone** — a standing stone or rough statue facing
 the water, often over an empty grave — and passing wanderers keep the
 watch a while before sailing on. Seeded by the 6/19/26 backstory chat
-(the "mythological wandering dragonborn"); the **Beowulf** grave under
+(the "mythological wandering dragonborn"); the **Bedraageon** grave under
 [Maalm](maalm-founding.md) is the eldest instance, and the orphan
 [Requiem](../handouts/requiem.md) grave now belongs to one of them.
 
@@ -32,7 +32,7 @@ Carthage/Tunisia mold — the conquerors salted the earth and massacred the
 inhabitants, but **survivors cling on in hidden coves and cliffside caves**,
 integrated with local peoples and half-forgotten. **Lost tribes of dragonborn,
 scattered to the far corners** — a find-the-lost-tribes quest that rhymes with
-both **Beowulf's** fruitless search ([maalm-founding.md](maalm-founding.md)) and
+both **Bedraageon's** fruitless search ([maalm-founding.md](maalm-founding.md)) and
 the **children-of-Taniyn** cosmology. The **Muspel "missing fleet"** that sailed
 **north toward the lost colonies** ([the Muspel empire §5](the-muspel-empire.md))
 points straight at this seam. **[loose — offered, not locked]**
@@ -76,7 +76,7 @@ points straight at this seam. **[loose — offered, not locked]**
   growing; arguing the "true" telling over drinks *is* the devotion.
   **[settled — per chat]**
 
-## The Eldest — Beowulf
+## The Eldest — Bedraageon
 
 The progenitor and the template: a dragonborn who crossed the water alone
 (well — twelve companions, none of them his people), went down into the
@@ -106,7 +106,7 @@ ones reuse poems already in the repo; the rest are flagged).
   *This penance-through-deeds shape is the one that gets under Blackacre's
   skin* — it's his own situation in legend.
 - **Death & watch-stone:** old, hunting the one beast that had once
-  bested him; found, like Beowulf, **locked with it in the embrace of
+  bested him; found, like Bedraageon, **locked with it in the embrace of
   their ending.** Watch-stone on a windward headland (placement TBD —
   near Lonka works, to put it on Blackacre's road).
 - **Inscription:** Stevenson's **"Requiem"** — *"Home is the sailor, home
@@ -231,7 +231,7 @@ growing to associate with them.** How to run it:
   out there.
 - Resolve how this faith relates (if at all) to the **zealots'** religion
   and to the broader **Ragnarok / Second Foundation** mythology the
-  dragonborn Beowulf is tied into
+  dragonborn Bedraageon is tied into
   ([the-second-foundation.md](the-second-foundation.md)).
 
 ## See also
@@ -242,7 +242,7 @@ growing to associate with them.** How to run it:
   whose dead become these saints.
 - [lore/taniyn-and-lonka.md](taniyn-and-lonka.md) — the creation myth; the
   saints' endless roaming *is* the nomad worship of Taniyn.
-- [lore/maalm-founding.md](maalm-founding.md) — Beowulf, the Eldest
+- [lore/maalm-founding.md](maalm-founding.md) — Bedraageon, the Eldest
   Wanderer, and his grave.
 - [handouts/requiem.md](../handouts/requiem.md) — Idris's grave
   inscription.

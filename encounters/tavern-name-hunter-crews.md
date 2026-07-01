@@ -194,7 +194,7 @@ the players to look at; he doesn't narrate the picture.
 
 **Hook lines.**
 - *Drink service / the dragonborn custom.* *"First one's free if you've got
-  scales — Beowulf's rule, not mine, and a Letap doesn't argue with the dead."*
+  scales — Bedraageon's rule, not mine, and a Letap doesn't argue with the dead."*
   *[to the rest]* *"The rest of you pay like everybody else. What'll it be?"*
 - *If they ask what the mural is* — he tells the founding story unhurried,
   polishing a glass, and lets it land on: *"...so they buried him in the sun and
@@ -209,7 +209,7 @@ the players to look at; he doesn't narrate the picture.
   as you. Drink's the same price for stories."*
 
 **In conversation — the mural.** His full founding-story monologue (the whole
-Beowulf-and-Ammit tale, told in his measured voice) lives in
+Bedraageon-and-Ammit tale, told in his measured voice) lives in
 [`maalm-founding.md` → The Bartender's Story](../lore/maalm-founding.md) — that's
 what he gives if the party ask him to *tell* it. No secrets here: the bartender's
 deep story is entirely player-facing.

@@ -65,7 +65,7 @@ now hold as **Jotunheim**. That whole arc lives in
   found (and lose) the **"lost tribes"** (dragonborn colonies ruined,
   hidden in coves — see [floating-fleet.md](floating-fleet.md)). That reads
   naturally as **her children flung to the far corners**, and dovetails with
-  the Beowulf story of a wanderer searching for *"other dragonborn survivors
+  the Bedraageon story of a wanderer searching for *"other dragonborn survivors
   of the same catastrophe"* ([maalm-founding.md](maalm-founding.md)). Note
   the **split**: the *Punic War* (Hannibal) belongs to the orc Muspel
   war-state, not the dragonborn (see [the Muspel empire](the-muspel-empire.md)).

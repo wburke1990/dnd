@@ -1,6 +1,6 @@
 # The Vision of the Future — Tomb Inscription (Player Handout)
 
-*An in-world inscription for a temple at the grave of a divination wizard — the seer who "dipt into the future." Verbatim, line breaks preserved. (See the other grave inscriptions in [handouts/](.) and the [Beowulf grave in Maalm](../lore/maalm-founding.md).)*
+*An in-world inscription for a temple at the grave of a divination wizard — the seer who "dipt into the future." Verbatim, line breaks preserved. (See the other grave inscriptions in [handouts/](.) and the [Bedraageon grave in Maalm](../lore/maalm-founding.md).)*
 
 *Real-world source: Alfred, Lord Tennyson, "Locksley Hall."*
 

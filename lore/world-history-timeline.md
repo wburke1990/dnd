@@ -155,7 +155,7 @@ hindquarters — dwells in the dark tunnels beneath the dead city, the tombs sea
 with their records intact. This is the world at its lowest ebb: the Bleeding Star
 has thinned the land and scattered or drowned what peoples remained, and the comet
 has **not yet returned** to raise new ground from the sea. The age runs the better
-part of a thousand years, until Beowulf.
+part of a thousand years, until Bedraageon.
 
 *Sources: [Amseh dynasty](amseh-dynasty.md), [Maalm founding](maalm-founding.md).*
 
@@ -165,24 +165,24 @@ part of a thousand years, until Beowulf.
 
 > **The hinge of the timeline.** Maalm is founded in the trough of the Dark Age,
 > *before* the comet's ~4,000-ya return begins raising Musleheim and the new
-> islands. That ordering is the point: Beowulf searches an empty, land-poor world
+> islands. That ordering is the point: Bedraageon searches an empty, land-poor world
 > and finds no other dragonborn **because the lands that will one day shelter
 > scattered survivors do not yet exist.** He is, in the cruelest sense, about a
 > century too early — the world starts to heal almost as soon as he's buried.
 
-- **Beowulf's arrival.** A dragonborn wanderer named **Beowulf** — a **master mariner** whose
+- **Bedraageon's arrival.** A dragonborn wanderer named **Bedraageon** — a **master mariner** whose
   **one-of-a-kind, thirteen-berth** lashed voyaging ship (double Sam's six; see [technology &
   trade](technology-and-trade.md)) was the only hull that could cross the empty sea — arrives
   searching for other survivors of the catastrophe, with **twelve companions — elves and men.** He finds no other dragonborn — there is, as yet, nowhere for
   them to have survived. The company settles on the Amseh ruins, and Ammit rises to
   destroy them.
-- **The mutual ending.** Beowulf descends alone into the dark and does not return;
+- **The mutual ending.** Bedraageon descends alone into the dark and does not return;
   the company finds him and Ammit below, **locked together in the embrace of their
   ending.** The Twelve lay the first stones and build **Maalm** atop both the dead
-  empire *and* the place where Ammit sleeps. Beowulf is buried under a flat marker
+  empire *and* the place where Ammit sleeps. Bedraageon is buried under a flat marker
   in the central plaza.
 - **The living tradition.** To this day the **first drink is free in every tavern in
-  Maalm,** in Beowulf's honor. The elves among the Twelve become the **old elite
+  Maalm,** in Bedraageon's honor. The elves among the Twelve become the **old elite
   families** of the conquest-city.
 
 *Sources: [Maalm founding](maalm-founding.md), [Maalm, the elven stronghold](maalm-the-elven-stronghold.md), [campaign overview §5](campaign-overview.md).*
@@ -210,7 +210,7 @@ engine — see §VI.*
 
 ### The Wandering Saints
 A dragonborn maritime religion venerating solitary wandering heroes, each a retelling
-of Beowulf's archetype, each marked by a coastal **watch-stone**:
+of Bedraageon's archetype, each marked by a coastal **watch-stone**:
 - **Idris the Tide-Strong** (Heracles-type) — monster-hunter who died locked with his last beast.
 - **Anzar the Island-Fisher** (Maui-type) — fished volcanic islands up from the deep; drowned pulling up one too many.
 - **Wazzan the Laughing** (Coyote-type) — trickster, pirates' favorite; three islands claim his grave.

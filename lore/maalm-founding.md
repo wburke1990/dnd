@@ -1,20 +1,17 @@
 # Maalm: The Founding Story
 
-> ⚠️ **Rename in progress — Beowulf → Bedraageon `[6/30 brainstorm]`.** The founder
-> is being renamed from **Beowulf** to **Bedraageon** (via an intermediate
-> "Bewaalf"). This file **still uses "Beowulf" throughout** and has not been swept;
-> the new civic-heart writeup ([Bedraageon Square](bedraageon-square.md)) uses the
-> new name. His grave/plaza is now **[Bedraageon Square](bedraageon-square.md)** —
-> which also flags a design tension: the brainstorm makes the grave a **fountain
-> with a plaque,** whereas Layer One below deliberately keeps it a **humble flat
-> marker** (the reveal lives in the tavern). Confirm the name is final before the
-> rename propagates through the ~13 files that mention Beowulf.
+> **Founder renamed — Beowulf → Bedraageon `[6/30, final]`.** The city's founder,
+> written **Beowulf** in older notes, is now **Bedraageon** (this file and the
+> corpus have been swept). His grave and plaza are
+> **[Bedraageon Square](bedraageon-square.md)**, where a **fountain** stands and
+> the **grave-plaque lies flat on the ground beside it** — the humble marker is
+> deliberate (see Layer One); the reveal lives in the tavern, not the plaza.
 
 ## 1. What Happened
 
 A great Egyptian-inspired empire once stood on this ground. Its final kings, desperate and corrupt, sacrificed their own children in the face of a catastrophic climate collapse. The empire starved to death anyway. In the ruins beneath, Ammit — the Egyptian devourer goddess, part crocodile, part lion, part hippopotamus, who consumes unworthy souls — took up permanent residence, gorged and maddened by a thousand years of condemned dead, and the uneaten hearts of ten thousand innocent children.
 
-The better part of a thousand years later — while the world was still at its emptiest, before the comet's return had begun raising new land from the sea — a Dragonborn wanderer named Beowulf arrived by boat with twelve companions — elves and men — searching for other Dragonborn survivors of the same catastrophe. Beowulf was a **master mariner** in the great no-nail tradition of the dragonborn (think the Pacific Islanders), and his ship was **one of a kind** — a lashed voyaging craft that could carry **thirteen**, more than double the **six** of the standard dragonborn boat that [Sam's people](floating-fleet.md) still sail by the same craft thousands of years later (see [technology & trade](technology-and-trade.md)). Only a hull like his could have crossed the empty sea at all. He found none: the lands that would one day shelter scattered survivors did not yet exist. When his company settled on this ground, Ammit rose from the ruins to destroy them. Beowulf descended alone into the dark to face her. He did not return. His companions found the two of them below, locked together in the embrace of their ending. They built the city of Maalm above them both.
+The better part of a thousand years later — while the world was still at its emptiest, before the comet's return had begun raising new land from the sea — a Dragonborn wanderer named Bedraageon arrived by boat with twelve companions — elves and men — searching for other Dragonborn survivors of the same catastrophe. Bedraageon was a **master mariner** in the great no-nail tradition of the dragonborn (think the Pacific Islanders), and his ship was **one of a kind** — a lashed voyaging craft that could carry **thirteen**, more than double the **six** of the standard dragonborn boat that [Sam's people](floating-fleet.md) still sail by the same craft thousands of years later (see [technology & trade](technology-and-trade.md)). Only a hull like his could have crossed the empty sea at all. He found none: the lands that would one day shelter scattered survivors did not yet exist. When his company settled on this ground, Ammit rose from the ruins to destroy them. Bedraageon descended alone into the dark to face her. He did not return. His companions found the two of them below, locked together in the embrace of their ending. They built the city of Maalm above them both.
 
 Dragonborn get their first drink free in every tavern in Maalm. Nobody makes a fuss about it.
 
@@ -24,11 +21,11 @@ Dragonborn get their first drink free in every tavern in Maalm. Nobody makes a f
 
 ### Layer One — The Grave
 
-In the center of Maalm's main plaza lies a flat grave marker, flush with the ground. No elevation, no grandeur. Easy to walk past. The following is carved into the stone:
+In the center of Maalm's main plaza — **[Bedraageon Square](bedraageon-square.md)** — a fountain stands, and set flat on the ground beside it lies the grave-plaque, flush with the stone. No elevation, no grandeur. Easy to walk past. The following is carved into it:
 
 > *"Now, earth, hold what earls once held and heroes can no more; it was mined from you first by honourable men. My own people have been ruined in war; one by one they went down to death, looked their last on sweet life in the hall. I am left with nobody to bear a sword or burnish plated goblets, put a sheen on the cup. The companies have departed. The hard helmet, hasped with gold, will be stripped of its hoops; and the helmet-shiner who should polish the metal of the war-mask sleeps; the coat of mail that came through all fights, through shield-collapse and cut of sword, decays with the warrior. Nor may webbed mail range far and wide on the warlord's back beside his mustered troops. No trembling harp, no tuned timber, no tumbling hawk swerving through the hall, no swift horse pawing the courtyard. Pillage and slaughter have emptied the earth of entire peoples."*
 >
-> *Beowulf. Dragonborn.*
+> *Bedraageon. Dragonborn.*
 
 Most players will read it, find it moving, and move on. The grave tells them almost nothing. The tavern tells them everything.
 
@@ -36,7 +33,7 @@ Most players will read it, find it moving, and move on. The grave tells them alm
 
 The oldest tavern in Maalm is called The Twelve. On its longest wall hangs a continuous mural that reads left to right like a frieze:
 
-**Far left** — a boat on dark water. Beowulf stands tall among twelve companions. The half-buried skyline of a ruined empire rises ahead of them.
+**Far left** — a boat on dark water. Bedraageon stands tall among twelve companions. The half-buried skyline of a ruined empire rises ahead of them.
 
 **Moving right** — they have landed. The ruins loom behind them. The twelve are gathered. Ammit erupts from the earth before them — enormous, crocodile jaws stretched wide, lion forelimbs braced against the ground, hippopotamus haunches coiling out of the darkness below.
 
@@ -46,7 +43,7 @@ The oldest tavern in Maalm is called The Twelve. On its longest wall hangs a con
 
 *"You've never heard the story?*
 
-*Beowulf came over the water with twelve companions. He was looking for his people — other Dragonborn. Never found them.*
+*Bedraageon came over the water with twelve companions. He was looking for his people — other Dragonborn. Never found them.*
 
 *What he found was this place.*
 
@@ -56,7 +53,7 @@ The oldest tavern in Maalm is called The Twelve. On its longest wall hangs a con
 
 *Head of a crocodile. Body of a lion. Haunches of a hippo. She'd been down there a thousand years, feeding on the dead the old empire left behind.*
 
-*When she came up, Beowulf told the others to stay put and went down alone.*
+*When she came up, Bedraageon told the others to stay put and went down alone.*
 
 *They waited.*
 
@@ -64,7 +61,7 @@ The oldest tavern in Maalm is called The Twelve. On its longest wall hangs a con
 
 *Finally the twelve went after him. Found them below. Both dead. Both still holding on.*
 
-*Couldn't carry the beast out. Couldn't leave Beowulf down there. So they carried him up, buried him in the sun, and built the city over the rest.*
+*Couldn't carry the beast out. Couldn't leave Bedraageon down there. So they carried him up, buried him in the sun, and built the city over the rest.*
 
 *That's why Dragonborn drink free here. First one's on us.*
 

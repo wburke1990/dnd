@@ -110,7 +110,7 @@ demise of the valley kings.** **[settled]**
 - The ancient valley kings (the **Amseh** dynasty) died with their empire in
   the last Ragnarok. The better part of a thousand years later — the world still
   emptied, before the comet's return had begun raising new land — the **Dragonborn
-  Beowulf** and his twelve companions — **elves and men** — arrived and founded
+  Bedraageon** and his twelve companions — **elves and men** — arrived and founded
   Maalm over the ruins (see [Maalm: The Founding Story](maalm-founding.md)).
 - The **elves among those founders and the old families who followed** became
   Maalm's elite — the deep-rooted old guard of the gated upper city (see

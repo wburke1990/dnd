@@ -7,12 +7,9 @@
 > brainstorm**. Legend: `[settled]` agreed · `[loose]` floated · `[OPEN]` still to
 > decide · 🔒 a secret the players don't have yet.
 >
-> ⚠️ **Rename in progress — Beowulf → Bedraageon.** The Dragonborn founder of
-> Maalm (whole story in [maalm-founding.md](maalm-founding.md)) is being renamed
-> from **Beowulf** to **Bedraageon** (via an intermediate "Bewaalf"). This file
-> uses the new name; the rest of the corpus (~13 files) still says **Beowulf**
-> and has **not** been swept yet. Confirm the name is final before the rename
-> propagates.
+> **Founder's name — Bedraageon `[6/30, final]`.** The Dragonborn founder of Maalm
+> (whole story in [maalm-founding.md](maalm-founding.md)), written **Beowulf** in
+> older notes, is now **Bedraageon** — the corpus has been swept.
 
 ---
 
@@ -29,23 +26,19 @@ the tower on or just off it. `[OPEN]` — tidy the exact geography if needed.)*
 
 ---
 
-## 2. Bedraageon's grave — the fountain & the plaque `[settled — brainstorm]`
+## 2. Bedraageon's grave — the fountain & the plaque `[settled — 6/30]`
 
-At the heart of the square is **Bedraageon's grave: a fountain with a plaque.**
-The plaque carries the founder's epitaph — the "lay of the last survivor"
-inscription quoted in full in [maalm-founding.md](maalm-founding.md) (Layer One),
-now attributed to **Bedraageon. Dragonborn.**
+At the heart of the square stands a **fountain,** and **set flat on the ground
+beside it lies the grave-plaque** — flush with the stone, no elevation, easy to
+walk past. The plaque carries the founder's epitaph — the "lay of the last
+survivor" inscription quoted in full in [maalm-founding.md](maalm-founding.md)
+(Layer One), now attributed to **Bedraageon. Dragonborn.**
 
-> ⚠️ **Design tension to resolve (`[OPEN]`).** [maalm-founding.md](maalm-founding.md)
-> deliberately makes the grave a **flat marker, flush with the ground, easy to
-> walk past** — *no grandeur* — because the reveal is meant to live in **the
-> tavern (The Twelve), not the plaza**: "the grave tells them almost nothing; the
-> tavern tells them everything." A **fountain** adds exactly the grandeur that
-> design was avoiding. Ways to square it: (a) keep the humble flush marker **and**
-> add the fountain nearby as ordinary civic dressing; (b) make the fountain itself
-> plain and the plaque understated, so it still reads as "easy to miss"; or
-> (c) let the fountain replace the flat marker and re-tune the reveal. Left for
-> David.
+This resolves the earlier fountain-vs-humble-marker question: **the fountain is the
+square's centerpiece; the grave itself stays a humble ground-marker beside it,** so
+the reveal still lives in the tavern (The Twelve), not the plaza — "the grave tells
+them almost nothing; the tavern tells them everything"
+([maalm-founding.md](maalm-founding.md)).
 
 ---
 

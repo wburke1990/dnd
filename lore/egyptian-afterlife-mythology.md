@@ -312,7 +312,7 @@ The empty thrones in Tomb 4 are the theological statement of the dynasty's end: 
 Kethara remained in the valley. The gods did not.
 
 **Ammit and Maalm:**
-Ammit took up permanent residence in the ruins beneath what is now Maalm after a thousand years of condemned dead and the uneaten hearts of ten thousand innocent children. The founding of Maalm is directly connected to Egyptian afterlife mythology — Beowulf fought the maddened devourer goddess and the city was built above them both.
+Ammit took up permanent residence in the ruins beneath what is now Maalm after a thousand years of condemned dead and the uneaten hearts of ten thousand innocent children. The founding of Maalm is directly connected to Egyptian afterlife mythology — Bedraageon fought the maddened devourer goddess and the city was built above them both.
 
 The party walks on ground where Ammit sleeps. Or sleeps and something else, now. This has not yet been made explicit to them.
 

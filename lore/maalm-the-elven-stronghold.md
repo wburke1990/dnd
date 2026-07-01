@@ -16,7 +16,7 @@ Discord brainstorm. Companion to the deep-history piece
   the demise of the valley kings** (the ancient **Amseh** dynasty whose tombs
   fill the [Valley of the Kings](../encounters/valley-of-the-kings.md)). They
   trace back to the **founding of Maalm**: the elves among the Dragonborn
-  **Beowulf's** twelve companions, and the old families who followed them in.
+  **Bedraageon's** twelve companions, and the old families who followed them in.
   **[settled]** (See [Maalm: The Founding Story](maalm-founding.md).)
 
 ## The gated upper city — the founders' quarter
@@ -24,7 +24,7 @@ Discord brainstorm. Companion to the deep-history piece
 - The **walled northern section of the Maalm map** is **all gated, with gardens.**
   **[settled]**
 - It is a **gated community of the founder-blood elves** — the **oldest families,
-  who descend from the Twelve** (Beowulf's companions who raised Maalm over the
+  who descend from the Twelve** (Bedraageon's companions who raised Maalm over the
   ruins; see [the founding](maalm-founding.md)). This is the hereditary
   aristocracy. **[settled]**
 - **The line is descent, not species.** Elf-ness alone does not buy the gate —
@@ -111,13 +111,13 @@ transport and cooling, **not** the precious fresh water, which stays underground
 **The deep — the tunnels and Ammit's tomb.** **[settled core, [loose] detail]** Maalm's
 water does not stand in open pools to **evaporate;** it runs and rests **underground,** in the
 **extensive tunnels beneath the city** — the same tunnels that hold **[Ammit's tomb](maalm-founding.md)**
-(Beowulf's *mutual ending* with the beast; the Twelve raised Maalm over it), reaching down into
+(Bedraageon's *mutual ending* with the beast; the Twelve raised Maalm over it), reaching down into
 the **Abyss tunnel-network that honeycombs Nila** ([house rules](house-rules-and-world-mechanics.md)).
 - **The hidden cisterns are down there.** That is *why* they are hidden and deadly: reaching one
   means **entering the labyrinth** — the dark, the easy death of getting lost, the
   cistern-keepers' guards, and below it all the forbidden reaches of the **Abyss and its
   demons.** To approach a cistern is to approach the underworld. **[loose]**
-- 🔒 **Is Ammit dead?** The assumption is **yes** — **Beowulf killed it** (a mutual ending,
+- 🔒 **Is Ammit dead?** The assumption is **yes** — **Bedraageon killed it** (a mutual ending,
   [maalm-founding](maalm-founding.md)), and it lies **entombed** in the deep. There are **no
   sightings.** Should Ammit prove **still alive** down in the dark, that is a **major reveal,**
   not a casual fact of the setting. **[loose]**

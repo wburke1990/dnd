@@ -1,6 +1,6 @@
 # Invictus — Grave Inscription (Player Handout)
 
-*An in-world grave inscription / memorial for a dragonborn who lashed himself to the mast so he could die on his feet. Verbatim, line breaks and indentation preserved. (A companion to [Requiem](requiem.md); see [The Wandering](../lore/wandering-dragonborn.md) and the [Beowulf grave in Maalm](../lore/maalm-founding.md).)*
+*An in-world grave inscription / memorial for a dragonborn who lashed himself to the mast so he could die on his feet. Verbatim, line breaks and indentation preserved. (A companion to [Requiem](requiem.md); see [The Wandering](../lore/wandering-dragonborn.md) and the [Bedraageon grave in Maalm](../lore/maalm-founding.md).)*
 
 *Real-world source: William Ernest Henley, "Invictus."*
 

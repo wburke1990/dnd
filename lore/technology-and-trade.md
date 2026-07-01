@@ -26,7 +26,7 @@ technology.** It has come in three layers, each still partly present:
   boats,** all nail-free. A lashed hull **flexes with the waves instead of splitting, repairs
   on any beach, and never rusts** — so it was never poverty-tech but a **mastery,** and the
   dragonborn keep it **the whole way through history,** unchanged in *kind* across millennia:
-  **[Beowulf's](maalm-founding.md)** legendary **one-of-a-kind** craft carried **thirteen** at
+  **[Bedraageon's](maalm-founding.md)** legendary **one-of-a-kind** craft carried **thirteen** at
   the founding of Maalm (~4,100 ya) — he was a master mariner in the Pacific-Islander mold —
   and **[Sam's](floating-fleet.md)** standard **six-person** boat is the *same* tradition
   today. *(NB: the wandering Dragonborn are **not** the [massive halfling fleets](floating-fleet.md)

@@ -38,7 +38,7 @@
 | Amseh dynasty | 5,550–4,960 | Reckoned from the Bleeding Star (Amseh III's Yr 100) along the reign-lengths. |
 | **Bleeding Star (Ragnarok I)** | **~5,000** | **The anchor** — comet pass 2; ends Amseh, shatters Lonka, sickens Kalikhat, collapses the Bronze Age. |
 | The Dark Age | 4,960–4,100 | From the Amseh collapse to Maalm's founding — the empty trough between passes. |
-| Maalm founded (Beowulf) | ~4,100 | Set *before* the ~4,000 pass returns land, so Beowulf finds an empty world and no other dragonborn. |
+| Maalm founded (Bedraageon) | ~4,100 | Set *before* the ~4,000 pass returns land, so Bedraageon finds an empty world and no other dragonborn. |
 | Musleheim raised; Muspel empire & Iron Age begin | ~4,000 | The comet pass that builds the fire-island; nothing on Musleheim can predate it. |
 | Lonka habitable → Jotunheim resettled by Maalm elves | ~3,200 | The ~5,000 sickness finally fades, after ~2,000 years dead. |
 | Dragonborn exodus → Zealots retake Jotunheim | ~3,000 | Earliest the NW-Musleheim tunnels cool enough to walk; Jotunheim is already resettled to take. |

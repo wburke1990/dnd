@@ -64,7 +64,7 @@ approaches a hidden cistern.**
 
 - Water **runs and rests underground** (no evaporation) in the **Abyss tunnel-network that
   honeycombs Nila** — the same tunnels that hold **Ammit's tomb.**
-- 🔒 **Ammit is presumed dead** — **Beowulf killed it** (a mutual ending; the Twelve built
+- 🔒 **Ammit is presumed dead** — **Bedraageon killed it** (a mutual ending; the Twelve built
   Maalm over the tomb). **No sightings.** If Ammit is *alive* down there, that is a **big
   reveal,** not a given.
 - **The hidden cisterns are in the upper tunnels** → why approaching one is deadly: entering
@@ -113,7 +113,7 @@ approaches a hidden cistern.**
 
 - The **cistern-keeper / seabird-warden caste** — who they are, the religion around them, how
   they relate to the council and the Second Foundation.
-- 🔒 Whether **Ammit is truly dead** (presumed yes — Beowulf killed it); if alive, a big reveal.
+- 🔒 Whether **Ammit is truly dead** (presumed yes — Bedraageon killed it); if alive, a big reveal.
 - Names of the **old families** and the **council seats.**
 
 ## 9. Spatial open-questions for David's maps (annotate these, then fold back)
@@ -136,7 +136,7 @@ Locate on the maps and label:
 - [`lore/maalm-the-elven-stronghold.md`](maalm-the-elven-stronghold.md) — **primary:**
   society, politics, physical geography, the deep, reuse cycle, agricultural economy,
   eco-reveals.
-- [`lore/maalm-founding.md`](maalm-founding.md) — Ammit, Beowulf's Twelve, the founding.
+- [`lore/maalm-founding.md`](maalm-founding.md) — Ammit, Bedraageon's Twelve, the founding.
 - [`encounters/valley-of-the-kings.md`](../encounters/valley-of-the-kings.md) — the Amseh
   tombs, Ammit, the Tomb 4 "gods who do not answer" beat.
 - [`lore/amseh-dynasty.md`](amseh-dynasty.md) — the collapsed empire beneath Maalm.

@@ -202,7 +202,7 @@ The tunnel network beneath the world's surface:
 
 The wizard's tower almost certainly has a deliberate breach point in its lower levels — a controlled access point to the Abyss where bound demons can be brought to the surface under controlled conditions. This has not been confirmed but is the most logical explanation for how his operation functions at scale.
 
-Maalm specifically sits above an unusually active section of the tunnel network — the section where Ammit took up residence after the empire's collapse and where Beowulf fought her just over four thousand years ago. Whether Ammit's presence has affected the tunnel network in that area, and what remains of her after Beowulf, are open questions.
+Maalm specifically sits above an unusually active section of the tunnel network — the section where Ammit took up residence after the empire's collapse and where Bedraageon fought her just over four thousand years ago. Whether Ammit's presence has affected the tunnel network in that area, and what remains of her after Bedraageon, are open questions.
 
 ---
 
