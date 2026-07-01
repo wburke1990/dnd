@@ -1,47 +1,44 @@
 # The Dry River to Maalm
 
-> DM read-aloud (player-facing). The descent from the **Valley of the Kings**
-> down the dead riverbed to the gates of **Maalm**. Pure description — only what
-> the eye takes in. See [the drying of the valley](../lore/the-drying-of-the-valley.md)
-> and [Maalm — the elven stronghold](../lore/maalm-the-elven-stronghold.md).
+> DM read-aloud (player-facing). The descent from the **Valley of the Kings**,
+> north down the dead riverbed, to the first sight of **Maalm** on the old river
+> mouth. Pure description — only what the eye takes in. The party faces north;
+> the tombs lie behind them, further south up the valley, out of sight. See
+> [the drying of the valley](../lore/the-drying-of-the-valley.md) and
+> [Maalm — the elven stronghold](../lore/maalm-the-elven-stronghold.md).
 
 ---
 
-Behind you the two colossal kings recede into the canyon's heat-haze: the
-pharaoh, one arm thrown out across the valley floor; beside him the serpent-king,
-human to the waist, his coils sunk into the rock. Ahead, the valley floor narrows
-to a broad channel of pale, sun-cracked silt that winds down and away to the
-north. Its bed is floored with rounded stones. Petrified wood lies half-buried
-among them.
+Behind you, to the south, the two colossal kings stand smaller now at the mouth
+of the valley — the pharaoh with one arm flung out over the ground, the
+serpent-king coiled beside him — and past them the valley climbs away and out of
+sight. Ahead, to the north, the ground falls: a broad channel of pale,
+sun-cracked silt winding down and down, floored with rounded stones. Petrified
+wood lies half-buried among them.
 
-The channel descends. The banks climb to either side, and a single pale line runs
-along them at three times a tall man's height — a smooth, mineral tide-mark scored
-into the stone. Below the line the rock is bleached white; above it, raw and
-red. Salt crusts the low hollows. Nothing grows in the bed or on the banks. Far to
-the west the land rises into a brown, smoke-colored haze that blurs the whole
-horizon. To the south stand the highlands and the dark, square mouths of the
-tombs. Northward the flat bright ground runs to the edge of sight. A lone vulture
-tilts across it on stiff wings and slides out of view.
+The channel drops northward. The banks stand high to either side, and a single
+pale line runs along them at three times a tall man's height — a smooth, mineral
+tide-mark scored into the stone. Below the line the rock is bleached white; above
+it, raw and red. Salt crusts the low hollows. Nothing grows in the bed or on the
+banks. Far to the west the land climbs into a brown, smoke-colored haze that blurs
+the whole horizon. Northward the dead channel runs on, dropping and dropping,
+until the shoulders of the valley fall away and the land opens out below you.
 
-A mile. Two miles. Pale bed, bleached banks, white sky, and the stones turning
-underfoot.
+You are looking down now. Where the dry river once ran out into the sea, the
+ground flattens into a broad coastal plain, and there — spread across the old
+river's mouth — stands a city.
 
-Then the riverbed bends a last time between two great shoulders of sandstone
-cliff, and beyond the bend the color of the land changes.
+It is green. From this height it reads as a single dark canopy of trees, and
+standing up out of the canopy is the city itself: walls, towers, and stepped
+terraces built of colossal brick — blocks each the size of a wagon, laid course on
+course on course, raised by hands rather than cut from any cliff. Straight bright
+channels of water run between the rooftops and out to the shoreline.
 
-A line runs across the ground. On the near side of it: cracked pale silt. On the
-far side: green — a standing wall of it. Fruit trees in ranks, their trunks as
-thick as pillars, their crowns grown together into one unbroken canopy. Vines
-pour down the cliff faces and across the fronts of buildings cut directly into the
-rock — facade above facade, doorway above doorway, rows of carved openings
-climbing the stone and half-swallowed in leaves. Straight bright channels of water
-thread between the trees. Small figures move along them.
+Past the city the coastal cliffs are streaked chalk-white and hung with slow,
+turning clouds of seabirds. Beyond them lies the flat shine of the open sea, and
+along the waterline the thin vertical strokes of ships' masts. Set apart within
+the city, walled off on its own ground, stands the oldest and darkest stand of
+trees, taller than all the rest.
 
-Higher up, the cliffs toward the sea are streaked chalk-white and hung with slow,
-turning clouds of seabirds. Through gaps in the branches, further off, lies the
-flat shine of open water and the thin vertical strokes of ships' masts. Highest of
-all, set apart behind a wall along the clifftop, stands another crown of trees —
-taller, darker, and older than the rest.
-
-Where the last of the dry riverbed runs out at the foot of the green, a paved road
-begins.
+At the foot of the slope, where the last of the dry riverbed runs out onto the
+plain, a paved road begins, running north to the gate.
