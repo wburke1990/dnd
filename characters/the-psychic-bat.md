@@ -33,13 +33,16 @@ it, and then Preem gifts it: **[settled]**
 > *"My toad tells me that he's fond of you. Do you want a familiar for your
 > quest?"*
 
-**As played (session 1):** the bat **led the party up the tower stairs** into the
-office; only once they were inside did Preem note it was fond of **Jasper** and
-offer to let him **keep it for the year** of the quest. The mirror tell, in
-hindsight: the next crew — the
+**As played (session 1):** the bat **delivered a summons-note to each party
+member,** then **led them up the tower stairs** into the office; only once they
+were inside did Preem note it was fond of **Jasper** and offer to let him **keep it
+for the year** of the quest. The mirror tell, in hindsight: the next crew — the
 [Brass Jackals](../encounters/tavern-name-hunter-crews.md) — were led up the same
-stairs by *their* familiar, a **centipede** (see
-[Session 1](../sessions/session-01.md)). **[settled — played]**
+stairs by *their* familiar, a **centipede,** which had carried *their* summons-note
+the same way (see [Session 1](../sessions/session-01.md)). Note the difference: all
+three **murmur to their hosts,** but only Jasper *knows* his bat talks — **Calix
+hears his toad as God, Pim hears his centipede as his own drugs** — and to everyone
+else the toad and centipede stay mute. **[settled — played]**
 
 The familiar is the **closest thing to a DM-character** the party carries — a
 friendly voice in one player's head, loyal in appearance, reporting to Preem in

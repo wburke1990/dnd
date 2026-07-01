@@ -118,26 +118,34 @@ and the player isn't in on it either. Full treatment in
 ## The crew familiars — one planted quasit per group
 
 The psychic bat is one instance of a **standing tactic:** Preem seeds a
-**disguised-familiar quasit** into each group hunting names for him — a spy, and
-a hand on the tiller. Three are placed so far, each a *distinct* quasit (and all
-distinct from the invisible paymaster above). A quasit can wear **bat,
-centipede, or toad** — one motif, three faces — and each keeps a **telepathic
-bond** with its host and the same reveal arc as the bat (helpful familiar →
-wrongness → demon spying for Preem), with Demonic Restoration comedy if killed.
+**disguised-familiar quasit** into each group hunting names for him — a spy, a
+hand on the tiller, and **how he summons that crew to the tower.** Three are
+placed so far, each a *distinct* quasit (and all distinct from the invisible
+paymaster above). A quasit wears **bat, centipede, or toad,** turns **invisible,**
+and answers to Preem; all share the reveal arc (helpful familiar → wrongness →
+demon spying for Preem) and the Demonic Restoration comedy if killed. Each
+**murmurs telepathically to its own host** — but only Jasper *knows* his bat
+talks; **Calix hears his toad as the voice of God, and Pim hears his centipede as
+his own drug-addled brain.** To everyone else, and if the party probe them, the
+toad and centipede are a **mute toad and a mute bug;** the bat is the only
+acknowledged talker.
 
-- **Jasper's "psychic bat"** — in the **party.** The original; full treatment in
-  [The Psychic Bat](the-psychic-bat.md). **[settled]**
-- **Calix Vire's "blessed toad"** — in the **Lapis Writ.** Calix is a
-  true-believer, so he hears the quasit's telepathy as the **voice of God** and
-  obeys it as a prophet obeys; Preem steers his deniable instrument through it.
-  See the [tavern crews](../encounters/tavern-name-hunter-crews.md). **[loose]**
-- **Pim Riddle's "lab familiar" (a centipede)** — in the **Brass Jackals.** Preem
-  doesn't trust the foreign crew, so this one is pure **surveillance** — an
-  early-warning line on a crew already starting to suspect him (Hadda's nose).
-  Pim's mind is hollowed by his own drugs, so he dismisses the telepathic murmur
-  as the chemistry — which is exactly why Preem picked him to carry it. First
-  glimpsed in [session 1](../sessions/session-01.md), scuttling ahead to **lead**
-  the crew up to Preem's tower — it roams free, not caged. See the
+- **Jasper's "psychic bat"** — in the **party.** The overt one: Jasper knows it
+  speaks in his mind, and it **delivered a summons-note to each PC** before leading
+  them up to Preem. Full treatment in [The Psychic Bat](the-psychic-bat.md).
+  **[settled]**
+- **Calix Vire's "blessed toad"** — in the **Lapis Writ.** It **murmurs into his
+  mind and he takes it for the voice of God,** obeying as a prophet obeys — so it
+  needed **no note** to walk the Writ into the tower, the subtlest summons of the
+  three. Preem steers his deniable instrument through it. See the
+  [tavern crews](../encounters/tavern-name-hunter-crews.md). **[loose]**
+- **Pim Riddle's "lab familiar" (a centipede)** — in the **Brass Jackals.** It
+  **carried the Jackals' summons-note** and led them up in
+  [session 1](../sessions/session-01.md); it **murmurs to Pim, who blames his own
+  drugs** and never twigs the bug is real — the one host who hears his spy and
+  calls himself crazy. Preem doesn't trust the foreign crew, so it's pure
+  **surveillance** — an early-warning line on a crew starting to suspect him
+  (Hadda's nose). It roams free, not caged. See the
   [tavern crews](../encounters/tavern-name-hunter-crews.md). **[loose — 7/1]**
 
 ## The escalation roster

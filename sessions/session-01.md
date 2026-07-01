@@ -24,11 +24,12 @@ restocking his pantry.)
 
 - The party met Preem and accepted the commission to retrieve names from
   the Valley of the Kings.
-- **The party were led up the tower stairs to Preem's office by a "psychic
-  bat."** Only once they were inside did Preem remark to **Jasper** that *the bat
-  likes you,* and offer to let him **keep it for the year** of the quest — the gift
-  of a familiar that is, unknown to anyone at the table, one of Preem's **quasit**
-  spies (full treatment: [The Psychic Bat](../characters/the-psychic-bat.md)).
+- **A "psychic bat" delivered a summons-note to each party member, then led them
+  up the tower stairs to Preem's office.** Only once they were inside did Preem
+  remark to **Jasper** that *the bat likes you,* and offer to let him **keep it for
+  the year** of the quest — the gift of a familiar that is, unknown to anyone at the
+  table, one of Preem's **quasit** spies (full treatment:
+  [The Psychic Bat](../characters/the-psychic-bat.md)).
 - **Outside Preem's tower**, the party was attacked by a **rat man** —
   [Ratatat](../bestiary/the-rat-man.md), a rat-headed humanoid — who ambushed
   them in the citadel district.
@@ -104,7 +105,13 @@ restocking his pantry.)
   alchemist **Pim,** believes it's his own lab-familiar. Canonizing it means the
   party **first crossed the Jackals here, in session one** — five faces they'll meet
   again in **The Twelve** — and sets the quiet rhyme that **each crew is led up by
-  its demon:** bat in, centipede in. See
+  its demon:** bat in, centipede in. **The familiar is also how Preem summons each
+  crew:** the bat carried a note to every PC, the centipede carried the Jackals'
+  note, and the toad — subtlest of the three — just steered Calix to walk the Writ
+  in, no note at all. Each familiar **murmurs to its own host** — but Jasper knows
+  his bat talks, while **Calix takes his toad for the voice of God and Pim takes
+  his centipede for his own drug-addled brain;** probe the toad or the bug and it
+  plays mute. They watch and answer to Preem alone. See
   [Preem's demons → crew familiars](../characters/preems-demons.md) and
   [the tavern scene](../encounters/tavern-name-hunter-crews.md).
 

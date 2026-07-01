@@ -446,15 +446,20 @@ every word.
   you would. Give it time."*
 
 **DM only — what he can't tell you. 🔒** Calix is a **prophet who is really a
-puppet.** The "voice of God" is the **telepathy of his familiar** — his **pet
-toad,** which he takes for a blessed sign, in truth a **quasit** (a toad is one of
-its forms) — and the quasit is **Preem's.** Preem steers his deniable
-true-believer through it; Calix obeys as divine command, never knowing it's a
-demon or that it answers to Preem. The quasit can **scout and warn,** so the
-"voice" steers him clear of what kills his crewmates — and he reads being the
-survivor as divine favor. He makes **no big choice himself:** he **casts lots**
-(worn coins, knucklebones) at every fork and obeys the throw, and the voice
-"interprets" an ambiguous result, so Preem can tip even the coin. *The mirror:*
+puppet.** The "voice of God" in his head is the **telepathy of his familiar** —
+his **pet toad,** which he takes for a blessed sign, in truth a **quasit** (a toad
+is one of its forms), and it is **Preem's.** It murmurs only into *Calix's* mind
+and he mistakes it for God; to anyone else it's a **mute toad,** and it won't talk
+if the party probe it. Preem steers his deniable true-believer through it — Calix
+obeys as divine command, never knowing it's a demon or that it answers to Preem.
+(It was also the subtlest of Preem's three planted familiars at getting its crew
+to the tower: where the bat carried notes to the party and the centipede carried
+the Jackals' note, the toad simply *led Calix* to walk the Writ in — no note at
+all.) The quasit can **scout and warn,** so the voice steers him clear of what
+kills his crewmates, and he reads being the survivor as divine favor. He makes **no
+big choice himself:** he **casts lots** (worn coins, knucklebones) at every fork
+and obeys the throw, and the voice **"interprets"** an ambiguous result, so Preem
+can tip even the coin. *The mirror:*
 same chosen-instrument conviction as Pax, opposite reception — Pax **rejected** and
 tormented, Calix **vindicated** and untroubled. His certainty is **pure
 psychology, not cosmology** — he doesn't know what the names *do,* so he gives
@@ -664,18 +669,21 @@ before anyone clocks that the canary is dying of the air, by his own hand.
 *Preem's spy in the crew.* 🔒 That centipede is **Preem's** — a **quasit,** planted
 on the Jackals exactly as the psychic bat was planted on Jasper and the toad on
 Calix (a *third* spy-familiar, distinct from each; see
-[Preem's demons](../characters/preems-demons.md)). A quasit wears **centipede,
-bat, or toad,** turns **invisible,** and keeps a **telepathic bond,** so it comes
-and goes on its own errands — Pim reads the murmur in his head and the creature's
-wandering as the drugs and a good bug's hunting, which is exactly why Preem chose
-the crew's least reliable head to carry it: *"my bug talks to me"* is just Pim
-being Pim. Preem doesn't trust this foreign crew, so the quasit is his
-**early-warning line** on them — it hears **Hadda's** suspicions before she can
-act. *Continuity:* the party have **already seen it** — in
-[session one](../sessions/session-01.md) it scuttled ahead of the crew that came
-up to Preem's tower right after the party, **leading them in.** Clock it and the
-Jackals become a wire back to Preem, same as Calix; free or kill it (it reforms in
-the Abyss, per Demonic Restoration) and that's a live thread.
+[Preem's demons](../characters/preems-demons.md)). It's the one that **delivered
+the Jackals' summons-note** and led them up to Preem's tower in
+[session one](../sessions/session-01.md), right after the party — who **clocked
+it.** It **won't talk to anyone who'd know** — probe it and it's just a mute bug —
+but it **murmurs to Pim,** and there's the cruel joke: his mind is so hollowed by
+his own chemistry that he takes the voice for **more drug damage** and never
+guesses the bug is real. That misattribution is exactly why Preem picked him — the
+one host who *hears* his own spy and calls himself crazy. It **watches and answers
+only to Preem,** who doesn't trust this foreign crew and wants an **early-warning
+line** on them — so it's the thing that hears **Hadda's** suspicions before she can
+act. A quasit wears **centipede, bat, or toad,** turns **invisible,** and slips off
+on its own, which is why it comes and goes (Pim reads that, too, as it out hunting
+components). Clock it and the Jackals become a wire back to Preem, same as Calix;
+free or kill it (it reforms in the Abyss, per Demonic Restoration) and that's a
+live thread.
 
 ---
 
