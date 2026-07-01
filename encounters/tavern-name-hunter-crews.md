@@ -508,6 +508,184 @@ she served one and barely got out.
 
 ---
 
+## At the table — ready lines
+
+*Pick-and-play, not a script. Each NPC below has an **intro** (when a PC
+introduces themselves or sidles up), a **drink** beat (satyr tavern — everyone's
+holding something, and it characterizes them), and a **signature line** or two
+that shows who they are without giving away what's secret. **Say nothing here the
+NPC wouldn't say aloud:** Setha's drowned diggers, Calix's demon-toad, Doruk's
+Company paymaster, Issa's death-cult rite — all DM-side. These are the lines the
+crew hands the party over a drink; the horror is what's underneath them.*
+
+### The bartender — a Letap satyr, on the mural
+
+*His founding-story monologue lives in
+[`maalm-founding.md` → The Bartender's Story](../lore/maalm-founding.md); these are
+the shorter beats for when the party is drinking, ordering, and looking up at the
+wall. Same voice: measured, dry, unhurried — the goat-legs and the wine-god
+easiness under a gravekeeper's patience. He points left to right without looking,
+because he's told it ten thousand times.*
+
+- **Drink service / the dragonborn custom.** *"First one's free if you've got
+  scales — Beowulf's rule, not mine, and a Letap doesn't argue with the dead."*
+  *[to the rest]* *"The rest of you pay like everybody else. What'll it be?"*
+- **If they ask about the mural (he nods at the wall, keeps polishing).**
+  *"That? That's the whole town, on one wall. You read it like a scar — left to
+  right. Boat comes in on the black water, thirteen aboard. The big one with the
+  scales, that's Beowulf. The ruins ahead of them — that's what Maalm was before
+  it was Maalm. Nothing. Sand and old bones."*
+- **Middle panel.** *"There — where the ground opens. That's Ammit coming up.
+  Crocodile at the front, lion in the middle, hippo behind. Painter made her
+  big on purpose; she was bigger. See how the scaled one's stepped out ahead of
+  his people? He told them to hold. He went down to her alone. That's the last
+  anyone painted him standing."*
+- **Right panel.** *"And there's the end of it. Count them — twelve. He's not in
+  it. They couldn't carry the beast up, couldn't leave him down there with her,
+  so they buried him in the sun and laid the first stones over the rest. You're
+  drinking on top of the both of them right now."*
+- **If pushed on why the paint's so worn.** *"It's older than your grandmother's
+  grandmother, and nobody's touched it up. You don't fix a thing like that. You
+  let it wear. That's how you know it's true — a lie gets repainted."*
+- **Closing a mural beat / turning them back to the room.** *[a nod toward the
+  two loud tables]* *"Now — you want the old dead, that's the wall. You want the
+  fresh trouble, that's those two crews at each other's throats over there. Both
+  came in off the Valley same as you. Drink's the same price for stories."*
+
+### The Lapis Writ — the ones who won
+
+**Setha Renk** *(half-elf; buys the round to look large, then bleeds it back in
+needles)*
+- **Intro.** *"Setha Renk, Lapis Writ — chartered, if that means anything to
+  you. Sit. Whatever they're having, it's on my tab tonight. I can afford to be
+  generous; we finished the Valley."*
+- **Drink.** The good wine, the bottle with a name, poured for the table so
+  everyone can see who's paying.
+- **Signature.** *"Four tombs, and you're still out here? We cleared the whole
+  Valley and didn't leave a single name on a wall. Careless, careless — but
+  don't take it hard. Somebody has to come second."* *(And, quieter, if a PC
+  bites back:)* *"I clawed everything I have out of people who were sure I'd
+  come second. I don't anymore."*
+
+**Doruk Pell** *(dwarf; warm, weary, the kindest voice at the worst table)*
+- **Intro.** *"Doruk. Pull up. You look like men who've been underground —
+  I know the look. Sit, sit, you don't have to talk. Let a dwarf buy you an
+  honest drink."*
+- **Drink.** Dark ale, no hurry, the mug turned slowly between two scarred
+  hands.
+- **Signature** *(to Sarric, gently, as kindness):* *"You carry it too close,
+  lad. I can see it on you. Whatever you did that you can't put down — the cause
+  carries the screams for you. That's what it's *for*. You just have to let it.
+  I sleep fine. So can you."*
+
+**Issa Quib** *(halfling; serene, still, a half-step out of life — the room feels
+a degree colder near her)*
+- **Intro.** *[a small, calm smile; she doesn't rise]* *"Issa. You can shake my
+  hand if you like. People usually only do it once."* *(Her hand is cold as
+  cellar stone.)*
+- **Drink.** Cold water, or a tea gone tepid she never finishes — warmth doesn't
+  take with her.
+- **Signature** *(to Aniess, softly):* *"You mourn what someone took from you. I
+  gave mine away — awake, on purpose, and I paid for the privilege. The quiet on
+  the other side is worth more than everything I set down for it. Stop reaching
+  back for who you were. She's not coming, and it's so much calmer once you let
+  her go."*
+
+**Bram Hale** *(human; open, likeable, the most dangerous mirror because you'll
+*want* to trust him)*
+- **Intro.** *"Bram Hale. No airs — I'm the muscle, Setha's the blood and Calix
+  is the... whatever Calix is. Here—"* *[flags the bartender]* *"—two more of
+  whatever these good people are drinking, and I'm having the same. Sit with me."*
+- **Drink.** Whatever the party's having, matched round for round, easy company.
+- **Signature** *(open, no shame in it):* *"I grew up watching big men take
+  everything that wasn't nailed down, and everyone I loved was too small to stop
+  them. So I got the lesson early: don't be small. I went and worked for the big
+  men. Best decision I ever made. You look at me like that's a sad story — it
+  isn't. Sad's the ones who *stayed* small and called it honor."*
+
+**Calix Vire** *(elf; flat, unbothered, sunglasses-cool even in a dim tavern —
+play him straight-faced Blues Brothers)*
+- **Intro.** *[doesn't look up; produces a worn coin]* *"Calix."* *[flips it,
+  reads it, pockets it]* *"...It says I'm to be civil to you. Sit down, then."*
+- **Drink.** He flips the coin for it. *"Heads, the red. Tails, the dark."*
+  *[looks]* *"The dark."* Orders it with total finality, as though God chose.
+- **Signature** *(deadpan, to Pax or anyone):* *"I'm on a mission. No, I won't
+  tell you what it is — I'm not sure the telling's permitted. I go where I'm
+  sent, I do what's set in front of me, and the ones who don't come back weren't
+  meant to. You look troubled by that. I'm not. That's the difference between a
+  man who *thinks* he's called and a man who *is*."*
+
+### The Brass Jackals — the ones it costs
+
+**Veska Tull** *(human; a burnt-out preacher's voice, still able to make you lean
+in even with the faith gone out of it)*
+- **Intro.** *"Veska. Don't let the sneering lot over there put you off — we're
+  the honest half of this room, which isn't saying much."* *[a tired, testing
+  look]* *"You came off the Valley too. So you already know nobody's paying grave
+  wages out of kindness."*
+- **Drink.** Cheap and strong, nursed slow — she makes one last.
+- **Signature** *(low, if she warms to them):* *"I used to preach. Big crowds,
+  holy fire, the whole burning business. Then I saw what the fire actually ate,
+  and I walked into the sea rather than say another word for it. And here I am
+  working for Preem." *[a dry, humorless breath]* *"Every banner's the same
+  machine, friend. Church, coin, comet — different paint, same teeth. I'd know. I
+  served one and barely crawled out."*
+
+**Hadda Vimm** *(dwarf; quartermaster, sharp-eyed, a bad feeling she can't prove)*
+- **Intro.** *"Hadda. I keep the coin and the map, so I'm the one who's sober."*
+  *[eyes the party's gear, pricing it out of habit]* *"Four tombs on that
+  outfit? You've done better than you look. Or worse. Hard to say from here."*
+- **Drink.** The cheapest thing on the board, and she watches the tab like it
+  owes her money.
+- **Signature** *(quietly, over the rim of her cup):* *"You want a rule that's
+  kept me alive? When the pay's too good, you're being paid for a risk nobody
+  will say out loud. And Preem's coin is *very* good."* *[a glance toward the
+  door, the way out]* *"I can't prove a thing. That's the trouble with a nose.
+  It's always a week ahead of the proof."*
+
+**Sefi** *(halfling; the crew's kid, thrilled by daylight, hollow-eyed by dark —
+the one the party will want to save)*
+- **Intro.** *[bright, too eager]* *"You're name-hunters too? Real ones? I'm the
+  *scout* — first one into the dark, that's me, that's my job now. I went the
+  deepest last dig. Deepest of anybody."* *(She says it like a dare and a plea at
+  once.)*
+- **Drink.** Wants whatever the grown-ups have; Hadda waters it; she pretends not
+  to notice and drinks it like it's fire.
+- **Signature** *(if the party is kind, the bravado thins):* *"...Do the mummies
+  ever — no. Never mind. It's just a job. Riska used to say that. She had my seat
+  before me."* *[quickly bright again]* *"She'd have loved how deep I got."*
+
+**Mogg** *(half-orc; the storyteller, deadpan, funnier than the situation allows,
+decent to the bone)*
+- **Intro** *(if they came in on his saga, he's just landed the joke):* *"—and
+  *that's* how you lose a war and win the telling of it."* *[to the party, dry]*
+  *"Mogg. You'll want to hear the end of it, but the end costs a drink. Everything
+  worth hearing does."*
+- **Drink.** The biggest cup in the house, earned a story at a time — *"a tale
+  for a cup"* is the standing deal.
+- **Signature** *(quieter, when the room's not watching):* *"Every half-orc you
+  ever met came off the drowned fleets. My whole people, gone to the sea and the
+  torch. So I keep the stories, because a people nobody wants dead stays a people
+  by remembering its dead."* *[flexes the big hand he does the crew's ugly work
+  with]* *"And I do what a big man gets hired to do. But I *feel* every bit of it.
+  That's the part I won't sell."*
+
+**Pim Riddle** *(gnome; twitchy, self-dosed, played for a nervous laugh — and
+dying of it by his own hand)*
+- **Intro.** *"P-Pim. Pim Riddle. Alchemist — real one, or was, I— you don't want
+  the tavern's stuff, it's all vinegar and regret, here—"* *[produces his own
+  flask, then a second, checks the wrong one, swaps them]* *"—no, *that* one,
+  that one's the— never mind which."*
+- **Drink.** His own compounds, out of his own bottles, rattling in a bandolier;
+  he trusts nothing he didn't mix.
+- **Signature** *(the tic under his eye going, the sentence starting three times):*
+  *"I go down the holes s-sober, I— I can't. Can't do it. So I don't. There's a
+  bottle for down, a bottle for the hands, a bottle for the — for the dreams
+  after."* *[a shaky grin, playing it for the laugh, because the laugh is easier]*
+  *"Works every time. That's the funny part. It always works."*
+
+---
+
 ## DM levers
 
 - **The danger arc (the through-line of all three crews).** Maalm: the Writ show the
