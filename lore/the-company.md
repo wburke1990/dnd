@@ -68,8 +68,9 @@ cosmic knowledge converted into a worldly empire.
   everyone, in about a year** ([the Second Foundation §2](the-second-foundation.md)). The
   Company's coin funds and masks that plan; the profit is real, but it is **not the point.**
 - 🔒 **Preem goes further still (see §5).** The Foundation will ride out the cataclysm; its
-  First Chair wants to **own** it — to **trigger Ragnarok on demand** and **bind a
-  volcano-demon** ([the Second Foundation §4](the-second-foundation.md)) — a private heresy
+  First Chair wants to **own** it — binding a **volcano-demon** to **force the coming pass
+  to fall as a catastrophe he controls** (its timing is fixed; its outcome is not)
+  ([the Second Foundation §4](the-second-foundation.md)) — a private heresy
   stacked on top of the Foundation's already-apocalyptic plan.
 
 ---
@@ -157,8 +158,8 @@ Kalikhat, ruined half-orc families.
   **let the coming pass fall as Ragnarok** and bury everyone — including the **Kuru armies
   the Company sells to** (§2). Preem goes one step further still: he wants to **own** the
   cataclysm — *all that profit is fine,* he reasons, *but I want to control demons too* —
-  **trigger Ragnarok on demand** and **bind a volcano-demon**
-  ([the Second Foundation §4](the-second-foundation.md)). The party's wages come from the
+  binding a **volcano-demon** to **force the coming pass to fall as a catastrophe he
+  controls** ([the Second Foundation §4](the-second-foundation.md)). The party's wages come from the
   people planning the end of the world.
 
 ---

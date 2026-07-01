@@ -116,7 +116,7 @@ Amseh II's tomb is about the journey — the river of stars, the solar barque, t
 **Historical role:** Amseh III ruled for 120 years. The first century of his reign continued the prosperity of the golden age. In year 100, still in his prime, the world changed.
 
 **The Bleeding Star (Year 100):**
-A comet struck, triggering a massive volcanic eruption — the Krakatoa-analog event that reshaped the coastline, eliminated three islands, and caused a global climate collapse. The comet operates on a 1,000-year cycle. This was not the first event and would not be the last.
+A comet struck, triggering a massive volcanic eruption — the Krakatoa-analog event that reshaped the coastline, shattered Golden Lonka into a caldera, and caused a global climate collapse. (The three islands *absent* from the old tomb-map were not destroyed here — they were **raised** by the later land-building passes; see [world-history timeline](world-history-timeline.md).) The comet operates on a 1,000-year cycle. This was not the first event and would not be the last.
 
 The immediate effects:
 - Ash clouds blocking sunlight, destroying harvests

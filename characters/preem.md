@@ -151,8 +151,9 @@ ore stripped from [Suartleheim Eet](../lore/nila-atlas.md) and
   **let the coming pass fall as Ragnarok** and bury everyone — including the **Kuru
   armies the Company profits by supplying** (Kuru is no ally of the Foundation; it has
   merely been *infiltrated*). Preem wants to go further still: **own** the cataclysm —
-  *the profit is fine, but I want to control demons too* — trigger Ragnarok on demand
-  and bind a volcano-demon. The party's wages come from the people planning the
+  *the profit is fine, but I want to control demons too* — binding a volcano-demon to
+  **force the coming pass to fall as a catastrophe he controls** (its timing is fixed; its
+  outcome is not). The party's wages come from the people planning the
   apocalypse (see [the Second Foundation §6](../lore/the-second-foundation.md)).
 
 ## The demon scheme — his private heresy
@@ -164,12 +165,12 @@ This is where Preem diverges from his fellow Foundationers. **[settled]**
 - The Foundation means to *survive* the next Ragnarok. Preem means to **profit
   from it** — he has a follow-up scheme to unleash demons once the cataclysm
   hits.
-- The escalation, straight from the chat: **why wait a year for the next
-  Ragnarok — or a thousand for the one after — when you can bring it about
-  whenever you want with the right demon?** *"He wouldn't mind enslaving one
-  last demon… especially if that demon has the power to set off volcanoes."*
-  A bound **volcano-demon** lets him pull the trigger on Ragnarok on his own
-  schedule. (This squares with the world's cosmology: the last Ragnarok was a
+- The escalation: the comet's clock isn't his to move — the pass is coming within
+  the year no matter what — but **its outcome is up for grabs.** *"He wouldn't mind
+  enslaving one last demon… especially if that demon has the power to set off
+  volcanoes."* A bound **volcano-demon** lets him **force the coming pass to fall as a
+  catastrophe he masters and aims** — not merely *ride out* Ragnarok as his fellow
+  Foundationers plan, but **own** it. (This squares with the world's cosmology: the last Ragnarok was a
   **volcanic winter** that buried the Egyptian empire and raised the volcanic
   islands missing from the ancient tomb-map. See
   [the Second Foundation](../lore/the-second-foundation.md).)
@@ -256,8 +257,8 @@ The whole campaign points here. **[settled]**
 3. **Drawing the link** — a PC who connects the tower, the council, and the
    Second Foundation gets answers. This is the intended discovery of Preem's
    true role.
-4. **The volcano-demon** — the late-campaign stakes: Preem's plan to trigger
-   Ragnarok early. Jeremy's old fear made literal.
+4. **The volcano-demon** — the late-campaign stakes: Preem's plan to seize control of
+   the coming Ragnarok's outcome. Jeremy's old fear made literal.
 5. **Blackacre's letter** — Preem issued the letter of marque that brought
    [Blackacre](blackacre.md) to Maalm. Useful lever for tying that PC's arc to
    the patron.

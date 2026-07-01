@@ -11,7 +11,7 @@
 
 ## What they are
 
-A society of **men and dragonborn** who learned to **control the event** — to channel
+A society of **men and dragonborn** — in alliance with **demons** — who learned to **control the event** — to channel
 the volcanism a comet pass triggers into **growing new land out of the sea** (they
 raised the island of **Musleheim** itself this way) **instead of letting the comet
 set off civilization-ending, Krakatoa-style explosions.**
@@ -58,8 +58,9 @@ Foundations want to control it:
 
 - The **First Foundation** would handle it — grow land, avert catastrophe (the
   Muspel/Kuru tradition).
-- The **Second Foundation** (Preem) means to **trigger it early and on purpose** by
-  binding a volcano-demon with its true name.
+- The **Second Foundation** (Preem) can't move the comet's clock — but means to **force
+  the coming pass's *outcome***, binding a volcano-demon with its true name to make the
+  pass fall as catastrophe rather than be handled into land-building.
 
 🔒 **And the two orders differ in their *worldly* faces, too.** Where the First Foundation's
 craft is **celestial land-transformation** (building land from a pass), the Second Foundation

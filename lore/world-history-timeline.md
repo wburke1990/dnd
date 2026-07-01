@@ -57,8 +57,8 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 
 | Pass / event | When | What it did |
 |---|---|---|
-| 1st — Creation | ~6,000 ya | Taniyn falls; the **island of Lonka** is made — the holy dragonborn homeland (later Jotunheim); the common ancestor seeds **nearly all** races — the dragonborn are just one, arising some time after, so **most races predate the dragonborn** and do not descend from them (demons are the power apart; see the Manichean note). The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
-| 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed; **obliterates Golden Lonka into a caldera** (→ Jotunheim) and drives **Kalikhat** underground. |
+| 1st — Creation | ~6,000 ya | Taniyn falls; the **island of Lonka** is made — the holy dragonborn homeland (later Jotunheim); the common ancestor seeds **nearly all** races: the **dragonborn** arise some time after and **most races descend from them,** while a few older lineages predate the dragonborn and don't descend from them (demons alone are the power apart; see the Manichean note). The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
+| 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; **obliterates Golden Lonka into a caldera** (→ Jotunheim) and drives **Kalikhat** underground. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
 | *(the **First Foundation** founded)* | *~4,100 ya* | *Men and dragonborn **— and demons —** learn to **steer a comet-pass into controlled, land-building eruptions** rather than catastrophe; they ride the **hot spot** southeast and become the inner circle of what will be the Muspel empire (see [First Foundation](the-first-foundation.md)).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
@@ -127,8 +127,8 @@ along the reign lengths below.)*
   abundance, no crisis on the books.
 - **Amseh III, the Warrior King** *(~120-yr reign; ~5,100–4,980 ya).* A century of continued
   prosperity — then, at **Year 100, the Bleeding Star (Ragnarok I):** a comet-driven
-  Krakatoa-analog eruption. Ash blots the sun, harvests die, three islands are
-  destroyed, the Snake-Island route goes silent. Simultaneously the **Sea Peoples**
+  Krakatoa-analog eruption. Ash blots the sun, harvests die, the
+  Snake-Island route goes silent. Simultaneously the **Sea Peoples**
   — refugees of the *same* catastrophe, invading in the wake of the **pumice "rafts of
   skeletons"** (the Krakatoa debris, *not* their boats — they came in Bronze-Age ships) — strike.
   Amseh III wins the **Battle of Dijay** (a pyrrhic victory; the climate keeps

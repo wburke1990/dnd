@@ -67,14 +67,16 @@ the tie to the ancient-empire fall synthesizes existing campaign lore.]**
   controls the shape of the world to come.
 
 This is why a **volcano-demon** is the master key to Preem's endgame: volcanism
-is the engine of the cataclysm. Set off the volcanoes and you have set off
-Ragnarok — on demand, without waiting for the cycle. See **§4**.
+is the engine of the cataclysm, and a bound volcano-demon lets him **govern how the
+coming pass breaks** — driving its volcanism into a full Ragnarok rather than the
+controlled land-building the First Foundation would steer it toward. He shapes the
+*result*, not the timing. See **§4**.
 
 ### The First Foundation — and the sabotage that made the orcs
 
 The Second Foundation is not the only order to understand the cycle. The
 [**First Foundation**](the-first-foundation.md) — a society of **men and dragonborn**
-— learned that a comet pass's *outcome can be controlled:* its volcanism channeled
+(in alliance with **demons**) — learned that a comet pass's *outcome can be controlled:* its volcanism channeled
 into **building** land rather than ending the world. They raised **Musleheim** from
 the sea, formed the inner circle of the **Muspel empire**, and founded **Kuru**.
 
@@ -159,15 +161,15 @@ in brief:
   true name **he still holds.** She may resurface; he can re-bind her at will.
 - He has a **post-Ragnarok scheme** to unleash demons once the cataclysm hits —
   a follow-up the rest of the Foundation is not party to.
-- And the escalation that makes him dangerous *now*: **why wait a year for the
-  next Ragnarok when a bound demon can trigger it whenever he wants?** *"Why
-  wait 1000 years for the next Ragnarok when you can just bring it about anytime
-  you want with a demon."* A demon **with the power to set off volcanoes** is
-  the trigger. *"He wouldn't mind enslaving one last demon… especially if that
-  demon has the power to set off volcanoes."*
+- And the escalation that makes him dangerous *now*: the coming pass is only ~a year
+  out and **its timing is beyond anyone's reach** — but **its outcome is not.** A demon
+  **with the power to set off volcanoes** would let him force that pass into a full
+  Ragnarok he controls, rather than leave it to the First Foundation's steering. *"He
+  wouldn't mind enslaving one last demon… especially if that demon has the power to set
+  off volcanoes."*
 
 This is the campaign's long fuse: the patron who hired the party for a tomb
-errand is quietly assembling the means to end the world on his own schedule.
+errand is quietly assembling the means to **bend the end of the world to his will.**
 
 ## 5. The Plan for Revealing This to the Players
 
@@ -182,8 +184,9 @@ errand is quietly assembling the means to end the world on his own schedule.
 - **Layer four — the demons.** They prove a "person" in the tower is a demon
   (see [Preem's demons](../characters/preems-demons.md)).
 - **Layer five — Ragnarok.** They understand the Foundation's premise, and then
-  the worse truth: Preem doesn't intend to wait for the cataclysm. He intends to
-  **cause** it — with a bound volcano-demon.
+  the worse truth: Preem doesn't intend to merely *ride out* the cataclysm. He intends
+  to **control** it — forcing the coming pass to fall as a Ragnarok he masters, with a
+  bound volcano-demon.
 - **The climax.** The final battle hands the party the **volcano-demon's true
   name** and the choice of whether to bind it for Preem. They will have already
   rehearsed that exact horror, at human scale, in
@@ -218,8 +221,8 @@ troops, forts, and hired fleets.
   Foundation behind it plans to bury those same armies in the pass. (See
   [the Company §1–2](the-company.md).)
 - 🔒 **Preem goes further (§4).** The Foundation will *ride out* the cataclysm; its First
-  Chair wants to **own** it — trigger Ragnarok on demand and bind a volcano-demon — a
-  private heresy stacked atop the Foundation's already-apocalyptic plan.
+  Chair wants to **own** it — binding a volcano-demon to force the coming pass into a
+  catastrophe he controls — a private heresy stacked atop the Foundation's already-apocalyptic plan.
 - **The party's complicity, second floor.** [Preem](../characters/preem.md)'s pay and
   [gifts](../characters/preem.md) are **Company blood-money.** When the party traces it,
   the reveal is his line — *"Where did you think your money was coming from?"* They never
