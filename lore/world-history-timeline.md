@@ -70,7 +70,7 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 | 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VII, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
 | *(the orc sea falls — **Svolder & Hjörungavágr**)* | *~320 / ~300 ya* | *The two legendary sea-battles at the close of the raiding age break the **Muspel orcs'** command of the water — **Svolder** (orc against orc), then **Hjörungavágr** (the **Suartleheim dwarves** against the orcs), where an undersea eruption **begins raising the Kurunatukas**: the battle that broke the orc sea and the birth of the new land are one event (see [ships & sea-power](ships-and-sea-power.md)).* |
 | *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush** onto the fresh, extraordinarily rich Kurunatuka islands as the hot spot surfaces them; they grow into **client-states**, not mere colonies (see §VII).* |
-| 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation. 🔒 Preem can't move the timing, nor cause or prevent the pass — but he means to **control its *result*,** forcing this pass to fall as catastrophe rather than be handled. |
+| 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation, which means to **let it fall as Ragnarok** and ride out the wreck of its rivals — the orc tribes, the Kuru/Noku armies — unlike the **First Foundation**, who'd steer it into safe land-building. 🔒 Preem, the Foundation's First Chair, goes further than his own order: not content to merely survive the catastrophe, he means to **master** it, binding a volcano-demon to force the pass's result under his own hand. |
 
 *Sources: [campaign overview §5](campaign-overview.md), [Amseh dynasty](amseh-dynasty.md), [the Second Foundation](the-second-foundation.md).*
 
@@ -381,11 +381,15 @@ half-forgotten.
 ## VIII. The Campaign's "Now" — ~1,026 years into the current cycle 🔒
 
 - The **Second Foundation** reckons the **next Ragnarok ~1 year away.**
-- 🔒 **Preem,** the order's current **First Chair,** cannot change *when* the comet
-  passes, nor summon or prevent the pass — the ~1-year clock is fixed and outside anyone's
-  hand. What he means to control is its **outcome:** by **binding a volcano-demon with its
-  true name** he would force the coming pass into a violent, land-shattering **Ragnarok**
-  rather than let it be handled into land-building. He steers the *result*, not the timing.
+- 🔒 The wider **Second Foundation** already intends to **let** the coming pass fall as
+  Ragnarok and ride out the wreck of its rivals — the orc tribes, the Kuru/Noku armies on
+  Musleheim — rather than steer it safe the way the **First Foundation** would. **Preem,**
+  the order's current **First Chair,** cannot change *when* the comet passes, nor summon or
+  prevent it — the ~1-year clock is fixed and outside anyone's hand — but he goes further
+  than his own order: not content to merely survive the catastrophe, he means to **master**
+  it. By **binding a volcano-demon with its true name** he would seize the pass's
+  **outcome** for himself, rather than leave even the wreckage to chance. He steers the
+  *result*, not the timing.
 - 🔒 The **party is the harvest crew.** Working for Preem out of Maalm, they are
   collecting names from the **Valley of the Kings** tombs — believing them trophies.
   They are **keys**, and the party is being taught, one job at a time, what a key does
