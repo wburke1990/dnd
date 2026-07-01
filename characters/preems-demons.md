@@ -135,7 +135,9 @@ wrongness → demon spying for Preem), with Demonic Restoration comedy if killed
   doesn't trust the foreign crew, so this one is pure **surveillance** — an
   early-warning line on a crew already starting to suspect him (Hadda's nose).
   Pim's mind is hollowed by his own drugs, so he dismisses the telepathic murmur
-  as the chemistry — which is exactly why Preem picked him to carry it. See the
+  as the chemistry — which is exactly why Preem picked him to carry it. First
+  glimpsed in [session 1](../sessions/session-01.md), scuttling ahead to **lead**
+  the crew up to Preem's tower — it roams free, not caged. See the
   [tavern crews](../encounters/tavern-name-hunter-crews.md). **[loose — 7/1]**
 
 ## The escalation roster

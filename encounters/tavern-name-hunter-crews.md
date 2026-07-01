@@ -379,13 +379,34 @@ powerful,** asked no questions, and climbed job by hard job until a chartered el
 crew like the Writ was glad to have him. *(Leave the disaster vague like Jasper's,
 or pin it to the **Company's** land-clearing or a **Kuru** land-grab.)*
 
+**Sample lines — to actually charm Jasper.** His two hooks are a **shared wound**
+(oligarchs wrecked both their homes) and **total honesty** (Jasper respects people
+who hide nothing) — and none of these are lies, which is what makes them land.
+- *Recognition (open with kinship, not a pitch):* *"You've got the look — the one
+  where you count the exits even in a friendly room. I wore it for years. Who'd
+  you lose?"* … *"Earth genasi. Stone in the blood. They dig the ground out from
+  under people like us, then act surprised when one of us comes back made of it."*
+- *The reasonable poison (warm, never preachy):* *"Only thing I learned that day,
+  and it's free: the world eats the weak. Every time. You can spend your life
+  angry at the teeth — or stop being the meal. I stopped."* … *"You fight so it
+  won't happen to the next town. But it happened to the next town. And the one
+  after. The strong don't lose, friend — they just change whose name's on the
+  deed."*
+- *The closer (leave the hook, twist gently):* *"If the cause ever stops loving
+  you back — and it will, they always do — come find me. There's always work for a
+  man who's survived something."* … *"You and me started in the same hole. I'm just
+  the one who climbed out by stepping on people. Sleep on which of us is happier."*
+
 **DM only — what he can't tell you.** *The mirror:* he and Jasper are the same man
 at the fork — both survived the strong eating the weak, both completely open about
 it. But Jasper carries the guilt in the open and spends his life **fighting** the
 strong; Bram carries **no guilt at all** and **became** one of their hands. Same
-warm, honest face, opposite soul — and the party liking him *is the trap.* Sample
-charm lines built to work on Jasper:
-[`characters/bram-hale.md`](../characters/bram-hale.md).
+warm, honest face, opposite soul — and the party liking him *is the trap.*
+
+**How to play him.** Never defensive, never a recruiter. If Jasper attacks the
+cause — or Bram himself — Bram *agrees* (*"You're not wrong"*) and stays warm. The
+horror is that he's kind, honest, funny, and damned, and Jasper leaves the table
+having *enjoyed* him.
 
 #### Calix Vire — elf · Writ pathfinder *(Pax's mirror)*
 
@@ -412,6 +433,18 @@ never doubts it. The grave-work and any wreckage are just part of The Mission,
 shrugged off with a calm that plays funny right up until you realize he means
 every word.
 
+**Sample lines.**
+- *The coin, at any fork:* *[flips a worn coin, glances down]* *"We go left."* —
+  *"Don't look at me, friend. I don't make the calls. I just read them."*
+- *On the dead — crewmates, bystanders, whoever the work cost:* *"They were called
+  home. I wasn't. I wouldn't read too much into outliving me — but you can read*
+  something *into it."*
+- *On doubt and luck:* *"I don't gamble. Gambling's for men who don't know how it
+  ends. I always know how it ends."* … *"I had doubt once. Then I started winning.
+  Hard to argue with a streak."*
+- *On meeting Pax (his mirror):* *"You hear it too — the voice. No? Huh. It told me
+  you would. Give it time."*
+
 **DM only — what he can't tell you. 🔒** Calix is a **prophet who is really a
 puppet.** The "voice of God" is the **telepathy of his familiar** — his **pet
 toad,** which he takes for a blessed sign, in truth a **quasit** (a toad is one of
@@ -426,8 +459,29 @@ same chosen-instrument conviction as Pax, opposite reception — Pax **rejected*
 tormented, Calix **vindicated** and untroubled. His certainty is **pure
 psychology, not cosmology** — he doesn't know what the names *do,* so he gives
 nothing away. Clock the familiar for a demon and he becomes a quiet wire back to
-Preem — don't spend it cheaply. Full card:
-[`characters/calix-vire.md`](../characters/calix-vire.md).
+Preem — don't spend it cheaply.
+
+Every "vindication" is within a quasit's reach — a warning, a nudge, dumb luck —
+and he reads each as proof. Pull these out when the party needs to *feel* his
+certainty:
+- **The founding proof.** On an earlier dig the lots told him to climb out for
+  air, and the workings came down on everyone still below. He walked away the only
+  survivor and hasn't doubted since — *the man the cave-in spares* is half of why
+  the Writ recruited him. *(The toad sensed the bad ground; a timely nudge, no
+  shield.)*
+- **The pampered toad.** He tithes a tenth of every score *"to the one who carries
+  me,"* so **the toad eats better than the crew does,** off a little dish. He's
+  certain it's a holy sign and has **no idea** it's the literal carrier of the
+  voice — he keeps his own leash fat and content.
+- **The wedding he crashed.** A coin sent him through the wrong door into a
+  founder-family wedding; deadpan-certain he was *meant* to be there, he walked out
+  having made the exact contact the Writ needed. *"Told you."*
+- **The coin that chose a life.** At a fork with one prisoner and no time he
+  flipped for it — *heads walks, tails doesn't* — and abided without a flicker.
+  *"Wasn't my call."* No guilt, because he never *chose.*
+
+**How to play him.** Flat, unflappable, never defensive — he doesn't argue, he
+just *knows.* The comedy is the horror.
 
 ---
 
@@ -574,9 +628,9 @@ him with Doruk in the tavern with care.
 
 **Appearance.** Twitchy; a bandolier of his own bottles rattling; a tic under one
 eye; sentences started three times. He drinks only his own compounds — trusts
-nothing he didn't mix. Clipped to his belt is a small lidded **jar with a
-centipede** in it — his "lab familiar," he'll tell you, good for a venom
-component and the only company that never judges him.
+nothing he didn't mix. A long dark **centipede** he calls his "lab familiar" rides
+in a pocket or up a sleeve and **wanders off on its own** — which Pim reads as it
+out hunting components — then turns up again wherever he is.
 
 **Hook lines.**
 - *Intro.* *"P-Pim. Pim Riddle. Alchemist — real one, or was, I— you don't want
@@ -607,17 +661,21 @@ cure is killing him faster than the job would. Played light — the table will b
 fond of him fast — which is the point: they laugh at the canary for a session
 before anyone clocks that the canary is dying of the air, by his own hand.
 
-*Preem's spy in the crew.* 🔒 That belt-jar centipede is **Preem's** — a
-**quasit,** planted on the Jackals exactly as the psychic bat was planted on
-Jasper and the toad on Calix (a *third* spy-familiar, distinct from each; see
+*Preem's spy in the crew.* 🔒 That centipede is **Preem's** — a **quasit,** planted
+on the Jackals exactly as the psychic bat was planted on Jasper and the toad on
+Calix (a *third* spy-familiar, distinct from each; see
 [Preem's demons](../characters/preems-demons.md)). A quasit wears **centipede,
-bat, or toad** and holds a **telepathic bond,** so it murmurs in Pim's mind — and
-he writes the voice off as the drugs, which is exactly why Preem chose the crew's
-least reliable head to carry it: *"my bug talks to me"* is just Pim being Pim.
-Preem doesn't trust this foreign crew, so the quasit is his **early-warning line**
-on them — which means it hears **Hadda's** suspicions before she can act on them.
-Clock it and the Jackals become a wire back to Preem, same as Calix; free or kill
-it (it reforms in the Abyss, per Demonic Restoration) and that's a live thread.
+bat, or toad,** turns **invisible,** and keeps a **telepathic bond,** so it comes
+and goes on its own errands — Pim reads the murmur in his head and the creature's
+wandering as the drugs and a good bug's hunting, which is exactly why Preem chose
+the crew's least reliable head to carry it: *"my bug talks to me"* is just Pim
+being Pim. Preem doesn't trust this foreign crew, so the quasit is his
+**early-warning line** on them — it hears **Hadda's** suspicions before she can
+act. *Continuity:* the party have **already seen it** — in
+[session one](../sessions/session-01.md) it scuttled ahead of the crew that came
+up to Preem's tower right after the party, **leading them in.** Clock it and the
+Jackals become a wire back to Preem, same as Calix; free or kill it (it reforms in
+the Abyss, per Demonic Restoration) and that's a live thread.
 
 ---
 

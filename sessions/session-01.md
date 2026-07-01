@@ -32,6 +32,10 @@ restocking his pantry.)
 - The fight went the party's way, but the **rat man escaped** before they
   could finish it or learn who sent it. The party did not capture or
   identify it.
+- As the party left Preem's audience, **the next crew was already coming up** to
+  see him — and a **centipede scuttled ahead of them, leading them in.** *(Canon,
+  retroactive: that crew was the **Brass Jackals,** and the centipede is Preem's —
+  a quasit "familiar" the crew's alchemist **Pim** thinks is his own; see below.)*
 
 ---
 
@@ -82,10 +86,17 @@ restocking his pantry.)
   distrust him — which is exactly the setup the campaign wants. (Their
   later suspicion lands on *him* when the watcher is really the rat man —
   and behind the rat man, Preem's rivals the First Foundation, not Preem.)
-
----
-
-# LOOSE ENDS FOR PREP
+- 🔒 **The centipede was Preem's — and that next crew was the Brass Jackals.** The
+  centipede glimpsed leading the following group into the tower is a **quasit,** one
+  of Preem's planted spy-familiars (the same trick as Jasper's "psychic bat"),
+  riding with the [**Brass Jackals**](../encounters/tavern-name-hunter-crews.md) — a
+  foreign name-hunter crew Preem hired but doesn't trust. Its host, the crew's
+  drug-addled alchemist **Pim,** believes it's his own lab-familiar. Making this
+  canon means the party **first crossed the Jackals here, in session one,** long
+  before they drink beside them in **The Twelve** — and pins down that the centipede
+  *leads and roams,* it isn't caged. See
+  [Preem's demons → crew familiars](../characters/preems-demons.md) and
+  [the tavern scene](../encounters/tavern-name-hunter-crews.md).
 
 - [x] **Rat man + rats stat blocks recorded** in
       [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (**Ratatat,**
