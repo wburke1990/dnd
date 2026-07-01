@@ -24,6 +24,11 @@ restocking his pantry.)
 
 - The party met Preem and accepted the commission to retrieve names from
   the Valley of the Kings.
+- **The party were led up the tower stairs to Preem's office by a "psychic
+  bat."** Only once they were inside did Preem remark to **Jasper** that *the bat
+  likes you,* and offer to let him **keep it for the year** of the quest — the gift
+  of a familiar that is, unknown to anyone at the table, one of Preem's **quasit**
+  spies (full treatment: [The Psychic Bat](../characters/the-psychic-bat.md)).
 - **Outside Preem's tower**, the party was attacked by a **rat man** —
   [Ratatat](../bestiary/the-rat-man.md), a rat-headed humanoid — who ambushed
   them in the citadel district.
@@ -32,10 +37,13 @@ restocking his pantry.)
 - The fight went the party's way, but the **rat man escaped** before they
   could finish it or learn who sent it. The party did not capture or
   identify it.
-- As the party left Preem's audience, **the next crew was already coming up** to
-  see him — and a **centipede scuttled ahead of them, leading them in.** *(Canon,
-  retroactive: that crew was the **Brass Jackals,** and the centipede is Preem's —
-  a quasit "familiar" the crew's alchemist **Pim** thinks is his own; see below.)*
+- **The audience ended when a big centipede came up the stairs, followed by five
+  people** — the next crew, arriving to see Preem, which bumped the party out of
+  the office. **The party clocked the centipede.** *(Canon, retroactive: that crew
+  of five was the **Brass Jackals,** and the centipede is Preem's — the quasit
+  "familiar" their alchemist **Pim** thinks is his own. Each crew is led up the
+  stairs by its familiar: the bat brought the party in, the centipede brings the
+  Jackals. See below.)*
 
 ---
 
@@ -86,15 +94,17 @@ restocking his pantry.)
   distrust him — which is exactly the setup the campaign wants. (Their
   later suspicion lands on *him* when the watcher is really the rat man —
   and behind the rat man, Preem's rivals the First Foundation, not Preem.)
-- 🔒 **The centipede was Preem's — and that next crew was the Brass Jackals.** The
-  centipede glimpsed leading the following group into the tower is a **quasit,** one
-  of Preem's planted spy-familiars (the same trick as Jasper's "psychic bat"),
-  riding with the [**Brass Jackals**](../encounters/tavern-name-hunter-crews.md) — a
-  foreign name-hunter crew Preem hired but doesn't trust. Its host, the crew's
-  drug-addled alchemist **Pim,** believes it's his own lab-familiar. Making this
-  canon means the party **first crossed the Jackals here, in session one,** long
-  before they drink beside them in **The Twelve** — and pins down that the centipede
-  *leads and roams,* it isn't caged. See
+- 🔒 **The centipede was Preem's — and that crew of five was the Brass Jackals.**
+  The big centipede that climbed the stairs with five people behind it, bumping the
+  party out of Preem's office, is a **quasit** — one of Preem's planted
+  spy-familiars, the **same trick as the "psychic bat"** that had just led the party
+  *up* those stairs. It rides with the
+  [**Brass Jackals**](../encounters/tavern-name-hunter-crews.md), a foreign
+  name-hunter crew Preem hired but doesn't trust; its host, the crew's drug-addled
+  alchemist **Pim,** believes it's his own lab-familiar. Canonizing it means the
+  party **first crossed the Jackals here, in session one** — five faces they'll meet
+  again in **The Twelve** — and sets the quiet rhyme that **each crew is led up by
+  its demon:** bat in, centipede in. See
   [Preem's demons → crew familiars](../characters/preems-demons.md) and
   [the tavern scene](../encounters/tavern-name-hunter-crews.md).
 
