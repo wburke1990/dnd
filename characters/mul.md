@@ -57,6 +57,58 @@ he spends his words *fishing*.
 
 ---
 
+## Scene — Return to the Tower
+
+*The party comes back to Maalm having finished the [Valley of the Kings](../encounters/valley-of-the-kings.md) — the last names relayed, the tombs behind them. They climb to the tower to report and be paid. **Preem is not here** (Foundation business, the council, the Company — Mul is vague on purpose); Mul answers the door and handles them himself, settling the final payment in person. That is the whole horror of the scene, and you never say it out loud: they are handing the last of the true names — gods, judges, the two-and-forty Assessors — to a bound demon of the deep cities, the very kind of creature those names exist to enslave. Mul knows exactly what they've brought him. He thanks them warmly. Play him nasal, unassuming, in quiet pain, glad to see them — and let the mask slip only where noted.*
+
+**Read aloud — the door opens:**
+
+*"The door opens before you knock. It's the elf — the wizard's associate, the one from the stone. Same plain robe, same thin, nasal voice, the same smile that arrives a half-second late and stays a half-second too long. Up close he looks tired in a way that has nothing to do with sleep — a man holding very still because moving hurts. 'You're back,' he says. 'You're back, and all in one piece. Good. That is — that is very good. Come up, come up. I have your payment, and he will want to hear everything. Well. I will hear everything, and he will hear it from me.'"*
+
+### Answering their questions
+
+**"Is the wizard here? Can we see Preem?"**
+- "He is not here. He is often not here — the council, the Company, the season. But he knows you have returned. He always knows. He asked me to see to you, and I am seeing to you. Sit."
+- *(if pressed)* "You will meet him again when there is something worth his while. Do not take it personally. I have served him a long time and I see him — mm — less than you would think."
+
+**"Here's the last of the names."** *(handing over the gods, the Assessors, the kings)*
+- *(he takes the list too carefully, the way you hold something hot)* "All of them. Even the — the two-and-forty? You sat and copied all forty-two?" *(a breath)* "You have no idea what you've — thank you. Thank you. He will be very pleased."
+- *(quietly, reading down the list, more to himself)* "Osiris. Anubis. Him. And him. ...So they were all written down. Of course they were. People write everything down." *(then, brightly, the mask back on)* "Payment. Yes. Let me get your payment."
+
+**"What does he actually want the names for?"** *(the central evasion — bound, self-interested, never the whole truth)*
+- "For his studies. He collects the old dead — kings, gods, whatever the sand kept. It is very dull. You have done the interesting part; the rest is a man at a desk."
+- *(if they push)* "A name is only a name — until someone says it aloud, in the right room, in the right order. Then it is a door." *(a thin smile)* "He likes doors. ...Mind the step."
+- *(if they push harder)* "You are asking above my station. I carry, I do not ask. I stopped asking a very long time ago." *(and there — for one line — the nasal warmth is just gone)* "It is better. Truly. Not asking is better."
+
+**"There was a man who died in the tombs — well-dressed, two guards, a year ago."** *(the lepers' story, Tomb 1)*
+- *(no surprise at all)* "Ah. Yes. Before you, there were others. They were... less careful than you were. Or less lucky." *(a small, awful shrug)* "We do not always get everyone back. He does not send one crew. He sends many. You are the ones who came home." *(the "we" — let it sit)*
+
+**"What's coming? The comet — the bleeding star?"**
+- "The star that bleeds. Yes. The master will tell you what he wants you to know of it, and no sooner. It is not my place." *(then, flat, ancient, looking at nothing)* "It has come before, you know. The last time it came, it buried a great deal. ...I remember it being colder." *(catches himself)* "So the histories say. Would you like wine? You look like you want wine."
+
+**"We saw a serpent carved older than the tombs — gold-scaled, lapis-blue. What is it?"** *(the deep plot — the volcano-island, [Apep](../encounters/valley-of-the-kings.md), the thing the whole campaign points at)*
+- *(everything about him stops — the fidget, the smile, the nasal lilt, gone between one word and the next)* "...Where. Where did you see that."
+- *(if they answer)* "On the map. On the floor of the valley. Yes." *(very quiet)* "That one is not dead. The gods are dead. That one is only sleeping, and it is very far, and it is better for everyone that it stays both." *(then the mask snaps back, too fast, too bright)* "Old carvings! The ancients drew a great many things. Your payment — here, here."
+- **DM note:** this is the single most important reaction Mul ever gives. He is a demon of the deep cities; he knows what the serpent-island is and what Preem wants with it. Don't explain — just let a perceptive party feel that they touched a live wire.
+
+**"There's a queen still out there — Farseh-ti. A mummy, caring for the sick."** *(if they mention Kethara)*
+- *(a long pause — something moving behind the tired face that isn't the clerk)* "She stayed. Three thousand years, and she stayed with them." *(almost gentle)* "Grief will do that. It does not know how to leave." *(then, carefully, watching them)* "...Did you give her name to the stone? Farseh-ti? Did you say it?" *(and how he receives the answer — relief if no, a flinch quickly hidden if yes — tells the whole story: a name given is a name the master now holds.)*
+
+**"Who are you, really?"** *(a suspicious PC)*
+- "I am the one who answers the door." *(the smile, on time for once, which is somehow worse)* "That is all I am for. ...We are very tired today. Was there anything else?"
+
+### The turn of the screw — closing the scene
+
+Mul settles the full payment — generous, a little extra "from the master, with his thanks" — and sends them off with the next thread: *"There will be more. There is always more. He will send the next map when the stone is warm again. Go. Rest. You have earned it."*
+
+Then, as they reach the stairs, quiet, and meaning it more than they can know:
+
+- *"You did very well. Better than you know. ...Better than I would have."*
+
+*Let that last line hang. He is thanking them, sincerely, for forging the chains his own people will wear.*
+
+---
+
 ## Basic Information
 
 **True form:** Yochlol (Medium Fiend, demon)
