@@ -49,13 +49,26 @@ surfacing the **Kurunatukas**, where the *next* contest is gathering (§VII). Ea
 "god" is one of the comet-beasts the hot spot wakes — **almost all one-life gods, save
 Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 
-| Pass | When | What it did |
+> **Reading the table.** Rows in plain type are the **comet passes** — the clock
+> everything hangs on. *Italic rows are the dated human-history events* that fall
+> between passes (Maalm's founding, the Foundations, Kuru's wars, the sea-battles,
+> the land rush) — pulled here from the section notes below so the whole chronology
+> reads in one place. All dates are the usual soft `~ya`.
+
+| Pass / event | When | What it did |
 |---|---|---|
-| 1st — Creation | ~6,000 ya | Taniyn falls; the dragonborn island of Lonka is made; the common ancestor seeds all races. The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
+| 1st — Creation | ~6,000 ya | Taniyn falls; the **dragonborn settle Lonka** — their holy homeland (later Jotunheim); the common ancestor seeds all races. The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
 | 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed; **obliterates Golden Lonka into a caldera** (→ Jotunheim) and drives **Kalikhat** underground. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
+| *(the **First Foundation** founded)* | *~4,100 ya* | *Men and dragonborn learn to **steer a comet-pass into controlled, land-building eruptions** rather than catastrophe; they ride the **hot spot** southeast and become the inner circle of what will be the Muspel empire (see [First Foundation](the-first-foundation.md)).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
+| *(**Kuru** colonized)* | *~2,800 ya* | *The Muspel empire founds **Kuru** as a colony — after its dragonborn had gone, so nearly all-human (see [the Muspel empire](the-muspel-empire.md)).* |
+| *(the **Kuru revolt**)* | *~2,500 ya* | *Kuru **rebels free** of Musleheim; a lord loses a hand, forges a new one from the god's **sentient stone**, and wins independence — birthing the **Order of Sunne** and the phoenix-faith (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
+| *(the **Second Foundation** founded)* | *~2,000 ya* | *Maalm's elven elite form their **secret order** against the demon-powered Muspel empire, **inventing demon-binding by true name** (see [the Second Foundation](the-second-foundation.md)). 🔒 Its real aim is the campaign's engine (§VI).* |
+| *(the **Kalikhat Crusades**)* | *~2,000 → ~1,600 ya* | *Kuru's **first crusading era**: failed surface colonies on newly-habitable Kalikhat run headlong into the deep gnomes, drow, and demons below; a second wave is sent to recover the **warforged dead** and 🔒 **steal Kalikhat's god-stone** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
 | 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VI, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
+| *(the orc sea falls — **Svolder & Hjörungavágr**)* | *~320 / ~300 ya* | *The two legendary sea-battles at the close of the raiding age break the **Muspel orcs'** command of the water — **Svolder** (orc against orc), then **Hjörungavágr** (the **Suartleheim dwarves** against the orcs), where an undersea eruption **begins raising the Kurunatukas**: the battle that broke the orc sea and the birth of the new land are one event (see [ships & sea-power](ships-and-sea-power.md)).* |
+| *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush** onto the fresh, extraordinarily rich Kurunatuka islands as the hot spot surfaces them; they grow into **client-states**, not mere colonies (see §VI).* |
 | 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation. 🔒 Preem means to trigger it early and on purpose. |
 
 *Sources: [campaign overview §5](campaign-overview.md), [Amseh dynasty](amseh-dynasty.md), [the Second Foundation](the-second-foundation.md).*
