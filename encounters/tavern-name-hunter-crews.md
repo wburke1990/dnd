@@ -390,9 +390,10 @@ charm lines built to work on Jasper:
 #### Calix Vire — elf · Writ pathfinder *(Pax's mirror)*
 
 **Appearance.** Flat, unbothered, sunglasses-cool even in a dim tavern, a worn
-coin always in hand. He flips it for his drink — *"Heads, the red. Tails, the
-dark"* — and orders the result with total finality, as though God chose. Play him
-straight-faced Blues Brothers.
+coin always in hand — and a small **toad** riding one shoulder or cupped in his
+palm, which he treats as a blessed sign and is never without. He flips the coin
+for his drink — *"Heads, the red. Tails, the dark"* — and orders the result with
+total finality, as though God chose. Play him straight-faced Blues Brothers.
 
 **Hook lines.**
 - *Intro.* *[doesn't look up; produces a worn coin]* *"Calix."* *[flips it, reads
@@ -573,7 +574,9 @@ him with Doruk in the tavern with care.
 
 **Appearance.** Twitchy; a bandolier of his own bottles rattling; a tic under one
 eye; sentences started three times. He drinks only his own compounds — trusts
-nothing he didn't mix.
+nothing he didn't mix. Clipped to his belt is a small lidded **jar with a
+centipede** in it — his "lab familiar," he'll tell you, good for a venom
+component and the only company that never judges him.
 
 **Hook lines.**
 - *Intro.* *"P-Pim. Pim Riddle. Alchemist — real one, or was, I— you don't want
@@ -603,6 +606,18 @@ cost worn inside-out: the one who tried to **chemistry the cost away,** and the
 cure is killing him faster than the job would. Played light — the table will be
 fond of him fast — which is the point: they laugh at the canary for a session
 before anyone clocks that the canary is dying of the air, by his own hand.
+
+*Preem's spy in the crew.* 🔒 That belt-jar centipede is **Preem's** — a
+**quasit,** planted on the Jackals exactly as the psychic bat was planted on
+Jasper and the toad on Calix (a *third* spy-familiar, distinct from each; see
+[Preem's demons](../characters/preems-demons.md)). A quasit wears **centipede,
+bat, or toad** and holds a **telepathic bond,** so it murmurs in Pim's mind — and
+he writes the voice off as the drugs, which is exactly why Preem chose the crew's
+least reliable head to carry it: *"my bug talks to me"* is just Pim being Pim.
+Preem doesn't trust this foreign crew, so the quasit is his **early-warning line**
+on them — which means it hears **Hadda's** suspicions before she can act on them.
+Clock it and the Jackals become a wire back to Preem, same as Calix; free or kill
+it (it reforms in the Abyss, per Demonic Restoration) and that's a live thread.
 
 ---
 
