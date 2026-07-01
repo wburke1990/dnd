@@ -747,6 +747,13 @@ The older child, after a moment:
 
 The curse is lifted — if anyone was cursed.
 
+**DM note — the curse on offer.** Keep this conditional and read the table.
+Right now it hooks the one party member carrying a *minor* curse from the
+rat ambush; a much heavier curse is possible if the party angers the
+mummies in the tomb quest, in which case the lift becomes a major draw. As
+things stand, though, expect the **potions and components at cost** to be
+the real value to this party — lead the offer with those, not the curse.
+
 The children honor the bargain in full:
 - Healing potions at cost
 - Spell components at cost
