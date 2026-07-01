@@ -9,12 +9,9 @@
 
 ---
 
-Behind you, to the south, the two colossal kings stand smaller now at the mouth
-of the valley — the pharaoh with one arm flung out over the ground, the
-serpent-king coiled beside him — and past them the valley climbs away and out of
-sight. Ahead, to the north, the ground falls: a broad channel of pale,
-sun-cracked silt winding down and down, floored with rounded stones. Petrified
-wood lies half-buried among them.
+Behind you are the statues of the kings. Ahead, to the north, the ground falls: a
+broad channel of pale, sun-cracked silt winding down and down, floored with
+rounded stones. Petrified wood lies half-buried among them.
 
 The channel drops northward. The banks stand high to either side, and a single
 pale line runs along them at three times a tall man's height — a smooth, mineral
@@ -31,8 +28,7 @@ river's mouth — stands a city.
 It is green. From this height it reads as a single dark canopy of trees, and
 standing up out of the canopy is the city itself: walls, towers, and stepped
 terraces built of colossal brick — blocks each the size of a wagon, laid course on
-course on course, raised by hands rather than cut from any cliff. Straight bright
-channels of water run between the rooftops and out to the shoreline.
+course on course.
 
 Past the city the coastal cliffs are streaked chalk-white and hung with slow,
 turning clouds of seabirds. Beyond them lies the flat shine of the open sea, and
