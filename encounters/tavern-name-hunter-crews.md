@@ -37,6 +37,37 @@ middle — and the Writ are holding exactly what the party overlooked.
 
 ---
 
+## Roster — who's in the room
+
+*Quick reference: the ten rival name-hunters (two crews of five) plus the
+tavern-keeper. Deep blocks — appearance, hook lines, then backstory — are under
+**Approaching an NPC** further down; each block ends with the DM-only truths a
+player can't learn by talking.*
+
+| NPC | Species | Crew | Role | Mirrors (PC) |
+|-----|---------|------|------|--------------|
+| **The bartender** | Satyr (a Letap) | The Twelve — the house | Proprietor | — |
+| **Setha Renk** | Half-elf | Lapis Writ | Leader | Blackacre |
+| **Doruk Pell** | Dwarf | Lapis Writ | Closer / muscle | Sarric |
+| **Issa Quib** | Halfling | Lapis Writ | Tomb-walker (death-touched) | Aniess |
+| **Bram Hale** | Human | Lapis Writ | Muscle | Jasper |
+| **Calix Vire** | Elf | Lapis Writ | Pathfinder (casts lots) | Pax |
+| **Veska Tull** | Human | Brass Jackals | Leader | Doruk *(cross-crew)* |
+| **Hadda Vimm** | Dwarf | Brass Jackals | Quartermaster | — |
+| **Sefi** | Halfling | Brass Jackals | Scout | — |
+| **Mogg** | Half-orc | Brass Jackals | Enforcer / storyteller | Doruk *(cross-crew)* |
+| **Pim Riddle** | Gnome | Brass Jackals | Alchemist / trap-breaker | — |
+
+- **Lapis Writ** — chartered, funded, smug, and *done* (cleared the whole Valley
+  without missing a name). Each is a PC's road-not-taken: the version who said
+  **yes** and is proud of it. *The dark mirror — who you become if you win.*
+- **Brass Jackals** — foreign freelancers from the north (Kuru), loud, broke, a
+  member or two lighter than they started. Not a reflection but a **warning** —
+  the world's casualties, robbing graves to survive. *The cost — what the quest
+  takes.*
+
+---
+
 ## The opening beat — what the party walks in on
 
 When the PCs push through the door, the room is already leaning toward one
@@ -136,544 +167,442 @@ take requests — or a drink.
 
 ---
 
-## Group 1 — The Lapis Writ · *the dark mirror (who you become if you win)*
+## Approaching an NPC — table reference
 
-*Chartered, funded, smug — and **done**. They cleared every tomb in the Valley
-without missing a name, and they will make sure the party knows it. Each of the
-**five** is one PC's road-not-taken: the version who said **yes**, didn't flinch,
-and is proud of it. They don't think the names are evil. They think the names
-are **theirs**.*
+*When a player walks up to someone, scroll to their block. Every block runs the
+same order: **Appearance** (how they read across the room, and what they're
+drinking) → **Hook lines** (ready dialogue for the intro, the drink, and the beat
+that shows who they are) → **In conversation** (the backstory a player can
+actually draw out, if they earn it) → and, at the very end, **DM only — what they
+can't tell you** (buried truths, the mirror, hidden mechanics). Read a block
+top-down: everything above the DM-only line is safe to work from live; the
+secrets sit last, after the material that can surface at the table.*
 
-| # | Name | Species | ↔ PC | The opposite choice they made |
-|---|------|---------|------|-------------------------------|
-| 1 | **Setha Renk** | Half-elf | **Blackacre** | **Preem's half-blood protégée** — she carries a thinned founder line the old houses killed her mother to bury, and means to claw the council seat back over anyone in her way (full story below). On the Writ's **tomb-three** run the rising-water puzzle flooded; her co-founder **Aurin** turned back for the drowning diggers — Setha grabbed the slip of names they'd recorded, took the way out, and left them to it. She buried the bodies off the path and sold Preem a flawless clear. Blackacre balked at that exact threshold and wanders to atone; Setha crossed it — she became her own Sayid — and sleeps fine. |
-| 2 | **Doruk Pell** | Dwarf | **Sarric** | A **Suartleheim powderman** (the mining-isle's rock-breaking-and-fire craft) who carried the old **Hjörungavágr** grudge into the **Sunne pogroms** — burning out orc-diaspora quarters of settled families and town-born half-orcs (full story below). What he torched "was not only men," and he forgives himself two ways at once — his faith calls the fire holy, his people's old grudge calls it deserved — so he's warm, weary, and genuinely at rest. He'll tell Sarric, kindly, that **the cause carries the screams for you — you just have to let it**. The exact peace Sarric refuses. |
-| 3 | **Issa Quib** | Halfling | **Aniess** | She paid for an old funerary rite that left her **death-touched** — cold, too still, half a step out of life — not to read the names (Preem's **Pen of Comprehend Languages** does that for anyone) but to **stop being fully alive.** She **chose** it, and she's serenely sure it was worth it (full story below). Aniess was remade into a not-quite-human thing *without consent* and grieves the self she can't recover; Issa gave hers away on purpose and beams at the quiet. |
-| 4 | **Bram Hale** | Human | **Jasper** | Survived the same kind of profit-driven disaster Jasper did — the powerful wrecked his home for gain — and drew the opposite lesson: *the world eats the weak, so don't be weak.* Where Jasper turned that into a war **for** the powerless, Bram **sold his strong right arm to the powerful** — took their coin, did their work, climbed. Warm, open, tells the whole story freely, exactly like Jasper — which is why the party will *like* him before they clock what he is (full story below). |
-| 5 | **Calix Vire** | Elf | **Pax** | A deadpan true believer who is, with total serenity, **"on a mission from God."** Like Pax, he's certain a higher power chose him as its instrument — but where Pax's revelation got him *cast out* (so he wanders, anguished, still insisting he's right), Calix was *believed*, and every success since has only hardened it. He does the work and leaves the wreckage without a flicker of doubt or remorse, usually with a flat one-liner. **Pax sweats his calling; Calix wears sunglasses to his** (full story below). |
-
-**Setha's claim (why she's like this).** Setha is a **founder-blood bomb in
-half-elf skin.** Her mother was the last of a **thinned founder house** — real
-old blood, a near-dead claim to a reserved, elves-only council seat — who tied
-the dying line to **Preem's cabal** for a road back to power, and bore Setha to
-a non-elf father. To the **founder bloc** that holds the old quarter, a
-half-blood carrying a live founder claim was intolerable twice over — an
-upstart's client *and* a "names-and-ownership bomb" that could revive a seat
-they'd written off — so **one of the old houses had her mother killed** to end
-the line quietly. Preem, who never wastes a useful asset, took the orphaned
-half-blood in and **chartered her the Lapis Writ**. That history is the engine
-under everything she does:
-
-- **On Preem** — genuinely loyal, because he's the only door that ever opened
-  for her, but **no true believer**; she resents needing him and knows he uses
-  her right back. *(A live flip-lever: show her what Preem really is, or offer
-  her the houses' heads, and her loyalty is in play.)*
-- **On the houses** — cold, patient fury. They scorned her, murdered her
-  mother, and sit on the seat that is hers by blood.
-- **Why she's *this* ruthless** — the flawless Valley run is at once her
-  **audition for Preem** and her war-chest against the houses, so nothing
-  outweighs the record. *("Lapis Writ" reads as the writ of claim she means to
-  win back.)*
-
-**Setha's buried truth (tomb three).** Her betrayal happened somewhere the
-party has already stood: the **rising-water puzzle in tomb three**, which they
-ran in **session three**. They even brushed the trace without knowing it — the
-freshly, roughly dug-out third entrance, *"footprints of at least three people
-in sandals, recent, within the last week… they either went in and didn't come
-out, or left without being noticed"* (see
-[`valley-of-the-kings.md`](valley-of-the-kings.md)). That was Setha's crew. The
-puzzle flooded on a botched choice; in the panic **Aurin went back for the
-hired diggers and Setha took the names and the exit**, leaving them to drown —
-the precise inverse of Blackacre, who bailed on a deadly plan to *spare*
-others. (Crews don't carry names home: Preem issues each one a **map** and a
-**paired sending stone**, and they **relay the names to him by voice** — the
-ledger or scratch-paper is just where a crew jots them before transmitting. So
-the slip in Setha's fist was the *only* copy of tomb three's names, not yet
-sent — worth more to her than the people who'd found them.) Afterward she returned, recovered the bodies, and buried them somewhere
-off the Valley path (kept deliberately vague) so Preem heard only of a clean,
-flawless clear — which is why the party found no corpses inside. Those unmarked
-graves are a live loose end: stumble on them later and the Writ's perfect
-record, and Setha's seat, come apart.
-
-**Doruk's peace (why he's like this).** Doruk Pell is a **Suartleheim dwarf**, a
-**powderman** by trade — the mining isle's craft of rock-breaking, powder, and
-fire. He didn't carry it to the Muspelheim front (dwarves don't soldier that
-war); he carried it to the **pogroms at home** — the burning-out of orc-diaspora
-quarters in the port-towns (see
-[`the-muspel-empire.md` → *The scattered diaspora*](../lore/the-muspel-empire.md)).
-He was the **torch-hand**, and what he burned *"was not only men"*: settled
-families and town-born half-orcs who had never raided anyone. He forgives
-himself **two ways at once.** *His faith:* the **Church of Sunne** brands the
-orcs heathen sea-devils, so he tells himself the burning was holy work.
-*His blood:* **Hjörungavágr** (~300 years ago) was the battle where his own
-people, the Suartleheim dwarves, broke the orc war-fleets — so burning the orcs'
-scattered descendants felt like finishing what his grandfathers started, a
-three-hundred-year score.
-Holy cause and ancient grudge together let him sleep. Now he's the Writ's
-**closer**, the hand that does what needs doing — but **kindly, weary, and
-genuinely at rest**, which is the horror.
-
-**The mirror.** Sarric's wound is one camp he burned, where *"the screams he
-heard were not only the screams of men,"* and the numbness he refuses — he will
-not let the cause forgive him. Doruk is that forgiveness **achieved**: *"the
-cause carries the screams for you, lad. You just have to let it."* He'll say it
-gently, as kindness — because for him it worked. That is the precise peace Sarric
-is terrified of making.
-
-**Two hooks that can spark conflict.** (1) The pogroms were **Sunne** work — the
-same faith the Brass Jackals' **Veska Tull** fled; Doruk served what she ran
-from, a quiet
-thread between the crews. (2) He's drinking three feet from **Mogg** (Brass
-Jackals, half-orc), mid-saga over the orc dead — the very people whose diaspora
-cousins Doruk burned. Yours to decide whether that powder lights.
-
-**`[loose — 6/28]` A third hand behind the torch — the Company.** Doruk's craft
-(a Suartleheim powderman: rock, powder, fire) is *exactly* who the
-[Company](../lore/the-company.md) hires to strip [Suartleheim Eet](../lore/nila-atlas.md)
-ore and **clear ground for its plantations** — so you can run his orc-burning as
-**Company land-clearing and slave-raids** as much as Sunne pogrom: the same fire, a
-**third paymaster,** and a *third* way to forgive himself (*"it was only business —
-the charter said it was legal"*). This is the brainstorm's reframe — swapping the
-**ultimate author** of the atrocity from the Kuru church to the Company without
-losing his faith-and-grudge peace: the pogroms **stoked by Sunne, bankrolled by the
-Company.** Use whichever depth fits the table; they compound rather than compete.
-
-**Issa's bargain (why she's like this).** Issa didn't need remaking to read the
-names — Preem hands his crews a **Pen of Comprehend Languages**, so anyone can.
-She did it to **stop being fully alive.** She
-sought out and paid dearly for an **old funerary rite of the dead empire's
-death-cult** that left her **death-touched**: still a living halfling, but cold
-to the touch, breath shallow, a half-step into death. The tombs hold nothing that
-unsettles her now — the mummies, the five-thousand-year silence that wears every
-other crew down, are simply *home.* But the point was never an edge at the work;
-it was the **quiet** the rite bought her.
-
-**What it cost — and the mirror.** She gave up **being fully alive**: warmth, the
-ordinary living world, the road back to who she was. She doesn't mourn it. Where
-**Aniess** was remade into a not-quite-human thing *as a child, without consent,*
-and is only now waking in grief to a self she can't recover, **Issa chose every
-step, awake,** and is **serenely, chillingly sure.** To Aniess: *"You mourn what
-they took. I gave mine away on purpose — and the quiet on the other side is worth
-it. Stop reaching for who you were."* The axis isn't ownership (Issa is a mortal;
-no one holds her by name) — it's **remade-and-grieving vs. remade-and-glad.**
-
-**Not a death knight.** Issa is **living and lesser** — death-*touched*, not
-undead: no martial menace, no command over the dead. She slips *past* them; she
-doesn't raise them. (If a death-knight figure ever surfaces elsewhere, Issa is
-the shallow end of that water — a different thing entirely.)
-
-**Bram's choice (why he's like this).** Bram Hale grew up powerless and watched
-**the powerful wreck his home for profit** — the same crime that forged Jasper.
-He came out of it with the opposite conviction: not *protect the weak* but
-*never be weak again.* So he did the thing Jasper never could — he **went to
-work for the kind of people who did it.** He sold the powerful his strength and
-his loyalty, asked no questions, and climbed, hard job by hard job, until a
-chartered elite crew like the **Writ** was glad to have him. *(The disaster that
-made him plays fine left vague, like Jasper's own — or pin it to the **Company's**
-land-clearing or a **Kuru** land-grab if you want a name.)*
-
-**The mirror.** Jasper and Bram are the same man at the fork. Both survived the
-strong eating the weak; both are **completely open about it**, no secrets, glad
-to tell you over a drink. But Jasper carries his survivor's guilt in the open and
-spends his life **fighting** the strong; Bram carries **no guilt at all** and
-**became** one of their hands. Same warm, honest face — opposite soul. He's the
-most unsettling Writ mirror precisely because **the party will like him**, and
-liking him is the trap. *(Sample dialogue — the lines built to actually charm
-Jasper — in [Bram's NPC card](../characters/bram-hale.md).)*
-
-**Calix's certainty (why he's like this).** Calix Vire has the one thing
-[Pax](../characters/pax.md) can never get: **to be believed.** Pax had his
-revelation and his own monastery threw him out for it — so he wanders, anguished,
-reframing every rejection as proof. Calix had his own private revelation that he
-was **chosen for a purpose**, and the world seemed to *agree*: he was elevated,
-he succeeded, and every win since has hardened the certainty into something
-**serene and total.** He never explains the mission and never doubts it; he
-simply *knows.* The grave-work — and any bodies, any wreckage, any line
-crossed — is just part of The Mission, shrugged off with a calm that plays funny
-right up until you realize **he means every word.**
-
-**Play him like the Blues Brothers.** Flat, unflappable, sunglasses-cool —
-*"we're on a mission from God"* — chaos in his wake and not a hair out of place.
-The comedy is the horror: a man this certain, this calm, doing this much damage,
-and sleeping like a baby.
-
-**The mirror.** Same chosen-instrument conviction as Pax, opposite reception:
-Pax **rejected** and tormented by it; Calix **vindicated** and untroubled by
-anything. To stand beside a man as certain as he is — but *calm* — is Pax's quiet
-nightmare: either what he could become, or proof his own torment is just noise.
-Calix's certainty is **pure psychology, not cosmology** — he doesn't know what
-the names *do* any more than the party does, so he gives nothing away. (Pax's
-*deep* mirror, the one who does understand, waits for late game in **Vael
-Astre** — see the [Second Foundation](../lore/the-second-foundation.md).)
-
-**🔒 The truth behind the voice (DM).** Calix is a **prophet who is really a
-puppet.** The "voice of God" is the **telepathy of his familiar** — his **pet toad**,
-which he takes for a blessed sign, in truth a **quasit** (a toad is one of its
-own forms), and the quasit is **Preem's**. Preem steers his deniable
-true-believer through it; Calix obeys as divine command, never knowing it's a
-demon or that it answers to Preem. (That also resolves *why a demon would aim a
-man at enslaving demons* — it wouldn't; **Preem** does, with one of his own.) A
-quasit can't shield him in a fight, but it can **scout and warn** — so the voice
-steers him clear of what kills his crewmates, and he reads being the survivor as
-divine favor. And he makes **no big choice
-himself** — he **casts lots** (worn coins, knucklebones) at every fork and obeys
-the throw as God's will, serene the burden was never his (the voice "interprets"
-an ambiguous result, so Preem can tip even the coin). Clock the familiar for a
-demon and Calix becomes a quiet wire back to Preem — don't spend it cheaply.
-Full card: [characters/calix-vire.md](../characters/calix-vire.md).
-
-**Tavern angle.** Setha buys a round to look magnanimous, then needles the
-party about how careless they've been. Each Writ member drifts toward their
-counterpart — Doruk corners Sarric, Calix unsettles Pax, Bram genuinely charms
-Jasper — so the mirror lands as *conversation*, not a lecture. Let the players
-feel the pull and the revulsion at once.
-
-**The missing names (the table-fix, weaponized as a mirror).** The party
-fumbled names in tombs one through three; the Writ didn't — Issa's ledger holds
-the complete set, copied and cross-checked. A name is *knowledge*, not a
-consumable, so the Writ lose nothing by sharing duplicates — the party just
-speak them down their *own* sending stone — which is exactly why they will, as
-a flex. Stage it as the **mirror handing over the miss**:
-Doruk slides Sarric the names from the camp-tomb; Issa gifts Aniess hers with a
-serene little smile. However it plays, the party leave with the names they
-missed. *(Whether Preem pays a bounty on duplicates is your call — the point is
-the table no longer loses content to a missed roll.)*
-
-**Thematic kicker.** The Writ's generosity is a trap with no trapper. Every
-name they hand over is another name the party carries back to Preem — so the
-smug favor quietly makes the party *more* complicit, not less. Play it as a
-kindness; let the weight land later.
+*Crew-level scene notes — how the two crews behave, the pecking order, the
+missing-names handoff — live under **DM levers**. The party first overhear
+**Mogg** mid-saga in **The opening beat** above.*
 
 ---
 
-## Group 2 — The Brass Jackals · *the cost (what the quest takes)*
+### The bartender — a Letap satyr
 
-*Foreign freelancers from the north (Kuru), loud, broke, and a member or two
-lighter than they started. Not the party's reflection — their **warning**. The
-Jackals are the world's casualties: people the same systems that wounded the
-PCs chewed up and spat out, now robbing graves to survive. Where the Writ show
-what winning turns you* into, *the Jackals show what it* costs *— and they're
-the bridge to the haunted Ashfoot a city down the road.*
+**Appearance.** Goat-legged and unhurried behind the bar, forever polishing a
+glass — the wine-god's easiness under a gravekeeper's patience. Like every
+tavern-keeper in Nila he's a **Letap** (see
+[`satyr-taverns.md`](../lore/satyr-taverns.md)). The mural is up on the wall for
+the players to look at; he doesn't narrate the picture.
 
-| # | Name | Species | Role | Tie to the party's world / the cost |
-|---|------|---------|------|-------------------------------------|
-| 1 | **Veska Tull** | Human | Leader | A former **preacher of Sunne** who gave the holy war its words — blessed the **pogroms**, called the burning *light* — until she saw up close what the merciful sun-faith really is: a colonial war-engine the Warforged steer, mercy as a mask for slaughter. She **lost her faith and ran.** Now she leads the Jackals on the burnt-out fervor of a preacher who no longer believes but still knows how to make desperate people follow — toward one more grave, because the alternative is watching them starve. Her cost: she clawed out of one machine that eats people and walked straight into another (Preem's), lucid enough to know it. The **deserter** to the Writ's Doruk, who served the same Sunne fire and made his peace. *(She fled the* public *Church, never its hidden child-arm — which is why she can't tell what Aniess is; out here,* no one *can.)* |
-| 2 | **Hadda Vimm** | Dwarf | Quartermaster | Keeps the crew's coin, supplies, and map — and its **death-book:** every Jackal they've buried, by name, from the scavenging years. She's as new to Preem as the rest, so she *knows* nothing about his operation — but a quartermaster who's outlived a dozen bad jobs has a **nose**, and this one reeks: the pay is too high for grave-robbing, he runs an odd number of crews at once, and the sites are a long way to send people. She can't prove a thing. She just knows what a wage that generous is usually paying *for*, and she's quietly pricing the odds and not liking them. A **bad feeling, not a body-count** — the lighter echo of the Ashfoot's Olen, who has the proof she only dreads. |
-| 3 | **Sefi** | Halfling | Scout | A halfling **war-orphan** the Jackals pulled out of the wreckage in their scavenging years and raised as the crew's kid. When **Riska** died she got pushed into the scout's seat — **first into the dark**, the deadliest job, and nowhere near ready. By day she's **thrilled** (she went deepest, she got the prize, she's a *real* Jackal now); by night a child's **nightmares about the mummy** — alone in the black with the ancient dead — sharpened by the one real thing she half-knows: Riska died doing exactly this. The **cost made human**: a kid in the deadliest seat, too desperate to belong to see it. Mile one of the Ashfoot's road, and the easiest of all these NPCs to want to save. |
-| 4 | **Mogg** | Half-orc | Enforcer | A half-orc of the **diaspora** — and a survivor of the crusades and pogroms that hunt his kind — who does the Jackals' violence and still *flinches*, because he has been on the receiving end and won't let himself forget it. The exact opposite of the Writ's **numbed Doruk:** Mogg refuses the peace numbness buys, and pays for it by feeling every blow. Deadpan, funnier than he should be, quietly decent — **the crew's storyteller** and the keeper of his people's drowned history (the party first overhears him mid-saga; see the opening beat). |
-| 5 | **Pim Riddle** | Gnome | Alchemist | The crew's pickman and trap-breaker, and a **self-poisoner.** Grave-work terrifies him, so he doses it away with his own chemistry — stimulants to keep going down in the dark, nerve-tonics to hold his hands steady on a trap, sleep-draughts to black out the dreams. Years of using himself as the test subject have **hollowed his mind:** the comic stammer and the eye-tic and the lost words are his own compounds, not any curse. He is the crew's twitchy little canary, played for a nervous laugh — and he has quietly cooked his own brain doing it. His cost: he's the one who tried to **chemistry the cost away,** and the cure is killing him faster than the job would. |
-
-**Before Preem — the crew's own dead.** The Brass Jackals didn't start as
-grave-robbers. They were **scavengers of the Muspel reconquest** — trailing
-Kuru's holy war into **Musleheim** to strip the battlefields, salvage foundered
-hulls, and pick over the ruined ports the crusade left behind. *Brass* and
-*jackal* both: brazen, broke, eating off other people's slaughter. **Robbing
-tombs for Preem is the same trade on new ground** — which is why he hired them
-and why they took it; dead kings pay better than dead soldiers. Their losses are
-from those years, not from him: scavenging kills (a wreck that shifts, a
-battlefield not as dead as it looked, desperate men who knife you over a
-salvage). The crew's founder, **Old Brakker**, went down with a salvage that
-flooded — which is how **Veska**, who'd washed up at Raand with a gift for
-holding frightened people together, came to lead a crew she never founded. The
-most recent name in the book is **Riska**, their young scout, lost on the road
-not long ago; green **Sefi** is the one filling her shoes, and not ready.
-
-**Veska's break (why she's like this).** Veska Tull was a poor Kuru girl with a
-gift for the pulpit, and she rose fast in the **Church of Sunne** — preaching the
-**reconquest** as holy work: the orcs as heathen *sea-devils,* the fire-coast
-crusade as the Sunne's light burning back the dark. Crowds wept and enlisted when
-she spoke. Her real office was the **pogroms** — she went ahead of the Order's
-torch-men to work a port's faithful into righteous fury before the burning; her
-sermons lit the match, men like the Writ's **Doruk** carried the fire.
-
-It broke at **Sukkek.** She had preached the harbor crowd hot the night before;
-she walked into the burned quarter at dawn to bless the cleansed ground, and the
-dead were not sea-devils — they were town-born half-orc families, old people,
-children who had never raided anyone, neighbors that one word had made killable.
-She had supplied the kindling with her own mouth. Something in her went out that
-morning and never relit.
-
-The Church believes she **died in that fire,** and she lets them. A preacher who
-stops believing is a danger to the faith, but a *dead* one is no one's problem —
-so she stays dead: she stole a small rowboat the morning of the fire and made the
-crossing south to **Raand** alone, half-dead at the oars — no one saw her go,
-which is why Kuru is sure she burned — and she has never raised her voice in the
-Sunne's name since. (The catch: her one real weapon is the pulpit, and the
-day she preaches *against* them is the day Kuru learns she walked out of Sukkek
-alive.)
-
-Broke and faithless, skilled only at moving people and surviving, she fell in
-with northern freelancers and became their leader — the **Brass Jackals** —
-taking Preem's grave-coin because it does not ask where you came from. She still
-leads the only way she knows, the old fire gone cold, rallying desperate people
-toward one more grave because the alternative is watching them starve. She clawed
-out of one machine that eats people and walked straight into another, and she is
-lucid enough to know it.
-
-**Hadda's nose (why she's uneasy).** Hadda has kept the books for dangerous crews
-long enough to read a job by its price, and the first rule she ever learned is
-this: **when the pay is too good, you are being paid for a risk no one will
-name.** Preem's coin is *very* good. She has no count of his other crews — the
-Jackals only just signed on, so she can prove nothing; it's everything her years
-taught her, prickling. She keeps her own dead in the death-book out of stubborn
-respect (someone should remember them), and she's quietly started a second tally
-she shows no one — the small wrong signs about *this* job — because she would
-rather see the trap a week early than a day too late. The cruelty of her is that
-even a sure hunch buys nothing: they're broke, there's no other work, and a
-quartermaster's bad feeling doesn't feed anyone. So she prices the next job and
-packs for it, watching. The Ashfoot's Olen is what's left when the hunch has been
-proven; Hadda is still hoping she's wrong.
-
-**Sefi (the cost, mile one).** Sefi has known nothing but the crew. The Jackals
-found her in the ruins of a port the **Muspel reconquest** had broken — a
-halfling child living off scraps — and took her in the way scavengers do: another
-small mouth, another set of quick hands. She grew up their mascot, then their
-odd-jobber, and she **worshipped Riska**, the scout who let her tag along. When
-Riska didn't come back, Sefi pulled on the too-big kit and the role with it,
-fierce to prove she could fill the gap. She is **brave the way only a kid trying
-to be brave is** — loud about the danger by daylight, undone by it in the dark.
-
-**Veska cannot bear to lose her.** Sefi is exactly the kind of child the holy war
-Veska once preached left in the ash, and saving this one is the only redemption
-Veska can imagine — so every job Sefi walks back from is a reprieve Veska doesn't
-trust, and the day the road takes her, it is Veska failing the children all over
-again. At the table Sefi is the **live wire of the Jackals scene:** the one the
-party will want to pull out of Preem's machine, and the plainest measure of what
-the machine costs if no one does. Reach for her and the Jackals have a reason to
-love the party; don't, and she is the Ashfoot walking, twenty years early.
-
-**Mogg (the soul of a doomed crew).** Every half-orc descends from the drowned
-Muspel, and Mogg carries that fall like a man carries a name. His own kin are
-gone the way his people always go — to the crusades and the pogroms that call
-orcs *sea-devils* and burn them out of every port they settle — and he came up
-in that long wreckage: hunted, joking, alive. He tells the old sagas (the
-fleets, Hjörungavágr, the king who would not strike his sail) because **a people
-everyone wants dead stays a people by remembering its dead**, and gallows-humor
-is the only way to carry that weight without it crushing you.
-
-That history is why he is the Jackals' enforcer **and** their conscience. He does
-the crew's hard work — he is big, and the work needs someone big — but he will
-**not** make the peace with it the Writ's Doruk made, because he knows from the
-inside what it is to be the one the strong hurt. So every blow he lands stays
-with him; he flinches where Doruk shrugs. The cost the Jackals show through Mogg
-is the **price of keeping your soul** in a trade built to take it: he feels all
-of it, and the work is bleeding the warmth out of him a little at a time. He is
-the decency of a doomed crew — and the proof, against Doruk, that the choice was
-never fixed.
-
-*Threads.* Mogg is, unknowing, a survivor of the very violence **Veska** once
-preached; the penitent and the hunted share a campfire with the crime unsaid
-between them. And he is **Doruk's** cross-crew mirror — the half-orc who survived
-the burning and can't make peace, against the dwarf who lit it and did. Cross
-them in the tavern with care.
-
-**Pim (the cost, self-administered).** Pim Riddle was a real alchemist once —
-clever hands, a good nose for a reaction — and on a better crew he'd have a shop
-and a sign over the door. He landed with the Jackals because grave-work pays and
-nothing else would take a nervous gnome, and the trade asks the one thing he can't
-give: to go down into the dark, alone and first, and put his fingers on things
-built to kill the curious. He was never brave enough for it. So he did the only
-thing he knew how to do — he **built himself a braver Pim out of bottles.** A
-stimulant to get down the shaft. A nerve-tonic so his hands won't shake on a
-trigger-stone. Something bitter to burn off the fear, and something heavier to
-black out the dreams afterward. It worked. That's the trap of it: it *worked,* job
-after job, for years.
-
-The bill came due in his head. He has been his own only test subject for too long,
-and the dosing that got him through each dig has been quietly **dismantling the
-man** — the stammer, the tic under one eye, the word that isn't there when he
-reaches for it, the way he'll start a sentence three times. The crew reads it as
-Pim being *Pim,* their twitchy little canary, and laughs, kindly enough; he plays
-along, because the laugh is easier than the truth. The truth is he knows exactly
-what's wrong with him, knows the cause is in his own kit, and **takes the next dose
-anyway,** because the alternative is going down a tomb sober and that he cannot do.
-
-He's the Jackals' cost worn inside-out. Veska's machine eats people from the
-outside; Mogg pays in the warmth bleeding out of him; **Pim is the one who tried to
-solve the cost himself, with chemistry, and the solution is the thing killing
-him.** Played light — he's genuinely funny, and the table will be fond of him fast
-— which is the point: the party laughs at the canary for a session before anyone
-clocks that the canary is dying of the air, by his own hand, one dig at a time.
-
-**Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
-the two crews are a half-step from a brawl the moment the party walks in. Veska
-may pitch the party a "screw the aristocrats" alliance. But under the bravado
-they're frightened: corner Hadda or Sefi and the **dread leaks out** — Hadda's
-nose for a job that pays too well, Sefi's nightmares of the mummy in the dark,
-Pim's bottles rattling a little too often, the plain bad odds of grave-work this
-far out. And Veska, if
-she warms to them, says the quiet part: every banner — the Church she fled,
-Preem, all of it — is the same machine wearing a different face, and she'd know;
-she served one and barely got out.
-
----
-
-## At the table — ready lines
-
-*Pick-and-play, not a script. Each NPC below has an **intro** (when a PC
-introduces themselves or sidles up), a **drink** beat (satyr tavern — everyone's
-holding something, and it characterizes them), and a **signature line** or two
-that shows who they are without giving away what's secret. **Say nothing here the
-NPC wouldn't say aloud:** Setha's drowned diggers, Calix's demon-toad, Doruk's
-Company paymaster, Issa's death-cult rite — all DM-side. These are the lines the
-crew hands the party over a drink; the horror is what's underneath them.*
-
-### The bartender — a Letap satyr, at the bar
-
-*The mural is up on the wall for the players to look at — he doesn't narrate the
-picture. When the party asks him to *tell* it, he gives the full founding-story
-monologue in
-[`maalm-founding.md` → The Bartender's Story](../lore/maalm-founding.md). These
-are the shorter bar-side beats: the drink custom and the couple of lines that add
-what a look at the paint can't. Same voice: measured, dry, unhurried — the
-goat-legs and the wine-god easiness under a gravekeeper's patience.*
-
-- **Drink service / the dragonborn custom.** *"First one's free if you've got
+**Hook lines.**
+- *Drink service / the dragonborn custom.* *"First one's free if you've got
   scales — Beowulf's rule, not mine, and a Letap doesn't argue with the dead."*
   *[to the rest]* *"The rest of you pay like everybody else. What'll it be?"*
-- **If they ask what it is** — he tells the founding story (linked above),
-  unhurried, polishing a glass, and lets it land on: *"...so they buried him in
-  the sun and built the city over the rest. You're drinking on top of the both of
-  them right now."*
-- **If pushed on why the paint's so worn.** *"It's older than your grandmother's
+- *If they ask what the mural is* — he tells the founding story unhurried,
+  polishing a glass, and lets it land on: *"...so they buried him in the sun and
+  built the city over the rest. You're drinking on top of the both of them right
+  now."*
+- *If pushed on why the paint's so worn.* *"It's older than your grandmother's
   grandmother, and nobody's touched it up. You don't fix a thing like that. You
   let it wear. That's how you know it's true — a lie gets repainted."*
-- **Turning them back to the room.** *[a nod toward the two loud tables]* *"Now —
+- *Turning them back to the room.* *[a nod toward the two loud tables]* *"Now —
   you want the old dead, that's the wall. You want the fresh trouble, that's those
   two crews at each other's throats over there. Both came in off the Valley same
   as you. Drink's the same price for stories."*
 
+**In conversation — the mural.** His full founding-story monologue (the whole
+Beowulf-and-Ammit tale, told in his measured voice) lives in
+[`maalm-founding.md` → The Bartender's Story](../lore/maalm-founding.md) — that's
+what he gives if the party ask him to *tell* it. No secrets here: the bartender's
+deep story is entirely player-facing.
+
+---
+
 ### The Lapis Writ — the ones who won
 
-**Setha Renk** *(half-elf; buys the round to look large, then bleeds it back in
-needles)*
-- **Intro.** *"Setha Renk, Lapis Writ — chartered, if that means anything to
-  you. Sit. Whatever they're having, it's on my tab tonight. I can afford to be
+*Chartered, funded, smug — and **done**. They cleared every tomb in the Valley
+without missing a name, and they'll make sure the party knows it. Each is a PC's
+road-not-taken: the version who said **yes**, didn't flinch, and is proud of it.
+They don't think the names are evil. They think the names are **theirs**.*
+
+**Tavern angle.** Setha buys a round to look magnanimous, then needles the party
+about how careless they've been. Each Writ member drifts toward their counterpart
+— Doruk corners Sarric, Calix unsettles Pax, Bram genuinely charms Jasper — so
+the mirror lands as *conversation*, not a lecture. Let the players feel the pull
+and the revulsion at once.
+
+**The missing-names handoff (table-fix, weaponized as a mirror).** The party
+fumbled names in tombs one through three; the Writ didn't — Issa's ledger holds
+the complete set. A name is *knowledge*, not a consumable, so the Writ lose
+nothing by sharing duplicates (the party just speak them down their *own* sending
+stone) — which is exactly why they will, as a flex. Stage it
+member-to-counterpart: Doruk slides Sarric the camp-tomb names; Issa gifts Aniess
+hers with a serene smile. However it plays, the party leave with the names they
+missed. *The kicker:* every name they hand over is another name the party carry
+back to Preem — so the smug favor quietly makes them *more* complicit, not less.
+Play it as kindness; let the weight land later.
+
+#### Setha Renk — half-elf · Lapis Writ leader *(Blackacre's mirror)*
+
+**Appearance.** The good wine, the bottle with a name, poured for the whole table
+so everyone can see who's paying.
+
+**Hook lines.**
+- *Intro.* *"Setha Renk, Lapis Writ — chartered, if that means anything to you.
+  Sit. Whatever they're having, it's on my tab tonight. I can afford to be
   generous; we finished the Valley."*
-- **Drink.** The good wine, the bottle with a name, poured for the table so
-  everyone can see who's paying.
-- **Signature.** *"Four tombs, and you're still out here? We cleared the whole
+- *The needle.* *"Four tombs, and you're still out here? We cleared the whole
   Valley and didn't leave a single name on a wall. Careless, careless — but
-  don't take it hard. Somebody has to come second."* *(And, quieter, if a PC
-  bites back:)* *"I clawed everything I have out of people who were sure I'd
-  come second. I don't anymore."*
+  don't take it hard. Somebody has to come second."*
+- *If a PC bites back.* *"I clawed everything I have out of people who were sure
+  I'd come second. I don't anymore."*
 
-**Doruk Pell** *(dwarf; warm, weary, the kindest voice at the worst table)*
-- **Intro.** *"Doruk. Pull up. You look like men who've been underground —
-  I know the look. Sit, sit, you don't have to talk. Let a dwarf buy you an
-  honest drink."*
-- **Drink.** Dark ale, no hurry, the mug turned slowly between two scarred
-  hands.
-- **Signature** *(to Sarric, gently, as kindness):* *"You carry it too close,
-  lad. I can see it on you. Whatever you did that you can't put down — the cause
-  carries the screams for you. That's what it's *for*. You just have to let it.
-  I sleep fine. So can you."*
+**In conversation.** She'll talk freely about the Writ finishing the Valley and
+needle the party's sloppiness. Earn her and the founder-blood story surfaces:
+she's a **founder-blood bomb in half-elf skin.** Her mother was the last of a
+**thinned founder house** — real old blood, a near-dead claim to a reserved,
+elves-only council seat — who tied the dying line to **Preem's cabal** for a road
+back to power and bore Setha to a non-elf father. The **founder bloc** that holds
+the old quarter found a half-blood carrying a live founder claim intolerable, and
+**one of the old houses had her mother killed** to end the line quietly. Preem
+took the orphaned half-blood in and **chartered her the Lapis Writ.** She's
+genuinely loyal to him — the only door that ever opened for her — but **no true
+believer**; toward the houses she carries cold, patient fury. The flawless Valley
+run is at once her **audition for Preem** and her **war-chest against the houses.**
+*("Lapis Writ" reads as the writ of claim she means to win back.)*
 
-**Issa Quib** *(halfling; serene, still, a half-step out of life — the room feels
-a degree colder near her)*
-- **Intro.** *[a small, calm smile; she doesn't rise]* *"Issa. You can shake my
+**DM only — what she can't tell you.** *Her buried betrayal (tomb three).* On the
+Writ's tomb-three run the **rising-water puzzle** flooded; her co-founder **Aurin**
+went back for the drowning hired diggers, and **Setha grabbed the only unsent copy
+of the names and took the exit,** leaving them to drown. (Crews relay names to
+Preem by paired **sending stone**; the slip in her fist was the one copy, worth
+more to her than the people who'd found them.) Afterward she recovered the bodies
+and **buried them off the Valley path,** and sold Preem a flawless clear — which
+is why the party found no corpses inside. They've already brushed the trace: the
+freshly, roughly dug third entrance and *"footprints of at least three people in
+sandals, recent"* they clocked in **session three** (see
+[`valley-of-the-kings.md`](valley-of-the-kings.md)) were her crew. Those unmarked
+graves are a live loose end — stumble on them and the Writ's perfect record, and
+Setha's seat, come apart. *The mirror:* Blackacre balked at that exact threshold
+and wanders to atone; Setha crossed it and sleeps fine. *Flip-lever:* show her
+what Preem really is, or offer her the houses' heads, and her loyalty is in play.
+
+#### Doruk Pell — dwarf · the Writ's closer *(Sarric's mirror)*
+
+**Appearance.** Dark ale, no hurry, the mug turned slowly between two scarred
+hands. The kindest voice at the worst table.
+
+**Hook lines.**
+- *Intro.* *"Doruk. Pull up. You look like men who've been underground — I know
+  the look. Sit, sit, you don't have to talk. Let a dwarf buy you an honest
+  drink."*
+- *Signature* *(to Sarric, gently, as kindness):* *"You carry it too close, lad.
+  Whatever you did that you can't put down — the cause carries the screams for
+  you. That's what it's *for*. You just have to let it. I sleep fine. So can
+  you."*
+
+**In conversation.** He'll tell it plainly and warmly, no shame in it. He's a
+**Suartleheim powderman** — the mining isle's craft of rock-breaking, powder, and
+fire — who carried that craft not to the war-front but to the **pogroms at home:**
+burning out the orc-diaspora quarters of the port-towns, settled families and
+town-born half-orcs who'd never raided anyone. What he burned *"was not only men."*
+He forgives himself **two ways at once:** his **Church of Sunne** brands the orcs
+heathen sea-devils, so the burning was holy work; and **Hjörungavágr** (~300 years
+back, where his own Suartleheim dwarves broke the orc war-fleets) makes it
+finishing a three-hundred-year score. Holy cause and ancient grudge together let
+him sleep. Now he's the Writ's **closer** — the hand that does what needs doing,
+kindly, wearily, and genuinely at rest.
+
+**DM only — what he can't tell you.** *The mirror:* Sarric's wound is the camp he
+burned where *"the screams he heard were not only the screams of men,"* and the
+numbness he refuses; Doruk is that forgiveness **achieved** — the exact peace
+Sarric is terrified of making. *Two conflict hooks:* (1) the pogroms were **Sunne**
+work — the same faith the Jackals' **Veska** fled; he served what she ran from.
+(2) He's drinking three feet from **Mogg,** mid-saga over the orc dead whose
+diaspora cousins Doruk burned — yours to decide whether that powder lights.
+*`[loose — 6/28]` Company reframe:* a powderman is exactly who the
+[Company](../lore/the-company.md) hires to clear ground, so you can run his
+orc-burning as **Company land-clearing and slave-raids** for a *third* paymaster
+(*"it was only business — the charter said it was legal"*) — Sunne-stoked,
+Company-bankrolled. Use whichever depth fits. Full card:
+[`characters/sarric.md`](../characters/sarric.md) for the PC he shadows.
+
+#### Issa Quib — halfling · Writ tomb-walker *(Aniess's mirror)*
+
+**Appearance.** Cold to the touch, breath shallow, a half-step into death — the
+room feels a degree colder near her. Cold water, or a tea gone tepid she never
+finishes; warmth doesn't take with her.
+
+**Hook lines.**
+- *Intro.* *[a small, calm smile; she doesn't rise]* *"Issa. You can shake my
   hand if you like. People usually only do it once."* *(Her hand is cold as
   cellar stone.)*
-- **Drink.** Cold water, or a tea gone tepid she never finishes — warmth doesn't
-  take with her.
-- **Signature** *(to Aniess, softly):* *"You mourn what someone took from you. I
+- *Signature* *(to Aniess, softly):* *"You mourn what someone took from you. I
   gave mine away — awake, on purpose, and I paid for the privilege. The quiet on
   the other side is worth more than everything I set down for it. Stop reaching
   back for who you were. She's not coming, and it's so much calmer once you let
   her go."*
 
-**Bram Hale** *(human; open, likeable, the most dangerous mirror because you'll
-*want* to trust him)*
-- **Intro.** *"Bram Hale. No airs — I'm the muscle, Setha's the blood and Calix
+**In conversation.** She's serene and open. She didn't need remaking to read the
+names — Preem hands every crew a **Pen of Comprehend Languages** — she sought out
+and **paid dearly for an old funerary rite of the dead empire's death-cult** that
+left her **death-touched:** still a living halfling, but cold, shallow-breathed, a
+half-step into death. The point was never an edge at the work; it was the
+**quiet** the rite bought her. The mummies and the five-thousand-year silence that
+wear every other crew down are simply *home.* She doesn't mourn what she gave up.
+
+**DM only — what she can't tell you.** *The mirror:* Aniess was remade into a
+not-quite-human thing *as a child, without consent,* and is only now waking in
+grief; Issa **chose every step, awake,** and is serenely, chillingly glad —
+remade-and-grieving vs. remade-and-glad. *Not a death knight:* she's **living and
+lesser** — death-*touched,* not undead. No martial menace, no command over the
+dead; she slips *past* them, she doesn't raise them.
+
+#### Bram Hale — human · Writ muscle *(Jasper's mirror)*
+
+**Appearance.** Warm, open, easy company; matches the party drink for drink and
+buys his own round. The most dangerous mirror, because you'll *want* to trust him.
+
+**Hook lines.**
+- *Intro.* *"Bram Hale. No airs — I'm the muscle, Setha's the blood and Calix
   is the... whatever Calix is. Here—"* *[flags the bartender]* *"—two more of
   whatever these good people are drinking, and I'm having the same. Sit with me."*
-- **Drink.** Whatever the party's having, matched round for round, easy company.
-- **Signature** *(open, no shame in it):* *"I grew up watching big men take
+- *Signature* *(open, no shame in it):* *"I grew up watching big men take
   everything that wasn't nailed down, and everyone I loved was too small to stop
   them. So I got the lesson early: don't be small. I went and worked for the big
   men. Best decision I ever made. You look at me like that's a sad story — it
   isn't. Sad's the ones who *stayed* small and called it honor."*
 
-**Calix Vire** *(elf; flat, unbothered, sunglasses-cool even in a dim tavern —
-play him straight-faced Blues Brothers)*
-- **Intro.** *[doesn't look up; produces a worn coin]* *"Calix."* *[flips it,
-  reads it, pockets it]* *"...It says I'm to be civil to you. Sit down, then."*
-- **Drink.** He flips the coin for it. *"Heads, the red. Tails, the dark."*
-  *[looks]* *"The dark."* Orders it with total finality, as though God chose.
-- **Signature** *(deadpan, to Pax or anyone):* *"I'm on a mission. No, I won't
-  tell you what it is — I'm not sure the telling's permitted. I go where I'm
-  sent, I do what's set in front of me, and the ones who don't come back weren't
-  meant to. You look troubled by that. I'm not. That's the difference between a
-  man who *thinks* he's called and a man who *is*."*
+**In conversation.** He tells the whole thing freely, exactly like Jasper would.
+He grew up powerless and watched **the powerful wreck his home for profit** — the
+same crime that forged Jasper — and drew the opposite conviction: not *protect the
+weak* but *never be weak again.* So he **sold his strength and loyalty to the
+powerful,** asked no questions, and climbed job by hard job until a chartered elite
+crew like the Writ was glad to have him. *(Leave the disaster vague like Jasper's,
+or pin it to the **Company's** land-clearing or a **Kuru** land-grab.)*
+
+**DM only — what he can't tell you.** *The mirror:* he and Jasper are the same man
+at the fork — both survived the strong eating the weak, both completely open about
+it. But Jasper carries the guilt in the open and spends his life **fighting** the
+strong; Bram carries **no guilt at all** and **became** one of their hands. Same
+warm, honest face, opposite soul — and the party liking him *is the trap.* Sample
+charm lines built to work on Jasper:
+[`characters/bram-hale.md`](../characters/bram-hale.md).
+
+#### Calix Vire — elf · Writ pathfinder *(Pax's mirror)*
+
+**Appearance.** Flat, unbothered, sunglasses-cool even in a dim tavern, a worn
+coin always in hand. He flips it for his drink — *"Heads, the red. Tails, the
+dark"* — and orders the result with total finality, as though God chose. Play him
+straight-faced Blues Brothers.
+
+**Hook lines.**
+- *Intro.* *[doesn't look up; produces a worn coin]* *"Calix."* *[flips it, reads
+  it, pockets it]* *"...It says I'm to be civil to you. Sit down, then."*
+- *Signature* *(deadpan):* *"I'm on a mission. No, I won't tell you what it is —
+  I'm not sure the telling's permitted. I go where I'm sent, I do what's set in
+  front of me, and the ones who don't come back weren't meant to. You look
+  troubled by that. I'm not. That's the difference between a man who *thinks* he's
+  called and a man who *is*."*
+
+**In conversation.** Almost nothing — that's the point. He's serenely, totally
+certain he was **chosen for a purpose;** he had a private revelation, the world
+seemed to *agree* (he was elevated, he succeeded), and every win since hardened
+the certainty into something calm and complete. He never explains the mission and
+never doubts it. The grave-work and any wreckage are just part of The Mission,
+shrugged off with a calm that plays funny right up until you realize he means
+every word.
+
+**DM only — what he can't tell you. 🔒** Calix is a **prophet who is really a
+puppet.** The "voice of God" is the **telepathy of his familiar** — his **pet
+toad,** which he takes for a blessed sign, in truth a **quasit** (a toad is one of
+its forms) — and the quasit is **Preem's.** Preem steers his deniable
+true-believer through it; Calix obeys as divine command, never knowing it's a
+demon or that it answers to Preem. The quasit can **scout and warn,** so the
+"voice" steers him clear of what kills his crewmates — and he reads being the
+survivor as divine favor. He makes **no big choice himself:** he **casts lots**
+(worn coins, knucklebones) at every fork and obeys the throw, and the voice
+"interprets" an ambiguous result, so Preem can tip even the coin. *The mirror:*
+same chosen-instrument conviction as Pax, opposite reception — Pax **rejected** and
+tormented, Calix **vindicated** and untroubled. His certainty is **pure
+psychology, not cosmology** — he doesn't know what the names *do,* so he gives
+nothing away. Clock the familiar for a demon and he becomes a quiet wire back to
+Preem — don't spend it cheaply. Full card:
+[`characters/calix-vire.md`](../characters/calix-vire.md).
+
+---
 
 ### The Brass Jackals — the ones it costs
 
-**Veska Tull** *(human; a burnt-out preacher's voice, still able to make you lean
-in even with the faith gone out of it)*
-- **Intro.** *"Veska. Don't let the sneering lot over there put you off — we're
-  the honest half of this room, which isn't saying much."* *[a tired, testing
-  look]* *"You came off the Valley too. So you already know nobody's paying grave
-  wages out of kindness."*
-- **Drink.** Cheap and strong, nursed slow — she makes one last.
-- **Signature** *(low, if she warms to them):* *"I used to preach. Big crowds,
-  holy fire, the whole burning business. Then I saw what the fire actually ate,
-  and I walked into the sea rather than say another word for it. And here I am
-  working for Preem." *[a dry, humorless breath]* *"Every banner's the same
-  machine, friend. Church, coin, comet — different paint, same teeth. I'd know. I
-  served one and barely crawled out."*
+*Foreign freelancers from the north (Kuru), loud, broke, and a member or two
+lighter than they started. Not the party's reflection — their **warning.** The
+world's casualties, now robbing graves to survive. Before Preem they were
+**scavengers of the Muspel reconquest** — trailing Kuru's holy war into
+Musleheim to strip battlefields and pick over ruined ports; robbing tombs is the
+same trade on new ground. Their losses are from those years: their founder **Old
+Brakker** went down with a salvage that flooded, which is how **Veska** came to
+lead a crew she never founded, and the most recent name in the book is **Riska,**
+their young scout, lost on the road not long ago — green **Sefi** is filling her
+shoes, and not ready.*
 
-**Hadda Vimm** *(dwarf; quartermaster, sharp-eyed, a bad feeling she can't prove)*
-- **Intro.** *"Hadda. I keep the coin and the map, so I'm the one who's sober."*
-  *[eyes the party's gear, pricing it out of habit]* *"Four tombs on that
-  outfit? You've done better than you look. Or worse. Hard to say from here."*
-- **Drink.** The cheapest thing on the board, and she watches the tab like it
-  owes her money.
-- **Signature** *(quietly, over the rim of her cup):* *"You want a rule that's
-  kept me alive? When the pay's too good, you're being paid for a risk nobody
-  will say out loud. And Preem's coin is *very* good."* *[a glance toward the
-  door, the way out]* *"I can't prove a thing. That's the trouble with a nose.
-  It's always a week ahead of the proof."*
+**Tavern angle.** Loud, broke, and sneering at the Writ's founder-blood airs —
+the two crews are a half-step from a brawl the moment the party walk in. Veska may
+pitch a "screw the aristocrats" alliance. But under the bravado they're
+frightened: corner Hadda, Sefi, or Pim and the **dread leaks out.**
 
-**Sefi** *(halfling; the crew's kid, thrilled by daylight, hollow-eyed by dark —
-the one the party will want to save)*
-- **Intro.** *[bright, too eager]* *"You're name-hunters too? Real ones? I'm the
+#### Veska Tull — human · Brass Jackals leader *(Doruk's cross-crew mirror)*
+
+**Appearance.** Cheap and strong, nursed slow — she makes one last. A burnt-out
+preacher's presence: the fire's gone out, but she can still make you lean in.
+
+**Hook lines.**
+- *Intro.* *"Veska. Don't let the sneering lot over there put you off — we're the
+  honest half of this room, which isn't saying much."* *[a tired, testing look]*
+  *"You came off the Valley too. So you already know nobody's paying grave wages
+  out of kindness."*
+- *Signature* *(low, if she warms):* *"Every banner's the same machine, friend.
+  Church, coin, comet — different paint, same teeth. I'd know. I served one and
+  barely crawled out."*
+
+**In conversation (if she warms).** She was a poor Kuru girl with a gift for the
+pulpit who rose fast in the **Church of Sunne,** preaching the **reconquest** as
+holy work — the orcs as heathen sea-devils. Her real office was the **pogroms:**
+she went ahead of the Order's torch-men to work a port's faithful into righteous
+fury before the burning; her sermons lit the match, men like the Writ's **Doruk**
+carried the fire. It broke at **Sukkek** — she walked into the burned quarter at
+dawn to bless the cleansed ground, and the dead were town-born half-orc families,
+old people, children who had never raided anyone. Something in her went out and
+never relit. Now she leads the Jackals on burnt-out fervor, rallying desperate
+people toward one more grave because the alternative is watching them starve.
+
+**DM only — what she can't tell you.** *The mirror:* the **deserter** to Doruk's
+made-peace — same Sunne fire, she ran, he stayed. *Her secret:* the Church
+believes she **died in that fire,** and she lets them (a dead ex-preacher is no
+one's problem); she stole a rowboat and crossed to **Raand** half-dead at the
+oars. Her one real weapon is the pulpit — **the day she preaches against them is
+the day Kuru learns she walked out of Sukkek alive.** *One limit:* she fled the
+*public* Church, never its hidden child-arm — so she **can't tell what Aniess is;**
+out here, no one can.
+
+#### Hadda Vimm — dwarf · Brass Jackals quartermaster
+
+**Appearance.** The cheapest thing on the board, watched like it owes her money.
+Keeps the crew's coin, supplies, map — and its **death-book.**
+
+**Hook lines.**
+- *Intro.* *"Hadda. I keep the coin and the map, so I'm the one who's sober."*
+  *[eyes the party's gear, pricing it out of habit]* *"Four tombs on that outfit?
+  You've done better than you look. Or worse. Hard to say from here."*
+- *Signature* *(over the rim of her cup):* *"You want a rule that's kept me alive?
+  When the pay's too good, you're being paid for a risk nobody will say out loud.
+  And Preem's coin is *very* good."*
+
+**In conversation.** She keeps a **death-book** — every Jackal they've buried, by
+name, from the scavenging years — out of stubborn respect (someone should remember
+them). Corner her and the unease leaks: the pay's too high for grave-robbing,
+Preem runs an odd number of crews at once, the sites are a long way to send
+people. She's as new to Preem as the rest and can prove nothing — it's a **nose,**
+a week ahead of the proof, quietly pricing the odds and not liking them.
+
+**DM only — what she can't tell you.** She's started a **second tally she shows
+no one** — the small wrong signs about *this* job — because she'd rather see the
+trap a week early than a day too late. The cruelty: even a sure hunch buys
+nothing — they're broke, there's no other work, and a quartermaster's bad feeling
+doesn't feed anyone. She's the lighter echo of the Ashfoot's **Olen,** who has the
+proof she only dreads; Hadda is still hoping she's wrong.
+
+#### Sefi — halfling · Brass Jackals scout
+
+**Appearance.** A kid in too-big kit. Wants whatever the grown-ups are having;
+Hadda waters it; she drinks it like fire and pretends not to notice.
+
+**Hook lines.**
+- *Intro.* *[bright, too eager]* *"You're name-hunters too? Real ones? I'm the
   *scout* — first one into the dark, that's me, that's my job now. I went the
-  deepest last dig. Deepest of anybody."* *(She says it like a dare and a plea at
-  once.)*
-- **Drink.** Wants whatever the grown-ups have; Hadda waters it; she pretends not
-  to notice and drinks it like it's fire.
-- **Signature** *(if the party is kind, the bravado thins):* *"...Do the mummies
+  deepest last dig. Deepest of anybody."* *(A dare and a plea at once.)*
+- *Signature* *(if the party is kind, the bravado thins):* *"...Do the mummies
   ever — no. Never mind. It's just a job. Riska used to say that. She had my seat
   before me."* *[quickly bright again]* *"She'd have loved how deep I got."*
 
-**Mogg** *(half-orc; the storyteller, deadpan, funnier than the situation allows,
-decent to the bone)*
-- **Intro** *(if they came in on his saga, he's just landed the joke):* *"—and
+**In conversation.** A halfling **war-orphan** the Jackals pulled from the ruins
+of a port the **Muspel reconquest** had broken, and raised as the crew's kid. She
+**worshipped Riska,** the scout who let her tag along; when Riska didn't come back,
+Sefi pulled on the too-big kit and the role, fierce to prove she can fill the gap.
+She's **brave the way only a kid trying to be brave is** — loud about the danger by
+daylight, undone by it in the dark, where a child's **nightmares of the mummy**
+find her alone in the black.
+
+**DM only — what she can't tell you.** The one real thing she only half-knows:
+**Riska died doing exactly this seat.** And **Veska cannot bear to lose her** —
+Sefi is exactly the child the holy war Veska once preached left in the ash, and
+saving this one is the only redemption Veska can imagine; the day the road takes
+her, it's Veska failing the children all over again. Sefi is the **live wire** of
+the scene: reach for her and the Jackals have a reason to love the party; don't,
+and she's the Ashfoot walking, twenty years early.
+
+#### Mogg — half-orc · Brass Jackals enforcer & storyteller *(Doruk's cross-crew mirror)*
+
+**Appearance.** Big — the work needs someone big. The biggest cup in the house,
+earned a story at a time; *"a tale for a cup"* is the standing deal. The party
+first overhear him **mid-saga** (see **The opening beat** above).
+
+**Hook lines.**
+- *Intro* *(if they came in on his saga, he's just landed the joke):* *"—and
   *that's* how you lose a war and win the telling of it."* *[to the party, dry]*
   *"Mogg. You'll want to hear the end of it, but the end costs a drink. Everything
   worth hearing does."*
-- **Drink.** The biggest cup in the house, earned a story at a time — *"a tale
-  for a cup"* is the standing deal.
-- **Signature** *(quieter, when the room's not watching):* *"Every half-orc you
-  ever met came off the drowned fleets. My whole people, gone to the sea and the
-  torch. So I keep the stories, because a people nobody wants dead stays a people
-  by remembering its dead."* *[flexes the big hand he does the crew's ugly work
-  with]* *"And I do what a big man gets hired to do. But I *feel* every bit of it.
-  That's the part I won't sell."*
+- *Signature* *(quieter, when the room's not watching):* *"I do what a big man
+  gets hired to do. But I *feel* every bit of it. That's the part I won't sell."*
 
-**Pim Riddle** *(gnome; twitchy, self-dosed, played for a nervous laugh — and
-dying of it by his own hand)*
-- **Intro.** *"P-Pim. Pim Riddle. Alchemist — real one, or was, I— you don't want
+**In conversation.** Every half-orc descends from the drowned **Muspel,** and Mogg
+carries that fall like a name. His kin are gone the way his people always go — to
+the crusades and pogroms that call orcs *sea-devils* and burn them out of every
+port they settle — and he came up in that long wreckage: hunted, joking, alive. He
+tells the old sagas (the fleets, **Hjörungavágr,** the king who would not strike
+his sail) because **a people everyone wants dead stays a people by remembering its
+dead,** and gallows-humor is the only way to carry the weight. He does the crew's
+hard work but **won't** make peace with it; every blow he lands stays with him.
+(Full tales: [`ships-and-sea-power.md`](../lore/ships-and-sea-power.md).)
+
+**DM only — what he can't tell you.** *The mirror:* the half-orc who survived the
+burning and **can't** make peace, against the Writ's **Doruk** who lit it and
+**did** — the proof, against Doruk, that the choice was never fixed. *Thread:* he
+is, unknowing, a survivor of the very violence **Veska** once preached — the
+penitent and the hunted sharing a fire with the crime unsaid between them. Cross
+him with Doruk in the tavern with care.
+
+#### Pim Riddle — gnome · Brass Jackals alchemist & trap-breaker
+
+**Appearance.** Twitchy; a bandolier of his own bottles rattling; a tic under one
+eye; sentences started three times. He drinks only his own compounds — trusts
+nothing he didn't mix.
+
+**Hook lines.**
+- *Intro.* *"P-Pim. Pim Riddle. Alchemist — real one, or was, I— you don't want
   the tavern's stuff, it's all vinegar and regret, here—"* *[produces his own
   flask, then a second, checks the wrong one, swaps them]* *"—no, *that* one,
   that one's the— never mind which."*
-- **Drink.** His own compounds, out of his own bottles, rattling in a bandolier;
-  he trusts nothing he didn't mix.
-- **Signature** *(the tic under his eye going, the sentence starting three times):*
-  *"I go down the holes s-sober, I— I can't. Can't do it. So I don't. There's a
-  bottle for down, a bottle for the hands, a bottle for the — for the dreams
-  after."* *[a shaky grin, playing it for the laugh, because the laugh is easier]*
-  *"Works every time. That's the funny part. It always works."*
+- *Signature* *(the tic going, playing it for the laugh):* *"I go down the holes
+  s-sober, I— I can't. Can't do it. So I don't. There's a bottle for down, a
+  bottle for the hands, a bottle for the — for the dreams after. Works every time.
+  That's the funny part. It always works."*
+
+**In conversation.** He was a real alchemist once — clever hands, a good nose for
+a reaction — and landed with the Jackals because grave-work pays and nothing else
+would take a nervous gnome. The trade asks the one thing he can't give: go down
+first, alone, into the dark and put his fingers on things built to kill the
+curious. So he **built himself a braver Pim out of bottles** — a stimulant to get
+down the shaft, a nerve-tonic so his hands won't shake on a trigger-stone,
+something bitter to burn off the fear, something heavier to black out the dreams.
+It *worked,* job after job, for years. The crew reads the twitch as Pim being
+*Pim,* their canary, and laughs kindly; he plays along, because the laugh is
+easier than the truth.
+
+**DM only — what he can't tell you.** He **knows exactly** what's wrong with him,
+knows the cause is in his own kit, and **takes the next dose anyway** — because the
+alternative is going down a tomb sober, and that he cannot do. He's the Jackals'
+cost worn inside-out: the one who tried to **chemistry the cost away,** and the
+cure is killing him faster than the job would. Played light — the table will be
+fond of him fast — which is the point: they laugh at the canary for a session
+before anyone clocks that the canary is dying of the air, by his own hand.
 
 ---
 
