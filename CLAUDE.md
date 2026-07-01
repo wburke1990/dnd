@@ -194,6 +194,22 @@ For campaign **content** questions (NPCs, bestiary, lore, encounters,
 sessions) there is no dedicated agent — it's all markdown now, so use
 `Explore` to grep `bestiary/`, `characters/`, `lore/`, `sessions/`, etc.
 
+**But when we're about to *brainstorm, write, or edit* content together,
+subagents locate — *you* read.** This is the one place the "delegate
+content lookups" default is wrong, and it has bitten a session: a
+subagent's 1–2 sentence summary is lossy in exactly the way that ruins a
+brainstorm. It flattens who's alive vs. dead, who's standing in the room,
+and the *exact wording* — so you'll confidently assert the inverse of what
+the file says (e.g. shepherding the living mother's soul instead of the
+dead father's, or a doorway someone "used to" stand in when she's still
+standing in it). The whole point of this repo is that the source files fit
+in your context so we can think together over the *real text*. So: use
+`Explore` to figure out **which** files matter, then **actually `Read`
+that handful yourself before we start** — don't compose on top of
+summaries. This applies to **content markdown only**; the large-blob rule
+below still holds absolutely — never `Read` TTS saves or cached assets
+(jq/unpack/`tts-inspector` them).
+
 **Generic subagents:**
 
 - Codebase questions / file lookups → `Explore`
