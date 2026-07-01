@@ -35,7 +35,7 @@ why Kuru's much later colonists had no idea a whole people still lived *below* K
 §V–VI).
 
 🔒 **A pass is not purely natural in its outcome — the event can be *controlled.*** The
-[First Foundation](the-first-foundation.md) (men and dragonborn) learned to channel
+[First Foundation](the-first-foundation.md) (men and dragonborn — **and demons**) learned to channel
 a pass's volcanism into *controlled, land-building eruptions* — that is how Musleheim
 was raised from the sea — rather than a civilization-ending explosion. Who controls
 the event, and to what end, is the hidden lever beneath all the history below.
@@ -57,10 +57,10 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 
 | Pass / event | When | What it did |
 |---|---|---|
-| 1st — Creation | ~6,000 ya | Taniyn falls; the **island of Lonka** is made — the holy dragonborn homeland (later Jotunheim); the common ancestor seeds all races (the dragonborn themselves arising some time after). The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
+| 1st — Creation | ~6,000 ya | Taniyn falls; the **island of Lonka** is made — the holy dragonborn homeland (later Jotunheim); the common ancestor seeds **nearly all** races — the dragonborn are just one, arising some time after, so **most races predate the dragonborn** and do not descend from them (demons are the power apart; see the Manichean note). The **phoenix-stone** falls in the same pass and becomes **Kuru** — the one comet-god that will *die and be reborn* every pass after (see [Kuru & the phoenix](kuru-and-the-phoenix.md)). |
 | 2nd — **The Bleeding Star / Ragnarok I** | ~5,000 ya | Krakatoa-analog eruption ends the Amseh empire; three islands destroyed; **obliterates Golden Lonka into a caldera** (→ Jotunheim) and drives **Kalikhat** underground. |
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
-| *(the **First Foundation** founded)* | *~4,100 ya* | *Men and dragonborn learn to **steer a comet-pass into controlled, land-building eruptions** rather than catastrophe; they ride the **hot spot** southeast and become the inner circle of what will be the Muspel empire (see [First Foundation](the-first-foundation.md)).* |
+| *(the **First Foundation** founded)* | *~4,100 ya* | *Men and dragonborn **— and demons —** learn to **steer a comet-pass into controlled, land-building eruptions** rather than catastrophe; they ride the **hot spot** southeast and become the inner circle of what will be the Muspel empire (see [First Foundation](the-first-foundation.md)).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
 | *(**Jotunheim** retaken — the dragonborn Zealots)* | *~3,000 ya* | *Maalm elves had resettled the Bleeding Star's caldera as **Jotunheim**; now the Muspel empire's own zealot **dragonborn** walk the Abyss tunnels under the sea and **seize the holy island back**, massacring the colonists (rhyming with Ravana's seizure of Lanka). They hold it still — insular and feared, a **Dragon Turtle** guarding its bay (see [Lonka / Jotunheim](lonka-jotunheim.md)).* |
 | *(**Kuru** colonized)* | *~2,800 ya* | *The Muspel empire founds **Kuru** as a colony — after its dragonborn had gone, so nearly all-human (see [the Muspel empire](the-muspel-empire.md)).* |
@@ -70,7 +70,7 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 | 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VI, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
 | *(the orc sea falls — **Svolder & Hjörungavágr**)* | *~320 / ~300 ya* | *The two legendary sea-battles at the close of the raiding age break the **Muspel orcs'** command of the water — **Svolder** (orc against orc), then **Hjörungavágr** (the **Suartleheim dwarves** against the orcs), where an undersea eruption **begins raising the Kurunatukas**: the battle that broke the orc sea and the birth of the new land are one event (see [ships & sea-power](ships-and-sea-power.md)).* |
 | *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush** onto the fresh, extraordinarily rich Kurunatuka islands as the hot spot surfaces them; they grow into **client-states**, not mere colonies (see §VI).* |
-| 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation. 🔒 Preem means to trigger it early and on purpose. |
+| 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation. 🔒 Preem can't move the timing, nor cause or prevent the pass — but he means to **control its *result*,** forcing this pass to fall as catastrophe rather than be handled. |
 
 *Sources: [campaign overview §5](campaign-overview.md), [Amseh dynasty](amseh-dynasty.md), [the Second Foundation](the-second-foundation.md).*
 
@@ -250,7 +250,7 @@ from Muspelheim** — the only way to take a fortress-caldera — and massacred 
 
 ### The First Foundation and the making of the new lands (~4,100 → ~1,000 ya)
 The stretch that fills the long middle. From ~4,100 the **First Foundation** — men and
-dragonborn who learned to **steer a comet pass into controlled, land-building eruptions**
+dragonborn (**and demons**) who learned to **steer a comet pass into controlled, land-building eruptions**
 rather than catastrophe — rode the **hot spot** southeast, raising **Musleheim** and the
 new islands across the ~4,000 / 3,000 / 2,000-ya passes. They formed the inner circle of
 what became the **Muspel empire** (§VI) — which, once Musleheim was raised, **founded Kuru
@@ -353,9 +353,11 @@ The most recent chapter of history, and the one the party lives inside. Norse re
 ## VII. The Campaign's "Now" — ~1,026 years into the current cycle 🔒
 
 - The **Second Foundation** reckons the **next Ragnarok ~1 year away.**
-- 🔒 **Preem,** the order's current **First Chair,** does not intend to wait. He means
-  to **cause** the cataclysm himself — to trigger volcanism on demand by **binding a
-  volcano-demon with its true name.**
+- 🔒 **Preem,** the order's current **First Chair,** cannot change *when* the comet
+  passes, nor summon or prevent the pass — the ~1-year clock is fixed and outside anyone's
+  hand. What he means to control is its **outcome:** by **binding a volcano-demon with its
+  true name** he would force the coming pass into a violent, land-shattering **Ragnarok**
+  rather than let it be handled into land-building. He steers the *result*, not the timing.
 - 🔒 The **party is the harvest crew.** Working for Preem out of Maalm, they are
   collecting names from the **Valley of the Kings** tombs — believing them trophies.
   They are **keys**, and the party is being taught, one job at a time, what a key does
