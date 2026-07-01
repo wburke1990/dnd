@@ -475,7 +475,7 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   democratically settled** — a thin, leaderless people scattered on the phoenix-god's shore.
   Then the First-Foundation-led **[Muspel empire](the-muspel-empire.md)** spread outward and
   **planted a colony over them.** Crucially this came **after the empire's dragonborn had
-  walked home to Jotunheim** (~3,000 ya; [Lonka §4](lonka-jotunheim.md)) — so the colonists
+  walked home to Jotunheim** (~2,900 ya; [Lonka §4](lonka-jotunheim.md)) — so the colonists
   were **nearly all human,** which is why Kuru is the **man-dominated** society it still is.
   (Canon's *"[the First Foundation founded Kuru](the-first-foundation.md)"* and *"the Muspel
   empire colonized Kuru"* are **one event** — the First Foundation worked *through* the empire.)

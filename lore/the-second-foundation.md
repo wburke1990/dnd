@@ -133,8 +133,8 @@ demise of the valley kings.** **[settled]**
   [Preem's demons](../characters/preems-demons.md#demonic-restoration-homebrew-house-rule).)
   **[settled — 6/29]**
 - **The grievance behind it is older than the advancing empire — Jotunheim.**
-  A thousand years before the founding, ~3,000 ya, **Maalm's own colonists
-  holding Jotunheim were massacred** by the breakaway Muspel dragonborn — the
+  The better part of a thousand years before the founding, ~2,900 ya, **Maalm's own colonists
+  (elves and men) holding Jotunheim were massacred** by the breakaway Muspel dragonborn — the
   **Lonka Zealots** — who crossed under the sea through the **demon-people's
   tunnels** and came up *inside* the caldera to do it (see
   [Lonka / Jotunheim](lonka-jotunheim.md) and

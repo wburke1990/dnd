@@ -74,18 +74,19 @@ crusader-colonists landed (~2,000 ya)** they had no notion a whole people still 
 
 ---
 
-## 3. Jotunheim — the elves resettle the caldera (~3,200 ya → later)
+## 3. Jotunheim — Maalm colonists resettle the caldera (~3,000 ya → shortly after)
 
 Only after **the better part of two thousand years** — a pass's sickness leaves a land
 dead for a millennium at least, and Lonka took the full blast of it — did the caldera
-become **habitable again**, and **elves out of Maalm settled it** (so, well after
-[Maalm's founding ~4,100 ya](maalm-founding.md)).
+become **habitable again**, and **colonists out of Maalm — elves and men — settled it**
+(so, well after [Maalm's founding ~4,100 ya](maalm-founding.md)).
 They **renamed it Jotunheim**, the giants' land, in the Norse register of the northern
-seas. For a while it was theirs — **only a couple of centuries,** as it turned out (§4).
+seas. For a while it was theirs — **barely a century,** as it turned out: the dragonborn
+came for it almost as soon as they'd settled (§4).
 
 ---
 
-## 4. The Zealot Reconquest — the dragonborn walk home (~3,000 ya)
+## 4. The Zealot Reconquest — the dragonborn walk home (~2,900 ya)
 
 `[settled 6/22]` The dragonborn who took Jotunheim back did not come *from parts unknown* —
 they came **from Muspelheim, on foot, under the sea.** The chain:
@@ -106,11 +107,18 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
   and Kuru both read as *man*-dominated). Where did the dragonborn go? **Home.** Once the **hot
   spot drifted southeast** and the
   **northwest coast of Muspelheim cooled** enough to enter — the tunnels nearest the hot spot
-  run molten — **~3,000 ya at the earliest** — the zealots **walked the Abyss tunnels under the
-  sea** to the one island in range: **Jotunheim / Lonka,** Taniyn's first perch.
+  run molten — **~3,000 ya the road finally opened,** and **within a century (~2,900 ya)** the
+  zealots **walked the Abyss tunnels under the sea** to the one island in range: **Jotunheim /
+  Lonka,** Taniyn's first perch. (Still *before* Kuru's founding ~2,800 — so Kuru stays all-human.)
+- **The break was a falling-out, not only a calling.** `[settled — Will]` The zealots meant to
+  retake the holy island by **massacring the colonists,** and the empire's **own humans would not
+  put their name to a religious slaughter** (little love for the Maalm colony, but butchering it
+  crossed a line). Rebuffed, the dragonborn **broke away and went alone.** So the exodus is *push
+  as much as pull* — a clean dragonborn–human rupture, and the **first crack of the Time of
+  Troubles** (see [world-history timeline §VI](world-history-timeline.md)).
 - **You can't storm a fortress-caldera from the open sea** (sheer cliffs, one guarded channel,
   §5) — so they **didn't.** They came **up from underneath,** out of the tunnels into the bay,
-  and **massacred the Maalm-elf colonists** who had held the island barely a couple of centuries
+  and **massacred the Maalm colonists (elves and men)** who had held the island barely a century
   (§3). To them it was not conquest but **reconsecration** — the dragon's first perch taken back
   from usurpers (the on-file analogy: *the Crusaders retaking Jerusalem*).
 
@@ -128,7 +136,7 @@ This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready textu
   monstrous guardians.
 - **An Ashoka Vatika.** Add the **walled grove** where Ravana held Sita — somewhere in
   the caldera, beautiful and wrong.
-- **Hanuman's leap = the avenging return.** The **Maalm elves who colonized the wasteland
+- **Hanuman's leap = the avenging return.** The **Maalm colonists who settled the wasteland
   are the usurpers**, and the returning dragonborn the **avengers** — though here they cross
   *under* the sea, not over it (§4).
 - **The causeway as a *tunnel* — `[settled]`, this is how they came (§4):** the zealots

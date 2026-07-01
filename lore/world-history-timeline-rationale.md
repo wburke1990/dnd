@@ -21,7 +21,8 @@
   founding (~4,100) is the empty trough *before* the land returns.
 - **A bad pass's alchemical sickness leaves land dead for 1,000+ years** (Musleheim is *still*
   half-poisoned a millennium on). So **Lonka** (hit ~5,000) is unlivable until ~3,200, and
-  **Kalikhat's surface** until ~2,000 — which is when each can next be settled.
+  **Kalikhat's surface** until ~2,000 — which is when each can next be settled. (Lonka is resettled
+promptly, ~3,000, and held only ~a century before the dragonborn take it back.)
 - **The hot spot drifts southeast,** cooling what it leaves behind. The under-sea tunnels off
   **northwest Musleheim** only cool enough to walk **~3,000 ya** — the earliest the dragonborn
   could walk home to Jotunheim.
@@ -40,8 +41,8 @@
 | The Dark Age | 4,960–4,100 | From the Amseh collapse to Maalm's founding — the empty trough between passes. |
 | Maalm founded (Bedraageon) | ~4,100 | Set *before* the ~4,000 pass returns land, so Bedraageon finds an empty world and no other dragonborn. |
 | Musleheim raised; Muspel empire & Iron Age begin | ~4,000 | The comet pass that builds the fire-island; nothing on Musleheim can predate it. |
-| Lonka habitable → Jotunheim resettled by Maalm elves | ~3,200 | The ~5,000 sickness finally fades, after ~2,000 years dead. |
-| Dragonborn exodus → Zealots retake Jotunheim | ~3,000 | Earliest the NW-Musleheim tunnels cool enough to walk; Jotunheim is already resettled to take. |
+| Lonka habitable → Jotunheim resettled by Maalm colonists (elves and men) | ~3,200 → ~3,000 | The ~5,000 sickness finally fades, after ~2,000 years dead; colonists settle promptly. |
+| Dragonborn exodus → Zealots retake Jotunheim | ~2,900 | NW-Musleheim tunnels cool enough to walk ~3,000; within a century the zealots go — still *before* Kuru's founding, so Kuru stays all-human. |
 | Kuru founded (≈100% human) | ~2,800–2,500 | Founded *after* the dragonborn have gone — so the colonists are all human. |
 | Kuru rebels → the Order of Sunne is born | ~2,500–2,200 | A few centuries of colonial chafe after the founding. |
 | Kalikhat Crusades (Kuru's first) | ~2,000–1,600 | After Kuru's independence, and once Kalikhat's surface is habitable again (~2,000). |
