@@ -378,7 +378,7 @@ half-forgotten.
 
 ---
 
-## VIII. The Campaign's "Now" — ~1,026 years into the current cycle 🔒
+## VIII. The Campaign's "Now" — ~1,000 years into the current cycle 🔒
 
 - The **Second Foundation** reckons the **next Ragnarok ~1 year away.**
 - 🔒 The wider **Second Foundation** already intends to **let** the coming pass fall as
@@ -418,7 +418,6 @@ half-forgotten.
 
 ### Loose ends worth a DM's attention
 - `[OPEN]` The First and Second Foundation's true in-world names.
-- `[OPEN]` Exact present-day comet-cycle year (we're "~1,026 in" but the next pass is "~1 year out" — tighten or embrace the slack).
 - `[OPEN]` Whether the ~1,000-ya "bad pass" and a formal "Ragnarok" count are the same event.
 - `[OPEN]` Fate of the Snake Island after the Bleeding Star (damaged? destroyed? still out there?).
 - `[OPEN]` What else the old (human) Muspel empire colonized besides Kuru.
