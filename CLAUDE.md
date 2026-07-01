@@ -32,6 +32,14 @@ If you learn something worth remembering across sessions, add it here.
 
 ### Working style & preferences
 
+- **Sessions are often dictated on mobile.** The user frequently drives
+  sessions by voice on a phone, reading your output and answering as they
+  go. Two consequences: a long reply buries the text they're mid-answer
+  to, and their replies typically lag a question or two behind what
+  you've written. So **keep replies short, ask ONE question at a time,
+  and never stack multiple questions in a turn.** Lead with the one-line
+  result or the single decision you need; save rationale for when asked.
+
 - **The user never reads or reviews code** — a deliberate "delegate all
   code judgment to the agent" experiment. They haven't written Lua and
   consider code-level trade-offs over their head. So: own implementation
