@@ -24,7 +24,7 @@ handling.
 `[settled 6/22]` **The dragonborn were indispensable founders** — at Musleheim's raising
 (~4,000 ya) they were the **only people on Nila with ships,** so the seafaring half of
 "men and dragonborn" was theirs. But they did not stay: over the following millennium their
-faith turned **zealot,** and ~2,900 ya they **left the empire and walked the sea-tunnels home
+faith turned **zealot,** and ~1,900 ya they **left the empire and walked the sea-tunnels home
 to retake Lonka/Jotunheim** (see [Lonka — Jotunheim §4](lonka-jotunheim.md)). Their exodus is
 why the [Muspel empire](the-muspel-empire.md) and **Kuru** end up *man*-dominated.
 

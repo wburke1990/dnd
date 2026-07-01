@@ -73,7 +73,7 @@ It came apart in steps:
    empire's power had been demon-power, Kuru's revolution was anti-demon at its
    root, and the Phoenix later made a creed of it — *look what their power did*
    (see [Kuru and the Phoenix](kuru-and-the-phoenix.md)).
-5. Later — about two thousand years ago — the elves founded the **Second
+5. Later — ~1,850 years ago, in the wake of the Jotunheim massacre — the elves founded the **Second
    Foundation** as the expanding Muspel empire marched toward their cities, and
    it was they who **invented the binding of demons by their true names.** That
    technique is the order's own, not an ancient inheritance; it turned the
@@ -99,7 +99,7 @@ For the binding rule itself — Planar Binding plus a true name, no save — see
 [Preem's demons](../characters/preems-demons.md). What matters here is how a
 name is gotten in the first place, which is hard on purpose. The art of taking a
 name and binding by it is **recent** — the Second Foundation's own invention (the
-working figure is about two thousand years, though the timing is still loose);
+working figure is ~1,850 years, though the timing is still loose);
 through the long alliance before that the demon-people were partners, not
 property.
 
@@ -166,7 +166,7 @@ which is why getting *it* (below) is a different and far worse deed than robbing
 tomb.
 
 > `[OPEN — the timing.]` Exactly when the binding was invented, and when the
-> open-names age ended, is **not pinned** (working figure ~2,000 ya, but loose).
+> open-names age ended, is **not pinned** (working figure ~1,850 ya, but loose).
 > **Settled and load-bearing for play:** names were used openly in the deep past
 > and recorded everywhere; the weapon came later and made those records lethal;
 > recovering them from dangerous, demon-watched sites is now an endless hunt — and

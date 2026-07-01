@@ -120,9 +120,9 @@ demise of the valley kings.** **[settled]**
   Foundation is their inner, forward-looking cabal**: the elves old enough and
   connected enough to be planning for the *next* turn of the cycle, not just
   remembering the last.
-- The Second Foundation **crystallized as an order about two thousand years
-  ago**, as the Muspel empire's relentless expansion southeast brought it toward
-  the elf cities (see
+- The Second Foundation **crystallized as an order ~1,850 years ago**, within a
+  generation of the Jotunheim massacre (below) and as the Muspel empire's relentless
+  expansion southeast brought it toward the elf cities (see
   [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md) and
   [the First Foundation](the-first-foundation.md)). **Binding a demon by its
   true name is the order's own invention from that era** — the elves' answer to
@@ -132,8 +132,8 @@ demise of the valley kings.** **[settled]**
   oldest elves"* — and remember the world's founding firsthand; see
   [Preem's demons](../characters/preems-demons.md#demonic-restoration-homebrew-house-rule).)
   **[settled — 6/29]**
-- **The grievance behind it is older than the advancing empire — Jotunheim.**
-  The better part of a thousand years before the founding, ~2,900 ya, **Maalm's own colonists
+- **The grievance behind it is the wound that founded it — Jotunheim.**
+  Barely a lifetime before the founding, ~1,900 ya, **Maalm's own colonists
   (elves and men) holding Jotunheim were massacred** by the breakaway Muspel dragonborn — the
   **Lonka Zealots** — who crossed under the sea through the **demon-people's
   tunnels** and came up *inside* the caldera to do it (see

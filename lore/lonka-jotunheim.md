@@ -74,11 +74,11 @@ crusader-colonists landed (~2,000 ya)** they had no notion a whole people still 
 
 ---
 
-## 3. Jotunheim — Maalm colonists resettle the caldera (~3,000 ya → shortly after)
+## 3. Jotunheim — Maalm colonists resettle the caldera (~2,000 ya → shortly after)
 
-Only after **the better part of two thousand years** — a pass's sickness leaves a land
+Only after **the better part of three thousand years** — a pass's sickness leaves a land
 dead for a millennium at least, and Lonka took the full blast of it — did the caldera
-become **habitable again**, and **colonists out of Maalm — elves and men — settled it**
+become **habitable again**, and, by **~2,000 ya, colonists out of Maalm — elves and men — settled it**
 (so, well after [Maalm's founding ~4,100 ya](maalm-founding.md)).
 They **renamed it Jotunheim**, the giants' land, in the Norse register of the northern
 seas. For a while it was theirs — **barely a century,** as it turned out: the dragonborn
@@ -86,7 +86,7 @@ came for it almost as soon as they'd settled (§4).
 
 ---
 
-## 4. The Zealot Reconquest — the dragonborn walk home (~2,900 ya)
+## 4. The Zealot Reconquest — the dragonborn walk home (~1,900 ya)
 
 `[settled 6/22]` The dragonborn who took Jotunheim back did not come *from parts unknown* —
 they came **from Muspelheim, on foot, under the sea.** The chain:
@@ -103,13 +103,14 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
   the **zealot strain** that divides them from the wandering saints (see
   [Taniyn & Lonka](taniyn-and-lonka.md)).
 - **Then they left — and it shows on the map.** The empire founds **Kuru only *after* they're
-  gone** (~2,800 ya) — which is exactly why that colony is **nearly all human** (and why Muspel
-  and Kuru both read as *man*-dominated). Where did the dragonborn go? **Home.** Once the **hot
-  spot drifted southeast** and the
-  **northwest coast of Muspelheim cooled** enough to enter — the tunnels nearest the hot spot
-  run molten — **~3,000 ya the road finally opened,** and **within a century (~2,900 ya)** the
-  zealots **walked the Abyss tunnels under the sea** to the one island in range: **Jotunheim /
-  Lonka,** Taniyn's first perch. (Still *before* Kuru's founding ~2,800 — so Kuru stays all-human.)
+  gone** (~1,800 ya) — which is exactly why that colony is **nearly all human** (and why Muspel
+  and Kuru both read as *man*-dominated). Where did the dragonborn go? **Home.** The **hot
+  spot's drift southeast** had cooled the **northwest coast of Muspelheim** enough to enter — the
+  tunnels nearest the hot spot run molten — so the road under the sea had stood open for
+  centuries. But the zealots did not move until **Maalm planted a colony on the holy island
+  (~2,000 ya):** *that* desecration is what finally sent them, **~1,900 ya,** walking the Abyss
+  tunnels to the one island in range: **Jotunheim / Lonka,** Taniyn's first perch. (Still *before*
+  Kuru's founding ~1,800 — so Kuru stays all-human.)
 - **The break was a falling-out, not only a calling.** `[settled — Will]` The zealots meant to
   retake the holy island by **massacring the colonists,** and the empire's **own humans would not
   put their name to a religious slaughter** (little love for the Maalm colony, but butchering it

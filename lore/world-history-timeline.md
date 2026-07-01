@@ -29,8 +29,8 @@ Star and the ~1,000-ya bad pass each loosed an **alchemical, mutating sickness**
 controlled land-building passes (~4,000 / 3,000 / 2,000) were **safe** — which is how
 Musleheim could be raised and settled at all. And where the sickness *did* fall, it
 **leaves land uninhabitable for a thousand years at least — often far longer:** Musleheim
-is *still* half-poisoned a thousand years on; after the Bleeding Star, **Lonka lay dead the
-better part of two thousand years and Kalikhat's surface nearer three thousand** (which is
+is *still* half-poisoned a thousand years on; after the Bleeding Star, **Lonka and Kalikhat's
+surface alike lay dead the better part of three thousand years** (which is
 why Kuru's much later colonists had no idea a whole people still lived *below* Kalikhat,
 §VI).
 
@@ -62,11 +62,11 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 | *(Maalm founded)* | *~4,100 ya* | *In the trough between passes — the world at its emptiest, before new land returns (see §IV).* |
 | *(the **First Foundation** founded)* | *~4,100 ya* | *Men and dragonborn **— and demons —** learn to **steer a comet-pass into controlled, land-building eruptions** rather than catastrophe; they ride the **hot spot** southeast and become the inner circle of what will be the Muspel empire (see [First Foundation](the-first-foundation.md)).* |
 | 3rd–5th | ~4,000 / 3,000 / 2,000 ya | Successive volcanism **builds the whole island of Musleheim** and the new islands. |
-| *(**Jotunheim** retaken — the dragonborn Zealots)* | *~2,900 ya* | *Maalm colonists (**elves and men**) had resettled the Bleeding Star's caldera as **Jotunheim** only a short while before; the empire's **humans balk at massacring them,** so its zealot **dragonborn break away,** walk the Abyss tunnels under the sea, and **seize the holy island back** alone (rhyming with Ravana's seizure of Lanka). This parting **opens the Time of Troubles** (§VI). They hold it still — insular and feared, a **Dragon Turtle** guarding its bay (see [Lonka / Jotunheim](lonka-jotunheim.md)).* |
-| *(**Kuru** colonized)* | *~2,800 ya* | *The Muspel empire founds **Kuru** as a colony — after its dragonborn had gone, so nearly all-human (see [the Muspel empire](the-muspel-empire.md)).* |
-| *(the **Kuru revolt**)* | *~2,500 ya* | *Kuru **rebels free** of Musleheim; a lord loses a hand, forges a new one from the god's **sentient stone**, and wins independence — birthing the **Order of Sunne** and the phoenix-faith (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
-| *(the **Second Foundation** founded)* | *~2,000 ya* | *Maalm's elven elite form their **secret order** against the demon-powered Muspel empire, **inventing demon-binding by true name** (see [the Second Foundation](the-second-foundation.md)). 🔒 Its real aim is the campaign's engine (§VIII).* |
-| *(the **Kalikhat Crusades**)* | *~2,000 → ~1,600 ya* | *Kuru's **first crusading era**: failed surface colonies on newly-habitable Kalikhat run headlong into the deep gnomes, drow, and demons below; a second wave is sent to recover the **warforged dead** and 🔒 **steal Kalikhat's god-stone** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
+| *(**Jotunheim** retaken — the dragonborn Zealots)* | *~1,900 ya* | *Maalm colonists (**elves and men**) had resettled the Bleeding Star's caldera as **Jotunheim** (~2,000) only a short while before; the empire's **humans balk at massacring them,** so its zealot **dragonborn break away,** walk the Abyss tunnels under the sea, and **seize the holy island back** alone (rhyming with Ravana's seizure of Lanka). This parting **opens the Time of Troubles** (§VI). They hold it still — insular and feared, a **Dragon Turtle** guarding its bay (see [Lonka / Jotunheim](lonka-jotunheim.md)).* |
+| *(the **Second Foundation** founded)* | *~1,850 ya* | *In the wake of the Jotunheim massacre, Maalm's elven elite form their **secret order** against the demon-powered Muspel empire, **inventing demon-binding by true name** (see [the Second Foundation](the-second-foundation.md)). 🔒 Its real aim is the campaign's engine (§VIII).* |
+| *(**Kuru** colonized)* | *~1,800 ya* | *The Muspel empire founds **Kuru** as a colony — after its dragonborn had gone, so nearly all-human (see [the Muspel empire](the-muspel-empire.md)).* |
+| *(the **Kuru revolt**)* | *~1,600 ya* | *Kuru **rebels free** of Musleheim; a lord loses a hand, forges a new one from the god's **sentient stone**, and wins independence — birthing the **Order of Sunne** and the phoenix-faith (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
+| *(the **Kalikhat Crusades**)* | *~1,400 → ~1,150 ya* | *Kuru's **first crusading era**: failed surface colonies on long-habitable Kalikhat run headlong into the deep gnomes, drow, and demons below; a second wave is sent to recover the **warforged dead** and 🔒 **steal Kalikhat's god-stone** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
 | 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VII, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
 | *(the orc sea falls — **Svolder & Hjörungavágr**)* | *~320 / ~300 ya* | *The two legendary sea-battles at the close of the raiding age break the **Muspel orcs'** command of the water — **Svolder** (orc against orc), then **Hjörungavágr** (the **Suartleheim dwarves** against the orcs), where an undersea eruption **begins raising the Kurunatukas**: the battle that broke the orc sea and the birth of the new land are one event (see [ships & sea-power](ships-and-sea-power.md)).* |
 | *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush** onto the fresh, extraordinarily rich Kurunatuka islands as the hot spot surfaces them; they grow into **client-states**, not mere colonies (see §VII).* |
@@ -189,7 +189,7 @@ part of a thousand years, until Bedraageon.
 
 ---
 
-## V. The Time of Peace — the Making (~4,100 → ~2,900 ya)
+## V. The Time of Peace — the Making (~4,100 → ~1,900 ya)
 
 The constructive deep-middle: the world heals, new land returns from the sea, and the
 dragonborn-led orders build the recent world. This is the age **before the fracture** — while
@@ -199,7 +199,7 @@ the coalition of **men, dragonborn, and demons** that raises the new lands still
 From ~4,100 the **First Foundation** — men and dragonborn (**and their demon allies**) who
 learned to **steer a comet pass into controlled, land-building eruptions** rather than
 catastrophe — rode the **hot spot** southeast, raising **Musleheim** and the new islands across
-the ~4,000 / 3,000-ya passes. The **dragonborn were indispensable:** at Musleheim's raising they
+the ~4,000 / 3,000 / 2,000-ya passes. The **dragonborn were indispensable:** at Musleheim's raising they
 were the **only people on Nila with ships,** so the seafaring half of "men and dragonborn" was
 theirs — and, settled on a rich land-empire for the first time in their history, they
 **multiplied** as a wandering sea-people never could.
@@ -211,7 +211,7 @@ Musleheim = **Muspelheim**, the realm of fire), which rose on the fire-island as
 great colonizer of the recent age** and the **first iron empire** (mining the iron-rich
 volcanic soil; see [technology & trade](technology-and-trade.md)). The empire is the great
 achievement of the Peace — and, once its dragonborn depart (§VI), it **founds Kuru as a colony
-(~2,800 ya),** nearly all-human, the men-dominated society Kuru still is. Its *unmaking* is the
+(~1,800 ya),** nearly all-human, the men-dominated society Kuru still is. Its *unmaking* is the
 story of the Troubles and the Long Present that follow.
 *Source: [the Muspel empire](the-muspel-empire.md).*
 
@@ -219,23 +219,23 @@ story of the Troubles and the Long Present that follow.
 Across their generations running Muspelheim the dragonborn **religion drifted** — from the
 nomad's creed (*honor the flight, keep roaming*) toward something **place-bound and zealous**
 (*guard the holy ground*). This is the origin of the **zealot strain** that will divide them
-from the wandering saints — and, by the ~3,000 pass, turn their eyes back toward the drowned
-homeland of **Lonka.** What they do about it ends the Peace (§VI).
+from the wandering saints — and, once the ~2,000 pass and Maalm's colony on the holy island
+draw their eyes back to the drowned homeland of **Lonka**, what they do about it ends the Peace (§VI).
 *Source: [Lonka / Jotunheim](lonka-jotunheim.md).*
 
 ---
 
-## VI. The Time of Troubles — the Crusader Age (~2,900 → ~1,000 ya)
+## VI. The Time of Troubles — the Crusader Age (~1,900 → ~1,000 ya)
 
-Wall-to-wall holy war. One act — the dragonborn's armed return to Jotunheim — **fractures the
-alliance that built the Peace,** and the cracks run for the better part of two thousand years:
-the breach between **men and demons,** the elves' secret order, Kuru's revolt and its first
-crusades, down to the pass that ends the world.
+Wall-to-wall holy war, and fast. One act — the dragonborn's armed return to Jotunheim —
+**fractures the alliance that built the Peace,** and in the better part of a thousand years the
+cracks run their whole course: the breach between **men and demons,** the elves' secret order,
+Kuru's revolt and its first crusades, down to the pass that ends the world.
 
-### The Zealot Reconquest — the parting of men and dragonborn (~2,900 ya)
-Once the caldera of drowned **Lonka** finally became habitable again — the better part of two
-thousand years after the Bleeding Star poisoned it — **colonists out of Maalm, elves and men,**
-resettled it and **renamed it Jotunheim,** the giants' land. They held it only a short while.
+### The Zealot Reconquest — the parting of men and dragonborn (~1,900 ya)
+By **~2,000 ya**, once the long poison of the Bleeding Star had finally faded from the caldera
+of drowned **Lonka**, **colonists out of Maalm — elves and men —** resettled it and **renamed it
+Jotunheim,** the giants' land. They held it only a short while.
 To the empire's **dragonborn zealots** the holy island in foreign hands was intolerable — but
 the reconquest was **not only a calling; it was a falling-out.** The zealots meant to take
 Jotunheim back by **massacring the colonists,** and the **empire's own humans would not put
@@ -246,17 +246,18 @@ tunnels under the sea from Muspelheim,** came up from underneath into the bay, a
 island back (rhyming with **Ravana's seizure of Lanka**). To them it was **reconsecration,**
 not conquest. They hold it still — insular, feared, a **Dragon Turtle** guarding its bay.
 
-Their exodus is why the empire — and **Kuru,** founded ~2,800 just after — reads as
+Their exodus is why the empire — and **Kuru,** founded ~1,800 just after — reads as
 **man-dominated.** And the parting itself is the **first crack of the Troubles:** the coalition
 of men, dragonborn, and demons that raised the world has lost its dragonborn.
 *Source: [Lonka / Jotunheim](lonka-jotunheim.md).*
 
-### The breach with the demons — and the Second Foundation (~2,000 ya)
+### The breach with the demons — and the Second Foundation (~1,850 ya)
 With the dragonborn gone home, the old **demon alliance curdled:** the empire leaned harder on
 its demon-power, and the demons — **a power apart,** never truly the coalition's servants — grew
-from allies into a threat. The elven elite of Maalm answered. They formed a **secret order**
-(true in-world name `[OPEN]`) **about two thousand years ago**, as the demon-powered Muspel
-empire's relentless march southeast brought it toward the elf cities. **Binding demons by their
+from allies into a threat. The elven elite of Maalm answered — **fast, within a generation of the
+massacre.** They formed a **secret order** (true in-world name `[OPEN]`) **~1,850 years ago,**
+reading the Jotunheim slaughter for what it was: a demon-powered empire that would turn on Maalm
+next. **Binding demons by their
 true names is the order's own invention from that era** — the elves' answer to a demon-powered
 empire — *not* an age-old craft: it is younger than the order, and the demons it binds are far
 older than either ("older than the oldest elves," remembering the world's founding firsthand).
@@ -267,17 +268,17 @@ older than either ("older than the oldest elves," remembering the world's foundi
 ### Kuru and the undying phoenix — the revolt and the first crusades
 Kuru's god — the **phoenix** that fell at Creation (§I) — is the **one comet-beast that dies and
 is reborn** instead of ending, so Kuru believes itself **chosen** and owed the world. Kuru
-**began as a colony of the Muspel empire** (founded ~2,800 ya — *after* the empire's dragonborn
-had left, so nearly all-human) — until it **rebelled** (~2,500), and in that war a lord **lost a
+**began as a colony of the Muspel empire** (founded ~1,800 ya — *after* the empire's dragonborn
+had left, so nearly all-human) — until it **rebelled** (~1,600), and in that war a lord **lost a
 hand**, found a shard of the god's **sentient stone**, and forged a new hand from it. The
 rebellion won Kuru its freedom and birthed the **Order of Sunne**, whose most devout replace
 their flesh with god-stone until they become the near-immortal **warforged** who secretly run
 the kingdom (a hive mind sharing the god's voice). Every rebirth **burns the phoenix's memory**,
 and it is now **going mad.**
 
-- **The Kalikhat Crusades (~2,000 → ~1,600 ya) — Kuru's first crusading era,** long after
+- **The Kalikhat Crusades (~1,400 → ~1,150 ya) — Kuru's first crusading era,** after
   independence and well before the orc wars. Kuru planted **surface colonies on Kalikhat**
-  — whose poisoned surface had only just become habitable again after ~3,000 years — not
+  — whose poisoned surface had become habitable again after its long death (~2,000) — not
   knowing its people had fled *underground* after the Bleeding Star, and ran headlong into
   the **deep gnomes, drow, and demons** below. The colonies **failed**; the first holy war
   abroad gave way to a **second wave** sent to recover the **warforged dead** (finite
