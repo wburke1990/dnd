@@ -18,7 +18,7 @@ She is not a villain. She is not a victim in any simple sense. She is a being wh
 
 ## Physical Appearance at the House
 
-She looks young and beautiful — younger than she should be given the age of her children, but grief makes people look strange and the party may not register the discrepancy immediately. She stands in a doorway. She does not sit. She does not come fully into the room.
+She looks young and beautiful — strikingly so. In the art she reads as an ageless woman of about thirty, the *same* apparent age as her grown children; she could be taken for their sister, and nothing in her face says she bore and raised them. The party is unlikely to register the discrepancy as anything but strange beauty. She stands in a doorway. She does not sit. She does not come fully into the room.
 
 She will not speak in the party's presence.
 

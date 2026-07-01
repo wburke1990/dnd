@@ -5,7 +5,7 @@
 
 # OVERVIEW
 
-The dream quest is triggered by the spell Dream of the Blue Veil, cast by a spellcaster in the party or provided by the merchant family. The party agrees to shepherd the soul of a recently deceased merchant through the afterlife — through the river of stars, past six gates, to the Hall of Two Truths where Osiris will weigh his heart.
+The dream quest is triggered by the spell Dream of the Blue Veil. In the merchant family's hands the spell's incantation *is* a poem — *Wynken, Blynken, and Nod* (see [the handout](../handouts/wynken-blynken-and-nod.md)); the party casts it by reciting the poem the children hand them. The party agrees to shepherd the soul of a recently deceased merchant through the afterlife — through the river of stars, past six gates, to the Hall of Two Truths where Osiris will weigh his heart.
 
 The core rule of the dream: if a party member takes damage, the spell ends for them and they wake up. They are not transported — they simply regain consciousness on the floor of the dead man's house. This rule makes the dream a puzzle-and-navigation challenge rather than a combat encounter. The party has no weapons, no equipment, and no magic items. They woke up on a boat in white robes with nothing else.
 
@@ -166,52 +166,161 @@ about what he is or what waits in the dream.
 
 # PRE-DREAM — AT THE HOUSE
 
+Everything the store withheld pays off here. The store was Muntadhir
+*controlling* information; the house is where control slips — and it slips
+through **Ali/Zaynab**, the unresolved sibling, who says the true things
+her brother won't.
+
+## The Family Is Beautiful
+
+All three of them are strikingly beautiful — the children no less than
+their mother — and all three look **about the same age**: ageless,
+flawless people of maybe thirty. Manizheh could be taken for the
+children's sister, not their mother. Play it as ambient, the way you
+notice good light; the party should read "lovely, strange, grieving
+family," not "demons." The children's beauty is a *seed* of their
+half-demon inheritance, a long-term hook — never a tell. Only the mother's
+beauty curdles, on a closer look, into something wrong.
+
 ## The Setup
 
-The party arrives at the house of a wealthy merchant family. The dead man's body is laid out in the bedroom. The demon wife is present but silent — standing in a doorway, refusing to speak in the party's presence. The children explain everything.
+The party arrives at a wealthy merchant house in mourning. **Ali/Zaynab**
+opens the door before they knock — she has been waiting, watching the
+street. The father's body is laid out in the bedroom. Their mother,
+**Manizheh**, stands silent in a far doorway and will not come into the
+room. **Muntadhir** is here too, steadier than his sister, but at home he
+manages the party far less than he did behind the shop counter.
 
-## What the Children Tell the Party
+*(Ali/Zaynab, opening the door:)*
+*"You came. He said you might not."* *(stepping back to let them in)* *"He's through here. Mind your voices."*
 
-- Their father died recently
-- They need someone to shepherd his soul through the dream of the blue veil to the Hall of Two Truths
-- They offer to lift the curse and provide access to the family's resources in exchange
-- Their father was a good man who did one complicated thing
+## What They Actually Know — Almost Nothing
 
-## What the Children Don't Say Unless Asked
+This is the crux of the scene. **No one living has made this crossing** —
+not the children (they cannot get in), not their dead father (a living
+merchant, never dead before), not even Manizheh (demons have no afterlife
+either). So the children know almost nothing about what is out there. All
+they have:
 
-- Their mother is a demon
-- Their father bound her with Planar Binding every year for thirty-one years using her true name
-- They have tried to do the dream quest themselves and cannot
+- A **spell**, cast by reciting a poem — ***Wynken, Blynken, and Nod***
+  (see [the handout](../handouts/wynken-blynken-and-nod.md)). **The poem
+  *is* the spell.** Their father read it to them as a lullaby; it was
+  always the incantation. (This is the family's form of *Dream of the Blue
+  Veil*.)
+- Instructions to **prepare**: a small ship, small white robes, laid out
+  just so on the windowsill. They do not know why a ship.
+- That **someone living must go**. They tried to be that someone. They
+  cannot.
 
-## If the Party Asks Why the Children Can't Do It
+They do **not** know there is water, a boat, a river of stars; that their
+father will be judged; that the traveler must speak for him. All of that
+is discovered in the dream, not briefed here. **The party goes in blind** —
+and so does everyone.
 
-*"We have tried. The dream does not take us. We fall asleep and we simply — sleep. We don't know if it is because of what we are, or because we loved him, or because the door knows we are not ready to stand before that judgment ourselves. We only know that you can go where we cannot."*
+*(Muntadhir, plainer than at the shop:)*
+*"I'll be plainer than I was at the shop. There's a spell — I know how to cast it, and when. You say the words, and you... go. With him, or after him — I couldn't tell you which. We tried to be the ones. We can't get in. That's the whole of why you're here: someone who can."*
 
-This answer is honest and slightly ambiguous. The children do not fully understand their own nature. They were raised on a particular story about their parents and they believe it. Do not over-explain.
+## "We've Tried" — They Cannot Cross the Threshold
 
-## The Demon Wife — Perception Check
+Make it unmistakable that their failure is at the **door of sleep**, not
+inside the dream. They never arrive; they do not fumble tasks out there.
 
-A DC 12 Perception check on the demon wife reveals subtle wrongness — she doesn't blink at the right intervals, her shadow falls in a slightly wrong direction, flowers near her are slightly wilted, she smells faintly of something that cannot be named. Players who succeed feel unsettled but cannot articulate why.
+*(Ali/Zaynab:)*
+*"It isn't that we tried and failed him. We can't get* in *at all. We lie down, we say the words, we close our eyes — and we just sleep. No water, no boat, no him. Morning comes and he's still lying there waiting, and we're still... here."*
 
-She will not speak. If addressed directly she turns to face the speaker but says nothing. A DC 12 Insight check reveals she understands everything being said. A DC 14 Insight check reveals she is making a continuous effort not to react to something — grief, or something adjacent to it, held very carefully in check.
+If pressed on *why* they can't — keep it honest and ambiguous, and let
+them **not** know (they were raised on a story and believe it; don't
+over-explain):
+
+*"We don't know why. Because of what we are, maybe. Because we loved him. Because it simply isn't ours to do. We only know you can go where we cannot."*
+
+## The Poem Is the Spell
+
+Hand the players the actual handout; they recite it to cast. The children
+know it is the spell — but they have **no idea** it describes what waits,
+because the spell has never taken them. When the party wakes into the
+poem's own imagery (a boat, a river with stars above and below), the chill
+lands *precisely because the children were ignorant of it.* Nobody in this
+house connected the lullaby to a real river.
+
+*(Ali/Zaynab, offering the worn page — she knows it is the spell, not that
+it is a map:)*
+*"He read us this when we were small. Both of us, every night. It's the spell — the words you say. We've said them a hundred times between us, and nothing ever comes."* *(quietly)* *"I don't know what it does when it works. Nobody does."*
+
+## Manizheh in the Doorway
+
+*(A woman stands in the far doorway — the most striking of the three, and
+the only wrong thing in the house. She does not come in. She does not sit.
+She could be their sister; nothing in her face says she bore and raised
+the two grown people who hired you.)*
+
+*(Ali/Zaynab, following the party's glance:)*
+*"That's our mother. She won't speak. Not since."* *(a beat too long at the door before she looks away)*
+
+**DC 12 Perception** on Manizheh reveals subtle wrongness — she does not
+blink at the right intervals, her shadow falls slightly askew, flowers
+near her are faintly wilted, she smells faintly of something that cannot
+be named. Players who succeed feel unsettled but cannot say why. Do not
+over-describe; the wrongness is felt, not catalogued.
+
+She will not speak in the party's presence. If addressed directly she
+turns to face the speaker and says nothing. **DC 12 Insight:** she
+understands everything being said. **DC 14 Insight:** she is making a
+continuous effort not to react to something — grief, or something adjacent
+to it, held very carefully in check.
+
+The party most likely reads "strange, beautiful, grieving family," not
+"demon." That is correct. A seed for later, not a reveal now.
 
 ## The Heroic Framing
 
-The children explain their parents' history with pride, the way they were raised to understand it:
+The children tell the love story they were raised on, with pride —
+Muntadhir telling it, Ali/Zaynab going quiet and watching her mother
+through it:
 
-*"Father freed her from a cruel wizard. He knew her true name, which gave him power over her. He used a spell called Planar Binding to break the wizard's hold. He cast it every year to protect her, to make sure she couldn't be taken back."*
+*"Father freed her from a cruel wizard. He knew her true name, which gave him power over her. He used a spell called Planar Binding to break the wizard's hold. He cast it every year to protect her — to make sure she couldn't be taken back."*
+
+This is the version they believe. The dream will complicate it. Do not tip
+your hand.
+
+## What They Don't Say Unless Asked
+
+- Their mother is a demon
+- Their father bound her with Planar Binding every year for thirty-one
+  years using her true name
+- They have tried the crossing themselves and cannot
 
 ## The Bedroom
 
-The dead man's body is laid out carefully on the bed, hands folded. His spellbook is beside him. His staff leans against the wall near his head. On the windowsill, arranged carefully: doll-sized white robes and a tiny toy ship. The children placed them there as part of the preparation for the crossing. They don't explain this unless asked.
+The father's body is laid out carefully on the bed, hands folded. His
+spellbook is beside him; his staff leans against the wall near his head
+(both are given up in the dream, at Gate Four). On the windowsill,
+arranged carefully: doll-sized white robes and a tiny toy ship — what the
+party will wake wearing and sailing, though no one in this house knows
+that. The children placed them as they were told. They don't explain
+unless asked:
 
-If asked: *"It is how we were told to prepare for the crossing."*
+*"It is how we were told to prepare for the crossing."*
+
+## The Ask — Honest, Not Certain
+
+None of them can promise the afterlife is even real. The motive is **not**
+to spare their father a lonely journey — they cannot claim one exists. It
+is to do what he believed in, so they can stop wondering. The rite is for
+the living.
+
+*(Muntadhir:)*
+*"I won't pretend to you it's real. I don't know that there's anything out there for him — anything at all. But he believed it. He asked us for this with the last clear breath he had. I'd rather do it and be wrong than not do it and spend my life wondering."*
+
+*(Ali/Zaynab, low:)*
+*"That's the part I can't get past. I don't know if we're sending you somewhere, or nowhere. He was so* sure*, at the end. I need to have tried. Even if it's nothing — I need to have tried."*
 
 ## Casting the Spell
 
-The spell requires ten minutes to cast. During this time the children prepare the room — candles, the arrangement of the body, the placement of the robes and ship. When the spell takes hold the party falls unconscious.
-
-The curse, if active on any party member, pauses for the duration of the dream. It resumes when they wake.
+The party recites the poem to cast; it takes ten minutes. The children
+prepare the room — candles, the body, the robes and the ship. When the
+spell takes hold the party falls unconscious. A curse active on any party
+member pauses for the duration of the dream and resumes when they wake.
 
 ---
 

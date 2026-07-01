@@ -13,7 +13,7 @@ The children are the party's primary contact for the dream quest. They hire the 
 
 **Family business:** [PLACEHOLDER — BUSINESS NAME] — a wealthy merchant operation dealing in healing spells and potions. The children are powerful spellcasters in their own right.
 
-**Heritage:** Half-demon. Their mother was Manizheh, a shapeshifting demon — a Yochlol (see [Manizheh](demon-wife.md)) — bound to their father by Planar Binding for thirty-one years. Their father was a mortal spellcaster. In game terms the children are **cambions**, the offspring of a fiend and a mortal. They appear fully human; their demonic heritage is not visible.
+**Heritage:** Half-demon. Their mother was Manizheh, a shapeshifting demon — a Yochlol (see [Manizheh](demon-wife.md)) — bound to their father by Planar Binding for thirty-one years. Their father was a mortal spellcaster. In game terms the children are **cambions**, the offspring of a fiend and a mortal. They appear fully human; their demonic heritage is not visible — except, subtly, as beauty. Both children are strikingly, almost unsettlingly good-looking, and like their mother they read as ageless: flawless thirty-somethings whatever their true age. Play it as ambient, never a tell — a seed of their inheritance, not a giveaway.
 
 ---
 
