@@ -310,6 +310,8 @@ mechanics of the circle-cast duel]`
   [Nila atlas (settlement gazetteer & coordinates)](nila-atlas.md),
   [the drying of the valley](the-drying-of-the-valley.md),
   [Maalm founding](maalm-founding.md),
+  [Bedraageon Square (Maalm's civic heart)](bedraageon-square.md),
+  [satyrs run the taverns (the Letaps)](satyr-taverns.md),
   [Amseh dynasty](amseh-dynasty.md),
   [Egyptian afterlife mythology](egyptian-afterlife-mythology.md),
   [house rules & world mechanics](house-rules-and-world-mechanics.md),
@@ -322,7 +324,8 @@ mechanics of the circle-cast duel]`
   psychic bat).
 - **`encounters/`** — [Valley of the Kings](../encounters/valley-of-the-kings.md),
   [The Dream Quest](../encounters/the-dream-quest.md),
-  [The Haals Runoff (first eco-terror job)](../encounters/the-haals-runoff.md).
+  [The Haals Runoff (first eco-terror job)](../encounters/the-haals-runoff.md),
+  [The Gates of Kala (silent sentries of the underworld)](../encounters/the-gates-of-kala.md).
 - **`handouts/`** — player-facing text: tomb inscriptions, grave poems, the
   Dream-of-the-Blue-Veil incantation, the Ragnarok scroll.
 - **`prompts/`** — verbatim AI image-generation prompts for the tomb art.

@@ -171,7 +171,12 @@ Kalikhat, ruined half-orc families.
 - **The eco-terror side quest (Haals runoff).** The Company's **dwarf ore-crews in
   Suartleheim Eet** are dumping mining runoff into the lake that feeds
   **[Haagen and Copaa](nila-atlas.md)** — the campaign's **first eco-terrorism job**
-  (see that quest's writeup) hangs off this file.
+  (see that quest's writeup) hangs off this file. `[settled — 6/30]` The Company
+  **finances the Copaa/Haals/Haagen trade** (through the ports at **[Aar and
+  Aal](nila-atlas.md)**) and is **majority shareholder in the Haals mine** itself;
+  the runoff's human cost is now canon — **leprosy is a magical sickness from the
+  runoff, and the [tomb-lepers](../encounters/valley-of-the-kings.md) are Copaa
+  exiles** ([the Haals runoff §4](../encounters/the-haals-runoff.md)).
 - **[Doruk Pell](../encounters/tavern-name-hunter-crews.md)** — the dwarf of the Lapis
   Writ who helped clear orcs — can be **the Company's hand** (land-clearing and
   slave-raids for the plantations) as much as the Sunne pogroms' (`[OPEN]` — weave, don't

@@ -81,6 +81,11 @@ Type from marker colour: **C** = city (pink), **T** = town (purple),
 | Nepa | V | 63, 10 |
 | Buta | V | 67, 10 |
 
+> **Kala — the gates of the underworld.** Kala (city, ~61, 3) holds the **gates of
+> the underworld,** the threshold into the deep world beneath Kalikhat, kept by a
+> line of **silent level-20 sentries** — see
+> [the gates of Kala](../encounters/the-gates-of-kala.md).
+
 ### Kuru (NE)
 | Name | Type | X, Y |
 |---|---|---|
@@ -203,6 +208,14 @@ mainland, not Mukka.)*
 | **Maalm** | **C** | **88, 93** |
 | Copaa | T | 86, 95 |
 | Haals | V | 93, 94 |
+
+> **Trade & craft in the SE `[6/30 brainstorm]`.** **Raand** is home to **artisan
+> gnomes;** most traders **skip it** because of the **strong currents between
+> Sukkek and Raand,** so it runs its good trade **overland with Haagen** instead.
+> **Aar** and (possibly) **Aal** are the region's **trading ports** — **Aar**
+> serving **Copaa/Haals,** **Aal** serving **Haagen.** That trade is **financed by
+> the [East India Company](the-company.md),** which is also **majority shareholder
+> in the Haals mine** — see [the Haals runoff](../encounters/the-haals-runoff.md).
 
 ---
 

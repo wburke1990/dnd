@@ -1,5 +1,15 @@
 # Maalm: The Founding Story
 
+> ⚠️ **Rename in progress — Beowulf → Bedraageon `[6/30 brainstorm]`.** The founder
+> is being renamed from **Beowulf** to **Bedraageon** (via an intermediate
+> "Bewaalf"). This file **still uses "Beowulf" throughout** and has not been swept;
+> the new civic-heart writeup ([Bedraageon Square](bedraageon-square.md)) uses the
+> new name. His grave/plaza is now **[Bedraageon Square](bedraageon-square.md)** —
+> which also flags a design tension: the brainstorm makes the grave a **fountain
+> with a plaque,** whereas Layer One below deliberately keeps it a **humble flat
+> marker** (the reveal lives in the tavern). Confirm the name is final before the
+> rename propagates through the ~13 files that mention Beowulf.
+
 ## 1. What Happened
 
 A great Egyptian-inspired empire once stood on this ground. Its final kings, desperate and corrupt, sacrificed their own children in the face of a catastrophic climate collapse. The empire starved to death anyway. In the ruins beneath, Ammit — the Egyptian devourer goddess, part crocodile, part lion, part hippopotamus, who consumes unworthy souls — took up permanent residence, gorged and maddened by a thousand years of condemned dead, and the uneaten hearts of ten thousand innocent children.
