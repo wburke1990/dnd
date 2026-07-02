@@ -84,7 +84,9 @@ he spends his words *fishing*.
 - *(no surprise at all)* "Ah. Yes. Before you, there were others. They were... less careful than you were. Or less lucky." *(a small, awful shrug)* "We do not always get everyone back. He does not send one crew. He sends many. You are the ones who came home." *(the "we" — let it sit)*
 
 **"What's coming? The comet — the bleeding star?"**
-- "The star that bleeds. Yes. The master will tell you what he wants you to know of it, and no sooner. It is not my place." *(then, flat, ancient, looking at nothing)* "It has come before, you know. The last time it came, it buried a great deal. ...I remember it being colder." *(catches himself)* "So the histories say. Would you like wine? You look like you want wine."
+- "The star that bleeds. Yes." *(a beat too long)* "The master will tell you what he wants you to know of it, and not a word before. It is not my place."
+- *(if they push)* "I know what everyone knows — a star, an ending, the old histories. The last time it came it —" *(he stops himself flat, like a man who has walked to the edge of something in the dark)* "— so it is written. Ask him. Not me." *(the smile, hurried, back on)* "Wine? You look like you want wine."
+- **DM note:** he very nearly says something he should not — a paying-attention party clocks the swallowed sentence and the too-quick "not me." But he does **not** tell them. He never tells them. The near-slip *is* the beat; a demon of the deep cities does remember the last Ragnarok, and the whole point is that he catches himself.
 
 **"We saw a serpent carved older than the tombs — gold-scaled, lapis-blue. What is it?"** *(the deep plot — the volcano-island, [Apep](../encounters/valley-of-the-kings.md), the thing the whole campaign points at)*
 - *(everything about him stops — the fidget, the smile, the nasal lilt, gone between one word and the next)* "...Where. Where did you see that."
@@ -92,7 +94,8 @@ he spends his words *fishing*.
 - **DM note:** this is the single most important reaction Mul ever gives. He is a demon of the deep cities; he knows what the serpent-island is and what Preem wants with it. Don't explain — just let a perceptive party feel that they touched a live wire.
 
 **"There's a queen still out there — Farseh-ti. A mummy, caring for the sick."** *(if they mention Kethara)*
-- *(a long pause — something moving behind the tired face that isn't the clerk)* "She stayed. Three thousand years, and she stayed with them." *(almost gentle)* "Grief will do that. It does not know how to leave." *(then, carefully, watching them)* "...Did you give her name to the stone? Farseh-ti? Did you say it?" *(and how he receives the answer — relief if no, a flinch quickly hidden if yes — tells the whole story: a name given is a name the master now holds.)*
+- *(barely interested — a flick of the hand)* "A dead thing, minding dying things. The valley is thick with sorrows; that is one more. She is nothing to the master — a name in a tomb with no door behind it." *(a thin, tired look)* "You did not bring her home with you, I hope? No? Good. Leave the dead their grief. We have enough of our own."
+- **DM note:** the *contrast* is the point. Farseh-ti is undead, not a demon — Planar Binding doesn't touch the undead, so her true name is **useless** to Preem. Mul waves her off, bored, where a minute ago the gold-and-lapis serpent made him go rigid. A sharp party feels the difference between the names that are "just names" and the ones that are doors. (The stray "we have enough of our own" is another quiet crack — grief he won't explain.)
 
 **"Who are you, really?"** *(a suspicious PC)*
 - "I am the one who answers the door." *(the smile, on time for once, which is somehow worse)* "That is all I am for. ...We are very tired today. Was there anything else?"
