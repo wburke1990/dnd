@@ -535,12 +535,17 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   currently prosecuted by an **alliance of Kuru and [Noku Kurunatuka](campaign-overview.md)**
   against the **tribes of [Musleheim](musleheim.md)** — and it is **strained near
   breaking:**
-  - **Two beachheads on the big island, both stalled.** **Kuru holds Calaik** (a Calais)
-    on the big island; **Noku holds Ilka Mak** to the south. Both **threaten the
-    half-orc stronghold of Lilbayum** — and both are **struggling to take it.**
+  - **Two beachheads on the big island, both stalled.** **Kuru holds Calaik** (a
+    Calais), planted early and never able to push further; **Noku holds Ilka Mak** to
+    the south — founded in the landing that won the decisive **Zama** against Hannibal
+    (see [the Muspel empire §5](the-muspel-empire.md)), Noku's own
+    Scipio-into-Africa counterstroke after Kuru's push stalled. Both **threaten the
+    half-orc stronghold of Lilbayum** today — and both are **struggling to take it.**
   - **The Hannibal wound.** A string of **defeats to [Hannibal](the-muspel-empire.md)**
-    (the half-orc general) has **shaken the allies' ability to cooperate;** there are
-    **hard feelings** on both sides.
+    (the half-orc general) — culminating in Kuru's own push stalling at Calaik — has
+    **shaken the allies' ability to cooperate.** That it was **Noku, not Kuru,** who
+    finally broke him at Zama is exactly the wound: **hard feelings** on both sides,
+    pride stung on one, leverage gained on the other.
   - **Heavy vs. clever.** `[settled]` **Noku uses no warforged,** so it fields a
     **smaller force with no comparable heavy infantry** — yet it is **markedly more
     tactically capable** than Kuru, whose **warforged army fights with the glory-mad,
@@ -565,7 +570,8 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
     Kuru colonies,** but have **grown far more powerful — especially as the tide of the
     orc wars turned against Kuru** — and are now **client-states more than colonies:**
     they fight alongside Kuru but **on their own terms, not under its thumb,** and the
-    worse Kuru's setbacks, the **more leverage they gain.** *(Moku Kurunatuka is the
+    worse Kuru's setbacks, the **more leverage they gain** — **Zama (above) is the
+    clearest single turn of that screw for Noku.** *(Moku Kurunatuka is the
     [Second Foundation](the-second-foundation.md)'s secret finale ground — its growing
     autonomy is part of how that control stays hidden; [overview §6](campaign-overview.md).)*
 

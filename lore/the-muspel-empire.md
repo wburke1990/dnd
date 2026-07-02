@@ -172,9 +172,17 @@ ground.
 - **The siege of Anklia.** At the campaign's height he lays siege to **Anklia** (a Kuru
   city — see [Nila atlas](nila-atlas.md)) — a *Hannibal ad portas* beat: the siege
   becomes legendary, but the walls hold. He never takes it.
-- **A Zama.** `[OPEN — where, when, and whether he survives it]` One climactic defeat
-  breaks the resurgence, but its location and timing, and whether Hannibal falls on the
-  field, is hunted down after, or simply vanishes, are all still undecided.
+- **A Zama — at Ilka Mak (settled — 7/2).** Kuru's own counter-offensive stalls out
+  under Hannibal's hammering: its beachhead at **Calaik** goes in early and gets no
+  further, one more entry in the "string of defeats." Kuru leans on its former colony
+  for help, and it's **Noku Kurunatuka** — not Kuru — that lands the decisive blow: a
+  fresh invasion of the homeland, Scipio-into-Africa style, that founds **Ilka Mak** in
+  the same stroke as it breaks Hannibal's resurgence for good. The battle is as much a
+  **symbolic transfer of power** as a military one — proof Noku can do what Kuru
+  couldn't, the concrete moment behind "the worse Kuru's setbacks, the more leverage
+  [Noku] gains" (see [Kuru & the phoenix §5](kuru-and-the-phoenix.md)). `[OPEN]` Exact
+  timing, and whether Hannibal falls on the field, is hunted down after, or simply
+  vanishes (see the tavern reveal, below).
 - **The tavern reveal.** `[OPEN — seed, 7/2]` If he survives the Zama: his real-world
   analog spent his last years as a **hired military consultant** to whichever court
   would have him, hunted from place to place until he was finally cornered and took his

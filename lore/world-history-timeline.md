@@ -327,10 +327,12 @@ that thread quietly through all of it down to today.
   mercenaries — reversed the reversal: a stunning early victory at **Lake Tressamine**,
   a **sea-crossing** that put his army ashore on the Kuru mainland, **~20 years** ravaging
   colonizer ground, and a **siege of Anklia** that became legendary without ever cracking
-  the walls — before being broken at a Zama. **At campaign start his resurgence has just
-  collapsed and the tide has swung back to the colonizers.** `[OPEN]` Where and when the
-  Zama happens, and whether he falls, is hunted down, or vanishes; the missing fleet that
-  sailed north.
+  the walls — before being broken at a **Zama fought at Ilka Mak**, where Kuru's own
+  stalled counter-offensive (dug in at Calaik) gives way to a decisive counter-landing by
+  its former colony **Noku Kurunatuka** — a symbolic transfer of power as much as a
+  military one. **At campaign start his resurgence has just collapsed and the tide has
+  swung back to the colonizers.** `[OPEN]` Exact timing; whether he falls, is hunted down,
+  or vanishes; the missing fleet that sailed north.
 - **The present war.** The fighting has reached **Musleheim itself**; the orcs are
   pushed back to their homeland and **Kuru leads the reconquest** — liberation,
   vengeance, or colonialism running the other way, the table can decide. Half-orcs,
@@ -423,7 +425,7 @@ half-forgotten.
 - `[OPEN]` Fate of the Snake Island after the Bleeding Star (damaged? destroyed? still out there?).
 - `[OPEN]` What else the old (human) Muspel empire colonized besides Kuru.
 - `[OPEN]` Where half-orc loyalties fall in the present war, and whether the party's path ever crosses the northern front.
-- `[OPEN]` The half-orc Hannibal's name and register; where and when his Zama happens and whether he survives it; where his missing fleet went.
+- `[OPEN]` The half-orc Hannibal's name and register; exact timing of his Zama (fought at Ilka Mak — settled) and whether he survives it; where his missing fleet went.
 - `[OPEN]` Whether any northern colony survives, what's out on the ice, and how the two Punic threads (orc Hannibal vs. dragonborn Lost Tribes) relate.
 - `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon** decided by **pace**: slow magma **builds land**, a fast clash **explodes** (Krakatoa; the **Dragon Turtle** in Lonka's caldera implies the dragon won there). Demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule). (See [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md) for the magma-force-vs-demon-people distinction, the deep cities, and how true names are taken.)
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
