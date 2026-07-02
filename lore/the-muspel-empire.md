@@ -175,6 +175,14 @@ ground.
 - **A Zama.** `[OPEN — where, when, and whether he survives it]` One climactic defeat
   breaks the resurgence, but its location and timing, and whether Hannibal falls on the
   field, is hunted down after, or simply vanishes, are all still undecided.
+- **The tavern reveal.** `[OPEN — seed, 7/2]` If he survives the Zama: his real-world
+  analog spent his last years as a **hired military consultant** to whichever court
+  would have him, hunted from place to place until he was finally cornered and took his
+  own life rather than be handed over. The DnD payoff — an old, scarred half-orc drifter
+  in some tavern, unremarkable the way half-orcs are everywhere in this world, quietly
+  trading sharp tactical advice for coin. The party wouldn't believe it's really him
+  until something forces the proof — a detail only Hannibal would know, a scar, a name
+  let slip too deep in a cup. The reveal, not a reunion, is the point.
 - **The missing fleet.** `[Will, 6/26]` **Hannibal's fleet was never defeated.** After his
   resurgence it **dropped him on the Kuru mainland** for the land war, then **sailed north
   and vanished — nobody knows where.** Its destination is **north, toward the lost colonies
