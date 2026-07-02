@@ -164,12 +164,17 @@ ground.
 
 - **Lake Tressamine** — his famous early victory (our Lake Trasimene): an ambush that
   swallowed a colonizer army whole and marked him as a generational threat.
-- **The crossing.** `[OPEN — David's call]` whether his masterstroke was a **mountain
-  crossing** (Alps-and-elephants) or — fitting an island world better — a **daring
-  sea-crossing** that put his army somewhere it could not possibly be. The sea-crossing
-  rhymes harder with the setting; both are live.
-- **A Zama.** `[OPEN]` whether one climactic defeat (our Zama) breaks him, and whether
-  he falls on the field or is hunted down after.
+- **The crossing (settled — 7/2).** His masterstroke was a **sea-crossing**, not a
+  mountain one: his fleet put his army ashore on the **Kuru mainland** somewhere it
+  could not possibly be — fitting an island world better than any Alps-analog.
+- **~20 years on colonizer ground.** He ravages Kuru's countryside for a generation,
+  carrying the war back onto the ground his people were pushed off of.
+- **The siege of Anklia.** At the campaign's height he lays siege to **Anklia** (a Kuru
+  city — see [Nila atlas](nila-atlas.md)) — a *Hannibal ad portas* beat: the siege
+  becomes legendary, but the walls hold. He never takes it.
+- **A Zama.** `[OPEN — where, when, and whether he survives it]` One climactic defeat
+  breaks the resurgence, but its location and timing, and whether Hannibal falls on the
+  field, is hunted down after, or simply vanishes, are all still undecided.
 - **The missing fleet.** `[Will, 6/26]` **Hannibal's fleet was never defeated.** After his
   resurgence it **dropped him on the Kuru mainland** for the land war, then **sailed north
   and vanished — nobody knows where.** Its destination is **north, toward the lost colonies
