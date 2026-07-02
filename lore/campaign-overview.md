@@ -194,13 +194,15 @@ These aren't just preferences — several are load-bearing for the themes above.
   [the Second Foundation](the-second-foundation.md) / [Lonka — Jotunheim](lonka-jotunheim.md)).
 - **The hot spot (where new land comes from).** The volcanism is a **moving hot spot**
   (think Hawaii), tracking **southeast from Lonka toward Maalm** and bubbling up new
-  islands as it goes — the **Kurunatukas are the newest land it has raised.** The coming
-  pass's **largest comet fragment is pulled to the hot spot's current position, over
-  Moku Kurunatuka** — which is why the finale happens there (§6). And because the world is
-  **land-starved and its old soils are exhausted** (below), this **fresh volcanic land
-  set off a land rush:** the Kurunatukas' **young soil is extraordinarily fertile** —
-  capable of far more intensive agriculture than tired ground like Maalm — which is what
-  made them worth colonizing and let them grow into
+  islands as it goes — **Moku is the newest land it has raised.** *(Its sibling
+  **Noku** is not new at all — old, depopulated ground south of drowned Cartaga,
+  resettled by orcs and then conquered by Kuru; see [Musleheim](musleheim.md).)* The
+  coming pass's **largest comet fragment is pulled to the hot spot's current position,
+  over Moku Kurunatuka** — which is why the finale happens there (§6). And because the
+  world is **land-starved and its old soils are exhausted** (below), this **fresh
+  volcanic land set off a land rush:** the Kurunatukas' **soil is extraordinarily
+  fertile** — capable of far more intensive agriculture than tired ground like
+  Maalm — which is what made them worth colonizing and let them grow into
   [client-states](kuru-and-the-phoenix.md).
 - **Dragons and demons follow the hot spot.** Wherever the hot spot sits is the place of
   **maximum heat, magic, and land-generation** — and **both primordial forces are drawn to

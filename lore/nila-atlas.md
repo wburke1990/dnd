@@ -140,7 +140,9 @@ Type from marker colour: **C** = city (pink), **T** = town (purple),
 > (~1,000 ya — Ragnarok), and the **center of the city now lies submerged
 > beneath the strait that divides Musleheim from Noku Kurunatuka.** ((61, 57) is
 > that strait.) "Cartaga Nova" (41, 50) is the later inland city, distinct from
-> the sunken original. *(Worth folding into
+> the sunken original. **The ground south of the strait didn't sink — it's
+> Cartaga's old southern reach, and it's what Kuru later colonized as Noku
+> Kurunatuka** (see [Musleheim](musleheim.md)). *(Worth folding into
 > [the Muspel empire](the-muspel-empire.md) / [Musleheim](musleheim.md).)*
 
 ### Mukka (ancient island chain, SW of Musleheim)

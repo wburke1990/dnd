@@ -165,11 +165,14 @@ bled for fell to **Mukka** and the small traders.
 **The knock-on (the last few hundred years):**
 
 - With the orc fleet broken and the water opened, the hot spot kept **raising
-  new land** — **Moku & Noku Kurunatuka**, fresh fertile volcanic islands. They
-  are **new** (last few hundred years), and that is the *only* way Kuru could
-  colonize them: there was no 300-year orc colonization to undo, because **the
-  land did not exist during Viking dominance — it rose as the Vikings fell.**
-  (See the [Kurunatuka land rush](kuru-and-the-phoenix.md).)
+  new land** — **Moku Kurunatuka**, genuinely fresh volcanic rock, fertile and
+  fought over by no one, because **it did not exist during Viking dominance —
+  it rose as the Vikings fell.** **Noku is a different story:** it's old
+  ground, the depopulated southern reach of the drowned Muspel capital
+  Cartaga, resettled by orcs during the diaspora and only later **conquered**
+  by Kuru's land rush — a colonization like any other, not an empty-land
+  grab. (See [Musleheim](musleheim.md) and the
+  [Kurunatuka land rush](kuru-and-the-phoenix.md).)
 - **Hannibal's fleet was never defeated.** After the half-orc Hannibal's recent
   resurgence, his fleet **dropped him on the Kuru mainland** for his land war and
   then **sailed north and vanished** — nobody knows where. A **big reveal waits

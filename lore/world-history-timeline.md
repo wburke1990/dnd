@@ -68,8 +68,8 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 | *(the **Kuru revolt**)* | *~1,600 ya* | *Kuru **rebels free** of Musleheim; a lord loses a hand, forges a new one from the god's **sentient stone**, and wins independence — birthing the **Order of Sunne** and the phoenix-faith (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
 | *(the **Kalikhat Crusades**)* | *~1,400 → ~1,150 ya* | *Kuru's **first crusading era**: failed surface colonies on long-habitable Kalikhat run headlong into the deep gnomes, drow, and demons below; a second wave is sent to recover the **warforged dead** and 🔒 **steal Kalikhat's god-stone** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
 | 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VII, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
-| *(the orc sea falls — **Svolder & Hjörungavágr**)* | *~320 / ~300 ya* | *The two legendary sea-battles at the close of the raiding age break the **Muspel orcs'** command of the water — **Svolder** (orc against orc), then **Hjörungavágr** (the **Suartleheim dwarves** against the orcs), where an undersea eruption **begins raising the Kurunatukas**: the battle that broke the orc sea and the birth of the new land are one event (see [ships & sea-power](ships-and-sea-power.md)).* |
-| *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush** onto the fresh, extraordinarily rich Kurunatuka islands as the hot spot surfaces them; they grow into **client-states**, not mere colonies (see §VII).* |
+| *(the orc sea falls — **Svolder & Hjörungavágr**)* | *~320 / ~300 ya* | *The two legendary sea-battles at the close of the raiding age break the **Muspel orcs'** command of the water — **Svolder** (orc against orc), then **Hjörungavágr** (the **Suartleheim dwarves** against the orcs), where an undersea eruption **begins raising Moku Kurunatuka**: the battle that broke the orc sea and the birth of the new land are one event (see [ships & sea-power](ships-and-sea-power.md)).* |
+| *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush**: onto **Moku**, genuinely fresh volcanic land the hot spot surfaces; onto **Noku**, old depopulated ground resettled by orcs since the bad pass and now **conquered** rather than claimed empty (see [Musleheim](musleheim.md)). Both grow into **client-states**, not mere colonies (see §VII).* |
 | 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation, which means to **let it fall as Ragnarok** and ride out the wreck of its rivals — the orc tribes, the Kuru/Noku armies — unlike the **First Foundation**, who'd steer it into safe land-building. 🔒 Preem, the Foundation's First Chair, goes further than his own order: not content to merely survive the catastrophe, he means to **master** it, binding a volcano-demon to force the pass's result under his own hand. |
 
 *Sources: [campaign overview §5](campaign-overview.md), [Amseh dynasty](amseh-dynasty.md), [the Second Foundation](the-second-foundation.md).*
@@ -344,8 +344,11 @@ that thread quietly through all of it down to today.
   rank-hunting sea-birds, barn-sized white bears, and the **sealskin folk** (Skræling /
   Thule) in sealskin canoes and snowsuits.
 - **The Kurunatuka land rush & the shaky alliance (now).** As the hot spot surfaced
-  **Moku and Noku Kurunatuka** — fresh volcanic islands with **extraordinarily rich soil**
-  in a land-starved world — Kuru colonized them in a land rush; they have since grown into
+  **Moku Kurunatuka** — a fresh volcanic island with **extraordinarily rich soil**
+  in a land-starved world — Kuru colonized it in a land rush; **Noku** rode the same
+  rush but is old ground, not new — the depopulated southern reach of drowned Cartaga,
+  resettled by orcs and conquered rather than claimed empty (see
+  [Musleheim](musleheim.md)). Both have since grown into
   **client-states**, not colonies. The present Musleheim front is a **strained Kuru–Noku
   alliance** against the orc tribes: two stalled beachheads, a navy of borrowed **Mukka**
   pirate ships, and hard feelings after Hannibal's blows — a supply line 🔒 about to be cut

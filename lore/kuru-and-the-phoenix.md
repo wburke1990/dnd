@@ -518,15 +518,18 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   Kalikhat crusades (above; [overview §3A](campaign-overview.md)).
 - **The Kurunatuka land rush (recent).** `[settled]` A running truth of the world:
   **there isn't enough land, and what there is is exhausted** ([overview §5](campaign-overview.md)).
-  So when **Moku and Noku Kurunatuka rose new from the sea** — the hot spot's **freshest
-  volcanic islands** — it set off a **land rush.** *(A **land** rush, not a metal one — the prize is the fertile new soil itself; there may be gold in the young volcanic ground, but land is what the world is starved for.)* Their **young volcanic soil is
+  So when **Moku Kurunatuka rose new from the sea** — the hot spot's **freshest
+  volcanic island** — it set off a **land rush.** *(A **land** rush, not a metal one — the prize is the fertile new soil itself; there may be gold in the young volcanic ground, but land is what the world is starved for.)* Its **young volcanic soil is
   extraordinarily rich,** able to sustain **far more intensive agriculture than tired
-  old lands like [Maalm](maalm-the-elven-stronghold.md).** This is **why Kuru colonized
-  them, and why they grew rich enough to become client-states** (below): in a land-starved
-  world, **fresh fertile land is the real treasure,** and the Kurunatukas are a heap of it.
-  *(This is the **same mechanism that first built the [Muspel empire](the-muspel-empire.md)** —
-  power from controlling the cycle that makes fertile land — playing out again on newer
-  islands.)*
+  old lands like [Maalm](maalm-the-elven-stronghold.md).** **Noku rode the same rush
+  for a different reason:** not new soil but old, depopulated ground — the
+  orc-resettled southern reach of drowned Cartaga (see
+  [Musleheim](musleheim.md)) — conquered rather than claimed empty. Either way it's
+  **why Kuru colonized them, and why they grew rich enough to become client-states**
+  (below): in a land-starved world, fertile land of any origin is the real treasure.
+  *(Moku's rise is the **same mechanism that first built the
+  [Muspel empire](the-muspel-empire.md)** — power from controlling the cycle that
+  makes fertile land — playing out again on newer islands.)*
 - **Now (~1 year to the next pass).** Kuru is the **dominant power** but **weak at sea**
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
   will exploit. The phoenix is openly faltering. And the next pass is its **next

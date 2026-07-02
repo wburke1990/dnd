@@ -79,7 +79,9 @@ divides Musleheim from Noku Kurunatuka** — a drowned capital under the channel
 The inland city of **Cartaga Nova** ("New Cartaga") carries the name forward.
 (See the [Nila atlas](nila-atlas.md) for positions.) `[OPEN]` whether anything
 of sunken Cartaga — vaults, the First/Second Foundation's works, the dead — is
-still reachable beneath the strait.
+still reachable beneath the strait. **The ground south of the strait didn't
+sink — it's the old reach of the empire that became Noku Kurunatuka.** See
+[Musleheim](musleheim.md), "Noku Kurunatuka — old ground, not new."
 
 It transformed the empire's *own people:*
 

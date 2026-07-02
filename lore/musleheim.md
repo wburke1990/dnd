@@ -49,6 +49,25 @@ on. See the [Nila atlas](nila-atlas.md) for positions; the sunken city is an
 
 ---
 
+## Noku Kurunatuka — old ground, not new (settled — 7/2)
+
+Unlike **Moku**, which really is virgin volcanic land the hot spot raised from
+nothing, **Noku Kurunatuka is not new.** Much of it — possibly all of it — is
+the old southern reach of the Muspel empire: the ground immediately south of
+Cartaga, before the strait swallowed the capital's center. It shares
+Cartaga's fate. The ~1,000-ya bad pass **fully depopulated it**, the same
+alchemical sickness scouring it clean along with everywhere else the
+catastrophe touched. Over the centuries that followed, **orcs and half-orcs
+resettled it** as part of the wider raiding-age diaspora (see
+[the Muspel empire §3](the-muspel-empire.md)) — a recovering frontier, not the
+homeland proper, but theirs. When Kuru's land rush arrived (~300 ya), what it
+colonized as "Noku" was **not empty new soil** — it was orc-held ground Kuru
+**cleaned out.** The clean, uncontested land grab the Kurunatukas are usually
+credited with is true only of **Moku**; Noku's founding is one more conquest,
+same as the reconquest of Musleheim itself — just quieter about it.
+
+---
+
 ## Open / to confirm
 
 - `[OPEN — name the waterfall]` (the river's outfall into the bay).
