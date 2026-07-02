@@ -100,6 +100,15 @@ he spends his words *fishing*.
 **"Who are you, really?"** *(a suspicious PC)*
 - "I am the one who answers the door." *(the smile, on time for once, which is somehow worse)* "That is all I am for. ...We are very tired today. Was there anything else?"
 
+### The stonewall — when they pry too hard
+
+*Mul's universal exit from any question he won't answer: turn it into money. It closes the subject, needles them, and quietly reminds them they took the coin without ever asking where it came from — the same complicity Preem throws in their faces later ([where did you think your money was coming from?](preem.md#where-the-money-comes-from--the-company-)).*
+
+- *(smoothly, folding his hands)* "You are full of questions today. Let me ask you one. Are you not being paid enough?"
+- "It is such easy work, what he asks of you. A little sailing. A little reading. A little digging in the graves of people far too dead to mind. And for that he fills your purse. How much was it, per word? Per name scratched on a wall by someone three thousand years in the dust?" *(the smile)* "Most men would kill for wages like that. Some have."
+- *(if they keep pushing)* "The coin is good, the work is easy, and the questions were never part of the arrangement. You are paid by the name — not by the answer." *(a small, final nod)* "Shall we talk about the next map instead? *That,* I am allowed to help you with."
+- **DM note:** he never raises his voice and never gets angry — he just keeps walking the conversation back to the purse until they let it go. The wall has no door in it: if a PC won't drop it, he simply repeats that the questions aren't part of the deal and offers the next job. ("Some have [killed for wages like that]" is plainly true — the crews that didn't come home; see the [man who died in the tombs](../encounters/valley-of-the-kings.md).)
+
 ### The turn of the screw — closing the scene
 
 Mul settles the full payment — generous, a little extra "from the master, with his thanks" — and sends them off with the next thread: *"There will be more. There is always more. He will send the next map when the stone is warm again. Go. Rest. You have earned it."*
@@ -109,6 +118,22 @@ Then, as they reach the stairs, quiet, and meaning it more than they can know:
 - *"You did very well. Better than you know. ...Better than I would have."*
 
 *Let that last line hang. He is thanking them, sincerely, for forging the chains his own people will wear.*
+
+---
+
+## The Pay — What a Name Is Worth
+
+*Reference for the whole name-quest, not just this scene — Mul (or the invisible quasit at a long rest) is the paymaster. The party only ever sees the numbers, never the reason, and the numbers are themselves the clue: the names that pay a fortune are the names that are **doors.***
+
+| Pay / name | What the name is | Why |
+|---|---|---|
+| **5 gp** | **Dead names** — the whole [Valley of the Kings](../encounters/valley-of-the-kings.md) tier: dead kings, dead gods, the forty-two Assessors, undead queens — anyone whose referent is gone. | No binding value. Preem buys them as scholarship cover and to bury the names he *actually* wants in a heap of worthless ones. This is the "easy grave-robbing" rate — the one [Mul throws back at them](#the-stonewall--when-they-pry-too-hard). |
+| **50 gp** | **Minor living names** — lesser spirits, imp/quasit-tier fiends, a named beast-spirit. | A real door, but a small one. |
+| **500 gp** | **Significant demons and living powers** — something genuinely worth summoning and binding. | Preem notices names like these. |
+| **2,500 gp** | **The truly dangerous** — a demon-lord's lieutenant, an elemental prince's servitor, names spoken only in warnings. | Rare; he pays like it. |
+| **10,000 gp** | **The volcano-demon's true name** — the one name that can pull the trigger on Ragnarok. | The apex the entire quest-ladder was built to reach. Preem will pay a fortune for it — or hand it to the party and ask them to *speak* it themselves (the [climax](preem.md#the-climax--the-volcano-demon-choice)). |
+
+**The escalation is the story.** The party starts grave-robbing for pocket change and ends holding a name worth more than most kingdoms. When the price of a name suddenly leaps, they are being told — without being told — that *this* one is different. (Exact numbers are tunable; the shape — **5 → 50 → 500 → 2,500 → 10,000** — is the point.)
 
 ---
 
