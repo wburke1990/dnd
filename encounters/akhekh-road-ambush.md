@@ -77,10 +77,15 @@ Best case; doesn't need any extra prep.
 
 **B. It still goes for the grab-and-flee.** If the talk-down fails or the
 party keeps pressing past the warning, the original rescue-hook idea is
-still on the table: the Akhekh singles out Aniess — the one who offered to
-be ridden — and carries her off to its lair to feed to its young, rather
-than killing her outright in combat. This reframes the immediate threat
-into a new quest: **rescue Aniess before she's eaten.**
+still on the table: the Akhekh carries someone off to its lair to feed to
+its young, rather than killing them outright in combat. This reframes the
+immediate threat into a new quest: **rescue [target] before they're eaten.**
+
+**Who it grabs:** if a player misses the session where this next section
+plays out, the Akhekh grabs *that* player's character instead — a clean
+in-fiction reason for an absent PC to be sidelined. If everyone is at the
+table, it defaults to **Aniess** (Greg) — the one who offered to be ridden,
+and the one whose player this whole sequence has been built around.
 
 - This requires establishing the Akhekh has **young in the lair** — not in
   the existing bestiary write-up; would be new material if used.
@@ -103,7 +108,7 @@ into a new quest: **rescue Aniess before she's eaten.**
 - [ ] How long until the young are fed — a hard clock or a soft one.
 - [ ] What's actually in the lair beyond the traps (young akhekh stat
       block or just hungry animals; treasure; the priests' watch-post).
-- [ ] Whether Aniess is conscious/able to act during the flight/captivity,
-      or the rescue is a pure recovery mission.
+- [ ] Whether the grabbed PC is conscious/able to act during the
+      flight/captivity, or the rescue is a pure recovery mission.
 - [ ] Whether the rest of the party can catch up in time on foot, or need
       another way in (the akhekh flies; they don't).
