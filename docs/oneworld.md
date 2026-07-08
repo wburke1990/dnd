@@ -210,6 +210,41 @@ rg -oc '<new SBx GUID>'    <save>   # each = 2 (token + JotBase line)
   or `$var` paths — the analyzer prompts on those regardless of allowlist
   (CLAUDE.md). Run the per-map commands as flat, literal-path lines.
 
+## Removing or dead-asset-pruning an imported map
+
+`scripts/dnd_tools/clean_ow_map.py` is the companion/inverse of the
+importer, for the two things you do after eyeballing a freshly imported
+map in TTS. Both ops are idempotent, write to a new output file (refuse
+in-place overwrite), and chain through `/tmp` like the importer.
+
+- **Don't want the map** → `remove`. Deletes all three pieces (OWx bag
+  from `mBag`, SBx token from `aBag`, JotBase line from `aBag.LuaScript`).
+  Identify by `--owx-guid` or `--sbx-guid`.
+
+  ```
+  uv --directory /Users/wcb/personal/dnd/scripts run python -m dnd_tools.clean_ow_map \
+    remove "<in save>" "/tmp/clean_1.json" --owx-guid <owx GUID>
+  ```
+
+- **Keep the map but kill "Failed to import asset" spam** → `prune`. With
+  no `--dead-url`, it GET-probes every asset URL in the map's OWx subtree
+  (200-but-HTML counts as dead, catching the failures the Player.log
+  *misses* — see [tts-asset-debug.md](tts-asset-debug.md)), then per piece:
+  a dead **mesh/assetbundle** → remove the object + strip its SBx manifest
+  line (it can't render anyway); a dead **texture** on a live mesh → blank
+  just that field (piece still spawns, TTS never fetches the dead URL). Net:
+  zero dead fetches, every renderable piece kept.
+
+  ```
+  uv --directory /Users/wcb/personal/dnd/scripts run python -m dnd_tools.clean_ow_map \
+    prune "/tmp/clean_1.json" "/tmp/clean_2.json" --owx-guid <owx GUID>
+  ```
+
+  Pass explicit `--dead-url <U>` (repeatable) to skip probing when you
+  already know the bad URLs (e.g. from the Player.log curl errors). Verify
+  the result by re-running the probe (0 dead) and `mv` the final temp into
+  `TS_Save_19.json`, same as the import flow.
+
 ## Edit workflow for the Hub or aBag Lua
 
 ```
