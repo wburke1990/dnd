@@ -16,9 +16,9 @@ happened right at the top of the fight that the Akhekh's own motivations
 
 - **Aniess asked if she could ride it.** ("I have a feeling that will piss
   it off.") The Akhekh's one hard rule is that it will never be ridden,
-  fetched from, or commanded — it was broken to the chariot once, in the
-  old empire, and remembers. Being *asked* — however lightly meant — reads
-  to it as exactly the harness it despises.
+  fetched from, or commanded — it was harnessed and made to serve once, in
+  the old empire, and remembers. Being *asked* — however lightly meant —
+  reads to it as exactly the harness it despises.
 - **Blackacre cast Entangle — and the Akhekh failed the save,** so it's
   actually restrained/grappled in the vines. Ropes, nets, and restraints
   are explicitly the thing that lowers its mood fastest (its aura exists to
@@ -94,9 +94,9 @@ and the one whose player this whole sequence has been built around.
 - This requires establishing the Akhekh has **young in the lair** — not in
   the existing bestiary write-up; would be new material if used.
 - Ties cleanly into the akhekh's existing thesis in the bestiary — it is "a
-  named thing owned by someone else," broken to the chariot, worked as
-  Set's alarm. Taking a captive to its lair is the beast asserting the one
-  thing that is still its own: its young, its ground, its choice of prey.
+  named thing owned by someone else," harnessed by kings long ago and worked
+  as Set's alarm now. Taking a captive to its lair is the beast asserting the
+  one thing that is still its own: its young, its ground, its choice of prey.
 - The lair is already established as ringed with **Set's priests' traps**
   (their early-warning system) — a rescue run through that lair is a
   second encounter layer for free, not a new location to invent from
@@ -112,29 +112,31 @@ north toward Maalm (see the
 [read-aloud](../handouts/the-dry-river-to-maalm.md)). Steps cut into the
 cliff face lead in, and the entry passage carries wall art laying out the
 **Akhekh's real mythology** — the same royal-power-ambivalence material
-already sourced in the bestiary (broken to the chariot, Ramesses praised
-as "an akhekh," chaos harnessed to dominate chaos). Following those steps
+already sourced in the bestiary (harnessed by ancient kings, Ramesses
+praised as "an akhekh," chaos harnessed to dominate chaos). Following those
+steps
 in is also where the party learns concretely **what the priests of Set are
 doing with it** — its lair ringed in their traps, the beast worked as a
 living alarm — which hands them the moral fork the campaign's been
 building toward: help the akhekh, or side with the priests.
 
-**The environmental angle — the priests are also stealing water.** Beyond
-using the akhekh as an alarm, the priests are quietly diverting surface
-water into a private underground lake for their own use — plausible and
-loaded precisely because [the valley's surface water didn't vanish, it
-went underground](../lore/the-drying-of-the-valley.md): the collapsed
-aquifer is the same water Maalm survives on by hoarding it in cisterns.
-The priests are running Maalm's own survival trick in miniature, except
-in secret and for themselves alone, in a region defined by
+**The environmental angle — secret cliff gardens, and the akhekh feeds
+them.** Set's priests keep hidden **Inca-style terrace gardens** cut into
+the cliff face — stepped, irrigated plots that have no business existing in
+this dead, dry valley. They sustain them two stolen ways: they **harvest the
+akhekh's droppings as fertilizer** (its guano is the one rich thing in a
+barren land — real-world seabird guano built fortunes), and they **divert
+surface water** into the terraces. Both are loaded because
+[the valley's surface water didn't vanish, it went
+underground](../lore/the-drying-of-the-valley.md) — the collapsed aquifer is
+the same water Maalm survives on by hoarding it in cisterns, so the priests
+are running Maalm's own survival trick in secret and for themselves alone,
+in a region defined by
 [water-and-land scarcity](../lore/the-drying-of-the-valley.md#campaign-hooks).
-It also lands directly on Tomb 4's own confession tablets — *"I have
-hoarded while others went without," "I have withheld water from the
-thirsty," "I have stopped the water from reaching those downstream of
-me"* — so the party would be walking straight into the thing they just
-confessed to weighing. Personal stakes for **Sarric** especially
-("Restoring our Clean Kingdom") if this needs a hook beyond Aniess's
-rescue.
+And it sharpens the akhekh's whole thesis: it isn't only an alarm now, it's
+livestock — even its dung is taken from it. Strong personal stakes for
+**Sarric** ("Restoring our Clean Kingdom") if this needs a hook beyond
+Aniess's rescue.
 
 **Catching it in flight — no chase mechanic needed.** The Akhekh flies at
 60 ft.; a party Dashing every round moves 60 ft. too (double their base 30
@@ -152,10 +154,10 @@ ally) while the chase is on.
       action, not the distance.
 - [ ] How long until the young are fed — a hard clock or a soft one.
 - [x] What's actually in the lair beyond the traps — **the mythology art,
-      and the priests' private underground lake** (diverted surface water,
-      the same collapsed-aquifer water Maalm hoards). Still open: young
-      akhekh stat block or just hungry animals; treasure; the priests'
-      watch-post garrison.
+      and the priests' secret Inca-style cliff gardens** (fed by the akhekh's
+      guano and by diverted surface water, the same collapsed-aquifer water
+      Maalm hoards). Still open: young akhekh stat block or just hungry
+      animals; treasure; the priests' watch-post garrison.
 - [ ] Whether the grabbed PC is conscious/able to act during the
       flight/captivity, or the rescue is a pure recovery mission.
 - [ ] How the "help the akhekh vs. side with Set's priests" choice actually
