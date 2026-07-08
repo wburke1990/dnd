@@ -210,6 +210,36 @@ rg -oc '<new SBx GUID>'    <save>   # each = 2 (token + JotBase line)
   or `$var` paths — the analyzer prompts on those regardless of allowlist
   (CLAUDE.md). Run the per-map commands as flat, literal-path lines.
 
+### Floor-plate fitting (automatic, in `import_ow_map`)
+
+The JotBase line's **second** brace-triple is the **vBase scale** — the size
+of the visible floor plate the Hub paints the SBx image onto (`55c90c.lua`
+`cbGetBase` → `vBase.setScale(scalevBase)`; it's parsed as an independent
+`{x;y;z}`, so non-uniform is honoured, but we don't need that). The old
+importer hard-coded `{25.00;1;25.00}` for every map, which made the painted
+floor **~40% too big** — it overhung the built surface (the "floor bigger than
+the objects" / offset symptom on Canyon Cave, Desert Cave, Rocky Path, …).
+
+The **wrong fix** is sizing the floor to the object bounding box: object
+*centres* ignore that a big surface mesh extends past its own centre, and the
+box's aspect ratio rarely matches the 1.69:1 floor image, so it never sits
+flush. The **right rule** — now automatic in `import_ow_map`
+(`detect_floor_plate`): every OW battle map contains its **own floor plate**,
+the largest **flat** tile(s) (big `scaleX/Z`, tiny `scaleY`; ~18 in practice,
+vs `<=8` for props). Set the vBase scale to that tile's scale and **recenter
+all pieces on the plate's centre** (the Hub paints vBase at the origin). Then
+the painted floor is exactly the same size and position as the built surface —
+flush, uniform, no image distortion. Maps with **no** detectable flat plate
+(`< PLATE_MIN_SCALE`) fall back to `DEFAULT_VBASE = 25` with no recentering
+(old behaviour), so plate-less maps aren't disturbed. The import output prints
+`Floor: fitted to plate, vBase <n>` or `no plate detected`.
+
+To retrofit a map imported **before** this fix (or one whose plate the
+heuristic misses), the manual move is: read the bag's pieces (largest flat
+`scaleX/Z` = the plate), set that map's JotBase vBase triple to the plate
+scale, and shift every piece + its SBx manifest line so the plate centre lands
+on the origin.
+
 ## Removing or dead-asset-pruning an imported map
 
 `scripts/dnd_tools/clean_ow_map.py` is the companion/inverse of the

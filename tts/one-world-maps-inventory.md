@@ -35,24 +35,23 @@ re-import a known dud or forget a good one. Status key: **✅ good** ·
 **⚠️ usable with work** · **❌ not usable** · **🔖 reserved** (good, saved
 for a specific future use) · **🔀 mislabeled** (recategorized above).
 
-> **⚠️ The floor/object offset is PER-MAP, not one constant.** The painted
-> vBase floor is square and fixed (~91 units at vBase 25); each map's objects
-> have their own footprint *and aspect ratio*. Shrinking the floor to a map's
-> footprint (`vBase = maxspan / 3.66`, patched in its `aBag` JotBase line):
-> — **fixes** maps whose floor art matches their object aspect (**Desert
-> Cave** → perfect); — **breaks** maps meant to sit small inside a larger
-> floor (**Cave Altar** was fine at full 91; shrinking cut its surroundings →
-> black border); — **can't** fix maps whose floor and objects have *different
-> aspect ratios* (**Canyon Cave** — a square plate can't match a rectangular
-> object set; uniform object-grow just flings pieces off the table). A true
-> universal fix would need a **non-square, aspect-matched vBase plate** (Hub
-> work — deferred). Until then: **tune per-map, never batch.**
+> **✅ The floor offset is SOLVED — fit the floor to the map's own plate.**
+> The Hub paints the floor at one uniform vBase scale; the old importer default
+> (25) ran ~40% too big → the floor overhung the built surface. The fix, now
+> **automatic in `import_ow_map`** (see [oneworld.md](../docs/oneworld.md) →
+> *Floor-plate fitting*): every OW battle map ships its **own floor plate** —
+> the largest *flat* tile (~18) — so set the vBase scale to that tile and
+> **recenter the pieces on it**. Result: painted floor exactly flush with the
+> built surface, uniform, no distortion. This retired the earlier dead ends
+> (object-bbox sizing skewed by prop clouds; the "needs a non-square/
+> aspect-matched plate" theory). Maps tested *before* the fix may still carry a
+> stale vBase — retrofit per oneworld.md.
 
 | Map | GUID | Status | Notes |
 |-----|------|--------|-------|
-| **Desert Cave** | dfd079 | ✅ **winner — akhekh lair** | Floor sized to its footprint (vBase ~18) aligns **perfectly**. Has a natural **Akhekh nest** area; red desert palette. Can serve tunnels + nest in one. |
-| Rocky Path | e47bca | ⚠️ offset unresolved | Good **stairs** shape, assets clean, but the offset persists (shrink didn't cleanly fix — floor/object aspect mismatch). Candidate for the approach if tuned. |
-| Canyon Cave | 55ed53 | ❌ too costly | Floor vs object **aspect ratios differ** — no uniform resize (floor *or* objects) reconciles them; needs a non-square plate. Plus 9 figurine load errors (Steam throttling). Shelved unless we do the deep Hub fix. |
+| **Desert Cave** | dfd079 | ✅ **winner — akhekh lair** | Flush via plate-fit (vBase ~18.2). Natural **Akhekh nest** area; red desert palette; serves tunnels + nest in one. |
+| **Rocky Path** | e47bca | ✅ perfect (fitted) | Flush via plate-fit (vBase 17.99). Clean assets. Good akhekh **stairs / approach**. |
+| **Canyon Cave** | 55ed53 | ✅ perfect (fitted) | Flush via plate-fit (vBase 17.99) — the map that proved the strategy. Akhekh **tunnels**. 9 figurine load errors remain = Steam CDN throttling (assets are live), cosmetic; rehost to silence. |
 | Cave Altar | 432502 | 🔖 reserved | Works at **full floor 25 — do NOT shrink** (shrinking cuts its surroundings → black). Underground **tomb with a huge central statue**; pavilion needs a new texture. Future. |
 | The Sinkhole | ed6b26 | ❌ not usable | Offset both ways; small footprint over-zooms (~1.8×) if grown. Skip. |
 | Larders of Ill Omen | 6b9aab | 🔖 reserved | Great nest/lair; only 5 tiny props dropped in cleanup. Not this quest — banked. |
