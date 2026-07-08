@@ -26,7 +26,10 @@
     finish."*
   - **Aniess** — tablet 41, *"I have taken from the dead."* — the
     party-wide tablet, not one of the three keyed to her own backstory
-    (36–38); worth a note for continuity if it comes up again.
+    (36–38). Ruled true because it's literal: across the tombs she used
+    **Time Biter** on scraps of clothing pulled off the dead to read their
+    dates of death — she has, mechanically, been taking from the dead all
+    game. Worth a note for continuity if it comes up again.
 - They **collected every name** findable in the tomb — Osiris, Anubis, Thoth,
   Isis, Nephthys, Selket, Ammit, the Forty-Two Assessors, and Amseh IV's and
   Farseh-ti's cartouches — completing the
