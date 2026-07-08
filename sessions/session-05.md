@@ -64,15 +64,14 @@
 - **The lion thread keeps paying off.** Rat meat bought passage in Session 3;
   Animal Friendship just bought a night's shelter. Worth a nod if a player
   brings it up.
-- **The Akhekh fight is the live question.** Its stat block is built to be
-  talked through, fled, or survived — not won straight — against what reads
-  as a low-level party (nearly 3x a deadly encounter budget). It does have a
-  built-in mercy valve (breaks off once bloodied, or once it's downed one
-  creature and been shown "real teeth" — territorial, not suicidal), but
-  that's not a guarantee. Decide before running the rest of it: does this
-  play out as written and let the dice fall (including a real TPK, which the
-  party earned by fighting a monster the fluff explicitly warns against), or
-  does something intervene (Sha the Set-beast, the lepers, Kethara)?
+- **The Akhekh fight is the live question — `[OPEN — decide with David]`.**
+  Aniess asked to ride it and Blackacre's Entangle (saved against) both hit
+  its two worst triggers in round one, on top of it already being a CR 7
+  fight against a low-level party. Full situation and the two branches on
+  the table (play it straight vs. it drags Aniess off to its lair as a
+  rescue hook instead of a kill) are written up in
+  [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md) — not
+  decided yet.
 - **85 gold doesn't cleanly reconcile with the pay table.** [Mul pays 5 gp
   per dead name](../characters/mul.md#the-pay--what-a-name-is-worth), and
   Tomb 4 alone has ~10 findable names — not worth relitigating unless a
@@ -82,8 +81,9 @@
 
 # LOOSE ENDS FOR PREP
 
-- [ ] **Resolve the Akhekh fight** — live at end of session; run it out or
-      decide the outcome before next session starts.
+- [ ] **Resolve the Akhekh fight** — live at end of session. Branch decision
+      (straight fight vs. lair-rescue hook) pending discussion with David;
+      see [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
 - [ ] **Run the "return to the tower" scene** with Mul once the party
       reaches Maalm (assuming they survive the road).
 - [ ] Carry forward from [Session 4](session-04.md): the **gate guard**
