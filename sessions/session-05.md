@@ -64,14 +64,17 @@
 - **The lion thread keeps paying off.** Rat meat bought passage in Session 3;
   Animal Friendship just bought a night's shelter. Worth a nod if a player
   brings it up.
-- **The Akhekh fight is the live question — `[OPEN — decide with David]`.**
+- **The Akhekh fight — resolved with David, still live at the table.**
   Aniess asked to ride it and Blackacre's Entangle (saved against) both hit
   its two worst triggers in round one, on top of it already being a CR 7
-  fight against a low-level party. Full situation and the two branches on
-  the table (play it straight vs. it drags Aniess off to its lair as a
-  rescue hook instead of a kill) are written up in
-  [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md) — not
-  decided yet.
+  fight against a low-level party. The mercy sequence is now decided: it
+  warns them to run, gives each party member one free swipe if they don't,
+  then breaks the tangle and speaks — part Elvish, part Ancient Egyptian —
+  which Aniess can partially understand (Yuan-ti speak-with-snakes + the
+  party's standing Speak with Animals + her own Elvish), putting the
+  talk-it-down choice in Greg's hands. Whether that lands, or it still
+  escalates to the grab-and-flee rescue hook, is the open piece. Full
+  writeup: [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
 - **85 gold doesn't cleanly reconcile with the pay table.** [Mul pays 5 gp
   per dead name](../characters/mul.md#the-pay--what-a-name-is-worth), and
   Tomb 4 alone has ~10 findable names — not worth relitigating unless a

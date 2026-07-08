@@ -1,10 +1,9 @@
 # The Akhekh on the Road Home
-## Ambush between the Valley of the Kings and Maalm — Session 5, outcome open
+## Ambush between the Valley of the Kings and Maalm — Session 5
 
-*A live-table situation, not yet resolved. Full stat block, parley rules,
-and lore live in [`bestiary/akhekh.md`](../bestiary/akhekh.md) — this sheet
-is just the specific encounter as it played out and the branch the table
-hasn't picked yet.*
+*A live-table situation. Full stat block, parley rules, and lore live in
+[`bestiary/akhekh.md`](../bestiary/akhekh.md) — this sheet is the specific
+encounter as it played out and how the table (with David) is running it.*
 
 ---
 
@@ -33,21 +32,55 @@ its ground.
 
 ---
 
-## The branch — `[OPEN — decide with David]`
+## How it's actually playing out (resolved with David)
 
-Not yet decided which of these happens. Two live options on the table:
+1. **The entangle is live but not the whole story.** It made its save (no
+   restrain), but the *attempt* still reads to it as an act of harness —
+   see above.
+2. **It isn't trying to kill them outright.** ("I am not going to try and
+   kill them unless they are stupid.") Before it commits to a real
+   multiattack, it gives them an out: it tells the party to **run**. If
+   they don't take it, it still doesn't unload — it lets **each party
+   member land one free swipe** first. That's a warning volley, not its
+   opening move.
+3. **It breaks the tangle and speaks.** Once it shakes off the vines, it
+   says something — **part Elvish, part Ancient Egyptian** (not Sylvan;
+   Aniess was an elf before her transformation, so Elvish is the language
+   that's actually hers to half-recognize).
+4. **Aniess partially understands it — nobody else does, yet.** Two
+   separate, already-canon things stack for her: her innate Yuan-ti trait
+   to speak with snakes (covering the Akhekh's serpent half) and the
+   party's standing Speak with Animals (covering its animal mind, per the
+   bestiary's existing ruling that the spell works on it). Between those
+   and her own Elvish, she gets the gist before anyone parses the actual
+   words. That puts the choice — try to talk it down, or keep fighting —
+   in **Greg's** hands specifically: the player whose character provoked it
+   is the only one who can (partially) hear it reasoning.
 
-**A. Play it straight.** Run the fight per the bestiary stat block and
-reaction rules as written — it kites, it disengages once bloodied or once
-it's downed one creature and shown "real teeth," and it doesn't pursue a
-fleeing party to the death. If the dice go badly, they go badly; the party
-picked a fight the fluff explicitly warns against, twice over.
+*(Table-humor aside, not campaign canon: David floated this partly as an
+in-fiction consequence for Greg's habit of talking through every beat
+without leaving room for the DM to respond — "that's what he gets,"
+immediately followed by "I kid, that's bordering on petty." Worth
+remembering as part of where the choice came from, not worth writing into
+the Akhekh's actual in-world motivations.)*
 
-**B. Grab-and-flee — the rescue hook.** Instead of finishing the fight, the
-Akhekh singles out **Aniess** — the one who offered to be ridden — and
-carries her off to its lair to feed to its young, rather than killing her
-outright in combat. This reframes the immediate threat (TPK averted) into
-a new quest: **rescue Aniess before she's eaten.**
+---
+
+## Where it can still go from here
+
+The mercy sequence above makes a hard TPK much less likely than the
+original "play it straight" read, but the branch from before is still live
+depending on how the talk-down attempt lands:
+
+**A. Aniess talks it down, or the party disengages.** Fight ends there.
+Best case; doesn't need any extra prep.
+
+**B. It still goes for the grab-and-flee.** If the talk-down fails or the
+party keeps pressing past the warning, the original rescue-hook idea is
+still on the table: the Akhekh singles out Aniess — the one who offered to
+be ridden — and carries her off to its lair to feed to its young, rather
+than killing her outright in combat. This reframes the immediate threat
+into a new quest: **rescue Aniess before she's eaten.**
 
 - This requires establishing the Akhekh has **young in the lair** — not in
   the existing bestiary write-up; would be new material if used.
