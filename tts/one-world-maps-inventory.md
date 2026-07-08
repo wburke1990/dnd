@@ -35,12 +35,23 @@ re-import a known dud or forget a good one. Status key: **✅ good** ·
 **⚠️ usable with work** · **❌ not usable** · **🔖 reserved** (good, saved
 for a specific future use) · **🔀 mislabeled** (recategorized above).
 
+> **⚠️ Systemic offset bug — affects every imported map.** Maps imported
+> via `import_ow_map` build with the **painted floor plate bigger than the
+> object spread**: pieces cluster centrally and the floor overhangs them.
+> It reproduces on Canyon Cave, The Sinkhole, Desert Cave, *and* Rocky
+> Path, so it's a **constant, not per-map** — traced to the hard-coded
+> plate scale in the JotBase template. Fixing it once fixes all of them;
+> the ⚠️ rows below all share this single issue.
+
 | Map | GUID | Status | Notes |
 |-----|------|--------|-------|
-| Rocky Path | e47bca | ✅ good | Loaded 100% clean, zero dead assets. Strong akhekh **stairs** candidate. |
-| Larders of Ill Omen | 6b9aab | ✅ good | Great nest/lair; only 5 tiny props dropped in cleanup. Not used this quest — banked for the future. |
+| **Canyon Cave** | 55ed53 | ⚠️ **winner — pending offset fix** | The pick for akhekh **tunnels**. 9 custom-figurine load errors (Steam CDN throttling; assets are live). Swapping the painted floor to wood is only a *partial* fix — a section relies on painted-floor detail — so the real fix is the **offset bug**, not floor replacement. |
+| Desert Cave | dfd079 | ⚠️ strong candidate | Has the offset bug, but maybe the best fit: has an area that works as the **Akhekh nest**. Red desert palette. |
+| Rocky Path | e47bca | ⚠️ usable w/ work | Assets 100% clean, but has the offset bug on closer look. Good akhekh **stairs** shape. |
+| The Sinkhole | ed6b26 | ⚠️ usable w/ work | Same offset bug (floor bigger than the objects). Nest/pit option. |
+| Cave Altar | 432502 | 🔖 reserved | Great map — an underground **tomb with a huge central statue**. Not this quest; the pavilion needs a new texture. Banked for the future. |
+| Larders of Ill Omen | 6b9aab | 🔖 reserved | Great nest/lair; only 5 tiny props dropped in cleanup. Not this quest — banked. |
 | CAVE Boss | 811e42 | 🔖 reserved | "Amazing", clean. Set aside for a future scene, not the akhekh. |
-| Canyon Cave | 55ed53 | ⚠️ usable w/ work | Assets all live (mini-load failures = Steam CDN throttling, not dead links). **Not** a resize — footprint ≈ Rocky Path. The map ships its **own tile floor**, so the importer's painted plate-image is a conflicting *second* floor. **Fix: swap its painted floor to our default wood floor** (`table_wood.jpg`, the OW `_OW_vBase` image) so the plate is a neutral base under the map's real tile floor. Promising akhekh **tunnels**. |
 | Dwarven cliffs with houses | 06363d | ❌ not usable | Core terrain meshes dead (Steam 404); cleanup left only floating houses/stones. |
 | Cave Entrance | abc718 | ❌ not usable | Too many trees for the akhekh; geyser-steam assets dead (`infinitebucket.com`). |
 | Spiraling Pass | a7d428 | 🔀 mislabeled | Actually tropical islands, not a mountain pass — moved to Docks/coast. Useful later, not for the akhekh. |
