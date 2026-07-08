@@ -51,7 +51,7 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 |-----|------|--------|-------|
 | **Desert Cave** | dfd079 | ✅ **winner — akhekh lair** | Flush via plate-fit (vBase ~18.2). Natural **Akhekh nest** area; red desert palette; serves tunnels + nest in one. |
 | **Rocky Path** | e47bca | ✅ perfect (fitted) | Flush via plate-fit (vBase 17.99). Clean assets. Good akhekh **stairs / approach**. |
-| **Canyon Cave** | 55ed53 | ✅ perfect (fitted) | Flush via plate-fit (vBase 17.99) — the map that proved the strategy. Akhekh **tunnels**. 9 figurine load errors remain = Steam CDN throttling (assets are live), cosmetic; rehost to silence. |
+| **Canyon Cave** | 55ed53 | ✅ perfect (fitted, cleaned) | Flush via plate-fit (vBase 17.99) — the map that proved the strategy. Akhekh **tunnels**. The 9 "figurine import errors" turned out to be 9 **blank placeholder `Figurine_Custom`** objects (empty image URL — not a throttling/rehost issue); removed, so it loads clean. |
 | Cave Altar | 432502 | 🔖 reserved | Works at **full floor 25 — do NOT shrink** (shrinking cuts its surroundings → black). Underground **tomb with a huge central statue**; pavilion needs a new texture. Future. |
 | The Sinkhole | ed6b26 | ❌ not usable | Offset both ways; small footprint over-zooms (~1.8×) if grown. Skip. |
 | Larders of Ill Omen | 6b9aab | 🔖 reserved | Great nest/lair; only 5 tiny props dropped in cleanup. Not this quest — banked. |
