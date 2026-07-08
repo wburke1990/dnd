@@ -101,14 +101,39 @@ and the one whose player this whole sequence has been built around.
   requiring an immediate answer — can be as tight or as loose as the table
   wants once picked up.
 
+**The lair location — decided.** In the cliffs east or west of **the
+statues of the kings** — the colossi at the mouth of the Valley of the
+Kings, the last landmark the party passes before the dry riverbed drops
+north toward Maalm (see the
+[read-aloud](../handouts/the-dry-river-to-maalm.md)). Steps cut into the
+cliff face lead in, and the entry passage carries wall art laying out the
+**Akhekh's real mythology** — the same royal-power-ambivalence material
+already sourced in the bestiary (broken to the chariot, Ramesses praised
+as "an akhekh," chaos harnessed to dominate chaos). Following those steps
+in is also where the party learns concretely **what the priests of Set are
+doing with it** — its lair ringed in their traps, the beast worked as a
+living alarm — which hands them the moral fork the campaign's been
+building toward: help the akhekh, or side with the priests.
+
+**Catching it in flight — no chase mechanic needed.** The Akhekh flies at
+60 ft.; a party Dashing every round moves 60 ft. too (double their base 30
+ft.). So they can keep pace turn for turn without inventing a mount or a
+skill-challenge chase — the real cost is that Dashing is their whole
+action, so no one can do anything else (cast, attack, help a downed
+ally) while the chase is on.
+
 ---
 
 ## If Option B is picked — loose threads to prep
 
+- [x] Whether the rest of the party can catch up — **yes, by Dashing every
+      round** (60 ft. matches the Akhekh's fly speed); the cost is the
+      action, not the distance.
 - [ ] How long until the young are fed — a hard clock or a soft one.
-- [ ] What's actually in the lair beyond the traps (young akhekh stat
-      block or just hungry animals; treasure; the priests' watch-post).
+- [ ] What's actually in the lair beyond the traps and the mythology art
+      (young akhekh stat block or just hungry animals; treasure; the
+      priests' watch-post).
 - [ ] Whether the grabbed PC is conscious/able to act during the
       flight/captivity, or the rescue is a pure recovery mission.
-- [ ] Whether the rest of the party can catch up in time on foot, or need
-      another way in (the akhekh flies; they don't).
+- [ ] How the "help the akhekh vs. side with Set's priests" choice actually
+      plays out mechanically — a straight fight, a negotiation, both.
