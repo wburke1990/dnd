@@ -28,6 +28,25 @@ non-map prop/figure bags in the save (`Stack of Crates (Large)` e95f09,
 
 ---
 
+## Vetted maps — tested in staging
+
+A running log of maps we've actually loaded in TTS and judged, so we don't
+re-import a known dud or forget a good one. Status key: **✅ good** ·
+**⚠️ usable with work** · **❌ not usable** · **🔖 reserved** (good, saved
+for a specific future use) · **🔀 mislabeled** (recategorized above).
+
+| Map | GUID | Status | Notes |
+|-----|------|--------|-------|
+| Rocky Path | e47bca | ✅ good | Loaded 100% clean, zero dead assets. Strong akhekh **stairs** candidate. |
+| Larders of Ill Omen | 6b9aab | ✅ good | Great nest/lair; only 5 tiny props dropped in cleanup. Not used this quest — banked for the future. |
+| CAVE Boss | 811e42 | 🔖 reserved | "Amazing", clean. Set aside for a future scene, not the akhekh. |
+| Canyon Cave | 55ed53 | ⚠️ usable w/ work | Assets all live (mini-load failures = Steam CDN throttling, not dead links). Floor/pieces **size mismatch** — needs a plate-scale fix. Promising akhekh **tunnels**. |
+| Dwarven cliffs with houses | 06363d | ❌ not usable | Core terrain meshes dead (Steam 404); cleanup left only floating houses/stones. |
+| Cave Entrance | abc718 | ❌ not usable | Too many trees for the akhekh; geyser-steam assets dead (`infinitebucket.com`). |
+| Spiraling Pass | a7d428 | 🔀 mislabeled | Actually tropical islands, not a mountain pass — moved to Docks/coast. Useful later, not for the akhekh. |
+
+---
+
 ## Curse of Strahd / Barovia (17)
 
 ```
