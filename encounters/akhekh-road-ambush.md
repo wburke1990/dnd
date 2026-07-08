@@ -115,6 +115,23 @@ doing with it** — its lair ringed in their traps, the beast worked as a
 living alarm — which hands them the moral fork the campaign's been
 building toward: help the akhekh, or side with the priests.
 
+**The environmental angle — the priests are also stealing water.** Beyond
+using the akhekh as an alarm, the priests are quietly diverting surface
+water into a private underground lake for their own use — plausible and
+loaded precisely because [the valley's surface water didn't vanish, it
+went underground](../lore/the-drying-of-the-valley.md): the collapsed
+aquifer is the same water Maalm survives on by hoarding it in cisterns.
+The priests are running Maalm's own survival trick in miniature, except
+in secret and for themselves alone, in a region defined by
+[water-and-land scarcity](../lore/the-drying-of-the-valley.md#campaign-hooks).
+It also lands directly on Tomb 4's own confession tablets — *"I have
+hoarded while others went without," "I have withheld water from the
+thirsty," "I have stopped the water from reaching those downstream of
+me"* — so the party would be walking straight into the thing they just
+confessed to weighing. Personal stakes for **Sarric** especially
+("Restoring our Clean Kingdom") if this needs a hook beyond Aniess's
+rescue.
+
 **Catching it in flight — no chase mechanic needed.** The Akhekh flies at
 60 ft.; a party Dashing every round moves 60 ft. too (double their base 30
 ft.). So they can keep pace turn for turn without inventing a mount or a
@@ -130,9 +147,11 @@ ally) while the chase is on.
       round** (60 ft. matches the Akhekh's fly speed); the cost is the
       action, not the distance.
 - [ ] How long until the young are fed — a hard clock or a soft one.
-- [ ] What's actually in the lair beyond the traps and the mythology art
-      (young akhekh stat block or just hungry animals; treasure; the
-      priests' watch-post).
+- [x] What's actually in the lair beyond the traps — **the mythology art,
+      and the priests' private underground lake** (diverted surface water,
+      the same collapsed-aquifer water Maalm hoards). Still open: young
+      akhekh stat block or just hungry animals; treasure; the priests'
+      watch-post garrison.
 - [ ] Whether the grabbed PC is conscious/able to act during the
       flight/captivity, or the rescue is a pure recovery mission.
 - [ ] How the "help the akhekh vs. side with Set's priests" choice actually
