@@ -65,8 +65,21 @@ MBAG_GUID = "c30535"
 
 # JotBase line format from the live registry in
 # tts/lua/TS_Save_19/966e1c.lua. The trailing comma with no linked
-# entries is correct for an unlinked map.
-JOTBASE_TEMPLATE = "--{guid},{name},{{1.85;1;1.85}},{{25.00;1;25.00}},0,0,2,0,"
+# entries is correct for an unlinked map. The second brace-triple is the
+# vBase (visible floor plate) scale — filled per-map (see
+# detect_floor_plate); DEFAULT_VBASE is the fallback for maps with no
+# detectable plate.
+JOTBASE_TEMPLATE = "--{guid},{name},{{1.85;1;1.85}},{{{vbase};1;{vbase}}},0,0,2,0,"
+DEFAULT_VBASE = 25.0
+
+# A map's own "floor plate" is the largest FLAT tile(s) in its bag (big
+# footprint, negligible height). The Hub paints the SBx floor image onto the
+# vBase plate at one uniform scale; the default 25 is too big for most maps,
+# leaving the painted floor overhanging the built surface. Matching the vBase
+# scale to the map's OWN plate — and recentering the pieces on that plate —
+# makes the painted floor sit flush. Real plates seen in practice are ~18;
+# scenery props are <=~8, so this threshold separates a floor plate from junk.
+PLATE_MIN_SCALE = 8.0
 
 # Match a 6-hex-char GUID with word boundaries on each side. Used to
 # rewrite GUID references inside Lua/XML/Description strings without
@@ -204,8 +217,8 @@ def build_sbx_token(
     }
 
 
-def jotbase_line(sbx_guid: str, map_name: str) -> str:
-    return JOTBASE_TEMPLATE.format(guid=sbx_guid, name=map_name)
+def jotbase_line(sbx_guid: str, map_name: str, vbase_scale: float = DEFAULT_VBASE) -> str:
+    return JOTBASE_TEMPLATE.format(guid=sbx_guid, name=map_name, vbase=f"{vbase_scale:.2f}")
 
 
 def _fmt_float(v: float) -> str:
@@ -264,6 +277,57 @@ def build_sbx_manifest(bag: dict[str, Any]) -> str:
         ]
         lines.append("--" + ",".join(fields))
     return "\n".join(lines) + ("\n" if lines else "")
+
+
+def _flat_footprint(child: dict[str, Any]) -> float | None:
+    """Return a piece's horizontal footprint scale if it's FLAT (a floor
+    tile: negligible height vs footprint), else None."""
+    t = child.get("Transform")
+    if not isinstance(t, dict):
+        return None
+    try:
+        sx = float(t.get("scaleX", 1) or 1)
+        sy = float(t.get("scaleY", 1) or 1)
+        sz = float(t.get("scaleZ", 1) or 1)
+    except (TypeError, ValueError):
+        return None
+    foot = max(sx, sz)
+    return foot if sy <= foot * 0.5 else None
+
+
+def detect_floor_plate(bag: dict[str, Any]) -> tuple[float, float, float] | None:
+    """Find the map's own floor plate — the largest flat tile(s).
+
+    Returns ``(scale, centerX, centerZ)`` where ``scale`` is the uniform
+    vBase scale that makes the painted floor match the plate, and the center
+    is where the pieces should be recentered (the Hub paints vBase at the
+    origin). Returns ``None`` if no tile is flat and large enough
+    (``PLATE_MIN_SCALE``) — callers fall back to ``DEFAULT_VBASE`` with no
+    recentering, preserving old behaviour for plate-less maps.
+    """
+    children = [c for c in bag.get("ContainedObjects") or [] if isinstance(c, dict)]
+    foots = [(c, _flat_footprint(c)) for c in children]
+    big = [(c, f) for c, f in foots if f is not None and f >= PLATE_MIN_SCALE]
+    if not big:
+        return None
+    top = max(f for _c, f in big)
+    plate = [c for c, f in big if f >= top * 0.98]
+    xs = [float(c["Transform"].get("posX", 0) or 0) for c in plate]
+    zs = [float(c["Transform"].get("posZ", 0) or 0) for c in plate]
+    return top, sum(xs) / len(xs), sum(zs) / len(zs)
+
+
+def recenter_children(bag: dict[str, Any], cx: float, cz: float) -> None:
+    """Shift every piece's X/Z position by ``-(cx, cz)`` (in place)."""
+    for c in bag.get("ContainedObjects") or []:
+        if not isinstance(c, dict):
+            continue
+        t = c.get("Transform")
+        if isinstance(t, dict):
+            if isinstance(t.get("posX"), (int, float)):
+                t["posX"] = t["posX"] - cx
+            if isinstance(t.get("posZ"), (int, float)):
+                t["posZ"] = t["posZ"] - cz
 
 
 def find_owx_bag(save: dict[str, Any], owx_guid: str | None) -> dict[str, Any]:
@@ -395,10 +459,21 @@ def import_ow_map(
     # avoids the Hub treating it as a stale GUID pointer.
     bag_copy["Description"] = ""
 
+    # Fit the painted floor to the map's own plate: match the vBase scale to
+    # the largest flat tile and recenter the pieces on it, so the floor sits
+    # flush with the built surface instead of overhanging it. Plate-less maps
+    # fall back to DEFAULT_VBASE with no recentering.
+    plate = detect_floor_plate(bag_copy)
+    if plate is not None:
+        vbase_scale, plate_cx, plate_cz = plate
+        recenter_children(bag_copy, plate_cx, plate_cz)
+    else:
+        vbase_scale = DEFAULT_VBASE
+
     sbx = build_sbx_token(sbx_guid, final_name, sbx_image_url, bag_copy["GUID"])
     # The Hub's Build button is gated by `aBase.getLuaScript() != ""` —
     # without this manifest the SBx is registered but the map can't be
-    # spawned. Build AFTER remap so any rewritten child GUIDs are used.
+    # spawned. Build AFTER remap + recenter so child GUIDs and positions match.
     sbx["LuaScript"] = build_sbx_manifest(bag_copy)
 
     # Inject OWx bag into mBag.ContainedObjects — the Hub's ButtonBuild
@@ -411,7 +486,7 @@ def import_ow_map(
 
     # Append JotBase line in aBag's CRLF/LF convention.
     lua = abag["LuaScript"]
-    new_line = jotbase_line(sbx_guid, final_name)
+    new_line = jotbase_line(sbx_guid, final_name, vbase_scale)
     uses_crlf = "\r\n" in lua
     sep = "\r\n" if uses_crlf else "\n"
     if lua and not lua.endswith(sep):
@@ -426,6 +501,8 @@ def import_ow_map(
         "sbx_image_url": sbx_image_url,
         "collisions_remapped": len(mapping),
         "remapped_guids": mapping,
+        "vbase_scale": round(vbase_scale, 2),
+        "floor_plate_fitted": plate is not None,
     }
 
 
@@ -492,6 +569,10 @@ def main(argv: list[str] | None = None) -> int:
         print(f"  OWx bag GUID: {result['owx_guid']}")
         print(f"  New SBx GUID: {result['sbx_guid']}")
         print(f"  SBx image:    {result['sbx_image_url']}")
+        if result["floor_plate_fitted"]:
+            print(f"  Floor:        fitted to plate, vBase {result['vbase_scale']}")
+        else:
+            print(f"  Floor:        no plate detected, vBase {result['vbase_scale']} (default)")
         print(f"  Collisions:   {result['collisions_remapped']} GUID(s) remapped")
         if result["remapped_guids"]:
             for old, new in result["remapped_guids"].items():

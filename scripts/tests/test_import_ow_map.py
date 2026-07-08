@@ -8,19 +8,22 @@ from typing import Any
 
 import pytest
 
-from dnd_tools.fix_oneworld import ABAG_GUID
+from dnd_tools.fix_oneworld import ABAG_GUID, find_object
 from dnd_tools.import_ow_map import (
+    DEFAULT_VBASE,
     MBAG_GUID,
     ImportError_,
     build_sbx_manifest,
     build_sbx_token,
     collect_save_guids,
     collect_subtree_guids,
+    detect_floor_plate,
     import_ow_map,
     jotbase_line,
     main,
     map_already_imported,
     mint_guid,
+    recenter_children,
     remap_guids_in_subtree,
 )
 
@@ -543,3 +546,112 @@ def test_main_refuses_to_overwrite_target(tmp_path: Path) -> None:
     tgt_path.write_text(json.dumps(_save([_abag(), _mbag()])))
     rc = main([str(src_path), str(tgt_path), str(tgt_path)])
     assert rc == 1
+
+
+# -----------------------------------------------------------------------------
+# Floor-plate fitting
+# -----------------------------------------------------------------------------
+def _tile(guid: str, x: float, z: float, scale: float, height: float = 1.0) -> dict[str, Any]:
+    return {
+        "GUID": guid,
+        "Transform": {
+            "posX": x,
+            "posY": 1.0,
+            "posZ": z,
+            "scaleX": scale,
+            "scaleY": height,
+            "scaleZ": scale,
+        },
+    }
+
+
+def test_detect_floor_plate_finds_largest_flat_tiles() -> None:
+    bag = {
+        "ContainedObjects": [
+            _tile("t1aaaa", 4.0, 2.0, 18.0),
+            _tile("t2aaaa", 6.0, 2.0, 18.0),  # same scale -> both are the plate
+            _tile("prop11", 0.0, 0.0, 3.0, height=3.0),  # small prop, ignored
+        ]
+    }
+    plate = detect_floor_plate(bag)
+    assert plate is not None
+    scale, cx, cz = plate
+    assert scale == 18.0
+    assert cx == 5.0 and cz == 2.0  # centroid of the two plate tiles
+
+
+def test_detect_floor_plate_none_without_a_large_flat_tile() -> None:
+    # biggest flat tile is below PLATE_MIN_SCALE -> no plate
+    bag = {"ContainedObjects": [_tile("small1", 0.0, 0.0, 3.0)]}
+    assert detect_floor_plate(bag) is None
+
+
+def test_detect_floor_plate_ignores_tall_big_objects() -> None:
+    # a big but TALL object (a wall/statue) is not a floor plate
+    bag = {"ContainedObjects": [_tile("wall11", 0.0, 0.0, 20.0, height=20.0)]}
+    assert detect_floor_plate(bag) is None
+
+
+def test_recenter_children_shifts_x_and_z_only() -> None:
+    bag = {"ContainedObjects": [_tile("a1aaaa", 5.0, 3.0, 1.0)]}
+    recenter_children(bag, 5.0, 3.0)
+    t = bag["ContainedObjects"][0]["Transform"]
+    assert t["posX"] == 0.0 and t["posZ"] == 0.0
+    assert t["posY"] == 1.0  # height untouched
+
+
+def test_import_fits_floor_to_plate_and_recenters() -> None:
+    source = _save(
+        [
+            _wbase(),
+            _owx_bag(
+                "Plated",
+                guid="bccddd",
+                contained=[
+                    _tile("pla111", 5.0, 3.0, 18.0),
+                    _tile("pla222", 5.0, 3.0, 18.0),
+                    _tile("prop11", 10.0, 8.0, 2.0, height=2.0),
+                ],
+            ),
+        ]
+    )
+    target = _save([_abag(), _mbag()])
+    result = import_ow_map(source, target)
+
+    assert result["floor_plate_fitted"] is True
+    assert result["vbase_scale"] == 18.0
+    abag = find_object(target["ObjectStates"], ABAG_GUID)
+    assert abag is not None
+    assert "{18.00;1;18.00}" in abag["LuaScript"]
+
+    # Pieces recentered on the plate center (5, 3): plate -> origin, prop -> (5,5).
+    bag = find_object(target["ObjectStates"], "bccddd")
+    assert bag is not None
+    byid = {c["GUID"]: c["Transform"] for c in bag["ContainedObjects"]}
+    assert byid["pla111"]["posX"] == 0.0 and byid["pla111"]["posZ"] == 0.0
+    assert byid["prop11"]["posX"] == 5.0 and byid["prop11"]["posZ"] == 5.0
+    # The manifest reflects the recentered positions too.
+    sbx = find_object(target["ObjectStates"], result["sbx_guid"])
+    assert sbx is not None
+    assert "--prop11,5.0" in sbx["LuaScript"]
+
+
+def test_import_plateless_map_uses_default_vbase_and_no_recenter() -> None:
+    source = _save(
+        [
+            _wbase(),
+            _owx_bag("Flat", guid="ddeeef", contained=[_tile("sm1111", 1.0, 2.0, 1.0)]),
+        ]
+    )
+    target = _save([_abag(), _mbag()])
+    result = import_ow_map(source, target)
+
+    assert result["floor_plate_fitted"] is False
+    assert result["vbase_scale"] == DEFAULT_VBASE
+    abag = find_object(target["ObjectStates"], ABAG_GUID)
+    assert abag is not None
+    assert "{25.00;1;25.00}" in abag["LuaScript"]
+    bag = find_object(target["ObjectStates"], "ddeeef")
+    assert bag is not None
+    # positions untouched (no recentering)
+    assert bag["ContainedObjects"][0]["Transform"]["posX"] == 1.0
