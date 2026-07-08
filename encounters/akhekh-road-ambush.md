@@ -19,43 +19,47 @@ happened right at the top of the fight that the Akhekh's own motivations
   fetched from, or commanded — it was broken to the chariot once, in the
   old empire, and remembers. Being *asked* — however lightly meant — reads
   to it as exactly the harness it despises.
-- **Blackacre cast Entangle.** The Akhekh made its save. Ropes, nets, and
-  restraints are explicitly the thing that lowers its mood fastest (its
-  aura exists to spite exactly this kind of tactic) — succeeding on the
-  save doesn't mean it isn't furious about the attempt.
+- **Blackacre cast Entangle — and the Akhekh failed the save,** so it's
+  actually restrained/grappled in the vines. Ropes, nets, and restraints
+  are explicitly the thing that lowers its mood fastest (its aura exists to
+  spite exactly this kind of tactic) — and this isn't a near-miss it can
+  shrug off, it is *literally bound* by the one thing it exists to hate.
 
 So the fight opened with both of the Akhekh's two worst triggers in the
-first round: an offer to ride it, and an attempt to bind it. A CR 7 creature
-against what reads as a low-level party was already lopsided before this;
-now it's also personally, thematically enraged rather than just defending
-its ground.
+first round: an offer to ride it, and — worse — successfully binding it. A
+CR 7 creature against what reads as a low-level party was already lopsided
+before this; now it's also personally, thematically enraged rather than
+just defending its ground.
 
 ---
 
 ## How it's actually playing out (resolved with David)
 
-1. **The entangle is live but not the whole story.** It made its save (no
-   restrain), but the *attempt* still reads to it as an act of harness —
-   see above.
+1. **The entangle actually landed** — the Akhekh is bound in the vines, the
+   single thing it hates most. That's the emotional peak of its rage, and
+   also why it's held still long enough for the beats below to play out
+   rather than just kiting away.
 2. **It isn't trying to kill them outright.** ("I am not going to try and
    kill them unless they are stupid.") Before it commits to a real
    multiattack, it gives them an out: it tells the party to **run**. If
    they don't take it, it still doesn't unload — it lets **each party
    member land one free swipe** first. That's a warning volley, not its
    opening move.
-3. **It breaks the tangle and speaks.** Once it shakes off the vines, it
+3. **It breaks the tangle and speaks.** Once it tears free of the vines, it
    says something — **part Elvish, part Ancient Egyptian** (not Sylvan;
    Aniess was an elf before her transformation, so Elvish is the language
    that's actually hers to half-recognize).
-4. **Aniess partially understands it — nobody else does, yet.** Two
-   separate, already-canon things stack for her: her innate Yuan-ti trait
-   to speak with snakes (covering the Akhekh's serpent half) and the
-   party's standing Speak with Animals (covering its animal mind, per the
-   bestiary's existing ruling that the spell works on it). Between those
-   and her own Elvish, she gets the gist before anyone parses the actual
-   words. That puts the choice — try to talk it down, or keep fighting —
-   in **Greg's** hands specifically: the player whose character provoked it
-   is the only one who can (partially) hear it reasoning.
+4. **Aniess can partially understand it — but only partway on her own.**
+   Two things are hers already: her own **Elvish** (the Elvish half of what
+   it says) and her innate **Yuan-ti snake-speech** (the Akhekh is
+   half-serpent). Those alone get her fragments — enough to know it's
+   *reasoning*, not just roaring. To actually understand its animal mind in
+   full, someone has to **cast Speak with Animals** — Aniess does *not*
+   have it herself, so a teammate choosing to spend the spell is what turns
+   fragments into a real conversation (the bestiary already rules the spell
+   works on the Akhekh). Either way the choice — talk it down or keep
+   fighting — lands squarely on **Greg**: his character is the one who can
+   hear it at all, and the one who provoked it.
 
 *(Table-humor aside, not campaign canon: David floated this partly as an
 in-fiction consequence for Greg's habit of talking through every beat
@@ -89,10 +93,10 @@ and the one whose player this whole sequence has been built around.
 
 - This requires establishing the Akhekh has **young in the lair** — not in
   the existing bestiary write-up; would be new material if used.
-- Ties cleanly into the akhekh's existing thesis in the bestiary ("a named
-  thing owned by someone else," broken to the chariot, tribute vs. use) —
-  now the party is the one taking something of its choosing, on its
-  ground, on its terms.
+- Ties cleanly into the akhekh's existing thesis in the bestiary — it is "a
+  named thing owned by someone else," broken to the chariot, worked as
+  Set's alarm. Taking a captive to its lair is the beast asserting the one
+  thing that is still its own: its young, its ground, its choice of prey.
 - The lair is already established as ringed with **Set's priests' traps**
   (their early-warning system) — a rescue run through that lair is a
   second encounter layer for free, not a new location to invent from
