@@ -35,21 +35,26 @@ re-import a known dud or forget a good one. Status key: **✅ good** ·
 **⚠️ usable with work** · **❌ not usable** · **🔖 reserved** (good, saved
 for a specific future use) · **🔀 mislabeled** (recategorized above).
 
-> **⚠️ Systemic offset bug — affects every imported map.** Maps imported
-> via `import_ow_map` build with the **painted floor plate bigger than the
-> object spread**: pieces cluster centrally and the floor overhangs them.
-> It reproduces on Canyon Cave, The Sinkhole, Desert Cave, *and* Rocky
-> Path, so it's a **constant, not per-map** — traced to the hard-coded
-> plate scale in the JotBase template. Fixing it once fixes all of them;
-> the ⚠️ rows below all share this single issue.
+> **⚠️ The floor/object offset is PER-MAP, not one constant.** The painted
+> vBase floor is square and fixed (~91 units at vBase 25); each map's objects
+> have their own footprint *and aspect ratio*. Shrinking the floor to a map's
+> footprint (`vBase = maxspan / 3.66`, patched in its `aBag` JotBase line):
+> — **fixes** maps whose floor art matches their object aspect (**Desert
+> Cave** → perfect); — **breaks** maps meant to sit small inside a larger
+> floor (**Cave Altar** was fine at full 91; shrinking cut its surroundings →
+> black border); — **can't** fix maps whose floor and objects have *different
+> aspect ratios* (**Canyon Cave** — a square plate can't match a rectangular
+> object set; uniform object-grow just flings pieces off the table). A true
+> universal fix would need a **non-square, aspect-matched vBase plate** (Hub
+> work — deferred). Until then: **tune per-map, never batch.**
 
 | Map | GUID | Status | Notes |
 |-----|------|--------|-------|
-| **Canyon Cave** | 55ed53 | ⚠️ **winner — pending offset fix** | The pick for akhekh **tunnels**. 9 custom-figurine load errors (Steam CDN throttling; assets are live). Swapping the painted floor to wood is only a *partial* fix — a section relies on painted-floor detail — so the real fix is the **offset bug**, not floor replacement. |
-| Desert Cave | dfd079 | ⚠️ strong candidate | Has the offset bug, but maybe the best fit: has an area that works as the **Akhekh nest**. Red desert palette. |
-| Rocky Path | e47bca | ⚠️ usable w/ work | Assets 100% clean, but has the offset bug on closer look. Good akhekh **stairs** shape. |
-| The Sinkhole | ed6b26 | ⚠️ usable w/ work | Same offset bug (floor bigger than the objects). Nest/pit option. |
-| Cave Altar | 432502 | 🔖 reserved | Great map — an underground **tomb with a huge central statue**. Not this quest; the pavilion needs a new texture. Banked for the future. |
+| **Desert Cave** | dfd079 | ✅ **winner — akhekh lair** | Floor sized to its footprint (vBase ~18) aligns **perfectly**. Has a natural **Akhekh nest** area; red desert palette. Can serve tunnels + nest in one. |
+| Rocky Path | e47bca | ⚠️ offset unresolved | Good **stairs** shape, assets clean, but the offset persists (shrink didn't cleanly fix — floor/object aspect mismatch). Candidate for the approach if tuned. |
+| Canyon Cave | 55ed53 | ❌ too costly | Floor vs object **aspect ratios differ** — no uniform resize (floor *or* objects) reconciles them; needs a non-square plate. Plus 9 figurine load errors (Steam throttling). Shelved unless we do the deep Hub fix. |
+| Cave Altar | 432502 | 🔖 reserved | Works at **full floor 25 — do NOT shrink** (shrinking cuts its surroundings → black). Underground **tomb with a huge central statue**; pavilion needs a new texture. Future. |
+| The Sinkhole | ed6b26 | ❌ not usable | Offset both ways; small footprint over-zooms (~1.8×) if grown. Skip. |
 | Larders of Ill Omen | 6b9aab | 🔖 reserved | Great nest/lair; only 5 tiny props dropped in cleanup. Not this quest — banked. |
 | CAVE Boss | 811e42 | 🔖 reserved | "Amazing", clean. Set aside for a future scene, not the akhekh. |
 | Dwarven cliffs with houses | 06363d | ❌ not usable | Core terrain meshes dead (Steam 404); cleanup left only floating houses/stones. |
