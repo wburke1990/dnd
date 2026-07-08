@@ -16,10 +16,17 @@
   ([`valley-of-the-kings.md`](../encounters/valley-of-the-kings.md#tomb-4--osiris)).
 - All five party members placed a **true confession** on the golden scales,
   each on their **first attempt** — no false placements, no psychic damage.
-  Clean 5-for-5.
-  *(Which confession each PC gave is still to be logged — pending from the
-  table; candidates are listed in the encounter's
-  [DM Key](../encounters/valley-of-the-kings.md#dm-key--tablets-that-echo-the-party).)*
+  Clean 5-for-5:
+  - **Sarric** — tablet 25, *"I have set fire to what I could not save."*
+  - **Pax** — tablet 28, *"I have harmed the living world for an end I
+    believed was good."*
+  - **Jasper** — tablet 39, *"I have lived where others died, and never
+    understood why."*
+  - **Blackacre** — tablet 30, *"I have turned back from what I swore to
+    finish."*
+  - **Aniess** — tablet 41, *"I have taken from the dead."* — the
+    party-wide tablet, not one of the three keyed to her own backstory
+    (36–38); worth a note for continuity if it comes up again.
 - They **collected every name** findable in the tomb — Osiris, Anubis, Thoth,
   Isis, Nephthys, Selket, Ammit, the Forty-Two Assessors, and Amseh IV's and
   Farseh-ti's cartouches — completing the
@@ -74,7 +81,6 @@
 
 - [ ] **Resolve the Akhekh fight** — live at end of session; run it out or
       decide the outcome before next session starts.
-- [ ] **Log each PC's Tomb 4 confession** — pending from the table.
 - [ ] **Run the "return to the tower" scene** with Mul once the party
       reaches Maalm (assuming they survive the road).
 - [ ] Carry forward from [Session 4](session-04.md): the **gate guard**
