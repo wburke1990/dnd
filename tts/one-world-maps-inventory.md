@@ -333,7 +333,7 @@ Wolf din                          d51e6d
 Woods ring                        dbb991
 ```
 
-## Mountains, hills, cliffs & canyons (15)
+## Mountains, hills, cliffs & canyons (14)
 
 ```
 Box Canyons                       481be4
@@ -349,7 +349,6 @@ Mountain Raod                     d6136c
 Mountain Side Grove               1bd86c
 Moutain Door                      032cd9
 Rocky Path                        e47bca
-Spiraling Pass                    a7d428
 The Chasm                         518a87
 ```
 
@@ -364,7 +363,7 @@ Winter Battle field 0             b72d2e
 Winter Battle field 1             4fdeb5
 ```
 
-## Docks, ships & coast (17)
+## Docks, ships & coast (18)
 
 ```
 Blue Corsairs                     69f445
@@ -382,6 +381,7 @@ Ocean Cliffs                      ca14be
 Odnarb Point                      d2b323
 Port city                         85ff11
 Small ship town                   e5838c
+Spiraling Pass (tropical islands) a7d428
 The Docks                         824863
 Westguard Cove                    50f76c
 ```
