@@ -40,7 +40,7 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | Rocky Path | e47bca | ✅ good | Loaded 100% clean, zero dead assets. Strong akhekh **stairs** candidate. |
 | Larders of Ill Omen | 6b9aab | ✅ good | Great nest/lair; only 5 tiny props dropped in cleanup. Not used this quest — banked for the future. |
 | CAVE Boss | 811e42 | 🔖 reserved | "Amazing", clean. Set aside for a future scene, not the akhekh. |
-| Canyon Cave | 55ed53 | ⚠️ usable w/ work | Assets all live (mini-load failures = Steam CDN throttling, not dead links). Floor/pieces **size mismatch** — needs a plate-scale fix. Promising akhekh **tunnels**. |
+| Canyon Cave | 55ed53 | ⚠️ usable w/ work | Assets all live (mini-load failures = Steam CDN throttling, not dead links). **Not** a resize — footprint ≈ Rocky Path. The map ships its **own tile floor**, so the importer's painted plate-image is a conflicting *second* floor. **Fix: swap its painted floor to our default wood floor** (`table_wood.jpg`, the OW `_OW_vBase` image) so the plate is a neutral base under the map's real tile floor. Promising akhekh **tunnels**. |
 | Dwarven cliffs with houses | 06363d | ❌ not usable | Core terrain meshes dead (Steam 404); cleanup left only floating houses/stones. |
 | Cave Entrance | abc718 | ❌ not usable | Too many trees for the akhekh; geyser-steam assets dead (`infinitebucket.com`). |
 | Spiraling Pass | a7d428 | 🔀 mislabeled | Actually tropical islands, not a mountain pass — moved to Docks/coast. Useful later, not for the akhekh. |
