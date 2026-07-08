@@ -246,3 +246,5 @@ Spd 30 ft, climb 20 ft. Bite +7 (1d6+4 piercing + 4d6 fire + DC 14 CON or paraly
 Spd 30 ft, fly 60 ft. Multiattack: Beak + Tail Sting. Beak +8 (2d8+4 piercing). Tail Sting +8 (1d8+4 piercing + 3d6 poison, DC 15 CON half). Sandstorm Aura: 15 ft cone in direction faced; ranged attacks into/out of cone at disadvantage. Resist poison. Chaos-beast of the deep desert — fair game. NO CURSE. BOON: feathers woven into a cloak grant fire resistance 1d4 days per feather. WARNING: its lair is invariably trapped by Set's priests, who use it as an early-warning system.
 
 *Tags:* egypt-mythological; d20:20; lair often trapped; cloak materials
+
+**Full write-up:** [akhekh.md](akhekh.md) — expanded stat block, Speak-with-Animals parley guide (its want, voice, and the priest-leash lever), and the real-world mythology with sources.
