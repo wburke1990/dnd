@@ -158,13 +158,14 @@ livestock — even its dung is taken from it. Strong personal stakes for
 **Sarric** ("Restoring our Clean Kingdom") if this needs a hook beyond
 Aniess's rescue.
 
-*How many priests can the dung feed?* This is what caps Set's presence here.
-One akhekh family's manure — ordinary dung, not island seabird guano — is a
-few tonnes a year, enough to fertilize only a small terrace (order of half a
-hectare of intensive garden). Fed as the priests' staple, that supports
-**roughly half a dozen to a dozen people, no more.** So the gardens don't
-imply a temple: they cap the cell here at a **small hidden garrison (~6–12)**
-— the right size for a secret anyway.
+*How many keepers can the dung feed?* This is what caps Set's presence here —
+and the cap is deliberately tiny. One akhekh family's manure (ordinary dung,
+not island seabird guano) plus a trickle of hidden water grows only a small
+terrace, and everything drinks from that one thin supply: garden, animals,
+and keepers alike. It supports **about four people, no more** — so the sect
+runs at exactly **four slots**: small enough that the party can take them if
+it comes to a fight, and fragile enough to explain how they sustain
+themselves over centuries (see the Red Watch, below).
 
 **Catching it in flight — no chase mechanic needed.** The Akhekh flies at
 60 ft.; a party Dashing every round moves 60 ft. too (double their base 30
@@ -182,18 +183,146 @@ before they're home.
 
 ---
 
+## The Red Watch — who the priests actually are
+
+Set's "priests" here are a **four-person order, the Red Watch** — small enough
+to hide, old enough to have hidden for centuries. They tend the gardens, reset
+the iron, and keep vigil on the beast, and they think of themselves not as
+villains but as **guardians**: doing at human scale what Set does at cosmic
+scale (see the rite below).
+
+**The engine — recruit, don't breed.** They don't have children; they take
+them. When a keeper dies, the desert is asked for a replacement — and it
+answers through the beast. Most people the akhekh grabs are eaten; once in a
+generation, when a seat is open, the Watch pulls one *out* of the nest and
+keeps them. That captive is remade into a keeper: **stripped of their old name
+and given a Set-name**, a named thing made the order's own (the campaign's
+whole thesis, at cult scale). It also means **there is exactly one reason
+they'd keep a captured PC alive instead of feeding them to the beast: a seat
+is open right now.**
+
+**Gender mirrors the captive — run the set that matches whoever gets grabbed.**
+An order that recruits instead of breeds stays childless, so the Watch is
+single-sex. Default capture is Aniess, so the default Watch is **all women**,
+serving Set through his fierce foreign consorts **Anat and Astarte** (Levantine
+war-goddesses "given to Set" — which also fits their habit of taking in
+outsider women). If a missing player's **male** PC is grabbed instead, run the
+Watch as **all men**, serving Set directly as his own hard sons (the historical
+male priesthood — drop the consorts). Names for both are below; nothing else
+changes.
+
+**The nightly rite — and the beast is never touched.** Set's cosmic job is to
+stand at the prow of the sun-god's boat each night and **spear Apep**, the
+chaos-serpent that would swallow the sun. The Watch keeps the real Egyptian
+liturgy (the *Book of Overthrowing Apep*): each night the Elder names a **wax
+serpent effigy** for the great enemy, spits on it, stabs and dismembers it, and
+**burns it at dawn**. They never lay a hand on the akhekh — that is their
+*ally*-serpent, Set's tame piece of chaos held against the wild one. (Quiet
+bonus: if serpent-blooded Aniess is ever recruited, she stands on the ally side
+of that symbolism.)
+
+**The captive.** The grab drops the PC (to 0 and stabilized, or grappled-
+helpless in the air). At the lair the young are full and a seat is open, so the
+Watch takes the PC in as *the desert's gift* rather than food: stabilized,
+secured (iron manacles — "the bones of Set" — or a barred cliff-alcove so they
+can't bolt off the edge), and **tended, not brutalized** — they want a convert,
+not a corpse. Whether the captive is **conscious** is the dial: player at the
+table → keep them awake and bound so they play the recruitment from the inside;
+player absent → leave them out cold and make it a pure recovery run.
+
+### The three living keepers (one seat open)
+
+**Merseti ♀ / Setmose ♂ — the Elder** (~70). Keeper of the liturgy; *theirs* is
+the hand that spears the effigy each night. Half-blind, navigates by the
+beast's cries, reads the wall bottom-up, does everything left-handed (Set's
+reversal). Serene, certain, unnervingly gentle — decides who the desert's next
+gift will be, and knows the seat is open.
+> "You climbed the whole wall to reach me — then you know the story. You just
+> don't know yet that you're in it."
+>
+> "We never chained the beast. We learned to live beside a thing that cannot be
+> owned. That is more than the kings ever managed."
+>
+> "The desert makes no mistakes. It sent you with a seat already empty. Sit —
+> you've had a long carrying."
+>
+> "Every night I put my spear through the great serpent, so the sun comes up
+> over your green city too. You never thanked me. You never knew."
+
+**Deshret ♀ / Desher ♂ — the Smith** (~45). A caravan-guard the akhekh took,
+kept for strength. Tends the iron — forges and resets the trap-ring. Ochre-red
+head to foot; walks *out* into sandstorms to pray. Few words, hard hands;
+thinks the youngest is soft and says so.
+> "You tripped my iron on the way up. I felt it in my teeth — I make the teeth,
+> I know when something's caught in them."
+>
+> *(red, iron-scarred hands)* "The beast screams, I reset the jaws. Thirty
+> years. My hands are the bones of Set now."
+>
+> "Anati would bring you water. I'd bring you the edge. She's soft — the desert
+> hasn't finished her yet."
+
+**Anati ♀ / Peteset ♂ — the Youngest — *the one they must not kill*** (~24). A
+Maalm child the akhekh grabbed six years ago; the Watch pulled them from the
+nest and remade them. Tends the gardens, lettuce, donkeys, the pig. Still half
+the child they were — homesick, hospitable, will bring a captive water and
+*mean* it. **This is the moral center: a stolen, brainwashed kidnap victim, not
+a cultist.** Play her kind, disarming, and cracked-open with grief for a self
+she's been told is dead — so that cutting her down lands as killing a
+frightened girl, not a monster.
+> *(bringing water to the captive)* "Drink slow, or you'll be sick — the
+> carrying does that the first time. It did it to me too."
+>
+> "No one's going to hurt you. No one hurt me. I was so frightened, and no one
+> hurt me. This is the safest place in the valley — the beast keeps the whole
+> world out."
+>
+> "You're from Maalm? I was from Maalm. There was a fig tree on a green street
+> by the water gate; my mother sold the figs off a cloth." *(a pause)* "Merseti
+> says that girl drowned in the sand and I'm someone new. But I still know the
+> tree."
+>
+> *(if the party turns violent)* "Don't — please don't fight them. They pulled
+> me out of the beast and they *kept* me. That isn't a thing you kill people
+> for."
+>
+> *(if the party tries to take her)* "Take me where? This is— this is home. My
+> mother's— ...this is home." *(the stumble is the crack; carry her to Maalm
+> and it widens)*
+
+*(For **Peteset**, the same lines with the details swapped — a boy of Maalm,
+his father's fig tree, "that boy drowned in the sand.")*
+
+**The empty seat — the captured PC.** Whoever the beast carries up; Merseti is
+already choosing their Set-name. If it's Aniess, she'd be the Watch's first
+*non-human* keeper — a serpent-woman for the serpent-beast, almost too perfect
+a fit.
+
+**The ending to steer toward.** The best resolution mirrors the rescue itself:
+the party carries the **youngest** home along with their own, and Maalm — a
+temple, a healer, or just time and her mother's street — undoes the
+conditioning. She is the redeemable one: the Elder and the Smith are too far
+gone by their own choice, but the kid was *taken*. If the party cuts her down
+instead of freeing her, let it cost them — she should haunt the table.
+
+---
+
 ## If Option B is picked — loose threads to prep
 
 - [x] Whether the rest of the party can catch up — **yes, by Dashing every
       round** (60 ft. matches the Akhekh's fly speed); the cost is the
       action, not the distance.
-- [ ] How long until the young are fed — a hard clock or a soft one.
+- [x] How long until the young are fed — **soft, no ticking clock.** The young
+      are already *full* (the beast fed them an un-rescued desert traveler it
+      grabbed before Aniess); the live pressure is the Red Watch recruiting the
+      captive, not the beast's hunger.
 - [x] What's actually in the lair beyond the traps — **the mythology art,
       and the priests' secret Inca-style cliff gardens** (fed by the akhekh's
       dung and by tapped aquifer water, the same collapsed-aquifer water
-      Maalm hoards). Still open: young akhekh stat block or just hungry
-      animals; treasure; the priests' watch-post garrison.
-- [ ] Whether the grabbed PC is conscious/able to act during the
-      flight/captivity, or the rescue is a pure recovery mission.
+      Maalm hoards), plus **the four-keeper Red Watch** (written up above).
+      Still open: young akhekh stat block or just hungry animals; treasure.
+- [x] Whether the grabbed PC is conscious — **conscious & bound if their player
+      is at the table** (they play the recruitment from inside); **unconscious /
+      pure recovery if the player is absent.**
 - [ ] How the "help the akhekh vs. side with Set's priests" choice actually
       plays out mechanically — a straight fight, a negotiation, both.
