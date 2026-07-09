@@ -49,3 +49,9 @@ Kept so a future regeneration doesn't relearn them the hard way:
 - **Archaeology, not concept art.** The "photographed real site today" framing
   is a big part of why the house style reads as a monument from a world where
   Egypt's myths were literally true, rather than as D&D cover art.
+- **The image rendered oldest-at-top.** Despite the prompt's "begins… near the
+  top" wording, the generated staircase placed the *oldest* scenes (griffins)
+  at the top and the *newest* (broken reins) at the base — so the wall reads
+  top-to-bottom. The encounter text describes it that way. If a regeneration
+  needs a specific direction, state it outright (e.g. "oldest scenes at the top
+  of the canyon wall, newest at the base").

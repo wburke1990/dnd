@@ -114,28 +114,30 @@ means leaving the road and pushing east into the cliffs.
 **The approach is a monument — an immense 5,000-year-old carved staircase**
 (Petra-scale, climbing more than a thousand weathered steps up a narrow
 sandstone canyon toward the lair). The whole canyon wall is **one continuous
-bas-relief** — not framed panels but a single procession the party physically
-climbs *through*, ascending the Akhekh's history as they ascend to its lair.
-The carving runs: ordinary griffins in the western desert → Egyptian priests
-performing a **transformation ritual** that grows a griffin a long **serpent
-tail** (head and body stay griffin — only the tail changes) → priests and
-royal hunters harnessing the now-Akhekh with ceremonial reins → the climax,
+bas-relief** — not framed panels but a single procession the party climbs
+*through*. The chronology runs **oldest at the top, newest at the base**, so
+climbing up toward the lair carries them *back* through the beast's history.
+Reading the wall from the top down: ordinary griffins in the western desert →
+Egyptian priests performing a **transformation ritual** that grows a griffin a
+long **serpent tail** (head and body stay griffin — only the tail changes) →
+priests and royal hunters harnessing the now-Akhekh with ceremonial reins →
 **Ramesses in a chariot pulled by Akhekhs, trampling crocodiles** (the
-Metternich Stela) → Akhekhs fighting Egypt's enemies → near the top, a
-weathered final scene of an Akhekh with **broken reins** vanishing back into
-the desert. Image prompt: [`prompts/akhekh-staircase-reliefs.md`](../prompts/akhekh-staircase-reliefs.md).
+Metternich Stela) → Akhekhs fighting Egypt's enemies → and lowest of all,
+nearest where the party starts, a weathered scene of an Akhekh with **broken
+reins** vanishing back into the desert. Image prompt:
+[`prompts/akhekh-staircase-reliefs.md`](../prompts/akhekh-staircase-reliefs.md).
 
-**The transformation is a quiet mirror for Aniess** — a creature made into a
-serpent-hybrid by someone else's ritual, harnessed and set to serve. She's
-the first snake-person made outside Punt; this monument shows an entire
-mythology of the same operation done to a beast, carved in stone she'll climb
-past (and, if Option B lands, be carried up as the captive). Don't point at
-it; let it sit. A player who feels the rhyme feels it.
+**The transformation echoes Aniess.** She was an elf until the Order's ritual
+made her Yuan-ti — half-serpent, the first snake-person made outside Punt. The
+monument shows the same thing done to a beast across an entire mythology,
+carved in the stone she'll climb past (and, if Option B lands, be carried up
+as the captive). Don't point at it; let it sit. A player who feels the rhyme
+feels it.
 
 Following the stair up is also where the party learns concretely **what the
 priests of Set are doing with the beast** — its lair ringed in their traps,
-worked as a living alarm — which hands them the moral fork the campaign's
-been building toward: help the akhekh, or side with the priests.
+worked as a living alarm — which forces the choice the campaign's been
+building toward: help the akhekh, or side with the priests.
 
 **The environmental angle — secret cliff gardens, and the akhekh feeds
 them.** Set's priests keep hidden **Inca-style terrace gardens** cut into
