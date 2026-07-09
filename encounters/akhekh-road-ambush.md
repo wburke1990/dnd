@@ -105,20 +105,37 @@ and the one whose player this whole sequence has been built around.
   requiring an immediate answer — can be as tight or as loose as the table
   wants once picked up.
 
-**The lair location — decided.** In the cliffs east or west of **the
-statues of the kings** — the colossi at the mouth of the Valley of the
-Kings, the last landmark the party passes before the dry riverbed drops
-north toward Maalm (see the
-[read-aloud](../handouts/the-dry-river-to-maalm.md)). Steps cut into the
-cliff face lead in, and the entry passage carries wall art laying out the
-**Akhekh's real mythology** — the same royal-power-ambivalence material
-already sourced in the bestiary (harnessed by ancient kings, Ramesses
-praised as "an akhekh," chaos harnessed to dominate chaos). Following those
-steps
-in is also where the party learns concretely **what the priests of Set are
-doing with it** — its lair ringed in their traps, the beast worked as a
-living alarm — which hands them the moral fork the campaign's been
-building toward: help the akhekh, or side with the priests.
+**The lair location — decided.** Far to the **east** of **the statues of
+the kings** — the colossi at the mouth of the Valley of the Kings, the last
+landmark the party passes before the dry riverbed drops north toward Maalm
+(see the [read-aloud](../handouts/the-dry-river-to-maalm.md)). Getting there
+means leaving the road and pushing east into the cliffs.
+
+**The approach is a monument — an immense 5,000-year-old carved staircase**
+(Petra-scale, climbing more than a thousand weathered steps up a narrow
+sandstone canyon toward the lair). The whole canyon wall is **one continuous
+bas-relief** — not framed panels but a single procession the party physically
+climbs *through*, ascending the Akhekh's history as they ascend to its lair.
+The carving runs: ordinary griffins in the western desert → Egyptian priests
+performing a **transformation ritual** that grows a griffin a long **serpent
+tail** (head and body stay griffin — only the tail changes) → priests and
+royal hunters harnessing the now-Akhekh with ceremonial reins → the climax,
+**Ramesses in a chariot pulled by Akhekhs, trampling crocodiles** (the
+Metternich Stela) → Akhekhs fighting Egypt's enemies → near the top, a
+weathered final scene of an Akhekh with **broken reins** vanishing back into
+the desert. Image prompt: [`prompts/akhekh-staircase-reliefs.md`](../prompts/akhekh-staircase-reliefs.md).
+
+**The transformation is a quiet mirror for Aniess** — a creature made into a
+serpent-hybrid by someone else's ritual, harnessed and set to serve. She's
+the first snake-person made outside Punt; this monument shows an entire
+mythology of the same operation done to a beast, carved in stone she'll climb
+past (and, if Option B lands, be carried up as the captive). Don't point at
+it; let it sit. A player who feels the rhyme feels it.
+
+Following the stair up is also where the party learns concretely **what the
+priests of Set are doing with the beast** — its lair ringed in their traps,
+worked as a living alarm — which hands them the moral fork the campaign's
+been building toward: help the akhekh, or side with the priests.
 
 **The environmental angle — secret cliff gardens, and the akhekh feeds
 them.** Set's priests keep hidden **Inca-style terrace gardens** cut into
