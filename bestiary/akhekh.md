@@ -54,8 +54,8 @@ feather** (the BOON — and note it *molts*; a good parley can earn feathers
 without a corpse).
 
 But look closer and it wears **three uraei** — royal cobras, pharaonic
-regalia — around its crest. In the old empire, akhekhs were **broken to the
-chariot**: chaos-power harnessed by kings to dominate other chaos. This one
+regalia — around its crest. In the old empire, akhekhs were **harnessed to
+kings' war-chariots**: chaos-power made to dominate other chaos. This one
 remembers that, the way an animal remembers — not as history but as a scar.
 
 **And it is being used again.** Set's priests have ringed its lair with traps

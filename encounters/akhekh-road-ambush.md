@@ -33,18 +33,18 @@ just defending its ground.
 
 ---
 
-## How it's actually playing out (resolved with David)
+## How it's shaping up (proposed with David — not yet ruled at the table)
 
 1. **The entangle actually landed** — the Akhekh is bound in the vines, the
-   single thing it hates most. That's the emotional peak of its rage, and
-   also why it's held still long enough for the beats below to play out
-   rather than just kiting away.
-2. **It isn't trying to kill them outright.** ("I am not going to try and
-   kill them unless they are stupid.") Before it commits to a real
-   multiattack, it gives them an out: it tells the party to **run**. If
-   they don't take it, it still doesn't unload — it lets **each party
-   member land one free swipe** first. That's a warning volley, not its
-   opening move.
+   single thing it hates most. That's the emotional peak of its rage — and,
+   bound, it can't just kite away, so its first turn goes to tearing loose.
+2. **Its first turn is escape, not attack.** ("I am not going to try and
+   kill them unless they are stupid.") It spends its first action **trying to
+   break free of the vines** and **tells the party to flee** — a wild thing
+   trying to leave, not press a fight. It doesn't attack that round; if the
+   party keeps hitting it while it's plainly trying to go, those blows land
+   free, but that's them pressing a fight it's quitting. Only if they refuse
+   to disengage does it turn and fight for real.
 3. **It breaks the tangle and speaks.** Once it tears free of the vines, it
    says something — **part Elvish, part Ancient Egyptian** (not Sylvan;
    Aniess was an elf before her transformation, so Elvish is the language
@@ -143,9 +143,10 @@ building toward: help the akhekh, or side with the priests.
 them.** Set's priests keep hidden **Inca-style terrace gardens** cut into
 the cliff face — stepped, irrigated plots that have no business existing in
 this dead, dry valley. They sustain them two stolen ways: they **harvest the
-akhekh's droppings as fertilizer** (its guano is the one rich thing in a
-barren land — real-world seabird guano built fortunes), and they **divert
-surface water** into the terraces. Both are loaded because
+akhekh's droppings as fertilizer** (its dung is the one rich thing in a
+barren land), and they **tap water no one else can reach** — seeps caught in
+the rock behind and above the cliffs, and the buried aquifer below. The
+water is loaded because
 [the valley's surface water didn't vanish, it went
 underground](../lore/the-drying-of-the-valley.md) — the collapsed aquifer is
 the same water Maalm survives on by hoarding it in cisterns, so the priests
@@ -157,12 +158,27 @@ livestock — even its dung is taken from it. Strong personal stakes for
 **Sarric** ("Restoring our Clean Kingdom") if this needs a hook beyond
 Aniess's rescue.
 
+*How many priests can the dung feed?* This is what caps Set's presence here.
+One akhekh family's manure — ordinary dung, not island seabird guano — is a
+few tonnes a year, enough to fertilize only a small terrace (order of half a
+hectare of intensive garden). Fed as the priests' staple, that supports
+**roughly half a dozen to a dozen people, no more.** So the gardens don't
+imply a temple: they cap the cell here at a **small hidden garrison (~6–12)**
+— the right size for a secret anyway.
+
 **Catching it in flight — no chase mechanic needed.** The Akhekh flies at
 60 ft.; a party Dashing every round moves 60 ft. too (double their base 30
 ft.). So they can keep pace turn for turn without inventing a mount or a
 skill-challenge chase — the real cost is that Dashing is their whole
 action, so no one can do anything else (cast, attack, help a downed
 ally) while the chase is on.
+
+**Geometry — the rescue runs the wrong way.** The lair is far east *off* the
+road, and the statues sit south of the party's northward line to Maalm — so
+a grab-and-fly hauls the captive away from the city, not toward it. The
+rescue is a detour against their travel, and rejoining the road for Maalm
+afterward is **one more roll on the [egypt beast table](../bestiary/egypt.md)**
+before they're home.
 
 ---
 
@@ -174,7 +190,7 @@ ally) while the chase is on.
 - [ ] How long until the young are fed — a hard clock or a soft one.
 - [x] What's actually in the lair beyond the traps — **the mythology art,
       and the priests' secret Inca-style cliff gardens** (fed by the akhekh's
-      guano and by diverted surface water, the same collapsed-aquifer water
+      dung and by tapped aquifer water, the same collapsed-aquifer water
       Maalm hoards). Still open: young akhekh stat block or just hungry
       animals; treasure; the priests' watch-post garrison.
 - [ ] Whether the grabbed PC is conscious/able to act during the
