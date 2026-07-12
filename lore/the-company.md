@@ -180,7 +180,7 @@ Kalikhat, ruined half-orc families.
   exiles** ([the Haals runoff §4](../encounters/the-haals-runoff.md)).
 - **[Doruk Pell](../encounters/tavern-name-hunter-crews.md)** — the dwarf of the Lapis
   Writ who helped clear orcs — can be **the Company's hand** (land-clearing and
-  slave-raids for the plantations) as much as the Sunne pogroms' (`[OPEN]` — weave, don't
+  slave-raids for the plantations) and the Sunne pogroms' (`[OPEN]` — weave, don't
   replace, his existing backstory).
 - **The half-orc squeeze** ([Muspel §6](the-muspel-empire.md)) — the commercial half of
   the colonial through-line, opposite the Order of Sunne's pogroms.

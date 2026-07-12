@@ -111,11 +111,10 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
   (~2,000 ya):** *that* desecration is what finally sent them, **~1,900 ya,** walking the Abyss
   tunnels to the one island in range: **Jotunheim / Lonka,** Taniyn's first perch. (Still *before*
   Kuru's founding ~1,800 — so Kuru stays all-human.)
-- **The break was a falling-out, not only a calling.** `[settled — Will]` The zealots meant to
+- **The break was a falling-out, not the calling it's remembered as.** `[settled — Will]` The zealots meant to
   retake the holy island by **massacring the colonists,** and the empire's **own humans would not
   put their name to a religious slaughter** (little love for the Maalm colony, but butchering it
-  crossed a line). Rebuffed, the dragonborn **broke away and went alone.** So the exodus is *push
-  as much as pull* — a clean dragonborn–human rupture, and the **first crack of the Time of
+  crossed a line). Rebuffed, the dragonborn **broke away and went alone** — a clean dragonborn–human rupture, and the **first crack of the Time of
   Troubles** (see [world-history timeline §VI](world-history-timeline.md)).
 - **You can't storm a fortress-caldera from the open sea** (sheer cliffs, one guarded channel,
   §5) — so they **didn't.** They came **up from underneath,** out of the tunnels into the bay,
