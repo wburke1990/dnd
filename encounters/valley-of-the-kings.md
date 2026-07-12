@@ -649,7 +649,7 @@ They are sealed and small. A DC 12 Medicine check confirms they are sized for ch
 
 If they ask about the unfinished quality:
 
-*"The ghost of an outline in red ochre marks a figure that was never painted. A section of ceiling where the plaster was applied but nothing was drawn. The tomb was not abandoned — someone kept working until they couldn't. But they ran out of something. Time, or people, or the will to continue."*
+*"The ghost of an outline in red ochre marks a figure that was never painted. A section of ceiling where the plaster was applied but nothing was drawn."*
 
 **The Main Inscription — if they read the hieroglyphic columns:**
 
