@@ -96,6 +96,18 @@ Concretely, do not write:
 9. **Rhythmic triads** (the "list of three" flourish) when a plain list
    or a single item is truer.
 10. **Rhetorical questions** in descriptive text.
+11. **Unknowable inference.** Give the evidence, not information the
+    observer would have no way of knowing — a cause, intent, or history
+    they couldn't read off what's physically present. Describe what's
+    there; let the conclusion be the reader's. This is a facet of show,
+    don't tell, but distinct from #6–#8: those police editorializing
+    (feeling, significance); this polices the narrator *knowing the
+    backstory*. (Real flagged-and-removed examples: the unfinished tomb
+    where "someone kept working until they couldn't — they ran out of
+    time, or people, or the will to continue"; a carved inscription "as
+    if someone took time with it that they didn't have"; a blackened
+    door "not from fire exactly, but as if something very cold passed
+    this way.")
 
 This governs both new writing and edits to existing files. When cleaning
 up old text, prefer the plainer rewrite over deleting content outright.
