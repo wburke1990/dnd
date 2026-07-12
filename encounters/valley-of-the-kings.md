@@ -498,13 +498,13 @@ The carved figures on the lintel show souls in procession approaching a seated f
 
 ## The Entrance Corridor — Read Aloud
 
-*"The corridor beyond the door is wider than the others — wide enough for three people to walk abreast. The walls here are painted even in the corridor, figures processing toward the inner chamber in long rows on each side. The ceiling above is dark with age. The air is very still. At the end of the corridor, perhaps sixty feet ahead, a chamber opens — larger than anything you have seen in the other tombs, faintly lit from scattered points of light in the ceiling."*
+*"The corridor beyond the door is narrow — you walk it in single file. The walls here are painted even in the corridor, figures processing toward the inner chamber in rows on each side. The ceiling above is dark with age. The air is very still. At the end of the corridor, perhaps forty feet ahead, a chamber opens, faintly lit from scattered points of light in the ceiling."*
 
 ---
 
 ## The Puzzle Chamber — Read Aloud
 
-*"The chamber is large — perhaps sixty feet across, with a ceiling high enough that the darkness above swallows the top of the walls. In the center of the room stands a set of scales, golden, enormous — each pan large enough to hold a person. One pan holds a single white feather. The other pan holds an obsidian bowl. Around the room, forty-two stone tablets are scattered — some upright, some fallen, some stacked against the walls, each engraved with text. The walls themselves are painted floor to ceiling in a composition that makes the room feel like it continues outward in every direction."*
+*"The chamber is small — perhaps thirty feet across, the ceiling low enough to see. In the center of the room stands a set of scales, golden. One pan holds a single white feather. The other pan holds an obsidian bowl. Around the room, forty-two stone tablets are scattered — some upright, some fallen, some stacked against the walls, each engraved with text. The walls themselves are painted floor to ceiling in a composition that makes the room feel like it continues outward in every direction."*
 
 ---
 
