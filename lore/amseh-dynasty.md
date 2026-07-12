@@ -34,7 +34,7 @@ The empire fell and Ammit rose **~4,960 years ago**. The Dark Age that followed 
 
 **Location:** The land now occupied by Maalm and its surroundings.
 
-**Religion:** The Egyptian-inspired pantheon — Osiris, Ra, Anubis, Thoth, Ma'at, and the full divine hierarchy. The gods were considered active and present in the world. Their silence during the final collapse was therefore not merely a theological crisis but an existential one — the entire structure of reality as the empire understood it failed simultaneously with its agriculture and military.
+**Religion:** The Egyptian-inspired pantheon — Osiris, Ra, Anubis, Thoth, Ma'at, and the full divine hierarchy. The gods were considered active and present in the world. Their silence during the final collapse was therefore an existential crisis as much as a theological one — the entire structure of reality as the empire understood it failed at the same time as its agriculture and its military.
 
 **Duration:** Approximately 590 years across four reigns, plus earlier kings who preceded the dynasty but lacked the resources for elaborate tombs.
 

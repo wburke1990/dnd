@@ -236,7 +236,7 @@ An elf of the Foundation who has **seen real true-name binding** — a will eras
 by a spoken name, no resistance, no appeal — and drawn the ecstatic conclusion
 that **dominion over souls is simply the right order of the cosmos.** The strong
 are *meant* to name and own the weak; freedom is the lie the soft tell
-themselves; the names are scripture. He is serene, urbane, and terrifyingly
+themselves; the names are scripture. He is serene, urbane, and
 reasonable — an aristocrat discussing the owning of souls the way a noble
 discusses the owning of land.
 

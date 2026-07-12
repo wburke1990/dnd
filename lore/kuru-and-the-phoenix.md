@@ -28,7 +28,7 @@ land — and when the land breaks (as Taniyn's did at the [Bleeding Star](amseh-
 leaving only [heart-stone shards](lonka-jotunheim.md)), the god is simply *gone.*
 
 **Kuru's god is the exception.** Its beast is a **giant phoenix**, and the
-phoenix does not merely become an island and sleep — it **dies and is reborn,**
+phoenix does not become an island and sleep — it **dies and is reborn,**
 cycle after cycle, rising from its own ash. So while every rival god has lived
 once and ended, **the god of Kuru has lived through every pass since the world
 began.** That undying continuity is the root of everything Kuru believes about

@@ -153,7 +153,7 @@ the same water Maalm survives on by hoarding it in cisterns, so the priests
 are running Maalm's own survival trick in secret and for themselves alone,
 in a region defined by
 [water-and-land scarcity](../lore/the-drying-of-the-valley.md#campaign-hooks).
-And it sharpens the akhekh's whole thesis: it isn't only an alarm now, it's
+And it sharpens the akhekh's whole thesis: the beast has been reduced to
 livestock — even its dung is taken from it. Strong personal stakes for
 **Sarric** ("Restoring our Clean Kingdom") if this needs a hook beyond
 Aniess's rescue.
@@ -235,7 +235,7 @@ player absent → leave them out cold and make it a pure recovery run.
 **Merseti ♀ / Setmose ♂ — the Elder** (~70). Keeper of the liturgy; *theirs* is
 the hand that spears the effigy each night. Half-blind, navigates by the
 beast's cries, reads the wall bottom-up, does everything left-handed (Set's
-reversal). Serene, certain, unnervingly gentle — decides who the desert's next
+reversal). Serene, certain, soft-spoken — decides who the desert's next
 gift will be, and knows the seat is open.
 > "You climbed the whole wall to reach me — then you know the story. You just
 > don't know yet that you're in it."

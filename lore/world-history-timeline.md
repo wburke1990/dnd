@@ -237,7 +237,7 @@ By **~2,000 ya**, once the long poison of the Bleeding Star had finally faded fr
 of drowned **Lonka**, **colonists out of Maalm — elves and men —** resettled it and **renamed it
 Jotunheim,** the giants' land. They held it only a short while.
 To the empire's **dragonborn zealots** the holy island in foreign hands was intolerable — but
-the reconquest was **not only a calling; it was a falling-out.** The zealots meant to take
+the reconquest was **a falling-out as much as a calling.** The zealots meant to take
 Jotunheim back by **massacring the colonists,** and the **empire's own humans would not put
 their name to a religious slaughter** (they had little love for the colony either, but
 butchering it was a line they would not cross). Rebuffed, the dragonborn **broke away and did

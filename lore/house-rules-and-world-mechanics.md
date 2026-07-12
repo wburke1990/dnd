@@ -34,7 +34,7 @@ The door is real for both. Neither walks through it whole.
 
 ## Implications
 
-This transforms true names from flavor into the most powerful resource in the campaign. A true name is not just information — it is a key that locks a being into permanent servitude for as long as the caster is willing to spend the material component (a jewel worth 1,000gp or more, consumed on casting).
+This transforms true names from flavor into the most powerful resource in the campaign. A true name is a key that locks a being into permanent servitude for as long as the caster is willing to spend the material component (a jewel worth 1,000gp or more, consumed on casting).
 
 At higher spell slot levels:
 - 6th level: 10 days
@@ -88,7 +88,7 @@ This means:
 - The demon wife was in constant low-level pain for thirty-one years
 - She suffered more on days when she used her abilities or maintained her appearance carefully
 - She stayed two weeks after her husband died — past the point where the binding compelled her to stay — at real physical cost
-- The wizard's bound demon army is not merely enslaved — it is enslaved and in continuous pain
+- The wizard's bound demon army is enslaved and in continuous pain
 
 The Yochlol, Mul, shapeshifted into an elf at the wizard's tower is experiencing this right now, every time the party speaks to it.
 

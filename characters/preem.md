@@ -232,7 +232,7 @@ The whole campaign points here. **[settled]**
   the performance is the player's.
 - The party should meet Preem as a **patron**, not a villain — gracious,
   generous about jewels, a little too interested in names. The tower is
-  impressive; the staff are unnervingly attentive (because they are demons).
+  impressive; the staff are a little too attentive (because they are demons).
 - If a player ever **draws the link** between "a wizard seated in a place of
   power in the citadel" and "the Second Foundation," reward it — *"hopefully
   someone draws that link and questions why a wizard is seated in a place of

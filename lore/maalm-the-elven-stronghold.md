@@ -259,7 +259,7 @@ to the players in the opening session). **[settled]**
 *(Sarric the firbolg ecoterrorist and the eco-curious party will eat this up — and it
 cuts both ways, admirable and damning at once.)*
 - **Maalm is the most ecologically sophisticated society in the world** — a genuine
-  **circular economy:** nothing wasted, water and nutrients cycled endlessly, terraces
+  **circular economy:** nothing wasted, water and nutrients kept in cycle, terraces
   greening a desert. On its face, a **green marvel** an eco-PC would admire. **[settled]**
 - **…and it is enforced at knifepoint, and built on ruin.** That sustainability rests on
   **brutal law, a rigid caste,** and the fact that they **already exhausted their land** —

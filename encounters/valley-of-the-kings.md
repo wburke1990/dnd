@@ -340,7 +340,7 @@ If they ask about specific elements:
 
 **The figure at the prow:** *"Larger than the others — whether that means more important or simply further forward, you cannot say. Facing away from the viewer, into whatever darkness the boat is sailing toward."* This is Ra.
 
-**The shape beneath the boat:** *"The more you look at it the less certain you are that it is there at all. And then you look again and the scale of it — the suggestion of coils the size of city walls — makes you want to look somewhere else."* This is Apep — the serpent of chaos, enemy of Ra, the thing that waits in the darkness of Hour 7 to devour the sun. His name is inscribed in hieroglyphs at the base of the painting, readable with DC 10 Intelligence or automatic for Ancient Egyptian readers.
+**The shape beneath the boat:** *"The more you look at it, the less certain you are it is there at all. Then you look again and the scale of it resolves — coils the size of city walls, most of them lost in the dark pigment."* This is Apep — the serpent of chaos, enemy of Ra, the thing that waits in the darkness of Hour 7 to devour the sun. His name is inscribed in hieroglyphs at the base of the painting, readable with DC 10 Intelligence or automatic for Ancient Egyptian readers.
 
 **The twelve panels:** *"The first shows figures in darkness, slumped, waiting. The last shows a sun disk rising, figures with arms raised. Between them — creatures, gates, a figure with a jackal head, a figure with an ibis head, water and fire and darkness and something that might be a great serpent being held at bay by many figures working together."*
 
@@ -510,7 +510,7 @@ The carved figures on the lintel show souls in procession approaching a seated f
 
 ## If They Investigate the Scales
 
-The scales are functional — the pans move freely and balance perfectly when both are empty. The white feather is real, impossibly pristine for a tomb this old.
+The scales are functional — the pans move freely and balance perfectly when both are empty. The white feather is real — pristine, without a speck of dust, in a tomb thousands of years old.
 
 The obsidian bowl is fixed to the pan — it cannot be removed. It rejects impersonal objects. Placing a coin or a rock tips the scales but nothing else happens.
 
@@ -605,7 +605,7 @@ Each character who experiences the psychic damage has a brief involuntary vision
 
 ## The Painting — Read Aloud Only If They Look at the Walls
 
-*"The paintings in this chamber are the most elaborate you have seen — and the most unsettling, though not in a way you can immediately explain. The composition is perfectly symmetrical, centered on the far wall where something enormous is seated on a throne. The figure wears a tall crown flanked by feathers. It holds a crook and a flail crossed over its chest. Behind its throne, a curtain of deep blue — painted so carefully that it seems almost to move. This figure's eyes are open and forward-facing, which is unusual — every other figure in every other tomb you have visited is shown in profile. This one looks directly out of the painting. Directly at you. Before the throne, a set of scales — a jackal-headed figure tends them. On one pan, a feather. On the other, a heart. To one side, a figure with the head of an ibis records on a palette. Beside the scales, something waits. Part lion. Part hippopotamus. Its head is the head of a crocodile. It is not looking at the scales. It is looking at the same place the seated figure is looking. At you. Along both side walls, rows of smaller figures are seated in judgment. You count them without meaning to. Forty-two."*
+*"The paintings in this chamber are the most elaborate you have seen. The composition is perfectly symmetrical, centered on the far wall where something enormous is seated on a throne. The figure wears a tall crown flanked by feathers. It holds a crook and a flail crossed over its chest. Behind its throne, a curtain of deep blue — painted so carefully that it seems almost to move. This figure's eyes are open and forward-facing, which is unusual — every other figure in every other tomb you have visited is shown in profile. This one looks directly out of the painting. Directly at you. Before the throne, a set of scales — a jackal-headed figure tends them. On one pan, a feather. On the other, a heart. To one side, a figure with the head of an ibis records on a palette. Beside the scales, something waits. Part lion. Part hippopotamus. Its head is the head of a crocodile. It is not looking at the scales. It is looking at the same place the seated figure is looking. At you. Along both side walls, rows of smaller figures are seated in judgment. You count them without meaning to. Forty-two."*
 
 If they study further:
 

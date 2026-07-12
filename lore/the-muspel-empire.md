@@ -54,7 +54,7 @@ the fire-island as it went — and, since **dragons and demons follow the hot sp
 building of Musleheim would have been a **dragon-and-demon-haunted age** in its own right,
 the same convergence now beginning over the [Kurunatukas](kuru-and-the-phoenix.md). 🔒 Which is exactly why the
 [Second Foundation](the-second-foundation.md)'s sabotage of that control (§2) was so
-devastating: it did not merely mutate the Muspel people, it **struck at the root of
+devastating: it mutated the Muspel people, and worse, **struck at the root of
 their power** — the cycle that made their land.
 
 This empire is the *first* colonizer in the recent age — the reason Kuru's reconquest

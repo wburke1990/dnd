@@ -351,7 +351,7 @@ wear every other crew down are simply *home.* She doesn't mourn what she gave up
 
 **DM only — what she can't tell you.** *The mirror:* Aniess was remade into a
 not-quite-human thing *as a child, without consent,* and is only now waking in
-grief; Issa **chose every step, awake,** and is serenely, chillingly glad —
+grief; Issa **chose every step, awake,** and is serene and glad —
 remade-and-grieving vs. remade-and-glad. *Not a death knight:* she's **living and
 lesser** — death-*touched,* not undead. No martial menace, no command over the
 dead; she slips *past* them, she doesn't raise them.
