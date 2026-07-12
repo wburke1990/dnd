@@ -605,15 +605,15 @@ Each character who experiences the psychic damage has a brief involuntary vision
 
 ## The Painting — Read Aloud Only If They Look at the Walls
 
-*"The composition is perfectly symmetrical, centered on the far wall where something enormous is seated on a throne. The figure wears a tall crown flanked by feathers. It holds a crook and a flail crossed over its chest. Behind its throne, a curtain of deep blue — painted so carefully that it seems almost to move. This figure's eyes are open and forward-facing, which is unusual — every other figure in every other tomb you have visited is shown in profile. This one looks directly out of the painting. Directly at you. Before the throne, a set of scales — a jackal-headed figure tends them. On one pan, a feather. On the other, a heart. To one side, a figure with the head of an ibis records on a palette. Beside the scales, something waits. Part lion. Part hippopotamus. Its head is the head of a crocodile. It is not looking at the scales. It is looking at the same place the seated figure is looking. At you. Along both side walls, rows of smaller figures are seated in judgment. You count them without meaning to. Forty-two."*
+*"The composition is perfectly symmetrical, centered on the far wall where something enormous is seated on a throne. The figure wears a tall crown flanked by feathers. It holds a crook and a flail crossed over its chest. Behind its throne, a curtain of deep blue. This figure's eyes are open and forward-facing — every other figure in every other tomb you have visited is shown in profile. This one looks directly out of the painting. Directly at you. Before the throne, a set of scales — a jackal-headed figure tends them. On one pan, a feather. On the other, a heart. To one side, a figure with the head of an ibis records on a palette. Beside the scales, something waits. Part lion. Part hippopotamus. Its head is the head of a crocodile. It is not looking at the scales. It is looking at the same place the seated figure is looking. At you. Along both side walls, rows of smaller figures are seated in judgment. Forty-two of them."*
 
 If they study further:
 
-*"The painting continues beyond the throne. Behind the blue curtain — visible only because the painter chose to show what lies beyond it — a landscape opens. Fields of impossible green. Water that catches a light that has no source. Small figures moving through it with the unhurried quality of people who have nowhere particular to be and all the time there is. It occupies perhaps one tenth of the total composition. Everything else is the judgment that precedes it."*
+*"The painting continues beyond the throne. Behind the blue curtain — visible only because the painter chose to show what lies beyond it — a landscape opens. Fields of green. Water that catches a light that has no source. Small figures moving through it, unhurried. It occupies perhaps one tenth of the composition. The rest is the judgment."*
 
 If they ask about specific figures:
 
-**The seated figure:** *"You cannot look at it for very long comfortably. Not because it is frightening. Because it looks back."* This is Osiris — his name carved in hieroglyphs beside the throne, readable DC 10 or automatic for Ancient Egyptian readers.
+**The seated figure:** *"The eyes are open and forward-facing. They meet yours wherever you stand in the room."* This is Osiris — his name carved in hieroglyphs beside the throne, readable DC 10 or automatic for Ancient Egyptian readers.
 
 **The blue curtain:** *"The painter used more pigment here than anywhere else in the composition."*
 
@@ -621,7 +621,7 @@ If they ask about specific figures:
 
 **The ibis-headed figure:** Thoth — named in hieroglyphs beside him.
 
-**The creature beside the scales:** *"It has the patience of something that has never once been disappointed."* This is Ammit — named in hieroglyphs. Part lion, part hippopotamus, part crocodile. She devours the hearts of the unworthy.
+**The creature beside the scales:** This is Ammit — named in hieroglyphs. Part lion, part hippopotamus, part crocodile. She devours the hearts of the unworthy.
 
 **The two figures flanking the throne:** Isis and Nephthys, sisters of Osiris, named in hieroglyphs.
 
