@@ -476,13 +476,13 @@ The cartouche reads Amseh III. Sealed. Inside, a mummified body. Nothing else.
 # TOMB 4 — OSIRIS
 ## The Tomb of Amseh IV — The Tomb of Judgment
 
-*The last tomb. Amseh IV was the final king of the dynasty — the one who watched the empire starve, who sacrificed his children to gods who did not answer, who died in an unfinished tomb while his wife Farseh-ti survived him by remaining where she should not have. His tomb is the most elaborate and the most broken.*
+*The last tomb. Amseh IV was the final king of the dynasty — the one who watched the empire starve, who sacrificed his children to gods who did not answer, who died in an unfinished tomb while his wife Farseh-ti survived him. His tomb is the most broken.*
 
 ---
 
 ## Exterior — Read Aloud
 
-*"The fourth tomb is the most imposing of the valley — a proper temple facade cut into the cliff face, columns carved in relief on either side of a tall entrance, the lintel above carved with a procession of figures moving toward a central seated form. The entrance is sealed. A large stone door, fitted precisely into the frame, with no visible mechanism for opening it from outside. The stone around the edges of the door is blackened — not from fire exactly, but as if something very cold passed this way and left its mark on the rock."*
+*"The fourth tomb has a temple facade cut into the cliff face, columns carved in relief on either side of a tall entrance, the lintel above carved with a procession of figures moving toward a central seated form. The entrance is sealed. A large stone door, fitted precisely into the frame, with no visible mechanism for opening it from outside. The stone around the edges of the door is blackened — not from fire exactly, but as if something very cold passed this way and left its mark on the rock."*
 
 ---
 
@@ -605,7 +605,7 @@ Each character who experiences the psychic damage has a brief involuntary vision
 
 ## The Painting — Read Aloud Only If They Look at the Walls
 
-*"The paintings in this chamber are the most elaborate you have seen. The composition is perfectly symmetrical, centered on the far wall where something enormous is seated on a throne. The figure wears a tall crown flanked by feathers. It holds a crook and a flail crossed over its chest. Behind its throne, a curtain of deep blue — painted so carefully that it seems almost to move. This figure's eyes are open and forward-facing, which is unusual — every other figure in every other tomb you have visited is shown in profile. This one looks directly out of the painting. Directly at you. Before the throne, a set of scales — a jackal-headed figure tends them. On one pan, a feather. On the other, a heart. To one side, a figure with the head of an ibis records on a palette. Beside the scales, something waits. Part lion. Part hippopotamus. Its head is the head of a crocodile. It is not looking at the scales. It is looking at the same place the seated figure is looking. At you. Along both side walls, rows of smaller figures are seated in judgment. You count them without meaning to. Forty-two."*
+*"The composition is perfectly symmetrical, centered on the far wall where something enormous is seated on a throne. The figure wears a tall crown flanked by feathers. It holds a crook and a flail crossed over its chest. Behind its throne, a curtain of deep blue — painted so carefully that it seems almost to move. This figure's eyes are open and forward-facing, which is unusual — every other figure in every other tomb you have visited is shown in profile. This one looks directly out of the painting. Directly at you. Before the throne, a set of scales — a jackal-headed figure tends them. On one pan, a feather. On the other, a heart. To one side, a figure with the head of an ibis records on a palette. Beside the scales, something waits. Part lion. Part hippopotamus. Its head is the head of a crocodile. It is not looking at the scales. It is looking at the same place the seated figure is looking. At you. Along both side walls, rows of smaller figures are seated in judgment. You count them without meaning to. Forty-two."*
 
 If they study further:
 
