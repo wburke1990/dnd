@@ -28,7 +28,7 @@ She will not speak in the party's presence.
 - Flowers near her are slightly wilted
 - She smells faintly of something that cannot be named
 
-Players who succeed feel unsettled but cannot articulate why. Do not over-describe. The wrongness should be felt rather than catalogued.
+Do not over-describe. The wrongness should be felt rather than catalogued.
 
 **DC 14 Insight** if a player addresses her directly: she understands everything being said. She is making a continuous effort not to react to something — grief, or something adjacent to it, held very carefully in check.
 

@@ -21,7 +21,7 @@ Everything below hangs on one clock. Roughly every **~1,000 years** a comet pass
 and sheds matter onto **Nila** — a world *less dense than Earth, mostly water, and
 honeycombed with tunnels* (the Abyss is those tunnels, not a separate plane). Each
 pass drives volcanism and violent climate swings; on Nila **mutation runs fast**,
-so a comet-pass is a transformation event as much as a geological one. The folk
+so a comet-pass reshapes life and land together. The folk
 name for a catastrophic pass is **Ragnarok**.
 
 `[settled]` **Only the *catastrophic* passes spread the sickness.** The ~5,000-ya Bleeding
@@ -237,7 +237,7 @@ By **~2,000 ya**, once the long poison of the Bleeding Star had finally faded fr
 of drowned **Lonka**, **colonists out of Maalm — elves and men —** resettled it and **renamed it
 Jotunheim,** the giants' land. They held it only a short while.
 To the empire's **dragonborn zealots** the holy island in foreign hands was intolerable — but
-the reconquest was **a falling-out as much as a calling.** The zealots meant to take
+the reconquest **became a falling-out.** The zealots meant to take
 Jotunheim back by **massacring the colonists,** and the **empire's own humans would not put
 their name to a religious slaughter** (they had little love for the colony either, but
 butchering it was a line they would not cross). Rebuffed, the dragonborn **broke away and did
@@ -329,8 +329,8 @@ that thread quietly through all of it down to today.
   colonizer ground, and a **siege of Anklia** that became legendary without ever cracking
   the walls — before being broken at a **Zama fought at Ilka Mak**, where Kuru's own
   stalled counter-offensive (dug in at Calaik) gives way to a decisive counter-landing by
-  its former colony **Noku Kurunatuka** — a symbolic transfer of power as much as a
-  military one. **At campaign start his resurgence has just collapsed and the tide has
+  its former colony **Noku Kurunatuka** — a transfer of power that was symbolic as
+  well as military. **At campaign start his resurgence has just collapsed and the tide has
   swung back to the colonizers.** `[OPEN]` Exact timing; whether he falls, is hunted down,
   or vanishes; the missing fleet that sailed north.
 - **The present war.** The fighting has reached **Musleheim itself**; the orcs are

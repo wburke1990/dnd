@@ -260,7 +260,7 @@ the two grown people who hired you.)*
 **DC 12 Perception** on Manizheh reveals subtle wrongness — she does not
 blink at the right intervals, her shadow falls slightly askew, flowers
 near her are faintly wilted, she smells faintly of something that cannot
-be named. Players who succeed feel unsettled but cannot say why. Do not
+be named. Do not
 over-describe; the wrongness is felt, not catalogued.
 
 She will not speak in the party's presence. If addressed directly she
