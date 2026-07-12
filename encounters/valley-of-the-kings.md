@@ -482,7 +482,7 @@ The cartouche reads Amseh III. Sealed. Inside, a mummified body. Nothing else.
 
 ## Exterior — Read Aloud
 
-*"The fourth tomb has a temple facade cut into the cliff face, columns carved in relief on either side of a tall entrance, the lintel above carved with a procession of figures moving toward a central seated form. The entrance is sealed. A large stone door, fitted precisely into the frame, with no visible mechanism for opening it from outside. The stone around the edges of the door is blackened — not from fire exactly, but as if something very cold passed this way and left its mark on the rock."*
+*"The fourth tomb has a temple facade cut into the cliff face, columns carved in relief on either side of a tall entrance, the lintel above carved with a procession of figures moving toward a central seated form. The entrance is sealed. A large stone door, fitted precisely into the frame, with no visible mechanism for opening it from outside. The stone around the edges of the door is blackened."*
 
 ---
 
