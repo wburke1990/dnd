@@ -635,13 +635,13 @@ If they ask about specific figures:
 
 *"The inner chamber stops you at the threshold. Not because of what is in it — but because of what is not. The other tombs were stripped of treasure but finished. This one was not finished. The paint on the walls is incomplete — raw limestone visible where the artists stopped working, outlines sketched in red ochre but never filled in, pigment applied only to the central composition and fading to bare stone at the edges. Scaffolding marks in the stone show where the painters stood. A section of ceiling above you has plaster applied but nothing drawn on it.*
 
-*In the center of the room, a sarcophagus. Beside it, not in front of it, a second inscription carved into the wall at eye level — smaller than the cartouche on the lid, more careful, as if someone took time with it that they didn't have.*
+*In the center of the room, a sarcophagus. Beside it, not in front of it, a second inscription carved into the wall at eye level — smaller than the cartouche on the lid, more careful.*
 
-*But your eyes go to the base of the walls first. Arranged in a row, so carefully placed they could not be accidental, seven small rectangular shapes. Child-sized. Each one slightly different. Each one sealed. They are painted in blue — still vivid, still saturated, in a chamber where everything else has faded. Someone used the best pigment they had for those."*
+*Arranged in a row at the base of the walls, so carefully placed they could not be accidental, seven small rectangular shapes. Child-sized. Each one slightly different. Each one sealed. They are painted in blue — still vivid, still saturated, in a chamber where everything else has faded. Someone used the best pigment they had for those."*
 
 If they look at the unfinished painting:
 
-*"The central composition shows a kneeling figure — a king, identifiable by his crown, which is slightly askew — with his hands raised toward a row of empty thrones above him. The thrones are elaborate. No gods sit in them. The empty seats are the most important thing in the image."*
+*"The central composition shows a kneeling figure — a king, identifiable by his crown, which is slightly askew — with his hands raised toward a row of empty thrones above him. The thrones are elaborate. No gods sit in them."*
 
 If they ask about the seven coffins:
 
