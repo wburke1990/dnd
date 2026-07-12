@@ -518,7 +518,7 @@ The obsidian bowl is fixed to the pan — it cannot be removed. It rejects imper
 
 ## If They Investigate the Tablets
 
-Forty-two tablets. Each engraved with a confession in hieroglyphs and below that, in the common tongue. They are not negative confessions — not *"I have not stolen,"* the protest of the innocent — but plain admissions. The room does not ask you to be clean. It asks you to be honest.
+Forty-two tablets. Each engraved with a confession in hieroglyphs and below that, in the common tongue. Each is an admission of something done, phrased *"I have"* — not the *"I have not"* of the old negative confessions.
 
 Read any aloud as the players examine them; you do not need all forty-two in play at once. The full set, roughly ordered from the mundane to the profound:
 
@@ -609,7 +609,7 @@ Each character who experiences the psychic damage has a brief involuntary vision
 
 If they study further:
 
-*"The painting continues beyond the throne. Behind the blue curtain — visible only because the painter chose to show what lies beyond it — a landscape opens. Fields of green. Water that catches a light that has no source. Small figures moving through it, unhurried. It occupies perhaps one tenth of the composition. The rest is the judgment."*
+*"The painting continues beyond the throne. Behind the blue curtain, a landscape opens. Fields of green. Water that catches a light that has no source. Small figures moving through it, unhurried. It occupies perhaps one tenth of the composition. The rest is the judgment."*
 
 If they ask about specific figures:
 
