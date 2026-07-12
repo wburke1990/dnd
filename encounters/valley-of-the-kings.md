@@ -498,7 +498,7 @@ The carved figures on the lintel show souls in procession approaching a seated f
 
 ## The Entrance Corridor — Read Aloud
 
-*"The corridor beyond the door is narrow — you walk it in single file. The walls here are painted even in the corridor, figures processing toward the inner chamber in rows on each side. The ceiling above is dark with age. The air is very still. At the end of the corridor, perhaps forty feet ahead, a chamber opens, faintly lit from scattered points of light in the ceiling."*
+*"The corridor beyond the door is narrow. The walls here are painted even in the corridor, figures processing toward the inner chamber in rows on each side. The ceiling above is dark with age. The air is very still. At the end of the corridor, perhaps forty feet ahead, a chamber opens, faintly lit from scattered points of light in the ceiling."*
 
 ---
 
@@ -633,7 +633,7 @@ If they ask about specific figures:
 
 ## The Inner Chamber — Read Aloud
 
-*"The inner chamber stops you at the threshold. Not because of what is in it — but because of what is not. The other tombs were stripped of treasure but finished. This one was not finished. The paint on the walls is incomplete — raw limestone visible where the artists stopped working, outlines sketched in red ochre but never filled in, pigment applied only to the central composition and fading to bare stone at the edges. Scaffolding marks in the stone show where the painters stood. A section of ceiling above you has plaster applied but nothing drawn on it.*
+*"The other tombs were stripped of treasure but finished. This one was not finished. The paint on the walls is incomplete — raw limestone visible where the artists stopped working, outlines sketched in red ochre but never filled in, pigment applied only to the central composition and fading to bare stone at the edges. Scaffolding marks in the stone show where the painters stood. A section of ceiling above you has plaster applied but nothing drawn on it.*
 
 *In the center of the room, a sarcophagus. Beside it, not in front of it, a second inscription carved into the wall at eye level — smaller than the cartouche on the lid, more careful.*
 
