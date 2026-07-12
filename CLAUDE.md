@@ -65,6 +65,41 @@ If you learn something worth remembering across sessions, add it here.
   suspected transcription typos rather than silently fixing. Copyright
   isn't a concern (TTS Workshop is free-to-download).
 
+#### House style for prose
+
+All prose we write or edit in the content markdown (`encounters/`,
+`lore/`, `sessions/`, `bestiary/`, `characters/`, `handouts/`,
+`prompts/`, `docs/`) follows the user's two principles: **bare, simple
+prose** and **show, don't tell**. Let the world stand on its own — give
+detailed, concrete description, and let the reader (and the players) draw
+their own conclusions.
+
+Concretely, do not write:
+
+1. **Forced poeticisms.** Say the plain thing. If a phrase calls
+   attention to its own cleverness, cut it. (Real flagged-and-removed
+   examples: "the spine", "broken to the chariot".)
+2. **Metaphors or similes.** No "like a…", "as if…", "as though…",
+   figurative comparisons. Describe literally.
+3. **"Not just X but Y"** and its cousins — "not merely", "it isn't X,
+   it's Y", "more than just".
+4. **Editorializing adverbs** — "truly", "utterly", "impossibly",
+   "hauntingly", and the like. (A plain adverb of manner that carries
+   real information is fine: "she speaks quietly.")
+5. **Ornate verbs/nouns** where a plain one is truer.
+6. **Telling the reader how to feel** — "horrifying", "unsettling",
+   "chilling", "eerie", "tragic". Give the detail; let it land.
+7. **Dictating PC reactions or emotions.** Describe what's present; the
+   players decide what they feel. Never narrate their feelings for them.
+8. **Editorializing about significance** — flagging something as
+   "important", "ominous", or "the key moment". Let the world stand.
+9. **Rhythmic triads** (the "list of three" flourish) when a plain list
+   or a single item is truer.
+10. **Rhetorical questions** in descriptive text.
+
+This governs both new writing and edits to existing files. When cleaning
+up old text, prefer the plainer rewrite over deleting content outright.
+
 **Write commit messages to a temp file and use `git commit -F`, not a
 `<<EOF` heredoc.** Heredocs (and other constructs the permission engine
 can't statically analyze) trigger a prompt that blocks on mobile. So:
