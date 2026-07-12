@@ -518,7 +518,7 @@ The obsidian bowl is fixed to the pan — it cannot be removed. It rejects imper
 
 ## If They Investigate the Tablets
 
-Forty-two tablets. Each engraved with a confession in hieroglyphs and below that, in the common tongue. Each is an admission of something done, phrased *"I have"* — not the *"I have not"* of the old negative confessions.
+Forty-two tablets. Each engraved with a confession in hieroglyphs and below that, in the common tongue. Each is an admission of something done, phrased *"I have"* — not the *"I have not"* of the negative confessions of Egyptian myth.
 
 Read any aloud as the players examine them; you do not need all forty-two in play at once. The full set, roughly ordered from the mundane to the profound:
 
