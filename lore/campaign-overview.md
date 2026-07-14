@@ -301,16 +301,10 @@ mechanics of the circle-cast duel]`
 - `[OPEN]` How fully players grasp the comet cycle.
 - `[OPEN]` Name quest: tone, and one-name vs. name-per-PC.
 - `[OPEN]` Myth-patchwork framing + region/culture map.
-- `[idea]` Run an "Achilles vs. the river" set-piece at some point — the
-  Iliad image of the hero fighting the river god who rises against him
-  (Scamander, choked with the dead). No detail yet; flagged to build out.
-- `[idea]` The ghost of Patroclus visiting Achilles at night — the shade
-  of the dead friend coming to him in sleep to ask for burial (Iliad 23).
-  No detail yet; flagged to build out.
-- `[idea]` Hector's farewell to his wife and son — the child crying at
-  the sight of the horsehair crest on the helmet, so Hector takes it off
-  and sets it on the ground before he holds the boy (Iliad 6). No detail
-  yet; flagged to build out.
+- `[idea]` The [Iliad Battles](../encounters/the-iliad-battles.md) — a
+  planned pitched-battle module in the Homeric style (side-dependent
+  vignettes: Achilles vs. the river, Patroclus's ghost, Hector's
+  farewell; plus read-aloud death-lines and the sacrifices). To build out.
 - `[OPEN]` Lines & veils / tonal guardrails for the table (content runs dark:
   child sacrifice, slavery, the dream quest).
 
@@ -337,7 +331,8 @@ mechanics of the circle-cast duel]`
 - **`encounters/`** — [Valley of the Kings](../encounters/valley-of-the-kings.md),
   [The Dream Quest](../encounters/the-dream-quest.md),
   [The Haals Runoff (first eco-terror job)](../encounters/the-haals-runoff.md),
-  [The Gates of Kala (silent sentries of the underworld)](../encounters/the-gates-of-kala.md).
+  [The Gates of Kala (silent sentries of the underworld)](../encounters/the-gates-of-kala.md),
+  [The Iliad Battles (Homeric pitched-battle module)](../encounters/the-iliad-battles.md).
 - **`handouts/`** — player-facing text: tomb inscriptions, grave poems, the
   Dream-of-the-Blue-Veil incantation, the Ragnarok scroll.
 - **`prompts/`** — verbatim AI image-generation prompts for the tomb art.
