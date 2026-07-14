@@ -110,9 +110,10 @@ a time. Reward a good boast — kleos, advantage on the first strike, the
 jump on initiative.
 
 The opponents **taunt back with lines from the *Iliad*.** The poem is full
-of it, so we pull the enemy's shit-talk straight from the text. Exchanges
-to mine (verbatim lines to be lifted from a public-domain translation —
-Butler or Lang — when we lock it in; gist only below):
+of it, so we pull the enemy's shit-talk straight from the text. `[OPEN — to
+compile: the taunt lines, same job as the death-lines in §3 — pull both
+verbatim from a public-domain translation (Butler/Lang) when we're ready.]`
+Exchanges to mine (gist only below):
 
 - **Glaucus to Diomedes (Book 6)** — "why do you ask my birth? As is the
   generation of leaves, so is that of men." The boast that turns into the
