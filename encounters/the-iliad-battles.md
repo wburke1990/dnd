@@ -86,5 +86,14 @@ orcs in [Musleheim](../lore/musleheim.md).** Kuru and its Order of Sunne
 lead the **[reconquest of Musleheim](../lore/the-muspel-empire.md)**,
 driving the orcs back into their poisoned homeland — so the two armies on
 the field are the **warforged and crusaders of Kuru** on one side and the
-**orcs of Musleheim** on the other. `[OPEN]` how the party comes to be on
-one side.
+**orcs of Musleheim** on the other.
+
+**How the party gets roped in** `[loose — brainstorm]`:
+
+- **They travel into eastern [Musleheim](../lore/musleheim.md).** The east
+  is the front of the reconquest; a party that goes there gets pulled into
+  the fighting.
+- **They get stuck on an island and need passage off it.** There are
+  always **recruiters** working the docks for more bodies for the war —
+  passage is easy to find if you sign on. Take their transport and you
+  take their side.
