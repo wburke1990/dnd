@@ -304,6 +304,13 @@ mechanics of the circle-cast duel]`
 - `[idea]` Run an "Achilles vs. the river" set-piece at some point — the
   Iliad image of the hero fighting the river god who rises against him
   (Scamander, choked with the dead). No detail yet; flagged to build out.
+- `[idea]` The ghost of Patroclus visiting Achilles at night — the shade
+  of the dead friend coming to him in sleep to ask for burial (Iliad 23).
+  No detail yet; flagged to build out.
+- `[idea]` Hector's farewell to his wife and son — the child crying at
+  the sight of the horsehair crest on the helmet, so Hector takes it off
+  and sets it on the ground before he holds the boy (Iliad 6). No detail
+  yet; flagged to build out.
 - `[OPEN]` Lines & veils / tonal guardrails for the table (content runs dark:
   child sacrifice, slavery, the dream quest).
 
