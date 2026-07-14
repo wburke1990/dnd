@@ -181,3 +181,48 @@ rewards the quiet PCs, and a way to take what the next day's fight needs —
 a password, the champion's plans, the layout of the line. It is a
 different kind of fighting from the duel: no boast, no witnesses, throats
 cut in the dark.
+
+---
+
+## 9. The camp between battles `[loose — brainstorm]`
+
+Between the pitched battles the party lives in the **camp** — the hub for
+everything that is not the fighting.
+
+- **The games.** The *Iliad*'s funeral games (Book 23): after a death,
+  contests for prizes — chariot race, boxing, wrestling, footrace,
+  spear-throw, archery, a lump of raw iron to hurl. Run them as a session
+  of competitive mini-games the five enter for glory and loot, with the
+  rest of the camp betting on the outcomes. Any cause will do to hold them
+  — a champion's funeral, a festival, a good omen. Low stakes, pure play.
+- **The sacrifices (§4).** The other pole of camp life — the long, strange
+  rites, human and animal. The players watch them, read the omens, and
+  court the gods before the next day's fight.
+- The night raids (§8) go out from here; recruiters, heralds, and the
+  ransom-parleys (§7) come and go through it.
+
+The games are also a place to **meet the champion as a person** — a truce,
+shared contests between the lines — so the humanization in §7 has somewhere
+to happen off the battlefield.
+
+---
+
+## 10. The weird is theirs to poke `[loose — brainstorm]`
+
+The strangest myth-stuff plays better as something the party **handles**
+than as something they watch.
+
+- **The talking horse.** Achilles' immortal horse Xanthus is given a voice
+  and foretells his death (Iliad 19). Give the party a horse — or some
+  beast — that speaks once and tells a truth no one wants. They get to
+  question it.
+- **The one god you can stab.** In Homer a mortal can wound a god —
+  Diomedes spears both Aphrodite and Ares (Book 5). Here the **only
+  woundable god is the Phoenix:** Kuru's god is a physical thing — the
+  island *is* the god sleeping as stone, and the living phoenix is that
+  same stone woken to fire (see [Kuru & the phoenix](../lore/kuru-and-the-phoenix.md)).
+  So the Diomedes beat is on the table **if the party fights on the orc
+  side** — striking the enemy's living god. It carries real weight: the
+  Phoenix is already going mad, and wounding a god is not free (Diomedes'
+  gods took it out of him later). `[OPEN]` a campaign-scale beat — the
+  consequences want their own thought.
