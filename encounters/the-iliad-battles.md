@@ -22,8 +22,9 @@ initiative order for a whole army.
 
 **The party picks a side, and the side gates the scenes.** The vignettes
 below are staged on one side of the field or the other; a party fighting
-with the Achaeans sees a different set than one fighting with the Trojans.
-Whose war it is, and how the party comes to be on it, is `[OPEN]`.
+with one army sees a different set than one fighting with the other.
+The natural home for these battles is the **[Kuru](../lore/kuru-and-the-phoenix.md)
+war** — see §5.
 
 ---
 
@@ -59,3 +60,26 @@ throats, the thighbones wrapped in fat and burned, the tasted innards.
 When we run these scenes we want to **give that description its full
 room**, both the animal sacrifices and the human ones, and play the
 procedure straight. To detail.
+
+---
+
+## 5. The fit — the [Kuru](../lore/kuru-and-the-phoenix.md) war and the fight over the body `[loose — brainstorm]`
+
+These battles belong to **Kuru's** war. Kuru's holy soldiers, the
+**[warforged](../lore/kuru-and-the-phoenix.md)**, replace their hacked-off
+flesh piece by piece with **god-stone** — the body of the phoenix. A
+warforged killed on the field is therefore a **body of imperishable
+god-stone:** a piece of the god, and, in the case of an old-guard
+warforged, worth a fortune in godstone.
+
+So the *Iliad*'s **battles over the bodies of the dead** become native
+here. In Homer the line stops and the armies grind over a single corpse —
+the fight over **Patroclus** (Iliad 17), the fight over **Sarpedon**
+(Iliad 16) — to carry off the body and strip the armor. In Kuru's war,
+**both sides want the fallen warforged:** Kuru's own to **recover and
+preserve their stone-dead** (the corpse is a relic, a piece of their god),
+the enemy to **carry off the godstone.** A downed old-guard warforged is a
+reason for a whole battle to swing over one square of ground.
+
+`[OPEN]` who Kuru fights in the battle the party sees, and how the party
+comes to be on one side.
