@@ -26,6 +26,13 @@ with one army sees a different set than one fighting with the other.
 The natural home for these battles is the **[Kuru](../lore/kuru-and-the-phoenix.md)
 war** — see §5.
 
+**This is a kit of parts, not a plotted sequence.** We do not know how the
+party will end up in [Musleheim](../lore/musleheim.md), or whose side they
+will fight for, and we do not decide it for them. Everything below — the
+entry hooks (§5), the two sides, the scenes, the champion, the raid, the
+camp — is built to be dropped in around whatever the players actually
+choose. Both sides stay live until they pick. No railroad.
+
 ---
 
 ## 2. The scenes `[loose — to place]`
