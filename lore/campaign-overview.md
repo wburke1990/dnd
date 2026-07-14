@@ -301,6 +301,9 @@ mechanics of the circle-cast duel]`
 - `[OPEN]` How fully players grasp the comet cycle.
 - `[OPEN]` Name quest: tone, and one-name vs. name-per-PC.
 - `[OPEN]` Myth-patchwork framing + region/culture map.
+- `[idea]` Run an "Achilles vs. the river" set-piece at some point — the
+  Iliad image of the hero fighting the river god who rises against him
+  (Scamander, choked with the dead). No detail yet; flagged to build out.
 - `[OPEN]` Lines & veils / tonal guardrails for the table (content runs dark:
   child sacrifice, slavery, the dream quest).
 
