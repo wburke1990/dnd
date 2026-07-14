@@ -97,3 +97,86 @@ the field are the **warforged and crusaders of Kuru** on one side and the
   always **recruiters** working the docks for more bodies for the war —
   passage is easy to find if you sign on. Take their transport and you
   take their side.
+
+---
+
+## 6. The duel — the boast and the shit-talk `[loose — brainstorm]`
+
+Before blows, the fighters **name themselves.** To strike, a PC first
+gives a **boast** — lineage, deeds, the dead they've claimed. This is the
+fun of it, and it does double work: over a run of duels the players
+**invent and deepen their own backstories** out loud, one introduction at
+a time. Reward a good boast — kleos, advantage on the first strike, the
+jump on initiative.
+
+The opponents **taunt back with lines from the *Iliad*.** The poem is full
+of it, so we pull the enemy's shit-talk straight from the text. Exchanges
+to mine (verbatim lines to be lifted from a public-domain translation —
+Butler or Lang — when we lock it in; gist only below):
+
+- **Glaucus to Diomedes (Book 6)** — "why do you ask my birth? As is the
+  generation of leaves, so is that of men." The boast that turns into the
+  out, below.
+- **Achilles over Lycaon (Book 21).** Lycaon begs on his knees; Achilles
+  refuses him — Patroclus died, a better man than you, and I too will die.
+- **Patroclus over Cebriones (Book 16).** He mocks the falling man as a
+  diver — a nimble fellow, how well he dives; at sea he'd feed a village
+  pulling up oysters.
+
+### The Glaucus–Diomedes out
+
+A boast can **stop** a fight. In Book 6 the two trade lineages mid-standoff,
+find their grandfathers were guest-friends, and refuse to fight — they
+**swap armor** instead (and Glaucus gets the worse of it, gold for bronze).
+So a PC's introduction can turn up a shared bond — a debt, a blood tie, a
+common enemy — and the duel becomes a gift-exchange, a truce, or an
+alliance. The shit-talk has stakes past damage.
+
+---
+
+## 7. The five-on-five and the recurring champion `[loose — brainstorm]`
+
+Five PCs, so **none of them sit and watch.** When the line breaks for
+single combat, an enemy **champion steps out with four companions** — one
+opponent for each PC. The champion takes the party's front-runner; the
+four helpers pair off with the rest. Everyone fights.
+
+The champion is the party's **Hector** — one formidable, named enemy they
+meet **across several battles**, not once. The arc:
+
+1. **They see him human first.** Before they ever cross blades — through a
+   truce, a night scout, the far side of the line — they watch him say
+   goodbye to his family: the wife, the boy who cries at the crest of his
+   helmet (the farewell from §2, made personal).
+2. **They meet, and it's inconclusive.** Early duels break off — a god
+   snatches him away in mist, night falls, the line pulls back. He
+   remembers them; they remember him.
+3. **The kill.** The last duel goes the distance. Read his death-line as
+   he falls.
+4. **The desecration — by their own side.** Their allies want the body:
+   loot, trophies, or god-stone. The PC chooses in the moment — join in,
+   look away, or stand over the body and guard it.
+5. **The reckoning.** The champion's father comes to **ransom the body**
+   (Priam, Book 24). And whoever they leave unburied is the **ghost** from
+   §2, come to ask for the grave he was denied.
+
+Make him an **orc**, and his desecration by Kuru's holy-hating crusaders
+puts the campaign's argument — names, ownership, who counts as a person —
+inside a single fight.
+
+**Works on either side.** Side with Kuru and the champion is an orc
+war-leader; side with the orcs and he is a warforged crusader. The
+five-on-five and the arc run the same.
+
+---
+
+## 8. The night raid on the camps `[loose — brainstorm]`
+
+Not every scene is the open field. **An Odysseus-style raid** — the
+*Iliad*'s Doloneia (Book 10): two men slip into the enemy camp at night,
+catch a scout, and cut the throats of sleeping soldiers before slipping
+back out. A **stealth-and-espionage** beat between the pitched battles that
+rewards the quiet PCs, and a way to take what the next day's fight needs —
+a password, the champion's plans, the layout of the line. It is a
+different kind of fighting from the duel: no boast, no witnesses, throats
+cut in the dark.
