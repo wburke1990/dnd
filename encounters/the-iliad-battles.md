@@ -81,5 +81,10 @@ preserve their stone-dead** (the corpse is a relic, a piece of their god),
 the enemy to **carry off the godstone.** A downed old-guard warforged is a
 reason for a whole battle to swing over one square of ground.
 
-`[OPEN]` who Kuru fights in the battle the party sees, and how the party
-comes to be on one side.
+The war is the one already on the board: **Kuru is actively fighting the
+orcs in [Musleheim](../lore/musleheim.md).** Kuru and its Order of Sunne
+lead the **[reconquest of Musleheim](../lore/the-muspel-empire.md)**,
+driving the orcs back into their poisoned homeland — so the two armies on
+the field are the **warforged and crusaders of Kuru** on one side and the
+**orcs of Musleheim** on the other. `[OPEN]` how the party comes to be on
+one side.
