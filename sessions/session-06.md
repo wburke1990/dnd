@@ -1,8 +1,8 @@
 # Session 06 — The Second Hand, and the Rat Man's Two Fingers
 ## Back in Maalm · the square ambush, an alliance won, and Ratatat interrogated then walked off by the watch
 
-> *Logged from a table recap. Fold in anything missed — the interrogation
-> yield and the split-glyph handoff are the two gaps flagged below.*
+> *Logged from a table recap. One gap still flagged below: whether the
+> split-glyph actually changed hands.*
 
 ---
 
@@ -38,10 +38,34 @@
 
 - Before handing Ratatat over, the party **interrogated him. Sarric led
   it**, and at his direction **Jasper severed two of Ratatat's fingers.**
+- Under the torture, **Ratatat gave up V.**: **V. was going to meet him at
+  a nearby mill** — the *"Bring more to the mill. — V."*
+  [note](../bestiary/the-rat-man.md) made live. This is the party's first
+  concrete line on the guard → Ratatat → **V.** chain, now pointing at a
+  place and a meeting.
 - Then — even after Cassia's warning about the corrupt watch — they **let
   the square guards take Ratatat away.** That's the guards' **sham
   "arrest"** from the prep: badges out, walking him off to "custody." He's
   **loose again**, now short two fingers.
+
+## The founder's plaque
+
+- After the fight — in
+  **[Bedraageon Square](../lore/bedraageon-square.md)**, Maalm's central
+  plaza and the same ground as the [Session 1](session-01.md) ambush — they
+  noticed the **grave-plaque** set flat by the fountain. **Blackacre read
+  it:** the epitaph of **Bedraageon**, the dragonborn founder of Maalm.
+
+## The potion shop — the Dream Quest opens
+
+- **Aniess** went into the **al Qahtani family's healing-goods shop** to buy
+  **ink and parchment.**
+- The hiring ran through **Ali (Zaynab) al Qahtani** rather than her brother
+  Muntadhir: **Ali hired Aniess to perform the
+  [Dream Quest](../encounters/the-dream-quest.md)** — the death-rite for the
+  family's late father, Ghassan.
+- **Aniess suspected the family was really after a resurrection** and ran
+  **Insight checks.**
 
 ---
 
@@ -53,13 +77,18 @@
   loose, and the recurring-antagonist design holds. He now carries a
   **permanent mark: two severed fingers** (Sarric's call, Jasper's blade) —
   recognizable by it from here on.
-- **What did he give up?** `[OPEN]` The recap didn't capture the
-  interrogation's yield. The chain is **guard → Ratatat → "V."** — Ratatat
-  sells Preem's stolen maps to a buyer **"V."** he doesn't know is the
-  [First Foundation](../lore/the-first-foundation.md)'s Maalm agent (the
-  *"Bring more to the mill. — V."* note). This is the natural place that
-  thread opens; confirm whether the party pulled **V. / the mill** out of
-  him or only hurt him.
+- **The interrogation cracked the V. thread open.** Ratatat gave up that
+  **V. was going to meet him at a nearby mill** — the *"Bring more to the
+  mill. — V."* note made live. Ratatat sells Preem's stolen maps to **"V."**
+  without knowing V. is the
+  [First Foundation](../lore/the-first-foundation.md)'s one Maalm agent, so
+  this is the party's first concrete line on **V.** and the on-ramp to
+  Preem's rivals. **The mill has no writeup — it's improvised**, so it needs
+  building before the party goes: who V. is (still `[OPEN]`), what the
+  meeting is, whether V. shows in person or sends someone. First contact
+  with the Foundation is the obvious next beat. **Watch the clock:** the
+  corrupt watch just walked Ratatat off, so V. may learn the meeting is
+  blown before the party can get there.
 - **They handed him to the watch after being told the watch is corrupt.**
   Cassia had just named the rot, and the party still walked Ratatat into
   the hands of the people she was blacklisted for exposing. Worth checking
@@ -76,6 +105,23 @@
   racket**); the "leaving / fears for her life" is the table's present-tense
   rendering. **Marcellus was one of the three square guards** — if he
   dropped in the fight, that's the man she was forced out for naming.
+- **Blackacre holds the founder's epitaph now.** The plaque he read is
+  Bedraageon's grave-inscription (the "lay of the last survivor") in
+  Maalm's civic heart — the same square as the Session 1 ambush, so the
+  callback lands on its own.
+- **The Dream Quest hook opened — hired by Ali, not Muntadhir.** David
+  didn't want to play his character Muntadhir, so the hiring went to the
+  sister, **Ali (Zaynab) al Qahtani**, which fits her written role as the
+  sibling who "says the true things her brother won't"
+  ([the children](../characters/the-children.md)). The **ink and parchment**
+  Aniess bought line up with the ritual — the **Dream of the Blue Veil**
+  incantation. Full encounter:
+  [The Dream Quest](../encounters/the-dream-quest.md).
+- **Aniess's resurrection read.** She ran Insight on a hunch the al Qahtani
+  want a **resurrection**, not a passage. As written the rite is a
+  **death-rite** — shepherding Ghassan's soul to judgment, not raising him.
+  Whether the half-demon family wants more than a clean passage is a live
+  question to settle; her suspicion is a thread to lean into.
 
 ---
 
@@ -83,10 +129,15 @@
 
 - [ ] **The supply cart** — the party never dealt with it. Decide whether
       it matters (left at the gate, rented and owed back, still loaded).
-- [ ] **What Ratatat gave up under interrogation** — `[OPEN]`; the chain is
-      **guard → [Ratatat](../bestiary/the-rat-man.md) → "V."** and ends at
-      **V.** Did the interrogation reach V. / the mill, or just cost him two
-      fingers?
+- [x] **What Ratatat gave up** — **V. is meeting him at a nearby mill.**
+- [ ] **The mill meeting** — build it (no writeup yet) and decide how the
+      party plays it: intercept, observe, or ambush **V.**, the
+      [First Foundation](../lore/the-first-foundation.md)'s Maalm agent
+      (`[OPEN]` who V. is). First contact with Preem's rivals — and the
+      watch may already have warned them.
+- [ ] **Run the Dream Quest** — now hired (by Ali) at the al Qahtani shop;
+      resolve Aniess's resurrection suspicion in play.
+      [`the-dream-quest.md`](../encounters/the-dream-quest.md)
 - [ ] **Confirm the split-glyph handoff** from the Second Hand — the
       anti-TPK token.
 - [ ] Carry forward from [Session 5](session-05.md): the **"last of the

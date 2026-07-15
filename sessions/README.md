@@ -22,8 +22,14 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   First Foundation's Maalm agent. **S6:** the party finally **captured and
   interrogated Ratatat** in the square (Sarric leading, Jasper severing two
   fingers), then **let the corrupt watch walk him off** — so he's **loose
-  again, now missing two fingers.** `[OPEN]` what the interrogation gave up
-  (V. / the mill).
+  again, now missing two fingers.** Under torture he gave up that **V. is
+  meeting him at a nearby mill** — the party's first concrete line on V.
+- **V. and the mill** (S6) — the interrogation turned the *"Bring more to
+  the mill. — V."* note into a live lead: **V.**, the
+  **First Foundation**'s one Maalm agent, is due to meet Ratatat at a
+  **nearby mill.** No mill/V. writeup yet (`[OPEN]` who V. is) — this is the
+  party's on-ramp to Preem's rivals, and the corrupt watch may already have
+  warned them.
 - **Misplaced suspicion** (S2) — the party thinks the city-gate guides
   answer to **Preem**. They actually answer to the **rat man**. Payoff
   when they untangle it: Preem looks innocent, the rat man looks dangerous.
@@ -43,3 +49,8 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   crew** from the square ambush, winning a standing ally and the GM's
   **anti-TPK lever**. `[confirm]` whether Nuru's **split-glyph** (the
   "break it when you're dying" token) actually changed hands.
+- **The Dream Quest** (S6) — **Ali (Zaynab) al Qahtani** hired **Aniess** at
+  the family's healing-goods shop to run the **Dream Quest**, the death-rite
+  for their late father Ghassan (David sat his character Muntadhir out, so
+  the sister did the hiring). Aniess suspects a **resurrection** and ran
+  Insight. Not yet played: [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
