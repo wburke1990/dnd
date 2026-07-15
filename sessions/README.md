@@ -55,5 +55,13 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   for their late father Ghassan (David sat his character Muntadhir out, so
   the sister did the hiring). Aniess suspects a **resurrection** and rolled
   a **nat-20** on Insight: Ali means no harm but is **hiding something**, and
-  **the rite already failed for Ali and Muntadhir** for a reason she won't
-  give (`[OPEN]`). Not yet played: [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
+  **the rite already failed for Ali and Muntadhir** — because (canon) the
+  half-demon siblings **can't cross the door of sleep; they don't dream.**
+  Planned reveal: the **Jasper beat** (the al Qahtani ask if he has a soul /
+  dreams, and admit they don't). `[OPEN]` whether the family wants a
+  **resurrection**. Not yet played: [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
+- **Lucrecia** (S6) — a new **elite-caste** patron who thanked the party for
+  the Ratatat fight (the severed fingers proved it wasn't a **staged**
+  fight). She gave **Sarric 50 gp for a potion** (after **Aniess ignored
+  her**); **Sarric pocketed it** and bought nothing. `[OPEN]` her tie to the
+  **Second Foundation**.

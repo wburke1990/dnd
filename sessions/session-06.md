@@ -48,6 +48,16 @@
   "arrest"** from the prep: badges out, walking him off to "custody." He's
   **loose again**, now short two fingers.
 
+## Lucrecia's thanks
+
+- A woman named **Lucrecia**, of Maalm's **elite caste**, thanked the party
+  for fighting Ratatat. (Improvised at the table — an extra token in play.)
+- She **approved of the two severed fingers**: the maiming convinced her the
+  fight was **real**, not a **staged fight** run to take advantage of her.
+- She offered **50 gp for a healing potion.** She first tried to give it to
+  **Aniess**, who **ignored her**, so she handed it to **Sarric** instead.
+- **Sarric pocketed the gold** rather than buying the potion.
+
 ## The founder's plaque
 
 - After the fight — in
@@ -122,6 +132,17 @@
   racket**); the "leaving / fears for her life" is the table's present-tense
   rendering. **Marcellus was one of the three square guards** — if he
   dropped in the fight, that's the man she was forced out for naming.
+- **Lucrecia — a new elite-caste contact (improvised).** She reads Maalm's
+  **elite caste** as the **elven old families** of the gated upper city
+  ([the elven stronghold](../lore/maalm-the-elven-stronghold.md)); `[OPEN]`
+  whether she ties to the **Second Foundation**, that elite's inner faction
+  ([the-second-foundation.md](../lore/the-second-foundation.md)). Her logic
+  on the fingers folds neatly into the **sham-fight** theme running through
+  the corrupt watch: real maiming reads to her as proof the fight wasn't
+  staged. Two character beats left live: **Aniess snubbed her** (a slighted
+  Maalm noble — a bridge to burn or mend later), and **Sarric pocketed the
+  potion gold** (a self-serving streak, and a lie waiting to surface — he
+  owes a healing potion that doesn't exist).
 - **Blackacre holds the founder's epitaph now.** The plaque he read is
   Bedraageon's grave-inscription (the "lay of the last survivor") in
   Maalm's civic heart — the same square as the Session 1 ambush, so the
@@ -139,14 +160,26 @@
   already failed for Ali and Muntadhir**, for a reason Ali is keeping back.
   The DM leaned into the crit and handed over a lot. So the setup is now:
   the siblings **tried this themselves and it didn't take**, and they're
-  hiring the party to do what they couldn't. `[OPEN]` **decide the reason
-  the rite failed for them** and **what Ali is hiding** — the natural hooks
-  from established lore are the siblings' **half-demon blood** (mother
-  Manizheh is a bound demon; [the children](../characters/the-children.md))
-  and Ghassan's heart at the **weighing**. This is also where Aniess's
-  **resurrection** suspicion lives: as written the Dream Quest is a
-  **death-rite** (shepherding Ghassan to judgment, not raising him), so if
-  the family wants more than a clean passage, that gap is the secret.
+  hiring the party to do what they couldn't. **The reason is already canon**
+  — the Dream of the Blue Veil is a **door of sleep**, and the half-demon
+  children can't cross it: *"we lie down, we say the words, we close our eyes
+  — and we just sleep. No water, no boat, no him"*
+  ([the-dream-quest.md](../encounters/the-dream-quest.md)). **They do not
+  dream**, so the rite has nowhere to take them. What's `[OPEN]` is **how
+  much of that Ali is hiding** and **when it surfaces** (the Jasper beat
+  below is one vehicle). This is also where Aniess's **resurrection**
+  suspicion lives: as written the rite is a **death-rite** (shepherding
+  Ghassan to judgment, not raising him), so if the family wants more than a
+  clean passage, that gap is the deeper secret.
+- **Planned: the Jasper beat surfaces the "no dream" secret.** When the
+  al Qahtani meet **Jasper**, they take an interest in him — is he
+  ensouled, is he a **construct**, does he **dream**? Pressed, **Muntadhir
+  and Ali admit they don't dream.** (Jasper is canonically an **Earth
+  Genasi with a soul**, not a construct
+  — [jasper.md](../characters/jasper.md) — so the siblings' question is
+  their misread of the rock-man; the point is the mirror: a man who *looks*
+  soulless but dreams, beside two ensouled siblings who can't.) This is the
+  clean way to expose what Aniess's nat-20 already caught.
 
 ---
 
@@ -163,9 +196,15 @@
 - [ ] **Run the Dream Quest** — now hired (by Ali) at the al Qahtani shop;
       resolve Aniess's resurrection suspicion in play.
       [`the-dream-quest.md`](../encounters/the-dream-quest.md)
-- [ ] **Why the rite failed for Ali and Muntadhir / what Ali is hiding** —
-      `[OPEN]`, surfaced on Aniess's nat-20. Decide the secret (half-demon
-      blood? the weighing?) — it's the engine under the whole Dream Quest.
+- [ ] **What Ali is hiding, and when it surfaces** — the rite failed for
+      the siblings because **they don't dream** (canon: the door of sleep);
+      `[OPEN]` is how much Ali admits and whether there's a deeper aim
+      (Aniess's **resurrection** read). Planned vehicle: **the Jasper beat**
+      — the al Qahtani ask whether Jasper has a soul / is a construct /
+      dreams, and admit they don't.
+- [ ] **Lucrecia** — new elite-caste contact. **Sarric owes a healing
+      potion** he took 50 gp for and never bought; **Aniess snubbed her.**
+      `[OPEN]` her tie to the [Second Foundation](../lore/the-second-foundation.md).
 - [ ] **The dockside meet — tomorrow 9 AM.** Exchange the **split-rune**
       with the Second Hand; play the possible **city-guard clash** as
       **Cassia** boards her boat out of Maalm.
