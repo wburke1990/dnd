@@ -23,7 +23,7 @@ A large, walled merchant house of pale dressed stone — flat roofs, arched wind
 
 ARCHITECTURE
 
-The exterior is purely MAALM ELVEN — refined elven stonework: pale dressed stone, carved arches, slender columns, fine lattice screens and shutters. NO Egyptian or ancient-empire motifs anywhere on the outside. (The family's collection of relics is an interior surprise, unseen from the street.)
+The exterior is refined MAALM ELVEN stonework: pale dressed stone, gracefully carved arches, slender columns, fine lattice screens and carved shutters, elegant and restrained.
 
 DETAILS
 
