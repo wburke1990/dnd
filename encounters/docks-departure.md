@@ -7,7 +7,7 @@
 > watch gets there first. Fighting the ambush off beside the crew is what
 > **earns** the party the
 > **[split-rune](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever)**,
-> the crew's anti-TPK lifeline — handed over afterward, if everyone lives.
+> the crew's anti-TPK lifeline — handed over once they're aboard and away.
 
 ---
 
@@ -156,12 +156,11 @@ Same fight, two dials. Party of 5 plus the four Second Hand allies either way.
 
 # AFTERMATH
 
-- **The split-rune is earned.** Clear of the harbor with everyone alive, Cassia
-  gives the nod and **Nuru splits a scrying-glyph,** handing the party half — the
-  crew's [anti-TPK lifeline](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
-  *"Break it when you're dying. If we can reach you, we will."* The party fought
-  for the crew a second time and held; this is the debt paid back. (A PC who
-  dropped and was hauled aboard still counts — no one died, so the gift lands.)
+- **The split-rune is earned.** Aboard and away, Cassia gives the nod and **Nuru
+  splits a scrying-glyph,** handing the party half — the crew's
+  [anti-TPK lifeline](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
+  *"Break it when you're dying. If we can reach you, we will."* Two fights side
+  by side makes them real allies; this is the debt paid back.
 - Cassia is out of Maalm; the **alliance is armed.**
 - The corrupt watch is now **openly the party's enemy**, and Ratatat has
   spent his guards to make the point — a reason to be careful at the gates
@@ -180,5 +179,5 @@ Same fight, two dials. Party of 5 plus the four Second Hand allies either way.
 - [ ] Decide whether **Cassia** takes a farewell hit here (she's fleeing for
       her life; a close call sells it) — keep her alive, per the anti-TPK
       design.
-- [ ] Hand over the **split-rune** in the **aftermath** — earned by surviving
-      the fight together, not offered before it (the crew hasn't raised it yet).
+- [ ] Hand over the **split-rune** in the **aftermath** — earned by fighting
+      beside the crew, not offered before it (the crew hasn't raised it yet).
