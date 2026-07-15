@@ -16,15 +16,15 @@ THE MANSION
 
 A large, walled merchant house of pale dressed stone — flat roofs, arched windows, an arched gated entrance. The exterior is refined MAALM ELVEN stonework: pale dressed stone, gracefully carved arches, slender columns, fine lattice screens and carved shutters, elegant and restrained.
 
-It is a lavishly gardened house: gardens spill from the rooftop and cascade down every side of the building, worked for food as much as beauty — vines, fruit trees, herbs, and greens in tiered stone planters along the walls, with thin channels of water threading down through them. Affluent and well-kept: new money, not old blood.
+It is a lavishly gardened house: gardens spill from the rooftop and cascade down every side of the building, worked for food as much as beauty — vines, fruit trees, herbs, and greens in tiered stone planters along the walls. Affluent and well-kept: new money, not old blood.
 
 THE SETTING
 
-The city of Maalm is FLAT — level ground, no hills or slopes. It is a dry desert city of pale limestone and sandstone that feeds itself by intensive agriculture, so it is green and cultivated wherever people can afford to farm. Keep the framing close on the mansion: just the house and a little of the flat neighboring street and its gardens. Do NOT show a hillside, tiers stepping down a slope, a distant cityscape, high walls rising behind, or the sea.
+The city of Maalm is FLAT — level ground, no hills or slopes. It is a dry desert city of pale limestone and sandstone that feeds itself by intensive agriculture, so it is green and cultivated wherever people can afford to farm. Keep the framing close on the mansion: just the house and a little of the flat neighboring street and its gardens.
 
 COLOR PALETTE
 
-Pale limestone, sandstone, warm ochre, and dust for the stonework; vivid living greens with flowering reds, violets, and golds for the gardens cascading down the house; blue-green water accents; a high, clear sky.
+Pale limestone, sandstone, warm ochre, and dust for the stonework; vivid living greens with flowering reds, violets, and golds for the gardens cascading down the house; a high, clear sky.
 
 MOOD
 
