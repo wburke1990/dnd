@@ -1,9 +1,9 @@
 # Session 05 — The Fourth Tomb, and the Akhekh on the Road
 ## Valley of the Kings capstone cleared · ambushed on the road home to Maalm
 
-> *Logging an in-play development (session in progress — the akhekh fight
-> was still live at last table). Fold in the rest of the session, including
-> the fight's outcome, as it resolves.*
+> *Logging an in-play development (session in progress). The akhekh fight
+> has since resolved — folded in below. Fold in the rest of the session as
+> it resolves.*
 
 ---
 
@@ -50,7 +50,10 @@
   **Akhekh** (winged serpent-griffin, CR 7 —
   [`bestiary/akhekh.md`](../bestiary/akhekh.md)) and **chose to fight it**
   rather than parley or flee.
-- The fight was still live at the end of the session.
+- The fight turned into a de-escalation. The party **apologized** to the
+  akhekh, ended the **Entangle** and freed it from the vines, and gave it
+  the **last of their rat meat**. It let them go and left the road. No one
+  died on either side.
 
 ---
 
@@ -64,19 +67,15 @@
 - **The lion thread keeps paying off.** Rat meat bought passage in Session 3;
   Animal Friendship just bought a night's shelter. Worth a nod if a player
   brings it up.
-- **The Akhekh fight — live at the table; a resolution floated, not yet
-  ruled.** Aniess asked to ride it and Blackacre's Entangle (which it
-  **failed** — it's bound in the vines) both hit its two worst triggers in
-  round one, on top of it already being a CR 7 fight against a low-level
-  party. The sequence being floated: on its first turn it spends its action
-  trying to break the vines and **tells the party to flee** rather than
-  attacking; only if they keep pressing does it tear loose and speak — part
-  Elvish, part Ancient Egyptian — which Aniess can partially understand
-  (Yuan-ti speak-with-snakes + the party's standing Speak with Animals + her
-  own Elvish), putting the talk-it-down choice in Greg's hands. Nothing is
-  ruled yet; whether the talk lands or it escalates to the grab-and-flee
-  rescue hook is the open piece. Full writeup:
-  [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
+- **The Akhekh fight resolved as a de-escalation.** Aniess asked to ride it
+  and Blackacre's Entangle (which it **failed** — it was bound in the vines)
+  hit its two worst triggers in round one, on top of it already being a CR 7
+  fight against a low-level party. It ended the way the floated sequence
+  pointed: the party apologized, dropped the Entangle to free it, and handed
+  over the last of the rat meat, and it let them go rather than escalating to
+  the grab-and-flee rescue hook. **David made the call at the table to have
+  it spare the party** — the in-fiction "it let them go" was his ruling.
+  Full writeup: [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
 - **85 gold doesn't cleanly reconcile with the pay table.** [Mul pays 5 gp
   per dead name](../characters/mul.md#the-pay--what-a-name-is-worth), and
   Tomb 4 alone has ~10 findable names — not worth relitigating unless a
@@ -86,9 +85,10 @@
 
 # LOOSE ENDS FOR PREP
 
-- [ ] **Resolve the Akhekh fight** — live at end of session. Branch decision
-      (straight fight vs. lair-rescue hook) pending discussion with David;
-      see [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
+- [x] **Resolve the Akhekh fight** — done. Ended in de-escalation: apology,
+      Entangle dropped, rat meat handed over, and it let the party go
+      (David's ruling). See
+      [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
 - [ ] **Run the "return to the tower" scene** with Mul once the party
       reaches Maalm (assuming they survive the road).
 - [ ] Carry forward from [Session 4](session-04.md): the **gate guard**
