@@ -11,15 +11,19 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [02](session-02.md) | The Road to the Valley, and the First Tomb | Maalm → Valley of the Kings | Set-beast (Sha, hunt-table roll 16) tips them off about the lions; party wrongly suspects the city-gate guides serve Preem; **Tomb I** cleared |
 | [03](session-03.md) | Tombs II & III: The Lions and the Mummy | Valley of the Kings | Feed the cave lions rat meat; the mummy **Kethara**; **Tombs II & III** cleared |
 | [04](session-04.md) | The Guard Who Knew the Rat Man | Maalm's gates | Insight-check the gate guards; catch an informant on the rat man's network |
-| [05](session-05.md) | The Fourth Tomb, and the Akhekh on the Road | Valley of the Kings → road to Maalm | **Tomb IV** cleared (clean 5-for-5 confessions); all four tombs done; ambushed by an **Akhekh** on the way home *(in progress)* |
+| [05](session-05.md) | The Fourth Tomb, and the Akhekh on the Road | Valley of the Kings → road to Maalm | **Tomb IV** cleared (clean 5-for-5 confessions); all four tombs done; **Akhekh** on the way home ends in de-escalation (apology, Entangle dropped, rat meat) |
+| [06](session-06.md) | The Second Hand, and the Rat Man's Two Fingers | Maalm's gate & main square | Ran the **Second Hand ambush**; saved the crew (alliance won); **captured Ratatat**, interrogated him (Sarric led, Jasper took two fingers), then let the corrupt watch walk him off; **Cassia** on the watch's rot |
 
 ## Running threads
 
-- **The escaped rat man** (S1) — still loose, and the party's real
-  shadow: he's **bribing the city-gate guides** to track them. Not yet
-  written up in `bestiary/` (to-do). S4 caught a gate guard (provisional
-  name **Dask**) who knows him — chain runs guard → Ratatat → "V.", the
-  First Foundation's Maalm agent. On hold while the party's in the field.
+- **The escaped rat man** (S1) — the party's real shadow, **bribing the
+  city-gate guides** to track them. S4 caught a gate guard (provisional
+  name **Dask**) who knows him; the chain runs guard → Ratatat → "V.", the
+  First Foundation's Maalm agent. **S6:** the party finally **captured and
+  interrogated Ratatat** in the square (Sarric leading, Jasper severing two
+  fingers), then **let the corrupt watch walk him off** — so he's **loose
+  again, now missing two fingers.** `[OPEN]` what the interrogation gave up
+  (V. / the mill).
 - **Misplaced suspicion** (S2) — the party thinks the city-gate guides
   answer to **Preem**. They actually answer to the **rat man**. Payoff
   when they untangle it: Preem looks innocent, the rat man looks dangerous.
@@ -32,5 +36,10 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   in-person "last of the names" scene at Mul's tower is still to be
   played once the party reaches Maalm.
 - **The Akhekh on the road** (S5) — the party chose to fight a CR 7
-  monster mid-encounter, an ambush on the way back from the Valley. Fight
-  was still live at end of session — resolve before Session 6.
+  monster mid-encounter, an ambush on the way back from the Valley.
+  **Resolved (S5) as a de-escalation:** apology, Entangle dropped, the last
+  of the rat meat handed over, and it let them go (David's ruling).
+- **The Second Hand alliance** (S6) — the party saved **Cassia Roan's
+  crew** from the square ambush, winning a standing ally and the GM's
+  **anti-TPK lever**. `[confirm]` whether Nuru's **split-glyph** (the
+  "break it when you're dying" token) actually changed hands.
