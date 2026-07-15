@@ -196,6 +196,14 @@ manages the party far less than he did behind the shop counter.
 
 ## The House — a Museum of the Dead Empire
 
+**Where it sits.** A large merchant house in a **good district just outside
+the gated upper city** — not among the oldest, most powerful elven families
+behind the gates, but a comfortable street of the merely rich. The al
+Qahtani are **new-money merchants**, not old elven elite; wealthy enough for
+the address, not born to the quarter. The grounds include a **walled kitchen
+garden** that feeds the household (it pays off in the breakfast — see
+[Waking](#waking)).
+
 The house is shelved and hung like a museum. Relics of the **Amseh
 dynasty** — the fallen empire whose gods the party met in the Valley of the
 Kings — fill the rooms: carved fragments, funerary bronzes, glazed figures
@@ -378,6 +386,17 @@ the living.
 
 *(Ali/Zaynab, low:)*
 *"That's the part I can't get past. I don't know if we're sending you somewhere, or nowhere. He was so* sure*, at the end. I need to have tried. Even if it's nothing — I need to have tried."*
+
+## "Have You Eaten?"
+
+Before they lie down, **Muntadhir** asks whether they've eaten, and tells
+them to — they'll want their strength for what's ahead. A plain host's
+nudge; it also gives the party a beat to deal with food before the rite (as
+of this session they're carrying **Goodberries** and a load of **rats** and
+haven't eaten all day — see [Session 6](../sessions/session-06.md)).
+
+*(Muntadhir:)*
+*"Have you eaten? Eat first. You'll want your strength for this — go in hungry and I don't think you come back the better for it."*
 
 ## Casting the Spell
 
@@ -805,6 +824,15 @@ Neither child asks what happened to their mother. They already know she's gone. 
 The older child, after a moment:
 
 *"Thank you. Whatever happened — thank you for going."*
+
+## Breakfast
+
+The family sets out **breakfast** for the party in the morning light —
+everything from their own **kitchen garden**, laid on with the plain
+generosity of people who don't yet know how else to thank you. It's the
+first food the scene has been building toward (the party went into the
+night hungry). Let it be quiet. Two children, an empty house, and a table
+of food nobody quite knows how to sit down to.
 
 ---
 

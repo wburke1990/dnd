@@ -182,6 +182,12 @@
   their misread of the rock-man; the point is the mirror: a man who *looks*
   soulless but dreams, beside two ensouled siblings who can't.) This is the
   clean way to expose what Aniess's nat-20 already caught.
+- **Pacing into next session.** The **Dream Quest runs tonight**; it's only
+  **mid-morning** now, so expect the party to **hit the mill first**. The
+  race is live: **Ratatat, freed by the sham arrest, will likely warn V.**,
+  and if the party is slow the **mill turns up empty** — no meeting, no
+  lead. They may also stop at **[The Twelve](../lore/maalm-founding.md)**,
+  Maalm's oldest tavern (named for Bedraageon's twelve companions).
 - **Dream Quest house prep fleshed out** (in
   [the-dream-quest.md](../encounters/the-dream-quest.md)): the al Qahtani
   house is now an **Egyptian-museum of Amseh relics**; **Muntadhir gives a
@@ -197,6 +203,15 @@
   Veil's **other-plane component** (the one relic the father didn't buy),
   and **Muntadhir gifts it to the party on success** — a genuine object from
   the other side to pull on later.
+- **Party state / food & rats.** The party **hasn't eaten today**; they cast
+  **Goodberry** last night and have some **left over**, and they're hauling
+  **20 dead rats** they need to **process and dry** before the meat spoils.
+  Muntadhir's pre-ritual *"have you eaten?"* prompt is the nudge to sort
+  food out before the crossing (they'll want their strength). The al Qahtani
+  **house sits just outside the gated old-elf quarter** in a good district
+  (new-money merchants, not old elite), with a **kitchen garden** that feeds
+  the morning-after **breakfast** — all now in
+  [the-dream-quest.md](../encounters/the-dream-quest.md).
 
 ---
 
@@ -208,8 +223,12 @@
 - [ ] **The mill meeting** — build it (no writeup yet) and decide how the
       party plays it: intercept, observe, or ambush **V.**, the
       [First Foundation](../lore/the-first-foundation.md)'s Maalm agent
-      (`[OPEN]` who V. is). First contact with Preem's rivals — and the
-      watch may already have warned them.
+      (`[OPEN]` who V. is). First contact with Preem's rivals. **Time race:**
+      the Dream Quest is tonight and it's mid-morning — if the party is too
+      slow, **Ratatat warns V.** and the mill turns up empty.
+- [ ] **Process the 20 rats** — dry/cure the meat before it spoils (the
+      rat-meat prop), and get the party fed (leftover Goodberries + a real
+      meal) before the ritual.
 - [ ] **Run the Dream Quest** — now hired (by Ali) at the al Qahtani shop;
       resolve Aniess's resurrection suspicion in play. Pre-dream house scene
       is now prepped — the **house-as-museum**, **Muntadhir's tour** (the
