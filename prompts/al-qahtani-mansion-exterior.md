@@ -2,42 +2,34 @@
 
 *Image-generation prompt, kept verbatim. Establishing shot of the al Qahtani
 merchant house for the [Dream Quest](../encounters/the-dream-quest.md) — a
-lavishly gardened merchant mansion in the terraced, self-feeding desert city
-of Maalm, sitting just below the gated old-elf quarter.*
+lavishly gardened merchant mansion in the flat, green, self-feeding desert
+city of Maalm, just outside the gated old-elf quarter. Framed close on the
+house (flat city, no hills), to match the other Maalm images and maps.*
 
 ---
 
 Title: The al Qahtani Mansion — Exterior
 
-Create a single establishing shot of a wealthy merchant mansion in a terraced desert city that feeds itself by intensive agriculture. Realistic painterly fantasy concept art, warm daylight, a location reference for a tabletop campaign. Three-quarter view showing the front facade and one full side of the building.
-
-THE CITY
-
-The city is Maalm — an old, dry, coastal stronghold modeled on Petra, built of pale limestone and sandstone in tiers up a hillside. It is a desert city, but NOT a bare or barren one: it survives by growing its own food inside the walls, so it is heavily CULTIVATED and green wherever people can afford to farm. Terraced gardens and fields are worked into the stone at every level — vines, fruit trees, herbs, and greens in tiered planters and terraces, with thin channels of water threading down through them. Green is common here among the well-off, not rare; the desert is held off by work.
-
-Higher up the slope, behind and above the mansion, rises a GATED UPPER QUARTER — high walls, closed gates, and behind them the deepest, shadiest private gardens of all, belonging to the old ruling families. The mansion sits just BELOW and OUTSIDE those gates: a good street of the merely rich, not the aristocracy.
+Create a single establishing shot centered close on a wealthy merchant mansion in the city of Maalm. Realistic painterly fantasy concept art, warm daylight, a location reference for a tabletop campaign. Three-quarter view showing the front facade and one full side of the building, with the mansion filling most of the frame.
 
 THE MANSION
 
-A large, walled merchant house of pale dressed stone — flat roofs, arched windows, an arched gated entrance. It is one of the richly gardened houses of the city, and a lavish one: gardens spill from the rooftop and cascade down every side, terraced top to bottom, worked for food as much as beauty. It fits the green city around it — it is simply an especially wealthy example, not a lone oasis. Affluent and well-kept, but clearly not one of the ancient noble estates behind the gates above it. New money, not old blood.
+A large, walled merchant house of pale dressed stone — flat roofs, arched windows, an arched gated entrance. The exterior is refined MAALM ELVEN stonework: pale dressed stone, gracefully carved arches, slender columns, fine lattice screens and carved shutters, elegant and restrained.
 
-ARCHITECTURE
+It is a lavishly gardened house: gardens spill from the rooftop and cascade down every side of the building, worked for food as much as beauty — vines, fruit trees, herbs, and greens in tiered stone planters along the walls, with thin channels of water threading down through them. Affluent and well-kept: new money, not old blood.
 
-The exterior is refined MAALM ELVEN stonework: pale dressed stone, gracefully carved arches, slender columns, fine lattice screens and carved shutters, elegant and restrained.
+THE SETTING
 
-DETAILS
-
-- Small birds in the greenery; far below and beyond the lower city, the glint of a harbor and dark water.
-- The stone is warm-lit; the gardens are vivid against it.
+The city of Maalm is FLAT — level ground, no hills or slopes. It is a dry desert city of pale limestone and sandstone that feeds itself by intensive agriculture, so it is green and cultivated wherever people can afford to farm. Keep the framing close on the mansion: just the house and a little of the flat neighboring street and its gardens. Do NOT show a hillside, tiers stepping down a slope, a distant cityscape, high walls rising behind, or the sea.
 
 COLOR PALETTE
 
-Pale limestone, sandstone, warm ochre, and dust for the stonework; vivid living greens with flowering reds, violets, and golds for the terraces and cascading gardens throughout the city and the house; blue-green water accents; a high, clear sky.
+Pale limestone, sandstone, warm ochre, and dust for the stonework; vivid living greens with flowering reds, violets, and golds for the gardens cascading down the house; blue-green water accents; a high, clear sky.
 
 MOOD
 
-Wealthy, prosperous, quietly abundant — a well-to-do merchant house in a hard-working, green-terraced city. An establishing shot of a place, not an action scene.
+Wealthy, prosperous, quietly abundant — a well-to-do merchant garden-house on a flat city street. An establishing shot of a place, not an action scene.
 
 GENERAL COMPOSITION
 
-Single establishing exterior shot, three-quarter angle. The mansion centered; the gated upper quarter and its walls rising behind it; the terraced, cultivated city stepping down the hillside around it and a glimpse of the sea below. The image should read: a lavishly gardened, wealthy merchant house, terrace over terrace, in a green desert city that feeds itself — sitting just below the gated quarter of the old elite.
+Single establishing exterior shot, three-quarter angle, zoomed in with the mansion filling most of the frame. Flat ground, no hills, no distant skyline. The image should read: a lavishly gardened, wealthy Maalm-elven merchant house, its gardens spilling down its walls, on level ground in a green desert city.
