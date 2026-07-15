@@ -21,9 +21,12 @@ THE MANSION
 
 A large, walled merchant house of pale dressed stone — flat roofs, arched windows, an arched gated entrance. It is one of the richly gardened houses of the city, and a lavish one: gardens spill from the rooftop and cascade down every side, terraced top to bottom, worked for food as much as beauty. It fits the green city around it — it is simply an especially wealthy example, not a lone oasis. Affluent and well-kept, but clearly not one of the ancient noble estates behind the gates above it. New money, not old blood.
 
+ARCHITECTURE
+
+The exterior is purely MAALM ELVEN — refined elven stonework: pale dressed stone, carved arches, slender columns, fine lattice screens and shutters. NO Egyptian or ancient-empire motifs anywhere on the outside. (The family's collection of relics is an interior surprise, unseen from the street.)
+
 DETAILS
 
-- Flanking the arched front entrance, a few pieces of ancient EGYPTIAN-STYLE statuary from a long-dead empire — a weathered jackal-headed Anubis figure, funerary bronzes — displayed as a rich collector's flourish.
 - Small birds in the greenery; far below and beyond the lower city, the glint of a harbor and dark water.
 - The stone is warm-lit; the gardens are vivid against it.
 
