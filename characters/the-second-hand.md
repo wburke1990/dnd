@@ -110,6 +110,91 @@ flat. Tune races/classes to taste.
   shield, which makes Pell the natural answer to *who dies* if a rescue ever has
   to cost the Second Hand a member. Warm, blunt, jokes while stitching.
 
+## Combat stats — running the crew in a fight
+
+`[loose]` Compact allied blocks so the GM can run all five fast without a
+monster manual open. Tuned as **level 3–4 equivalents** — a step past a
+level-2/3 party, "a little more weathered," per the snapshot — for the
+[docks fight](../encounters/docks-departure.md) and any time the alliance
+fights beside the party. Each carries a **ranged option** on purpose: their
+signature move at the docks is a **surprise volley from Cassia's boat**, so
+every member can open at range before closing. Round the numbers to taste.
+
+### Captain Cassia Roan — battle-captain
+
+*Human, leader.* **AC 18** (chain mail, shield) · **HP 39** · **Speed 30 ft.**
+· **Init +2**
+
+- **Multiattack.** Two melee attacks, or one ranged.
+- **Longsword** +6, 8 (1d8 + 4) slashing.
+- **Heavy Crossbow** +5, 8 (1d10 + 3) piercing — her surprise-round opener.
+- **Tactician (Bonus Action).** One ally Cassia can see may use its **reaction**
+  to move up to half its speed or make one weapon attack. This is how she
+  "decides who the crew spends itself for" at the table — she buys the party a
+  free move toward the boat.
+
+### Halvard Stone — shieldbearer
+
+*Suartleheim dwarf, paladin — the body that takes the hit.* **AC 20** (plate,
+shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
+
+- **Warhammer** +6, 9 (1d8 + 4) bludgeoning. Once per short rest he can pour a
+  **smite** into a hit: +9 (2d8) radiant.
+- **Javelin** +6, 8 (1d6 + 4) piercing, thrown 30/120 — what he throws in the
+  opening volley before he can reach anyone.
+- **Guardian (Reaction).** When an ally within 5 ft. is hit, Halvard makes
+  himself the target instead and takes the hit. He plants in the breach; this is
+  the whole point of him.
+- **Lay on Hands.** A pool of **15 HP**; touch an ally (or himself) to spend any
+  amount as an action.
+
+### Nuru — valley mage
+
+*Valley-born tomb-warden line, keeper of the split-rune.* **AC 12** · **HP 27**
+· **Speed 30 ft.** · **Init +2**
+
+- **Fire Bolt (cantrip)** +6, 11 (2d10) fire, range 120 ft. — her surprise-round
+  opener, and her main attack all fight.
+- **Spells (3 slots, use freely and forget the bookkeeping):** *Magic Missile*
+  (auto-hit, 3×[1d4+1] force); *Scorching Ray* (three rays, +6, 7 [2d6] fire
+  each); *Web* or *Grease* to wall off a wave and cover the run to the boat;
+  *Shield* as a reaction; *Mage Armor* pre-cast (already in her AC 12 → 15 if
+  she has a moment before the fight — call it AC 15 at the docks, she saw them
+  coming).
+- **The split-rune.** Nuru holds the party's half of the
+  [anti-TPK signal](#the-alliance--and-the-anti-tpk-lever); at the docks she
+  hands it over if it hasn't changed hands yet.
+
+### Corvin Lark — scout & face
+
+*Half-elf, the crew's eyes and bow.* **AC 15** (studded leather) · **HP 30** ·
+**Speed 30 ft.** · **Init +4**
+
+- **Multiattack.** Two ranged, or two melee.
+- **Longbow** +6, 7 (1d8 + 3) piercing, range 150/600 — the crew's best gun in
+  the opening volley.
+- **Shortsword** +6, 6 (1d6 + 3) piercing.
+- **First Shot (once per turn).** When Corvin hits a creature that **hasn't
+  acted yet this combat** (everything, on the surprise round) or a creature he
+  has advantage against, add +7 (2d6) to the damage. He is the volley's biggest
+  hit — one guard usually drops before initiative is even rolled.
+- **Cunning Action (Bonus Action).** Dash, Disengage, or Hide.
+
+### Pell — field-medic
+
+*Human, Life-domain healer — the crew's heart and the hands that stabilize.*
+**AC 14** · **HP 27** · **Speed 30 ft.** · **Init +1**
+
+- **Sacred Flame (cantrip).** Target makes a **DC 13 Dex save** or takes 9
+  (2d8) radiant, range 60 ft. — no attack roll, so it opens the volley cleanly.
+- **Healing Word (Bonus Action, range 60 ft.):** an ally regains 1d4 + 3 HP.
+  **Cure Wounds (touch):** 2d8 + 3 HP. Roughly four heals' worth across a fight.
+- **Stabilize (Bonus Action).** Pell can stabilize a downed ally within reach
+  without a check. In fiction this is how the
+  [anti-TPK lever](#the-alliance--and-the-anti-tpk-lever) works — Nuru reads the
+  flare, Pell does the saving. **No PC dies at the docks;** if one goes down,
+  Pell is why they wake up on the boat.
+
 ## How they meet — the ambush that bonds them
 
 `[settled]` Full encounter: **[The Second Hand Ambush](../encounters/the-second-hand-ambush.md).**
