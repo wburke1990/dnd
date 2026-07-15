@@ -66,6 +66,18 @@
   family's late father, Ghassan.
 - **Aniess suspected the family was really after a resurrection** and ran
   **Insight checks.**
+- **Aniess rolled a natural 20.** She read that **Ali means her no harm**,
+  but is **hiding something** — and that **the ritual already failed for Ali
+  and Muntadhir**, for a reason Ali isn't giving. (DM gave a lot on the
+  crit.)
+
+## The docks, tomorrow
+
+- The **Second Hand** offered to meet the party at the **docks tomorrow at
+  9 AM**, as they're departing. If it goes clean, that's where the
+  **split-rune exchange** happens — arming the alliance.
+- **Cassia** is leaving Maalm by boat. A run-in with the **city guards** may
+  hit before she gets aboard.
 
 ---
 
@@ -95,10 +107,15 @@
   whether that was a **deliberate play** (tail the escort, let the network
   relax) or a miss. Either way the **sham arrest landed exactly as
   written.**
-- **The Second Hand alliance is live.** `[confirm]` Did **Nuru hand over
-  the split-glyph** — the "break it when you're dying" token that arms the
-  [anti-TPK lever](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever)?
-  If so, the party now holds it. If not, it's the obvious next beat.
+- **The Second Hand alliance is live — and the handoff has a time and
+  place.** The **split-rune** (the "break it when you're dying" token that
+  arms the [anti-TPK lever](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever))
+  wasn't exchanged in the square; the crew set a **dockside meet, tomorrow
+  9 AM**, as everyone's departing. **Cassia is fleeing Maalm by boat**
+  (matches her "leaving the city / fears for her life") — so the docks can
+  double as a **city-guard confrontation** before she's aboard, with the
+  party choosing whether to cover her exit. The rune changes hands there if
+  it stays clean.
 - **Cassia's backstory reached the table.** Corrupt watch, leaving the
   city, fears for her life — this tracks her written history (**ex–Maalm
   watch, forced out and blacklisted for moving to expose Marcellus's
@@ -117,11 +134,19 @@
   Aniess bought line up with the ritual — the **Dream of the Blue Veil**
   incantation. Full encounter:
   [The Dream Quest](../encounters/the-dream-quest.md).
-- **Aniess's resurrection read.** She ran Insight on a hunch the al Qahtani
-  want a **resurrection**, not a passage. As written the rite is a
-  **death-rite** — shepherding Ghassan's soul to judgment, not raising him.
-  Whether the half-demon family wants more than a clean passage is a live
-  question to settle; her suspicion is a thread to lean into.
+- **Aniess's nat-20 opened a hidden thread.** She read that **Ali means her
+  no harm but is hiding something**, and — the big one — that **the rite
+  already failed for Ali and Muntadhir**, for a reason Ali is keeping back.
+  The DM leaned into the crit and handed over a lot. So the setup is now:
+  the siblings **tried this themselves and it didn't take**, and they're
+  hiring the party to do what they couldn't. `[OPEN]` **decide the reason
+  the rite failed for them** and **what Ali is hiding** — the natural hooks
+  from established lore are the siblings' **half-demon blood** (mother
+  Manizheh is a bound demon; [the children](../characters/the-children.md))
+  and Ghassan's heart at the **weighing**. This is also where Aniess's
+  **resurrection** suspicion lives: as written the Dream Quest is a
+  **death-rite** (shepherding Ghassan to judgment, not raising him), so if
+  the family wants more than a clean passage, that gap is the secret.
 
 ---
 
@@ -138,8 +163,12 @@
 - [ ] **Run the Dream Quest** — now hired (by Ali) at the al Qahtani shop;
       resolve Aniess's resurrection suspicion in play.
       [`the-dream-quest.md`](../encounters/the-dream-quest.md)
-- [ ] **Confirm the split-glyph handoff** from the Second Hand — the
-      anti-TPK token.
+- [ ] **Why the rite failed for Ali and Muntadhir / what Ali is hiding** —
+      `[OPEN]`, surfaced on Aniess's nat-20. Decide the secret (half-demon
+      blood? the weighing?) — it's the engine under the whole Dream Quest.
+- [ ] **The dockside meet — tomorrow 9 AM.** Exchange the **split-rune**
+      with the Second Hand; play the possible **city-guard clash** as
+      **Cassia** boards her boat out of Maalm.
 - [ ] Carry forward from [Session 5](session-05.md): the **"last of the
       names" scene at [Mul's tower](../characters/mul.md#scene--return-to-the-tower)**,
       now that the party is back in Maalm.

@@ -47,10 +47,13 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   of the rat meat handed over, and it let them go (David's ruling).
 - **The Second Hand alliance** (S6) — the party saved **Cassia Roan's
   crew** from the square ambush, winning a standing ally and the GM's
-  **anti-TPK lever**. `[confirm]` whether Nuru's **split-glyph** (the
-  "break it when you're dying" token) actually changed hands.
+  **anti-TPK lever**. The **split-rune** handoff is set for a **dockside
+  meet, tomorrow 9 AM**, as everyone departs — where a **city-guard clash**
+  may hit as **Cassia flees Maalm by boat**.
 - **The Dream Quest** (S6) — **Ali (Zaynab) al Qahtani** hired **Aniess** at
   the family's healing-goods shop to run the **Dream Quest**, the death-rite
   for their late father Ghassan (David sat his character Muntadhir out, so
-  the sister did the hiring). Aniess suspects a **resurrection** and ran
-  Insight. Not yet played: [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
+  the sister did the hiring). Aniess suspects a **resurrection** and rolled
+  a **nat-20** on Insight: Ali means no harm but is **hiding something**, and
+  **the rite already failed for Ali and Muntadhir** for a reason she won't
+  give (`[OPEN]`). Not yet played: [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
