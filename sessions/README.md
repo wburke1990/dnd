@@ -48,8 +48,10 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 - **The Second Hand alliance** (S6) — the party saved **Cassia Roan's
   crew** from the square ambush, winning a standing ally and the GM's
   **anti-TPK lever**. The **split-rune** handoff is set for a **dockside
-  meet, tomorrow 9 AM**, as everyone departs — where a **city-guard clash**
-  may hit as **Cassia flees Maalm by boat**.
+  meet, tomorrow 9 AM** — now a built set-piece,
+  [Departure Under Fire](../encounters/docks-departure.md): a trumped-up
+  arrest over the **20 rats**, the Second Hand wades in, waves of guards, and
+  a **flee-by-boat** as **Cassia leaves Maalm**.
 - **The Dream Quest** (S6) — **Ali (Zaynab) al Qahtani** hired **Aniess** at
   the family's healing-goods shop to run the **Dream Quest**, the death-rite
   for their late father Ghassan (David sat his character Muntadhir out, so

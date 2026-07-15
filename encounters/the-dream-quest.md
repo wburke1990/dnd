@@ -200,9 +200,22 @@ manages the party far less than he did behind the shop counter.
 the gated upper city** — not among the oldest, most powerful elven families
 behind the gates, but a comfortable street of the merely rich. The al
 Qahtani are **new-money merchants**, not old elven elite; wealthy enough for
-the address, not born to the quarter. The grounds include a **walled kitchen
-garden** that feeds the household (it pays off in the breakfast — see
-[Waking](#waking)).
+the address, not born to the quarter.
+
+**A private cistern, and gardens on every face.** They are rich enough for
+the one luxury Maalm makes almost impossible: **their own cistern**, cut
+beneath the house. The water keeps the grounds green in a dry city —
+**gardens on the roof and spilling down the sides of the mansion**, terraced
+top to bottom, fed from below. The morning-after **breakfast** comes from
+here (see [Waking](#waking)).
+
+*(DM — lore nuance. Cisterns in Maalm are **state secrets held by the
+cistern-keeper caste**, and approaching a hidden one is a killing offense
+([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)). A
+**private** cistern for a new-money merchant house is either a measure of how
+bought-in the family is, or a thread — how did outsiders come by one? — that
+rhymes with Ghassan's **old-gods-underground** legend and the tunnel network
+under the city. Use it as a hook; leave it `[OPEN]`.)*
 
 The house is shelved and hung like a museum. Relics of the **Amseh
 dynasty** — the fallen empire whose gods the party met in the Valley of the

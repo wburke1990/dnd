@@ -244,9 +244,13 @@
 - [ ] **Lucrecia** — new elite-caste contact. **Sarric owes a healing
       potion** he took 50 gp for and never bought; **Aniess snubbed her.**
       `[OPEN]` her tie to the [Second Foundation](../lore/the-second-foundation.md).
-- [ ] **The dockside meet — tomorrow 9 AM.** Exchange the **split-rune**
-      with the Second Hand; play the possible **city-guard clash** as
-      **Cassia** boards her boat out of Maalm.
+- [ ] **The docks — tomorrow 9 AM.** Run
+      [Departure Under Fire](../encounters/docks-departure.md): the
+      split-rune handoff turns into a **trumped-up arrest** (illegal export
+      of the **20 rats**), the **Second Hand** wades in, and **waves** of
+      guards push the party to **flee by boat** with **Cassia**. The guards
+      carry Ratatat's payback (*"Ratatat sends his regards"*; bribe price =
+      *"two fingers"*).
 - [ ] Carry forward from [Session 5](session-05.md): the **"last of the
       names" scene at [Mul's tower](../characters/mul.md#scene--return-to-the-tower)**,
       now that the party is back in Maalm.
