@@ -194,6 +194,69 @@ manages the party far less than he did behind the shop counter.
 *(Ali/Zaynab, opening the door:)*
 *"You came. He said you might not."* *(stepping back to let them in)* *"He's through here. Mind your voices."*
 
+## The House — a Museum of the Dead Empire
+
+The house is shelved and hung like a museum. Relics of the **Amseh
+dynasty** — the fallen empire whose gods the party met in the Valley of the
+Kings — fill the rooms: carved fragments, funerary bronzes, glazed figures
+of the jackal, the ibis, the falcon. Ghassan bought them across a lifetime
+of trade. The grieving family lives among the dead empire's things.
+
+Lay the museum on and let the party wander. It is the setting for the tour,
+and for the one relic that matters.
+
+## The Tour — Muntadhir Walks Them Through
+
+Before the rite, **Muntadhir** takes the party through the house. Here he is
+on safe ground — this is the dead **father**, not the family's secret — so
+he gives freely what he guarded at the shop, and volunteers the background.
+(If David is away, the other DM voices him.)
+
+He talks about his father's faith. Ghassan kept the **old gods** — the gods
+of the Amseh empire, the ones on the tomb walls: Osiris, Anubis, Thoth. He
+was one of the last few in Maalm who still kept that worship, and maybe the
+last in the city.
+
+*(Muntadhir, at a shelf of Amseh bronzes:)*
+*"He kept the old faith. The empire's gods — the ones on the tomb walls, if you've seen them. Hardly anyone does now; the gods went quiet a long time ago. My father may have been the last man in Maalm who lit anything for them."*
+
+Then the legend of how the worship lasted: after the empire starved, through
+the dark centuries before Maalm was built, the faithful went **underground**
+— into the tunnels beneath what would become the city — kept the rites in
+the dark, and came back up when Bedraageon raised Maalm over the deep.
+
+*(Muntadhir:)*
+*"The way he told it: when the empire fell and the gods didn't answer, the ones who still believed went down. Into the tunnels — the ones under the city now, the ones nobody's allowed near. They kept the faith down there the better part of a thousand years, and walked back into the light when the Twelve built Maalm on top of them. That's the legend. He believed it."*
+
+*(DM note — grounding & what's new. The pantheon is canon as the dead
+**Amseh** religion ([amseh-dynasty.md](../lore/amseh-dynasty.md)); the
+Dark-Age gap between Amseh's fall and Bedraageon founding Maalm ~4,000 years
+ago is canon ([maalm-founding.md](../lore/maalm-founding.md)), as is the
+**tunnel network** beneath the city — the water works, **Ammit's tomb**, and
+the Abyss below ([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)).
+**New here** (improvised, not yet written elsewhere): calling it "the old
+gods," any **living/last worship** of these gods in Maalm, and **people
+surviving underground** through the Dark Age — canon frames the deep as
+forbidden and lethal with no resident population, so keep the underground
+survival as **legend Ghassan believed**, not fact. It seeds the under-city /
+Ammit's-tomb thread; use it, don't harden it yet.)*
+
+## The Small Anubis — What the Rite Requires
+
+The **Dream of the Blue Veil** needs **something from the other plane** to
+open the way. The family has one thing that answers: a **small statue of
+Anubis**, jackal-headed, no bigger than a hand, kept with the ritual things.
+Muntadhir points it out — it is the **only piece in the house his father did
+not buy.** Where it came from, the father would only say it came from the
+other side of the veil.
+
+*(Muntadhir, lifting the little jackal-headed figure:)*
+*"Everything here he bought — every piece, I could give you the trader and the price. Except this. This one he never would say. Only that it came from no market. That it came from the other side."*
+
+Keep the statue's provenance ambiguous; don't explain it. It is the spell's
+other-plane focus, and its payoff is the gift at the end — see
+[The Reward](#the-reward).
+
 ## What They Actually Know — Almost Nothing
 
 This is the crux of the scene. **No one living has made this crossing** —
@@ -297,7 +360,8 @@ spellbook is beside him; his staff leans against the wall near his head
 (both are given up in the dream, at Gate Four). On the windowsill,
 arranged carefully: doll-sized white robes and a tiny toy ship — what the
 party will wake wearing and sailing, though no one in this house knows
-that. The children placed them as they were told. They don't explain
+that. Set with them, the **small Anubis statue** — the one thing the father
+did not buy. The children placed them all as they were told. They don't explain
 unless asked:
 
 *"It is how we were told to prepare for the crossing."*
@@ -318,8 +382,9 @@ the living.
 ## Casting the Spell
 
 The party recites the poem to cast; it takes ten minutes. The children
-prepare the room — candles, the body, the robes and the ship. When the
-spell takes hold the party falls unconscious. A curse active on any party
+prepare the room — candles, the body, the robes and the ship, the **small
+Anubis** set at the center as the thing from the other side that opens the
+way. When the spell takes hold the party falls unconscious. A curse active on any party
 member pauses for the duration of the dream and resumes when they wake.
 
 ---
@@ -759,6 +824,17 @@ The children honor the bargain in full:
 - Spell components at cost
 - A safe house in the city
 - Their personal assistance, once each, if the party calls for it
+
+**The small Anubis.** If the rite lands, **Muntadhir gives the party the
+little jackal-headed statue** — the one piece his father never bought, the
+thing from the other side that opened the way. He doesn't need it anymore.
+
+*(Muntadhir, pressing it into a hand:)*
+*"Take it. It did what it was for. Wherever it came from — it's done here."*
+
+Keep the statue's provenance unexplained. It is a standing prop the party
+now carries: a genuine object from the other plane, and a thread to the
+under-city and the old gods whenever you want to pull it.
 
 The party levels up to level 2.
 

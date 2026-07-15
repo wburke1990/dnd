@@ -74,6 +74,8 @@
   Muntadhir: **Ali hired Aniess to perform the
   [Dream Quest](../encounters/the-dream-quest.md)** — the death-rite for the
   family's late father, Ghassan.
+- Aniess asked whether she should **bring anything to the ritual.** Ali:
+  **"Bring a pillow."**
 - **Aniess suspected the family was really after a resurrection** and ran
   **Insight checks.**
 - **Aniess rolled a natural 20.** She read that **Ali means her no harm**,
@@ -180,6 +182,21 @@
   their misread of the rock-man; the point is the mirror: a man who *looks*
   soulless but dreams, beside two ensouled siblings who can't.) This is the
   clean way to expose what Aniess's nat-20 already caught.
+- **Dream Quest house prep fleshed out** (in
+  [the-dream-quest.md](../encounters/the-dream-quest.md)): the al Qahtani
+  house is now an **Egyptian-museum of Amseh relics**; **Muntadhir gives a
+  tour** before the rite, dropping his father's **old-gods worship** (last
+  believer in Maalm) and the **legend that the faithful survived the Dark
+  Age underground** in the tunnels the city was later built over — which
+  seeds the **under-city / Ammit's-tomb** thread (kept as *legend*, since
+  canon frames the deep as lethal and empty). Muntadhir was chosen for the
+  tour partly because **David sat him out today**, so he's fresh for it. A
+  **house map** (museum layout) was found — drop the image into `maps/` when
+  ready.
+- **The small Anubis statue is now a live prop.** It's the Dream of the Blue
+  Veil's **other-plane component** (the one relic the father didn't buy),
+  and **Muntadhir gifts it to the party on success** — a genuine object from
+  the other side to pull on later.
 
 ---
 
@@ -194,8 +211,11 @@
       (`[OPEN]` who V. is). First contact with Preem's rivals — and the
       watch may already have warned them.
 - [ ] **Run the Dream Quest** — now hired (by Ali) at the al Qahtani shop;
-      resolve Aniess's resurrection suspicion in play.
-      [`the-dream-quest.md`](../encounters/the-dream-quest.md)
+      resolve Aniess's resurrection suspicion in play. Pre-dream house scene
+      is now prepped — the **house-as-museum**, **Muntadhir's tour** (the
+      father's old-gods faith + the underground-survival legend), the
+      **small Anubis** as the other-plane component, and the **statue gift**
+      on success. [`the-dream-quest.md`](../encounters/the-dream-quest.md)
 - [ ] **What Ali is hiding, and when it surfaces** — the rite failed for
       the siblings because **they don't dream** (canon: the door of sleep);
       `[OPEN]` is how much Ali admits and whether there's a deeper aim
