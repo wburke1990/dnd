@@ -2,22 +2,25 @@
 ## A D&D Encounter — Maalm, the harbor, ~9 AM (the morning after the square)
 
 > The party comes to the **docks at 9 AM** to see the
-> **[Second Hand](../characters/the-second-hand.md)** off and take the
-> **split-rune** — the
-> [anti-TPK token](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
-> **Captain Cassia Roan** is leaving Maalm by boat, one step ahead of the
-> corrupt watch. The watch gets there first.
+> **[Second Hand](../characters/the-second-hand.md)** off. **Captain Cassia
+> Roan** is leaving Maalm by boat, one step ahead of the corrupt watch — and the
+> watch gets there first. Fighting the ambush off beside the crew is what
+> **earns** the party the
+> **[split-rune](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever)**,
+> the crew's anti-TPK lifeline — handed over afterward, if everyone lives.
 
 ---
 
 # OVERVIEW
 
-The split-rune handoff is the reason the party comes; the **guard ambush** is
-what the scene turns into. Ratatat's watch — the same rot from
+A quiet send-off is what the party comes for; the **guard ambush** is what it
+turns into. Ratatat's watch — the same rot from
 [the square](the-second-hand-ambush.md) — moves to **arrest the party on
 trumped-up charges**, the Second Hand **opens fire from the boat** the moment it
 turns violent, and it becomes a running fight the party is meant to **break off
-and flee by boat**, not win outright.
+and flee by boat**, not win outright. Surviving it together is what **earns the
+split-rune:** the crew hasn't so much as mentioned it, and hands it over in the
+aftermath — not before.
 
 Run it after the [Dream Quest](the-dream-quest.md) night, at dawn, as
 everyone is leaving.
@@ -27,7 +30,8 @@ everyone is leaving.
 # THE SETUP
 
 - The docks at 9 AM. Cassia's boat is loading; the party has come to see her
-  off and take the split-rune.
+  off. The **split-rune isn't on the table** — the crew hasn't raised it, and
+  the party isn't there to collect anything.
 - The crooked guards are already there. This is **Ratatat's payback** for the
   square — the interrogation, and the two fingers.
 
@@ -113,10 +117,9 @@ because they're 40–60 ft. off and can't reach melee yet.**
   is **not** meant to be won by attrition; the escalation exists to make
   **running the smart call**. Wave schedule and counts: the dials below.
 - **The out is the boat.** Cassia's vessel is the exit. Party, Second Hand, and
-  Cassia break off and get aboard; the **split-rune changes hands** here if it
-  hasn't already. **Casting off is the win condition,** not a body count. Let the
-  players feel the pull — every round on the dock is another wave; the boat is
-  right there.
+  Cassia break off and get aboard. **Casting off is the win condition,** not a
+  body count. Let the players feel the pull — every round on the dock is another
+  wave; the boat is right there.
 - **Pack Tactics is the pressure.** A lone guard is nothing; three on one PC
   hit with advantage and hurt. That math is what makes a static line lose and
   a fighting retreat win — reward peeling guards apart, choking the pier,
@@ -153,7 +156,13 @@ Same fight, two dials. Party of 5 plus the four Second Hand allies either way.
 
 # AFTERMATH
 
-- Cassia is out of Maalm; the **alliance is armed** (split-rune handed over).
+- **The split-rune is earned.** Clear of the harbor with everyone alive, Cassia
+  gives the nod and **Nuru splits a scrying-glyph,** handing the party half — the
+  crew's [anti-TPK lifeline](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
+  *"Break it when you're dying. If we can reach you, we will."* The party fought
+  for the crew a second time and held; this is the debt paid back. (A PC who
+  dropped and was hauled aboard still counts — no one died, so the gift lands.)
+- Cassia is out of Maalm; the **alliance is armed.**
 - The corrupt watch is now **openly the party's enemy**, and Ratatat has
   spent his guards to make the point — a reason to be careful at the gates
   from here on.
@@ -171,4 +180,5 @@ Same fight, two dials. Party of 5 plus the four Second Hand allies either way.
 - [ ] Decide whether **Cassia** takes a farewell hit here (she's fleeing for
       her life; a close call sells it) — keep her alive, per the anti-TPK
       design.
-- [ ] Confirm the **split-rune** changes hands before the boat casts off.
+- [ ] Hand over the **split-rune** in the **aftermath** — earned by surviving
+      the fight together, not offered before it (the crew hasn't raised it yet).

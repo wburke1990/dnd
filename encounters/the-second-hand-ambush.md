@@ -41,8 +41,9 @@ The encounter has three beats:
    runs the instant the fight stops being easy; the corrupt guards are the real
    combat — and if the party **pins** the rat man instead of letting him flee,
    the guards move to **"arrest" him** out of their hands (see Running the Fight).
-3. **The aftermath.** A saved crew, a debt, and the **split-glyph** that arms
-   the alliance.
+3. **The aftermath.** A saved crew and a debt struck. The **split-glyph** that
+   arms the alliance comes later — handed over at
+   [the docks](docks-departure.md), earned there.
 
 ---
 
@@ -157,20 +158,24 @@ take — diverge, and that's the point:
 
 ---
 
-# AFTERMATH — ARMING THE ALLIANCE
+# AFTERMATH — STRIKING THE ALLIANCE
 
 If the party saves them:
 
 - **The debt is explicit.** Cassia doesn't gush; she **takes stock and offers a
   trade.** Two of Preem's crews are better than one against whatever's hunting
   them.
-- **The split-glyph.** Nuru splits a **scrying-glyph** (token / shard / chalked
-  stone — your call) and hands the party half: *"Break it when you're dying. If
-  we can reach you, we will."* This is the **anti-TPK lever** — full rules,
-  limits, costs, and the climax inversion are in
-  [The Second Hand → The alliance](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
-  The short version: **not a teleport** (reach governs whether they can come),
-  **every arrival costs them,** and the alliance runs **both ways.**
+- **The alliance struck — but not the token yet.** Cassia sets the terms; the
+  **split-glyph doesn't change hands here.** The crew sets a **dockside meet** to
+  hand it over ([Departure Under Fire](docks-departure.md)), where the party
+  **earns** it by fighting the watch off a second time. The mechanic when it
+  lands: Nuru splits a **scrying-glyph** (token / shard / chalked stone — your
+  call) and gives the party half — *"Break it when you're dying. If we can reach
+  you, we will."* — the **anti-TPK lever** (full rules, limits, costs, and the
+  climax inversion in
+  [The Second Hand → The alliance](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever)):
+  **not a teleport** (reach governs whether they can come), **every arrival costs
+  them,** and the alliance runs **both ways.**
 - **The hooks open.** The corrupt watch, the rat man's hold on the gate, Nuru's
   unease about the tombs — all live threads from here. See the
   [crew's encounter hooks](../characters/the-second-hand.md#encounter-hooks).

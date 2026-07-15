@@ -153,9 +153,10 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
   *Shield* as a reaction; *Mage Armor* pre-cast (already in her AC 12 → 15 if
   she has a moment before the fight — call it AC 15 at the docks, she saw them
   coming).
-- **The split-rune.** Nuru holds the party's half of the
-  [anti-TPK signal](#the-alliance--and-the-anti-tpk-lever); at the docks she
-  hands it over if it hasn't changed hands yet.
+- **The split-rune.** Nuru is keeper of the
+  [anti-TPK signal](#the-alliance--and-the-anti-tpk-lever); it hasn't changed
+  hands yet, and she splits the glyph for the party **after** the docks fight,
+  once they've come through it beside the crew.
 
 ### Corvin Lark — scout & face
 
@@ -217,10 +218,11 @@ Why it works:
 🔒 **GM-facing.** This is the mechanic the whole writeup exists to serve: a
 **soft safety valve against a total-party-kill** that doesn't defang the stakes.
 
-- `[loose]` **The signal.** Grateful (and on Cassia's order), **Nuru splits a
-  scrying-glyph** and gives the party half — a shard of chalked stone, a paired
-  token, whatever fits your table. *"Break it when you're dying. If we can
-  reach you, we will."* When the party shatters their half, Nuru's half
+- `[loose]` **The signal.** Grateful — and having watched the party fight for
+  them a second time — **Nuru splits a scrying-glyph** and gives the party half
+  at [the docks departure](../encounters/docks-departure.md): a shard of chalked
+  stone, a paired token, whatever fits your table. *"Break it when you're dying.
+  If we can reach you, we will."* When the party shatters their half, Nuru's half
   **flares,** wherever the Second Hand is.
 - `[settled]` **It is not a teleport — reach is the governor.** The cavalry can
   only come if they're **plausibly within reach** (same region, a hard day's
@@ -256,7 +258,8 @@ Why it works:
 
 1. **The rescue (first contact)** — [The Second Hand Ambush](../encounters/the-second-hand-ambush.md).
    The party saves a dying crew, drives off the rat man, and breaks a knot of
-   corrupt guards. Ends with Nuru's split-glyph and a standing alliance.
+   corrupt guards. Ends with a standing alliance; the split-glyph itself is
+   **earned later,** at [the docks departure](../encounters/docks-departure.md).
 2. **Crossed paths in the tombs** — the two crews are working the **same Valley
    of the Kings** from different ends. A wrinkle, a race, or a mutual bail-out
    deep underground. ("Rival groups, or the scattered remains of their bodies,"

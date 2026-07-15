@@ -86,8 +86,9 @@
 ## The docks, tomorrow
 
 - The **Second Hand** offered to meet the party at the **docks tomorrow at
-  9 AM**, as they're departing. If it goes clean, that's where the
-  **split-rune exchange** happens — arming the alliance.
+  9 AM**, as they're departing — a send-off. The crew **hasn't raised the
+  split-rune** with the party; the plan is to hand it over there, and the
+  dockside fight is what **earns** it.
 - **Cassia** is leaving Maalm by boat. A run-in with the **city guards** may
   hit before she gets aboard.
 
@@ -245,12 +246,12 @@
       potion** he took 50 gp for and never bought; **Aniess snubbed her.**
       `[OPEN]` her tie to the [Second Foundation](../lore/the-second-foundation.md).
 - [ ] **The docks — tomorrow 9 AM.** Run
-      [Departure Under Fire](../encounters/docks-departure.md): the
-      split-rune handoff turns into a **trumped-up arrest** (illegal export
-      of the **20 rats**), the **Second Hand** wades in, and **waves** of
-      guards push the party to **flee by boat** with **Cassia**. The guards
-      carry Ratatat's payback (*"Ratatat sends his regards"*; bribe price =
-      *"two fingers"*).
+      [Departure Under Fire](../encounters/docks-departure.md): a **send-off**
+      turns into a **trumped-up arrest** (illegal export of the **20 rats**),
+      the **Second Hand opens fire from the boat**, and **waves** of guards push
+      the party to **flee by boat** with **Cassia**. Surviving it **earns the
+      split-rune** (handed over after). The guards carry Ratatat's payback
+      (*"Ratatat sends his regards"*; bribe price = *"two fingers"*).
 - [ ] Carry forward from [Session 5](session-05.md): the **"last of the
       names" scene at [Mul's tower](../characters/mul.md#scene--return-to-the-tower)**,
       now that the party is back in Maalm.
