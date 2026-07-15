@@ -9,7 +9,7 @@
 > Cassia Roan wore this badge before her sergeant **Marcellus** ran her out for
 > naming the racket (see [the Second Hand](../characters/the-second-hand.md)).
 >
-> Built for **5 PCs at level 2–3, D&D 2024 rules,** fighting **with** the five
+> Built for **5 PCs at level 2–3, D&D 2024 rules,** fighting **with** the four
 > Second Hand allies. See the [docks encounter](../encounters/docks-departure.md)
 > for wave counts and the level-2 vs level-3 dials.
 >

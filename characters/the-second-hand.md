@@ -39,8 +39,9 @@
 
 ## The crew
 
-Five members, sketched so you can run them fast and lose one without it landing
-flat. Tune races/classes to taste.
+Four members, sketched so you can run them fast and lose one without it landing
+flat. Tune races/classes to taste. The crew has **no dedicated healer** —
+in-combat mending falls to Halvard's Lay on Hands.
 
 - `[settled]` **Captain Cassia Roan** — **human** fighter / battle-captain, the
   crew's leader. **Ex–Maalm citadel watch:** she wore the same badge the corrupt
@@ -99,20 +100,9 @@ flat. Tune races/classes to taste.
   he's the one who took the coin to **look the other way** while the Second Hand
   walked into the trap. Charming, transactional, never quotes a
   straight price; in his trade, trust gets you killed.
-- `[loose]` **Pell** — **human field-medic** (Life-domain hedge-cleric or
-  herbalist), the crew's **healer and its heart.** Learned medicine tending the
-  dying in **Maalm's poorhouses,** and knows death too well to be easy about the
-  job: *you don't rob a corpse of the last thing it still owns* — a second
-  conscience for the crew, angled away from Halvard's soldier's honor. In fiction
-  Pell is **how the lifeline actually works:** Nuru sees the shard flare, Pell
-  does the saving — the hands that stabilize a downed party that should have
-  wiped. The **youngest and least hardened,** the one the others instinctively
-  shield, which makes Pell the natural answer to *who dies* if a rescue ever has
-  to cost the Second Hand a member. Warm, blunt, jokes while stitching.
-
 ## Combat stats — running the crew in a fight
 
-`[loose]` Compact allied blocks so the GM can run all five fast without a
+`[loose]` Compact allied blocks so the GM can run all four fast without a
 monster manual open. Tuned as **level 3–4 equivalents** — a step past a
 level-2/3 party, "a little more weathered," per the snapshot — for the
 [docks fight](../encounters/docks-departure.md) and any time the alliance
@@ -146,7 +136,9 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
   himself the target instead and takes the hit. He plants in the breach; this is
   the whole point of him.
 - **Lay on Hands.** A pool of **15 HP**; touch an ally (or himself) to spend any
-  amount as an action.
+  amount as an action. With no medic in the crew, Halvard is also the **hands
+  that pull you back** — the [anti-TPK lever](#the-alliance--and-the-anti-tpk-lever)
+  runs through his healing and the crew hauling a downed PC aboard.
 
 ### Nuru — valley mage
 
@@ -180,20 +172,10 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
   hit — one guard usually drops before initiative is even rolled.
 - **Cunning Action (Bonus Action).** Dash, Disengage, or Hide.
 
-### Pell — field-medic
-
-*Human, Life-domain healer — the crew's heart and the hands that stabilize.*
-**AC 14** · **HP 27** · **Speed 30 ft.** · **Init +1**
-
-- **Sacred Flame (cantrip).** Target makes a **DC 13 Dex save** or takes 9
-  (2d8) radiant, range 60 ft. — no attack roll, so it opens the volley cleanly.
-- **Healing Word (Bonus Action, range 60 ft.):** an ally regains 1d4 + 3 HP.
-  **Cure Wounds (touch):** 2d8 + 3 HP. Roughly four heals' worth across a fight.
-- **Stabilize (Bonus Action).** Pell can stabilize a downed ally within reach
-  without a check. In fiction this is how the
-  [anti-TPK lever](#the-alliance--and-the-anti-tpk-lever) works — Nuru reads the
-  flare, Pell does the saving. **No PC dies at the docks;** if one goes down,
-  Pell is why they wake up on the boat.
+> **No dedicated healer.** The crew has no medic; healing falls to **Halvard's
+> Lay on Hands** (15 HP), plus **Nuru's** spare slot for *Cure Wounds* if you
+> want a second source. **No PC dies at the docks;** if one goes down, Halvard
+> and the crew are why they wake up on the boat.
 
 ## How they meet — the ambush that bonds them
 
@@ -294,13 +276,12 @@ Why it works:
 
 ## Open threads
 
-- `[OPEN]` **Final crew name** (`The Second Hand` is a proposal) and the five
+- `[OPEN]` **Final crew name** (`The Second Hand` is a proposal) and the four
   members' locked races/classes/voices.
 - `[OPEN]` **The signal's exact form and limit** — shard, token, horn; soft cap
   on rescues vs. escalating-cost model. Pick what your table will actually
   honor.
 - `[OPEN]` **Does a Second Hand member die** in a rescue, and if so **who, and
-  when** (Pell, the youngest, is the leading candidate) — the most reliable way
-  to keep the anti-TPK lever from going stale.
+  when** — the most reliable way to keep the anti-TPK lever from going stale.
 - `[OPEN]` **Climax allegiance** — do they break Preem's leash for the party, or
   not?

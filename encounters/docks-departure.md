@@ -59,8 +59,8 @@ swing.
 # THE COMBATANTS
 
 - **The party** — 5 PCs at level 2 or 3 (see the dials below).
-- **The Second Hand** — Cassia, Halvard, Nuru, Corvin, Pell, fighting beside
-  them. Compact allied stat blocks:
+- **The Second Hand** — Cassia, Halvard, Nuru, Corvin, fighting beside them.
+  Compact allied stat blocks:
   [Combat stats](../characters/the-second-hand.md#combat-stats--running-the-crew-in-a-fight).
 - **The watch** — [Maalm Watchmen](../bestiary/maalm-watch.md), one stat block
   for every guard, arriving in waves. Add the optional **Watch Sergeant**
@@ -95,10 +95,9 @@ because they're 40–60 ft. off and can't reach melee yet.**
   they roll in normally. The surprise round belongs to the crew.
 - **What the volley does.** Corvin's **First Shot** longbow (+7 damage on a
   target that hasn't acted — every guard qualifies) usually drops a watchman
-  outright. Nuru's **Fire Bolt**, Cassia's **Heavy Crossbow**, Pell's **Sacred
-  Flame** (DC 13 Dex, no roll needed), and Halvard's thrown **Javelins** finish
-  or soften two or three more. **A first wave of 5 guards comes out of the
-  surprise round at roughly half strength** — which is the point: it hands the
+  outright. Nuru's **Fire Bolt**, Cassia's **Heavy Crossbow**, and Halvard's
+  thrown **Javelins** finish or soften two more. **A first wave of 5 guards comes
+  out of the surprise round at roughly half strength** — which is the point: it hands the
   party tempo and tells them the crew is with them.
 - **Then it closes.** From round 1 on, Halvard and Cassia move to put themselves
   between the guards and the party (Halvard's **Guardian** reaction eats hits);
@@ -124,14 +123,14 @@ because they're 40–60 ft. off and can't reach melee yet.**
   shoving into the water, dropping Nuru's **Web** across the approach.
 - **Stakes, not deaths.** If the party lingers for the kill, let a later wave
   land a real cost — a wound, gear left on the dock, a mark, a PC dropped and
-  hauled aboard by Pell — **never a death,** per the
+  hauled aboard by the crew — **never a death,** per the
   [alliance rules](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
 
 ---
 
 # SCALING — LEVEL 2 vs LEVEL 3
 
-Same fight, two dials. Party of 5 plus the five Second Hand allies either way.
+Same fight, two dials. Party of 5 plus the four Second Hand allies either way.
 
 | | **Level 2 party** | **Level 3 party** |
 |---|---|---|
