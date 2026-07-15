@@ -207,7 +207,8 @@ the one luxury Maalm makes almost impossible: **their own cistern**, cut
 beneath the house. The water keeps the grounds green in a dry city —
 **gardens on the roof and spilling down the sides of the mansion**, terraced
 top to bottom, fed from below. The morning-after **breakfast** comes from
-here (see [Waking](#waking)).
+here (see [Waking](#waking)). Exterior image prompt:
+[al-qahtani-mansion-exterior.md](../prompts/al-qahtani-mansion-exterior.md).
 
 *(DM — lore nuance. Cisterns in Maalm are **state secrets held by the
 cistern-keeper caste**, and approaching a hidden one is a killing offense
