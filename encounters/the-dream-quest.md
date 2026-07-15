@@ -202,12 +202,16 @@ behind the gates, but a comfortable street of the merely rich. The al
 Qahtani are **new-money merchants**, not old elven elite; wealthy enough for
 the address, not born to the quarter.
 
-**A private cistern, and gardens on every face.** They are rich enough for
-the one luxury Maalm makes almost impossible: **their own cistern**, cut
-beneath the house. The water keeps the grounds green in a dry city —
-**gardens on the roof and spilling down the sides of the mansion**, terraced
-top to bottom, fed from below. The morning-after **breakfast** comes from
-here (see [Waking](#waking)). Exterior image prompt:
+**Gardens on every face, and a private cistern.** Like every rich house in
+Maalm, the al Qahtani grow much of their own food — **gardens on the roof
+and spilling down the sides of the mansion**, terraced top to bottom, worked
+for fruit, herbs, and greens. (Maalm feeds itself this way; the whole city is
+farmed by those who can pay to, and a garden is a mark of means — see
+[maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md#the-green-city--every-affording-house-a-farm).)
+Their particular flex is **their own cistern**, cut beneath the house, so
+their water — and their gardens — never depend on the shared allotment. The
+morning-after **breakfast** comes straight off the terraces (see
+[Waking](#waking)). Exterior image prompt:
 [al-qahtani-mansion-exterior.md](../prompts/al-qahtani-mansion-exterior.md).
 
 *(DM — lore nuance. Cisterns in Maalm are **state secrets held by the

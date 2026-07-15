@@ -213,6 +213,23 @@ to the players in the opening session). **[settled]**
   **land-rush abundance** of the new [Kurunatuka](kuru-and-the-phoenix.md) soils, and a
   reason Maalm's elite would covet them.
 
+### The green city — every affording house a farm
+- **[settled]** The food is grown **inside the walls.** Maalm feeds itself from
+  **intensive agriculture spread across the whole city** — terraced fields
+  *and* the **gardens of every household that can afford to take part.**
+  Rooftops,
+  courtyards, and terraced flanks are worked for **fruit, herbs, and greens,**
+  not ornament alone; a house's garden is both **larder and status.**
+- So a **beautiful garden is a mark of means, not a rarity.** Every rich house
+  has one — a water allotment and a share of guano cost money, so greenery is
+  the visible sign of a family wealthy enough to **buy into the cycle.** The
+  poor get little or none; the old families behind the gates keep the deepest,
+  shadiest gardens of all.
+- Maalm therefore reads **green and cultivated** — terrace over terrace, vines
+  and fruit trees worked into the stone — **not** a bare desert city. The
+  desert is held off by **work,** not absent. (So no single garden-house is an
+  "oasis"; the whole city is farmed by those who can pay to.)
+
 ### Who really holds the power
 - Control of **water (the cistern-keepers)** and **fertility (the seabird-wardens and
   guano stores)** is the **real bedrock of Maalm's hierarchy:** beneath the council and the
