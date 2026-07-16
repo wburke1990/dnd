@@ -167,15 +167,18 @@ lineage the character belongs to (§2). Status:
   the first children of the primordial dragon who became the first island). He
   **authors his own** via the tall-tales-become-canon mechanic
   ([roster](party-roster.md)) — this is the "already has his."
-- **Aniess** — born a street-urchin **elf** in Suartleheim (dragon-people),
-  then **snake-remade** by the Order via the Punt rite. `[OPEN]` She's the one
-  PC who **doesn't know her own creation story.** The inflicted transformation
-  may have rerouted her from her birth-line's sky-judgment toward the **Serpent
-  of Punt** (the snake that is an island-spirit — [roster](party-roster.md)),
-  leaving her **between two sky-courts** the way the
-  [dream-quest children](../encounters/the-dream-quest.md) were barred from the
-  Duat for being between worlds. Fits her identity arc and her demon-wife
-  mirror.
+- **Aniess** (resolved) — born a street-urchin **elf** in Suartleheim
+  (dragon-people), then **snake-remade** by the Order via the Punt rite. She is
+  the one PC who **doesn't know her own creation story** — she has to find it.
+  **The rite is not a tool.** On Punt it is a **sacred coming-of-age of the
+  naga that joins the initiate to the Serpent of Punt** — the snake that is an
+  island-spirit, a cosmic beast with its own sky-court ([roster](party-roster.md)).
+  Because it is real, it works even performed coldly, so it **did reroute her:**
+  she is now **between two sky-courts**, her birth-line's and the Serpent's, the
+  way the [dream-quest children](../encounters/the-dream-quest.md) were barred
+  from the Duat for being between worlds. The Order **weaponizing a holy rite**
+  is the same violation the campaign turns on — Aniess got the reroute with none
+  of the belonging meant to come with it. Mirrors the demon wife.
 
 ## 10. Open questions
 
