@@ -291,6 +291,11 @@ hot spot there** (see §5). The comet overhead, a volcano about to be forced, th
 fight to control the pass their own way. The cycle that opened with Taniyn *choosing* to
 become an island closes on the party *choosing* what to do with a name.
 
+**The closing poem (planned).** `[idea]` Walter de la Mare's **"Nod"** — the old shepherd
+folding his flock at nightfall — read over the very end: **the dragons returning, the
+islands sinking back into the sea,** the age folded up to sleep until the next pass. (See
+[handout placements](../handouts/README.md).)
+
 **The setpiece (planned):** a **circle-cast wizard duel** — rival teams of casters. One
 team works the **planar binding** behind an **inverted magic circle + Forcecage**, their
 defenders holding a **Prismatic Wall**; the other team races to **break in and stop the
