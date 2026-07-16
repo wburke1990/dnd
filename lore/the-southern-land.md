@@ -24,8 +24,8 @@
   the same event).
 - **The work of giants.** `[settling]` What they left behind is **great stonework standing
   empty** in the dwarves' reach — halls built too big for the people who live among them now.
-  This is the home of the Old English **"The Ruin"**: a **bard's lay or an inscription over the
-  empty halls** (excerpt and translation still to choose — see [handouts](../handouts/)).
+  This is the home of the Old English **"[The Ruin](../handouts/the-ruin.md)"**: a **bard's lay
+  or an inscription over the empty halls** (excerpt chosen — Richard Fahey's translation).
 - **The dwarves as their heirs — figuratively.** `[settling]` The dwarves inherited the giants'
   **stonecraft and their northern ground**, and stand as their **descendants in the metaphorical
   sense** — the small stone-folk keeping the great stone-folk's craft and living in their ruins.
