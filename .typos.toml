@@ -32,6 +32,7 @@ Mak = "Mak"  # place name: Ilka Mak, Noku Kurunatuka's beachhead on Musleheim
 # Archaic spellings kept verbatim inside quoted public-domain poems in
 # handouts/ (not our prose — do not "correct" the poem).
 layed = "layed"  # Ezra Pound, "The Seafarer" (1911): "The blade is layed low."
+nomes = "nomes"  # Admonitions of Ipuwer: Egyptian nomes (districts) — not "gnomes."
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.
