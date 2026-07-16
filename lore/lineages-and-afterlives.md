@@ -179,6 +179,10 @@ that PC grew up on — which we draft and **run by the player.** They map to the
 lineage the character belongs to (§2). **Pax and Aniess are the mirror pair —
 chosen vs. inflicted:**
 
+**Drafted handouts:** [Sarric](../handouts/creation-sarric.md) ·
+[Pax](../handouts/creation-pax.md) · [Aniess](../handouts/creation-aniess.md) ·
+[Jasper](../handouts/creation-jasper.md) · [Sam](../handouts/creation-sam.md).
+
 - **Sarric** (Firbolg → nameless, earth) — the giants-become-land / Ymir story.
 - **Pax** (Celestial × nameless-earth) — raised on the bridge-of-spirit-and-soil
   faith; **he chooses** his death, celestial or earth (§6). The *chosen* pole.
