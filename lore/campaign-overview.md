@@ -140,8 +140,9 @@ verbatim (see [handouts](../handouts/) and
 cosmology per region, played straight. **Egypt (Maalm) was deliberately first**
 because Will knows it *least* well, which forced disciplined primary-source
 research; the regions the party spends more time in (the Norse north, etc.) will
-be richer and more fully fleshed because Will already knows them deeply. The
-region → myth map lives in §5.
+be richer and more fully fleshed because Will already knows them deeply. **Egypt
+(Maalm) is now complete — its cosmology fully built out — and the work moves on to
+the other regions.** The region → myth map lives in §5.
 
 ---
 
@@ -240,7 +241,7 @@ names, strongly suggestive but unconfirmed]`:
 
 | Region (map) | Likely mythology |
 |---|---|
-| Maalm | Egyptian ✓ (established) |
+| Maalm | Egyptian ✓ (complete) |
 | Musleheim | Norse — Muspelheim, the realm of fire |
 | Suartleheim (Weet / Eet = West / East) | Norse — Svartalfheim, dark elves / dwarves |
 | Lonka (now **Jotunheim**) | Dragonborn holy origin & Phoenician **Tyre**, *fused on purpose* with Ramayana **Lanka** — Golden Lonka, Mt Trikuta, the Ravana-seizure rhyme (see [Lonka / Jotunheim](lonka-jotunheim.md)) |

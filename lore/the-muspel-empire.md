@@ -147,13 +147,18 @@ The colonized became the reconqueror — and the reconquest is, in its turn, col
 
 ---
 
-## 5. The Half-Orc Hannibal — a resurgence, then a Zama (recent)
+## 5. The Half-Orc Annibel/Hannibal — a resurgence, then a Zama (recent)
 
 The long reconquest was not a straight line. In the last generation a **half-orc
-warlord** — David's requested **Hannibal**, but in **Viking / barbarian-herdsman**
-dress — rallied the orcs and half-orcs and *reversed the reversal*, handing the
-colonizer powers a string of stunning defeats and carrying the war back onto their own
-ground.
+warlord** — David's requested Hannibal, recast in-world as **Annibel/Hannibal**
+(she/her), in **Viking / barbarian-herdsman** dress — rallied the orcs and half-orcs
+and *reversed the reversal*, handing the colonizer powers a string of stunning defeats
+and carrying the war back onto their own ground.
+
+> **The name `[settling]`.** A feminine form built to mirror Hannibal (David's idea):
+> Romance languages already drop the H, and **Annibel** keeps the Annabel ending while
+> holding the Ann-i-b-…-l skeleton of Hannibal. Spelling isn't locked — slash notation
+> **Annibel/Hannibal** for now.
 
 > **The Punic *shape*, not the Punic *flavor*.** We take Hannibal's campaign arc — a
 > generational genius, ruinous early victories, a famous crossing, a final Zama — and
@@ -164,37 +169,37 @@ ground.
 > by a whole people in arms. The *trade*-Phoenician side lives with the **dragonborn**
 > (Lonka as Tyre — see [wandering-dragonborn](wandering-dragonborn.md)).
 
-- **Lake Tressamine** — his famous early victory (our Lake Trasimene): an ambush that
-  swallowed a colonizer army whole and marked him as a generational threat.
-- **The crossing (settled — 7/2).** His masterstroke was a **sea-crossing**, not a
-  mountain one: his fleet put his army ashore on the **Kuru mainland** somewhere it
+- **Lake Tressamine** — her famous early victory (our Lake Trasimene): an ambush that
+  swallowed a colonizer army whole and marked her as a generational threat.
+- **The crossing (settled — 7/2).** Her masterstroke was a **sea-crossing**, not a
+  mountain one: her fleet put her army ashore on the **Kuru mainland** somewhere it
   could not possibly be — fitting an island world better than any Alps-analog.
-- **~20 years on colonizer ground.** He ravages Kuru's countryside for a generation,
-  carrying the war back onto the ground his people were pushed off of.
-- **The siege of Anklia.** At the campaign's height he lays siege to **Anklia** (a Kuru
+- **~20 years on colonizer ground.** She ravages Kuru's countryside for a generation,
+  carrying the war back onto the ground her people were pushed off of.
+- **The siege of Anklia.** At the campaign's height she lays siege to **Anklia** (a Kuru
   city — see [Nila atlas](nila-atlas.md)) — a *Hannibal ad portas* beat: the siege
-  becomes legendary, but the walls hold. He never takes it.
+  becomes legendary, but the walls hold. She never takes it.
 - **A Zama — at Ilka Mak (settled — 7/2).** Kuru's own counter-offensive stalls out
-  under Hannibal's hammering: its beachhead at **Calaik** goes in early and gets no
+  under Annibel/Hannibal's hammering: its beachhead at **Calaik** goes in early and gets no
   further, one more entry in the "string of defeats." Kuru leans on its former colony
   for help, and it's **Noku Kurunatuka** — not Kuru — that lands the decisive blow: a
   fresh invasion of the homeland, Scipio-into-Africa style, that founds **Ilka Mak** in
-  the same stroke as it breaks Hannibal's resurgence for good. The battle is as much a
+  the same stroke as it breaks Annibel/Hannibal's resurgence for good. The battle is as much a
   **symbolic transfer of power** as a military one — proof Noku can do what Kuru
   couldn't, the concrete moment behind "the worse Kuru's setbacks, the more leverage
   [Noku] gains" (see [Kuru & the phoenix §5](kuru-and-the-phoenix.md)). `[OPEN]` Exact
-  timing, and whether Hannibal falls on the field, is hunted down after, or simply
+  timing, and whether Annibel/Hannibal falls on the field, is hunted down after, or simply
   vanishes (see the tavern reveal, below).
-- **The tavern reveal.** `[OPEN — seed, 7/2]` If he survives the Zama: his real-world
+- **The tavern reveal.** `[OPEN — seed, 7/2]` If she survives the Zama: her real-world
   analog spent his last years as a **hired military consultant** to whichever court
   would have him, hunted from place to place until he was finally cornered and took his
   own life rather than be handed over. The DnD payoff — an old, scarred half-orc drifter
   in some tavern, unremarkable the way half-orcs are everywhere in this world, quietly
-  trading sharp tactical advice for coin. The party wouldn't believe it's really him
-  until something forces the proof — a detail only Hannibal would know, a scar, a name
+  trading sharp tactical advice for coin. The party wouldn't believe it's really her
+  until something forces the proof — a detail only Annibel would know, a scar, a name
   let slip too deep in a cup. The reveal, not a reunion, is the point.
-- **The missing fleet.** `[Will, 6/26]` **Hannibal's fleet was never defeated.** After his
-  resurgence it **dropped him on the Kuru mainland** for the land war, then **sailed north
+- **The missing fleet.** `[Will, 6/26]` **Annibel/Hannibal's fleet was never defeated.** After her
+  resurgence it **dropped her on the Kuru mainland** for the land war, then **sailed north
   and vanished — nobody knows where.** Its destination is **north, toward the lost colonies
   (§7)** — a Vinland / Greenland / Iceland, and a **big reveal** waiting for any party that
   sails after it.
@@ -205,7 +210,7 @@ ground.
   the dwarf fleet (built at **Ools**) won when **a small eruption of the undersea volcanoes
   now raising the Kurunatukas** turned the sea against the Vikings — so the battle that
   **broke the orc sea also began raising the new land.**
-- **A fallen sea-power now.** Most Muspel longships were lost in those wars (Hannibal's is
+- **A fallen sea-power now.** Most Muspel longships were lost in those wars (Annibel/Hannibal's is
   the exception — *missing*, not sunk, above); their **western fire-coast is occupied by
   Kuru and the Moku/Noku Kurunatuka** client-states; and **seaworthy longships may still
   survive in the northeast of Musleheim** — a latent remnant, not a present force. Full
@@ -282,7 +287,7 @@ Muspel orcs planted **colonies out across the cold sea** — three remembered na
   Greenland Norse, who went silent and died out.)
 - **Migration.** Now that the homeland is besieged (§5–6), **some orcs try to sail for
   the lost colonies** — refugees betting a half-mythic outpost beats a losing war.
-  Whether any arrive, and what they find, is open. (The **missing Hannibal fleet** may
+  Whether any arrive, and what they find, is open. (The **missing Annibel/Hannibal fleet** may
   have been the first such voyage.)
 
 **The ice and its peoples — sailors' stories, dnd-ified:**
@@ -311,12 +316,12 @@ in what state — gone native, besieged, or turned into something out on the ice
 - Feeds the **anti-colonial** through-line: there is no innocent party here. Muspel colonized
   Kuru; the orcs raided the islands; Kuru now marches on Musleheim. Everyone has named
   someone else's world as their own.
-- The **Hannibal** thread (§5) hands you a fresh, recent, emotionally-loaded war the
-  party can hear of or be pulled into; his **missing fleet** and any surviving **lost
+- The **Annibel/Hannibal** thread (§5) hands you a fresh, recent, emotionally-loaded war the
+  party can hear of or be pulled into; her **missing fleet** and any surviving **lost
   colony** (§7) are ready-made hooks pointing north.
 - **Two Punic threads, split (resolved).** The *trade-and-colony* Phoenicians are the
   **dragonborn** (Lonka as their **Tyre**, the **Lost Tribes** their scattered colonies
-  — see [wandering-dragonborn](wandering-dragonborn.md)); the **Punic War** itself — Hannibal, the
+  — see [wandering-dragonborn](wandering-dragonborn.md)); the **Punic War** itself — Annibel/Hannibal, the
   crossings, a Zama — is **these orcs**, in Viking/barbarian dress. Carthage's
   mercantile / mercenary-hiring / Sicily-obsessed side belongs to neither, and is dropped.
 - `[OPEN]` whether any current or future PC is an orc/half-orc, and whether the party's

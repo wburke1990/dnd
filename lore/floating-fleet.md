@@ -109,7 +109,7 @@ actually operate in archipelago waters are few:
   (Blackacre is one). **[settled]**
 - **The Muspel longships — a *fallen* sea-power.** The orc/half-orc **Muspel**
   are **Viking longship-raiders** by tradition, but their fleets are now **mostly
-  sunk or missing** — including the lost **Hannibal "missing fleet"** that sailed
+  sunk or missing** — including the lost **Annibel/Hannibal "missing fleet"** that sailed
   north and never came back (see [the Muspel empire §5](the-muspel-empire.md)).
   Their western (fire-)coast is presently **occupied by the Kuru and Moku/Noku
   Kurunatuka** powers. **Seaworthy longships may still survive in the northeast
@@ -168,7 +168,7 @@ treat any ancestral echo as deep myth, not live politics.
 - [taniyn-and-lonka.md](taniyn-and-lonka.md) — the creation myth both dragonborn
   factions share; "honor the flight."
 - [the-muspel-empire.md](the-muspel-empire.md) — the orc/half-orc Viking
-  war-state, the half-orc Hannibal, and the missing fleet.
+  war-state, the half-orc Annibel/Hannibal, and the missing fleet.
 - [ships-and-sea-power.md](ships-and-sea-power.md) — who builds Nila's ships (the
   dwarves), who controls the water, and the two legendary battles.
 - [world-history-timeline.md](world-history-timeline.md) /

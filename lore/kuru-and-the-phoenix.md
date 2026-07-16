@@ -540,14 +540,14 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   breaking:**
   - **Two beachheads on the big island, both stalled.** **Kuru holds Calaik** (a
     Calais), planted early and never able to push further; **Noku holds Ilka Mak** to
-    the south — founded in the landing that won the decisive **Zama** against Hannibal
+    the south — founded in the landing that won the decisive **Zama** against Annibel/Hannibal
     (see [the Muspel empire §5](the-muspel-empire.md)), Noku's own
     Scipio-into-Africa counterstroke after Kuru's push stalled. Both **threaten the
     half-orc stronghold of Lilbayum** today — and both are **struggling to take it.**
-  - **The Hannibal wound.** A string of **defeats to [Hannibal](the-muspel-empire.md)**
+  - **The Annibel/Hannibal wound.** A string of **defeats to [Annibel/Hannibal](the-muspel-empire.md)**
     (the half-orc general) — culminating in Kuru's own push stalling at Calaik — has
     **shaken the allies' ability to cooperate.** That it was **Noku, not Kuru,** who
-    finally broke him at Zama is exactly the wound: **hard feelings** on both sides,
+    finally broke her at Zama is exactly the wound: **hard feelings** on both sides,
     pride stung on one, leverage gained on the other.
   - **Heavy vs. clever.** `[settled]` **Noku uses no warforged,** so it fields a
     **smaller force with no comparable heavy infantry** — yet it is **markedly more

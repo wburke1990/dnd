@@ -38,7 +38,7 @@ the **children-of-Taniyn** cosmology. The **Muspel "missing fleet"** that sailed
 points straight at this seam. **[loose — offered, not locked]**
 
 > **Two Punic threads, deliberately split.** The *trade-and-colony* Phoenicians
-> are **here** — the dragonborn, Lonka-as-Tyre. The *Punic War* (Hannibal, the
+> are **here** — the dragonborn, Lonka-as-Tyre. The *Punic War* (Annibel/Hannibal, the
 > crossings, a Zama) lives with the **orc Muspel war-state** instead, recast as
 > Viking/barbarian herdsmen who fight their **own** wars (see
 > [the Muspel empire §5](the-muspel-empire.md)). Carthage's mercantile,

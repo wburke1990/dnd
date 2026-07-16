@@ -322,7 +322,7 @@ that thread quietly through all of it down to today.
   great crusade,** after the dark times of the orc wars (its first was on Kalikhat, §VI).
   The orcs are beaten back from most of their holdings — and the irony is total: **Kuru,
   the empire's own ancient rebel colony, now leads the conquest of its old homeland.**
-- **The half-orc Hannibal (recent).** A generational **half-orc warlord** — Hannibal's
+- **The half-orc Annibel/Hannibal (recent).** A generational **half-orc warlord** — Annibel/Hannibal's
   campaign in **Viking/barbarian dress**, a people-in-arms rather than a merchant-state's
   mercenaries — reversed the reversal: a stunning early victory at **Lake Tressamine**,
   a **sea-crossing** that put his army ashore on the Kuru mainland, **~20 years** ravaging
@@ -351,7 +351,7 @@ that thread quietly through all of it down to today.
   [Musleheim](musleheim.md)). Both have since grown into
   **client-states**, not colonies. The present Musleheim front is a **strained Kuru–Noku
   alliance** against the orc tribes: two stalled beachheads, a navy of borrowed **Mukka**
-  pirate ships, and hard feelings after Hannibal's blows — a supply line 🔒 about to be cut
+  pirate ships, and hard feelings after Annibel/Hannibal's blows — a supply line 🔒 about to be cut
   by [Sam's floating fleet](floating-fleet.md).
 
 Two maritime traditions **thread through the whole age, down to today:**
@@ -428,8 +428,8 @@ half-forgotten.
 - `[OPEN]` Fate of the Snake Island after the Bleeding Star (damaged? destroyed? still out there?).
 - `[OPEN]` What else the old (human) Muspel empire colonized besides Kuru.
 - `[OPEN]` Where half-orc loyalties fall in the present war, and whether the party's path ever crosses the northern front.
-- `[OPEN]` The half-orc Hannibal's name and register; exact timing of his Zama (fought at Ilka Mak — settled) and whether he survives it; where his missing fleet went.
-- `[OPEN]` Whether any northern colony survives, what's out on the ice, and how the two Punic threads (orc Hannibal vs. dragonborn Lost Tribes) relate.
+- `[OPEN]` The half-orc Annibel/Hannibal's name (feminine, mirrors Hannibal — spelling settling) and register; exact timing of her Zama (fought at Ilka Mak — settled) and whether she survives it; where her missing fleet went.
+- `[OPEN]` Whether any northern colony survives, what's out on the ice, and how the two Punic threads (orc Annibel/Hannibal vs. dragonborn Lost Tribes) relate.
 - `[draft]` **Manichean Ragnarok** — each pass a contest of **magma demon vs. sky dragon** decided by **pace**: slow magma **builds land**, a fast clash **explodes** (Krakatoa; the **Dragon Turtle** in Lonka's caldera implies the dragon won there). Demons are a power *apart* from the dragon-descended (the exception to the common-ancestor rule). (See [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md) for the magma-force-vs-demon-people distinction, the deep cities, and how true names are taken.)
 - `[OPEN]` When **mortals first allied with demons** (Kalikhat ~5,000 ya is the candidate), and reconciling **Kalikhat** as the Underdark cradle with the Suartleheim/Svartalfheim guess.
 - `[OPEN]` What the **heart-stone shards** of the primordial dragon, buried under drowned Jotunheim, actually do.

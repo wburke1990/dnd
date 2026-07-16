@@ -38,7 +38,7 @@ this way. **`[DM ruling — Will, 6/26]`**
   (Blackacre).
 - **The Muspel orcs — *fallen*.** For ~300 years the masters of the sea on their
   iron-riveted longships; now broken (the battles below), most longships gone,
-  and **Hannibal's fleet missing, not sunk** (see
+  and **Annibel/Hannibal's fleet missing, not sunk** (see
   [the Muspel empire §5](the-muspel-empire.md)).
 - **Kuru — no navy at all.** The dominant *land* power literally **cannot put to
   sea: its warforged sink** (godstone is heavy, and they hate the water). So
@@ -173,8 +173,8 @@ bled for fell to **Mukka** and the small traders.
   by Kuru's land rush — a colonization like any other, not an empty-land
   grab. (See [Musleheim](musleheim.md) and the
   [Kurunatuka land rush](kuru-and-the-phoenix.md).)
-- **Hannibal's fleet was never defeated.** After the half-orc Hannibal's recent
-  resurgence, his fleet **dropped him on the Kuru mainland** for his land war and
+- **Annibel/Hannibal's fleet was never defeated.** After the half-orc Annibel/Hannibal's recent
+  resurgence, her fleet **dropped her on the Kuru mainland** for her land war and
   then **sailed north and vanished** — nobody knows where. A **big reveal waits
   in the north** (a Vinland / Greenland / Iceland — the lost colonies). See
   [the Muspel empire §5](the-muspel-empire.md).

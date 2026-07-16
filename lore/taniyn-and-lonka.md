@@ -67,7 +67,7 @@ now hold as **Jotunheim**. That whole arc lives in
   naturally as **her children flung to the far corners**, and dovetails with
   the Bedraageon story of a wanderer searching for *"other dragonborn survivors
   of the same catastrophe"* ([maalm-founding.md](maalm-founding.md)). Note
-  the **split**: the *Punic War* (Hannibal) belongs to the orc Muspel
+  the **split**: the *Punic War* (Annibel/Hannibal) belongs to the orc Muspel
   war-state, not the dragonborn (see [the Muspel empire](the-muspel-empire.md)).
   Worth deciding whether Taniyn's myth and the **Ragnarok / Second Foundation**
   catastrophe ([the-second-foundation.md](the-second-foundation.md)) are the
