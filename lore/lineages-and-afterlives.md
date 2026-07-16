@@ -30,10 +30,10 @@ ancestry ([overview §5](campaign-overview.md)).
 |---|---|---|---|
 | **Demons** | Chaos — the magma-deep. A power apart from the dragon-descended | **No afterlife** — one existence, nothing after | Kinds of demon |
 | **Dragon people** | The comet: the primordial dragon-ancestor, then the cosmic beasts that mutated each line | **Judged in the sky** by the deity of their line's cosmic beast | **Many** — one per cosmic beast / region (Maalm's Egypt is example #1); includes **giant humans** (island gigantism) |
-| **The World-born** `[working name]` | Primordial — born of the world itself, separate from the dragon-descended | **Return to the world** — unjudged | **Earth** (True Giants → mountains; giant-kin/Firbolgs → the alpine life) and **Sky** (Pax's people → rain, rivers, storm) |
+| **The nameless** | Primordial — born of the world itself, separate from the dragon-descended | **Return to the world** — unjudged | **Earth** (True Giants → mountains; giant-kin/Firbolgs → the alpine life) and **Sky** (Pax's people → rain, rivers, storm) |
 
 The three sit as a clean spine: **Demons** come from chaos and go nowhere;
-**Dragon people** come from the comet and are judged above; **the World-born**
+**Dragon people** come from the comet and are judged above; **the nameless**
 come from the world and go back into it.
 
 ## 3. Demons — chaos, and no afterlife
@@ -68,14 +68,21 @@ sky-judgment. Maalm is the template, not the exception.
 **Island gigantism lives here.** Isolated islands grow their people large (or
 shrink them) — real evolution, fast on Nila. A **giant human** is a dragon-
 person grown big on a lonely island; still sky-judged. **Size is not lineage —
-a giant human is not a True Giant** (those are World-born, §5).
+a giant human is not a True Giant** (those are among the nameless, §5).
 
-## 5. The World-born — return to the world
+## 5. The nameless — return to the world
 
 A primordial lineage, born of the world itself and standing apart from the
 dragon-descended. They are **not judged** (dragon-people) and **not
-annihilated** (demons): they go **back into the world.** Two flavors — many
-kin within each:
+annihilated** (demons): they go **back into the world.**
+
+**They have no name.** No name for the lineage, and none carried among their
+dead. In a world where a true name is a leash — the whole
+[names & ownership thesis](campaign-overview.md) — a people that dissolves back
+into the world keeps nothing that can be owned or bound. What returns to the
+land and the weather has no name left to seize.
+
+Two flavors, many kin within each:
 
 **Earth — become the land.**
 - **True Giants** are too large to scatter; a dying giant lies down and becomes
@@ -86,10 +93,10 @@ kin within each:
 - **Giant-kin — the beautiful relatives (Firbolgs, Sarric)** are the smaller
   earth-branch: they get the alpine-scale version, dispersing into the
   mountain's life — the meadow, the treeline, the bees.
-- **The hand on the wall** is the earth-kin name-mark: before a giant lies down
-  to become stone it presses a hand to the rock — the last mark of who was
-  here, and a wall of them a genealogy of who this mountain was (the giant-kin's
-  version of the Egyptian **Ren**). This is where **cave paintings** come from
+- **The hand on the wall** is the earth-kin mark: before a giant lies down to
+  become stone it presses a hand to the rock — the last mark of who was here,
+  and a wall of them a record of who this mountain was. There is no true name
+  to leave, so they leave a hand. This is where **cave paintings** come from
   (placement, §7).
 
 **Sky — become the weather.**
@@ -101,8 +108,8 @@ kin within each:
   (a dammed river, a withheld rain, a bound ghost that couldn't disperse).
 
 **Why the two flavors are one lineage — and why it matters for the party:**
-Pax and Sarric are **kin**, same world-born line, different flavor, which is
-why both feel the world in their bones. Sarric's fight is literal
+Pax and Sarric are **kin**, same nameless line, different flavor, which is why
+both feel the world in their bones. Sarric's fight is literal
 **ancestor-defense** — if the land is his dead, the Company gutting a mountain
 at [Haals](../encounters/the-haals-runoff.md) is butchering them, and his
 belief that "the world feels pain when it is hurt" ([sheet](../characters/sarric.md))
@@ -114,8 +121,8 @@ the heavens ([sheet](../characters/pax.md)).
 
 Jasper is Earth Genasi, but his sheet says the rock is superficial: *"a
 descendant of humanoids"* with *"a soul, organs, a heart"*
-([sheet](../characters/jasper.md)). So he is **dragon-people — not
-World-born.**
+([sheet](../characters/jasper.md)). So he is **dragon-people — not one of the
+nameless.**
 
 The reveal: the eco-warrior who *looks* most like living stone, standing beside
 two friends who will dissolve into mountain and storm, is the **only one who
@@ -128,11 +135,11 @@ once, late.
 
 `[note]` **The world needs cave paintings, probably in Suartleheim**
 (Svartalfheim — the dark-elf / dwarf underground realm,
-[overview §5](campaign-overview.md)). The hand-stencils began as the World-born
-earth-kin death-mark (§5); the caves where they survive, and the wider
-cave-painting tradition, likely live in Suartleheim's underground. `[OPEN —
-reconcile the giant-kin origin with a dwarf/dark-elf underground home; the deep
-peoples may have kept the custom.]` `[todo]` Write the `prompts/` image for the
+[overview §5](campaign-overview.md)). The hand-stencils began as the nameless
+earth-kin mark (§5); the caves where they survive, and the wider cave-painting
+tradition, likely live in Suartleheim's underground. `[OPEN — reconcile the
+giant-kin origin with a dwarf/dark-elf underground home; the deep peoples may
+have kept the custom.]` `[todo]` Write the `prompts/` image for the
 hand-stencil wall once placement lands. Real-world anchor: Cueva de las Manos.
 
 ## 8. Bestiary seeds — island gigantism/dwarfism
@@ -144,13 +151,39 @@ oversized or shrunken fauna.
   and mean with no predators to check them (Caerbannog register). Drop it
   somewhere in the archipelago.
 
-## 9. Open questions
+## 9. Per-character creation stories
 
-- `[OPEN]` A real name for **the World-born** lineage (working name only).
-- `[OPEN]` Where the World-born live on the map — Sarric's cold country; the
+Each PC's people believe their own version of how the world was made — the one
+that PC grew up on — which we draft and **run by the player.** They map to the
+lineage the character belongs to (§2). Status:
+
+- **Sarric** (Firbolg → nameless, earth) — the giants-become-land / Ymir story.
+- **Pax** (nameless, sky) — the weather / *Do Not Stand at My Grave* story.
+- **Jasper** (Earth Genasi → dragon-people) — his concept *is* a creation
+  story: *"all one people, one origin story, but magical evolution made us
+  different and we colonize each other"* ([roster](party-roster.md)). Carries
+  the §6 reveal that he is not kin to the nameless two.
+- **Sam / Blackacre** (**Dragonborn** → dragon-people, closest to the root —
+  the first children of the primordial dragon who became the first island). He
+  **authors his own** via the tall-tales-become-canon mechanic
+  ([roster](party-roster.md)) — this is the "already has his."
+- **Aniess** — born a street-urchin **elf** in Suartleheim (dragon-people),
+  then **snake-remade** by the Order via the Punt rite. `[OPEN]` She's the one
+  PC who **doesn't know her own creation story.** The inflicted transformation
+  may have rerouted her from her birth-line's sky-judgment toward the **Serpent
+  of Punt** (the snake that is an island-spirit — [roster](party-roster.md)),
+  leaving her **between two sky-courts** the way the
+  [dream-quest children](../encounters/the-dream-quest.md) were barred from the
+  Duat for being between worlds. Fits her identity arc and her demon-wife
+  mirror.
+
+## 10. Open questions
+
+- `[OPEN]` Where the nameless live on the map — Sarric's cold country; the
   earth-kin among the giants' peaks, the sky-kin somewhere of their own?
 - `[OPEN]` Cave-painting home (Suartleheim) and reconciling it with the
   earth-kin origin (§7).
 - `[OPEN]` Reconcile Ymir with [Lonka / Jotunheim](lonka-jotunheim.md) (§5).
 - `[OPEN]` Square the single common dragon-ancestor with many cosmic beasts
   mutating separate lines (§4) on the timeline.
+- `[OPEN]` Aniess's lineage / creation story (§9).
