@@ -29,6 +29,9 @@ nat = "nat"
 Hapy = "Hapy"  # Son of Horus / Nile god — not "Happy"
 Shepard = "Shepard"  # chosen name of a Kuru warforged (SH3P4RD) — not "Shepherd"
 Mak = "Mak"  # place name: Ilka Mak, Noku Kurunatuka's beachhead on Musleheim
+# Archaic spellings kept verbatim inside quoted public-domain poems in
+# handouts/ (not our prose — do not "correct" the poem).
+layed = "layed"  # Ezra Pound, "The Seafarer" (1911): "The blade is layed low."
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.
