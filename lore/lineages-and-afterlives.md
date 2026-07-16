@@ -13,125 +13,137 @@
 ## 1. The principle
 
 The same move as "one mythology per region," turned inward: **one death per
-lineage.** Humanoids die one way, giants another, the celestial-touched a
-third. Every people has buried its dead sure it knows what death is — and
-each is correct, but only about its own kind. When two of these faiths meet,
-they disagree, and neither is wrong. It gets stranger the further a lineage
-sits from human.
+lineage.** Every people has buried its dead sure it knows what death is — and
+each is correct, but only about its own kind. When two of these faiths meet
+they disagree, and neither is wrong. Reveal it slowly, the way the comet
+cycle is revealed — no exposition dump; burial customs and where a place's
+dead seem to have "gone" are the seeds, and the party works it out.
 
-Reveal it slowly, the way the comet cycle is revealed — no exposition dump.
-Burial customs, what a body does or doesn't do, and where the dead of a
-place seem to have "gone" are the seeds. The party works it out.
+## 2. The four lineages
 
-## 2. The deaths, by lineage
-
-| Lineage | What they become | Real-world root | Where / status |
+| Lineage | Who | At death | Notes |
 |---|---|---|---|
-| **Giants** | The land itself — mountains from the body | Norse **Ymir** (the world made from the first giant) | Jotunheim / Lonka `[OPEN — reconcile]` |
-| **Giant-kin** (Firbolg — the beautiful relatives) | The alpine life — meadow, treeline, the bees | — | Sarric's people |
-| **Humanoids** | The weather — winds, rain, grain-light, birds, night stars | Frye, *[Do Not Stand at My Grave and Weep](../handouts/do-not-stand-at-my-grave.md)* | religion / home `[OPEN]` — §5 |
-| **Celestial-touched** (Aasimar) | Rise to a celestial patron / the heavens | — | Pax — contested (§6) |
-| **Maalm humans** (the old Amseh faith) | The Duat — the soul kept whole and judged | Egyptian | **Built** — [the dream quest](../encounters/the-dream-quest.md) |
+| **Demons** | Forces of nature, born from chaos (the magma-deep) — a power apart from the dragon-descended | **No known afterlife** — one existence, nothing after | Already latent in [overview §5](campaign-overview.md) (magma-demon vs. sky-dragon) |
+| **Dragon people** | The comet-descended: humans, dwarves, **giant humans**, elves, dragonborn | **Judged in the sky** by the deity of the cosmic beast that mutated their line | The engine behind one-myth-per-region; Maalm's Duat is example #1 (§4) |
+| **True Giants** | The primordial giants (*not* "giant humans") | **Become the land** — mountains from the body | Norse **Ymir**, played straight (§5) |
+| **Pax's people** | The weather-folk | **Become rain, rivers, storms** — wind, grain-light, birds, night stars | Frye's *[Do Not Stand at My Grave](../handouts/do-not-stand-at-my-grave.md)* (§6) |
 
-These overlap and conflict on the same ground, and that is the point. A
-humanoid who dies in giant country still becomes weather, not stone — his
-neighbors bury him wrong and are sure of it.
+These overlap and conflict on the same ground, and that is the point.
 
-## 3. Giants become the land (Ymir) — and where giants come from
+## 3. Demons — chaos, and no afterlife
 
-The mountains are the giant dead. A giant is too large to scatter into
-weather; it lies down and becomes a ridge, a peak, a massif. **Jotunheim's
-peaks are ancestors.** This is the Norse **Ymir** myth — the world built
-from the first giant's body — played straight, which is the "new creation
-story" of this world (a real one, made literal).
+Demons are born from chaos, out of the magma-deep — forces of nature, the
+**power apart** from the dragon-descended (the Manichean magma-demon vs.
+sky-dragon read in [overview §5](campaign-overview.md)). They get **one
+existence and nothing after.**
 
-**Where giants come from — island gigantism (the front half of the same
-loop).** Isolated islands grow their creatures huge and shrink others — real
-evolution, running fast on Nila, where the comet raises and sinks islands
-and mutation runs hot. So: an island grows a giant → the giant dies → the
-giant becomes the next mountain or island. It closes into the comet cycle
-already in [campaign-overview](campaign-overview.md) §5 (stones → dragons →
-islands → back), with giants as a stage. Island gigantism also stands alone
-as bestiary weirdness if you never tie it to the religion (§7).
+This sharpens the name-quest horror. Binding a demon by its true name doesn't
+only enslave it — the demon has **no afterlife to be freed into.** Planar
+Binding takes the one life it will ever have (see
+[the dream quest's wizard's-hand note](../encounters/the-dream-quest.md) and
+[house rules](house-rules-and-world-mechanics.md)).
 
-**Why this is Sarric's whole fight.** If the land is ancestors, then the
-Company gutting a mountain for a mine at [Haals](../encounters/the-haals-runoff.md),
-or a lord razing a forest, is butchering the dead. Sarric's belief that "the
-world feels pain when it is hurt" ([his sheet](../characters/sarric.md)) is
-plain fact, not sentiment. His eco-war is ancestor-defense, and the camp
-fire is a man who has already watched his dead be cut up for profit.
+## 4. Dragon people — judged in the sky
 
-## 4. The hand on the wall — the giant-kin name-mark
+Most peoples descend from the comet. History opens with one primordial dragon
+falling and becoming the dragonborn island; her children filled the world
+([overview §5](campaign-overview.md)). Later comet-beasts mutated different
+lines — and **each line's dead are judged in the sky by the deity of the
+cosmic beast that made them.** Humans, dwarves, elves, dragonborn, and the
+**giant humans** all belong here.
 
-Before a giant lies down to become stone, it presses a hand to the rock: the
-last mark of who was here. A wall of hand-stencils is a genealogy — every
-ancestor who became this mountain, set down before they went. It is the
-giant-kin's version of the Egyptian **Ren**: the name-mark that says whose
-the stone is.
+**This is why one-myth-per-region works and is all true at once:** each region
+descends from a different cosmic beast and answers to that beast's pantheon.
+**Maalm's Egypt is example #1** — Osiris judging the dead who travel the river
+of stars to the Hall of Two Truths ([the dream quest](../encounters/the-dream-quest.md))
+*is* dragon-people sky-judgment. Maalm is the template, not the exception.
 
-**This is where cave paintings come from in the world** — they begin here,
-among the giant-kin, as death-marks. Real-world anchor: Cueva de las Manos,
-the hand-stencil cave (~9,000 years old).
+**Island gigantism lives here.** Isolated islands grow their people large (or
+shrink them) — real evolution, fast on Nila. A **giant human** is a dragon-
+person grown big on a lonely island; still sky-judged. **Size is not lineage
+— a giant human is not a True Giant.**
 
-`[todo]` Write a `prompts/` image for the hand-stencil wall — rows of
-pressed hands on alpine rock, some human-sized, some far larger.
+## 5. True Giants — become the land (Ymir)
 
-## 5. Humanoids become the weather — the faith that disagrees
+The primordial giants are too large to scatter; a dying giant lies down and
+becomes a ridge, a peak, a massif. **The mountains are the giant dead.** This
+is the Norse **Ymir** myth — the world built from the first giant's body —
+played straight, the "new creation story" of the world. `[OPEN — reconcile
+with what's written in `[Lonka / Jotunheim](lonka-jotunheim.md)`.]`
 
-The humanoid death is *Do Not Stand at My Grave and Weep*, played straight
-(sketched in [the poem pillar](myth-and-poem-as-literal-truth.md) §6; handout
-[here](../handouts/do-not-stand-at-my-grave.md)). The dead become the
-weather and the land's life: every wind is someone, the rain falls on the
-fields and the grain grows in the dead's light, a storm is many of them at
-once. Grief moves outdoors — you don't visit a grave, she said she isn't
-there. Binding weather is binding the dead: a dammed river or a withheld
-rain jails ancestors; a bound ghost is someone stopped from dispersing.
+**Giant-kin (the beautiful relatives — Firbolgs, Sarric).** `[OPEN — confirm
+Firbolgs are small cousins of the True Giants, not "giant humans" (§4).]` If
+they are, they get the alpine-scale version of the land-death — they disperse
+into the mountain's life, the meadow and treeline and the bees. This is what
+makes Sarric's fight literal: if the land is ancestors, then the Company
+gutting a mountain at [Haals](../encounters/the-haals-runoff.md) is butchering
+the dead, his belief that "the world feels pain when it is hurt"
+([sheet](../characters/sarric.md)) is fact, and the camp fire is a man who
+has already watched his dead cut up for profit.
 
-**This is the counterpart faith to the giants'.** The giants' people say
-*you become the mountain*; the weather-people say *you become the wind*.
-They disagree, bury their dead differently, and are each right about their
-own kind.
+**The hand on the wall — the giant-kin name-mark.** Before a giant lies down
+to become stone it presses a hand to the rock: the last mark of who was here.
+A wall of hand-stencils is a genealogy of who this mountain was — the giant-
+kin's version of the Egyptian **Ren**. This is where **cave paintings** come
+from in the world (see the placement note, §7).
 
-`[OPEN — placement]` Proposed home: the valley humanoids **beneath the
-giants' peaks**, sharing Sarric's cold country and disagreeing with the
-giant-kin about death — two faiths on one range. Alternative: its own region
-elsewhere on the map. Not yet decided.
+## 6. Pax's people — become the weather (the poem)
 
-## 6. The party is the natural experiment
+Pax's line dies into the weather: rain, rivers, storms, wind, the light on
+grain, the birds, the night stars — *[Do Not Stand at My Grave and
+Weep](../handouts/do-not-stand-at-my-grave.md)*, played straight (fuller
+sketch in [the poem pillar](myth-and-poem-as-literal-truth.md) §6). Every
+wind is someone; a storm is many of them; binding weather is binding the dead
+(a dammed river, a withheld rain, a bound ghost that couldn't disperse).
 
-The eco-trio each carry a different death, which makes them a live test of
-the whole system:
+Naming this lineage for **Pax** vindicates his whole thing: he insists he
+belongs to *the living world*, and his people literally become river and
+storm. `[OPEN — square this with Pax being an Aasimar: is "Pax's people" a
+distinct weather-lineage he comes from, or is this the Aasimar death? And if
+everyone in his line becomes the world, is his sense of being *chosen* a real
+extra, or him reading his people's ordinary death as a personal calling? Leave
+it live — his death can still carry the mystery.]`
 
-- **Sarric** — Firbolg (giant-kin) → the alpine dispersal / the land.
-- **Jasper** — Earth Genasi, but his sheet says the rock is superficial: *"a
-  descendant of humanoids"* with *"a soul, organs, a heart"*
-  ([sheet](../characters/jasper.md)). So he gets the **humanoid weather-death**,
-  carrying the tension that he looks like he should turn to stone with the
-  giants and won't. (Doug's call if he'd rather Jasper lean giant.)
-- **Pax** — Aasimar → the **celestial** afterlife, a patron in the heavens.
-  Except Pax insists he belongs to *the living world*
-  ([sheet](../characters/pax.md)). **His death adjudicates his central
-  mystery:** if the world takes him — if he disperses into moss and river
-  instead of rising — the Green Revelation was real and he was chosen. If the
-  heavens claim him, he fooled himself. Never resolve it in life; let the
-  death answer.
+## 7. The party, across the lineages
 
-Counting Maalm's Duat, that is four faiths already touching the party.
+The eco-trio spreads across three deaths — sky, land, weather — with the
+demons (no afterlife) as the thing they help enslave:
 
-## 7. Bestiary seeds — island gigantism/dwarfism
+- **Pax** (Aasimar) → **weather** (his people, §6).
+- **Sarric** (Firbolg) → **the land** / alpine, as giant-kin `[OPEN, §5]`.
+- **Jasper** (Earth Genasi, but *"a descendant of humanoids"* with *"a soul,
+  organs, a heart"* — [sheet](../characters/jasper.md)) → **dragon-people,
+  sky-judged** `[OPEN — confirm]`, carrying the irony that his stone skin
+  makes him look like he'd join the giants when he won't.
 
-Standalone island-gigantism flavor, no religion attached — each isolated
-island with its own oversized or shrunken fauna.
+## 8. Cave paintings / hand-stencils — placement
 
-- `[idea]` **Giant aggressive rabbits on a tiny island.** A small island
-  whose rabbits grew large and mean with no predators to check them
-  (Caerbannog register). Drop it somewhere in the archipelago.
+`[note]` **The world needs cave paintings, probably in Suartleheim**
+(Svartalfheim — the dark-elf / dwarf underground realm,
+[overview §5](campaign-overview.md)). The hand-stencils began as the giant-kin
+death-mark (§5); the caves where they survive, and the wider cave-painting
+tradition, likely live in Suartleheim's underground. `[OPEN — reconcile the
+giant-kin origin with a dwarf/dark-elf underground home; the deep peoples may
+have kept the custom.]` `[todo]` Write the `prompts/` image for the
+hand-stencil wall once placement lands. Real-world anchor: Cueva de las Manos.
 
-## 8. Open questions
+## 9. Bestiary seeds — island gigantism/dwarfism
 
-- `[OPEN]` Home of the humanoid weather-faith (§5) — beneath the giants, or
-  its own region.
-- `[OPEN]` Reconcile the Ymir / giants-become-land reading with what's
-  already written in [Lonka / Jotunheim](lonka-jotunheim.md).
-- `[OPEN]` Whether Jasper leans giant or humanoid at death (Doug's).
-- `[todo]` The hand-stencil cave-wall image prompt (§4).
+Standalone flavor, no lineage attached — each isolated island with its own
+oversized or shrunken fauna.
+
+- `[idea]` **Giant aggressive rabbits on a tiny island.** Rabbits grown large
+  and mean with no predators to check them (Caerbannog register). Drop it
+  somewhere in the archipelago.
+
+## 10. Open questions
+
+- `[OPEN]` Firbolg/Sarric: small cousins of the True Giants (land), or "giant
+  humans" (dragon-people, sky)? (Recommend true-giant-kin — keeps §5.)
+- `[OPEN]` Jasper as dragon-people (sky-judged) — confirm.
+- `[OPEN]` "Pax's people" as a weather-lineage vs. the Aasimar death (§6).
+- `[OPEN]` Square the single common dragon-ancestor with many cosmic beasts
+  mutating separate lines (§4) on the timeline.
+- `[OPEN]` Cave-painting home (Suartleheim) and reconciling it with the
+  giant-kin origin (§8).
+- `[OPEN]` Reconcile Ymir with [Lonka / Jotunheim](lonka-jotunheim.md) (§5).
