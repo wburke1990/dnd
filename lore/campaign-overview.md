@@ -328,6 +328,7 @@ mechanics of the circle-cast duel]`
   [Amseh dynasty](amseh-dynasty.md),
   [Egyptian afterlife mythology](egyptian-afterlife-mythology.md),
   [myth & poem as literal truth (design pillar)](myth-and-poem-as-literal-truth.md),
+  [lineages & afterlives (one death per bloodline)](lineages-and-afterlives.md),
   [house rules & world mechanics](house-rules-and-world-mechanics.md),
   [Kuru & the phoenix](kuru-and-the-phoenix.md),
   [the Company (the merchant arm)](the-company.md),

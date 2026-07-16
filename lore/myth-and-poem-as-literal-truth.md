@@ -123,7 +123,7 @@ line breaks preserved, real-world attribution in the note).
 | Poem | Author | The literal claim | Status |
 |---|---|---|---|
 | *Wynken, Blynken, and Nod* | Eugene Field, 1889 | Sleep is a boat; the stars are herring in a sea you sail to with your eyes shut. | **Built** — Dream of the Blue Veil / [the dream quest](../encounters/the-dream-quest.md) |
-| *Do Not Stand at My Grave and Weep* | Mary Elizabeth Frye, 1932 | The dead are not in the grave — they have become the wind, the light on snow, the rain, the birds, the starlight. | Handout exists; placement `[OPEN]` |
+| *Do Not Stand at My Grave and Weep* | Mary Elizabeth Frye, 1932 | The dead are not in the grave — they have become the wind, the light on snow, the rain, the birds, the starlight. | Developed as the **humanoid death** in [lineages & afterlives](lineages-and-afterlives.md); placement `[OPEN]` |
 | *The Wanderer* (the *ubi sunt* passage) | Old English, c. 8th–10th c. | What loses its glory and its memory is unmade — "as if it had never been." | In play as lament (Musleheim / Annibel); literalization `[OPEN]` |
 
 ### Sketches for the two unbuilt ones
