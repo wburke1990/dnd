@@ -123,6 +123,34 @@ line breaks preserved, real-world attribution in the note).
 | Poem | Author | The literal claim | Status |
 |---|---|---|---|
 | *Wynken, Blynken, and Nod* | Eugene Field, 1889 | Sleep is a boat; the stars are herring in a sea you sail to with your eyes shut. | **Built** — Dream of the Blue Veil / [the dream quest](../encounters/the-dream-quest.md) |
+| *Do Not Stand at My Grave and Weep* | Mary Elizabeth Frye, 1932 | The dead are not in the grave — they have become the wind, the light on snow, the rain, the birds, the starlight. | Handout exists; placement `[OPEN]` |
+| *The Wanderer* (the *ubi sunt* passage) | Old English, c. 8th–10th c. | What loses its glory and its memory is unmade — "as if it had never been." | In play as lament (Musleheim / Annibel); literalization `[OPEN]` |
+
+### Sketches for the two unbuilt ones
+
+**Do Not Stand at My Grave and Weep** ([handout](../handouts/do-not-stand-at-my-grave.md)).
+The dead speaks and says the grave does not hold her: *"I am not there; I did not
+die."* Taken at its word, she is not somewhere else — she is the weather now. The
+buried become the thousand winds, the glints on snow, the sunlight on the grain,
+the autumn rain, the birds at dawn, the stars at night. Follow it down: the weather
+of that place is made of its dead. Every wind is someone. The rain falls on the
+fields and the grain grows in their light. To weep at a graveside is to stand in
+the one place the person is not. A storm is many of them at once. Whether a wind
+can hear you, or answer, is left open. **Placement:** wants a place or a whole
+people's death-custom — a burial-ground you visit, or a region whose dead disperse
+into the sky and the fields — rather than a seed.
+
+**The Wanderer** ([handout](../handouts/the-wanderer-lament.md)). *"Where is the
+horse gone? Where the rider? … How that time has passed away, dark under the cover
+of night, as if it had never been."* Taken at its word, the questions are not
+rhetorical and the last line is not a figure of speech: what passes out of glory
+and memory is **unmade** — deleted backward, as if it had never stood. Renown holds
+a thing in existence; the night takes what renown no longer holds up. Annibel, who
+besieged Anklia and lost and can no longer say who she was, is going this way — her
+cavalry and captains not only dead but ceasing ever to have been, and the silent
+northern colonies going quiet and then simply not being there. **Placement:**
+already seeded in Musleheim and on Annibel (see [the Muspel empire](the-muspel-empire.md));
+a regional truth carried by the fallen war-host, not a place to sail to.
 
 ## 7. Guardrail
 
