@@ -144,6 +144,12 @@ be richer and more fully fleshed because Will already knows them deeply. **Egypt
 (Maalm) is now complete — its cosmology fully built out — and the work moves on to
 the other regions.** The region → myth map lives in §5.
 
+The method behind this — *"what if this were literally true?"* — is written up as
+a design pillar in [myth & poem as literal truth](myth-and-poem-as-literal-truth.md),
+which extends the same move to **poems**: take a poem's strangest claim as plain
+fact and follow it down (the dream quest already does this — *Wynken, Blynken, and
+Nod* is the literal incantation of the river-of-stars crossing).
+
 ---
 
 ## 4. DMing Principles
@@ -321,6 +327,7 @@ mechanics of the circle-cast duel]`
   [satyrs run the taverns (the Letaps)](satyr-taverns.md),
   [Amseh dynasty](amseh-dynasty.md),
   [Egyptian afterlife mythology](egyptian-afterlife-mythology.md),
+  [myth & poem as literal truth (design pillar)](myth-and-poem-as-literal-truth.md),
   [house rules & world mechanics](house-rules-and-world-mechanics.md),
   [Kuru & the phoenix](kuru-and-the-phoenix.md),
   [the Company (the merchant arm)](the-company.md),
