@@ -21,7 +21,7 @@ thousand years, and the party is about to find out why.*
 
 The whole quest is one myth followed down as if it were true. In order:
 
-1. **The marriage that greened the world.** In the open age — demons and
+1. **The marriage that greened the world.** In the alliance age — demons and
    mortals still partners, before the binding — **Inanna**, demon-queen who
    rose to rule the surface, married **Dumuzi**, an earth-spirit, the renewer
    whose rising greens the land. Their union guaranteed the world's fertility.
@@ -128,6 +128,22 @@ do they get in without being stripped": they **slip through the cracks**, not
 the gates. The underworld here *is* the Abyss tunnel-network, so a tunnel
 back-way in is native geography.
 
+**The gates and the covenant.** The seven gates are this deep-city's stretch
+of the dead's road — the same kept-road system as the Valley's twelve hours,
+under a different funerary tradition (see
+[Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)).
+Each land buried its dead with its own roll: Maalm's dead carried the twelve
+keepers of the hours; the dead of this land carried the seven gates, **Neti**
+chief among their keepers. The road's law runs both ways: a traveler who
+speaks a keeper's covenant name passes free, and a traveler without one may
+still be admitted — by submitting to the gate's toll. **The stripping is the
+toll.** Inanna paid it. The Second Hand paid it. The party paid it themselves
+in the [dream quest](the-dream-quest.md), in offerings and confessions,
+without knowing what it was. And the crack-route works *here* because the
+city is emptied — in the living city under the Kurunatukas the cracks are not
+unattended, which is why the endgame descent needs the names. This descent is
+the rehearsal.
+
 **The seven gates, witnessed.** The stripping already happened — to the Second
 Hand. As the party creeps past each gate from the inside, each holds one crew
 member's taken thing: Cassia's sword, Halvard's holy symbol, Nuru's focus,
@@ -151,6 +167,12 @@ instead of the monster. That is the climax.
 **Freeing Dumuzi** takes his **true name** — the campaign's central mechanic,
 turned once toward mercy: the same name-power that forges chains for Preem can
 here break the substitution and let the renewer rise. The land heals as he does.
+Where the name is: the **swap-rite at the descent-and-swap shrine** had to
+speak it — the rite raised him every year, and a rite that calls the dead up
+by name is a funerary text, the one kind of writing that ever carried a true
+name (see the covenant, above). The pass broke the rite mid-line and the
+inscription with it; **Geshtinanna knows the rite whole.** Recovering the name
+means mending the text, or finding her.
 
 **The substitute price.** A life for a life is the underworld's law. Lifting the
 crew, or Dumuzi, or both, calls for a substitute the galla will accept. The
@@ -158,8 +180,10 @@ intended resolution is **Geshtinanna** — Dumuzi's sister, come at last to take
 the half-sentence she was always meant to, a thousand years late. `[OPEN]`
 whether the party can find another answer, or whether the choice falls on them.
 
-**Neti's name.** The gatekeeper is a named demon, so his true name can be
-learned in the descent — and the party can **send it up to Preem or keep it.**
+**Neti's name.** The gatekeeper's covenant name is written in the burials near
+the descent-and-swap shrine — this land's dead were interred with their
+gatekeepers' names as safe-conduct, the same way Maalm's dead carried the
+twelve hours — and the party can **send it up to Preem or keep it.**
 Chain the doorkeeper who was only doing his job, or don't. The name quest's
 whole moral argument, in one small, low-stakes rehearsal.
 
@@ -181,7 +205,9 @@ him — which is exactly what his arc wants.
 
 - **The blighted surface location** — NW lean, settle with David.
 - **The substitute resolution** — Geshtinanna as intended, or a harder party choice.
-- **Neti's true name**, and the courtship-temple **poetry handouts** (verbatim).
+- **Neti's true name** (the name string itself), the **seven keepers' roll**
+  if the other six gates get named keepers too, and the courtship-temple
+  **poetry handouts** (verbatim).
 - **The heroes who slew Gugalanna** — a Gilgamesh/Enkidu analog, possibly a
   hook into wherever the Mesopotamian region eventually sits.
 - **Read-aloud and puzzle detail** for each of the four sites, once they're placed.

@@ -150,7 +150,14 @@ names of the keepers along the road — the literal purpose of the
 [Amduat](egyptian-afterlife-mythology.md), *to give the dead the names of every
 power in the underworld.* Giving a name cost a keeper nothing then. The spell
 that turns a name into a chain had not been dreamed of; a name spoken at a gate
-was a toll-word, not a leash.
+was a toll-word, not a leash. And a soul that arrived without the names could
+still cross: **a gate admits whoever submits to its toll** — the strippings,
+offerings, and trials the myths remember. The names made the road free; their
+absence made it cost. Each land's funerary tradition carried its own roll for
+its own stretch of the road — Maalm's dead were buried with the
+[twelve keepers of the hours](../encounters/valley-of-the-kings.md); the dead
+of the Musleheim country with the
+[seven gates](../encounters/the-descent-of-inanna.md) and their keepers.
 
 **So a demon's true name was only ever written in one kind of place: a sealed
 tomb.** The road-names went into burial texts prepared for one dead person and
