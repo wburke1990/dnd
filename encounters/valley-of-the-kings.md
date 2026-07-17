@@ -346,6 +346,33 @@ If they ask about specific elements:
 
 ---
 
+## The Roll of the Hours — the Twelve Keepers
+
+*Only if they look closely at the panels. This is the most valuable thing in the Valley, and the easiest to walk past.*
+
+*"Each panel has one figure standing at its edge, at a gate — a different figure in each: serpent-bodied, knife-bearing, animal-headed. The gate figures are painted smaller than the gods, but each one is finished with the same care as the boat itself. Beneath each, two short lines of hieroglyphs."*
+
+The upper line of each caption is a title; the lower line is a name. Readable per panel with a DC 12 Intelligence check, or automatically by anyone who reads Ancient Egyptian. Transcribing all twelve carefully takes 30 minutes.
+
+| Hour | Title | Name |
+|---|---|---|
+| 1 | The One who Rejects the Ignorant | Semti |
+| 2 | The Sad-Voiced One | Unhat |
+| 3 | The Burning Face | Teka-her |
+| 4 | He Whose Face Is Covered | Seres-her |
+| 5 | The Scowler | Hakheru |
+| 6 | She of the Knife | Nebt-des |
+| 7 | He Who Stands Against the Serpent | Khesef-her |
+| 8 | He Who Wakes the Dead | Ust |
+| 9 | The Oarsman | Aqebi |
+| 10 | He Who Lives in the Water | Tchetbi |
+| 11 | She Who Carries the Light | Neruit |
+| 12 | The Sleeper at the Last Gate | Aken |
+
+**DM note — what these are.** The twelve are the **keepers of the gates of the dead's road** — the covenant names the funerary tradition existed to carry, and the only kind of true name ever committed to writing (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)). A royal tomb carries the full roll; cheap burials carry titles only, which bind nothing. Which of the twelve are five millennia dead — a dead keeper's name binds nothing, and its successor is named in no tomb — and which still hold their gates is `[OPEN]`. Reveal it through [Mul's](../characters/mul.md) follow-up questions and the sudden jumps in his pay scale, not through exposition. Design intent: the deep hours (5–7) are the old, durable seats; if any keeper still answers to its covenant name, start there. The party missed these captions on their first pass — the [Lapis Writ did not](tavern-name-hunter-crews.md), and their [ledger](../handouts/the-lapis-writ-ledger.md) hands the roll over.
+
+---
+
 ## The Inner Chamber — Read Aloud
 
 *"The chamber beyond the noon pillar is small and low-ceilinged. In the center, a sarcophagus, plainer than you might expect. The niches in the walls are empty — whatever was placed here is long gone. One wall, however, is painted floor to ceiling with a single continuous scene unlike anything in the outer chamber. It takes you a moment to understand what you are looking at."*
@@ -364,6 +391,7 @@ The cartouche reads Amseh II. The sarcophagus is sealed. Inside, a mummified bod
 - Amseh II — sarcophagus cartouche
 - Ra — depicted and named in puzzle room paintings
 - Apep — named in hieroglyphs at base of puzzle room painting
+- The Twelve Keepers of the Hours — panel captions in the puzzle room, 30 minutes to transcribe (see the Roll of the Hours above)
 - The Serpent of Punt — depicted but unnamed in inner chamber painting
 
 ---
@@ -695,6 +723,7 @@ The cartouche reads Amseh IV. Sealed. Inside, a mummified body. Nothing else. Th
 | Amseh I | King | Tomb 1 — sarcophagus cartouche |
 | Ra / Harakhte | God | Tomb 2 — puzzle room paintings and Tomb 3 text |
 | Apep | Serpent | Tomb 2 — puzzle room painting, base inscription |
+| The Twelve Keepers of the Hours | Gate-keepers | Tomb 2 — panel captions, 30 min to transcribe |
 | Amseh II | King | Tomb 2 — sarcophagus cartouche |
 | Montu | God of war | Tomb 3 — battle painting text |
 | Neha-hau | Assessor | Tomb 3 — inner chamber painting |

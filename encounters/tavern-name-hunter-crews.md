@@ -231,7 +231,8 @@ and the revulsion at once.
 
 **The missing-names handoff (table-fix, weaponized as a mirror).** The party
 fumbled names in tombs one through three; the Writ didn't — Issa's ledger holds
-the complete set. A name is *knowledge*, not a consumable, so the Writ lose
+the complete set, twelve keepers and two-and-forty judges included (the handout:
+[`the-lapis-writ-ledger.md`](../handouts/the-lapis-writ-ledger.md)). A name is *knowledge*, not a consumable, so the Writ lose
 nothing by sharing duplicates (the party just speak them down their *own* sending
 stone) — which is exactly why they will, as a flex. Stage it
 member-to-counterpart: Doruk slides Sarric the camp-tomb names; Issa gifts Aniess
