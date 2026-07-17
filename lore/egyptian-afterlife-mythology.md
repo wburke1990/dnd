@@ -299,6 +299,9 @@ Egyptian priests performed this ritual daily to ensure Ra's safe passage. Images
 
 # CAMPAIGN CONNECTIONS
 
+**The covenant of the road:**
+The Amduat's stated purpose — giving the dead the names of every power in the underworld so that naming them commands them — is the seed of the campaign's whole names economy. In this world the funerary texts are the only place a demon's true name was ever written down: the covenant names the keepers of the dead's road gave the temples as safe-conduct, in the age before binding existed. See [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md).
+
 **True names and the Ren:**
 Egyptian soul theology treats the name (Ren) as a fundamental component of identity and existence. To know someone's true name is to have power over their soul. This maps directly onto the Planar Binding mechanic in your campaign — the wizard collects names, the demon wife was bound by her true name, and the party is harvesting names from the tombs without understanding what names mean in this theological context.
 

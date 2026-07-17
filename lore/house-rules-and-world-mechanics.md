@@ -46,13 +46,12 @@ A caster with a true name and access to 9th level spell slots can maintain perma
 
 ## True Names in the World
 
-True names are not widely known or documented. They are:
-- Held by the being itself
-- Occasionally known to beings of equivalent or greater power
-- Discoverable through extremely dangerous direct negotiation with the being
-- Possibly recorded in ancient texts, tombs, or divine registries
+A true name is secret in life, and always was. The living — mortal, demon, or god — go by public names: throne-names, temple-names, use-names. Archives, treaty-stones, and temple-rolls hold only those, and they bind nothing. A true name is:
+- Held by the being itself, and guarded
+- Takeable fresh only at the edge of true death (the Isis-and-Ra method)
+- Written down in exactly one kind of place: the funerary texts sealed into tombs — the covenant names the keepers of the dead's road gave the temples as safe-conduct, in the age before binding existed (see [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md))
 
-The wizard has collected a number of true names over the years — the foundation of his demon army. But he has **not visited the sites on his own map;** he sends crews out to **prospect** them — a fishing expedition for the rare usable name, with no guarantee any given dig turns one up. Most hauls disappoint: the **Valley of the Kings tombs, for instance, gave up only the divine and royal names of the long dead** — gods that are gone, kings that were mortal, names that bind nothing. The party is unknowingly prospecting demon-binding fuel for him, but a fishing trip is a fishing trip; sometimes the net comes up empty.
+The wizard has collected a number of true names over the years — the foundation of his demon army. But he has **not visited the sites on his own map;** he sends crews out to **prospect** them — a fishing expedition for the rare usable name, with no guarantee any given dig turns one up. Most hauls disappoint: gods that are gone, kings that were mortal, keepers five millennia dead whose gates have new wards — names that bind nothing. The **Valley of the Kings tombs gave up mostly that** — but Amseh II's royal tomb carries a full roll of the hours, the twelve keepers of the dead's road (see [the Valley of the Kings](../encounters/valley-of-the-kings.md)); which of those twelve still live and still hold their gates is exactly what Preem pays to find out. The party is unknowingly prospecting demon-binding fuel for him — and, without knowing it, the road down (see [the quest](demons-and-the-hotspot.md#the-quest--and-why-the-hunt-is-running-now)).
 
 ## Changing a true name — the only escape
 

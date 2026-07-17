@@ -105,9 +105,10 @@ property.
 
 A personal demon's true name cannot be read off it or overheard — a living demon
 that guards its name gives nothing away. There are only **two ways to come by
-one.** The first is to **find it already written:** recovered from the records of
-the open-names age (below), when demons used their names freely and mortals wrote
-them down. The second is to **take it fresh:** bring the demon to the edge of true
+one.** The first is to **find it already written:** lifted from the funerary
+texts of the old empires — the covenant names the keepers of the dead's road
+gave the temples, the one kind of place a demon's true name was ever set down
+(below). The second is to **take it fresh:** bring the demon to the edge of true
 death and have it surrender its name for its life — for a demon, true death is
 final, no return, which is what makes the threat absolute. Either way, once a name
 is had it can be copied and handed on and **never recalled;** a bound demon's only
@@ -128,31 +129,79 @@ within the elder one; see [the Second Foundation](the-second-foundation.md)), th
 turned it into the weapon — **Planar Binding, spoken with a true name, takes hold
 with no save and never lets go** (see [Preem's demons](../characters/preems-demons.md)).
 
-**But the key is useless without names to turn — and those come from the deep
-past.** In the long age before the weapon existed, **a true name was not a
-secret.** Knowing one did nothing; the spell that makes a name a chain had not
-been dreamed of. So demons, mortals, and gods alike **used their true names
-openly,** and those names were written down the way any name is — into
-temple-rolls, tomb-inscriptions, treaty-stones — by a world with no reason to
-guard them. The demon-people, **partners then and not prey, are all through those
-old records under their right names.** The invention of binding turned every one
-of those innocent inscriptions into a **loaded key** — and a demon that has never
-changed its name (to change it is to be unmade) can **still be bound today by the
-name it carried five thousand years ago.**
+**But the key is useless without names to turn — and no living demon will give
+one up.** A true name was **always secret, even then.** The myth the elves built
+from says so itself: Ra's name was *hidden* — Isis had to poison it out of him
+because it was written nowhere. So it is in the world. Mortal, demon, and god
+alike went by **public names** — throne-names, temple-names, use-names — and
+those are what fill the temple-rolls, treaty-stones, and ledgers of every age.
+An archive can be combed for nine hundred years and give up nothing but public
+names, which bind nothing. That combing has been done. It found what it could
+find.
 
-#### The quest
+**The one exception is the dead — and it is the whole quest.** The road to the
+[Duat](egyptian-afterlife-mythology.md) runs *down*, through the Abyss: every
+dead soul crosses demon country to reach its judgment. In the alliance age the
+demon-people were the road's wards, and the **keepers of its gates gave their
+names to the mortal temples as safe-conduct** — a dead soul speaks the keeper's
+name at the gate, and the keeper lets it pass. That covenant is what the
+funerary texts exist to serve: the priests buried each of their dead with the
+names of the keepers along the road — the literal purpose of the
+[Amduat](egyptian-afterlife-mythology.md), *to give the dead the names of every
+power in the underworld.* Giving a name cost a keeper nothing then. The spell
+that turns a name into a chain had not been dreamed of; a name spoken at a gate
+was a toll-word, not a leash.
 
-This is the campaign's spine. The Second Foundation does not *extract* names — it
-**recovers** them, working the old sites to lift true names out of the deep past,
-and it does the dangerous part the way it always has: with **expendable hired
-crews.** That is the "tomb errand" Preem hires the party for. **Every site they
-crack hands him another key.** Two things give the hunt teeth:
+**So a demon's true name was only ever written in one kind of place: a sealed
+tomb.** The road-names went into burial texts prepared for one dead person and
+closed in with the body — never into anything that circulated, never into an
+archive anyone could copy. And demons never needed each other's names — a demon
+guards its own and never learns another's — which is why **no bound demon can
+be interrogated for the road,** and why the demon-people cannot be tortured
+into surrendering what they do not hold. The covenant names exist in the mortal
+funerary lineage, or nowhere.
 
-- **The demons guard their own chains.** The demon-people remember the open age
-  and know what sleeps in those temples — the names that can enslave them — so
-  they **hunt the records to destroy them and hold the sites against intruders.**
+The invention of binding turned the covenant inside out. Every burial that
+carries the road-names is now a cache of keys, given in trust by the very
+beings they now enslave — and a keeper that has never changed its name (to
+change it is to be unmade) can **still be bound today by the name it gave the
+temples five thousand years ago.**
+
+#### The quest — and why the hunt is running now
+
+This is the campaign's spine. For most of its history the order needed a
+**stable, not an army.** Its first names were taken the Isis-and-Ra way — at
+the brink, in the war era — and the centuries since added a name here and a
+name there, enough for a tower of bound servants. The order binds what climbs
+*up.* It never needed the road *down.*
+
+**Preem does.** The magma demon's name is written in no tomb (below); it rests
+with the eldest keeper in the living deep city, and no mortal reaches the deep
+city except by the road — gate after kept gate, each answering to its keeper's
+name. The funerary texts are the **only itinerary there ever was.** So with the
+pass about a year out, Preem has abandoned the order's quiet pace and works the
+old burial sites with **many expendable hired crews at once** — the "tomb
+errand" the party was hired for — assembling two things from the same digs:
+
+- **Live keys.** Any keeper or deep power named in a burial text that still
+  lives and still bears its name is a bindable soldier for his post-Ragnarok
+  scheme. Most are not: cheap provincial editions carry only the keepers'
+  **epithets** — public names, worthless — and many keepers are five millennia
+  dead. A dead keeper's name binds nothing, and the successor at its gate is
+  named in no old tomb. Royal master editions carrying the covenant names are
+  the rare jackpots. That is why every dig is a fishing expedition, and why the
+  net still has to be cast at every site on the map.
+- **The road itself.** The gate-sequence down to the deep city, assembled
+  fragment by fragment from scattered editions. This is the cargo no hired
+  crew understands it is carrying.
+
+Two things give the hunt teeth:
+
+- **The demons guard their own chains.** The demon-people remember the covenant
+  and know what sleeps in those tombs — the names that can enslave them — so
+  they **hunt the texts to destroy them and hold the sites against intruders.**
   But the surface burns them (demons sicken in the open, above), so they cannot
-  freely purge the sunlit temples themselves — which is exactly why a patron needs
+  freely purge the sunlit sites themselves — which is exactly why a patron needs
   **mortals,** who can walk in where demons can't. Every name-hunt is a race
   against something with everything to lose.
 - **The slow burn.** The party think they are grave-robbing for a scholar-patron.
@@ -161,16 +210,26 @@ crack hands him another key.** Two things give the hunt teeth:
   readily as anything wearing a human face. They are forging chains, link by link,
   and delivering them to Preem, and they grasp it only after they have done it.
 
-The endpoint of the hunt is the **one name no temple holds — the magma demon's** —
+**And the party will need the road themselves.** The endgame runs through the
+deep city (below). When they descend, every gate on the way down answers to a
+keeper's covenant name — the covenant still holds the keeper, and there is no
+other door. To walk the road they must speak the names they have been selling,
+and watch each gate stop resisting. The toll is paid in the campaign's own
+currency.
+
+The endpoint of the hunt is the **one name no tomb holds — the magma demon's** —
 which is why getting *it* (below) is a different and far worse deed than robbing a
 tomb.
 
 > `[OPEN — the timing.]` Exactly when the binding was invented, and when the
-> open-names age ended, is **not pinned** (working figure ~1,850 ya, but loose).
-> **Settled and load-bearing for play:** names were used openly in the deep past
-> and recorded everywhere; the weapon came later and made those records lethal;
-> recovering them from dangerous, demon-watched sites is now an endless hunt — and
-> that hunt is the party's quest.
+> covenant age ended, is **not pinned** (working figure ~1,850 ya, but loose).
+> **Settled and load-bearing for play:** a true name was always secret in life;
+> the only written true names are the covenant names of the road's keepers,
+> set down in funerary texts and sealed one edition per burial; the weapon came
+> later and made those texts lethal; and what Preem is assembling is not a heap
+> of trophies but the **gate-sequence down.** Recovering the texts from
+> scattered, demon-watched sites is the endless hunt — and that hunt is the
+> party's quest.
 
 The magma demon has no mind to bargain with, so its name cannot be taken that
 way. It can only be **derived**, and only the demon-people, who have lived
