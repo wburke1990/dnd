@@ -104,6 +104,11 @@ Two flavors, many kin within each:
 - **The hand on the wall** is the earth-kin mark: before a giant lies down to
   become stone it presses a hand to the rock. There is no true name to leave,
   so they leave a hand. This is where **cave paintings** come from (§8).
+- **Dumuzi**, the trapped renewer of
+  [the Descent of Inanna](../encounters/the-descent-of-inanna.md), is of this
+  branch — nameless, unownable, held below by the underworld's law of
+  substitution rather than by any name. The quest built on him is the one
+  place the name-hunt's tool does nothing.
 
 **Sky — become the weather.**
 - **The weather-people** die into rain, rivers, storm, wind, the light on

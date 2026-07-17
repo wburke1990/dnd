@@ -68,7 +68,7 @@ The whole quest is one myth followed down as if it were true. In order:
 | **Ereshkigal** | Demon-queen of the deep-city | The one the party must reach — through grief, not force |
 | **Gugalanna** | The Bull of Heaven (a comet-beast) | Ereshkigal's dead husband; her grief |
 | **Inanna** | Demon who rose to rule above | The ancient descender; culpable for both deaths; long gone |
-| **Dumuzi** | Earth-spirit, the renewer | Trapped below; his imprisonment is the blight |
+| **Dumuzi** | Earth-spirit of the nameless lineage, the renewer | Trapped below; his imprisonment is the blight; no name exists to free or bind him |
 | **Geshtinanna** | Dumuzi's sister | The half-swap that never happened — the intended way out |
 | **Neti** | The gatekeeper | A named demon — his true name is takeable (see below) |
 | **Enki** | The maker | Made the kurgarra & galatur; the crack-route is his trick |
@@ -164,15 +164,17 @@ her grief instead of her throne** — echoing her pain rather than answering it.
 The party that has given up enough of its reflex to power can see the widow
 instead of the monster. That is the climax.
 
-**Freeing Dumuzi** takes his **true name** — the campaign's central mechanic,
-turned once toward mercy: the same name-power that forges chains for Preem can
-here break the substitution and let the renewer rise. The land heals as he does.
-Where the name is: the **swap-rite at the descent-and-swap shrine** had to
-speak it — the rite raised him every year, and a rite that calls the dead up
-by name is a funerary text, the one kind of writing that ever carried a true
-name (see the covenant, above). The pass broke the rite mid-line and the
-inscription with it; **Geshtinanna knows the rite whole.** Recovering the name
-means mending the text, or finding her.
+**Freeing Dumuzi — no name can do it.** Dumuzi is of the **nameless earth
+lineage** (see [lineages & afterlives](../lore/lineages-and-afterlives.md)):
+there is no true name to find, so the campaign's central tool gets no grip
+here. Let the players feel that — a party a dozen tombs into a name-hunt will
+reach for a name, and the walls of the courtship temples hold everything about
+him except one. The nameless cannot be owned, and cannot be ransomed by
+ownership either. He is held by the underworld's law, not by a leash — a life
+for a life — and the only door out is the **substitution** (below). This is
+also why the blight has stood for a thousand years: there was never a name to
+speak, so no wizard could shortcut it. Mercy here cannot be cast. It has to be
+paid. The land heals as he rises.
 
 **The substitute price.** A life for a life is the underworld's law. Lifting the
 crew, or Dumuzi, or both, calls for a substitute the galla will accept. The
