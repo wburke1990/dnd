@@ -485,11 +485,21 @@ member pauses for the duration of the dream and resumes when they wake.
 
 *"The boat moves without wind, without oar. The river of stars carries it forward. Then — something ahead. The river is blocked. Rising from the water, or from the darkness between the stars, a great serpent. Not large enough to be incomprehensible — but large. It looks at each of you in turn with golden eyes. It is reading something. You can feel it."*
 
+## If They Study the Serpent
+
+A character who reads Ancient Egyptian (or DC 12 Intelligence) can make out glyphs running across the serpent's brow-scales — a title, no name: **"The One who Rejects the Ignorant."** Read the title aloud and let it sit. Its covenant name — **Semti** — is captioned under Tomb 2's first panel, on the Roll of the Hours. If a player makes the connection and speaks the name, the serpent stops mid-motion and sinks aside. No save, no test, no greeting. The river is open.
+
+If the name was spoken, the dead man watches the serpent go under. Then, quietly:
+
+*"Where did you get a gate-name? My grandfather's grandfather was buried with those. We lost them."*
+
+He does not press. He looks ahead again.
+
 ## The Mechanic
 
 Group DC 12 Wisdom saving throw. More than half the party must succeed. The dead man does not roll — he belongs here. He passes automatically.
 
-*(DM: the serpent is the keeper of the first hour — its title, "the One who Rejects the Ignorant," and its covenant name, **Semti**, are captioned under Tomb 2's first panel. If a party member knows the name and speaks it, the gate opens without a save — see the Road and Its Keepers note above.)*
+*(DM: the serpent is the keeper of the first hour — see the Road and Its Keepers note above. If its name was spoken, skip the save entirely; the gate is already open. This is the only gate on the river a name opens.)*
 
 Characters who fail feel something pulled at — not painfully. As if the serpent found something in them that doesn't quite belong and is considering whether to let it pass. They pass regardless, but Anubis will look at these characters with particular attention later.
 
@@ -619,6 +629,24 @@ Take your time with this gate. It is not a puzzle to be solved quickly. It is th
 
 ---
 
+# BETWEEN GATES — THE EIGHTH HOUR
+
+*No test, no damage. A quiet stretch after the offering bowl, before the shore.*
+
+## Read Aloud
+
+*"The river runs level and slow. Along both banks, doors stand open in the dark — stone doorways, tomb doorways, hundreds of them, in rows receding up the banks. In each doorway the dead stand holding small lights. They do not speak and they do not follow. They watch the boat pass. Some of them raise their lights as the old man's boat goes by."*
+
+The dead man looks back at the doors for a long time. If anyone asks him about it:
+
+*"The eighth hour. The doors open when a light passes. I read about it my whole life."*
+
+He does not say anything else.
+
+*(DM: straight from the Amduat — Hour 8, "the tomb doors open; the dead awaken and receive light." The river is the road the tombs have been describing all campaign. Nothing to solve here. Let it be seen.)*
+
+---
+
 # GATE FIVE — ISIS, NEPHTHYS, AND SELKET
 
 *Tests: Advocacy — can the party speak for someone else's worth*
@@ -715,6 +743,8 @@ A brief breath before the Hall. No read-aloud needed here. Just a moment. The pa
 *Beside the scales, something waits. Part lion. Part hippopotamus. The head of a crocodile. It is not looking at the scales.*
 
 *The dead man is not in the Hall. Not yet."*
+
+*(DM — the palette. If a keeper's name was spoken on the river, any character who gets a look at Thoth's palette — a glance in passing, DC 12 Perception — finds it already there, written small among the entries: the gate-name, and beside it the name of the one who spoke it, the name they go by. Names spoken on the road are heard. Don't explain it; let them carry it out.)*
 
 ---
 
