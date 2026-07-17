@@ -104,6 +104,43 @@ the **volcano-demon's true name** and asked to use it. The dream quest is their
 
 ---
 
+# DM NOTE — THE ROAD AND ITS KEEPERS
+
+*Also private from the players. How the dream connects to the names the party
+has been collecting.*
+
+The river the party sails is the road the funerary texts were written for. The
+old faith buried its dead with the **names of the keepers of the road's
+gates** — the covenant names recorded in the Valley's royal tombs (the Roll of
+the Hours in [Tomb 2](valley-of-the-kings.md)) — so that the soul could speak
+each keeper's name at its gate and pass unchallenged (see
+[Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)).
+
+The party crosses carrying nothing. Every test on this river is what the road
+is for a traveler with no names: the serpent reads them at Gate One because no
+one aboard holds a name it must answer to; the boat outruns Apep instead of
+being carried past him; they argue, offer, and confess their way through
+stations a properly equipped soul walks through in silence. Ghassan's family
+kept the rite but not the roll — the names their faith once buried its dead
+with were lost generations ago.
+
+**Optional mechanic — a spoken name opens a gate.** If a party member
+transcribed the Roll of the Hours and speaks the right keeper's name at its
+gate, the gate opens. No test, no thanks, no greeting — the keeper simply
+stops, the way the bound always stop. Let it work, and let the players sit
+with how it felt: it is the same power Preem buys from them, used small. (Gate
+One answers to **Semti**, the first hour's keeper. Apep answers to nothing —
+chaos never entered the covenant, and his written name is a curse-word, not a
+true name. The judgment stations — Thoth's arch, the three goddesses, the
+Hall — are gods' seats, not kept gates; no name compels them.)
+
+The correspondence pays off at the endgame: the descent through the Abyss to
+the deep city walks this same road in the flesh, gate by kept gate, and the
+keepers' names are the only way down
+(see [the quest](../lore/demons-and-the-hotspot.md#the-quest--and-why-the-hunt-is-running-now)).
+
+---
+
 # THE STORE — THE HIRE
 
 The party's first contact with the family. **Muntadhir** — the elder
@@ -451,6 +488,8 @@ member pauses for the duration of the dream and resumes when they wake.
 ## The Mechanic
 
 Group DC 12 Wisdom saving throw. More than half the party must succeed. The dead man does not roll — he belongs here. He passes automatically.
+
+*(DM: the serpent is the keeper of the first hour — its title, "the One who Rejects the Ignorant," and its covenant name, **Semti**, are captioned under Tomb 2's first panel. If a party member knows the name and speaks it, the gate opens without a save — see the Road and Its Keepers note above.)*
 
 Characters who fail feel something pulled at — not painfully. As if the serpent found something in them that doesn't quite belong and is considering whether to let it pass. They pass regardless, but Anubis will look at these characters with particular attention later.
 
