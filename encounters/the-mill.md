@@ -104,7 +104,7 @@ tin cups and a bell-wire deeper in. **Not a damage trap — an early warning.**
   time-race terms this **downgrades a fast approach to a middle one** (she's leaving
   as they arrive), and a middle one to **gone.**
 
-### 2. The deadfall (the old cut gives way)
+### 2. The cave-in (the old cut gives way)
 
 A stretch of the dry side-cut runs under sagging timber shoring and loose rock — old
 work, long past trusting.
@@ -259,7 +259,7 @@ screens with rats and bolts.
       bit of misdirection, not a combatant.
 - [x] **Traps statted** (2024, level 2, all **dry** — the sacred water stays in its
       guarded channel): the **tripline** (V.'s alarm — downgrades the time-race), the
-      **deadfall** (dry rockfall, can block the cut), and the **lip of the abyss**
+      **cave-in** (dry rockfall, can block the cut), and the **lip of the abyss**
       (false rim over the huge hole — the dangerous one, a fall into the deep). Scale
       DCs/dice to the party.
 - [x] **Map** — **The Foundry (`56d9e9`)** as the under-mill old chamber (great
