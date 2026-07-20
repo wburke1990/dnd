@@ -17,9 +17,9 @@ The dead man's confession is the climax of the session. Everything before it is 
 
 **The Dead Man — Ghassan al Qahtani** — a wealthy merchant and spellcaster who died recently. Old and stooped. He spent thirty-one years binding a demon to his service using her true name, telling himself it was love, never asking whether she agreed. He has two children who survive him. David voices him.
 
-**Muntadhir al Qahtani** — the elder of the two children. David voices them at the house. They have made a kind of peace with their parents' history. After the dream they feel lighter — not happy, but done.
+**Muntadhir al Qahtani** — the elder of the two children. David voices them. They sat with their father's body while their sister minded the shop. They have made a kind of peace with their parents' history. After the dream they feel lighter — not happy, but done.
 
-**Ali/Zaynab al Qahtani** — the younger of the two children. (Given name decided at the table — Alizayd "Ali" or Zaynab; see the children's character note.) You voice them at the house. They are less resolved. When the party wakes they start to ask something and stop.
+**Ali/Zaynab al Qahtani** — the younger of the two children. (Given name decided at the table — Alizayd "Ali" or Zaynab; see the children's character note.) You voice them. **She is the one who hired the party at the store.** She is less resolved than her brother. When the party wakes she starts to ask something and stops.
 
 **Manizheh** — the dead man's wife. Present at the house before the dream. Silent. Gone when the party wakes. She spoke one sentence after her husband died, to no one in particular: *"I don't know what I would have chosen."*
 
@@ -39,7 +39,7 @@ The dead man's confession is the climax of the session. Everything before it is 
 
 *This note is for both DMs. Keep it private from the players.*
 
-The children are half-demon. Their mother was bound to the material plane by their father using her true name, renewed in a Planar Binding spell every year for thirty-one years. They are the children of that binding — born of it, shaped by it. Their souls are half-anchored to the Abyss in a way that makes the Duat inaccessible to them. They cannot enter the river of stars because they are not fully of the mortal world that feeds into it. They are not fully of the demon world either. They exist in between, and the door to the afterlife does not open for them.
+The children are half-demon. Their mother was bound to the material plane by their father using her true name, renewed in a Planar Binding spell every year for thirty-one years. Their souls are anchored to the Abyss in a way that makes the Duat inaccessible to them. They cannot dream and they do not know if they have an afterlife of any sort. They cannot enter the river of stars because they are not of the mortal world that feeds into it. The door to the human afterlife does not open for them.
 
 Their mother spoke one sentence after their father died, to no one in particular, before falling silent: *"I don't know what I would have chosen."* This is the truth. The binding made the question permanently unanswerable, even to her. She does not know what she would have chosen because she was never free to find out.
 
@@ -47,7 +47,7 @@ Their mother spoke one sentence after their father died, to no one in particular
 
 **You voice the younger child.** The younger child is less resolved. They keep looking at the door their mother used to stand in. When the party wakes they start to ask — *"Did he — was it —"* — and then stop. They realize they don't want the answer. Or that there isn't one to give.
 
-Neither child asks what happened to their mother. They already know she's gone. They knew she would be.
+Neither child asks what happened to their mother. They already know she's gone when the party wakes from the dream. The children knew she would be.
 
 ---
 
@@ -134,45 +134,50 @@ chaos never entered the covenant, and his written name is a curse-word, not a
 true name. The judgment stations — Thoth's arch, the three goddesses, the
 Hall — are gods' seats, not kept gates; no name compels them.)
 
-The correspondence pays off at the endgame: the descent through the Abyss to
-the deep city walks this same road in the flesh, gate by kept gate, and the
-keepers' names are the only way down
+The correspondence pays off in the descent of Inanna quest: the descent through 
+the Abyss to the deep city walks this same road in the flesh, gate by kept gate, 
+and the keepers' names are the only way down
 (see [the quest](../lore/demons-and-the-hotspot.md#the-quest--and-why-the-hunt-is-running-now)).
 
 ---
 
 # THE STORE — THE HIRE
 
-The party's first contact with the family. **Muntadhir** — the elder
-child, the practical one — is minding the family's healing-goods shop
-while his father lies dead at the house and his sister sits with the body.
-He hires the party here, giving away as little as possible. Everything
-about what the rite actually is, what the family is, and what waits in the
-dream stays for the house.
+The party's first contact with the family. **Ali/Zaynab** — the younger
+child — is minding the family's healing-goods shop while her father lies
+dead at the house and her brother sits with the body. She hires the party
+here, giving away as little as possible. Everything about what the rite
+actually is, what the family is, and what waits in the dream stays for the
+house.
 
 **Design rule for this scene.** The children speak of the afterlife only
 as inherited rite and rumor — never as an itinerary they have travelled.
-Muntadhir is half-demon and barred from that afterlife himself, so he must
-not hint at it, at *why* he cannot perform the rite, or at what the family
-is. In the store he is only a grieving merchant hiring help for "a rite
+Ali is half-demon and barred from that afterlife herself, so she must not
+hint at it, at *why* she cannot perform the rite, or at what the family
+is. In the store she is only a grieving merchant hiring help for "a rite
 for my father." Keep the river, the gates, the judgment, the Dream of the
 Blue Veil spell, and Wynken, Blynken and Nod all for the house.
+
+**Play her tight here.** Ali is the unresolved sibling, and the store is
+her holding it together — the lines are rehearsed, delivered fast, and she
+does not linger. That is what makes the house work: the same person comes
+apart there.
 
 ## Two Ways In
 
 **If the party haggles for a discount** (the natural trigger — they came
 in as customers):
 
-*(Muntadhir, weighing them, not unkind)*
-*"A discount. No — I don't discount. Ask anyone on this street; my prices are my prices."* *(then, deciding something)* *"But I'll do you better than a discount, if you're the sort who earns it."*
+*(Ali, weighing them, not unkind)*
+*"A discount. No — we don't discount. Ask anyone on this street; our prices are our prices."* *(then, deciding something)* *"But I'll do you better than a discount, if you're the sort who earns it."*
 
-**If the party doesn't haggle**, he reads them and opens it himself:
+**If the party doesn't haggle**, she reads them and opens it herself:
 
 *"Healing draughts, restoratives — a few things stronger, if you've the coin and the need."* *(glancing up, reading them)* *"Though you don't strike me as buyers. You've the look of people who take work."*
 
 ## The Pitch
 
-*"My father died this week. There's a task the family needs done for him — a rite. I'd rather not lay it out across a counter. Do that for me, and you don't get a* discount *— you get everything on these shelves at my* cost*, for as long as you deal with us. No margin, nothing kept back. And a debt owed, from me and mine, the kind you call in when it matters. That's worth more than any coin off a price, and a trader like me doesn't offer it twice."*
+*"My father died this week. There's a task the family needs done for him — a rite. I'd rather not lay it out across a counter. Do that for us, and you don't get a* discount *— you get everything on these shelves at our* cost*, for as long as you deal with us. No margin, nothing kept back. And a debt owed, from me and my brother, the kind you call in when it matters. That's worth more than any coin off a price, and we don't offer it twice."*
 
 *(the close:)* *"Come to the house tonight and find out."*
 
@@ -182,31 +187,31 @@ in as customers):
 *"A rite. A ritual for my father — for the dead. It has to be done properly, and done soon, and I'd sooner pay for hands that know their business than leave it to luck. What it asks of you, I'll tell you at the house. Not before."*
 
 **"Why hire strangers? Why not do it yourselves?"**
-*(a beat — and he simply doesn't answer it)* *"Come to the house."*
+*(a beat — and she simply doesn't answer it)* *"Come to the house."*
 
-He withholds without lying. His refusal to answer a reasonable question is
+She withholds without lying. Her refusal to answer a reasonable question is
 the scene's only real hook that something is wrong — and it leaks nothing
-about what he is or what waits in the dream.
+about what she is or what waits in the dream.
 
 ## What He Will and Won't Say Here
 
-- **Will:** his father died; there is a rite to be performed for him; it
+- **Will:** her father died; there is a rite to be performed for him; it
   pays in goods-at-cost plus a personal debt from both siblings; come to
   the house.
 - **Won't** (the house's to reveal): that it is a soul-crossing through
-  the Duat; that a spell (Dream of the Blue Veil) is involved; that he and
-  his sister cannot do it themselves, and *why*; that their mother is a
-  demon; anything of Wynken, Blynken and Nod. If the party digs, he
+  the Duat; that a spell (Dream of the Blue Veil) is involved; that she and
+  her brother cannot do it themselves, and *why*; that their mother is a
+  demon; anything of Wynken, Blynken and Nod. If the party digs, she
   deflects to the house.
 
 ---
 
 # PRE-DREAM — AT THE HOUSE
 
-Everything the store withheld pays off here. The store was Muntadhir
-*controlling* information; the house is where control slips — and it slips
-through **Ali/Zaynab**, the unresolved sibling, who says the true things
-her brother won't.
+Everything the store withheld pays off here. The store was Ali
+*controlling* information; the house is where her control slips. She says
+the true things her brother won't — and her brother, on home ground with
+his father's things around him, does the talking she can't.
 
 ## The Family Is Beautiful
 
@@ -216,8 +221,13 @@ flawless people of maybe thirty. Manizheh could be taken for the
 children's sister, not their mother. Play it as ambient, the way you
 notice good light; the party should read "lovely, strange, grieving
 family," not "demons." The children's beauty is a *seed* of their
-half-demon inheritance, a long-term hook — never a tell. Only the mother's
-beauty curdles, on a closer look, into something wrong.
+half-demon inheritance, a long-term hook — never a tell.
+
+The mother is the one who holds the eye. Her face does not move while
+she is being looked at. She holds an expression the length of a
+conversation and then changes it all at once. The line of her jaw and the
+set of her eyes are her son's exactly, and her daughter's, and she is the
+youngest-looking of the three.
 
 ## The Setup
 
@@ -225,8 +235,9 @@ The party arrives at a wealthy merchant house in mourning. **Ali/Zaynab**
 opens the door before they knock — she has been waiting, watching the
 street. The father's body is laid out in the bedroom. Their mother,
 **Manizheh**, stands silent in a far doorway and will not come into the
-room. **Muntadhir** is here too, steadier than his sister, but at home he
-manages the party far less than he did behind the shop counter.
+room. **Muntadhir** the party meets here for the first time: the elder,
+steadier than his sister, and out from under the shop counter she had to
+hold together.
 
 *(Ali/Zaynab, opening the door:)*
 *"You came. He said you might not."* *(stepping back to let them in)* *"He's through here. Mind your voices."*
@@ -268,12 +279,19 @@ of trade. The grieving family lives among the dead empire's things.
 Lay the museum on and let the party wander. It is the setting for the tour,
 and for the one relic that matters.
 
+*(DM — the map. The house is run on an **Egyptian museum** map: cases,
+plinths, wall reliefs, sarcophagi standing upright along the walls, rooms
+running into rooms. Read the gallery furniture as the family's house —
+what a museum displays behind glass, the al Qahtani live among. Ghassan
+bought all of it. Where the map shows a placard or a label, that's a
+trader's tag in his hand: where the piece came from and what he paid.)*
+
 ## The Tour — Muntadhir Walks Them Through
 
 Before the rite, **Muntadhir** takes the party through the house. Here he is
 on safe ground — this is the dead **father**, not the family's secret — so
-he gives freely what he guarded at the shop, and volunteers the background.
-(If David is away, the other DM voices him.)
+he gives freely what his sister guarded at the shop, and volunteers the
+background. (If David is away, the other DM voices him.)
 
 He talks about his father's faith. Ghassan kept the **old gods** — the gods
 of the Amseh empire, the ones on the tomb walls: Osiris, Anubis, Thoth. He
@@ -320,6 +338,13 @@ Keep the statue's provenance ambiguous; don't explain it. It is the spell's
 other-plane focus, and its payoff is the gift at the end — see
 [The Reward](#the-reward).
 
+*(DM — physical prop. There is a **real mini** on the table for this. Put
+it in a player's hand at the tour and let it stay out for the rest of the
+session — set at the center of the room during the casting, sitting there
+while they dream, and there on the floor beside them when they wake. If
+the rite lands they keep the mini; it comes to the table every session
+after this one.)*
+
 ## What They Actually Know — Almost Nothing
 
 This is the crux of the scene. **No one living has made this crossing** —
@@ -343,8 +368,8 @@ father will be judged; that the traveler must speak for him. All of that
 is discovered in the dream, not briefed here. **The party goes in blind** —
 and so does everyone.
 
-*(Muntadhir, plainer than at the shop:)*
-*"I'll be plainer than I was at the shop. There's a spell — I know how to cast it, and when. You say the words, and you... go. With him, or after him — I couldn't tell you which. We tried to be the ones. We can't get in. That's the whole of why you're here: someone who can."*
+*(Ali, plainer than she was at the shop:)*
+*"I'll be plainer than I was at the shop. There's a spell — we know how to cast it, and when. You say the words, and you... go. With him, or after him — I couldn't tell you which. We tried to be the ones. We can't get in. That's the whole of why you're here: someone who can."*
 
 ## "We've Tried" — They Cannot Cross the Threshold
 
@@ -949,7 +974,11 @@ thing from the other side that opened the way. He doesn't need it anymore.
 
 Keep the statue's provenance unexplained. It is a standing prop the party
 now carries: a genuine object from the other plane, and a thread to the
-under-city and the old gods whenever you want to pull it.
+under-city and the old gods whenever you want to pull it. **Hand over the
+actual mini at the table** and let whoever takes it keep it in front of
+them from here on.
+
+If the rite goes badly, the children keep it.
 
 The party levels up to level 2.
 
