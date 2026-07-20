@@ -54,7 +54,7 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | **Canyon Cave** | 55ed53 | ✅ perfect (fitted, cleaned) | Flush via plate-fit (vBase 17.99) — the map that proved the strategy. Akhekh **tunnels**. The 9 "figurine import errors" turned out to be 9 **blank placeholder `Figurine_Custom`** objects (empty image URL — not a throttling/rehost issue); removed, so it loads clean. |
 | Cave Altar | 432502 | 🔖 reserved | Works at **full floor 25 — do NOT shrink** (shrinking cuts its surroundings → black). Underground **tomb with a huge central statue**; pavilion needs a new texture. Future. |
 | The Sinkhole | ed6b26 | ❌ not usable | Offset both ways; small footprint over-zooms (~1.8×) if grown. Skip. |
-| Larders of Ill Omen | 6b9aab | 🔖 reserved | Great nest/lair; only 5 tiny props dropped in cleanup. Not this quest — banked. |
+| Larders of Ill Omen | 6b9aab | 🔖 reserved | Great nest/lair; only 5 tiny props dropped in cleanup. **Ships with fog-of-war tiles** — pre-placed FoW coverage baked into the map (no need for the `04638a` spawner). Not this quest — banked. |
 | CAVE Boss | 811e42 | 🔖 reserved | "Amazing", clean. Set aside for a future scene, not the akhekh. |
 | Dwarven cliffs with houses | 06363d | ❌ not usable | Core terrain meshes dead (Steam 404); cleanup left only floating houses/stones. |
 | Cave Entrance | abc718 | ❌ not usable | Too many trees for the akhekh; geyser-steam assets dead (`infinitebucket.com`). |
