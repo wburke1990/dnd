@@ -59,6 +59,8 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | Dwarven cliffs with houses | 06363d | ❌ not usable | Core terrain meshes dead (Steam 404); cleanup left only floating houses/stones. |
 | Cave Entrance | abc718 | ❌ not usable | Too many trees for the akhekh; geyser-steam assets dead (`infinitebucket.com`). |
 | Spiraling Pass | a7d428 | 🔀 mislabeled | Actually tropical islands, not a mountain pass — moved to Docks/coast. Useful later, not for the akhekh. |
+| **The Foundry** | 56d9e9 | ✅ **winner — the mill (under-city)** | Loaded perfectly; plate-fit (vBase 18.06). Underground: skeletons strewn across one room's floor, a large circular stone that reads as a **millstone**, an abyss in an adjoining room. Used as **the mill** — running in the top layer of the tunnels below Maalm, tying the under-city / "faithful survived underground" thread (Session 6). 34 dead-link pieces pruned; still looks great. |
+| **Valience Farmhouse** | c3aa13 | 🔖 reserved — too rural | A primitive rural farmhouse — too rural for the mill. **Removed from staging** after eyeballing; banked for a later rural scene. Floor looked great despite "no plate detected → default vBase 25" (the default fit fine here). 22 dead-link pieces pruned — the **cleaned bag is stashed** at `~/Library/Tabletop Simulator/map-stash/farmhouse_clean_c3aa13.json`, so re-import from *there* (donor `c3aa13`) to skip re-pruning. |
 
 ---
 
