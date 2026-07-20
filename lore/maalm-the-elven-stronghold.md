@@ -220,15 +220,17 @@ to the players in the opening session). **[settled]**
   it at the destination.** The mass grain feeds the city; the founder houses grind
   their own **garden-grown heritage grain** at small artisanal mills, fresh and for
   prestige (see [The Mill](../encounters/the-mill.md)).
-- **Organic matter may not leave the city.** The same logic that makes waste taboo
-  makes **export of organics a crime:** every scrap — dung, crop residue, carcasses,
-  even vermin — is fertility Maalm cannot spare, so carrying it *out* is smuggling
-  away the city's lifeblood. Read it as a corollary of the fertility law, enforced
-  at the docks.
+- **Organics are export-controlled — provisions yes, cargo no.** You may carry
+  **enough food for your own journey;** you may **not** take organics out in **export
+  quantity.** The same logic that makes waste taboo makes moving fertility *out* of
+  the city a crime: every scrap — dung, crop residue, carcasses, even vermin — is
+  fertility Maalm cannot spare. A corollary of the fertility law, enforced at the
+  docks: a traveler's rations pass, a cargo doesn't.
 - **[in play]** This is the legal teeth behind the
-  [docks arrest](../encounters/docks-departure.md): the trumped-up charge of
-  **"illegal export of the 20 rats"** the party is hauling is a real
-  organics-smuggling offense, not just a pretext.
+  [docks arrest](../encounters/docks-departure.md): **twenty rats is well past a
+  traveler's provisions,** so the charge of **"illegal export of the 20 rats"** is a
+  real organics-smuggling offense the watch can hang on the party — not just a
+  pretext.
 
 ### The green city — every affording house a farm
 - **[settled]** The food is grown **inside the walls.** Maalm feeds itself from
