@@ -20,6 +20,16 @@ set -u
 # Always-on: hook path wiring. Cheap and required for commits to be guarded.
 git config core.hooksPath .githooks 2>/dev/null || true
 
+# Always-on: author identity. Commits here should credit the repo owner on
+# GitHub (the contribution graph keys off the author email), with Claude kept
+# as a Co-Authored-By trailer in the message. Set locally (this repo only) on
+# every device so a fresh clone/new machine doesn't fall back to a hostname
+# default like "wcb@host.lan" (which credits nobody) or to "Claude
+# <noreply@anthropic.com>" (which credits nobody either). Only credits the
+# graph if this email is a verified address on the owner's GitHub account.
+git config user.name "William Burke" 2>/dev/null || true
+git config user.email "williamconroyburke@gmail.com" 2>/dev/null || true
+
 # Always-on: fast-forward main to origin so a session starting behind another
 # device's pushes doesn't read stale files. Safe by construction:
 #   - only when on `main` (this repo is main-only; never touch a feature branch)
