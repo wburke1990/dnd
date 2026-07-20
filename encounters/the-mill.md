@@ -192,6 +192,89 @@ screens with rats and bolts.
 
 ---
 
+# V. — STAT BLOCK
+
+*Level-10 Arcane Trickster rogue · Medium humanoid (human) · lawful neutral ·
+effective challenge ~5–6.* A blonde, hooded woman working under the alias **V.**
+Ability array and spell picks are a defensible build — retune to taste.
+
+| | |
+|---|---|
+| **Armor Class** | 16 (studded leather) |
+| **Hit Points** | 73 (10d8 + 20) |
+| **Speed** | 30 ft. |
+| **Initiative** | +4 |
+| **Proficiency Bonus** | +4 |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 18 (+4) | 14 (+2) | 16 (+3) | 12 (+1) | 14 (+2) |
+
+- **Saving Throws** Dex +8, Int +7
+- **Skills** Stealth +12, Investigation +11, Deception +10, Perception +9,
+  Sleight of Hand +8, Insight +5, Persuasion +6
+- **Passive Perception** 19
+- **Languages** Common and two others (a spy's)
+
+**Sneak Attack (5d6).** Once per turn, **+5d6** on a hit with a finesse or ranged
+weapon when she has advantage, or when an ally is within 5 ft of the target and she
+isn't at disadvantage.
+
+**Weapon Mastery — Vex.** When she hits and damages a creature with her shortsword or
+hand crossbow, she has **advantage on her next attack against it** before the end of
+her next turn — her reliable way to re-arm Sneak Attack.
+
+**Steady Aim (Bonus Action).** If she hasn't moved and won't move this turn, she gains
+**advantage on her next attack** (another Sneak Attack enabler).
+
+**Cunning Action (Bonus Action).** Dash, Disengage, or Hide.
+
+**Cunning Strike (save DC 16).** She may spend Sneak Attack dice for effects on a hit:
+**Withdraw** (1d6 — move half her speed without provoking opportunity attacks),
+**Poison** (1d6 — Con save or poisoned 1 min), **Trip** (1d6 — Dex save or prone).
+
+**Uncanny Dodge (Reaction).** Halve the damage of one attack she can see hit her.
+
+**Evasion.** On a Dexterity save for half damage, she takes **none** on a success and
+half on a failure.
+
+**Reliable Talent.** On any ability check with a skill she's proficient in, treat a
+d20 of 9 or lower as a **10** — she rarely fails Stealth, Deception, or Investigation.
+
+**Magical Ambush.** If she is **hidden or invisible** from a creature when she casts a
+spell on it, that creature has **disadvantage on the save** (pairs with *Invisibility*
+→ *Charm Person* / *Suggestion*).
+
+**Spellcasting (Intelligence; spell save DC 15, +7 to hit).** She casts wizard spells:
+- **Cantrips:** *Mage Hand* (with **Mage Hand Legerdemain** — the hand is invisible and
+  can stow/retrieve an object, pick a lock, or pick a pocket at 30 ft), *Minor
+  Illusion*, *Prestidigitation.*
+- **1st level (4 slots):** *Disguise Self, Charm Person, Silent Image, Find Familiar.*
+- **2nd level (3 slots):** ***Invisibility*** *(her signature escape), Misty Step,
+  Suggestion.*
+
+### Actions
+- **Shortsword.** *Melee, finesse:* +8 to hit, reach 5 ft. *Hit:* **8 (1d6+4)**
+  piercing, plus **17 (5d6)** if Sneak Attack applies. (Vex.)
+- **Hand Crossbow.** *Ranged, finesse:* +8 to hit, range 30/120 ft. *Hit:* **8 (1d6+4)**
+  piercing, plus Sneak Attack if it applies. (Vex.)
+
+### Bonus Actions
+- **Steady Aim**, **Cunning Action** (Dash / Disengage / Hide), or **Misty Step**
+  (2nd-level slot — 30-ft teleport, her short-range escape).
+
+### Reactions
+- **Uncanny Dodge.**
+
+**Running her in a fight.** She opens **hidden or invisible.** If forced, she lands
+**one big Sneak Attack (~25 on a hit)** — enough to drop a level-2 PC to 0, though
+**not** to kill outright from full — then breaks away: *Invisibility*, *Misty Step*,
+or **Cunning Action: Disengage** toward the shaft, with **Uncanny Dodge** to survive a
+focus-fire round. She fights **to leave, not to win;** the moment it turns costly she
+is gone down the hole (see *The lip of the abyss*).
+
+---
+
 # RUNNING IT
 
 - **Play it as intrigue first, fight second.** The scene wants **stealth, watching,
