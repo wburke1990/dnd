@@ -420,6 +420,15 @@ heart; the stone is on the outside
 about, so he will answer all of this plainly, which is what makes the beat
 work — he gives them the truth for free and gets nothing back.
 
+**If Ali puts the question to the whole room, every PC answers yes** — but
+the answers don't match, and that's the fun of it. Jasper, Aniess and Sam
+describe dreams the way anyone would: places, faces, a story. **Sarric**
+would say he doesn't dream, and then describe one anyway — no pictures and
+nobody in it, and he wakes knowing where the water is under the house.
+**Pax** has two kinds of night and no idea they're two, and will tell you
+both are the world speaking to him. Let the mismatch pass without comment.
+Nobody in the room is equipped to notice it except the reader.
+
 When he says yes, Ali stops asking. **If the party presses on why she
 wanted to know**, that is where it comes out:
 
@@ -439,6 +448,14 @@ It is not a journey they fail. It is a journey that is never offered. See
 [Lineages & Afterlives §11](../lore/lineages-and-afterlives.md). Neither
 child knows this — they were raised on a story and believe it, so play
 them honestly ignorant.)*
+
+*(DM — **the whole party gets in, full stop.** The spell needs a sleeper
+with a road, not the *right* road; the poem and the statue supply the
+destination. Sarric's nights run down into the land and Pax's alternate
+between soil and something that addresses him — neither is a river of
+stars, and **both of them travel anyway.** The lineage rule is here to
+make the children's exclusion mean something, never to bench a player.
+If a player asks whether their character can do this: yes.)*
 
 *(DM — the family wants nothing more than this. The rite is a
 **death-rite**: shepherd Ghassan to judgment. No resurrection, no second

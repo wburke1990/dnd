@@ -37,6 +37,12 @@ Mak = "Mak"  # place name: Ilka Mak, Noku Kurunatuka's beachhead on Musleheim
 # handouts/ (not our prose — do not "correct" the poem).
 layed = "layed"  # Ezra Pound, "The Seafarer" (1911): "The blade is layed low."
 nomes = "nomes"  # Admonitions of Ipuwer: Egyptian nomes (districts) — not "gnomes."
+# Homeric transliterations, quoted verbatim from named translators in
+# references/homeric-epithets.md. Lattimore renders the Greek Ἀχιλλεύς as
+# "Achilleus" and Fitzgerald as "Akhilleus"; both are the translator's
+# spelling, not ours to correct.
+Achilleus = "Achilleus"
+Akhilleus = "Akhilleus"
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.

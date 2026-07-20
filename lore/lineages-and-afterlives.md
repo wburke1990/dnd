@@ -213,9 +213,10 @@ chosen vs. inflicted:**
 ## 11. Dreaming — you rehearse the death you have
 
 **The rule: a dream is the soul walking a little way down the road it will
-take at death, and coming back.** So dreaming is not universal, and it is not
-the same event in two different heads. What a people does at night follows
-from where its dead go (§2).
+take at death, and coming back.** Everyone with somewhere to go dreams. What
+differs is the *shape* of it, because the shape follows the destination (§2)
+— and one lineage has no destination at all, which is the only case where the
+door of sleep does not open.
 
 - **Dragon people dream the way everyone assumes dreaming works** — images, a
   road, a self travelling it, other people's faces. Their dead are carried up
@@ -226,12 +227,13 @@ from where its dead go (§2).
 - **Sky-nameless — the weather-people — dream widest.** No plot, no body:
   weather from the inside. Wind, rain, the light on grain. They wake unable to
   say what happened and rested anyway.
-- **Earth-nameless do not dream. They settle.** No images, no story, no self —
-  and they wake knowing things about the ground: where the water is, where the
-  stone is faulted, what died nearby. True Giants, Firbolgs, Sarric. Their
-  dead go down into the land, so their sleep rehearses dissolving into it. Ask
-  a Firbolg what he dreamt and the question does not translate; ask him what
-  the ground is doing and he can tell you.
+- **Earth-nameless dream downward. They settle.** No images, no story, no
+  self — and they wake knowing things about the ground: where the water is,
+  where the stone is faulted, what died nearby. True Giants, Firbolgs, Sarric.
+  Their dead go down into the land, so their sleep rehearses dissolving into
+  it. Ask a Firbolg what he dreamt and he will say he didn't; ask him what the
+  ground is doing and he can tell you. **He is dreaming — his road just runs
+  the other way.**
 - **Demons do not dream. Demons do not sleep.** They have one existence and
   nothing after (§3) — no road, nothing to rehearse, and no night to rehearse
   it in. A demon is awake continuously from the moment it exists until it is
@@ -242,12 +244,38 @@ from where its dead go (§2).
   Eternal-but-owned suggests they don't dream either, or dream only what
   they're permitted to.
 
-**Half-lineage sleepers.** A cross-lineage child (§6) has two roads, or one and
-a dead end. **The al Qahtani children** are the dead-end case: the mortal half
+**A door is a door — what dream-travel actually requires.** This is the part
+that matters at the table. A spell like *Dream of the Blue Veil* does not need
+you to have the *right* road. It needs you to have **a** road, because that is
+what opens the door of sleep; the spell supplies the destination itself (the
+poem sets the route, the other-plane focus sets the far end). So **anyone with
+an afterlife can be put on anyone's road.** A Firbolg whose nights run down
+into the land can be walked up a river of stars; it is not his road and it
+works anyway. **Only demons cannot travel, because only demons have no door.**
+
+Never use this rule to lock a player out of a dream. It exists to make the
+al Qahtani children's exclusion mean something — they are the exception, and
+they are the exception precisely because everyone else at the table gets in.
+
+**Cross-lineage sleepers.** A cross-lineage child (§6) has two roads, or one
+and a dead end. **The al Qahtani children** are the dead-end case: the mortal half
 sleeps normally, and the demon half has nowhere to go, so **the door of sleep
 does not open for them at all.** They lie down, say the words, close their
 eyes, and there is only sleep — not a failed journey, no journey attempted.
 Neither child knows this is why. They were raised on a story and believe it.
+
+**Pax** is the other cross-lineage case, and the opposite one: two roads, so
+**two kinds of night, alternating.** Some nights he settles, earth-nameless,
+and wakes knowing the ground. Other nights the celestial half takes him — and
+the true-named do not *have* dreams so much as receive them, so those nights
+arrive as address: something speaks to him, and he wakes instructed. **He
+attributes both to the Green Revelation.** Both are real; he is right that
+something is talking to him and wrong about what. This holds his sheet's
+*delusional-or-chosen* ambiguity exactly where it belongs
+([sheet](../characters/pax.md)) and makes his canon line — *"where other
+students heard the wind, Pax heard instructions"* — literally true. The man
+whose death is a choice between soil and spirit has been rehearsing that
+choice, alternately, every night of his life, and does not know it.
 
 **How the party can work it out.** The same way as everything else here —
 burial customs, and who in a room answers the question "did you sleep well."
