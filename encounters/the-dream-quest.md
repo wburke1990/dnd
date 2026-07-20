@@ -193,6 +193,12 @@ She withholds without lying. Her refusal to answer a reasonable question is
 the scene's only real hook that something is wrong — and it leaks nothing
 about what she is or what waits in the dream.
 
+**Jasper, in the store.** Ali looks at him and doesn't ask. She takes him
+in over the counter, twice, and goes back to the pitch. If a player calls
+her on it she says *"I've not seen one of you before,"* and leaves it. The
+questions are her brother's to ask at the house — see
+[The Jasper Question](#the-jasper-question--how-the-no-dream-secret-surfaces).
+
 ## What He Will and Won't Say Here
 
 - **Will:** her father died; there is a rite to be performed for him; it
@@ -384,6 +390,55 @@ them **not** know (they were raised on a story and believe it; don't
 over-explain):
 
 *"We don't know why. Because of what we are, maybe. Because we loved him. Because it simply isn't ours to do. We only know you can go where we cannot."*
+
+## The Jasper Question — How the "No Dream" Secret Surfaces
+
+*This is the vehicle for the thing the siblings have not said: they do not
+dream. Don't force it. If the party doesn't take it, hold it for the
+morning.*
+
+Both siblings keep coming back to **Jasper**. They are not rude about it —
+they don't stare — but they look at him more than at the others, and
+Muntadhir asks. He has never seen an Earth Genasi. He wants to know what
+Jasper is, and the question is a real one to him, because the rite turns
+on it.
+
+*(Muntadhir, to Jasper, direct but not unkind:)*
+*"Forgive me. I've never met one of your people. Were you made, or were you born?"*
+
+*(and, whatever Jasper answers:)*
+*"Is there a soul in there? I'm not being cruel. I need to know what I'm sending, and I'd rather ask you than guess."*
+
+Then Ali, who has been waiting for it:
+
+*(Ali:)*
+*"Do you dream?"*
+
+**Jasper does.** He is a descendant of humanoids with a soul, organs, a
+heart; the stone is on the outside
+([jasper.md](../characters/jasper.md)). He also has nothing he won't talk
+about, so he will answer all of this plainly, which is what makes the beat
+work — he gives them the truth for free and gets nothing back.
+
+When he says yes, Ali stops asking. **If the party presses on why she
+wanted to know**, that is where it comes out:
+
+*(Ali:)*
+*"We don't. Either of us. Not once, not one night. Our father read us that poem every night we were children and neither of us has ever had a dream to put it in."* *(then, before anyone can answer)* *"We say the words and we sleep. That's all it's ever been."*
+
+**Why this lands.** The siblings look at the man made of rock and ask
+whether there's anything inside him. There is. They are the ones who
+cannot dream. Let the party find that on their own — nobody in the room
+says it.
+
+*(DM — what stays `[OPEN]`. This admits the mechanism, not the cause.
+Neither sibling says *why* they don't dream; they were raised on a story
+and believe it (see "We've Tried," above). Also unresolved: whether the
+family wants more from this rite than a clean passage — as written it is a
+**death-rite**, shepherding Ghassan to judgment, not raising him. If
+anyone at the table is reading it as a resurrection, don't confirm or deny
+it here. See the open threads in
+[Session 6](../sessions/session-06.md).)*
 
 ## The Poem Is the Spell
 
