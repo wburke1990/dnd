@@ -10,7 +10,7 @@
 > takes the stolen maps off Ratatat and pays him. This is the party's **first
 > contact with the First Foundation.** If they move fast they catch the handoff;
 > if they're slow the freed rat man warns V. and the place is empty. Either way,
-> pushed, **V. goes down the shaft into the deep and is gone.**
+> pushed, **V. goes invisible and down the shaft into the deep, and is gone.**
 
 ---
 
@@ -47,48 +47,45 @@ get away.
 
 # THE PLACE
 
-## The mill, above
+## The mill, underground
 
-A modest **artisanal mill** in the mixed city — **north of the star fort, near
-the docks but not on them** (per David's placement; the star fort is the walled
-founders' quarter at the north of the plan, see
-[Maalm](../lore/maalm-the-elven-stronghold.md)). It grinds **heritage grain the
-founder houses grow in the upper-city gardens** — small batches, fresh to order,
-for people who can afford flour that hasn't traveled or sat. It is **not** the bulk
-trade: Maalm imports its mass grain **whole, by boat** (flour spoils; you ship
-grain and mill it at the destination), and this little grinder is a boutique beside
-that. Quiet, respectable, low foot traffic — which is the whole point.
+A small **artisanal mill** entered from the mixed city **north of the star fort,
+near the docks but not on them** (the star fort is the walled founders' quarter at
+the north of the plan, see [Maalm](../lore/maalm-the-elven-stronghold.md)). Its
+working chamber is **underground** — cut into Maalm's **upper tunnels** and driven
+by the water-channels that run there (the city's fresh water never stands in the
+open; it runs below). It grinds **heritage grain the founder houses grow in the
+upper-city gardens** — small batches, fresh to order. It is **not** the bulk trade:
+Maalm imports its mass grain **whole, by boat** (flour spoils; you ship grain and
+mill it at the destination), and this grinder is a boutique beside that. Quiet, low
+traffic, out of sight — which is the point.
 
-The **miller** works the ground floor and the cellar and goes no deeper. See
-Dramatis Personae — he is innocent, and knowing nothing is what keeps him alive
-and keeps the meeting clean.
+The **miller** works the mill chamber and goes no farther into the tunnels. He is
+innocent (see Dramatis Personae); knowing nothing keeps the meeting clean.
 
-## The way down
-
-The mill taps the **upper tunnels** for its power and its water — Maalm's fresh
-water runs underground, never in open pools. The mill's cellar opens on an old
-**water-channel**; follow it and the worked stone gives way to the older cut. The
-party finds the way down by **watching the mill** (Ratatat or V. uses it), by
-**pressing the miller** (he can point to the cellar channel he's told never to
-follow), or by **coming up from the tunnels** if they're already in the under-city.
-
-## The under-mill — the old chamber
+## The mill chamber and the adjoining tunnels
 
 **TTS map: The Foundry (`56d9e9`), staged in [`19 - staging`](../tts/one-world-maps-inventory.md).**
-An **older, water-driven mill** cut into the tunnels: a **great millstone**, run
-off the channel that still flows through. Along one wall, **bones — a dozen or
-more, lying where they fell**, not buried. In an adjoining room the floor opens on
-a **shaft that drops into the dark** — the way down from the upper tunnels toward
-the **deep**: Ammit's tomb, the Abyss, the demons, the forbidden reaches
-([the deep](../lore/maalm-the-elven-stronghold.md)). The cistern-keeper caste know
-the safe paths through here. Nobody else who comes down does.
+Read the map's rooms as two things:
 
-This is the **dead ground** where V. meets Ratatat, and where V. goes to ground.
+- **The mill chamber** — the **great water-driven millstone**, run off the channel
+  that flows through. The miller's ground.
+- **The adjoining tunnels** — the rooms beyond: **bones along one wall, a dozen or
+  more, lying where they fell**, not buried; and a **shaft that drops into the
+  dark**, the way down from the upper tunnels toward the **deep** — Ammit's tomb,
+  the Abyss, the demons, the forbidden reaches
+  ([the deep](../lore/maalm-the-elven-stronghold.md)). The cistern-keeper caste know
+  the safe paths through here; nobody else who comes down does, which is what the
+  bones are.
+
+**V. meets Ratatat out in the adjoining tunnels, not at the millstone** — "the
+mill" is only the landmark Ratatat was told. The party **finds her by exploring the
+tunnels adjoining the mill chamber.** The shaft is where she goes to ground.
 
 ## The tunnels and the traps
 
-The approach is a short run of **water-channels and dry side-cuts** between the
-mill cellar and the old chamber. Seed it with:
+The approach is a short run of **water-channels and dry side-cuts** through the
+tunnels adjoining the mill chamber. Seed it with:
 
 - **V.'s alarms.** A tripline on the channel, a rigged fall of stones, a bell-wire
   — a careful agent's early warning that someone is coming down. Springing one
@@ -128,18 +125,19 @@ handles him by note, not by the Foundation's magic comms.
 
 # DRAMATIS PERSONAE
 
-**V. — the First Foundation's one agent in Maalm.** `[settled]` A **dragonborn**,
-of the order's founding stock — the seafaring dragonborn who raised Musleheim and
-whose zealot branch carried the craft home to **Jotunheim**, where a copy of the
-order survived while the center drowned (see
-[the First Foundation](../lore/the-first-foundation.md)). V. is that remnant's
-one hand still working inside Preem's city: a **handler and a spy**, not a
-duelist. He runs hard operational security — no other agents the party can reach,
-real comms by magic, this dead-ground meet he can vanish from. He reads the party
-as **Preem's people**, so he is wary — but Preem's hirelings are exactly the kind
-who might be **turned**, and V. knows it. Pushed or cornered, he **goes down the
-shaft into the deep** and is gone. `[OPEN]` V.'s name and face; whether he parleys
-or only runs on this first contact.
+**V. — the First Foundation's one agent in Maalm.** `[settled]` A **human woman:
+blonde, hooded** (David's mini). **"V." is an alias** — her real name is unknown,
+to the party and for now to us. She serves the
+[First Foundation](../lore/the-first-foundation.md), Preem's rivals — the older
+order, now **weaker than Preem's Second Foundation but watching it** (the First
+knows the Second; see the lore). She is a **handler and a spy**, not a soldier:
+mechanically a **level-10 Arcane Trickster rogue** — high stealth, **Sneak Attack
+~5d6**, **Uncanny Dodge** and **Evasion** to shrug off a first strike, and the
+**Invisibility** spell to break contact. She reads the party as **Preem's people**,
+so how she plays them is **theirs to determine**: depending on how they act she may
+**turn or recruit them**, or **fight** — but she fights **to get clear, not to
+win.** Pushed or cornered, she goes **invisible and down the shaft into the deep**,
+and is gone. `[OPEN]` V.'s real name; her cover in the city above.
 
 **The miller.** `[loose]` An artisan who grinds the founder houses' garden grain
 and asks no questions about the cellar channel he was told never to follow. He is
@@ -162,20 +160,27 @@ screens with rats and bolts.
   and a conversation** more than initiative. Reward a party that scouts the mill,
   reads the miller, and moves quietly down the channel over one that kicks the
   cellar door.
-- **First contact with V. is the payload.** If they catch him, let him **talk before
-  he runs** — a careful man buying a moment. He can:
-  - name the party as **Preem's**, and let them hear that whoever he is, he is
+- **First contact with V. is the payload.** If they catch her, let her **talk before
+  she runs** — a careful woman buying a moment. She can:
+  - name the party as **Preem's**, and let them hear that whoever she is, she is
     **against Preem**;
   - plant a **seed** — that the maps say where Preem is collecting and what, that
     Preem's errand is not what they were told, that there is another side to be on;
-  - offer nothing he can't afford to lose, and **leave first**.
+  - offer nothing she can't afford to lose, and **leave first**.
   This is the campaign's climax choice (First Foundation vs. Second) getting its
   first face. Don't resolve it here — open it.
-- **V.'s exit is the shaft.** The instant the party's weight lands — weapons up, a
-  failed parley, a sprung trap behind them — V. **goes down into the deep.** The
-  party will not follow far: the deep is Ammit's tomb, the Abyss, the easy death of
-  the dark ([the deep](../lore/maalm-the-elven-stronghold.md)). Chasing him is how
-  they learn where the shaft goes, not how they catch him.
+- **She fights to escape, not to win.** A **level-10 Arcane Trickster** against a
+  level-1–2 party is dangerous — one **Sneak Attack (~5d6)** can drop a squishy PC —
+  but she is **single-target with no AoE**, so a 5-on-1 swarm can force her out, and
+  she has every in-character reason **not** to leave bodies in her own dead-drop
+  (noise, the watch, a burned spot). Play her to **bloody them and break contact**,
+  not to wipe them; save real lethality for later levels.
+- **V.'s exit is invisibility and the shaft.** The instant the party's weight lands —
+  weapons up, a failed parley, a sprung trap behind them — she goes **invisible**
+  (Cunning Action to disengage/hide behind it) and **down the shaft into the deep.**
+  The party will not follow far: the deep is Ammit's tomb, the Abyss, the easy death
+  of the dark ([the deep](../lore/maalm-the-elven-stronghold.md)). Chasing her is how
+  they learn where the shaft goes, not how they catch her.
 - **The traps are the pressure.** With no boss to fight, the tunnels carry the
   tension: the alarm that costs them the fast-approach, the undercut floor, the sump
   over the deep. A sprung alarm can **convert a fast approach into a middle one** —
@@ -191,9 +196,9 @@ screens with rats and bolts.
 # AFTERMATH & LEADS
 
 - **The First Foundation is now a face, not a rumor.** Even a glimpse of V. — a
-  dragonborn who buys Preem's stolen maps and drops into the forbidden deep — is the
-  first concrete sight of Preem's rivals, and the on-ramp to the choice the campaign
-  ends on ([the First Foundation](../lore/the-first-foundation.md),
+  hooded woman who buys Preem's stolen maps and vanishes into the forbidden deep —
+  is the first concrete sight of Preem's rivals, and the on-ramp to the choice the
+  campaign ends on ([the First Foundation](../lore/the-first-foundation.md),
   [overview](../lore/campaign-overview.md)).
 - **The shaft opens the under-city.** The party now knows a way down toward the
   **deep** — Ammit's tomb, the Abyss — and that V. uses it. That seeds the under-city
@@ -209,9 +214,9 @@ screens with rats and bolts.
 
 # LOOSE ENDS FOR PREP
 
-- [ ] **V.'s name and face** — settled as a **dragonborn agent of the surviving
-      (Jotunheim) order**; `[OPEN]` his name, his cover in the city, and whether he
-      parleys or only runs on first contact.
+- [ ] **V.** — settled: a **human woman (blonde, hooded), a level-10 Arcane
+      Trickster** agent of the First Foundation, known only by the alias **V.**
+      `[OPEN]` her real name and her cover in the city above.
 - [ ] **Name the miller** and pick his race; keep him innocent — the way down and a
       bit of misdirection, not a combatant.
 - [ ] **Pick and stat the traps** — V.'s alarms plus old under-city hazards over the

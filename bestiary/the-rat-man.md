@@ -50,7 +50,9 @@
     each other, and they handle real comms **by magic,** leaving no network to
     roll up). V. keeps Ratatat at arm's length precisely so a captured thief is a
     dead end. The caught [gate guard](../sessions/session-04.md) and Ratatat both
-    point at **V. and no further.** `[OPEN]` who V. is.
+    point at **V. and no further.** `[settled — chat]` V. is a hooded human
+    **[First Foundation](../lore/the-first-foundation.md)** agent (a level-10 Arcane
+    Trickster) working under the alias **V.**; `[OPEN]` her real name.
 
 ---
 
@@ -184,8 +186,11 @@ drop to 8 to taste, or omit entirely for a smoother fight.
 ## Open threads
 
 - `[OPEN]` **Rat-headed vs. human** — settle his appearance / the reveal.
-- 🔒 `[OPEN]` **Who is "V."?** Identity of the [First Foundation](../lore/the-first-foundation.md)'s
-  one known agent in Maalm — the buyer Ratatat fences maps to, and where they
-  meet. The [gate-guard lead](../sessions/session-04.md) and Ratatat both point
-  here, and the trail **ends here** (V. is compartmentalized; no network above to
-  uncover).
+- 🔒 `[settled — chat]` **"V." — mostly settled.** The
+  [First Foundation](../lore/the-first-foundation.md)'s one known agent in Maalm,
+  the buyer Ratatat fences maps to: a **hooded human woman, a level-10 Arcane
+  Trickster,** working under the **alias V.** They meet in the under-city tunnels by
+  an artisanal mill — now written up as [The Mill](../encounters/the-mill.md). The
+  [gate-guard lead](../sessions/session-04.md) and Ratatat both point here, and the
+  trail **ends here** (V. is compartmentalized; no network above to uncover).
+  `[OPEN]` her real name.

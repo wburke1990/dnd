@@ -28,6 +28,15 @@ faith turned **zealot,** and ~1,900 ya they **left the empire and walked the sea
 to retake Lonka/Jotunheim** (see [Lonka — Jotunheim §4](lonka-jotunheim.md)). Their exodus is
 why the [Muspel empire](the-muspel-empire.md) and **Kuru** end up *man*-dominated.
 
+`[settled — chat]` **That withdrawal is also how the order survives a cataclysm.**
+The craft is kept in **copies,** and the Jotunheim branch keeps its own — so when a
+center drowns, the knowledge is not lost with it. It is the "the Irish saved
+civilization" shape: a zealot remnant at the edge of the world holding the texts
+while the middle floods. `[loose]` The drowned center is **Cartaga** (its
+depopulated southern reach is Noku; see
+[world history](world-history-timeline.md)) — where the dying and the loss of
+information happen, and against which the Jotunheim copies are the insurance.
+
 ## What they built
 
 - **Origin — ~4,100 ya, the elder order.** The First Foundation must **predate the
@@ -79,14 +88,23 @@ climax (the "names & ownership" thesis made concrete — see [campaign overview]
 ## A remnant still operates — in Maalm, now 🔒
 
 `[settled — in play]` **The First Foundation still has a hand in Maalm,** running
-**counter-espionage on Preem's Second Foundation.** But Maalm is the Second
+**counter-espionage on Preem's Second Foundation.** `[settled — chat]` The order is
+**weaker than the Second now** — diminished, and its **present headquarters is
+unlocated** `[OPEN]` — but it **knows the Second.** That is the asymmetry: the First
+watches Preem's people, while Preem's people mostly don't know the First still moves
+against them. But Maalm is the Second
 Foundation's own city and they are **ruthless,** so the remnant operates with hard
 **operational security:**
 
 - **One known agent: "V."** The party will meet exactly **one** First Foundation
   operative in Maalm — the handler called **V.** `[settled]` This is deliberate, not
   thin worldbuilding: more visible agents = more ways to get rolled up by Preem's
-  people. `[OPEN]` V.'s identity.
+  people. `[settled — chat]` V. is a **human woman — blonde, hooded** — and
+  mechanically a **level-10 Arcane Trickster rogue** (stealth, illusion, and the
+  Invisibility she uses to break contact). **"V." is an alias;** `[OPEN]` her real
+  name. The party's first contact with her is
+  [The Mill](../encounters/the-mill.md), where she takes Ratatat's stolen maps and,
+  pushed, vanishes down a shaft into the deep.
 - **Compartmentalized, and magical.** Agents **don't know each other,** and they handle
   real communication **by magic** (sending and the like) rather than couriers or
   dead-drops — magic exists, so there's no paper trail or comms network for Preem to
@@ -110,5 +128,6 @@ Foundation's own city and they are **ruthless,** so the remnant operates with ha
 
 ---
 
-*Open: the First Foundation's true in-world name; **V.'s identity** (the one known Maalm
-agent, above).*
+*Open: the First Foundation's true in-world name; its **present headquarters**
+(unlocated); **V.'s real name** (she's settled otherwise — a hooded human
+Arcane Trickster working under the alias V., above).*
