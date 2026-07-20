@@ -413,9 +413,13 @@ keeps only the must-know; load these on demand when the task touches them:
   (Hub/aBag/mBag/wBase), the four Hub-fork edits diverging from upstream
   Borbold, the three-piece map-registration model (OWx bag in mBag + SBx
   token in aBag + JotBase line), and the `import_ow_map` script for
-  adding new maps from donor saves. **Read this before touching anything
-  related to the Hub Lua, map registration, or `tts/lua/TS_Save_18`/`_19`
-  per-object scripts.**
+  adding new maps from donor saves. Also covers the **272-map OW donor
+  library** catalogued in `tts/one-world-maps-inventory.md` (the maps we
+  "tried out" that aren't in the Nila save live there, not in the Hub
+  registration) and the map-agnostic **Fog-Of-War Spawner** token (GUID
+  `04638a`) — fog of war is a tool, not a per-map property. **Read this
+  before touching anything related to the Hub Lua, map registration, the
+  map inventory, or `tts/lua/TS_Save_18`/`_19` per-object scripts.**
 - **`docs/tts-asset-debug.md`** — How to find broken TTS asset URLs
   (Player.log location, GET-probe-with-peek pattern, why HEAD requests
   miss HTML-content-wrong failures, cleanup approach). **Read this when

@@ -11,6 +11,10 @@ Ba = "Ba"
 # ParceData (should be "Parse").
 Togle = "Togle"
 Parce = "Parce"
+# "FoW" = Fog of War, the literal label on the OneWorld Fog-Of-War
+# Spawner's button; typos splits it at the case boundary (Fo/W) and
+# flags the "Fo" fragment.
+Fo = "Fo"
 # D&D / TTRPG vocabulary that typos mis-flags.
 tiefling = "tiefling"
 tieflings = "tieflings"

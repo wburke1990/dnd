@@ -298,3 +298,38 @@ uv --directory /Users/wcb/personal/dnd/scripts run tts pack TS_Save_19 \
 The big saves (`TS_Save_18`, `_19`, `_20`, `_AutoSave`) are ~157 MB
 pretty-printed — **never `Read` them**. Always `jq`-project specific
 keys or unpack first.
+
+## The OW map library vs. the Hub-registered maps
+
+Two distinct lists — don't confuse them:
+
+- **Hub-registered maps** (the ~11 GUIDs above) are the maps actually
+  wired into Nila/staging and switchable from the Hub.
+- **The full OW map library** we catalogued lives in
+  [`tts/one-world-maps-inventory.md`](../tts/one-world-maps-inventory.md):
+  the **272-bag `OWx_` donor library** from `TS_Save_22` ("22 - One
+  world maps"), grouped by theme (Barovia, Sharn, Dark Sun, dungeons,
+  caves, tombs, cities, …). These are *importable* via `import_ow_map`
+  but aren't live until imported. **When someone refers to a map we
+  "tried out" that isn't in the Nila save, it's almost certainly one of
+  these** — search that inventory, not the Hub registration.
+
+## Fog of war is a tool, not a map property
+
+Fog of war is **not** a feature of any individual map. It's the
+**OneWorld Fog-Of-War Spawner** token (nickname `OneWorld Fog-Of-War
+Spawner 2.5.0`, GUID `04638a` in `TS_Save_18`; script in
+`tts/lua/TS_Save_18/04638a.lua`). It is **map-agnostic**:
+
+- Its one **"FoW" button** spawns a native TTS `FogOfWar` zone sized to
+  the currently deployed OW map's bounds (reads `_OW_vBase`;
+  `getMapVars` falls back to default 95×72 if no map is out). The fog
+  floats just above the map surface and hides objects beneath it;
+  players reveal it the standard TTS way as their color's pieces move
+  through.
+- Right-click menu: **Remove All Fogs** (destroys every `FogOfWar`
+  object on the table), **Hide OW Minimaps**, **Hide OW Hub** (drop
+  locked dark cover zones over those).
+
+So the backup fog-of-war workflow is map-independent: deploy any map →
+press **FoW** → reveal by exploring → **Remove All Fogs** to reset.
