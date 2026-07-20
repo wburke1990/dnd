@@ -87,7 +87,7 @@ tunnels adjoining the mill chamber.** The shaft is where she goes to ground.
 The approach is a short run of **water-channels and dry side-cuts** through the
 tunnels adjoining the mill chamber. Three hazards carry the pressure in place of a
 boss fight — one of V.'s making, two the under-city's own. **D&D 2024; tuned for a
-level-1–2 party** — scale the DCs and dice to taste.
+level-2 party** — scale the DCs and dice to taste.
 
 ### 1. The tripline (V.'s alarm — the one that matters)
 
@@ -251,7 +251,7 @@ screens with rats and bolts.
       `[OPEN]` her real name and her cover in the city above.
 - [ ] **Name the miller** and pick his race; keep him innocent — the way down and a
       bit of misdirection, not a combatant.
-- [x] **Traps statted** (2024, level-1–2): the **tripline** (V.'s alarm — downgrades
+- [x] **Traps statted** (2024, level 2): the **tripline** (V.'s alarm — downgrades
       the time-race), the **undercut ledge** (fall into the channel), and the **sump
       over the deep** (fall toward the shaft). Scale DCs/dice to the party.
 - [x] **Map** — **The Foundry (`56d9e9`)** as the under-mill old chamber (great
