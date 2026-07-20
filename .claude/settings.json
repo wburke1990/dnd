@@ -108,7 +108,9 @@
       "Write(.claude/settings.json)"
     ],
     "additionalDirectories": [
-      "/Users/wcb/Library/Tabletop Simulator"
+      "/Users/wcb/Library/Tabletop Simulator",
+      "/tmp",
+      "/private/tmp"
     ],
     "deny": [
       "Bash(sudo:*)",
