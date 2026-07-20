@@ -85,18 +85,50 @@ tunnels adjoining the mill chamber.** The shaft is where she goes to ground.
 ## The tunnels and the traps
 
 The approach is a short run of **water-channels and dry side-cuts** through the
-tunnels adjoining the mill chamber. Seed it with:
+tunnels adjoining the mill chamber. Three hazards carry the pressure in place of a
+boss fight — one of V.'s making, two the under-city's own. **D&D 2024; tuned for a
+level-1–2 party** — scale the DCs and dice to taste.
 
-- **V.'s alarms.** A tripline on the channel, a rigged fall of stones, a bell-wire
-  — a careful agent's early warning that someone is coming down. Springing one
-  tells V. to move before the party arrives (see the time-race).
-- **Old under-city hazards.** A section of floor undercut by the water and ready to
-  drop into the channel; a side-cut that ends at a **sump over the deep**; the plain
-  danger of the dark and getting lost, which is what the bones upstairs are.
+### 1. The tripline (V.'s alarm — the one that matters)
 
-Scale and stat the specific traps to the party — this is the combat-adjacent
-pressure the scene carries in place of a boss fight. `[OPEN]` pick and stat the
-traps.
+A near-invisible cord strung ankle-high across a side-cut, run back to a stack of
+tin cups and a bell-wire deeper in. **Not a damage trap — an early warning.**
+
+- **Notice.** Passive Perception **15** to catch the cord; **DC 13 Investigation** to
+  trace the mechanism.
+- **Disarm.** **DC 13 Dexterity (Thieves' Tools).**
+- **Trigger & effect.** A creature who misses the cord springs it: a **clatter and a
+  bell** carry down the tunnels. **V. is warned** — she starts for the shaft. In
+  time-race terms this **downgrades a fast approach to a middle one** (she's leaving
+  as they arrive), and a middle one to **gone.**
+
+### 2. The undercut ledge (the channel eats the rock)
+
+The water-channel has hollowed the stone beneath one stretch of walkway; the ledge
+looks solid and isn't.
+
+- **Notice.** DC **14** Perception for the hairline crack and damp undercut;
+  automatic for a creature moving at half speed and searching.
+- **Trigger & effect.** Weight on the ledge collapses it. **DC 13 Dexterity save** —
+  fail: **fall ~10 ft into the channel (1d6 bludgeoning)** and into fast, cold water
+  that shoves you a few feet toward a grating (a **DC 12 Athletics** check to climb
+  straight out, else a short scramble). Success: catch the edge or leap clear. The
+  collapse is **loud** — it can trip V.'s alarm by proxy.
+
+### 3. The sump over the deep (the dangerous one)
+
+Where the tunnels open toward the **abyss shaft**, an old cistern **sump** is skinned
+over with rotten boards and a crust of mineral rock; past it, the true shaft drops
+toward the deep.
+
+- **Notice.** DC **15** Perception (the floor rings hollow, the boards are wrong);
+  **DC 13 Investigation** if tapped or probed.
+- **Trigger & effect.** Step on the crust and it gives. **DC 14 Dexterity save** —
+  fail: **fall ~20 ft into the sump (2d6 bludgeoning).** The sump **drains toward the
+  deep,** so a save **failed by 5+** means the current drags you toward the shaft —
+  **DC 13 Athletics** (or a rope from above) to arrest the slide before it carries
+  you into the dark. V. knows the safe footing here; pursuers don't — this is
+  **her ground**, not the party's.
 
 ---
 
@@ -219,8 +251,9 @@ screens with rats and bolts.
       `[OPEN]` her real name and her cover in the city above.
 - [ ] **Name the miller** and pick his race; keep him innocent — the way down and a
       bit of misdirection, not a combatant.
-- [ ] **Pick and stat the traps** — V.'s alarms plus old under-city hazards over the
-      deep. Scale to the party.
+- [x] **Traps statted** (2024, level-1–2): the **tripline** (V.'s alarm — downgrades
+      the time-race), the **undercut ledge** (fall into the channel), and the **sump
+      over the deep** (fall toward the shaft). Scale DCs/dice to the party.
 - [x] **Map** — **The Foundry (`56d9e9`)** as the under-mill old chamber (great
       millstone, bones, the shaft to the deep), staged in `19 - staging`
       ([inventory](../tts/one-world-maps-inventory.md)).
