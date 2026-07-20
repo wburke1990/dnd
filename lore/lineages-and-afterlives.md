@@ -210,7 +210,53 @@ chosen vs. inflicted:**
   **authors his own** via the tall-tales-become-canon mechanic
   ([roster](party-roster.md)) — the "already has his."
 
-## 11. Open questions
+## 11. Dreaming — you rehearse the death you have
+
+**The rule: a dream is the soul walking a little way down the road it will
+take at death, and coming back.** So dreaming is not universal, and it is not
+the same event in two different heads. What a people does at night follows
+from where its dead go (§2).
+
+- **Dragon people dream the way everyone assumes dreaming works** — images, a
+  road, a self travelling it, other people's faces. Their dead are carried up
+  and judged, so their nights rehearse a journey. Humans, elves, dwarves,
+  dragonborn, Earth Genasi. **This is the dreaming *Dream of the Blue Veil* is
+  built on:** the spell opens the door of sleep onto the sky road and carries
+  the sleeper further down it than a night would.
+- **Sky-nameless — the weather-people — dream widest.** No plot, no body:
+  weather from the inside. Wind, rain, the light on grain. They wake unable to
+  say what happened and rested anyway.
+- **Earth-nameless do not dream. They settle.** No images, no story, no self —
+  and they wake knowing things about the ground: where the water is, where the
+  stone is faulted, what died nearby. True Giants, Firbolgs, Sarric. Their
+  dead go down into the land, so their sleep rehearses dissolving into it. Ask
+  a Firbolg what he dreamt and the question does not translate; ask him what
+  the ground is doing and he can tell you.
+- **Demons do not dream. Demons do not sleep.** They have one existence and
+  nothing after (§3) — no road, nothing to rehearse, and no night to rehearse
+  it in. A demon is awake continuously from the moment it exists until it is
+  destroyed. **Manizheh has not slept in thirty-one years, or ever.** Keep this
+  as description, never as exposition: she is standing in the doorway when the
+  party lies down and standing in it if anyone wakes in the night.
+- **Celestials** — the mirror, and still `[OPEN]` with the rest of §3.
+  Eternal-but-owned suggests they don't dream either, or dream only what
+  they're permitted to.
+
+**Half-lineage sleepers.** A cross-lineage child (§6) has two roads, or one and
+a dead end. **The al Qahtani children** are the dead-end case: the mortal half
+sleeps normally, and the demon half has nowhere to go, so **the door of sleep
+does not open for them at all.** They lie down, say the words, close their
+eyes, and there is only sleep — not a failed journey, no journey attempted.
+Neither child knows this is why. They were raised on a story and believe it.
+
+**How the party can work it out.** The same way as everything else here —
+burial customs, and who in a room answers the question "did you sleep well."
+Never explain it. The Jasper beat in
+[the dream quest](../encounters/the-dream-quest.md) is the first seed: the
+siblings ask the man who looks like living stone whether he dreams, and he
+does, because he is dragon-people (§7).
+
+## 12. Open questions
 
 - `[OPEN]` The exact shape of the celestial "afterlife" (§3) — eternal-but-owned.
 - `[OPEN]` Where the nameless live on the map — Sarric's cold country; the

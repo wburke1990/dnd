@@ -431,14 +431,21 @@ whether there's anything inside him. There is. They are the ones who
 cannot dream. Let the party find that on their own — nobody in the room
 says it.
 
-*(DM — what stays `[OPEN]`. This admits the mechanism, not the cause.
-Neither sibling says *why* they don't dream; they were raised on a story
-and believe it (see "We've Tried," above). Also unresolved: whether the
-family wants more from this rite than a clean passage — as written it is a
-**death-rite**, shepherding Ghassan to judgment, not raising him. If
-anyone at the table is reading it as a resurrection, don't confirm or deny
-it here. See the open threads in
-[Session 6](../sessions/session-06.md).)*
+*(DM — the real reason, which neither sibling can give you. **Demons do
+not dream, and do not sleep** — one existence, no afterlife, no road to
+rehearse at night. The children are half. The mortal half sleeps; the
+demon half has nowhere to go, so the door of sleep never opens for them.
+It is not a journey they fail. It is a journey that is never offered. See
+[Lineages & Afterlives §11](../lore/lineages-and-afterlives.md). Neither
+child knows this — they were raised on a story and believe it, so play
+them honestly ignorant.)*
+
+*(DM — the family wants nothing more than this. The rite is a
+**death-rite**: shepherd Ghassan to judgment. No resurrection, no second
+aim, no catch. Their father asked for it with the last clear breath he
+had and they are carrying it out. If a player is hunting for the angle,
+let them hunt; there isn't one. The secret in this house is what the
+family **is**, not what the rite is **for**.)*
 
 ## The Poem Is the Spell
 
@@ -468,6 +475,13 @@ blink at the right intervals, her shadow falls slightly askew, flowers
 near her are faintly wilted, she smells faintly of something that cannot
 be named. Do not
 over-describe; the wrongness is felt, not catalogued.
+
+**She does not sleep.** Demons don't — one existence, no afterlife, no
+night ([Lineages & Afterlives §11](../lore/lineages-and-afterlives.md)).
+She is standing in that doorway when the party lies down to cast, and if
+any player wakes in the night or thinks to check, she is standing in it
+then, in the same place, facing the same way. Never explain this. Just put
+her there every time someone looks.
 
 She will not speak in the party's presence. If addressed directly she
 turns to face the speaker and says nothing. **DC 12 Insight:** she
