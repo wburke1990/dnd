@@ -213,6 +213,23 @@ to the players in the opening session). **[settled]**
   **land-rush abundance** of the new [Kurunatuka](kuru-and-the-phoenix.md) soils, and a
   reason Maalm's elite would covet them.
 
+### Trade — grain in, organics never out
+- **[settled — chat]** Maalm's exhausted soil cannot grow enough staple for the
+  city, so it **imports bulk grain — whole, by boat.** Grain ships and stores;
+  **flour spoils** (its oils go rancid in weeks), so you carry the grain and **mill
+  it at the destination.** The mass grain feeds the city; the founder houses grind
+  their own **garden-grown heritage grain** at small artisanal mills, fresh and for
+  prestige (see [The Mill](../encounters/the-mill.md)).
+- **Organic matter may not leave the city.** The same logic that makes waste taboo
+  makes **export of organics a crime:** every scrap — dung, crop residue, carcasses,
+  even vermin — is fertility Maalm cannot spare, so carrying it *out* is smuggling
+  away the city's lifeblood. Read it as a corollary of the fertility law, enforced
+  at the docks.
+- **[in play]** This is the legal teeth behind the
+  [docks arrest](../encounters/docks-departure.md): the trumped-up charge of
+  **"illegal export of the 20 rats"** the party is hauling is a real
+  organics-smuggling offense, not just a pretext.
+
 ### The green city — every affording house a farm
 - **[settled]** The food is grown **inside the walls.** Maalm feeds itself from
   **intensive agriculture spread across the whole city** — terraced fields
