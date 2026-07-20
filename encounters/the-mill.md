@@ -84,10 +84,12 @@ tunnels adjoining the mill chamber.** The shaft is where she goes to ground.
 
 ## The tunnels and the traps
 
-The approach is a short run of **water-channels and dry side-cuts** through the
-tunnels adjoining the mill chamber. Three hazards carry the pressure in place of a
-boss fight — one of V.'s making, two the under-city's own. **D&D 2024; tuned for a
-level-2 party** — scale the DCs and dice to taste.
+The approach is a short run of **dry side-cuts and old rubble** adjoining the mill
+chamber — **off the guarded water.** The sacred channels are the cistern-keepers'
+ground (approach them and you're killed, iron law #1), so V. keeps to the dead, dry
+cuts, and so do her traps. Three hazards carry the pressure in place of a boss fight
+— one of V.'s making, two the under-city's own. **D&D 2024; tuned for a level-2
+party** — scale the DCs and dice to taste.
 
 ### 1. The tripline (V.'s alarm — the one that matters)
 
@@ -102,33 +104,37 @@ tin cups and a bell-wire deeper in. **Not a damage trap — an early warning.**
   time-race terms this **downgrades a fast approach to a middle one** (she's leaving
   as they arrive), and a middle one to **gone.**
 
-### 2. The undercut ledge (the channel eats the rock)
+### 2. The deadfall (the old cut gives way)
 
-The water-channel has hollowed the stone beneath one stretch of walkway; the ledge
-looks solid and isn't.
+A stretch of the dry side-cut runs under sagging timber shoring and loose rock — old
+work, long past trusting.
 
-- **Notice.** DC **14** Perception for the hairline crack and damp undercut;
-  automatic for a creature moving at half speed and searching.
-- **Trigger & effect.** Weight on the ledge collapses it. **DC 13 Dexterity save** —
-  fail: **fall ~10 ft into the channel (1d6 bludgeoning)** and into fast, cold water
-  that shoves you a few feet toward a grating (a **DC 12 Athletics** check to climb
-  straight out, else a short scramble). Success: catch the edge or leap clear. The
-  collapse is **loud** — it can trip V.'s alarm by proxy.
+- **Notice.** DC **14** Perception for the cracked shoring and the rubble poised
+  above; automatic for a creature moving at half speed and searching.
+- **Trigger & effect.** Weight in the wrong place brings it down. **DC 13 Dexterity
+  save** — fail: buried in the fall for **2d6 bludgeoning** and knocked **prone;**
+  success: dive clear. The collapse is **loud** (it can trip V.'s alarm by proxy) and
+  can **block the cut** — sealing a retreat, or a pursuer.
 
-### 3. The sump over the deep (the dangerous one)
+### 3. The lip of the abyss (the dangerous one)
 
-Where the tunnels open toward the **abyss shaft**, an old cistern **sump** is skinned
-over with rotten boards and a crust of mineral rock; past it, the true shaft drops
-toward the deep.
+The **huge hole** — the shaft down into the deep — sits in the floor of the far
+room. Its **rim is a false lip:** a crust of rubble that overhangs the drop and reads
+as solid ground in the dark.
 
-- **Notice.** DC **15** Perception (the floor rings hollow, the boards are wrong);
-  **DC 13 Investigation** if tapped or probed.
-- **Trigger & effect.** Step on the crust and it gives. **DC 14 Dexterity save** —
-  fail: **fall ~20 ft into the sump (2d6 bludgeoning).** The sump **drains toward the
-  deep,** so a save **failed by 5+** means the current drags you toward the shaft —
-  **DC 13 Athletics** (or a rope from above) to arrest the slide before it carries
-  you into the dark. V. knows the safe footing here; pursuers don't — this is
-  **her ground**, not the party's.
+- **Notice.** DC **15** Perception (the rim rings hollow, the crust is wrong);
+  **DC 13 Investigation** if probed. **Light and caution matter** — in the dark it is
+  easy to walk straight onto it.
+- **Trigger & effect.** Put weight on the false lip and it breaks away. **DC 14
+  Dexterity save** — on a fail you go **over the edge into the hole.** As you drop you
+  get **one grab at the broken rim: DC 13 Strength (Athletics)** to catch and hang (an
+  ally can **Help,** or throw a rope). **Catch it** → hanging, hauled up.
+  **Miss it** → you **fall into the abyss** — a long drop into the deep; **treat as
+  lethal** unless the party can reach you fast (a rope, *feather fall*, a readied
+  grab). Dial the lethality to your table.
+- **It's her exit, not a hazard to her.** V. knows the true edge from the false lip.
+  She crosses it and **drops down her own safe route into the deep** while pursuers
+  meet the crumbling rim — the shaft is **her ground.**
 
 ---
 
@@ -251,9 +257,11 @@ screens with rats and bolts.
       `[OPEN]` her real name and her cover in the city above.
 - [ ] **Name the miller** and pick his race; keep him innocent — the way down and a
       bit of misdirection, not a combatant.
-- [x] **Traps statted** (2024, level 2): the **tripline** (V.'s alarm — downgrades
-      the time-race), the **undercut ledge** (fall into the channel), and the **sump
-      over the deep** (fall toward the shaft). Scale DCs/dice to the party.
+- [x] **Traps statted** (2024, level 2, all **dry** — the sacred water stays in its
+      guarded channel): the **tripline** (V.'s alarm — downgrades the time-race), the
+      **deadfall** (dry rockfall, can block the cut), and the **lip of the abyss**
+      (false rim over the huge hole — the dangerous one, a fall into the deep). Scale
+      DCs/dice to the party.
 - [x] **Map** — **The Foundry (`56d9e9`)** as the under-mill old chamber (great
       millstone, bones, the shaft to the deep), staged in `19 - staging`
       ([inventory](../tts/one-world-maps-inventory.md)).
