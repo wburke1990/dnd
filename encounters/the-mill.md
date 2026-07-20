@@ -203,7 +203,7 @@ Ability array and spell picks are a defensible build — retune to taste.
 | **Armor Class** | 16 (studded leather) |
 | **Hit Points** | 73 (10d8 + 20) |
 | **Speed** | 30 ft. |
-| **Initiative** | +4 |
+| **Initiative** | +8 (Alert) |
 | **Proficiency Bonus** | +4 |
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -240,6 +240,10 @@ half on a failure.
 
 **Reliable Talent.** On any ability check with a skill she's proficient in, treat a
 d20 of 9 or lower as a **10** — she rarely fails Stealth, Deception, or Investigation.
+
+**Alert (feat).** She adds her proficiency bonus to initiative (**+8** total), and can
+swap her initiative with a willing ally. She usually **acts first** — the ambusher's
+edge.
 
 **Magical Ambush.** If she is **hidden or invisible** from a creature when she casts a
 spell on it, that creature has **disadvantage on the save** (pairs with *Invisibility*
