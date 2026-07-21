@@ -126,11 +126,60 @@ Two flavors, many kin within each:
   sketch in [the poem pillar](myth-and-poem-as-literal-truth.md) §6). Every
   wind is someone; a storm is many of them; binding weather is binding the dead
   (a dammed river, a withheld rain, a bound ghost that couldn't disperse).
+  Their idiom for a death is **"she's on the other wind."**
 
-Sarric's fight follows from all this: if the land is his dead, the Company
-gutting a mountain at [Haals](../encounters/the-haals-runoff.md) is butchering
-them, and his belief that "the world feels pain when it is hurt"
-([sheet](../characters/sarric.md)) is fact — literal **ancestor-defense.**
+### The cycle — how the nameless are made
+
+**Returning to the world is not an ending; it is the supply.** The body goes
+into the land as material. The soul goes back into a **common stock**, and new
+nameless are drawn from it. Same cloth, distinct people — a new giant is made
+of what the old giants were, and is nobody who came before.
+
+**They reproduce ordinarily.** Bodies are conceived and born the usual way;
+it is the **soul** that is drawn from the stock, not the child. Sarric has a
+mother. "Made from the same cloth" is a claim about soul-stock and nothing
+else — no one grows out of a hillside.
+
+**This is the opposite trade from sky-judgment, not a worse one.** Set the two
+side by side and neither is the good one:
+
+| | You persist as yourself | You are separable from the world | You can be owned |
+|---|---|---|---|
+| **Dragon people** (§4) | yes, forever | yes — hauled up and judged | **yes** — a Ren is a name, and a name is a leash |
+| **The nameless** | **no** | no — never separated | **no** — nothing continuous for a name to hold |
+
+**And this is where the names thesis comes from.** The nameless cannot be
+bound because there is no persistent individual for a true name to fasten to.
+So the transformation that made dragon-people out of earth stock (§4) did not
+only install a destination — it produced **the thing that can be owned.**
+Being seizable is the scar left by being cut out of the world. Preem's entire
+business rests on an operation performed on the ancestors of his stock five
+thousand years ago.
+
+**What survives is memory, not the person.** A soul cut from cloth that was
+other people carries their residue — scraps of lives reaching back thousands
+of years, with no self attached. Nobody remembers *being* you; someone else
+simply carries your memory of a hillside. The memory outlives the rememberer,
+and that is the whole of it. **This is what earth-nameless dreaming is** —
+see §11, which is also where the table mechanic lives.
+
+**The hand on the wall, explained.** If nothing individual survives the
+recycling, the handprint is the only trace of a specific person that outlasts
+them. That is why they leave one. The cave-painting tradition (§8) is a people
+recording the one thing their afterlife does not preserve.
+
+Sarric's fight follows from all this, and is worse than it first looks: the
+mountain is not only his dead, it is his **unborn** — the stock new Firbolgs
+are drawn from. The Company gutting a mountain at
+[Haals](../encounters/the-haals-runoff.md) is not only butchering ancestors,
+it is destroying the material his people are made out of. His belief that
+"the world feels pain when it is hurt" ([sheet](../characters/sarric.md)) is
+fact, and the crime is closer to sterilization than to desecration.
+
+**Does Sarric know?** Yes. His people know what they are, have a word for it,
+and raise children expecting it. It is unremarkable to him — which is the good
+version, because he can be casual about something the rest of the party finds
+staggering.
 
 ## 6. Cross-lineage children choose — and Pax
 
@@ -243,13 +292,17 @@ into it.
 - **Sky-nameless — the weather-people — brush it widest.** No plot, no body:
   weather from the inside. Wind, rain, the light on grain. They wake unable to
   say what happened and rested anyway.
-- **Earth-nameless brush the tunnel face.** No images, no story, no self — and
-  they wake knowing things about the ground: where the water is, where the
-  stone is faulted, what died nearby. True Giants, Firbolgs, Sarric. Ask a
-  Firbolg what he dreamt and he will say he didn't; ask him what the ground is
-  doing and he can tell you. **He is crossing every night** — he just comes up
-  against the deep stretch of the road, in the dark, where there is nothing to
-  see and a great deal to know.
+- **Earth-nameless do not touch the road at all — they touch the stock.**
+  Correcting an earlier draft of this section: the road is for the judged and
+  it runs through demon country, and the nameless never travel it. What an
+  earth-nameless sleeper reaches is **the common soul-stock they were drawn
+  from** (§5), which is not a place and has no scenery. So their nights are
+  **other people's memories** — fragments of lives reaching back thousands of
+  years, with no story, no order, and no self anywhere in them. Ask a Firbolg
+  what he dreamt and he will say he doesn't dream, and he is being accurate:
+  nothing in it was his. **This is also where the ground-sense comes from.** He
+  wakes knowing where the water is because someone who knew it lived there.
+  Ground-knowledge and inherited memory are the same thing.
 - **Demons never dream, because demons never cross.** A demon stands on both
   planes at once, always
   ([demons & the hotspot](demons-and-the-hotspot.md)) — there is no far side
@@ -301,6 +354,33 @@ holds his sheet's *delusional-or-chosen* ambiguity exactly where it belongs
 students heard the wind, Pax heard instructions"* — literally true. The man
 whose death is a choice between soil and spirit has been rehearsing that
 choice, alternately, every night of his life, and does not know it.
+
+### Inherited memory at the table — the location rule
+
+**The mechanic: fragments surface from lives lived where the sleeper is
+sleeping.** Not summonable, not searchable, not askable. A player cannot look
+something up, and a character cannot try. They take a long rest somewhere, and
+if a life was lived there, the land may hand over a piece of it.
+
+This is the governor. Two PCs who dream true things is an information faucet
+pointed straight at the plot, and tying it to **place** puts the tap entirely
+in the DM's hand: you decide which grounds have anything to say. It also turns
+a grave-robbing campaign into one where **the land occasionally testifies** —
+which means Pax's theology is accidentally correct, and neither he nor anyone
+else can prove it.
+
+Give the fragment as **someone's ordinary day**, never as a briefing. No
+context, no dates, no names the sleeper could use, and nothing that resolves
+into narrative. The dreamer gets a floodplain in the sun and a job of work,
+and has to decide for himself whether it means anything.
+
+Good ground for it: [Haals](../encounters/the-haals-runoff.md) before the
+mountain was opened; any dig site the party works, reaching back to the
+covenant age; and **Maalm itself, when the river still ran** (see
+[the drying of the valley](the-drying-of-the-valley.md) — the valley predates
+the Amseh dynasty, so who lived there then is open ground). Drafted player
+messages for the Maalm dream:
+[player-messages-earth-dreams.md](../sessions/player-messages-earth-dreams.md).
 
 **How the party can work it out.** The same way as everything else here —
 burial customs, and who in a room answers the question "did you sleep well."
