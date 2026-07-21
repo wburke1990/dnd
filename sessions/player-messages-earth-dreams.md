@@ -1,13 +1,19 @@
 # Player messages — earth dreams, and the Maalm valley
 
 Chat messages to **Jeremy (Sarric)** and **Andrew (Pax)**, floating the
-inherited-memory idea and offering each of them a dream from the long rest in
-Maalm. Lore behind it:
+inherited-memory idea and offering each of them a dream from the rest **in the
+tombs**. Lore behind it:
 [Lineages & Afterlives §5 and §11](../lore/lineages-and-afterlives.md).
 
 **These go in chats David is in, so keep them casual** — texts, not briefings.
-Both are framed as *"how would you feel about…"* rather than an announcement,
-and either player can decline.
+Both are framed as *"how would you feel about…"* / *"if you want, we can make
+it so…"*: the idea is offered for the player to opt into, not announced as
+settled canon. Either can decline and nothing breaks.
+
+**Why the tombs.** They are cut into the canyon the dead river carved
+([the drying of the valley](../lore/the-drying-of-the-valley.md)), so the
+ground they slept in *is* the bank they dreamed. Both get the same fragment —
+same place, same night.
 
 **Deliberately withheld.** Neither message explains the cosmology. Sarric gets
 the part his own people know and nothing beyond it; Pax gets no explanation at
@@ -21,18 +27,15 @@ message carries a mechanical effect.
 
 > How would you feel about Sarric having dreams that aren't his?
 >
-> Firbolg thing: when your people die they go back into the land, and new ones
-> come up out of it carrying scraps of the lives that went in. Sarric grew up
-> with this — it's ordinary, not mystical, and everyone he knows is the same.
-> He'd probably tell you he doesn't dream at all, and he'd mean it. There's no
-> story in them and nobody in them is him.
+> If you want, we can make it so that when your people die they go back into
+> the land, and new ones come up out of it carrying memories of the lives that
+> went in that they re-live when they sleep. This would be considered normal
+> by Firbolgs.
 >
-> If you're up for it: on the long rest here he got Maalm back when the river
-> still ran. Green floodplain, black silt, crops standing to the canyon walls,
-> somebody working in the shallows. A completely ordinary day, no telling how
-> long ago. He woke up knowing where the water used to go.
->
-> No mechanics, nothing you have to do with it. Just say if you'd rather not.
+> If you like this, then you would have dreamed of an ancient river bank when
+> you were sleeping in the tombs. Green floodplain, black silt, crops standing
+> to the canyon walls, somebody working in the shallows. A completely ordinary
+> day, no telling how long ago.
 
 ---
 
@@ -40,16 +43,17 @@ message carries a mechanical effect.
 
 > How would you feel about Pax having dreams that aren't his?
 >
-> Not visions exactly — memories of other people's lives, tied to wherever
-> he's sleeping. No context, no names, no way to place them.
+> If you want, we can make it so that he sometimes sleeps into somebody else's
+> memory — not a vision, just an ordinary day belonging to a person who lived
+> where he happens to be lying. No context, no names, no way to place it.
 >
-> If you're in: on the long rest here he got Maalm back when the river still
-> ran. Green floodplain, black silt, crops to the canyon walls, somebody
-> working in the shallows. An ordinary day, a long time ago, and nothing in it
-> telling him when or who.
+> If you like this, then you would have dreamed of an ancient river bank when
+> you were sleeping in the tombs. Green floodplain, black silt, crops standing
+> to the canyon walls, somebody working in the shallows. A completely ordinary
+> day, no telling how long ago.
 >
 > Whether that's the world talking to him or just a strange night is yours to
-> decide. No mechanics attached — say if you'd rather not.
+> decide.
 
 ---
 

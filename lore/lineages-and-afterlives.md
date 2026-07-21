@@ -376,10 +376,12 @@ and has to decide for himself whether it means anything.
 
 Good ground for it: [Haals](../encounters/the-haals-runoff.md) before the
 mountain was opened; any dig site the party works, reaching back to the
-covenant age; and **Maalm itself, when the river still ran** (see
-[the drying of the valley](the-drying-of-the-valley.md) — the valley predates
+covenant age; and **the Valley of the Kings tombs**, which are cut into the
+canyon the dead river carved — sleep in them and the ground on offer is the
+river bank when it still ran (see
+[the drying of the valley](the-drying-of-the-valley.md); the valley predates
 the Amseh dynasty, so who lived there then is open ground). Drafted player
-messages for the Maalm dream:
+messages for that dream:
 [player-messages-earth-dreams.md](../sessions/player-messages-earth-dreams.md).
 
 **How the party can work it out.** The same way as everything else here —
