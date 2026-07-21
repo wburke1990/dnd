@@ -219,68 +219,84 @@ chosen vs. inflicted:**
   **authors his own** via the tall-tales-become-canon mechanic
   ([roster](party-roster.md)) — the "already has his."
 
-## 11. Dreaming — you rehearse the death you have
+## 11. Dreaming — one road, two faces
 
-**The rule: a dream is the soul walking a little way down the road it will
-take at death, and coming back.** Everyone with somewhere to go dreams. What
-differs is the *shape* of it, because the shape follows the destination (§2)
-— and one lineage has no destination at all, which is the only case where the
-door of sleep does not open.
+**The rule is set in
+[Demons, the Hotspot & the Deep Cities](demons-and-the-hotspot.md): a dream is
+a real crossing.** The living world and the dead's overlap; a sleeper brushes
+the far side and forgets, and *Dream of the Blue Veil* carries the sleeper all
+the way over. **Crossing requires standing on one side** — which is why a
+demon, standing on both at once, never crosses at all.
 
-- **Dragon people dream the way everyone assumes dreaming works** — images, a
-  road, a self travelling it, other people's faces. Their dead are carried up
-  and judged, so their nights rehearse a journey. Humans, elves, dwarves,
-  dragonborn, Earth Genasi. **This is the dreaming *Dream of the Blue Veil* is
-  built on:** the spell opens the door of sleep onto the sky road and carries
-  the sleeper further down it than a night would.
-- **Sky-nameless — the weather-people — dream widest.** No plot, no body:
+What this section adds is the **shape**. There is one road with two faces —
+the dead travel it as the river of stars, the living walk it in the flesh as
+the Abyss tunnels — and the road itself runs **down through the deep and out
+to the sky** (§4). So which face a sleeper brushes follows which stretch of
+that road their dead are bound for. Same country either way. Different door
+into it.
+
+- **Dragon people brush the star face** — images, a road, a self travelling
+  it, other people's faces. Their dead are carried up the road's far end to
+  judgment, so that is the stretch their nights touch. Humans, elves, dwarves,
+  dragonborn, Earth Genasi. **This is the dreaming *Dream of the Blue Veil*
+  assumes,** and why the party wakes on a river rather than in a tunnel.
+- **Sky-nameless — the weather-people — brush it widest.** No plot, no body:
   weather from the inside. Wind, rain, the light on grain. They wake unable to
   say what happened and rested anyway.
-- **Earth-nameless dream downward. They settle.** No images, no story, no
-  self — and they wake knowing things about the ground: where the water is,
-  where the stone is faulted, what died nearby. True Giants, Firbolgs, Sarric.
-  Their dead go down into the land, so their sleep rehearses dissolving into
-  it. Ask a Firbolg what he dreamt and he will say he didn't; ask him what the
-  ground is doing and he can tell you. **He is dreaming — his road just runs
-  the other way.**
-- **Demons do not dream. Demons do not sleep.** They have one existence and
-  nothing after (§3) — no road, nothing to rehearse, and no night to rehearse
-  it in. A demon is awake continuously from the moment it exists until it is
-  destroyed. **Manizheh has not slept in thirty-one years, or ever.** Keep this
-  as description, never as exposition: she is standing in the doorway when the
-  party lies down and standing in it if anyone wakes in the night.
-- **Celestials** — the mirror, and still `[OPEN]` with the rest of §3.
-  Eternal-but-owned suggests they don't dream either, or dream only what
-  they're permitted to.
+- **Earth-nameless brush the tunnel face.** No images, no story, no self — and
+  they wake knowing things about the ground: where the water is, where the
+  stone is faulted, what died nearby. True Giants, Firbolgs, Sarric. Ask a
+  Firbolg what he dreamt and he will say he didn't; ask him what the ground is
+  doing and he can tell you. **He is crossing every night** — he just comes up
+  against the deep stretch of the road, in the dark, where there is nothing to
+  see and a great deal to know.
+- **Demons never dream, because demons never cross.** A demon stands on both
+  planes at once, always
+  ([demons & the hotspot](demons-and-the-hotspot.md)) — there is no far side
+  for it to reach. Note this has **nothing to do with having no afterlife**
+  (§3); the two facts are separate, and it is the standing-on-both that closes
+  the door. **They also do not sleep.** A demon is awake continuously from the
+  moment it exists until it is destroyed, and **Manizheh has never slept.**
+  Keep it as description, never exposition: she is standing in the doorway
+  when the party lies down and standing in it if anyone wakes in the night.
+- **Celestials cross like anyone else.** The doubling is a property of **the
+  deep** — demons are native to the Abyss, and the Abyss *is* the road, which
+  is what puts them on both faces at once. Celestials have no such claim on the
+  road, so they stand on one side and a celestial-descended sleeper dreams
+  normally. (This is load-bearing for play: it is what keeps **Pax** able to
+  travel. The shape of the celestial afterlife stays `[OPEN]` with §3.)
 
-**A door is a door — what dream-travel actually requires.** This is the part
-that matters at the table. A spell like *Dream of the Blue Veil* does not need
-you to have the *right* road. It needs you to have **a** road, because that is
-what opens the door of sleep; the spell supplies the destination itself (the
-poem sets the route, the other-plane focus sets the far end). So **anyone with
-an afterlife can be put on anyone's road.** A Firbolg whose nights run down
-into the land can be walked up a river of stars; it is not his road and it
-works anyway. **Only demons cannot travel, because only demons have no door.**
+**One face is as good as another — what dream-travel actually requires.**
+This is the part that matters at the table. The test is **standing on one
+side**, not standing on the *right* side. It is one road; the poem sets the
+route and the other-plane focus sets the far end, so the spell can put any
+one-sided sleeper anywhere on it. **A Firbolg who touches the tunnel face
+every night can be carried up the river of stars** — a stretch of road he has
+never brushed, on the same road he has been brushing all his life. It works.
 
 Never use this rule to lock a player out of a dream. It exists to make the
 al Qahtani children's exclusion mean something — they are the exception, and
 they are the exception precisely because everyone else at the table gets in.
 
-**Cross-lineage sleepers.** A cross-lineage child (§6) has two roads, or one
-and a dead end. **The al Qahtani children** are the dead-end case: the mortal half
-sleeps normally, and the demon half has nowhere to go, so **the door of sleep
-does not open for them at all.** They lie down, say the words, close their
-eyes, and there is only sleep — not a failed journey, no journey attempted.
-Neither child knows this is why. They were raised on a story and believe it.
+**Cross-lineage sleepers.** **The al Qahtani children** are the blocked case,
+and the reason is the standing, not the destination: **they were born standing
+on both planes**, as their mother stands on both, so there is no far side for
+them to cross to ([demons & the hotspot](demons-and-the-hotspot.md)). They lie
+down, say the words, close their eyes, and there is only sleep — not a failed
+journey, no journey attempted. Note what this does *not* rest on: it is not
+about whether they have an afterlife, which is a separate and open question
+they also cannot answer. Neither child knows any of this. They were raised on
+a story and believe it.
 
-**Pax** is the other cross-lineage case, and the opposite one: two roads, so
-**two kinds of night, alternating.** Some nights he settles, earth-nameless,
-and wakes knowing the ground. Other nights the celestial half takes him — and
-the true-named do not *have* dreams so much as receive them, so those nights
-arrive as address: something speaks to him, and he wakes instructed. **He
-attributes both to the Green Revelation.** Both are real; he is right that
-something is talking to him and wrong about what. This holds his sheet's
-*delusional-or-chosen* ambiguity exactly where it belongs
+**Pax** is the opposite case. He stands on one side (celestials do not double,
+above), so he crosses — but he has **two roads at his far end** (§6), and so
+**two kinds of night, alternating.** Some nights he comes up against the
+tunnel face like any earth-nameless and wakes knowing the ground. Other nights
+the celestial half takes him, and the true-named do not so much *have* dreams
+as receive them, so those arrive as address: something speaks to him, and he
+wakes instructed. **He attributes both to the Green Revelation.** Both are
+real; he is right that something is talking to him and wrong about what. This
+holds his sheet's *delusional-or-chosen* ambiguity exactly where it belongs
 ([sheet](../characters/pax.md)) and makes his canon line — *"where other
 students heard the wind, Pax heard instructions"* — literally true. The man
 whose death is a choice between soil and spirit has been rehearsing that

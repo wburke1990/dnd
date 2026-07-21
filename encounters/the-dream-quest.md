@@ -450,22 +450,26 @@ whether there's anything inside him. There is. They are the ones who
 cannot dream. Let the party find that on their own — nobody in the room
 says it.
 
-*(DM — the real reason, which neither sibling can give you. **Demons do
-not dream, and do not sleep** — one existence, no afterlife, no road to
-rehearse at night. The children are half. The mortal half sleeps; the
-demon half has nowhere to go, so the door of sleep never opens for them.
-It is not a journey they fail. It is a journey that is never offered. See
-[Lineages & Afterlives §11](../lore/lineages-and-afterlives.md). Neither
-child knows this — they were raised on a story and believe it, so play
-them honestly ignorant.)*
+*(DM — the real reason, which neither sibling can give you. A dream is a
+**real crossing**, and **crossing requires standing on one side.** A demon
+stands on both planes at once and so never crosses; the children were born
+standing on both, like their mother. There is no far side for them to
+reach. It is not a journey they fail — it is a journey that was never
+available. See "The dream is a real crossing" above,
+[demons & the hotspot](../lore/demons-and-the-hotspot.md), and
+[Lineages & Afterlives §11](../lore/lineages-and-afterlives.md). **Note
+this is not about having no afterlife** — that is a separate question, and
+one they also can't answer. Neither child knows any of it; they were
+raised on a story and believe it, so play them honestly ignorant.)*
 
-*(DM — **the whole party gets in, full stop.** The spell needs a sleeper
-with a road, not the *right* road; the poem and the statue supply the
-destination. Sarric's nights run down into the land and Pax's alternate
-between soil and something that addresses him — neither is a river of
-stars, and **both of them travel anyway.** The lineage rule is here to
-make the children's exclusion mean something, never to bench a player.
-If a player asks whether their character can do this: yes.)*
+*(DM — **the whole party gets in, full stop.** The test is standing on
+**one** side, not the right side, and it is all one road — so any
+one-sided sleeper can be set anywhere on it. Sarric comes up against the
+tunnel face on an ordinary night and Pax's nights alternate between that
+and something that addresses him; neither has ever touched the river of
+stars, and **both of them travel tonight.** The lineage rule exists to
+make the children's exclusion mean something, never to bench a player. If
+a player asks whether their character can do this: yes.)*
 
 *(DM — the family wants nothing more than this. The rite is a
 **death-rite**: shepherd Ghassan to judgment. No resurrection, no second
