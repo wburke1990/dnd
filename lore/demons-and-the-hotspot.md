@@ -158,9 +158,9 @@ lineage's dead hold passage whether or not the living keep the old rites. What
 mortals can lose is the **names**, not the right — and most have lost them.
 `[OPEN]` what present-day Maalm worships, and how its dead cross now.
 
-**The toll.** A named soul passes free — the name spoken at the gate invokes
-the compact. An unnamed soul still crosses: **a gate admits whoever submits to
-its toll,** paid out of grave-goods — that is what grave-goods are for — and
+**The toll.** A soul that carries the keepers' names passes free — each name,
+spoken at its gate, invokes the compact. A soul without the names still
+crosses: **a gate admits whoever submits to its toll,** paid out of grave-goods — that is what grave-goods are for — and
 the strippings, offerings, and trials the myths remember are the gates
 collecting. Each land's funerary tradition carried its own roll for its own
 stretch of the road — Maalm's dead were buried with the
@@ -171,6 +171,22 @@ of the Musleheim country with the
 Giving a name cost a keeper nothing then. The spell that turns a name into a
 chain had not been dreamed of; a name given as surety was a toll-word, not a
 leash.
+
+**One road, two planes.** The world of the living and the world of the dead
+overlap. The dead travel the road as the **river of stars**; the living walk
+the same road in the flesh as the **Abyss tunnels** — one geography, two
+faces. **The planes intersect at people and at demons.** A sleeping mortal
+brushes the far side — **dreams are real,** and their country is the dead's
+country; an ordinary dream is a shallow, forgetful crossing, and a deep one
+(*Dream of the Blue Veil*) carries the sleeper all the way over (see
+[the dream quest](../encounters/the-dream-quest.md)). A demon does not cross
+at all: **it stands on both planes at once, always.** A keeper at its gate
+watches the living tunnel and the river of stars together, so nothing passes a
+kept gate unseen from either side — the names and the tolls are the only ways
+through. This is also why the half-demon al Qahtani children cannot dream:
+crossing requires standing on one side, and they were born standing on both.
+`[OPEN]` what a surface demon perceives of the dreams of sleepers near it —
+Mul at his desk, Manizheh in her doorway — and whether Preem knows or uses it.
 
 > `[draft — 7/21 brainstorm, settle with David]` **The pact, and the world it
 > made.** Before the first fall the world was **water, nearly empty** — and

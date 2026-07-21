@@ -116,6 +116,16 @@ the Hours in [Tomb 2](valley-of-the-kings.md)) — so that the soul could speak
 each keeper's name at its gate and pass unchallenged (see
 [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)).
 
+**The dream is a real crossing, not a vision.** The living world and the
+dead's overlap, and dreams touch the far side: an ordinary sleeper brushes it
+shallowly and forgets; *Dream of the Blue Veil* carries the sleeper all the
+way over. The river the party wakes on is the same road the dead walk and the
+same road the Abyss tunnels are — one geography, two faces. This is also why
+the children cannot dream (the children note above): a demon stands on both
+planes at once, and the half-demon children were born standing on both —
+there is no far side for them to cross to. The keepers stand the same way: a
+keeper at its gate watches the river of stars and the living tunnel at once.
+
 The party crosses carrying nothing. Every test on this river is what the road
 is for a traveler with no names: the serpent reads them at Gate One because no
 one aboard holds a name it must answer to; the boat outruns Apep instead of
