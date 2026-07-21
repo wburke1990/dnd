@@ -1,84 +1,67 @@
 # Player messages — earth dreams, and the Maalm valley
 
-Out-of-character notes to **Jeremy (Sarric)** and **Andrew (Pax)**, introducing
-the earth-nameless soul-cycle and handing each of them a dream from the long
-rest in Maalm. Lore behind it:
+Chat messages to **Jeremy (Sarric)** and **Andrew (Pax)**, floating the
+inherited-memory idea and offering each of them a dream from the long rest in
+Maalm. Lore behind it:
 [Lineages & Afterlives §5 and §11](../lore/lineages-and-afterlives.md).
 
-Both messages offer the dream rather than imposing it, and neither carries a
-mechanical effect. The valley they see is Maalm before
-[the drying](../lore/the-drying-of-the-valley.md); the fragment is deliberately
-undated and unplaceable, because the mechanic never hands over context.
+**These go in chats David is in, so keep them casual** — texts, not briefings.
+Both are framed as *"how would you feel about…"* rather than an announcement,
+and either player can decline.
+
+**Deliberately withheld.** Neither message explains the cosmology. Sarric gets
+the part his own people know and nothing beyond it; Pax gets no explanation at
+all, because he has none — telling Andrew about the celestial half would
+resolve the delusional-or-chosen question the character is built on. Neither
+message carries a mechanical effect.
 
 ---
 
 ## To Jeremy — Sarric
 
-> Some Firbolg lore I want to try on you, plus something from your long rest.
+> How would you feel about Sarric having dreams that aren't his?
 >
-> Firbolgs don't go anywhere when they die. The body goes into the land, and
-> the soul goes back into a common stock that new Firbolgs are drawn from —
-> same cloth, different people. You still have parents and a childhood; it's
-> the soul that comes out of the pool, not the baby.
+> Firbolg thing: when your people die they go back into the land, and new ones
+> come up out of it carrying scraps of the lives that went in. Sarric grew up
+> with this — it's ordinary, not mystical, and everyone he knows is the same.
+> He'd probably tell you he doesn't dream at all, and he'd mean it. There's no
+> story in them and nobody in them is him.
 >
-> So Sarric was assembled out of pieces of other lives, and some of their
-> memories came with him. Thousands of years of them. They only surface when
-> he's asleep, and only about the ground he's actually sleeping on. It's also
-> why he'd tell you he doesn't dream, and he'd be right — there's no story in
-> it and nobody in it is him.
+> If you're up for it: on the long rest here he got Maalm back when the river
+> still ran. Green floodplain, black silt, crops standing to the canyon walls,
+> somebody working in the shallows. A completely ordinary day, no telling how
+> long ago. He woke up knowing where the water used to go.
 >
-> His people know all this about themselves. It has a name and it's ordinary.
-> Nothing about it is a revelation to him.
->
-> Which brings me to Maalm. On your long rest, the ground here had something
-> to say. Sarric got the valley when the river was still running: green
-> floodplain, black silt, crops standing all the way to the canyon walls,
-> birds working the shallows. Somebody's completely ordinary day, a long time
-> ago and no way to say how long. He woke knowing where the water used to go.
->
-> No mechanics attached, nothing you have to do with it. Say the word if
-> you'd rather he didn't have it.
+> No mechanics, nothing you have to do with it. Just say if you'd rather not.
 
 ---
 
 ## To Andrew — Pax
 
-> Some lore for Pax, plus something from your long rest.
+> How would you feel about Pax having dreams that aren't his?
 >
-> Pax is half celestial and half earth-people, and the two halves don't sleep
-> the same way.
+> Not visions exactly — memories of other people's lives, tied to wherever
+> he's sleeping. No context, no names, no way to place them.
 >
-> Earth-people go back into the land when they die — body into the ground,
-> soul into a common stock that new ones are drawn from. They come out
-> carrying scraps of the lives that went in, which surface in sleep, and only
-> about the ground they're sleeping on. Pax gets those nights.
+> If you're in: on the long rest here he got Maalm back when the river still
+> ran. Green floodplain, black silt, crops to the canyon walls, somebody
+> working in the shallows. An ordinary day, a long time ago, and nothing in it
+> telling him when or who.
 >
-> He also gets the other kind, where something addresses him directly and he
-> wakes up feeling instructed.
->
-> He has always filed both under the Green Revelation. Worth knowing: he isn't
-> wrong that something is talking to him.
->
-> So — on the long rest in Maalm, he got an earth night. The valley with the
-> river still in it: green floodplain, black silt, crops to the canyon walls,
-> someone working in the shallows. An ordinary day, thousands of years back,
-> and nothing in it that tells him when or who. Whether he reads that as the
-> world testifying is completely up to you.
->
-> No mechanics attached. Say the word if you'd rather he didn't have it.
+> Whether that's the world talking to him or just a strange night is yours to
+> decide. No mechanics attached — say if you'd rather not.
 
 ---
 
 ## DM notes
 
-- **Don't explain the mechanic further unless asked.** Both messages give the
-  player enough to roleplay from and nothing that resolves into plot.
+- **Say no more than the message says.** If a player asks how it works, the
+  in-world answer is all Sarric has and Pax has less than that.
 - **The fragment is undated on purpose.** Neither character can tell whether
   this is Amseh's golden age or the valley before the dynasty — the valley
-  predates Amseh and who lived there then is open canon. If a player pushes
-  for a date, the honest answer is that the dream doesn't carry one.
+  predates Amseh and who lived there then is open canon. If pushed for a date,
+  the dream doesn't carry one.
 - **Sarric is casual about this and Pax is not.** That contrast is the point;
   let it play without steering either of them.
-- If either player wants their character to *try* to dream something useful
-  later, the answer is that it doesn't work that way — the ground offers or it
-  doesn't (the location rule, §11).
+- If either wants to *try* to dream something useful later, it doesn't work
+  that way — the ground offers or it doesn't (the location rule, §11).
