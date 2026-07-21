@@ -188,7 +188,7 @@ crossing requires standing on one side, and they were born standing on both.
 `[OPEN]` what a surface demon perceives of the dreams of sleepers near it —
 Mul at his desk, Manizheh in her doorway — and whether Preem knows or uses it.
 
-> `[draft — 7/21 brainstorm, settle with David]` **The pact, and the world it
+> `[settled — 7/21 brainstorm]` **The pact, and the world it
 > made.** Before the first fall the world was **water, nearly empty** — and
 > under it, **native fire, already peopled: the first demons predate the
 > stones.** Then the comet began to seed the world — Taniyn, and the fallen
@@ -208,10 +208,16 @@ Mul at his desk, Manizheh in her doorway — and whether Preem knows or uses it.
 > joined. Nothing of them was given, sworn, or written — which is why the
 > **magma demon's name is in no tomb** and rests with an eldest of the deep,
 > takeable only at the brink (below): the covenant economy the party mines
-> does not reach that deep. `[OPEN]` whether later demon generations are born
-> of the passes themselves (condensed from the shattering and the heat),
-> which elders stand outside the pact, and how the pact sits with the
-> magma-demon/sky-dragon contest.
+> does not reach that deep. **Later generations are pass-born:** new demons
+> condense from the shattering and the heat of each pass — the first demons
+> predate the stones, and every pass since has added to the deep's people.
+> **The unpacted are the eldest:** the ancient, most powerful demons of the
+> deep (the high-CR tier of [the demon roster](../bestiary/available-demons.md))
+> stand outside the pact — and the magma demon itself, a force and never a
+> person, was party to nothing; its name exists only as the deep's derived
+> knowledge (below). `[OPEN]` how the pact sits with the
+> magma-demon/sky-dragon contest (the Manichean draft in
+> [the Second Foundation](the-second-foundation.md)).
 
 **So a demon's true name was only ever written in one kind of place: a sealed
 tomb.** The road-names went into burial texts prepared for one dead person and
