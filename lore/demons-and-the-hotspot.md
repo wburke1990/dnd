@@ -215,8 +215,10 @@ Mul at his desk, Manizheh in her doorway — and whether Preem knows or uses it.
 > deep (the high-CR tier of [the demon roster](../bestiary/available-demons.md))
 > stand outside the pact — and the magma demon itself, a force and never a
 > person, was party to nothing; its name exists only as the deep's derived
-> knowledge (below). `[OPEN]` how the pact sits with the
-> magma-demon/sky-dragon contest (the Manichean draft in
+> knowledge (below). And the magma-demon/sky-dragon contest **is the pact
+> under strain:** each pass the two poles renegotiate — held, the magma flows
+> slow and builds land; broken, the pass runs fast and the world shatters
+> (the Manichean frame in
 > [the Second Foundation](the-second-foundation.md)).
 
 **So a demon's true name was only ever written in one kind of place: a sealed

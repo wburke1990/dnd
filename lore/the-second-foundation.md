@@ -88,7 +88,7 @@ It destroyed the Muspel empire and mutated its people into **orcs and half-orcs*
 ~a year out, it is **round 2**: both orders want to control the coming event, and the
 party will have to choose whom — if anyone — to help.
 
-> **`[draft]` The Manichean frame.** A working idea sitting *under* the two Foundations:
+> **`[settled — 7/21]` The Manichean frame.** The frame sitting *under* the two Foundations:
 > each Ragnarok is a **contest between a magma demon and a sky dragon**, and the
 > underlying variable is **pace.** A **slow** struggle lets magma **flow out and build
 > land** (Hawaii); a **fast** one **blows the top off the world** (Krakatoa). So the
@@ -102,9 +102,10 @@ party will have to choose whom — if anyone — to help.
 > it to spend itself all at once**, a slow land-maker enslaved into a bomb (the
 > campaign's transformation-as-violation, made cosmic). `[OPEN]` the exact mechanism. See
 > [Lonka / Jotunheim](lonka-jotunheim.md), where the **Dragon Turtle still in Lonka's
-> blast-caldera implies the sky dragon won that Ragnarok.** (Companion: **the pact
-> draft** in [demons-and-the-hotspot](demons-and-the-hotspot.md) — the two poles
-> began as partners, raising land from the empty water world.)
+> blast-caldera implies the sky dragon won that Ragnarok.** (Companion: **the
+> pact** in [demons-and-the-hotspot](demons-and-the-hotspot.md) — the two poles
+> began as partners, raising land from the empty water world; the contest is
+> the pact under strain.)
 
 ## 3. The Founding link — who the Foundationers are
 
