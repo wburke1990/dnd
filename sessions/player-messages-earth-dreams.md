@@ -59,14 +59,12 @@ message carries a mechanical effect.
 And the second kind of night, sent after (or as a follow-up in the same
 thread):
 
-> There's also a second kind of night, if you want it. Sometimes nobody's
-> memory turns up at all — instead something addresses him directly, and he
-> wakes with the sense he's been given an instruction he can't quote. Nothing
-> repeatable, nothing to write down, just the feeling of having been spoken
-> to. He's had those as far back as he can remember, long before the cave.
+> The other dreams I imagine Pax having are dreams where someone is giving him
+> instructions, but he can't remember what the instructions were when he wakes
+> up, or what the person (god?) looked liked. He wakes up knowing that
+> something powerful wants him to do something, but doesn't know what that is.
 >
-> The two kinds don't obviously come from the same place. Pax has always
-> assumed they do.
+> What do you say??
 
 ---
 
@@ -80,11 +78,20 @@ thread):
   him the character's reading without endorsing it. Under the hood it is the
   celestial half (§11) — do not confirm it, and do not let the earth dream
   quietly become evidence for the Green Revelation.
-- **"Long before the cave" is load-bearing.** It puts the instructed nights
-  earlier than the Green Revelation, which makes the Revelation one event in a
-  longer pattern rather than the origin of everything — and makes his canon
-  line, *"where other students heard the wind, Pax heard instructions"*
-  ([sheet](../characters/pax.md)), literally true.
+- **An unreadable mandate is the strongest version of Pax.** He is a man
+  built on believing he has been given a task; now he demonstrably has one and
+  cannot read it. Every interpretation he reaches for — the moss, the river,
+  the corrective mandate of soil — is him trying to fill in an instruction he
+  genuinely received and genuinely cannot recover. It also lands on the
+  campaign's spine from the other direction: **something powerful wanting a
+  named half-celestial to do something** is ownership arriving from above,
+  the mirror of Preem working from below.
+- **How far back the instructed nights go is still open.** If they predate the
+  Green Revelation, the Revelation becomes one event in a longer pattern
+  rather than the origin of everything, and his canon line — *"where other
+  students heard the wind, Pax heard instructions"*
+  ([sheet](../characters/pax.md)) — reads as literal. Worth settling with
+  Andrew rather than deciding for him.
 - **The fragment is undated on purpose.** Neither character can tell whether
   this is Amseh's golden age or the valley before the dynasty — the valley
   predates Amseh and who lived there then is open canon. If pushed for a date,
