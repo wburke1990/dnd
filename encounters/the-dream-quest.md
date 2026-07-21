@@ -239,10 +239,9 @@ notice good light; the party should read "lovely, strange, grieving
 family," not "demons." The children's beauty is a *seed* of their
 half-demon inheritance, a long-term hook — never a tell.
 
-The mother is the one who holds the eye. Her face does not move while
-she is being looked at. She holds an expression the length of a
-conversation and then changes it all at once. The line of her jaw and the
-set of her eyes are her son's exactly, and her daughter's, and she is the
+The mother is the one who holds the eye. Her face changes all at once, and
+then doesn't change again for a long time. The line of her jaw and the set
+of her eyes are her son's exactly, and her daughter's, and she is the
 youngest-looking of the three.
 
 ## The Setup
@@ -592,7 +591,7 @@ member pauses for the duration of the dream and resumes when they wake.
 
 ## Waking on the Boat — Read Aloud
 
-*"You wake already on the boat. No transition, no darkness before — just suddenly you are here. White robes. No weapons, no equipment, nothing you arrived with. The boat is wooden and merchant-built, clearly someone's working vessel. His name is on the hull — Ghassan al Qahtani.*
+*"You wake already on the boat. No transition, no darkness before — just suddenly you are here. You are completely naked. No weapons, no equipment, nothing you arrived with. There are simple white robes folded in front of you. The boat is wooden and merchant-built, clearly someone's working vessel. His name is on the hull — Ghassan al Qahtani.*
 
 *The river is vast and black. Stars above and below in equal measure. It is impossible to tell if the boat is sailing through sky or through deep ocean. There is no horizon. There is no shore visible yet.*
 
@@ -691,7 +690,7 @@ Then the next gate.
 
 ## Read Aloud
 
-*"A stone arch rises from the water ahead, spanning the full width of the river. As the boat passes beneath it, a figure descends from nowhere to stand at the prow beside the dead man. It has the head of an ibis. It carries a writing palette. It looks at the party with the expression of someone who already knows every answer and is asking anyway."*
+*"A stone arch rises from the water ahead, spanning the full width of the river. As the boat passes beneath it, a figure descends from nowhere to stand at the prow beside the dead man. It has the head of an ibis. It carries a writing palette. It sets the stylus to the palette before anyone has spoken."*
 
 This is Thoth. His name is inscribed on the arch in hieroglyphs — recognizable to anyone who studied the Tomb 4 puzzle room paintings.
 
@@ -1023,7 +1022,7 @@ The dead man is not there. He never came back with them.
 
 Outside, through the window, dawn.
 
-**The older child** helps the party up without being asked. They are already thinking about what comes next. There is a quality of exhaled breath about them. Something that was waiting is over.
+**The older child** helps the party up without being asked, then goes around the room pinching out the candles one after another, and opens the shutters.
 
 **The younger child** looks at the party and starts to ask:
 
@@ -1080,7 +1079,7 @@ them from here on.
 
 If the rite goes badly, the children keep it.
 
-The party levels up to level 2.
+The party levels up to level 3.
 
 Ma'at's Mark, if applicable, is discovered by its bearer on their own. It is not announced.
 
