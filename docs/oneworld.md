@@ -275,6 +275,34 @@ in-place overwrite), and chain through `/tmp` like the importer.
   the result by re-running the probe (0 dead) and `mv` the final temp into
   `TS_Save_19.json`, same as the import flow.
 
+## Planned (deferred): script a new OW map from a padded image
+
+Goal: a script that takes one of `maps/padded/*.png` and builds it into a
+**new** OW map (floor plate + `SBx_`/`OWx_` three-piece registration) in
+staging, so we stop doing it by hand.
+
+The blocker is **hosting the floor image at a public URL TTS can fetch**:
+
+- **Steam Cloud UGC is not scriptable.** The
+  `steamusercontent-a.akamaihd.net/ugc/…` URLs are minted by Steam Remote
+  Storage *through the TTS client* (Steamworks SDK bound to TTS's app id);
+  there's no external API to push a file and get one back — only TTS's
+  in-client Cloud Manager UI does it. So we can't reuse Steam.
+- **Committing the PNG files to git doesn't scale.** Rate estimate (2026-07): 6
+  sessions in, ~30 maps touched ≈ **5 maps/session**; at 1 session/week ×
+  3 years (156 sessions) that's **~780 maps ≈ ~1.5 GB** of floor images.
+  On `main` that bloats history forever on every clone (same reason the
+  big saves aren't committed). Per-map manual external URLs defeat the
+  "save manual time" point.
+
+**Decision:** host floor images on **Cloudflare R2** (S3-compatible, zero
+egress, ~free at this size), one scripted upload per image → stable public
+URL → feed that URL as the `--sbx-image-url` of a new-map builder (the
+`import_ow_map` three-piece wiring is the model; the new part is
+synthesizing a bare OWx bag + SBx floor tile from scratch instead of
+copying a donor bag). **Deferred** — set up the R2 bucket + creds first,
+then build the script. Until then, new maps are still made by hand in TTS.
+
 ## Edit workflow for the Hub or aBag Lua
 
 ```
