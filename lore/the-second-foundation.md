@@ -102,7 +102,9 @@ party will have to choose whom — if anyone — to help.
 > it to spend itself all at once**, a slow land-maker enslaved into a bomb (the
 > campaign's transformation-as-violation, made cosmic). `[OPEN]` the exact mechanism. See
 > [Lonka / Jotunheim](lonka-jotunheim.md), where the **Dragon Turtle still in Lonka's
-> blast-caldera implies the sky dragon won that Ragnarok.**
+> blast-caldera implies the sky dragon won that Ragnarok.** (Companion: **the pact
+> draft** in [demons-and-the-hotspot](demons-and-the-hotspot.md) — the two poles
+> began as partners, raising land from the empty water world.)
 
 ## 3. The Founding link — who the Foundationers are
 

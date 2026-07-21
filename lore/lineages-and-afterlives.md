@@ -73,6 +73,15 @@ Osiris judging the dead who travel the river of stars to the Hall of Two
 Truths ([the dream quest](../encounters/the-dream-quest.md)) *is* dragon-people
 sky-judgment. Maalm is the template, not the exception.
 
+**The road to the sky runs through the deep.** A line's dead follow the sun —
+down at the western horizon, through the Abyss, out at dawn to the judgment
+hall — and each line's god secured that crossing **god-to-god**, in a compact
+with the deep-people whose country the road crosses. The keepers' names given
+as sureties of that compact are the covenant names of the whole names-quest
+(see [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md)).
+Mortals were never party to it: the rites can be lost, the passage-right
+cannot.
+
 **Island gigantism lives here.** Isolated islands grow their people large (or
 shrink them) — real evolution, fast on Nila. A **giant human** is a dragon-
 person grown big on a lonely island; still sky-judged. **Size is not lineage —

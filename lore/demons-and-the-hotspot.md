@@ -107,8 +107,9 @@ A personal demon's true name cannot be read off it or overheard — a living dem
 that guards its name gives nothing away. There are only **two ways to come by
 one.** The first is to **find it already written:** lifted from the funerary
 texts of the old empires — the covenant names the keepers of the dead's road
-gave the temples, the one kind of place a demon's true name was ever set down
-(below). The second is to **take it fresh:** bring the demon to the edge of true
+gave the line-gods as sureties, handed down through the gods' death-rites, the
+one kind of place a demon's true name was ever set down (below). The second is
+to **take it fresh:** bring the demon to the edge of true
 death and have it surrender its name for its life — for a demon, true death is
 final, no return, which is what makes the threat absolute. Either way, once a name
 is had it can be copied and handed on and **never recalled;** a bound demon's only
@@ -140,24 +141,61 @@ names, which bind nothing. That combing has been done. It found what it could
 find.
 
 **The one exception is the dead — and it is the whole quest.** The road to the
-[Duat](egyptian-afterlife-mythology.md) runs *down*, through the Abyss: every
-dead soul crosses demon country to reach its judgment. In the alliance age the
-demon-people were the road's wards, and the **keepers of its gates gave their
-names to the mortal temples as safe-conduct** — a dead soul speaks the keeper's
-name at the gate, and the keeper lets it pass. That covenant is what the
-funerary texts exist to serve: the priests buried each of their dead with the
-names of the keepers along the road — the literal purpose of the
-[Amduat](egyptian-afterlife-mythology.md), *to give the dead the names of every
-power in the underworld.* Giving a name cost a keeper nothing then. The spell
-that turns a name into a chain had not been dreamed of; a name spoken at a gate
-was a toll-word, not a leash. And a soul that arrived without the names could
-still cross: **a gate admits whoever submits to its toll** — the strippings,
-offerings, and trials the myths remember. The names made the road free; their
-absence made it cost. Each land's funerary tradition carried its own roll for
-its own stretch of the road — Maalm's dead were buried with the
+[Duat](egyptian-afterlife-mythology.md) runs *down*, through the Abyss: the sun
+leaves the world at the western horizon, crosses the hollow deep, and rises in
+the east — and every dead soul follows it. The gates on that road are not the
+afterlife's gates. They are the **border-gates of the deep-cities** the road
+passes through, kept by the road's natives in their own country.
+
+**The covenant is between immortals.** The keepers gave their names **to the
+line-gods, as sureties of the pact** (the draft below) — and each god handed
+them down through its own death-rites, which is why the names exist in
+funerary texts and nowhere else. The priests buried each of their dead with
+the names of the keepers along their stretch of the road — the literal purpose
+of the [Amduat](egyptian-afterlife-mythology.md), *to give the dead the names
+of every power in the underworld.* Mortals were never party to the compact: a
+lineage's dead hold passage whether or not the living keep the old rites. What
+mortals can lose is the **names**, not the right — and most have lost them.
+`[OPEN]` what present-day Maalm worships, and how its dead cross now.
+
+**The toll.** A named soul passes free — the name spoken at the gate invokes
+the compact. An unnamed soul still crosses: **a gate admits whoever submits to
+its toll,** paid out of grave-goods — that is what grave-goods are for — and
+the strippings, offerings, and trials the myths remember are the gates
+collecting. Each land's funerary tradition carried its own roll for its own
+stretch of the road — Maalm's dead were buried with the
 [twelve keepers of the hours](../encounters/valley-of-the-kings.md); the dead
 of the Musleheim country with the
 [seven gates](../encounters/the-descent-of-inanna.md) and their keepers.
+
+Giving a name cost a keeper nothing then. The spell that turns a name into a
+chain had not been dreamed of; a name given as surety was a toll-word, not a
+leash.
+
+> `[draft — 7/21 brainstorm, settle with David]` **The pact, and the world it
+> made.** Before the first fall the world was **water, nearly empty** — and
+> under it, **native fire, already peopled: the first demons predate the
+> stones.** Then the comet began to seed the world — Taniyn, and the fallen
+> stones that became the beast-gods of the lineages (see
+> [lineages & afterlives](lineages-and-afterlives.md)) — and the two powers
+> struck **the pact:** the stones bring seed and lineages, the deep gives
+> magma and heat, and together they **raise land out of the empty sea and
+> fill it with life.** In exchange for their share of the living world, the
+> deep-people **keep the gates of the dead's road,** and their keepers'
+> names, given to the gods as sureties, are the covenant names above. Read
+> this way, the Ragnarok cycle is **the pact under strain** — each pass a
+> renegotiation of pace: a slow pass is the pact working (land built), a fast
+> one the partnership failing (the world broken; see the Manichean draft in
+> [the Second Foundation](the-second-foundation.md)) — and the two
+> Foundations are mortals meddling in an immortal arrangement they only half
+> understand. **The unpacted elders:** some of the most ancient demons never
+> joined. Nothing of them was given, sworn, or written — which is why the
+> **magma demon's name is in no tomb** and rests with an eldest of the deep,
+> takeable only at the brink (below): the covenant economy the party mines
+> does not reach that deep. `[OPEN]` whether later demon generations are born
+> of the passes themselves (condensed from the shattering and the heat),
+> which elders stand outside the pact, and how the pact sits with the
+> magma-demon/sky-dragon contest.
 
 **So a demon's true name was only ever written in one kind of place: a sealed
 tomb.** The road-names went into burial texts prepared for one dead person and
