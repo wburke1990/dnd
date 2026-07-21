@@ -597,6 +597,47 @@ member pauses for the duration of the dream and resumes when they wake.
 
 *At the prow, with his back to you, an old man sits. Stooped, leaning forward slightly even seated. He arrived before you. Whatever he carried into this place with him, it is not here — his hands are empty, his seat is bare. He does not turn when you wake. He is looking at whatever is ahead."*
 
+## The Three Aspects — DC 12 Perception
+
+Offer this once they are looking at each other, and let it be found rather
+than announced. **DC 12 Perception**, on another character or on themselves.
+
+*"There are three of him. They share his shape and his posture and they do not sit inside one another exactly. One has his colour. One is pale red, and you can see the deck through it. One is pale blue and fainter than the other two. When he turns his head all three turn — the red first, then his own, then the blue, each a moment behind the last, and for that moment there are three faces at three angles."*
+
+**What they are.** Not that anyone aboard can name them yet:
+
+- **The Ka** — the one with his colour. The double, the life-force. It holds
+  the body's shape and it is the one that stays.
+- **The Ba** — pale red, translucent. The personality, the part that travels
+  and would leave. It moves **first**.
+- **The Akh** — pale blue, translucent, faintest of the three. The
+  transfigured spirit, the shining one — and on a living person it is barely
+  there, because **the Akh is what you become, not what you are.** Ghassan's
+  is not faint.
+
+**The flicker means they don't belong here.** This is the whole reason to run
+it. All three aspects move as one in a soul that is where it should be — and
+**Ghassan's three sit inside each other exactly**, from the moment they wake.
+The party's don't, and won't, for the entire journey. Nobody has to say so.
+It is the serpent's reading at Gate One and Anubis's *"this hall was not built
+for you"* made visible three hours early.
+
+If a character studies their own aspects at any point after the offering bowl,
+the gap has narrowed slightly. Do not explain that either.
+
+*(DM — this also solves the naked problem. They wake with nothing and there
+are robes folded in front of them, so there is a beat before anyone is
+dressed. Three overlapping translucent projections read as light rather than
+flesh, which keeps that beat from landing awkwardly at the table. Describe the
+aspects, not the bodies.)*
+
+*(DM — terminology. **Akh**, not Ankh; the Ankh is the life-symbol, a
+different thing entirely. The other soul-parts are already load-bearing in
+this campaign without being named: the **Ib** is the heart Anubis weighs, the
+**Ren** is the true name the whole names-quest runs on
+([lineages & afterlives §2](../lore/lineages-and-afterlives.md)), and the
+**Sheut** is the shadow — which is why Manizheh's falls slightly askew.)*
+
 ---
 
 # GATE ONE — THE SERPENT
@@ -931,6 +972,16 @@ When the last party member has confessed and Anubis has nodded, Anubis turns and
 He walks slowly. He is old and stooped without his staff, and it shows more now. He stands before the scales and looks at the empty pan for a moment.
 
 Anubis reaches into the dead man's chest. Not violently — there is no wound, no blood. He simply reaches in and removes the heart and places it on the empty pan.
+
+**The pale blue one comes away with it.** It does not stay with the body. It
+follows the heart onto the pan and closes around it and holds, and on the
+scale it is brighter than it ever was on him. Two of him stand before the
+scales now, and neither of them is blue.
+
+*(DM — if the party found the three aspects on the river, this needs no
+explanation and should get none. The thing being weighed is the thing he
+would become. Anyone who passed the Perception check on the boat can see that
+he has been separated from it and is standing there without it.)*
 
 The scale sinks.
 
