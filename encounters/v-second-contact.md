@@ -247,9 +247,48 @@ it. Beats to pull from:
 
 **The offer (platinum).** Pay her in **platinum** — a fair price for the map is heavy in
 gold (hundreds of coins) but a pocketful in platinum, which suits a spy who travels
-light. `[OPEN]` the exact figure; **~50 pp (500 gp)** for the map reads as a real
-temptation for a level-2 party without breaking the purse. The per-service offers in the
-pocket-notes are separate — set those with the jobs (open thread below).
+light. `[settled — table]` **50 pp (500 gp)** for the map — a real temptation for a level-2
+party without breaking the purse. The per-service jobs and prices are below.
+
+## The offers — jobs and pay (the pocket-notes)
+
+`[settled — table]` **What V. is hiring for.** She wants the party as **embedded assets**
+inside Preem's operation: they keep working for Preem (their cover) and feed the First
+Foundation what they see. She is a lone, compartmentalized agent, so there is **no salary
+and no standing meeting** — she pays **per delivery, in platinum, to a drop** (a rat
+courier or a chalk-mark signal she sets in the notes). Each PC's note names the work and
+the price.
+
+**The code is the string.** Every job carries the same condition: **no torture, no bodies
+she has to explain, don't burn her contacts, don't blow the cover.** Break it and she is
+gone — the whole reason she is choosy about them.
+
+**The menu (platinum; tune the numbers to taste):**
+- **Sign-on** — she fronts each of them **~10 pp** to take the work at all, good faith.
+- **A copy of every atlas** Preem gives them or they see — **20 pp each.** (The thing
+  Ratatat never landed; now she buys it off the crew direct.)
+- **Each assignment reported** — where Preem sends them, what he has them collect —
+  **~10 pp.**
+- **Each true name they gather for Preem, relayed to her** — **~20 pp.** (She wants the
+  names badly, and does not yet know what they are *for* — DM note below.)
+- **Naming Preem's other crews and go-betweens** (the Second Hand, the rival crews) —
+  **~25 pp** apiece.
+- **Anything lifted off Preem himself or his tower** — an instruction, a gift, a document
+  — **50–150 pp** by value.
+- **The standing brief — what is Preem building toward?** A real, verified answer is
+  worth **~250 pp**, the biggest number on the table and the one she most wants.
+- **Active work** — obstruct or spoil a named Preem operation — **100 pp and up,** by
+  risk, negotiated per job.
+
+*(DM — the demon army. The First Foundation does **not** yet know Preem is binding a
+**demon army** — his tower's servants, the endgame host, and the volcano-demon that caps
+it ([Preem's demons](../characters/preems-demons.md),
+[overview](../lore/campaign-overview.md)). Neither V. nor the party knows it here. Her
+"what is Preem building toward" brief is the paid thread that eventually surfaces it —
+the party discovering the demon army is a later reveal
+([preems-demons.md](../characters/preems-demons.md)), and it lands hardest on **Aniess**
+([aniess.md](../characters/aniess.md)). Don't let V. name it; she is paying to find out
+what the party will one day find for her.)*
 
 ## Sarric — why V. hesitates
 
@@ -271,9 +310,9 @@ party through him: impressive in a fight, maybe not people she can hire. See
 - `[OPEN]` **Coffeehouse name and keeper** — every Nila tavern-keeper is a
   **Letap satyr** ([satyr-taverns](../lore/satyr-taverns.md)); a coffee-house
   keeper could be one too.
-- `[OPEN]` **The offers** — what services V. names and what she pays for each
-  (the pocket-notes), paid in **platinum**. See
-  [Conversation ideas for David](#conversation-ideas-for-david).
+- `[settled — draft]` **The offers** — jobs and platinum prices drafted in
+  [The offers — jobs and pay](#the-offers--jobs-and-pay-the-pocket-notes); tune the
+  numbers to taste.
 - Naming note: the "Alcatanni house" the party mean to visit = the **al Qahtani**
   (the finest-healers house; the two were merged in play,
   [S7](../sessions/session-07.md)).
