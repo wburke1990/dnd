@@ -263,6 +263,40 @@ mix:
    > From each finger an arrow, and each arrow a man slain; and the hail came
    > ounce-heavy, weighing even as it slew.
 
+Since the replacement must keep the **troll-women** in — both sisters, Þorgerðr
+Hölgabrúðr ("Hölgi's bride") and Irpa, the patrons a king's sacrificed son buys —
+five more that name them, **[draft]**:
+
+6. *Both sisters, named and formulaic:*
+
+   > Then Þorgerðr Hölga-bride and her sister Irpa walked the waves, and from every
+   > finger loosed an arrow, and each arrow was a man's death; and the sky broke
+   > over the fleet, and every hailstone weighed an ounce.
+
+7. *"The troll-wives," alliterative (the Seafarer register):*
+
+   > The troll-wives walked the water, and from their finger-ends flew shafts, each
+   > one the fetch of a man; and foul weather woke, and the hail fell so heavy that
+   > a single stone weighed an ounce.
+
+8. *Closest to the current line, lifted into the saga register:*
+
+   > From the fingers of the troll-women flew arrows, and every shaft was a man's
+   > bane; the storm-squall gathered black over the sea, and each hailstone weighed
+   > its ounce.
+
+9. *Carrying the price paid (the sacrificed son):*
+
+   > For a king's son given to them, the two troll-women came into the storm, and
+   > from every finger sped an arrow, and each took the life of a man; and the hail
+   > beat ounce-heavy upon the decks.
+
+10. *Leaning on the pun, plural:*
+
+    > The troll-women stood in the hail and loosed from each finger a shaft, and
+    > each shaft slew its man; and the stones fell an ounce in weight, the sky
+    > weighing even as it slew.
+
 The repo's current line tracks the real Norse closely, so it reads as a faithful
 translation, not a lift from a copyrighted edition. It needs correct attribution
 (Heimskringla for the hail; the saga formula for the arrows), not deletion.
