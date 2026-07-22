@@ -162,6 +162,38 @@ dwarves never built another navy; they kept only their shipyards, which is why
 they **build** hulls today rather than **sail** them in force. The sea they both
 bled for fell to **Mukka** and the small traders.
 
+### The price the earl paid — the sacrificed son `[added 7/22]`
+
+The troll-women's arrows were bought, and the price was a child. The orc sea-king
+who led at Hjörungavágr — **Hákon**, in the saga — gave the troll-women his own son
+to win their storm and their arrows; the saga names the boy **Erling** (the verified
+line is in the Heimskringla section below). `[draft — the name is kept from the
+saga; the son-sacrifice is new in-world lore, and can take an orc form instead.]`
+
+It bought nothing that held. The deep answers to no patron: the eruption that raised
+the Kurunatukas broke his fleet with the dwarves', and the orcs, the fewer, broke
+first. He spent his son and lost the day — Amseh IV's error in an older age,
+*sacrificing his children to gods who did not answer* (see
+[amseh-dynasty](amseh-dynasty.md)).
+
+He outlived the battle and came to a small end. Hunted through his own country, he
+hid in a pig-sty, and there his own thrall cut his throat while he slept; the thrall
+was killed for it. `[draft — the pig-sty death is the saga's, kept for Hákon.]`
+
+Then the reckoning. The boy's heart is innocent and goes uneaten — he passes free —
+and the weight of the death falls on the father. Ammit's scales are the **Maalm**
+dead's court and take only that line (see
+[lineages-and-afterlives](lineages-and-afterlives.md),
+[egyptian-afterlife-mythology](egyptian-afterlife-mythology.md)); it is not Ammit
+who meets Hákon but his own people's sky-court — the beast that made the orcs at the
+Bad Pass. `[OPEN]` what that court and that beast are: the Muspel afterlife is
+unwritten. What Amseh IV met at Ammit's scales, Hákon meets at his own — the child
+bought a victory the mountain took back, and the father answers for the child.
+
+> If the troll-women are later flipped to the **dwarf** side (the `[loose]` note
+> above), this earl and his sacrifice flip with them: the price is paid by whichever
+> side the troll-women serve.
+
 **The knock-on (the last few hundred years):**
 
 - With the orc fleet broken and the water opened, the hot spot kept **raising
