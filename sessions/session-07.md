@@ -109,7 +109,11 @@
   the abyss, dropped Blackacre, and slid into the deep.** The party didn't
   pursue (correct — the deep is lethal), healed Blackacre, and left. So the
   payload landed: **V. is a face now, and the shaft / under-city is open** —
-  no corpse on either side. The party **read much better than expected.**
+  no corpse on either side. The party **read much better than expected.** Her exit
+  state, for next contact: the **53** left her at roughly **20 of 73 HP**, and she
+  spent **two of her three 2nd-level slots on Misty Step** getting clear — so she
+  went down the shaft **wounded and holding a single 2nd-level slot** (one more
+  *Misty Step* or one *Invisibility*).
 - **The maps never changed hands — and never have.** Ratatat's whole scheme
   (steal Preem's crews' maps, sell them to V.) has **netted nothing in
   play**: he **failed to steal the party's map** ([S1](session-01.md)) and
@@ -175,7 +179,10 @@
       also touches.
 - [ ] **Find V. again.** First contact is made and she got clean away into
       the deep. She read the party as Preem's and did **not** turn or recruit
-      them; next contact is `[OPEN]`.
+      them; next contact is `[OPEN]`. She went down the shaft **at ~20/73 HP and
+      down to one 2nd-level slot** — hurt and nearly out of escape magic. Whether
+      she's healed and re-supplied by the time they meet again depends on how soon
+      that is.
 - [ ] **The maps — Ratatat has never landed one.** No stolen maps exist to
       recover; his scheme has failed at every turn. Decide what that means
       for the First Foundation's map-buying operation, and whether Ratatat
