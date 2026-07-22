@@ -12,7 +12,8 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [03](session-03.md) | Tombs II & III: The Lions and the Mummy | Valley of the Kings | Feed the cave lions rat meat; the mummy **Kethara**; **Tombs II & III** cleared |
 | [04](session-04.md) | The Guard Who Knew the Rat Man | Maalm's gates | Insight-check the gate guards; catch an informant on the rat man's network |
 | [05](session-05.md) | The Fourth Tomb, and the Akhekh on the Road | Valley of the Kings → road to Maalm | **Tomb IV** cleared (clean 5-for-5 confessions); all four tombs done; **Akhekh** on the way home ends in de-escalation (apology, Entangle dropped, rat meat) |
-| [06](session-06.md) | The Second Hand, and the Rat Man's Two Fingers | Maalm's square, the bank & the mill | Ran the **Second Hand ambush**; saved the crew (alliance won); **captured Ratatat**, interrogated him (Sarric led, Jasper took two fingers), then let the corrupt watch walk him off; **Cassia** on the watch's rot; **tea with Lucrecia** at the bank; that afternoon **The Mill** — **first contact with V.**, who escaped down the shaft into the deep |
+| [06](session-06.md) | The Second Hand, and the Rat Man's Two Fingers | Maalm's gate & main square | Ran the **Second Hand ambush**; saved the crew (alliance won); **captured Ratatat**, interrogated him (Sarric led, Jasper took two fingers), then let the corrupt watch walk him off; **Cassia** on the watch's rot |
+| [07](session-07.md) | The Bank, and First Contact at the Mill | Maalm — the bank & the under-mill tunnels | **David cancelled; William ran it solo.** Tea with **Lucrecia** at the bank (a classist tour of Maalm; the **al Qahtani** as its finest healers); **Daniel** guides them to **The Mill**; **first contact with V.** — tripwire sprung, Jasper taken hostage, combat, Sarric's crit drives her off, and she **escapes down the shaft into the deep** (Blackacre downed and healed). No maps changed hands |
 
 ## Running threads
 
@@ -24,22 +25,18 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   fingers), then **let the corrupt watch walk him off** — so he's **loose
   again, now missing two fingers.** Under torture he gave up that **V. is
   meeting him at a nearby mill** — the party's first concrete line on V.
-- **V. and the mill** (S6) — the interrogation turned the *"Bring more to
-  the mill. — V."* note into a live lead: **V.**, the
-  **First Foundation**'s one Maalm agent, is due to meet Ratatat at a
-  **nearby mill.** Now built: [`encounters/the-mill.md`](../encounters/the-mill.md)
-  (V.'s writeup and stat block, the tunnel traps, the time-race). **Route
-  found (S6):** the noble **Lucrecia** has her garden grain milled there and
-  offered her servant **Daniel** to guide the party in on his **afternoon
-  grain run** — clean cover, but later than a mid-morning dash. **PLAYED
-  (S6):** the party took Daniel's route in; **Aniess sprang the tripwire** and
-  V. got the drop, a **knife to Jasper's throat** and her sass; combat broke
-  out, **Sarric disarmed her then crit for 53**, and she **ran**; **Blackacre
-  (giant spider)** chased her across the ceiling — caught the fall-rock trap,
-  but the **false lip collapsed** and V. **Misty Stepped the abyss, dropped
-  Blackacre, and slid into the deep.** Party didn't pursue; healed Blackacre
-  and left. First contact made — **V. is a face now, the under-city is open**;
-  `[OPEN]` whether the **maps** were recovered.
+- **V. and the mill** (S6→S7) — the *"Bring more to the mill. — V."* note
+  became a live lead, then **PLAYED (S7):** the noble **Lucrecia** knew the
+  mill and lent her servant **Daniel** to guide the party in. **Aniess sprang
+  the tripwire** and V. got the drop — a **knife to Jasper's throat** and her
+  sass; combat broke out, **Sarric disarmed her then crit, driving her to
+  run** (53 damage total — a level-10 rogue fighting only to break contact).
+  **Blackacre (giant spider)** chased her across the ceiling, caught the
+  fall-rock trap, but the **false lip collapsed** and V. **Misty Stepped the
+  abyss, dropped Blackacre, and slid into the deep.** Party didn't pursue;
+  healed Blackacre and left. First contact made — **V. is a face now, the
+  under-city is open.** **No maps ever changed hands** (Ratatat has failed
+  every theft).
 - **Misplaced suspicion** (S2) — the party thinks the city-gate guides
   answer to **Preem**. They actually answer to the **rat man**. Payoff
   when they untangle it: Preem looks innocent, the rat man looks dangerous.
@@ -72,13 +69,11 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   Planned reveal: the **Jasper beat** (the al Qahtani ask if he has a soul /
   dreams, and admit they don't). `[OPEN]` whether the family wants a
   **resurrection**. Not yet played: [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
-- **Lucrecia** (S6) — a new **elite-caste** patron who thanked the party for
-  the Ratatat fight (the severed fingers proved it wasn't a **staged**
+- **Lucrecia** (S6–S7) — a new **elite-caste** patron who thanked the party
+  for the Ratatat fight (the severed fingers proved it wasn't a **staged**
   fight). She gave **Sarric 50 gp for a potion** (after **Aniess ignored
-  her**); **Sarric pocketed it** and bought nothing. At the **bank** after,
-  she bought them tea, gave a **classist** tour of Maalm's castes, and became
-  the **route to the mill** — her servant **Daniel** will guide them on his
-  afternoon grain run. She named the **al Qahtani** — the Dream Quest family —
-  as Maalm's finest healers (she's a skin-treatment client) and disdained
-  their lower-city charity, and dangled a **flowers errand** (rough up a
-  neighbor over their flowers). `[OPEN]` her tie to the **Second Foundation**.
+  her**); **Sarric pocketed it** and bought nothing. **S7:** at the bank she
+  bought them tea, gave a **classist** tour of Maalm's castes, named the
+  **al Qahtani** (the Dream Quest family) as its finest healers, dangled a
+  **flowers errand**, and became the **route to the mill** — her servant
+  **Daniel** guided them there. `[OPEN]` her tie to the **Second Foundation**.

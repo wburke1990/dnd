@@ -58,34 +58,6 @@
   **Aniess**, who **ignored her**, so she handed it to **Sarric** instead.
 - **Sarric pocketed the gold** rather than buying the potion.
 
-## Following Lucrecia — the bank, and the way to the mill
-
-- After the interrogation, the party **followed Lucrecia to the bank** (the
-  [bank house](../lore/bedraageon-square.md) on Bedraageon Square). She took
-  a **meeting** there, then **bought them tea** in the waiting room's
-  tearoom.
-- Over tea she laid out Maalm by caste: the **walled interior of the star
-  fortress**, the **nicer neighborhoods around the walls**, and the **worst
-  neighborhoods further south**, which she spoke of with contempt. The party
-  **read her as classist**, and had it right.
-- Asked about the **al Qahtani** ([the children](../characters/the-children.md)),
-  she named them the **finest healers in Maalm** and said she takes **skin
-  treatments** from them, complaining about **how expensive her skin is** to
-  keep.
-- Pressed, she added that the **al Qahtani do charity in the lower city** —
-  her "bad neighborhoods" — and was **disdainful** that they spend their
-  work on the low caste.
-- The party gave themselves a name for hired men who run the rich's errands:
-  **Pinkertons.**
-- She complained about a **neighbor's flowers** and asked whether the party
-  would **go beat up the neighbors** until they changed them.
-- They **showed her the *"Bring more to the mill. — V."* note**
-  ([the rat man](../bestiary/the-rat-man.md)). She **knew the mill** — it
-  grinds the **grain she grows in her garden** into her bread, the founder
-  houses' [garden-grain grinder](../encounters/the-mill.md). She offered to
-  send her **servant, Daniel**, to **show them the way on his next grain run
-  there, that afternoon.**
-
 ## The founder's plaque
 
 - After the fight — in
@@ -120,60 +92,10 @@
 - **Cassia** is leaving Maalm by boat. A run-in with the **city guards** may
   hit before she gets aboard.
 
-## That afternoon — the mill, and first contact with V.
-
-> David cancelled, so William ran the table solo and played **V.** from
-> David's script. Ran [The Mill](../encounters/the-mill.md).
-
-- After tea, **Daniel guided the party to the mill** and they went down into
-  the tunnels and **explored.**
-- **Aniess failed her Perception check and walked through the tripwire**,
-  which **alerted V.** — so V. had the drop on them.
-- As **Jasper** stepped through a doorway, **V. put a knife to his throat.**
-  She gave **David's speech almost word for word** (the *"kindly FUCK OFF"*
-  line, quoted in full in [the Mill](../encounters/the-mill.md)) and started
-  **marching the party out**, keeping Jasper between herself and them,
-  herding them toward the exit.
-- Instead of going along, **Aniess cast a spell**, which **broke into
-  combat.**
-- **Sarric shot the knife out of V.'s hand**, and on his **second turn
-  landed a crit — 53 damage**, nearly dropping her. **V. ran.**
-- **Blackacre, in giant spider form**, kept pace with her across the
-  ceiling, out of the traps' reach. He **spotted the fall-rock trap** (the
-  poised ceiling rubble) as he ran past it and **saved the party from it**,
-  and **saw V. open the hidden door** to the passages down to the **abyss**,
-  his speed letting the party keep up.
-- Cornered at the shaft and unable to outrun the spider, **V. Misty Stepped
-  across the abyss** rather than take the ladder down. **Blackacre followed.**
-  When the others gave **covering fire from the far rim**, the **lip
-  collapsed** — the false rim over the drop — and they had to **fall back
-  into the passages.** That left **Blackacre isolated** on the far side, and
-  **V. dropped him** before **sliding down into the abyss** and gone.
-- The party **chose not to pursue** into the deep. They **healed Blackacre**
-  with the **leftover Goodberries** from the day before and **left the
-  mill.**
-
 ---
 
 # DM NOTES & OPEN THREADS
 
-- **The mill played out — first contact made, and V. escaped into the deep.**
-  The party took Daniel's route in and ran
-  [The Mill](../encounters/the-mill.md) close to how it's built: **Aniess
-  sprang the tripwire** (failed Perception), which handed V. the drop; V. got
-  a **knife to Jasper's throat**, delivered her speech, and tried to **march
-  them out.** **Aniess's spell** turned it to a fight; **Sarric disarmed her
-  and then crit for 53**, and V. **ran for the shaft.** The traps did their
-  jobs — **Blackacre (giant spider)** caught the **fall-rock trap** and saved
-  the party, and the **false lip collapsed** under the party's covering fire,
-  isolating Blackacre. V. **Misty Stepped the abyss, dropped Blackacre, and
-  slid into the deep.** The party **didn't pursue** (correct — the deep is
-  lethal), healed Blackacre, and left. So: **first contact with the First
-  Foundation is made, V. is a face now, and the shaft / under-city is open** —
-  the payload the encounter wanted, with **no corpse** on either side.
-  `[OPEN]` whether the **maps** changed hands or were recovered — the recap
-  doesn't say; assume V. still has them unless decided otherwise. The party
-  **read much better than expected.**
 - **Ratatat: captured, interrogated, then lost to the sham arrest.** The
   party cornered him — the one thing the encounter says not to let happen —
   but the **guards' backup exit still carried him off**, so he's alive and
@@ -224,31 +146,6 @@
   Maalm noble — a bridge to burn or mend later), and **Sarric pocketed the
   potion gold** (a self-serving streak, and a lie waiting to surface — he
   owes a healing potion that doesn't exist).
-- **Lucrecia is now the party's road to the mill — and she's tied to it.**
-  The bank scene turned the improvised noble into the way in: she has her
-  **garden grain milled at the mill** (the same founder-house garden grain
-  the [mill writeup](../encounters/the-mill.md) already runs on), so she
-  **knows the place** and offered her servant **Daniel** to **guide the
-  party there on his afternoon grain run.** That is a clean, unsuspicious
-  approach — walking in behind a grain delivery — but on **her clock, this
-  afternoon**, not the mid-morning dash, which **widens the freed Ratatat's
-  window to warn V.** first (see the mill's time-race). Her classism carried
-  the scene: the caste map of Maalm, the **Alcatanni** skin treatments and
-  "how expensive her skin is," and her disdain for the Alcatanni's
-  **lower-city charity.** The **flowers errand** — send the party to rough
-  up a neighbor over their flowers — is a petty-tyrant hook to pull on if
-  wanted.
-- **The "Alcatanni" are the al Qahtani — the Dream Quest family.** Lucrecia's
-  "finest healers in Maalm" are the same
-  [al Qahtani](../characters/the-children.md) the party is already working
-  for. New canon about them: they do **elite skin treatments** (Lucrecia is
-  a client) and run **charity in the lower city** the elite look down on —
-  a healer house that serves both the noble quarter and the poor. That links
-  the two live threads: the noble who is the party's road to the mill
-  patronizes the half-demon family running tonight's death-rite. Folded into
-  [the children](../characters/the-children.md).
-- **Daniel** — Lucrecia's servant, new NPC, who makes her **grain runs to
-  the mill** and is set to guide the party there.
 - **Blackacre holds the founder's epitaph now.** The plaque he read is
   Bedraageon's grave-inscription (the "lay of the last survivor") in
   Maalm's civic heart — the same square as the Session 1 ambush, so the
@@ -324,13 +221,12 @@
 - [ ] **The supply cart** — the party never dealt with it. Decide whether
       it matters (left at the gate, rented and owed back, still loaded).
 - [x] **What Ratatat gave up** — **V. is meeting him at a nearby mill.**
-- [x] **The mill meeting — PLAYED.** First contact with **V.** made
-      ([As Played](../encounters/the-mill.md)): the party came in on Daniel's
-      grain run, Aniess sprang the tripwire, V. took Jasper hostage and gave
-      her speech, combat broke out, **Sarric disarmed her then crit for 53**,
-      and she **escaped down the shaft into the deep** (false lip collapsed,
-      Blackacre downed and healed, party didn't pursue). `[OPEN]` whether the
-      **maps** were recovered.
+- [ ] **The mill meeting** — build it (no writeup yet) and decide how the
+      party plays it: intercept, observe, or ambush **V.**, the
+      [First Foundation](../lore/the-first-foundation.md)'s Maalm agent
+      (`[OPEN]` who V. is). First contact with Preem's rivals. **Time race:**
+      the Dream Quest is tonight and it's mid-morning — if the party is too
+      slow, **Ratatat warns V.** and the mill turns up empty.
 - [ ] **Process the 20 rats** — dry/cure the meat before it spoils (the
       rat-meat prop), and get the party fed (leftover Goodberries + a real
       meal) before the ritual.
@@ -346,15 +242,9 @@
       (Aniess's **resurrection** read). Planned vehicle: **the Jasper beat**
       — the al Qahtani ask whether Jasper has a soul / is a construct /
       dreams, and admit they don't.
-- [ ] **Lucrecia** — elite-caste contact, now the party's road to the mill
-      (her man **Daniel** guides them on his afternoon grain run). **Sarric
-      owes a healing potion** he took 50 gp for and never bought; **Aniess
-      snubbed her.** Open hooks: the **flowers errand** (rough up a neighbor
-      over their flowers), and `[OPEN]` her tie to the
-      [Second Foundation](../lore/the-second-foundation.md).
-- [x] **"Alcatanni" = the al Qahtani** (the Dream Quest family) — folded into
-      [the children](../characters/the-children.md): finest healers in Maalm,
-      elite skin treatments, and lower-city charity the elite disdain.
+- [ ] **Lucrecia** — new elite-caste contact. **Sarric owes a healing
+      potion** he took 50 gp for and never bought; **Aniess snubbed her.**
+      `[OPEN]` her tie to the [Second Foundation](../lore/the-second-foundation.md).
 - [ ] **The docks — tomorrow 9 AM.** Run
       [Departure Under Fire](../encounters/docks-departure.md): a **send-off**
       turns into a **trumped-up arrest** (illegal export of the **20 rats**),

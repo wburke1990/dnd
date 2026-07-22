@@ -146,7 +146,7 @@ The corrupt watch **walked Ratatat off** in the square's sham arrest, so he is
 **loose and short two fingers** — and he is the one who can warn V., because V.
 handles him by note, not by the Foundation's magic comms.
 
-**The party's route in (Session 6): Lucrecia's man Daniel.** At the bank the
+**The party's route in (Session 7): Lucrecia's man Daniel.** At the bank the
 party learned the noble **Lucrecia** has her **garden grain milled here** — the
 founder-house garden grain the mill runs on — so she knows the place and offered
 her servant **Daniel** to **guide them on his afternoon grain run.** That is a
@@ -340,7 +340,7 @@ is gone down the hole (see *The lip of the abyss*).
 
 ---
 
-# AS PLAYED (Session 6)
+# AS PLAYED (Session 7)
 
 > David cancelled; William ran it solo and played V. from David's script.
 
@@ -350,8 +350,9 @@ V. had the drop. As **Jasper** stepped through a doorway V. put a **knife to
 his throat**, delivered her speech close to word-for-word (the *"kindly FUCK
 OFF"* line above), and began **marching the party out** with Jasper as her
 shield. **Aniess cast a spell** and it broke into combat: **Sarric shot the
-knife from her hand**, then on his next turn **crit for 53**, nearly dropping
-her — and V. **ran for the shaft.**
+knife from her hand**, then on his next turn **crit**, which **drove her to
+run for the shaft** — the party's **53 damage total** over the fight was never
+going to drop a level-10 rogue, and she fights only to break contact.
 
 **Blackacre, in giant spider form**, kept pace across the ceiling, out of the
 traps' reach. He **caught the fall-rock trap** (spotted the poised ceiling
@@ -367,7 +368,9 @@ left the mill.
 **It ran as designed:** the tripwire cost them the drop, the traps carried the
 pressure, V. **fought only to break contact**, and she **left down the shaft
 into the deep** — first contact made, no corpse on either side, the under-city
-opened. `[OPEN]` whether the **maps** were recovered (the recap doesn't say).
+opened. **No maps changed hands** — Ratatat has failed every attempt to steal
+one (the party's, and the Second Hand's), so there was nothing to exchange;
+V.'s map-buying has netted nothing.
 
 ---
 
