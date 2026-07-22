@@ -45,40 +45,41 @@ crossings and its landings after sundown, and the hot wind goes before. A crew
 that felt the halfling wind, cool and steady out of a calm, reads this one as its
 opposite. **[draft]**
 
-## Ship-to-ship — the Floating Fleet against Kuru's hulls
+## Ship-to-ship — the Floating Fleet takes Kuru's hulls
 
 **The matchup.** Kuru has no navy of its own — its warforged sink, so it rents
 everything afloat: dwarf-built hulls and Mukka bottoms, crewed by mercenaries
 (see [ships-and-sea-power](ships-and-sea-power.md)). The Floating Fleet is
-druid-heavy, small and fast, and signals by drum across open water. When the
-Fleet turns on Kuru's hired supply line, it is weather and water against
-iron-riveted hulls whose crews have no reason to die for Kuru's coin.
+druid-heavy, small and fast, and signals by drum across open water.
 
-**The doctrine — weather and water, never a broadside.** The Fleet does not line
-up to trade fire. Its druids break the enemy formation with weather; then the
-fast craft close in the murk, to the drums.
+**The prize is the hulls.** The Fleet strikes while it is on a timber-run, and
+Kuru's hired supply line is a run of timber that sails itself. The point is to
+**take** the ships, not sink them: wood is the one thing the sea cannot give back
+(see [floating-fleet](floating-fleet.md)), so a burned or sunk hull is wasted, and
+sinking is the failure, not the win. That shapes the whole doctrine — the Fleet
+fights to keep the wood whole.
 
-- **Control Weather (8th)** — becalm the rented hulls dead in the water while the
-  Fleet keeps its own wind; raise fog to cover the fast craft closing.
-- **Tsunami (8th)** — a moving wall of water walked down a line of becalmed or
-  anchored ships.
-- **Storm of Vengeance (9th)** — the druid capstone: lightning, hail, and howling
-  wind over the whole enemy formation at once.
-- **Control Water (4th)** — the workhorse ship-killer. Flood a hull from within,
-  open a whirlpool under one keel, or part the sea out from under a ship.
-- **Fire against wood** — a fire spell is worth more at sea than on land: a wooden
-  hull burns, and a crew cannot run from it. A single **Fireball** or
-  **Delayed Blast Fireball** on a deck is a hull lost.
+**The doctrine — becalm, close, board, take the surrender.**
 
-**How it goes.** The druids becalm and scatter the hired hulls, then the fast
-craft come out of the fog to the drums. Control Water sinks the stragglers, fire
-finishes the wooden ships. The warforged that go over the side sink and do not
-come up. The mercenary crews strike or run. It is a rout, not a duel.
+- **Control Weather (8th)** — becalm the rented hulls dead in the water so none
+  can run, and raise fog to bring the fast craft alongside unseen.
+- **Control Water (4th)** — the coercion tool, short of sinking: a whirlpool
+  opened alongside, the bilge flooded to the waterline, the rudder fouled — enough
+  to make a crew strike without holing the ship.
+- **The drums and the boarding.** The fast craft come out of the fog to the
+  war-drums and grapple on. Mercenary crews with no reason to die for Kuru's coin
+  strike or go over the side; the warforged that go over sink and do not come up.
+- **Tsunami (8th) and Storm of Vengeance (9th)** — the formation-breakers, spent
+  on escorts and on scattering the line to cut a prize hull out of the rest — kept
+  off the ships the Fleet means to keep.
+- **Fire — last resort.** A **Fireball** or **Delayed Blast Fireball** ends a hull
+  that fights instead of striking, but every burned hull is timber lost, so it is
+  the last resort, not the opener.
 
-**What it costs the Fleet.** Every hull they burn or sink is timber — the one
-thing the sea cannot give back (see [floating-fleet](floating-fleet.md)). A Fleet
-that wins this way spends the very thing its timber-runs exist to gather.
-**[draft]**
+**How it goes.** Becalm, fog, board to the drums, take the surrender. The line
+scatters, escorts drown under the weather, and the cargo hulls sail away crewed by
+halflings — a wood harvest cut straight out of Kuru's war-supply. What Kuru loses
+is a battle and the ships it never owned to begin with. **[draft]**
 
 ## Ship-to-land — the Dragonborn landing on Moku
 
@@ -100,6 +101,39 @@ carry a fire motif to match their breath.
 cloud-vapor by **Wind Walk (6th)** and ride the mage wind over the surf,
 re-forming on dry ground behind the defenders. **Control Water (4th)** parts the
 break for the hulls that do come in, or drives a wave up the beach to swamp it.
+
+**What the demons bring.** The Second Foundation's army is drawn from Preem's
+palette — vrocks, nalfeshnees, chasmes, shadow demons, barlguras, quasits, with
+yochlol officers of Mul's kind (see
+[available-demons](../bestiary/available-demons.md),
+[preems-demons](../characters/preems-demons.md)). The dragonborn bring rakshasas
+and, if the fleet spends them, the greater demons up the roster — glabrezu,
+marilith, goristro, balor. What their abilities do to the shape of the fight:
+
+- **The party's magic barely bites.** Magic Resistance on the greater demons, and
+  the rakshasa's immunity to spells of 6th level and under, mean the elves' — and
+  the party's — spells mostly slide off. This is why the bound army has been the
+  party's worst threat on the climb up, and why it takes another demon host, not a
+  spell, to break it.
+- **Teleport crosses the line.** Balor, marilith, nalfeshnee, and glabrezu blink
+  across the field at will. The free demons do not have to grind through the army
+  to reach the binders — they teleport to the elf who holds the names.
+- **The rakshasas hunt the binders.** Invisibility, disguise self, fly, plane
+  shift, dominate person, true seeing, and that immunity to low spells — they slip
+  the line and kill the Second Foundation casters where they stand. A dead binder
+  frees every demon that elf held.
+- **The bound army's wall.** Vrock spores and Stunning Screech, the chasme's drone
+  that drops creatures unconscious and blocks healing, the nalfeshnee's Horror
+  Nimbus that frightens everything near it — the area-denial the party learned to
+  dread.
+- **A dying balor is another shell.** Its Death Throes burst in fire when it
+  falls, so a free demon can go down and take the binders' line with it — the
+  glad-to-die beat made literal, and an echo of the eruption at Hjörungavágr.
+- **Night burns none of them, and favors the shadow demons.** The whole host
+  sickens in daylight, and shadow demons are strong in the dark and weak in sun —
+  the reason the landing comes at night. It also hands the party a rare edge: real
+  light — Daylight, Sunbeam, Sunburst — hurts these demons the way little else the
+  party carries can. **[draft]**
 
 **The demon-on-demon fight.** This is the heart of it, and the mechanics are set
 in [demons-and-the-hotspot](demons-and-the-hotspot.md):
