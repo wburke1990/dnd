@@ -55,10 +55,9 @@ A First Foundation agent exposed on Second Foundation ground has to get out.
 `[settled — table]` **She robs them before she ever invites them.** The order she
 runs it:
 
-1. **She springs Ratatat.** V. gets [Ratatat](../bestiary/the-rat-man.md) out of
-   custody — the sham arrest walked him off in [S7](../sessions/session-07.md)
-   (`[OPEN]` how real that "prison" is). With him back, his **rats** work for her
-   again.
+1. **She finds Ratatat.** He is **free** — the sham arrest walked him off to safety
+   in [S7](../sessions/session-07.md), not into a cell — so she only has to **locate**
+   him. With him back in reach, his **rats** work for her again.
 2. **The rats find the party** and keep a tail on them, leading her to wherever they
    are.
 3. **She goes invisible** just before she comes into range, then closes to arm's
@@ -83,6 +82,13 @@ if she **attacks or casts a spell.** Lifting the atlas and planting notes with h
 it by hand, **not** by recasting Mage Hand (a cantrip is a spell and would drop her).
 She casts nothing from the moment she turns invisible until she chooses to reappear,
 so the whole tail runs inside one Invisibility with no risk of it falling.
+
+She uses her hands over **Mage Hand Legerdemain** for a second reason: the ranged
+hand needs her **visible** (casting drops Invisibility), and a party that met her at
+the mill would watch her if she stood near them in the open. The check is the same
+either way — her Sleight of Hand against passive Perception — but making it **unseen
+and unsuspected** is her best odds (give her advantage on the lift), so that is where
+she takes it.
 
 ## The legerdemain sequence — does she get the atlas?
 
