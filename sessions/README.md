@@ -76,4 +76,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   bought them tea, gave a **classist** tour of Maalm's castes, named the
   **al Qahtani** (the Dream Quest family) as its finest healers, dangled a
   **flowers errand**, and became the **route to the mill** — her servant
-  **Daniel** guided them there. `[OPEN]` her tie to the **Second Foundation**.
+  **Daniel** guided them there, then put them up in her **mansion's servants'
+  quarters** for a short rest. She **gossips**, so Daniel's retelling of the
+  mill fight will likely spread among Maalm's elite. `[OPEN]` her tie to the
+  **Second Foundation**.

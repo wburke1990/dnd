@@ -71,6 +71,21 @@
   with the **leftover Goodberries** from the day before and **left the
   mill.**
 
+## After the mill — the millers, and a rest at Lucrecia's
+
+- Out of the tunnels, **Sarric yelled at the millers** about **rogues running
+  around the tunnels** under their mill. The **millers didn't understand** —
+  there are tunnels under the **whole of Maalm** — so it went nowhere. A funny
+  beat.
+- **Daniel offered the party the servants' quarters of Lucrecia's mansion** to
+  recover in while she finished her errands. They went and took a **short
+  rest.**
+- **Daniel is eager to tell Lucrecia everything that happened.** She's **a bit
+  of a gossip**, so the story will likely **spread fast** once she's back at
+  the mansion.
+- The party **planned to head to the al Qahtani mansion** after leaving
+  Lucrecia's.
+
 ---
 
 # DM NOTES & OPEN THREADS
@@ -115,7 +130,19 @@
   It links two live threads: the noble who is the party's road to the mill
   patronizes the half-demon family running the [Dream Quest](../encounters/the-dream-quest.md).
 - **Daniel** — Lucrecia's servant, new NPC, who makes her grain runs to the
-  mill and guided the party there.
+  mill and guided the party there. He put the party up in the **servants'
+  quarters of Lucrecia's mansion** for a short rest, and is eager to relay
+  the whole mill story to her.
+- **Lucrecia will spread the tale — she gossips.** Daniel is taking the mill
+  story back to her, and she talks — so the party's run-in with V. and the
+  fight in the forbidden tunnels will likely **become talk among Maalm's
+  elite** fast, filtered through a classist noble. A reputation thread:
+  `[OPEN]` who hears it and whether it costs or buys them anything.
+- **The millers confirmed the under-city is everywhere.** Sarric's telling-off
+  landed flat because **there are tunnels under all of Maalm** — the deep
+  isn't a secret under one mill, it's the ground the whole city stands on
+  ([the deep](../lore/maalm-the-elven-stronghold.md)). Feeds the under-city
+  thread.
 
 ---
 
@@ -134,10 +161,16 @@
       recover; his scheme has failed at every turn. Decide what that means
       for the First Foundation's map-buying operation, and whether Ratatat
       keeps trying.
-- [ ] **Lucrecia** — road to the mill (used); the **flowers errand** is open;
+- [ ] **Lucrecia** — road to the mill (used); the party rested in her
+      **mansion's servants' quarters**; the **flowers errand** is open;
       **Sarric still owes a healing potion** he took 50 gp for in
       [Session 6](session-06.md); `[OPEN]` her tie to the
-      [Second Foundation](../lore/the-second-foundation.md).
+      [Second Foundation](../lore/the-second-foundation.md), and what her
+      **gossip** does to the party's standing.
+- [ ] **Next: the al Qahtani mansion.** After Lucrecia's, the party means to
+      head to the [al Qahtani](../characters/the-children.md) house — their
+      employers, and the [Dream Quest](../encounters/the-dream-quest.md)
+      tonight. Likely the lead-in to the rite.
 - [x] **al Qahtani standing** — folded into
       [the children](../characters/the-children.md): finest healers in Maalm,
       elite skin treatments, disdained lower-city charity.
