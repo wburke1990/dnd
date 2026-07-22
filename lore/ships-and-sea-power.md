@@ -133,9 +133,12 @@ saga-literal reading, since Þorgerðr and Irpa fought for Hákon, the *winner*.
 switch sides, swap whose arrows they loose, here and in Mogg's tavern telling
 ([tavern-name-hunter-crews.md](../encounters/tavern-name-hunter-crews.md)).
 
-> *"From the fingers of the troll-women arrows flew, and each shaft was a man's
-> death; and so great a hailstorm followed that every stone weighed an ounce."*
-> — the storm at Hjörungavágr, **Heimskringla / Jómsvíkinga saga**
+> *"From the fingers of the troll-women flew arrows, and every shaft was a man's
+> bane; the storm-squall gathered black over the sea, and each hailstone weighed
+> its ounce."*
+> — the storm at Hjörungavágr, **our own translation of the public-domain Old
+> Norse** (the troll-women imagery is from *Jómsvíkinga saga*, whose English
+> translations are in copyright; see [saga-weather-omens](saga-weather-omens.md))
 >
 > *"We Jómsvikings have often disputed whether a man knows anything once his head
 > is struck off. Mark my knife — if I keep my wits, I will turn it up."* (When the
@@ -172,13 +175,15 @@ saga; the son-sacrifice is new in-world lore, and can take an orc form instead.]
 
 It bought nothing that held. The deep answers to no patron: the eruption that raised
 the Kurunatukas broke his fleet with the dwarves', and the orcs, the fewer, broke
-first. He spent his son and lost the day — Amseh IV's error in an older age,
-*sacrificing his children to gods who did not answer* (see
-[amseh-dynasty](amseh-dynasty.md)).
+first. The few ships that fled with him the sea took as they ran, and he came ashore
+alone — even the flight was denied him. He spent his son and lost everything, Amseh
+IV's error in an older age, *sacrificing his children to gods who did not answer*
+(see [amseh-dynasty](amseh-dynasty.md)).
 
-He outlived the battle and came to a small end. Hunted through his own country, he
-hid in a pig-sty, and there his own thrall cut his throat while he slept; the thrall
-was killed for it. `[draft — the pig-sty death is the saga's, kept for Hákon.]`
+He came to a small end. Hunted through his own country, he hid in a pig-sty, and
+there his own thrall cut his throat while he slept; the thrall was killed for it.
+`[draft — the sea taking his fleeing ships and the pig-sty death are both kept; the
+pig-sty end is the saga's.]`
 
 Then the reckoning. The boy's heart is innocent and goes uneaten — he passes free —
 and the weight of the death falls on the father. Ammit's scales are the **Maalm**
@@ -257,12 +262,14 @@ and the hail itself, *ch. 44, "Earl Sigvalde's Flight":*
 > "A thunder-storm came on at this moment, and such a heavy hail-storm that every
 > hailstone weighed a pennyweight."
 
-> ⚠️ **The troll-women quote above is misattributed.** `[flag — needs Will's call]`
-> The line printed in the Hjörungavágr section ("arrows flew from the fingers of
-> the troll-women… every stone weighed an ounce") is **not** in Heimskringla — that
-> vivid version (Þorgerðr Hölgabrúðr and Irpa, ounce-hail) is from *Jómsvíkinga
-> saga*, whose English translations are all in copyright. Fix options and the
-> public-domain Old Norse are in [saga-weather-omens](saga-weather-omens.md).
+> ✅ **The troll-women line is now our own translation.** `[resolved — Will, 7/22:
+> rendering #8]` The Hjörungavágr storm-line in the battle section is no longer
+> presented as a verbatim edition-quote — the old wording claimed Heimskringla but
+> was not in it, and the vivid troll-women version (Þorgerðr Hölgabrúðr and Irpa,
+> ounce-hail) is *Jómsvíkinga saga*, whose English translations are all in
+> copyright. It is now our own rendering of the public-domain Old Norse. The Norse,
+> the glosses, and the other candidate renderings are in
+> [saga-weather-omens](saga-weather-omens.md).
 
 **A storm conjured against a fleet.** *Saga of Olaf Haraldson (St. Olaf), ch. 8,
 "The Third Battle."* A worked weather-attack thrown at a fleet.

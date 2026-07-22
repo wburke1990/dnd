@@ -22,10 +22,10 @@ per-chapter renderings of the same 1844 text are on **Wikisource**
 > Navigate the Svolder chapters by their **titles**, not the numbers — the chapter
 > split differs between editions.
 
-## ⚠️ Correction pending — the troll-women quote in ships-and-sea-power.md
+## Correction — resolved: the troll-women line is now our own translation
 
-`[flag — needs Will's call]` [ships-and-sea-power](ships-and-sea-power.md)
-currently prints this as a verbatim quote, attributed to "Heimskringla /
+`[resolved — Will, 7/22: rendering #8]` [ships-and-sea-power](ships-and-sea-power.md)
+formerly printed this as a verbatim quote, attributed to "Heimskringla /
 Jómsvíkinga saga":
 
 > "From the fingers of the troll-women arrows flew, and each shaft was a man's
@@ -302,6 +302,10 @@ translation, not a lift from a copyrighted edition. It needs correct attribution
 (Heimskringla for the hail; the saga formula for the arrows), not deletion.
 
 ## The troll-women fix — options for Will
+
+`[resolved — Will chose a version of option 3: our own translation from the
+public-domain Norse, rendering #8, now in ships-and-sea-power.md.]` The options that
+were on the table:
 
 1. **Swap the quote for the real PD Heimskringla lines** (2A + 2B) in
    [ships-and-sea-power](ships-and-sea-power.md), and keep the troll-women, the
