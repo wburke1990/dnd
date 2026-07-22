@@ -1,9 +1,10 @@
 # Lucrecia — an old-family noble of Maalm
 
-> **Elite-caste NPC**, improvised at the table in
+> **Wealthy new-money NPC**, improvised at the table in
 > [Session 6](../sessions/session-06.md) and drawn out in
-> [Session 7](../sessions/session-07.md). A wealthy woman of Maalm's founders'
-> quarter who became the party's way into [the mill](../encounters/the-mill.md)
+> [Session 7](../sessions/session-07.md). A wealthy **human** of Maalm's good
+> merchant district — the [al Qahtani](the-children.md)'s neighbor, a little
+> southwest of the star fort — who became the party's way into [the mill](../encounters/the-mill.md)
 > — she has her garden grain milled there, and lent her servant Daniel to guide
 > them. A patron of the [al Qahtani](the-children.md) healers, and a gossip.
 > `[OPEN]` any tie to the [Second Foundation](../lore/the-second-foundation.md).
@@ -14,10 +15,13 @@
 
 ## Who she is
 
-- `[settled]` Of Maalm's **elite caste** — the old families of the gated
-  founders' quarter (the walled star fortress; see
-  [the elven stronghold](../lore/maalm-the-elven-stronghold.md)). `[loose]`
-  Read her as an **old-family elf** unless you'd rather place her otherwise.
+- `[settled]` **A wealthy human — new-money, not old elite.** She lives in a
+  **good merchant district just outside the gated old-elf quarter, a little
+  southwest of the star fort** — the same comfortable street as the
+  [al Qahtani](the-children.md), the merely rich rather than the old families
+  behind the gates (see [the elven stronghold](../lore/maalm-the-elven-stronghold.md)).
+  She takes the **elven old families** for the true elite, and holds the lower
+  city in contempt.
 - `[settled]` **Wealthy, with a mansion and servants.** The party rested in
   her **servants' quarters** while she finished errands in the city (S7). Her
   man **Daniel** runs her household errands, the grain among them.
@@ -27,7 +31,13 @@
 - `[settled]` Keeps up **skin treatments** with the [al Qahtani](the-children.md),
   Maalm's finest healers, and complains about how expensive her skin is to
   maintain.
-- `[OPEN]` Her house name, where her mansion sits, and any tie to the
+- `[settled]` **No cistern of her own — and it grates.** Like every rich house
+  she keeps gardens, but her water rides on the **shared allotment**, while the
+  al Qahtani next door have **their own cistern cut beneath the house**
+  ([their house](../encounters/the-dream-quest.md)). She is **jealous of it**,
+  and pointedly **did not mention it** when she named them Maalm's finest
+  healers.
+- `[OPEN]` Her **house name** (still to pick), and any tie to the
   [Second Foundation](../lore/the-second-foundation.md), the founders'-quarter
   elite's inner faction.
 
@@ -78,4 +88,4 @@
   or burn.
 - `[loose]` **Sarric's owed potion** — the 50 gp he pocketed is a lie waiting
   to surface.
-- `[OPEN]` Her **house name, mansion location, and race.**
+- `[OPEN]` Her **house name** — a human new-money merchant house, still to pick.

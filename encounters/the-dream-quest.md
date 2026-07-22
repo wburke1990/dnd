@@ -260,7 +260,8 @@ hold together.
 ## The House — a Museum of the Dead Empire
 
 **Where it sits.** A large merchant house in a **good district just outside
-the gated upper city** — not among the oldest, most powerful elven families
+the gated upper city, a little southwest of the star fort** — not among the
+oldest, most powerful elven families
 behind the gates, but a comfortable street of the merely rich. The al
 Qahtani are **new-money merchants**, not old elven elite; wealthy enough for
 the address, not born to the quarter.
