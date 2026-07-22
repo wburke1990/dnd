@@ -120,10 +120,60 @@
 - **Cassia** is leaving Maalm by boat. A run-in with the **city guards** may
   hit before she gets aboard.
 
+## That afternoon — the mill, and first contact with V.
+
+> David cancelled, so William ran the table solo and played **V.** from
+> David's script. Ran [The Mill](../encounters/the-mill.md).
+
+- After tea, **Daniel guided the party to the mill** and they went down into
+  the tunnels and **explored.**
+- **Aniess failed her Perception check and walked through the tripwire**,
+  which **alerted V.** — so V. had the drop on them.
+- As **Jasper** stepped through a doorway, **V. put a knife to his throat.**
+  She gave **David's speech almost word for word** (the *"kindly FUCK OFF"*
+  line, quoted in full in [the Mill](../encounters/the-mill.md)) and started
+  **marching the party out**, keeping Jasper between herself and them,
+  herding them toward the exit.
+- Instead of going along, **Aniess cast a spell**, which **broke into
+  combat.**
+- **Sarric shot the knife out of V.'s hand**, and on his **second turn
+  landed a crit — 53 damage**, nearly dropping her. **V. ran.**
+- **Blackacre, in giant spider form**, kept pace with her across the
+  ceiling, out of the traps' reach. He **spotted the fall-rock trap** (the
+  poised ceiling rubble) as he ran past it and **saved the party from it**,
+  and **saw V. open the hidden door** to the passages down to the **abyss**,
+  his speed letting the party keep up.
+- Cornered at the shaft and unable to outrun the spider, **V. Misty Stepped
+  across the abyss** rather than take the ladder down. **Blackacre followed.**
+  When the others gave **covering fire from the far rim**, the **lip
+  collapsed** — the false rim over the drop — and they had to **fall back
+  into the passages.** That left **Blackacre isolated** on the far side, and
+  **V. dropped him** before **sliding down into the abyss** and gone.
+- The party **chose not to pursue** into the deep. They **healed Blackacre**
+  with the **leftover Goodberries** from the day before and **left the
+  mill.**
+
 ---
 
 # DM NOTES & OPEN THREADS
 
+- **The mill played out — first contact made, and V. escaped into the deep.**
+  The party took Daniel's route in and ran
+  [The Mill](../encounters/the-mill.md) close to how it's built: **Aniess
+  sprang the tripwire** (failed Perception), which handed V. the drop; V. got
+  a **knife to Jasper's throat**, delivered her speech, and tried to **march
+  them out.** **Aniess's spell** turned it to a fight; **Sarric disarmed her
+  and then crit for 53**, and V. **ran for the shaft.** The traps did their
+  jobs — **Blackacre (giant spider)** caught the **fall-rock trap** and saved
+  the party, and the **false lip collapsed** under the party's covering fire,
+  isolating Blackacre. V. **Misty Stepped the abyss, dropped Blackacre, and
+  slid into the deep.** The party **didn't pursue** (correct — the deep is
+  lethal), healed Blackacre, and left. So: **first contact with the First
+  Foundation is made, V. is a face now, and the shaft / under-city is open** —
+  the payload the encounter wanted, with **no corpse** on either side.
+  `[OPEN]` whether the **maps** changed hands or were recovered — the recap
+  doesn't say; assume V. still has them unless decided otherwise. The party
+  **read much better than expected.**
 - **Ratatat: captured, interrogated, then lost to the sham arrest.** The
   party cornered him — the one thing the encounter says not to let happen —
   but the **guards' backup exit still carried him off**, so he's alive and
@@ -274,14 +324,13 @@
 - [ ] **The supply cart** — the party never dealt with it. Decide whether
       it matters (left at the gate, rented and owed back, still loaded).
 - [x] **What Ratatat gave up** — **V. is meeting him at a nearby mill.**
-- [ ] **The mill meeting** — built: [The Mill](../encounters/the-mill.md)
-      (V.'s writeup and stat block, the tunnel traps, the time-race). Still
-      to play, and to decide how the party takes first contact with **V.**,
-      the [First Foundation](../lore/the-first-foundation.md)'s Maalm agent:
-      intercept, observe, or spring it. **Route in found:** Lucrecia's
-      servant **Daniel** guides them on his **afternoon grain run** — clean
-      cover, but later than the mid-morning dash, so **more time for Ratatat
-      to warn V.** and leave the mill empty.
+- [x] **The mill meeting — PLAYED.** First contact with **V.** made
+      ([As Played](../encounters/the-mill.md)): the party came in on Daniel's
+      grain run, Aniess sprang the tripwire, V. took Jasper hostage and gave
+      her speech, combat broke out, **Sarric disarmed her then crit for 53**,
+      and she **escaped down the shaft into the deep** (false lip collapsed,
+      Blackacre downed and healed, party didn't pursue). `[OPEN]` whether the
+      **maps** were recovered.
 - [ ] **Process the 20 rats** — dry/cure the meat before it spoils (the
       rat-meat prop), and get the party fed (leftover Goodberries + a real
       meal) before the ritual.

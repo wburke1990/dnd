@@ -340,6 +340,37 @@ is gone down the hole (see *The lip of the abyss*).
 
 ---
 
+# AS PLAYED (Session 6)
+
+> David cancelled; William ran it solo and played V. from David's script.
+
+The party came in on **Lucrecia's servant Daniel's** afternoon grain run and
+explored the tunnels. **Aniess failed Perception and sprang the tripwire**, so
+V. had the drop. As **Jasper** stepped through a doorway V. put a **knife to
+his throat**, delivered her speech close to word-for-word (the *"kindly FUCK
+OFF"* line above), and began **marching the party out** with Jasper as her
+shield. **Aniess cast a spell** and it broke into combat: **Sarric shot the
+knife from her hand**, then on his next turn **crit for 53**, nearly dropping
+her — and V. **ran for the shaft.**
+
+**Blackacre, in giant spider form**, kept pace across the ceiling, out of the
+traps' reach. He **caught the fall-rock trap** (spotted the poised ceiling
+rubble as he passed) and **saved the party**, and **saw V. open the hidden
+door** to the abyss passages. Cornered and unable to outrun the spider, V.
+**Misty Stepped across the abyss** instead of taking the ladder. Blackacre
+followed; when the others gave **covering fire from the far rim the false lip
+collapsed**, forcing them back into the passages and **isolating Blackacre.**
+V. **dropped Blackacre**, then **slid down into the abyss and was gone.** The
+party **did not pursue**, healed Blackacre with leftover **Goodberries**, and
+left the mill.
+
+**It ran as designed:** the tripwire cost them the drop, the traps carried the
+pressure, V. **fought only to break contact**, and she **left down the shaft
+into the deep** — first contact made, no corpse on either side, the under-city
+opened. `[OPEN]` whether the **maps** were recovered (the recap doesn't say).
+
+---
+
 # AFTERMATH & LEADS
 
 - **The First Foundation is now a face, not a rumor.** Even a glimpse of V. — a
