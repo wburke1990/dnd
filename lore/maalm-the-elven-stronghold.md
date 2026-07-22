@@ -132,13 +132,13 @@ water does not stand in open pools to **evaporate;** it runs and rests **undergr
 **extensive tunnels beneath the city** — the same tunnels that hold **[Ammit's tomb](maalm-founding.md)**
 (Bedraageon's *mutual ending* with the beast; the Twelve raised Maalm over it), reaching down into
 the **Abyss tunnel-network that honeycombs Nila** ([house rules](house-rules-and-world-mechanics.md)).
-- `[settled]` **The same Abyss — but cold and empty here.** Maalm's deep is one reach of the
-  great **[Abyss](demons-and-the-hotspot.md)**, where the **demon deep cities** live — but
-  those cities **follow the hotspot's heat**, and the heat has **moved south to the
-  Kurunatukas.** The old deep city beneath this region was **emptied when the heat moved on**
-  ([demons & the hotspot](demons-and-the-hotspot.md)), so **only the warmer, hotspot-side
-  reaches are occupied now.** Maalm's deep is a **cold, abandoned** part of it — the same
-  Abyss, no demons here.
+- `[settled]` **The same Abyss — but cold here, and always was.** Maalm's deep is one reach of
+  the great **[Abyss](demons-and-the-hotspot.md)**, where the **demon deep cities** live — but
+  those cities sit **only where the hotspot's heat is**, and the hotspot has **never sat under
+  Maalm.** Its deep cities lie elsewhere along the migrating hotspot chain (now the
+  **Kurunatukas**; [demons & the hotspot](demons-and-the-hotspot.md)). So Maalm's deep was
+  **never hot below, never a demon city** — only the warmer, hotspot-side reaches of the Abyss
+  are occupied. Same Abyss, cold and empty here: no demons, and never were.
 - **The hidden cisterns are down there.** That is *why* they are hidden and deadly: reaching one
   means **entering the labyrinth** — the dark, the easy death of getting lost, the
   cistern-keepers' guards, and below it all the forbidden reaches of the **Abyss** — the
