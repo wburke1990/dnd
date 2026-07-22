@@ -13,15 +13,18 @@
 First contact with **[V.](the-mill.md)** happened at the mill and went to a
 fight: she took Jasper hostage, **Sarric shot the knife from her hand and then
 crit, driving her to run**, she **dropped Blackacre**, Misty Stepped the abyss,
-and slid into the deep ([S7](../sessions/session-07.md)). She read the party as
-Preem's and **did not recruit them.** Session 7 leaves it: *"next contact is
-`[OPEN]`."* This is that next contact.
+and slid into the deep ([S7](../sessions/session-07.md)). She did not read the 
+party as Preem's at the time because of the quick transition to combat and 
+**did not recruit them.** Session 7 leaves it: *"next contact is `[OPEN]`."* 
+She tailed them after the Mill and learned who they are from their conversations
+as well as from the finger Sarric threw at her. This is that next contact. 
 
 Timeline: the **[Dream Quest](the-dream-quest.md) runs tonight**; the
 **[docks departure](docks-departure.md) is tomorrow 9 AM** (the party flees
 Maalm by boat with Cassia). The plan puts this meeting **after the Dream Quest**
-— `[OPEN]` exactly where it slots against the 9 AM docks (the morning of,
-before they sail?).
+— `[OPEN]`, potentially conflicting with the 9 AM docks meeting with the second 
+hand before the second hand sets sail. The party may have to choose between the 
+meetings.
 
 ## Why V. wants the meeting
 
@@ -33,7 +36,7 @@ Both motives got **stronger** from what actually played:
   ([S7 notes](../sessions/session-07.md)). The only Preem atlas she can still
   reach in Maalm is the **party's own** — the one Ratatat never got. So the
   meeting is her **last play** before she runs, and she **takes it herself:** she
-  **lifts the atlas** by legerdemain, the offers as cover — resolved by
+  **lifts the atlas** by legerdemain — resolved by
   [the legerdemain sequence](#the-legerdemain-sequence--does-she-get-the-atlas),
   which she usually wins. Where Ratatat failed, V. just does it herself.
 - **Recruit Preem's crew.** Turning the party plants First Foundation assets
