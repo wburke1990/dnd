@@ -340,7 +340,12 @@ Two distinct lists — don't confuse them:
   caves, tombs, cities, …). These are *importable* via `import_ow_map`
   but aren't live until imported. **When someone refers to a map we
   "tried out" that isn't in the Nila save, it's almost certainly one of
-  these** — search that inventory, not the Hub registration.
+  these** — search that inventory, not the Hub registration. But **most of
+  those 272 have never been opened**: only the ~14 in that file's **Opened
+  maps** table have actually been inspected; the rest are name + GUID only.
+  Never infer an unopened map's contents from its nickname (the labels are
+  routinely wrong — a "smithy" that's a forest). If the contents matter,
+  import it to staging and look before trusting the name.
 
 ## Fog of war is a tool, not a map property
 

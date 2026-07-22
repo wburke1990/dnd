@@ -14,6 +14,20 @@ stays entirely within that one bag — there is no master registry or
 cross-map reference. So importing one map means pulling just that one
 `OWx_` bag.
 
+> **⚠️ Opened vs. unopened — read this first.** Of the 272 maps, only the
+> **~14 in the [Opened maps](#opened-maps--the-only-ones-weve-actually-inspected)
+> table below** have actually been opened and inspected in TTS. **Every other
+> entry in this file is name + GUID only — never opened, and its *nickname is
+> not evidence of its contents*** (nicknames here are routinely wrong). Do not
+> describe, recommend, or reason about an unopened map as if its contents are
+> known — say "unopened, name only," and import it to staging to *look* before
+> trusting it. The Opened table is the single source of truth for what's been
+> seen.
+>
+> **Opened set (exhaustive — add to it the moment you open one):** `dfd079`
+> `e47bca` `55ed53` `432502` `ed6b26` `6b9aab` `811e42` `06363d` `abc718`
+> `a7d428` `56d9e9` `c3aa13` `6d9e46` `bc9404`
+
 > **Maintenance (2026-06-25):** the save was cleaned up after this
 > inventory was first built — the 17 duplicate copies were deleted
 > (289 → 272 bags) and the malformed `OWllakovich Manor Attic` nickname
@@ -28,10 +42,13 @@ non-map prop/figure bags in the save (`Stack of Crates (Large)` e95f09,
 
 ---
 
-## Vetted maps — tested in staging
+## Opened maps — the only ones we've actually inspected
 
-A running log of maps we've actually loaded in TTS and judged, so we don't
-re-import a known dud or forget a good one. Status key: **✅ good** ·
+**This table is exhaustive** — it is the single source of truth for which maps
+have been opened in TTS. A running log of maps we've actually loaded and judged,
+so we don't re-import a known dud, forget a good one, or mistake an unopened
+map's *nickname* for knowledge of what's in it. **If a map is not in this table,
+we have not opened it** — treat its contents as unknown. Status key: **✅ good** ·
 **⚠️ usable with work** · **❌ not usable** · **🔖 reserved** (good, saved
 for a specific future use) · **🔀 mislabeled** (recategorized above).
 
@@ -65,6 +82,15 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | **BlackSmiths House** | bc9404 | ❌ not usable — mislabeled | Not a smithy: an outdoor **forest** scene with 2 houses, some minis, and trees (floor image is `base_forest.jpg`). Floor URL dead (Google Sites) → black/white placeholder floor, and Build threw **20+ custom-token URL approval prompts**. Removed. |
 
 ---
+
+## The rest — UNOPENED (name + GUID only)
+
+Everything below is the full donor library, grouped by theme for browsing.
+**These are bag labels, not inspections** — none have been opened in TTS, so a
+name is a *guess* about contents, not a fact. Import one to staging and move it
+up to the Opened table before treating its contents as known. The label itself
+is often wrong: *BlackSmiths House* turned out to be a forest, *Spiraling Pass*
+tropical islands — both caught only by opening them.
 
 ## Curse of Strahd / Barovia (17)
 
