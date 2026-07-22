@@ -71,6 +71,35 @@ A **riches-to-rags** shape. **[settled — per 5/28 chat]**
   is the lever that makes it possible, so tying that to an overarching story
   works for him. **[settled]**
 
+## The endgame — the fleet offer (~level 20) `[draft]`
+
+The payoff of the rift-mending motivation. **Regardless of how he's played it,** once
+Blackacre reaches **~level 20** and his deeds have become legendary, the Jotunheim
+dragonborn **ask him to lead their fleet** — the endgame armada that sails for the
+Kurunatukas (see [lore/lonka-jotunheim.md §6](../lore/lonka-jotunheim.md)). His answer is
+his arc's climax. Three doors:
+
+1. **Accept, and lead the crusade.** He becomes the zealots' admiral and Moku gets a
+   **second Lonka** — the massacre repeated on new holy ground. The rift "heals" by the
+   zealot creed winning outright, and the wandering way dies at its own hero's hand.
+2. **Accept, and turn the fleet.** He takes command and **bends a genocidal armada back
+   toward the gentler wandering creed** — the hardest door, because he has to hold the
+   sword and choose not to swing it. The rift heals the way he wanted.
+3. **Refuse, and fight the fleet.** He turns on his own people to **stop the
+   extermination** — the rift-healer as the rift's casualty.
+
+His choice also **sets which "reclaim a dragon" method becomes true** — *hold* (anchor the
+dragons to Moku with Taniyn's heart-stone) or *follow* (dissolve the fortress into a
+fleet); see [lore/lonka-jotunheim.md §6](../lore/lonka-jotunheim.md). We **don't pre-decide**
+any of it — we see where his character is when we get there and go from there.
+
+**Rehearse the choice.** A decision this size can't land cold, so pose **smaller versions
+of it** all the way up: power over a defeated "usurper," and the ways to use it. The
+**watch-stone graves** are the main engine — improvise a moral dilemma at them tuned to
+where he's at (see [lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)); live
+reps include the first dragonborn meeting on the **Maalm docks** (hook #3) and a **zealot
+loyalty-test** if the quest reaches Jotunheim.
+
 ## The world around him
 
 ### Two dragonborn factions

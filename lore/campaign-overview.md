@@ -288,7 +288,11 @@ hot spot there** (see §5). The comet overhead, a volcano about to be forced, th
 **holding the volcano-demon's true name**: **bind it** (trigger Ragnarok for Preem),
 **refuse and free it**, or **do something else entirely**, while the
 [First](the-first-foundation.md) and [Second](the-second-foundation.md) Foundations each
-fight to control the pass their own way. The cycle that opened with Taniyn *choosing* to
+fight to control the pass their own way. A third power may arrive by sea — the
+**[Jotunheim dragonborn fleet](lonka-jotunheim.md)**, sailing to reclaim the dragons that
+followed the hot spot to Moku and to take the new holy ground back from its colonists the
+way they took Lonka (`[draft — endgame]`; see [lonka-jotunheim.md §6](lonka-jotunheim.md)).
+The cycle that opened with Taniyn *choosing* to
 become an island closes on the party *choosing* what to do with a name.
 
 **The closing poem (planned).** `[idea]` Walter de la Mare's **"Nod"** — the old shepherd

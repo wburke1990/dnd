@@ -183,8 +183,8 @@ growing to associate with them.** How to run it:
   loners romanticized by people who never had to bail water. He'll keep
   the watch because it's rude not to, and roll his eyes doing it.
 - **The myth is his own life in disguise.** He is *already* a wanderer who
-  walked away from a great deed (the Lonka plan with
-  [Sayid](../characters/blackacre.md)) and is groping toward how to atone.
+  walked away from a great deed (the [Sayid](../characters/blackacre.md) ship-seizure he
+  bailed on when it turned violent) and is groping toward how to atone.
   **Idris's penance-labors** are his exact shape; **Tariq's won't-give-
   ground** is the courage he bailed on. He doesn't notice the rhyme at
   first.
@@ -198,6 +198,15 @@ growing to associate with them.** How to run it:
 - **Foreshadowing payoff:** this quietly arms a heroic-sacrifice option
   for the Sayid/Lonka climax without forcing it — the faith gives dying
   to mend things a *meaning* Blackacre would once have laughed at.
+- **The graves are rehearsal for the endgame choice.** `[draft]` At the
+  finale the Jotunheim dragonborn ask Blackacre to **lead their fleet**,
+  and how he leads it — crusade, mercy, or refusal — is his arc's climax
+  (see [blackacre.md](../characters/blackacre.md) and
+  [lonka-jotunheim.md §6](lonka-jotunheim.md)). Use the watch-stones to
+  **pose moral dilemmas that rehearse that choice** — the price of a deed,
+  mercy versus the sword, whether holy ground is worth blood. **Don't
+  pre-script the verdicts:** tune each dilemma to where his character
+  actually is at the time, and let him answer.
 
 ## Encounter hooks
 
