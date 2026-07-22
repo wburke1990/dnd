@@ -184,7 +184,7 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
 In short: just outside Preem's tower the party comes on the Second Hand
 **already losing** — the **rat man** has caught them on the way out the way he
 caught the PCs, because Preem **outfits every crew with magic gifts** and the rat
-man **robs them the moment they leave, freshly loaded.** This time he's brought
+man **ambushes them the moment they leave, freshly loaded.** This time he's brought
 **his rats** and turns **three of the square's guards he already owns** — bought
 into silence as witnesses to his crimes — to do the killing while he claws for
 the loot. The party wades in — and the bought guards pull the watch's oldest

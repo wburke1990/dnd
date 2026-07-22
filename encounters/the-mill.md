@@ -7,7 +7,7 @@
 > the mixed city, run by a miller who knows nothing. Below it, in the old
 > water-tunnels, is where **[V.](../lore/the-first-foundation.md)** — the
 > [First Foundation](../lore/the-first-foundation.md)'s one agent in Maalm —
-> takes the stolen maps off Ratatat and pays him. This is the party's **first
+> meets Ratatat to buy Preem's maps and pay him. This is the party's **first
 > contact with the First Foundation.** If they move fast they catch the handoff;
 > if they're slow the freed rat man warns V. and the place is empty. Either way,
 > pushed, **V. goes invisible and down the shaft into the deep, and is gone.**
@@ -22,10 +22,11 @@ and the rat man. The mill is where the thread reaches V. — and where it ends,
 because V. is compartmentalized and there is nothing above him that Ratatat could
 have known to give up.
 
-**What the meeting is.** V. buys Preem's stolen maps. Ratatat ambushes Preem's
-departing crews on the tower steps and robs them of their **gifts — the atlases
-above all** (see [the Second Hand ambush](the-second-hand-ambush.md)), the maps
-that mark where each crew is sent and what Preem is collecting. Ratatat thinks he
+**What the meeting is.** V.'s errand is to buy the maps Ratatat steals off Preem's
+departing crews. Ratatat ambushes them on the tower steps for their **gifts — the
+atlases above all** (see [the Second Hand ambush](the-second-hand-ambush.md)), the
+maps that mark where each crew is sent and what Preem is collecting — **though he
+has yet to actually take one.** Ratatat thinks he
 fences loot to a buyer called V. He has **no idea** the maps are intelligence, or
 that V. serves Preem's rivals. V. keeps him at arm's length on purpose: crude
 notes instead of the Foundation's magic comms, coin instead of explanation, a
@@ -156,11 +157,11 @@ mid-morning dash, which **widens Ratatat's window to warn V.** Weigh the cover
 against the lost time.
 
 - **Fast — they catch it.** The party reaches the old chamber before Ratatat does,
-  or as the **handoff is happening**: V. taking the maps, counting coin into the rat
+  or as the **meeting is happening**: V. and Ratatat mid-exchange, coin in the rat
   man's hand. Real first contact. What they do with it is theirs — watch, intercept,
   parley, or spring it.
 - **Slow — the place is empty.** Ratatat gets there first, tells V. the meeting is
-  blown, and V. is **gone down the shaft** with the maps. The party finds the old
+  blown, and V. is **gone down the shaft.** The party finds the old
   chamber, the millstone, the bones, the cold meeting spot — and the shape of what
   happened — but no V. The lead ends here, as designed, and they've found the place
   to watch.
@@ -206,8 +207,9 @@ of the way down (under pressure) and a small piece of misdirection: the party ma
 suspect him, wrongly. `[OPEN]` name him; decide his race (a common elf or a human
 tradesman both fit the mixed city).
 
-**Ratatat, the rat man.** Freed by the sham arrest, short two fingers, here to sell
-V. the maps he took off the Second Hand and the others. Stats and behavior:
+**Ratatat, the rat man.** Freed by the sham arrest, short two fingers, here to meet
+V. — though he **took no maps off the Second Hand or the others** (every theft has
+failed). Stats and behavior:
 [the rat man](../bestiary/the-rat-man.md) (CR ½ + rat minions; **Scatter!** and
 run — never a kill). If the scene turns to a fight he does what he always does:
 screens with rats and bolts.
@@ -377,7 +379,7 @@ V.'s map-buying has netted nothing.
 # AFTERMATH & LEADS
 
 - **The First Foundation is now a face, not a rumor.** Even a glimpse of V. — a
-  hooded woman who buys Preem's stolen maps and vanishes into the forbidden deep —
+  hooded woman in the market for Preem's maps who vanishes into the forbidden deep —
   is the first concrete sight of Preem's rivals, and the on-ramp to the choice the
   campaign ends on ([the First Foundation](../lore/the-first-foundation.md),
   [overview](../lore/campaign-overview.md)).
@@ -385,9 +387,11 @@ V.'s map-buying has netted nothing.
   **deep** — Ammit's tomb, the Abyss — and that V. uses it. That seeds the under-city
   thread the [Dream Quest](the-dream-quest.md) also touches (the al Qahtani legend of
   the faithful who survived underground).
-- **The maps, if recovered.** If the party takes the maps off Ratatat or off a caught
-  V., they hold what V. wanted: Preem's collection map — where his crews are sent and
-  what he is gathering. A concrete look at Preem's real errand.
+- **No maps to recover.** Ratatat has never actually landed a map (his thefts all
+  failed), so there is nothing to take off him or off a caught V. — V.'s map-buying
+  has yielded nothing. If Ratatat ever *does* succeed, the prize would be Preem's
+  collection map — where his crews are sent and what he is gathering, a concrete look
+  at Preem's real errand.
 - **If the mill turns up empty,** it is still a **place to watch** — the meeting will
   happen again, and the party knows where.
 

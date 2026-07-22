@@ -59,11 +59,11 @@ restocking his pantry.)
   [Session 4](session-04.md): the party caught a gate guard who knows him.)
 - **His real motive: the maps.** Preem outfits every crew with magic gifts
   ([Preem's gifts](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene)),
-  and the rat man knows it — so he waits outside the tower and **robs crews the
+  and the rat man knows it — so he waits outside the tower and **ambushes crews the
   moment they leave,** freshly loaded. The **map is the prize** (the rats lunged
   for it here); he pays the square's guards to fight and grabs for it. Replayed
   in full as [The Second Hand Ambush](../encounters/the-second-hand-ambush.md).
-- 🔒 **And he's a useful idiot, not a freelancer.** Ratatat steals the maps for a
+- 🔒 **And he's a useful idiot, not a freelancer.** Ratatat is paid to steal the maps for a
   buyer he knows only as **"V."** — and has **no idea** V. is an agent of the
   [First Foundation](../lore/the-first-foundation.md), Preem's ancient rivals, or
   that the maps are **espionage** (telling them *where Preem is sending crews and
@@ -118,7 +118,7 @@ restocking his pantry.)
 - [x] **Rat man + rats stat blocks recorded** in
       [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (**Ratatat,**
       "the Rat Caller" — CR ½ + 14 rat minions).
-- [x] **Rat man's agenda settled:** a **useful idiot** who steals the **maps**
+- [x] **Rat man's agenda settled:** a **useful idiot** who is paid to steal the **maps**
       for a buyer "V." — unknowingly feeding **[First Foundation](../lore/the-first-foundation.md)**
       espionage on Preem. Trail ends at **V.** (the one Maalm agent;
       compartmentalized). Still `[OPEN]`: **who V. is** — see

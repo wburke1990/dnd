@@ -103,7 +103,7 @@ Foundation's own city and they are **ruthless,** so the remnant operates with ha
   mechanically a **level-10 Arcane Trickster rogue** (stealth, illusion, and the
   Invisibility she uses to break contact). **"V." is an alias;** `[OPEN]` her real
   name. The party's first contact with her is
-  [The Mill](../encounters/the-mill.md), where she takes Ratatat's stolen maps and,
+  [The Mill](../encounters/the-mill.md), where she meets Ratatat and,
   pushed, vanishes down a shaft into the deep. `[settled — David]` She is
   **sardonic and combative** with the party — contemptuous of "adventurers"
   and their code, quick to swear them off. Her voice, with David's verbatim
@@ -114,8 +114,9 @@ Foundation's own city and they are **ruthless,** so the remnant operates with ha
   unravel. Capturing one thread doesn't unspool the rest.
 - **Ratatat is a useful idiot, not a member.** The rat-headed thief
   **[Ratatat](../bestiary/the-rat-man.md)** does the dirty work — ambushing Preem's
-  crews on the tower steps and **stealing their maps** (the atlases marking where each
-  crew is sent, i.e. *where Preem is collecting and what*). But V. only ever shows him
+  crews on the tower steps **to steal their maps** (the atlases marking where each
+  crew is sent, i.e. *where Preem is collecting and what*) — **though he has yet to
+  land one**. But V. only ever shows him
   **coin and crude instructions;** Ratatat has **no idea** he serves the First
   Foundation, or that the maps are intelligence. He's the **insulation layer** — a
   captured thief gives up V.'s meeting spot and nothing more, because that's all he

@@ -39,7 +39,7 @@
   read the campaign has been steering toward since the
   [Session 1 doorstep ambush](session-01.md). Reward it.
 - 🔒 **And the thread runs one rung deeper — then stops.** [Ratatat](../bestiary/the-rat-man.md)
-  is a **useful idiot** who sells Preem's stolen **maps** to a buyer **"V."**,
+  is a **useful idiot** paid to steal Preem's **maps** for a buyer **"V."**,
   never knowing V. is a **[First Foundation](../lore/the-first-foundation.md)**
   agent running espionage on Preem. So the chain is **guard → Ratatat → V., and
   ends at V.** (the Foundation's one Maalm agent — compartmentalized, magic-comms,
@@ -49,7 +49,7 @@
 - **Give him a name and a depth.** `[loose]` Call him **Dask** for now (swap
   freely). `[OPEN]` decide whether he's a **paid informant** (just sells movements
   for coin, scared, will flip) or a **true accomplice** (knows the rat man's
-  hideout / what he does with the stolen gifts, won't talk easily). That choice
+  hideout / what he's really after, won't talk easily). That choice
   sets how much he can give up.
 
 ---

@@ -22,7 +22,7 @@ salvageable.
 [outfits every crew](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene)
 he sends out with **magic gifts** (the atlas and location stone, an amulet, the
 rest). The rat man **knows the tower's habit,** so he doesn't chase crews across
-the world — he **waits outside the tower and robs them the moment they leave,**
+the world — he **waits outside the tower and ambushes them the moment they leave,**
 loaded with fresh gifts and not yet scattered. He brings **his rats**, and the
 **square's guards are already his** — bought into silence as witnesses to his
 crimes — to do the heavy fighting; he stays at the edge and grabs for the loot. (This is also, in hindsight, why he hit the **PCs** right

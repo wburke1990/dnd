@@ -2,8 +2,8 @@
 
 > **Recurring antagonist.** The rat-headed humanoid who has been ambushing
 > [Preem](../characters/preem.md)'s crews on the tower steps since
-> [Session 1](../sessions/session-01.md) — he robs departing crews of their
-> **gifts (the maps above all),** brings **his rats,** **pays the square's
+> [Session 1](../sessions/session-01.md) — he **ambushes** departing crews for their
+> **gifts (the maps above all)** — though he has **yet to land one** — brings **his rats,** **pays the square's
 > guards** for muscle, and **flees rather than dies.** 🔒 He's a **useful
 > idiot:** a buyer he knows only as **"V."** pays him to steal Preem's **maps,**
 > and Ratatat asks no questions. He has **no idea** V. is an agent of the
@@ -35,8 +35,9 @@
   human the swarm obeys,* or *rat-headed is a mask/illusion.* The mechanics don't
   care; the reveal does.
 - 🔒 `[settled]` **Who he works for — a useful idiot, knowingly for "V.,"
-  unknowingly for the First Foundation.** Ratatat steals Preem's **maps** for a
-  buyer called **"V."** and asks nothing more; the coin is good. He does **not**
+  unknowingly for the First Foundation.** Ratatat is paid to steal Preem's **maps**
+  for a buyer called **"V."** — though every attempt so far has **failed** — and
+  asks nothing more; the coin is good. He does **not**
   know V. is an agent of the [First Foundation](../lore/the-first-foundation.md),
   or that the maps are espionage on the Second Foundation. That ignorance is the
   point: he's the **insulation layer** that keeps the real conspiracy off the
@@ -147,7 +148,7 @@ falls. Track with tokens or a d20.
 - **≤10 HP — Scatter! and run.** Ratatat triggers *Scatter!* and **bolts for the
   exit** (or whatever map/gift he could grab — see below). If genuinely cornered
   he **surrenders, babbling about "the Master who taught me the Calling"** and,
-  pressed, about **"V.,"** the buyer who pays him for maps. He **can't** say more
+  pressed, about **"V.,"** the buyer who pays him to steal maps. He **can't** say more
   than that — he has no idea who V. really is (see
   [Who he works for](#who-he-is--reconciling-the-card-with-canon)).
 
@@ -188,7 +189,7 @@ drop to 8 to taste, or omit entirely for a smoother fight.
 - `[OPEN]` **Rat-headed vs. human** — settle his appearance / the reveal.
 - 🔒 `[settled — chat]` **"V." — mostly settled.** The
   [First Foundation](../lore/the-first-foundation.md)'s one known agent in Maalm,
-  the buyer Ratatat fences maps to: a **hooded human woman, a level-10 Arcane
+  the buyer Ratatat is meant to fence Preem's maps to: a **hooded human woman, a level-10 Arcane
   Trickster,** working under the **alias V.** They meet in the under-city tunnels by
   an artisanal mill — now written up as [The Mill](../encounters/the-mill.md). The
   [gate-guard lead](../sessions/session-04.md) and Ratatat both point here, and the

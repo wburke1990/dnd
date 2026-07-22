@@ -104,7 +104,7 @@
   recognizable by it from here on.
 - **The interrogation cracked the V. thread open.** Ratatat gave up that
   **V. was going to meet him at a nearby mill** — the *"Bring more to the
-  mill. — V."* note made live. Ratatat sells Preem's stolen maps to **"V."**
+  mill. — V."* note made live. Ratatat is paid to steal Preem's maps for **"V."**
   without knowing V. is the
   [First Foundation](../lore/the-first-foundation.md)'s one Maalm agent, so
   this is the party's first concrete line on **V.** and the on-ramp to
