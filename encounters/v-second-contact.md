@@ -225,10 +225,19 @@ the right to lecture them and enjoys it. Beats to pull from:
   **Aniess is a spy too** (Warforged Crusaders), so "come be a principled agent" is
   landing on someone already living a double life — play it as two professionals reading
   each other.
-- **She completes the set.** She has already had Blackacre and Jasper at her mercy. Get
-  a blade to **Sarric, Pax, and Aniess** across the scene and by the end she has held
-  every life at the table and given each one back — the whole pitch in one gesture.
-  **Pax** (Aasimar) may be the one who actually answers the code.
+- **She completes the set — and the papers do it.** She has already had Blackacre and
+  Jasper at her mercy at the mill, and she takes **Sarric** here (the cup, the knife).
+  For **Pax** and **Aniess** — the two she has never had a blade on — the **note already
+  in their pocket is the proof:** she was close enough to kill them and left a job offer
+  instead. By the end she has reached every life at the table and taken none. **Pax**
+  (Aasimar) may be the one who actually answers the code.
+- **She is blown because she won't murder her way clean.** The clean way to bury this
+  is to kill everyone who can point to her — the **miller and his daughter**, the others
+  who were down at the mill, **Lucrecia** and her gossip, the **guards** tangled in it. A
+  ruthless agent would. She won't, so she is exposed and leaving instead. She can say it
+  to their faces: *I could make all of this go away tonight and walk out clean. I'm not
+  going to.* It is the same choice she made with each of them, at the scale of a city —
+  and the hardest proof of her code.
 - **Urgency.** She is blown — Lucrecia's gossip is carrying her through Maalm's elite
   toward the Second Foundation, whose ground this is. This is a one-time offer; she
   cannot sit here long, and she says so.

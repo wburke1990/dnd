@@ -66,6 +66,18 @@ If you learn something worth remembering across sessions, add it here.
   — a new session can pick up the same in-game day (e.g. S7 continued S6's
   afternoon). Only the session logs are numbered; content/prep files
   (`encounters/`, `characters/`, `lore/`) are not.
+- **Never rewrite what a player wrote about their own character.** The
+  individual **PC sheets** — `characters/blackacre.md` (Sam),
+  `aniess.md` (Greg), `sarric.md` (Jeremy), `jasper.md` (Doug),
+  `pax.md` (Andrew) — and the player-submitted concepts in
+  `party-roster.md` are the **players'**: their backstory, personality, and
+  choices belong to them, not to us. You may add clearly-marked DM notes and
+  lean on their characters in encounter/lore prep, but do **not** rewrite,
+  reinterpret, or "improve" the player-written parts. When prep needs a PC's
+  psychology, describe how the **world or an NPC** plays off what the player
+  established — don't put new motives in the PC's head. (NPC files in
+  `characters/` — Preem, Mul, the al Qahtani, Lucrecia, and the like — are
+  DM-written and fair game.)
 - **Poetry is first-class campaign content.** The user loves poetry and
   uses poems throughout the Maalm/Nila campaign as in-world artifacts
   (grave inscriptions, "ancient scrolls"). Save pasted poems **verbatim**
