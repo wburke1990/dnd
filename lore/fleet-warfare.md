@@ -97,10 +97,19 @@ dark. Behind it, **Fire Storm (7th)**, **Wall of Fire (4th)**, and
 **Delayed Blast Fireball (7th)** rake and pin the beach line; the dragonborn
 carry a fire motif to match their breath.
 
-**The landing.** The boats do not run up onto the sand under fire. Crews go to
-cloud-vapor by **Wind Walk (6th)** and ride the mage wind over the surf,
-re-forming on dry ground behind the defenders. **Control Water (4th)** parts the
-break for the hulls that do come in, or drives a wave up the beach to swamp it.
+**The demons come unseen.** `[settled — Will, 7/22]` Then the fog — the fleet's
+own weather, the mage wind turned to cover — rolls up the beach, and the demon
+vanguard comes through it. The rakshasas are invisible at will; the shadow demons
+are at home in the dark; the rest come veiled in the fog. The first the defenders
+know of them is inside their own line, when the killing starts among them. That is
+the opening: artillery out of the dark, then the demons in through the fog before
+anyone has seen a boat.
+
+**The landing.** Only then do the boats put troops ashore. Crews go to cloud-vapor
+by **Wind Walk (6th)** and ride the mage wind over the surf, re-forming on dry
+ground behind the defenders the demons have already opened. **Control Water (4th)**
+parts the break for the hulls that do come in, or drives a wave up the beach to
+swamp it.
 
 **What the demons bring.** The Second Foundation's army is drawn from Preem's
 palette — vrocks, nalfeshnees, chasmes, shadow demons, barlguras, quasits, with
@@ -214,11 +223,24 @@ they the party's rescue or the power that just ate the party's worst enemy? That
 turns on what Blackacre does with the fleet he is offered. Left open on purpose.
 **[settled — Will, 7/22: it depends on Blackacre]**
 
-## Foreshadowing — seed the two sagas
+## Foreshadowing — seed the two sagas, without touching the words
 
 The two future engagements can be prefigured in the two orc sea-battles the world
-already tells ([ships-and-sea-power](ships-and-sea-power.md)). Once the
-engagements are locked, go back and add the rhymes.
+already tells ([ships-and-sea-power](ships-and-sea-power.md)). Once the engagements
+are locked, go back and add the rhymes — carefully.
+
+> ⚠️ **The saga quotes are real-world text, word-for-word.** `[settled — Will,
+> 7/22]` The blockquoted lines in [ships-and-sea-power](ships-and-sea-power.md) are
+> verbatim *Heimskringla* and *Jómsvíkinga saga*, and the plan is to share them
+> with the players unchanged — as found saga-records and handouts. **Never invent a
+> saga line, and never edit a quoted one, to plant a hint.** Foreshadowing goes in
+> *our own* framing prose around the quotes (already our dramatization — the
+> eruption, the troll-women as the orcs' patrons), or, better, leans on **real
+> saga passages that already carry the resonance** — the Norse sagas are full of
+> wind, fog, and storm-omens. Find the actual line; do not fabricate one. Verify
+> wording against one chosen public-domain edition before any of it becomes a
+> handout (see the Sources note in
+> [ships-and-sea-power](ships-and-sea-power.md)).
 
 - **Hjörungavágr already holds the pieces.** Dark sea-patrons (the troll-women)
   loosing a death from every finger; an undersea eruption that tears the floor out
@@ -232,10 +254,12 @@ engagements are locked, go back and add the rhymes.
   sea-king who leapt overboard in his war-gear rather than strike his colors —
   prefigures the close boarding once the fast craft close, and the
   death-before-surrender note if Blackacre's arc runs to sacrifice. **[draft]**
-- **The concrete seeds to add later:** a wind that blew wrong before the fleets
-  met; a hot wind off a cold sea the night before a landing; drums heard over the
-  water with no ship in sight. One in each telling, so when the party feels the
-  real mage wind they remember the saga. **[draft]**
+- **The rhymes to draw out** — in our framing, or from real saga lines, never
+  invented: a wind that turns before the fleets meet; weather called up by the
+  patrons of one side; drums or an omen over the water before the ships show. The
+  storm-witch Þorgerðr's god-called weather at Hjörungavágr is already a real hook
+  for the mage wind. When the party feels the real wind, the saga they were handed
+  word-for-word is what it echoes. **[draft]**
 
 ## See also
 
