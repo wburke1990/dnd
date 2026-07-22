@@ -104,7 +104,10 @@ Foundation's own city and they are **ruthless,** so the remnant operates with ha
   Invisibility she uses to break contact). **"V." is an alias;** `[OPEN]` her real
   name. The party's first contact with her is
   [The Mill](../encounters/the-mill.md), where she takes Ratatat's stolen maps and,
-  pushed, vanishes down a shaft into the deep.
+  pushed, vanishes down a shaft into the deep. `[settled — David]` She is
+  **sardonic and combative** with the party — contemptuous of "adventurers"
+  and their code, quick to swear them off. Her voice, with David's verbatim
+  first-exchange line, is in [the Mill's Dramatis Personae](../encounters/the-mill.md#dramatis-personae).
 - **Compartmentalized, and magical.** Agents **don't know each other,** and they handle
   real communication **by magic** (sending and the like) rather than couriers or
   dead-drops — magic exists, so there's no paper trail or comms network for Preem to

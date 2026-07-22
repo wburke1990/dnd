@@ -177,6 +177,19 @@ so how she plays them is **theirs to determine**: depending on how they act she 
 win.** Pushed or cornered, she goes **invisible and down the shaft into the deep**,
 and is gone. `[OPEN]` V.'s real name; her cover in the city above.
 
+**Her voice.** V. meets questions with contempt. She reads the party as
+adventurers on Preem's errand, answers her own questions before they can,
+mocks the idea that they follow a code, and swears at them to leave — she
+talks to take their measure and buy a moment, not to explain herself.
+David's line for her first exchange, kept as he wrote it:
+
+> Let me ask you a question, are you all adventurers? Ill answer that for
+> you. Of course you are, so original. You all must have a code huh? Rules
+> to abide by. Oh dont strain yourselves. I can answer that as well. The
+> answer is no, SHOCKING. Well in that case, kindly FUCK OFF. What divine
+> righteousness gives you the rite to start demanding shit from an innocent
+> bystander.
+
 **The miller.** `[loose]` An artisan who grinds the founder houses' garden grain
 and asks no questions about the cellar channel he was told never to follow. He is
 **not** in on it — knowing nothing is his safety and the meeting's cover. A source
