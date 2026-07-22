@@ -325,18 +325,30 @@ the dark, and came back up when Bedraageon raised Maalm over the deep.
 *(Muntadhir:)*
 *"The way he told it: when the empire fell and the gods didn't answer, the ones who still believed went down. Into the tunnels — the ones under the city now, the ones nobody's allowed near. They kept the faith down there the better part of a thousand years, and walked back into the light when the Twelve built Maalm on top of them. That's the legend. He believed it."*
 
-*(DM note — grounding & what's new. The pantheon is canon as the dead
+Then he shows them what his father set most store by: a **piece of godstone**,
+dark and heavier than its size, that the family has **passed down some five
+thousand years** — out of the Amseh empire, into the tunnels, and back up.
+Ghassan did not hold the underground survival for a story. He had the stone.
+
+*(Muntadhir, setting it in a guest's palm:)*
+*"This one he didn't buy. It came down to him — father to child, five thousand years of it, out of the empire. Everything else in this house is bought. This went into the dark with them and came back up. That's not a story."*
+
+*(DM note — grounding & what's now settled. The pantheon is canon as the dead
 **Amseh** religion ([amseh-dynasty.md](../lore/amseh-dynasty.md)); the
 Dark-Age gap between Amseh's fall and Bedraageon founding Maalm ~4,000 years
 ago is canon ([maalm-founding.md](../lore/maalm-founding.md)), as is the
 **tunnel network** beneath the city — the water works, **Ammit's tomb**, and
 the Abyss below ([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)).
-**New here** (improvised, not yet written elsewhere): calling it "the old
-gods," any **living/last worship** of these gods in Maalm, and **people
-surviving underground** through the Dark Age — canon frames the deep as
-forbidden and lethal with no resident population, so keep the underground
-survival as **legend Ghassan believed**, not fact. It seeds the under-city /
-Ammit's-tomb thread; use it, don't harden it yet.)*
+`[settled — table]` **The underground survival is real, not just legend.** The
+Amseh faithful went into the tunnels when the empire fell, kept the old gods
+through the Dark Age, and **came up and settled** when the Twelve raised Maalm
+over them — so **some living Maalm lines descend from them**, the al Qahtani
+and [Lucrecia's House Vettia](../characters/lucrecia.md) among them. The proof
+is an heirloom: **Ghassan holds a piece of godstone his family has passed down
+~5,000 years**, from the Amseh era (a separate thing from the small Anubis the
+rite needs). This does **not** contradict the deep being **lethal and empty
+now** — the survivors left it; nobody lives down there today. Still `[OPEN]`:
+what godstone actually is, and what it does.)*
 
 ## The Small Anubis — What the Rite Requires
 

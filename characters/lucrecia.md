@@ -55,12 +55,13 @@
   Lucrecia **buries hers** — she climbs into respectable merchant society and
   looks down, hard, on the lower city. Her classism reads as a social climber
   burying old and low origins.
-- 🔒 `[OPEN]` **Lore nuance.** Her descent makes the "faithful survived
-  underground" story concretely **true in at least one living line** — which
-  rubs against the canon framing of the deep as **lethal and empty** and the
-  survival as mere legend ([the deep](../lore/maalm-the-elven-stronghold.md),
-  [the Dream Quest](../encounters/the-dream-quest.md)). Decide how far that
-  bends; for now it is her family's buried truth, not public fact.
+- 🔒 `[settled — table]` **The survival is real.** The Amseh faithful did
+  survive the Dark Age underground and **came up and settled** — the
+  [al Qahtani](the-children.md) hold the proof, a **piece of godstone passed
+  down ~5,000 years** ([the Dream Quest tour](../encounters/the-dream-quest.md#the-tour--muntadhir-walks-them-through)).
+  This does not contradict the deep being **lethal and empty now**: the
+  survivors left it. Lucrecia's Vettii share that descent; `[OPEN]` whether her
+  line kept any relic of its own, or she has let all trace of it go.
 
 ## Manner
 
