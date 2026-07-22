@@ -157,6 +157,31 @@ in [demons-and-the-hotspot](demons-and-the-hotspot.md):
   goes down. Sometimes it works. Sometimes it reforms below and is dragged back up
   the next night, still chained. Both happen on the same beach. **[draft]**
 
+**The slaughter, and the choice it poses.** `[settled — Will, 7/22]` Play the
+demons as monstrous — gentle only with their own kind (above); to the men who
+held their names, and the soldiers who served those men, they are everything the
+party has spent the campaign dreading. A nalfeshnee closes its jaws over an elf
+caster's head and bites it off, and in the same moment the demons that elf held
+stop fighting for him and wheel on the men beside them — the leash died with him,
+and what it held is loose in the middle of his own line, tearing. The soldiers the
+party may be trading blows with are pulled apart an arm's length away.
+
+This is the massacre at Jotunheim made present. There, dragonborn and demons came
+up out of the dark inside the caldera and killed the elf colonists holding it (see
+[the-second-foundation](the-second-foundation.md),
+[demons-and-the-hotspot](demons-and-the-hotspot.md)); here the same two peoples
+come out of the same dark and kill the elves' inheritors — the order that was
+founded on that wound and answered it by binding demons, taken apart by the demons
+it bound. If the party has the Jotunheim story by now — they should, through the
+Second Foundation arc — the beach is the saga happening in front of them, and the
+night is why it reads as the caldera and not a battle.
+
+So freeing a demon is not a clean mercy. The party watches what a freed demon does
+the instant its name-holder dies, and watches it done to men, close enough to
+touch. When the campaign later hands them a name of their own to keep or break,
+this is the memory that has to argue with it. **[settled — the freeing choice must
+not be easy]**
+
 **How it goes, and why it matters.** Artillery first, then the Wind Walk insertion
 behind the line, then the free demons breaking the bound army from within while
 the dragonborn cut down the binders. The Second Foundation army — the party's
