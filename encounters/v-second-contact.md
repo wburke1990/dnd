@@ -67,9 +67,12 @@ runs it:
    are.
 3. **She goes invisible** just before she comes into range, then closes to arm's
    reach.
-4. **She takes the atlas first** — the map is what this is for — then **plants a note
-   in each pocket**, her offers written out ahead of time, one for Aniess and one for Pax,
-   with sums for each service.
+4. **She takes the atlas first** — the map is what this is for — then **plants a note on
+   Aniess and on Pax**, her offers written out ahead of time, one for each, with sums for
+   each service. Only those two — she plants notes to **complete her collection**: she has
+   already had Blackacre and Jasper at the mill and takes Sarric at the table, so the two
+   she has no other way to prove she reached are Aniess and Pax, and the note in the pocket
+   is that proof.
 5. **Then she sends a rat** with the invitation: meet at the coffeehouse (below) in the 
    merchant hall at the northern city docks in ≤30 minutes, short notice so they can't 
    lay a trap. (The second hand meeting and Blackacre's ship are at the docks further south)
@@ -77,7 +80,8 @@ runs it:
    other than the coffeehouse and she follows and potentially ambushes. Stop to plan an ambush
    and she hears all of it — she is standing in the middle of the huddle.
 7. At the coffeehouse she **drops invisibility drinking Sarric's beer**, then lays out
-   the offers and points each PC to the note already on them. Targeting **Sarric** is
+   the offers — **Aniess and Pax she points to the note already on them**; the rest she
+   makes across the table. Targeting **Sarric** is
    pointed — he is the one who bested her at the mill (disarm + crit) and threw a
    severed finger and a *coward* down the shaft after her; walking him to a room blind
    and taking his beer is her answer, and she won the mill fight by leaving.
@@ -138,10 +142,13 @@ for the map first.
 - **Anything else:** the atlas is gone before she has even sent the rat, and she runs the
   meeting holding Preem's map.
 
-**2 — The offers.** In the same unseen pass she **plants a note in each PC's pocket** —
-her offer and the price for each service. **No separate roll:** the natural 20 above, if
-it lands, catches the whole thing; otherwise the notes go in unfelt, and the first they
-know is the note in their pocket when she drops invisibility over Sarric's beer.
+**2 — The offers.** In the same unseen pass she **plants a note on Aniess and on Pax** —
+her offer and the price for each service, one note each. Only those two: the notes are how
+she proves she reached the two she never cornered at the mill or the table (Blackacre and
+Jasper were hers at the mill, Sarric at the table). **No separate roll:** the natural 20
+above, if it lands, catches the whole thing; otherwise the notes go in unfelt, and the
+first Aniess and Pax know is the note in their pocket when she drops invisibility over
+Sarric's beer.
 
 **3 — The rats: shadows and messengers.** The rats tailing them, the courier she sends,
 the one that runs off down a crack when the meeting turns.
