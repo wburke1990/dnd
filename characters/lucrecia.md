@@ -57,11 +57,16 @@
   burying old and low origins.
 - 🔒 `[settled — table]` **The survival is real.** The Amseh faithful did
   survive the Dark Age underground and **came up and settled** — the
-  [al Qahtani](the-children.md) hold the proof, a **piece of godstone passed
-  down ~5,000 years** ([the Dream Quest tour](../encounters/the-dream-quest.md#the-tour--muntadhir-walks-them-through)).
-  This does not contradict the deep being **lethal and empty now**: the
-  survivors left it. Lucrecia's Vettii share that descent; `[OPEN]` whether her
-  line kept any relic of its own, or she has let all trace of it go.
+  [al Qahtani](the-children.md) still hold the proof, the **small Anubis**
+  heirloom, in truth a piece of **godstone (fallen-comet stone)**
+  ([the Dream Quest](../encounters/the-dream-quest.md#the-small-anubis--what-the-rite-requires)).
+  This does not contradict the deep being **forbidden and lethal now** —
+  Ammit's tomb, the Abyss, the demons; the survivors came up long ago and no
+  one lives down there.
+- 🔒 `[settled — table]` **No relic for the Vettii — her family converted.**
+  Lucrecia's line shares the descent but **converted away from the old gods**
+  and kept **no heirloom** of it. Her denial of her history is inherited: the
+  Vettii already turned from it, and she carries that further, into contempt.
 
 ## Manner
 

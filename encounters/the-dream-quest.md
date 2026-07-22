@@ -325,14 +325,6 @@ the dark, and came back up when Bedraageon raised Maalm over the deep.
 *(Muntadhir:)*
 *"The way he told it: when the empire fell and the gods didn't answer, the ones who still believed went down. Into the tunnels — the ones under the city now, the ones nobody's allowed near. They kept the faith down there the better part of a thousand years, and walked back into the light when the Twelve built Maalm on top of them. That's the legend. He believed it."*
 
-Then he shows them what his father set most store by: a **piece of godstone**,
-dark and heavier than its size, that the family has **passed down some five
-thousand years** — out of the Amseh empire, into the tunnels, and back up.
-Ghassan did not hold the underground survival for a story. He had the stone.
-
-*(Muntadhir, setting it in a guest's palm:)*
-*"This one he didn't buy. It came down to him — father to child, five thousand years of it, out of the empire. Everything else in this house is bought. This went into the dark with them and came back up. That's not a story."*
-
 *(DM note — grounding & what's now settled. The pantheon is canon as the dead
 **Amseh** religion ([amseh-dynasty.md](../lore/amseh-dynasty.md)); the
 Dark-Age gap between Amseh's fall and Bedraageon founding Maalm ~4,000 years
@@ -343,12 +335,14 @@ the Abyss below ([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-strongh
 Amseh faithful went into the tunnels when the empire fell, kept the old gods
 through the Dark Age, and **came up and settled** when the Twelve raised Maalm
 over them — so **some living Maalm lines descend from them**, the al Qahtani
-and [Lucrecia's House Vettia](../characters/lucrecia.md) among them. The proof
-is an heirloom: **Ghassan holds a piece of godstone his family has passed down
-~5,000 years**, from the Amseh era (a separate thing from the small Anubis the
-rite needs). This does **not** contradict the deep being **lethal and empty
-now** — the survivors left it; nobody lives down there today. Still `[OPEN]`:
-what godstone actually is, and what it does.)*
+and [Lucrecia's House Vettia](../characters/lucrecia.md) among them. **But the
+living don't know it as fact** — Muntadhir and Ali present it as the legend
+their father believed (above), and Muntadhir does not know the truth of the
+heirloom either. The proof, DM-side, is the **small Anubis** (below): the
+family's ~5,000-year heirloom, and a piece of **godstone** — see there. This
+does **not** contradict the deep being **forbidden and lethal, with no one
+living down there now** — the survivors came up long ago; the deep is still
+Ammit's tomb, the Abyss, and the demons.)*
 
 ## The Small Anubis — What the Rite Requires
 
@@ -365,6 +359,16 @@ other side of the veil.
 Keep the statue's provenance ambiguous; don't explain it. It is the spell's
 other-plane focus, and its payoff is the gift at the end — see
 [The Reward](#the-reward).
+
+*(DM — the truth, kept ambiguous at the table. The Anubis is the family's
+**~5,000-year heirloom**, carried out of the Amseh empire, down into the
+tunnels through the Dark Age, and back up — the physical proof the underground
+survival is real. It is a piece of **godstone: fallen-comet stone**, which is
+why it reads as "from the other side of the veil" and works as the rite's
+other-plane focus — comet matter is of the heavens, not this ground. **Neither
+Muntadhir nor Ali knows any of this;** to them it is only the piece their
+father wouldn't explain. `[OPEN]` what godstone can do, and how it ties to the
+coming [comet pass](../lore/campaign-overview.md).)*
 
 *(DM — physical prop. There is a **real mini** on the table for this. Put
 it in a player's hand at the tour and let it stay out for the rest of the
