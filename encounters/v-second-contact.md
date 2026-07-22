@@ -183,8 +183,12 @@ sitting on. No exposition needed.
 David voices V. She is **principled, and proud of the hard road she took** — at the
 mill she dropped Blackacre without killing him and held a knife to Jasper's throat
 without cutting it, when killing both and taking the map would have been easier. She
-comes back to **buy** what she has already lifted. Play her as someone who has earned
-the right to lecture them and enjoys it. Beats to pull from:
+comes back to **buy** what she has already lifted. **They impressed her** — they drove
+her off at the mill — so she is here to hire them; but how they fight (the torture, the
+mutilation, a maimed man walked through a public square) has her unsure they are people
+she can employ. She is recruiting them and weighing whether they are worth recruiting at
+the same time. Play her as someone who has earned the right to lecture them and enjoys
+it. Beats to pull from:
 
 - **The demonstration comes first.** She walked them here invisible, took the map off
   **Blackacre** (he holds it — Preem's gift), planted the notes, and lifted Sarric's
@@ -212,13 +216,12 @@ the right to lecture them and enjoys it. Beats to pull from:
   Ammit — the founding scrubbed clean and gold-leafed. She can nod at it: a lie gets
   repainted. Preem's side is not what they were told, and there is another side. (She
   does not expose the First Foundation; she cracks the story, no more.)
-- **Sarric — revenge, and a mirror.** He crit her and did most of the damage at the
+- **Sarric — revenge, and the doubt.** He crit her and did most of the damage at the
   mill, then threw a severed finger and a *coward* down the shaft after her. So she
   opens on him: **lifts his cup and drinks it, a knife at his thigh or throat.** Her
   answer to *coward:* running to keep a code is not cowardice — torturing a bound man
-  is the real weakness. And she is the thing he has never managed to be — hard,
-  effective, and merciful — doing his work against the powerful without becoming the
-  camp. It lands the same night the Hall of Two Truths makes him say the camp aloud.
+  is. He is the one who most impressed her, and the one she is least sure she can hire:
+  strong, but the torture is exactly what she can't work with.
 - **Aniess — the lesson, and the wrinkle.** She started the mill fight, casting the
   moment V. had them walking out. So V. works her on it: violence as the reflex is not
   strength, and it turned a walk-out into a fight nobody needed. The wrinkle for David:
@@ -248,19 +251,14 @@ light. `[OPEN]` the exact figure; **~50 pp (500 gp)** for the map reads as a rea
 temptation for a level-2 party without breaking the purse. The per-service offers in the
 pocket-notes are separate — set those with the jobs (open thread below).
 
-## Sarric context (the emotional charge)
+## Sarric — why V. hesitates
 
-Sarric is on a **dark turn** ([S7 DM note](../sessions/session-07.md)): he led
-Ratatat's maiming, wrote *we've got your guy* on a severed finger and threw it
-after V., and weighed torturing the innocent millers — stopping only at their
-**daughter**. His edge: **captured enemies yes, innocents-before-a-child no** —
-the wound his backstory turns on ([sarric.md](../characters/sarric.md)). Tonight
-the **Hall of Two Truths** lands on it. V.'s pitch targets Sarric, but as the
-**opposite** of his mirror **Doruk Pell:** Doruk sells numbness — be hard, stop
-feeling it; V. sells **discipline.** She does the same dangerous work against the
-powerful and still takes no one to torture and leaves no needless bodies. The
-finger-chopping was the camp again — going too far — and she is the proof he can
-do his work without becoming the fire. See
+He **impressed her** at the mill: he bested her (disarm + crit), and strength is what
+she is hiring for. But he also **led Ratatat's maiming**, threw a severed finger and a
+curse down the shaft after her, and weighed torturing the millers. That is what she
+**can't use** — an agent who survives by leaving no trail cannot employ people who work
+that loud and that cruel. So she is **genuinely on the fence about him**, and about the
+party through him: impressive in a fight, maybe not people she can hire. See
 [Conversation ideas for David](#conversation-ideas-for-david).
 
 ## Open threads
