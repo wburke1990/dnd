@@ -191,12 +191,48 @@ touch. When the campaign later hands them a name of their own to keep or break,
 this is the memory that has to argue with it. **[settled — the freeing choice must
 not be easy]**
 
-**How it goes, and why it matters.** Artillery first, then the Wind Walk insertion
-behind the line, then the free demons breaking the bound army from within while
-the dragonborn cut down the binders. The Second Foundation army — the party's
-worst threat on the whole climb to 20 — comes apart inside an hour. Whatever the
-party took for the ceiling of what could hurt them, this is above it. Whether that
-reads as a rescue or a new threat depends on Blackacre (below).
+**The city below rises — the third demon power.** `[settled — Will, 7/22]` Moku is
+not empty ground. The living deep-city sits under it: the hotspot has moved to the
+Kurunatukas and its demon-people moved with it, which is why demons are already
+surfacing on Moku in the present day (see
+[demons-and-the-hotspot](demons-and-the-hotspot.md),
+[campaign-overview](campaign-overview.md),
+[world-history-timeline](world-history-timeline.md)). They are a third power in the
+fight, and it is their doorstep.
+
+They come up from their own tunnels under the beach, into the middle of it. Their
+kin are being worked as slaves on the sand over their heads, by the same binders
+who hunt them in the Kalikhat tunnels; the dragonborn were the bridge that once
+held demons and men together (see
+[demons-and-the-hotspot](demons-and-the-hotspot.md)). So the city rises against the
+Second Foundation, alongside the fleet's free demons — but it is its own power, not
+the fleet's to command, fighting for its own on its own ground. This is Jotunheim
+turned around: there, demons' tunnels carried the killers up inside the caldera;
+here the demons come up out of the ground themselves.
+
+And it puts the endgame under the party's feet. The deep-city beneath Moku is where
+the magma demon's name rests, with an eldest keeper closest to the force (see
+[demons-and-the-hotspot](demons-and-the-hotspot.md)) — so the beach is the roof of
+the dungeon the late campaign descends into. It also makes the reform-loop
+immediate: a demon killed on the sand sinks and reforms in the city directly below,
+and can surface again inside the same battle — free if its binder has fallen, or
+dragged back up to be bound anew. The beach does not empty; the dead keep coming
+back up.
+
+**Dragons — rumor, for now.** Canon has demons *surfacing* on Moku and only
+*rumors* of dragons — the coming pass's other pole (see
+[campaign-overview](campaign-overview.md)). The dragonborn *mean* to re-seat
+dragons on Moku (see [lonka-jotunheim](lonka-jotunheim.md)), but that is intent,
+not a sighting. Whether a dragon actually enters this battle, or the dragon-side
+stays a pressure over the horizon, is open. **[loose]**
+
+**How it goes, and why it matters.** Artillery first, then the demons in through the
+fog, then the Wind Walk insertion behind the line — then the fleet's free demons and
+the risen deep-city breaking the bound army from within while the dragonborn cut down
+the binders. The Second Foundation army — the party's worst threat on the whole
+climb to 20 — comes apart inside an hour. Whatever the party took for the ceiling of
+what could hurt them, this is above it. Whether that reads as a rescue or a new
+threat depends on Blackacre (below).
 
 ## The warning ladder — how the party learns a fleet is coming
 
