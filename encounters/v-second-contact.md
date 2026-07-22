@@ -96,7 +96,21 @@ she takes it.
 level-10 master, invisible and standing against them, lifting with her own hands
 (**Sleight of Hand +8**, **Reliable Talent**). At this gap in level she simply **takes
 it** — no bonus a level-2 PC could stack would reliably stop her, so **don't set a DC,
-and don't let her auto-win either.** Give them the one chance a master still leaves:
+and don't let her auto-win either.** Give them the one chance a master still leaves — a
+**natural 20.**
+
+**For David — why this isn't the normal pickpocket rule.** By the book, picking a pocket
+is a contest: the thief's **Sleight of Hand** check against the mark's **passive
+Perception** (or an active Perception check if the mark is watching). V.'s Sleight of
+Hand is **+8**, and **Reliable Talent** turns any d20 of 9 or lower into a 10 — so her
+result is **never below 18** and averages about 20. A level-2 PC's passive Perception is
+roughly 12–15. Run it by the book and she **wins every time**: the map is simply gone, no
+roll for the players. That is the correct rule, and it feels bad — they lose their map on
+paper with nothing to do about it. So for this one lift we **drop the contest** and give
+the players the single out a thief this good still can't rule out: **a natural 20.** No
+DC, no modifiers — her mastery is the point, and no level-2 bonus should turn a long shot
+into a coin flip. The players still roll, still have a real (if slim) chance, and V.
+stays the level-10 professional she is.
 
 **1 — The atlas (before any invite).** On the approach, invisible and adjacent, she goes
 for the map first.
