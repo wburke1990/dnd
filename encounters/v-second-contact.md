@@ -178,6 +178,67 @@ scales in the **[Dream Quest](the-dream-quest.md)** (Hall of Two Truths) the sam
 night — the devourer from the dream is the thing buried under the floor they are
 sitting on. No exposition needed.
 
+## Conversation ideas for David
+
+David voices V. She is **principled, and proud of the hard road she took** — at the
+mill she dropped Blackacre without killing him and held a knife to Jasper's throat
+without cutting it, when killing both and taking the map would have been easier. She
+comes back to **buy** what she has already lifted. Play her as someone who has earned
+the right to lecture them and enjoys it. Beats to pull from:
+
+- **The demonstration comes first.** She walked them here invisible, took the map off
+  **Blackacre** (he holds it — Preem's gift), planted the notes, and lifted Sarric's
+  beer. She has had every life at the table in her hand and given each back. That is
+  her argument before she makes it: *"Your code cost a man his fingers. Mine has had
+  all of you twice over, and here you all sit."*
+- **She pays for the map she already stole.** The centerpiece. She has it, she is
+  keeping it either way, and she still slides **platinum** across the table for it —
+  her code will not let her simply rob them. A thief who insists on paying when she
+  doesn't have to (`[OPEN]` the sum — see the offer note below).
+- **The code is the condition of hire — and it is practical, not preachy.** Work for
+  her and there is no torture, no mutilation, no bodies for the watch to find. Not
+  because she is soft: a spy stays alive by leaving no trail, and **Sarric and Jasper's
+  handling of Ratatat** — fingers on the floor, a maimed man walked out through a public
+  square — is exactly the noise that gets an agent caught and killed. She cannot use
+  people who work that loud, and she says so.
+- **She berates them again for having no code** (David's mill line — *"you must have a
+  code, huh?"*). Now she has the proof.
+- **The coffee is not clean.** They are drinking **Company coffee** — slave-worked
+  plantations, shipped by the mercantile empire that is Preem's real money (the Second
+  Foundation's East-India-Company analog). She can point at the cup: the errand they run
+  for Preem is paid for by this. It lands hardest on **Sarric**, whose whole quarrel is
+  the rich taking and burning what isn't theirs.
+- **The mural.** On the wall, the Company's gilded repainting of Bedraageon killing
+  Ammit — the founding scrubbed clean and gold-leafed. She can nod at it: a lie gets
+  repainted. Preem's side is not what they were told, and there is another side. (She
+  does not expose the First Foundation; she cracks the story, no more.)
+- **Sarric — revenge, and a mirror.** He crit her and did most of the damage at the
+  mill, then threw a severed finger and a *coward* down the shaft after her. So she
+  opens on him: **lifts his cup and drinks it, a knife at his thigh or throat.** Her
+  answer to *coward:* running to keep a code is not cowardice — torturing a bound man
+  is the real weakness. And she is the thing he has never managed to be — hard,
+  effective, and merciful — doing his work against the powerful without becoming the
+  camp. It lands the same night the Hall of Two Truths makes him say the camp aloud.
+- **Aniess — the lesson, and the wrinkle.** She started the mill fight, casting the
+  moment V. had them walking out. So V. works her on it: violence as the reflex is not
+  strength, and it turned a walk-out into a fight nobody needed. The wrinkle for David:
+  **Aniess is a spy too** (Warforged Crusaders), so "come be a principled agent" is
+  landing on someone already living a double life — play it as two professionals reading
+  each other.
+- **She completes the set.** She has already had Blackacre and Jasper at her mercy. Get
+  a blade to **Sarric, Pax, and Aniess** across the scene and by the end she has held
+  every life at the table and given each one back — the whole pitch in one gesture.
+  **Pax** (Aasimar) may be the one who actually answers the code.
+- **Urgency.** She is blown — Lucrecia's gossip is carrying her through Maalm's elite
+  toward the Second Foundation, whose ground this is. This is a one-time offer; she
+  cannot sit here long, and she says so.
+
+**The offer (platinum).** Pay her in **platinum** — a fair price for the map is heavy in
+gold (hundreds of coins) but a pocketful in platinum, which suits a spy who travels
+light. `[OPEN]` the exact figure; **~50 pp (500 gp)** for the map reads as a real
+temptation for a level-2 party without breaking the purse. The per-service offers in the
+pocket-notes are separate — set those with the jobs (open thread below).
+
 ## Sarric context (the emotional charge)
 
 Sarric is on a **dark turn** ([S7 DM note](../sessions/session-07.md)): he led
@@ -185,10 +246,13 @@ Ratatat's maiming, wrote *we've got your guy* on a severed finger and threw it
 after V., and weighed torturing the innocent millers — stopping only at their
 **daughter**. His edge: **captured enemies yes, innocents-before-a-child no** —
 the wound his backstory turns on ([sarric.md](../characters/sarric.md)). Tonight
-the **Hall of Two Truths** lands on it. So V.'s pitch can **target Sarric** the
-way the rival crews each work one PC: offer him coin for exactly what he's
-started doing — being hard as an **asset**, not a sin. The same numbness his
-mirror **Doruk Pell** sells, now from the mouth of Preem's rivals.
+the **Hall of Two Truths** lands on it. V.'s pitch targets Sarric, but as the
+**opposite** of his mirror **Doruk Pell:** Doruk sells numbness — be hard, stop
+feeling it; V. sells **discipline.** She does the same dangerous work against the
+powerful and still takes no one to torture and leaves no needless bodies. The
+finger-chopping was the camp again — going too far — and she is the proof he can
+do his work without becoming the fire. See
+[Conversation ideas for David](#conversation-ideas-for-david).
 
 ## Open threads
 
@@ -201,7 +265,8 @@ mirror **Doruk Pell** sells, now from the mouth of Preem's rivals.
   **Letap satyr** ([satyr-taverns](../lore/satyr-taverns.md)); a coffee-house
   keeper could be one too.
 - `[OPEN]` **The offers** — what services V. names and what she pays for each
-  (the pocket-notes).
+  (the pocket-notes), paid in **platinum**. See
+  [Conversation ideas for David](#conversation-ideas-for-david).
 - Naming note: the "Alcatanni house" the party mean to visit = the **al Qahtani**
   (the finest-healers house; the two were merged in play,
   [S7](../sessions/session-07.md)).

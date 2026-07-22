@@ -88,7 +88,9 @@ Concretely, do not write:
 
 1. **Forced poeticisms.** Say the plain thing. If a phrase calls
    attention to its own cleverness, cut it. (Real flagged-and-removed
-   examples: "the spine", "broken to the chariot".)
+   examples: "the spine", "broken to the chariot".) **The word "spine" is
+   banned outright** — never use it as a metaphor for a thing's core,
+   structure, or backbone.
 2. **Metaphors or similes.** No "like a…", "as if…", "as though…",
    figurative comparisons. Describe literally.
 3. **"Not just X but Y"** and its cousins — "not merely", "it isn't X,
