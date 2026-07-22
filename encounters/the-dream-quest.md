@@ -342,7 +342,8 @@ heirloom either. The proof, DM-side, is the **small Anubis** (below): the
 family's ~5,000-year heirloom, and a piece of **godstone** — see there. This
 does **not** contradict the deep being **forbidden and lethal, with no one
 living down there now** — the survivors came up long ago; the deep is still
-Ammit's tomb, the Abyss, and the demons.)*
+Ammit's tomb and the death of the dark (the Abyss being only the name for those
+tunnels), no demons.)*
 
 ## The Small Anubis — What the Rite Requires
 

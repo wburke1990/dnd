@@ -73,8 +73,8 @@ Read the map's rooms as two things:
   that flows through. The miller's ground.
 - **The adjoining tunnels** — the rooms beyond: **bones along one wall, a dozen or
   more, lying where they fell**, not buried; and a **shaft that drops into the
-  dark**, the way down from the upper tunnels toward the **deep** — Ammit's tomb,
-  the Abyss, the demons, the forbidden reaches
+  dark**, the way down from the upper tunnels toward the **deep** — the Abyss (the
+  name for these tunnels), the forbidden reaches, and at the bottom **Ammit's tomb**
   ([the deep](../lore/maalm-the-elven-stronghold.md)). The cistern-keeper caste know
   the safe paths through here; nobody else who comes down does, which is what the
   bones are.

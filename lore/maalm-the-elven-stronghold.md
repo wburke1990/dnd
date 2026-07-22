@@ -134,19 +134,22 @@ water does not stand in open pools to **evaporate;** it runs and rests **undergr
 the **Abyss tunnel-network that honeycombs Nila** ([house rules](house-rules-and-world-mechanics.md)).
 - **The hidden cisterns are down there.** That is *why* they are hidden and deadly: reaching one
   means **entering the labyrinth** — the dark, the easy death of getting lost, the
-  cistern-keepers' guards, and below it all the forbidden reaches of the **Abyss and its
-  demons.** To approach a cistern is to approach the underworld. **[loose]**
-- 🔒 **Is Ammit dead?** The assumption is **yes** — **Bedraageon killed it** (a mutual ending,
-  [maalm-founding](maalm-founding.md)), and it lies **entombed** in the deep. There are **no
-  sightings.** Should Ammit prove **still alive** down in the dark, that is a **major reveal,**
-  not a casual fact of the setting. **[loose]**
+  cistern-keepers' guards, and below it all the forbidden reaches of the **Abyss** — the
+  deep tunnels themselves — and, at the bottom of them, **Ammit's tomb.** To approach a
+  cistern is to approach the underworld. **[loose]**
+- `[settled]` **Ammit is dead — and stays dead.** **Bedraageon killed it** (a mutual
+  ending, [maalm-founding](maalm-founding.md)), and it lies **entombed** in the deep; there
+  are **no sightings**, and the gods of Maalm being dead, it does **not** rise. The danger
+  is the **tomb, not the god:** a warded, guarded Amseh burial at the bottom of the deep,
+  with the labyrinth, the dark, the water, and the cistern-keepers between it and the
+  surface. `[loose]` exactly what guards or wards it down there.
 - **A vertical city** that stratifies cleanly:
   - **the heights** — bare catchment rock and Amseh tomb-facades;
   - **the upper city** — gated gardens, the elite;
   - **the wadi & terraces** — the productive farmland;
   - **the upper tunnels** — cisterns and water-channels (cool, evaporation-free, **hidden and
     guarded**);
-  - **the deep tunnels** — **Ammit's tomb, the Abyss, demons:** forbidden.
+  - **the deep tunnels** — **the Abyss, and Ammit's tomb at the bottom:** forbidden.
 - Only the **cistern-keeper caste** (below) knows the safe upper paths from the deadly deep —
   the one group that walks Maalm's underworld and lives.
 

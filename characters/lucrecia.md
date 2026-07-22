@@ -62,8 +62,8 @@
   god-matter ([Kuru & the phoenix](../lore/kuru-and-the-phoenix.md),
   [the Dream Quest](../encounters/the-dream-quest.md#the-small-anubis--what-the-rite-requires)).
   This does not contradict the deep being **forbidden and lethal now** —
-  Ammit's tomb, the Abyss, the demons; the survivors came up long ago and no
-  one lives down there.
+  Ammit's tomb and the death of the dark tunnels (the Abyss); the survivors came
+  up long ago and no one lives down there.
 - 🔒 `[settled — table]` **No relic for the Vettii — her family converted.**
   Lucrecia's line shares the descent but **converted away from the old gods**
   and kept **no heirloom** of it. Her denial of her history is inherited: the
