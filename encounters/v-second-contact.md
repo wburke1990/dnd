@@ -183,45 +183,46 @@ matter how the lift goes; only what she walks in holding changes.
   hands visible, no theft) or leaves and tries the meeting later on her terms. She does
   **not** press a lift she can't do unseen.
 
-## The location — a Company coffeehouse `[settled: Merc Hall]`
+## The location — a coffeehouse in an old mercenaries' hall `[settled: Merc Hall]`
 
 Not the **Tavern of the Twelve** — that's Preem's rival crews' room, with Calix's
 quasit ([the rival crews](tavern-name-hunter-crews.md)); a spy who fears the
 Second Foundation would not pick it. Not the Second Hand's inn (still Preem's
-crew), and not the docks (tomorrow's set-piece). A **new coffeehouse** she names
-and controls.
+crew), and not the docks (tomorrow's set-piece). A **coffeehouse** she names
+and controls, run in an **old Maalm mercenaries' hall** (the "Merc" is
+mercenaries) — a stone building that **predates Kuru and the Company** by a long
+way. The half-orcs never broke Maalm's defenses, so this is **old Maalm's own
+hall, not a captured one.**
 
 Why a coffeehouse: **coffee is the Second Foundation's own product** — slave-
 worked plantations on Musleheim's volcanic soil, shipped by the
-**[Company](../lore/the-company.md)** that is Preem's money. A period coffeehouse
-is also a spies-and-rumor den. So V. pitches them to betray Preem in a room built
-on Preem's colonial wealth: the location argues her case with no exposition, and
-seeds the Company thread the soft way. It keeps the drink-steal.
+**[Company](../lore/the-company.md)** that is Preem's money. A coffeehouse is also
+a spies-and-rumor den. The building is old Maalm; the **coffee** is what carries
+Preem's colonial wealth into the room, so V. pitches them to betray Preem **over a
+cup grown on it** — the drink argues her case with no exposition, and seeds the
+Company thread the soft way. It keeps the drink-steal.
 
 **Map — Merc Hall `dc9743`** (in staging). A huge stone-floored hall with tables, rugs,
-boxes, hay, and trade goods — reads as a Company trading house / coffeehouse. The other
-two candidates are out: **The Coins `4b489d`** failed to build (custom-token import
+boxes, hay, and trade goods — reads as an old mercenaries' hall now serving coffee. The
+other two candidates are out: **The Coins `4b489d`** failed to build (custom-token import
 errors) and was removed; **High Rise Market `b00f40`** turned out to be an epic dwarf
 city (monolithic dwarf statues, 60+ minis) — reserved for West Suartleheim, stashed out
 of staging. See `tts/one-world-maps-inventory.md` (Opened maps).
 
-## The mural — the repainted founding `[OPEN: on the fence]`
+## The mural — the true founding `[settled: honest version]`
 
-**Undecided** whether to put this mural in Merc Hall at all — it may be more than the
-scene needs, or not fit the trading-hall read. Left in as an option, not committed.
+The hall predates the Company, so its founding art is the **honest one** — no
+gilding, no repaint (we dropped the Company-repaints-the-founding idea; the
+Company sells the coffee here, it did not build the room). On a wall: **Bedraageon
+and Ammit locked together in the dark**, the twelve placing the first stones above,
+the city rising over both — the founding as
+[the Twelve tells it](../lore/maalm-founding.md), in old paint.
 
-On a wall of the coffeehouse: the **Company's restored, gilded version** of the
-Ammit/Bedraageon founding — Bedraageon triumphant, Ammit a monster cleanly slain,
-the city rising in glory. Money-art. **Not** the Twelve's cracked, untouched
-mural ([maalm-founding.md](../lore/maalm-founding.md)) — so that later, at the
-Twelve, the bartender's *"a lie gets repainted"* line points straight back at
-this glossy one. Same founding, two paintings; the contrast is the Company
-reveal.
-
-Timing payoff: the party sees **Ammit** here hours after meeting her at the
-scales in the **[Dream Quest](the-dream-quest.md)** (Hall of Two Truths) the same
-night — the devourer from the dream is the thing buried under the floor they are
-sitting on. No exposition needed.
+Timing payoff: the party sees **Ammit** here hours after meeting her at the scales
+in the **[Dream Quest](the-dream-quest.md)** (Hall of Two Truths) the same night —
+the devourer from the dream is buried under this floor (true of anywhere in Maalm).
+The full story still gets **told later at the Twelve** (the bartender's telling);
+here they only see her, no narration.
 
 ## Conversation ideas for David
 
@@ -257,10 +258,12 @@ it. Beats to pull from:
   Foundation's East-India-Company analog). She can point at the cup: the errand they run
   for Preem is paid for by this. It lands hardest on **Sarric**, whose whole quarrel is
   the rich taking and burning what isn't theirs.
-- **The mural.** On the wall, the Company's gilded repainting of Bedraageon killing
-  Ammit — the founding scrubbed clean and gold-leafed. She can nod at it: a lie gets
-  repainted. Preem's side is not what they were told, and there is another side. (She
-  does not expose the First Foundation; she cracks the story, no more.)
+- **The mural.** On the wall, the true founding — Bedraageon and Ammit dead in each
+  other's grip, the city raised over both. A founder who went down alone into the dark
+  for his people and did not come back. In a mercenaries' hall, V. can nod at it: **that
+  is a code, and it cost him everything.** It sharpens her pitch about the party's cruelty
+  without a word of exposition — the old Maalm soldiers kept the true story, and the party
+  works loud and leaves bodies. (No Company argument here; that rides on the cup below.)
 - **Sarric — revenge, and the doubt.** He crit her and did most of the damage at the
   mill, then threw a severed finger and a *coward* down the shaft after her. So she
   opens on him: **lifts his cup and drinks it, a knife at his thigh or throat.** Her
@@ -354,8 +357,9 @@ party through him: impressive in a fight, maybe not people she can hire. See
 - `[settled]` **Map** — **Merc Hall `dc9743`**, in staging (stone-floored trading
   hall). The Coins failed to build and was removed; High Rise Market is a dwarf
   city, stashed for West Suartleheim.
-- `[OPEN]` **Mural** — on the fence about including it in Merc Hall at all (see
-  [The mural](#the-mural--the-repainted-founding-open-on-the-fence)).
+- `[settled]` **Mural** — the **true founding** (honest version, old Maalm merc
+  hall predates the Company), see
+  [The mural](#the-mural--the-true-founding-settled-honest-version).
 - `[OPEN]` **Timeline** — where the meeting slots against the 9 AM docks
   departure.
 - `[OPEN]` **Coffeehouse name and keeper** — every Nila tavern-keeper is a
@@ -364,6 +368,3 @@ party through him: impressive in a fight, maybe not people she can hire. See
 - `[settled — draft]` **The offers** — jobs and platinum prices drafted in
   [The offers — jobs and pay](#the-offers--jobs-and-pay-the-pocket-notes); tune the
   numbers to taste.
-- Naming note: the "Alcatanni house" the party mean to visit = the **al Qahtani**
-  (the finest-healers house; the two were merged in play,
-  [S7](../sessions/session-07.md)).
