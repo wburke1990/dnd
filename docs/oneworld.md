@@ -155,8 +155,28 @@ follow it verbatim:
    Idempotent (re-importing a present map is a noop); mints fresh GUIDs
    on collision; wires the OWx bag into `mBag`, the new `SBx_` into
    `aBag`, and a JotBase line into `aBag.LuaScript`.
-4. **Swap the final temp into staging:**
-   `mv /tmp/ow_import_<last>.json "/Users/.../Saves/TS_Save_19.json"`.
+4. **Prune dead assets from every imported map — ALWAYS, not optional.**
+   The import copies the donor bag verbatim, and these donor maps ride
+   decayed hosts (see the dead-link gotcha below), so a raw import drops
+   **dozens** of dead URLs into staging and TTS greets the user with a wall
+   of "Failed to import asset" spam (a single map had 17–25 dead URLs in
+   practice). Run `clean_ow_map prune` once per imported OWx GUID, chained
+   through `/tmp` the same way — the output of prune N is the input of
+   prune N+1, starting from the last import temp:
+
+   ```
+   uv --directory /Users/wcb/personal/dnd/scripts run python -m dnd_tools.clean_ow_map \
+     prune "<prior temp>" "/tmp/clean_N.json" --owx-guid <bag GUID>
+   ```
+
+   It GET-probes each asset URL (200-but-HTML counts as dead), removes
+   dead meshes/assetbundles + their manifest lines, and blanks dead
+   textures. Note the per-map `objects_removed` it prints and **flag any
+   map that lost a lot of pieces** — a map can come out sparse if many of
+   its meshes rode a now-dead host (only ever removes what wasn't
+   rendering anyway, but tell the user so they can eyeball it).
+5. **Swap the final PRUNED temp into staging:**
+   `mv /tmp/clean_<last>.json "/Users/.../Saves/TS_Save_19.json"`.
    The user then loads "19 - staging" **fresh** in TTS and Builds each map.
 
 **Verify before handing off** (the import rewrites the whole save, so
