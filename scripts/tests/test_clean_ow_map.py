@@ -42,6 +42,16 @@ def _model(guid: str, mesh: str, diffuse: str, collider: str = "") -> dict[str, 
     }
 
 
+def _token(guid: str, image: str, secondary: str = "") -> dict[str, Any]:
+    """A Custom_Token piece — image-defined, no mesh of its own."""
+    return {
+        "Name": "Custom_Token",
+        "GUID": guid,
+        "Transform": {"posX": 1.0, "posY": 0.0, "posZ": 2.0},
+        "CustomImage": {"ImageURL": image, "ImageSecondaryURL": secondary},
+    }
+
+
 def _manifest(*guids: str) -> str:
     return "".join(f"--{g},1,0,2,0,0,0,1\n" for g in guids)
 
@@ -155,6 +165,37 @@ def test_plan_prune_dead_mesh_piece_is_not_also_blanked() -> None:
     remove, blanks = plan_prune(bag, {DEAD_MESH, DEAD_TEX})
     assert remove == {"p1"}
     assert blanks == []
+
+
+def test_plan_prune_dead_token_image_is_removed_not_blanked() -> None:
+    # a Custom_Token (no mesh) with a dead defining image -> removed, because
+    # blanking its ImageURL to "" makes TTS throw its own import error.
+    bag = _owx("M", "c1", [_token("t1", DEAD_TEX)])
+    remove, blanks = plan_prune(bag, {DEAD_TEX})
+    assert remove == {"t1"}
+    assert blanks == []
+
+
+def test_plan_prune_live_token_with_dead_secondary_image_blanks() -> None:
+    # a token whose primary image is LIVE but secondary is dead stays: the
+    # secondary is optional, empty is valid, so just blank that field.
+    bag = _owx("M", "c1", [_token("t1", LIVE_TEX, secondary=DEAD_TEX)])
+    remove, blanks = plan_prune(bag, {DEAD_TEX})
+    assert remove == set()
+    assert len(blanks) == 1
+    _container, field = blanks[0]
+    assert field == "ImageSecondaryURL"
+
+
+def test_plan_prune_mesh_piece_with_dead_image_texture_blanks_not_removed() -> None:
+    # a Custom_Model carries geometry, so an ImageURL on it is a texture,
+    # not the object -> blank it, keep the piece.
+    piece = _model("p1", LIVE_MESH, LIVE_TEX)
+    piece["CustomMesh"]["ImageURL"] = DEAD_TEX
+    bag = _owx("M", "c1", [piece])
+    remove, blanks = plan_prune(bag, {DEAD_TEX})
+    assert remove == set()
+    assert [f for _c, f in blanks] == ["ImageURL"]
 
 
 # ---------------------------------------------------------------------------

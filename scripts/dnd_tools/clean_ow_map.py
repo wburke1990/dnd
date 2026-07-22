@@ -13,14 +13,22 @@ both mutate a save in place and both are idempotent:
     of dead URLs (probe them with :func:`probe_urls`, or pass known-dead
     ones), it walks the map's ``OWx`` subtree and, per piece:
 
-    * if the piece's **mesh** (``MeshURL``) is dead, the piece can't
-      render at all — **remove the object** and strip its line from the
-      SBx position manifest, and
+    * if the piece's **mesh** (``MeshURL`` / ``AssetbundleURL``) is dead,
+      the piece can't render at all — **remove the object** and strip its
+      line from the SBx position manifest;
+
+    * if the piece is **image-defined** (a ``Custom_Token`` / ``Custom_Tile``
+      / ``Figurine_Custom`` — no mesh of its own) and its defining
+      ``ImageURL`` is dead — **remove the object** too. Its image *is* the
+      object, so blanking the field to ``""`` doesn't silence the failure:
+      TTS then throws its own "failed to import" error on the empty URL
+      (the blank-placeholder-figurine failure mode). This is the
+      Custom_Token import error the plain texture-blank missed; and
 
     * otherwise (a live mesh but a dead **texture** — ``DiffuseURL`` /
-      ``NormalURL`` / ``ColliderURL`` / image field) — **blank just that
-      field**, so the piece still spawns (untextured) and TTS never
-      fetches the dead URL.
+      ``NormalURL`` / ``ColliderURL`` / a secondary image field) — **blank
+      just that field**, so the piece still spawns (untextured) and TTS
+      never fetches the dead URL.
 
     Net effect: every dead-URL fetch is eliminated, so the load is quiet,
     while every piece that can still render is kept.
@@ -67,6 +75,14 @@ ASSET_FIELDS = (
 # A dead value in one of these fields means the piece cannot render at
 # all (no geometry) — the object is removed rather than blanked.
 FATAL_FIELDS = frozenset({"MeshURL", "AssetbundleURL"})
+
+# The defining image of an image-only object (Custom_Token, Custom_Tile,
+# Figurine_Custom): it has no mesh, so this URL *is* the object. If it is
+# dead the object must be removed, not blanked — a token left with an empty
+# ImageURL makes TTS throw its own import error on the empty string. Only
+# fatal when the piece carries no geometry of its own (on a Custom_Model an
+# ImageURL would just be a texture, safe to blank).
+IMAGE_DEFINING_FIELD = "ImageURL"
 
 
 class CleanError(RuntimeError):
@@ -162,14 +178,20 @@ def plan_prune(
     remove_guids: set[str] = set()
     blank_ops: list[tuple[dict[str, Any], str]] = []
     for piece in iter_objects(bag):
-        dead_here = [
-            (container, field)
-            for container, field, url in iter_own_assets(piece)
-            if url in dead_urls
-        ]
+        own = list(iter_own_assets(piece))
+        dead_here = [(container, field) for container, field, url in own if url in dead_urls]
         if not dead_here:
             continue
-        if any(field in FATAL_FIELDS for _container, field in dead_here):
+        # A piece with its own mesh/assetbundle is geometry-defined: its
+        # ImageURL/DiffuseURL are textures ON that geometry, safe to blank.
+        # A piece with no geometry is image-defined (token/tile/figurine):
+        # its dead ImageURL is fatal — see IMAGE_DEFINING_FIELD.
+        has_geometry = any(field in FATAL_FIELDS for _container, field, _url in own)
+        fatal = any(
+            field in FATAL_FIELDS or (field == IMAGE_DEFINING_FIELD and not has_geometry)
+            for _container, field in dead_here
+        )
+        if fatal:
             guid = piece.get("GUID")
             if isinstance(guid, str):
                 remove_guids.add(guid)
