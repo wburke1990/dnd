@@ -230,16 +230,38 @@ host that carries it (heimskringla.no, archive.org, Wikisource) is blocked from 
 environment. To lock a true-verbatim Þorgerðr handout, fetch that passage from an
 open machine, or paste it in, and we translate it exactly.
 
-**Our own candidate translation** (from the public-domain Norse above, not from any
-copyrighted edition) — **[draft]**:
+**Our own candidate translations** (from the public-domain Norse above, not from any
+copyrighted edition) — **[draft]**. A saga line does not follow the bare
+present-day house style; it goes heightened, alliterative, and archaic, in the
+register of the [Old English handouts](../handouts/the-ruin.md) and the
+[Homeric-formula notes](../references/homeric-epithets.md). Options to pick from or
+mix:
 
-> An arrow flew from each of her fingers, and each one was a man's death; and the
-> hail fell so heavy that a single stone weighed an ounce.
+1. *Saga-plain (Heimskringla terseness):*
 
-A barer version in house style:
+   > An arrow flew from each of her fingers, and each was a man's death; and there
+   > came such foul weather that a single hailstone weighed an ounce.
 
-> From every finger an arrow flew, and each one killed a man; and the hail fell so
-> heavy a single stone weighed an ounce.
+2. *Old English alliterative (the Seafarer register):*
+
+   > From every finger flew a shaft, and each one felled its man; and foul weather
+   > woke on the water, till a single hailstone weighed an ounce.
+
+3. *Kenning-forward:*
+
+   > Arrows sprang from her finger-ends, each the fetch of a man; the storm-squall
+   > gathered black, and every hailstone weighed its ounce.
+
+4. *Formulaic, with an epithet (the Homeric move):*
+
+   > Then Þorgerðr Hölga-bride stood on the prow, and loosed from every finger an
+   > arrow, and every arrow was a man's bane; and the sky broke, and each hailstone
+   > weighed an ounce.
+
+5. *Leaning on the pun (vá, "weighed," is also "slew"):*
+
+   > From each finger an arrow, and each arrow a man slain; and the hail came
+   > ounce-heavy, weighing even as it slew.
 
 The repo's current line tracks the real Norse closely, so it reads as a faithful
 translation, not a lift from a copyrighted edition. It needs correct attribution
