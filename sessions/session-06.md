@@ -68,14 +68,15 @@
   fortress**, the **nicer neighborhoods around the walls**, and the **worst
   neighborhoods further south**, which she spoke of with contempt. The party
   **read her as classist**, and had it right.
-- Asked about the **Alcatanni family**, she named them the **finest healers
-  in Maalm** and said she takes **skin treatments** from them — and
-  complained about **how expensive her skin is** to keep.
-- Pressed, she added that the **Alcatanni do charity in the lower city** —
+- Asked about the **al Qahtani** ([the children](../characters/the-children.md)),
+  she named them the **finest healers in Maalm** and said she takes **skin
+  treatments** from them, complaining about **how expensive her skin is** to
+  keep.
+- Pressed, she added that the **al Qahtani do charity in the lower city** —
   her "bad neighborhoods" — and was **disdainful** that they spend their
   work on the low caste.
-- The party gave themselves a name for hired men who run the rich's errands
-  — recalled as **"Picketts"** `[sic — likely "Pinkertons"; confirm]`.
+- The party gave themselves a name for hired men who run the rich's errands:
+  **Pinkertons.**
 - She complained about a **neighbor's flowers** and asked whether the party
   would **go beat up the neighbors** until they changed them.
 - They **showed her the *"Bring more to the mill. — V."* note**
@@ -187,13 +188,17 @@
   **lower-city charity.** The **flowers errand** — send the party to rough
   up a neighbor over their flowers — is a petty-tyrant hook to pull on if
   wanted.
-- **New NPCs from the bank scene.** The **Alcatanni family** — the finest
-  healers in Maalm, elite skin-treatment providers to clients like Lucrecia,
-  and quietly running **charity in the lower city** that the elite disdain
-  them for: a healer house with a class conscience. `[OPEN]` their tie to
-  the al Qahtani healers and to either Foundation. **Daniel** — Lucrecia's
-  servant, who makes her **grain runs to the mill** and is set to guide the
-  party there.
+- **The "Alcatanni" are the al Qahtani — the Dream Quest family.** Lucrecia's
+  "finest healers in Maalm" are the same
+  [al Qahtani](../characters/the-children.md) the party is already working
+  for. New canon about them: they do **elite skin treatments** (Lucrecia is
+  a client) and run **charity in the lower city** the elite look down on —
+  a healer house that serves both the noble quarter and the poor. That links
+  the two live threads: the noble who is the party's road to the mill
+  patronizes the half-demon family running tonight's death-rite. Folded into
+  [the children](../characters/the-children.md).
+- **Daniel** — Lucrecia's servant, new NPC, who makes her **grain runs to
+  the mill** and is set to guide the party there.
 - **Blackacre holds the founder's epitaph now.** The plaque he read is
   Bedraageon's grave-inscription (the "lay of the last survivor") in
   Maalm's civic heart — the same square as the Session 1 ambush, so the
@@ -298,10 +303,9 @@
       snubbed her.** Open hooks: the **flowers errand** (rough up a neighbor
       over their flowers), and `[OPEN]` her tie to the
       [Second Foundation](../lore/the-second-foundation.md).
-- [ ] **The Alcatanni family** — new NPCs: Maalm's **finest healers**, elite
-      skin-treatment providers, and quiet **charity in the lower city** the
-      elite look down on them for. `[OPEN]` a dedicated writeup, and their
-      tie to the al Qahtani healers / either Foundation.
+- [x] **"Alcatanni" = the al Qahtani** (the Dream Quest family) — folded into
+      [the children](../characters/the-children.md): finest healers in Maalm,
+      elite skin treatments, and lower-city charity the elite disdain.
 - [ ] **The docks — tomorrow 9 AM.** Run
       [Departure Under Fire](../encounters/docks-departure.md): a **send-off**
       turns into a **trumped-up arrest** (illegal export of the **20 rats**),

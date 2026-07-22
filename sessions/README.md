@@ -72,7 +72,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   her**); **Sarric pocketed it** and bought nothing. At the **bank** after,
   she bought them tea, gave a **classist** tour of Maalm's castes, and became
   the **route to the mill** — her servant **Daniel** will guide them on his
-  afternoon grain run. She named the **Alcatanni** (Maalm's finest healers,
-  who also run lower-city charity she looks down on) and dangled a **flowers
-  errand** (rough up a neighbor over their flowers). `[OPEN]` her tie to the
-  **Second Foundation**.
+  afternoon grain run. She named the **al Qahtani** — the Dream Quest family —
+  as Maalm's finest healers (she's a skin-treatment client) and disdained
+  their lower-city charity, and dangled a **flowers errand** (rough up a
+  neighbor over their flowers). `[OPEN]` her tie to the **Second Foundation**.
