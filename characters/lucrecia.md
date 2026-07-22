@@ -58,8 +58,9 @@
 - 🔒 `[settled — table]` **The survival is real.** The Amseh faithful did
   survive the Dark Age underground and **came up and settled** — the
   [al Qahtani](the-children.md) still hold the proof, the **small Anubis**
-  heirloom, in truth a piece of **godstone (fallen-comet stone)**
-  ([the Dream Quest](../encounters/the-dream-quest.md#the-small-anubis--what-the-rite-requires)).
+  heirloom, in truth a piece of **godstone** — the sentient comet-fall
+  god-matter ([Kuru & the phoenix](../lore/kuru-and-the-phoenix.md),
+  [the Dream Quest](../encounters/the-dream-quest.md#the-small-anubis--what-the-rite-requires)).
   This does not contradict the deep being **forbidden and lethal now** —
   Ammit's tomb, the Abyss, the demons; the survivors came up long ago and no
   one lives down there.

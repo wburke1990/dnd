@@ -363,12 +363,17 @@ other-plane focus, and its payoff is the gift at the end — see
 *(DM — the truth, kept ambiguous at the table. The Anubis is the family's
 **~5,000-year heirloom**, carried out of the Amseh empire, down into the
 tunnels through the Dark Age, and back up — the physical proof the underground
-survival is real. It is a piece of **godstone: fallen-comet stone**, which is
-why it reads as "from the other side of the veil" and works as the rite's
-other-plane focus — comet matter is of the heavens, not this ground. **Neither
-Muntadhir nor Ali knows any of this;** to them it is only the piece their
-father wouldn't explain. `[OPEN]` what godstone can do, and how it ties to the
-coming [comet pass](../lore/campaign-overview.md).)*
+survival is real. It is a piece of **godstone** — the
+**sentient stone that falls on the comet pass**, the substance of the
+comet-born gods
+([Kuru & the phoenix](../lore/kuru-and-the-phoenix.md#1-the-short-version)) —
+which is why it reads as "from the other side of the veil" and works as the
+rite's other-plane focus. **Neither Muntadhir nor Ali knows any of this;** to
+them it is only the piece their father wouldn't explain. 🔒 `[OPEN]` — hooks,
+not unknowns about godstone itself (its nature is settled in the Kuru lore):
+**which comet-born god** this fragment is, **how the Amseh came by it**, and
+that **godstone hates demons** while the al Qahtani are **half-demon** — a
+demon-hating god-relic in a half-demon house.)*
 
 *(DM — physical prop. There is a **real mini** on the table for this. Put
 it in a player's hand at the tour and let it stay out for the rest of the
