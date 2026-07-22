@@ -118,6 +118,17 @@ Concretely, do not write:
     if someone took time with it that they didn't have"; a blackened
     door "not from fire exactly, but as if something very cold passed
     this way.")
+12. **Clever labels and jargon.** This one governs the *analytical*
+    register too — design notes, `[OPEN]` threads, arc and plot summaries —
+    where the failure isn't purple prose but cute framing and buzzwords.
+    Say plainly what happens, and to whom, instead of tagging it with a
+    label. Cut framing-device metaphors ("his three doors", "split on the
+    rift", "the shadow they formed against", "the rift-healer as the rift's
+    casualty"), management-speak ("parked", "flagged as", "the payoff",
+    "the main engine", "a thread we're arming"), and abstract coinages
+    ("founding trauma", "reclaiming as capture"). If a phrase is there for
+    effect rather than to carry information, use the plain version. (All
+    real flagged-and-removed examples, 7/22.)
 
 This governs both new writing and edits to existing files. When cleaning
 up old text, prefer the plainer rewrite over deleting content outright.

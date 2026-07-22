@@ -198,15 +198,15 @@ growing to associate with them.** How to run it:
 - **Foreshadowing payoff:** this quietly arms a heroic-sacrifice option
   for the Sayid/Lonka climax without forcing it — the faith gives dying
   to mend things a *meaning* Blackacre would once have laughed at.
-- **The graves are rehearsal for the endgame choice.** `[draft]` At the
-  finale the Jotunheim dragonborn ask Blackacre to **lead their fleet**,
-  and how he leads it — crusade, mercy, or refusal — is his arc's climax
-  (see [blackacre.md](../characters/blackacre.md) and
-  [lonka-jotunheim.md §6](lonka-jotunheim.md)). Use the watch-stones to
-  **pose moral dilemmas that rehearse that choice** — the price of a deed,
-  mercy versus the sword, whether holy ground is worth blood. **Don't
-  pre-script the verdicts:** tune each dilemma to where his character
-  actually is at the time, and let him answer.
+- **Practice for the endgame choice.** `[draft]` At the finale the
+  Jotunheim dragonborn ask Blackacre to **lead their fleet** to Moku, and
+  what he does with it is the climax of his arc (see
+  [blackacre.md](../characters/blackacre.md) and
+  [lonka-jotunheim.md §6](lonka-jotunheim.md)). Use the watch-stones to put
+  smaller moral choices in front of him first — the price of a deed, mercy
+  or the sword, whether holy ground is worth blood. **Don't script the
+  answers:** tune each one to where his character is at the time, and let
+  him decide.
 
 ## Encounter hooks
 

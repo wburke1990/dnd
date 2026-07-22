@@ -194,74 +194,67 @@ guarded channel.
 
 ---
 
-## 6. The Zealot Fleet — the return to the Kurunatukas `[draft — endgame]`
+## 6. The Zealot Fleet — sailing to Moku `[draft — endgame]`
 
-An endgame thread: the Lonka Zealots raise a fleet at Jotunheim and sail for the
-**Kurunatukas**, arriving at the [Moku Kurunatuka finale](campaign-overview.md) as a
-third power on the water. Motive, method, and whether it ends in another massacre all
-hang on **[Blackacre](../characters/blackacre.md)**.
+An endgame thread. The Lonka Zealots raise a fleet at Jotunheim and sail to **Moku
+Kurunatuka** to take the island where the dragons are now gathering. Whether they do it by
+**bringing god-stone** or by **killing everyone already living there** is undecided, and
+turns on **[Blackacre](../characters/blackacre.md)**. Either way the fleet reaches the
+[Moku finale](campaign-overview.md) as a third naval power beside the two Foundations.
 
-- **They still have the sea in them.** The zealots hold a fortress now, but the
-  dragonborn were once **the only people on Nila with ships** (§4) and built the Muspel
-  fleets. Behind the cliffs they are still a sea-people, and the fleet is theirs to
-  raise. `[draft]` How large, and how well hidden, is open — the reveal works best if the
-  rest of the archipelago had written the dragonborn off as a vanishing, land-bound
-  remnant and never counted the hulls.
+- **The zealots can still put to sea.** They hold a fortress now, but the dragonborn were
+  once **the only people on Nila with ships** (§4) and built the Muspel fleets. The fleet
+  is theirs to raise. `[draft]` How large it is, and how far the rest of the archipelago
+  has forgotten the dragonborn can field one, is open — the surprise is greater if
+  everyone had written them off as a land-bound remnant.
 
-- **Why they sail: to reclaim the dragons that left them.** §5's wound — *the dragons
-  abandoned Lonka and the zealots don't know why* — has an answer they don't hold: dragons
-  follow the **hot spot**, and it has **drifted southeast off Lonka to Moku Kurunatuka**
-  ([overview §5](campaign-overview.md)), where dragons and demons gather for the coming
-  pass. If the zealots learn where their gods went, the Kurunatukas stop being someone
-  else's colony and become **the new holy ground** — and the colonists on it are usurpers
-  on the dragons' seat, the same as the Maalm settlers were on Lonka (§4).
+- **Why they sail.** §5's wound — the dragons abandoned Lonka and the zealots don't know
+  why — has an answer the zealots don't have: dragons follow the **hot spot**, and it has
+  **drifted southeast off Lonka to Moku Kurunatuka** ([overview §5](campaign-overview.md)),
+  where dragons and demons are now gathering for the coming pass. Once the zealots learn
+  where their gods went, Moku becomes **the new holy ground**, and the colonists living
+  there are usurpers on the dragons' seat, the same as the Maalm settlers were on Lonka
+  (§4).
 
-- **They alone can read the sky.** Of every people on Nila the zealots hold **living
-  memory of a pass**: the Bleeding Star was **Lonka's own Ragnarok, fought on their
-  island** (§2), and the Dragon Turtle still in the bay says the sky-dragon won it (§5,
-  Manichean note). So the comet already hanging overhead ([overview,
-  "the clock"](campaign-overview.md)) is legible to them while the rest of the world is
-  oblivious — they know a reconsecration is due, and roughly when.
+- **Only the zealots remember a pass.** The Bleeding Star was **Lonka's own Ragnarok,
+  fought on their island** (§2), and the Dragon Turtle still in the bay means the
+  sky-dragon won it (§5, Manichean note). So the comet already overhead
+  ([overview, "the clock"](campaign-overview.md)) means something to them while the rest of
+  the world reads nothing in it — they know a reconsecration is due, and roughly when.
 
-- **The reveal.** The last time dragonborn came by sea in numbers they **killed everyone
-  on the ground** — Jotunheim's colonists to the last, a slaughter the Muspel empire's own
-  humans refused to put their name to (§4). To the archipelago, dragonborn sails on the
-  horizon are the return of that. And the Kurunatukas cannot answer a fleet: **Kuru has
-  almost no navy** and rents Mukka bottoms and dwarf hulls, the Kurunatukas lean the same
-  way ([overview](campaign-overview.md)), and [Sam's halfling floating fleet](floating-fleet.md)
-  is already inbound hunting ships and timber. A dragonborn holy fleet on top of that is an
-  existential event for the islands, not a raid. `[design note]` The reveal is meant to
-  frighten the table; play it as the return of the people who once emptied an island, and
-  let the history carry the weight.
+- **What the fleet does at Moku.** They come to take the island. Two ways it can go, not
+  yet decided:
+  - **Bring god-stone.** Carry a shard of **Taniyn's heart-stone** (§5), or catch falling
+    comet-stone at the pass the way [Kuru re-forges its phoenix](kuru-and-the-phoenix.md),
+    and re-seat the dragons on Moku without emptying it. This is close to what Preem does
+    with the magma demon ([the Second Foundation](the-second-foundation.md)) — taking hold
+    of a power instead of following it, the island-bound zealot instinct.
+  - **Kill everyone on the island.** Take the holy ground back the way they took Lonka
+    (§4): the colonists put to the sword, Moku made a second Lonka.
+  - Which way it goes is Blackacre's to settle at the finale (see
+    [Blackacre](../characters/blackacre.md)).
 
-- **How you reclaim a dragon — two methods, split on the rift.** You cannot own a dragon
-  (the campaign's names-and-ownership thesis), so *reclaiming* one cannot mean capture —
-  and the two readings fall along the zealot/nomad divide:
-  - **Hold it (the zealot way).** A dragon goes where the heat, magic, and land-making are
-    — the hot spot. Carry a shard of **Taniyn's heart-stone** (§5) to the new seat over
-    Moku and **anchor** the dragons to ground the zealots control — make Moku the new
-    Lonka. This is structurally **the same move as Preem binding the magma demon**
-    ([the Second Foundation](the-second-foundation.md)): reclaiming as capture.
-  - **Follow it (the nomad way).** The nomad creed is *honor the flight*. A dragon is not
-    reclaimed to a place; it is rejoined by taking to the water after it. Reclamation here
-    means the zealots **give up the fortress and become a fleet** — get their god back by
-    ceasing to be fortress-keepers, which is the rift healing on its own.
-  - **Which one becomes true is set by Blackacre's choice at the finale** (see
-    [Blackacre](../characters/blackacre.md)). We don't pre-decide it.
+- **What the archipelago sees.** The last time dragonborn came by sea in numbers they
+  **killed everyone on the ground** — Jotunheim's colonists to the last, a slaughter the
+  Muspel empire's own humans would not put their name to (§4). Dragonborn sails on the
+  horizon are that memory come back. And the Kurunatukas cannot answer a fleet: **Kuru has
+  almost no navy** and rents Mukka bottoms and dwarf hulls, the Kurunatukas the same
+  ([overview](campaign-overview.md)), and [Sam's halfling floating fleet](floating-fleet.md)
+  is already inbound for ships and timber. A dragonborn fleet on top of that settles the
+  war for the islands.
 
-- **`[OPEN — deferred]` The other motive: stopping the desecration.** A darker version has
-  the zealots sail **to prevent another forced pass** — they of all people know what a
-  Ragnarok does. This depends on a **First Foundation presence inside Jotunheim's
-  leadership**, and David is undecided, so it is **parked as a possibility**, not the
-  working line. If we take it, the fleet becomes a would-be *rescuer* of the world rather
-  than its avenger.
+- **`[OPEN — deferred]` A second reason to sail: stopping the pass.** A darker version has
+  the zealots sail to prevent another forced Ragnarok — they, of all people, know what one
+  does. This needs a **First Foundation presence inside Jotunheim's leadership**, and David
+  has not decided, so keep it as a possibility, not the working version. Taken up, it makes
+  the fleet a would-be rescuer of the world rather than its avenger.
 
-- **`[OPEN]` The dragonborn as the world's founding trauma.** The zealot reconquest is
-  already "**the first crack of the Time of Troubles**" and the rupture of the
-  human–dragonborn partnership that built the [First Foundation](the-first-foundation.md)
-  (§4). Leaning in, the dragonborn become the shadow the Foundations were organized
-  against. Whether to go further and tie them to **causing the last bad pass** (~1,000 ya,
-  written as sabotaged) is a **new claim** — take it or leave it.
+- **`[OPEN]` The dragonborn as the first break.** The zealot reconquest is already "**the
+  first crack of the Time of Troubles**" and the end of the human–dragonborn partnership
+  that built the [First Foundation](the-first-foundation.md) (§4). Taken further, the
+  dragonborn are the danger the Foundations first formed against. Whether to also make them
+  the cause of the last bad pass (~1,000 ya, written as sabotaged) is a **new claim** —
+  take it or leave it.
 
 ---
 
