@@ -179,12 +179,22 @@ from inside the army and the Church,** and the **monarch reigns over a kingdom t
 warforged quietly steer.** 🔒 `[OPEN]` how much the throne knows, accepts, or chafes at
 this — figurehead, junior partner, or a rival the hive merely tolerates.
 
-`[settled]` **The stone hates demons.** Beyond power, voice, and hive (above), the
-godstone carries a deep, **unexplained antipathy — it *hates* demons,** and presses
-that loathing onto everyone who bears it. It is a **standing engine of the crusades:**
-the warforged go at Kalikhat's demons with a personal, holy hatred, not just strategy
-(§5). *(Note: a hatred, not a ward — the stone gives no mechanical power to repel or
-bind demons.)*
+`[settled]` **The phoenix's stone hates demons.** Beyond power, voice, and hive
+(above), the **phoenix's** godstone carries a deep, **unexplained antipathy — it
+*hates* demons,** and presses that loathing onto everyone who bears it. It is a
+**standing engine of the crusades:** the warforged go at Kalikhat's demons with a
+personal, holy hatred, not just strategy (§5). *(Note: a hatred, not a ward — the
+stone gives no mechanical power to repel or bind demons.)*
+
+`[settled — table]` **This is the phoenix's stone, not godstone as such.** Each
+comet-born god has its own stone; the demon-hatred is the **phoenix's** (see *Why it
+hates them,* below, which grounds it in the phoenix's own nature), and **another god's
+godstone carries no such thing.** The clearest example is the al Qahtani's **[small
+Anubis](../encounters/the-dream-quest.md#the-small-anubis--what-the-rite-requires)** —
+their ~5,000-year heirloom, a piece of godstone from an **Amseh** god, carried out of
+the fallen empire through the tunnels and back up. It is **godstone, but not the
+phoenix's, and it does not hate demons.** (This is the reference for what the small
+Anubis is made of, so future sessions can place it.)
 
 `[loose]` **Why it hates them (a proposal — not fully settled).** The cosmology offers
 a clean answer: the comet-born **sky-beasts** (the phoenix, Taniyn and her dragons) and

@@ -369,11 +369,12 @@ comet-born gods
 ([Kuru & the phoenix](../lore/kuru-and-the-phoenix.md#1-the-short-version)) —
 which is why it reads as "from the other side of the veil" and works as the
 rite's other-plane focus. **Neither Muntadhir nor Ali knows any of this;** to
-them it is only the piece their father wouldn't explain. 🔒 `[OPEN]` — hooks,
-not unknowns about godstone itself (its nature is settled in the Kuru lore):
-**which comet-born god** this fragment is, **how the Amseh came by it**, and
-that **godstone hates demons** while the al Qahtani are **half-demon** — a
-demon-hating god-relic in a half-demon house.)*
+them it is only the piece their father wouldn't explain. It is an **Amseh**
+god's godstone, **not the phoenix's** — so it carries **no demon-hatred** (that
+is the phoenix stone's alone; see
+[Kuru & the phoenix](../lore/kuru-and-the-phoenix.md)). 🔒 `[OPEN]` — hooks, not
+unknowns about godstone itself: **which comet-born god** this fragment is, and
+**how the Amseh came by it**.)*
 
 *(DM — physical prop. There is a **real mini** on the table for this. Put
 it in a player's hand at the tour and let it stay out for the rest of the
