@@ -58,6 +58,33 @@
   **Aniess**, who **ignored her**, so she handed it to **Sarric** instead.
 - **Sarric pocketed the gold** rather than buying the potion.
 
+## Following Lucrecia — the bank, and the way to the mill
+
+- After the interrogation, the party **followed Lucrecia to the bank** (the
+  [bank house](../lore/bedraageon-square.md) on Bedraageon Square). She took
+  a **meeting** there, then **bought them tea** in the waiting room's
+  tearoom.
+- Over tea she laid out Maalm by caste: the **walled interior of the star
+  fortress**, the **nicer neighborhoods around the walls**, and the **worst
+  neighborhoods further south**, which she spoke of with contempt. The party
+  **read her as classist**, and had it right.
+- Asked about the **Alcatanni family**, she named them the **finest healers
+  in Maalm** and said she takes **skin treatments** from them — and
+  complained about **how expensive her skin is** to keep.
+- Pressed, she added that the **Alcatanni do charity in the lower city** —
+  her "bad neighborhoods" — and was **disdainful** that they spend their
+  work on the low caste.
+- The party gave themselves a name for hired men who run the rich's errands
+  — recalled as **"Picketts"** `[sic — likely "Pinkertons"; confirm]`.
+- She complained about a **neighbor's flowers** and asked whether the party
+  would **go beat up the neighbors** until they changed them.
+- They **showed her the *"Bring more to the mill. — V."* note**
+  ([the rat man](../bestiary/the-rat-man.md)). She **knew the mill** — it
+  grinds the **grain she grows in her garden** into her bread, the founder
+  houses' [garden-grain grinder](../encounters/the-mill.md). She offered to
+  send her **servant, Daniel**, to **show them the way on his next grain run
+  there, that afternoon.**
+
 ## The founder's plaque
 
 - After the fight — in
@@ -146,6 +173,27 @@
   Maalm noble — a bridge to burn or mend later), and **Sarric pocketed the
   potion gold** (a self-serving streak, and a lie waiting to surface — he
   owes a healing potion that doesn't exist).
+- **Lucrecia is now the party's road to the mill — and she's tied to it.**
+  The bank scene turned the improvised noble into the way in: she has her
+  **garden grain milled at the mill** (the same founder-house garden grain
+  the [mill writeup](../encounters/the-mill.md) already runs on), so she
+  **knows the place** and offered her servant **Daniel** to **guide the
+  party there on his afternoon grain run.** That is a clean, unsuspicious
+  approach — walking in behind a grain delivery — but on **her clock, this
+  afternoon**, not the mid-morning dash, which **widens the freed Ratatat's
+  window to warn V.** first (see the mill's time-race). Her classism carried
+  the scene: the caste map of Maalm, the **Alcatanni** skin treatments and
+  "how expensive her skin is," and her disdain for the Alcatanni's
+  **lower-city charity.** The **flowers errand** — send the party to rough
+  up a neighbor over their flowers — is a petty-tyrant hook to pull on if
+  wanted.
+- **New NPCs from the bank scene.** The **Alcatanni family** — the finest
+  healers in Maalm, elite skin-treatment providers to clients like Lucrecia,
+  and quietly running **charity in the lower city** that the elite disdain
+  them for: a healer house with a class conscience. `[OPEN]` their tie to
+  the al Qahtani healers and to either Foundation. **Daniel** — Lucrecia's
+  servant, who makes her **grain runs to the mill** and is set to guide the
+  party there.
 - **Blackacre holds the founder's epitaph now.** The plaque he read is
   Bedraageon's grave-inscription (the "lay of the last survivor") in
   Maalm's civic heart — the same square as the Session 1 ambush, so the
@@ -221,12 +269,14 @@
 - [ ] **The supply cart** — the party never dealt with it. Decide whether
       it matters (left at the gate, rented and owed back, still loaded).
 - [x] **What Ratatat gave up** — **V. is meeting him at a nearby mill.**
-- [ ] **The mill meeting** — build it (no writeup yet) and decide how the
-      party plays it: intercept, observe, or ambush **V.**, the
-      [First Foundation](../lore/the-first-foundation.md)'s Maalm agent
-      (`[OPEN]` who V. is). First contact with Preem's rivals. **Time race:**
-      the Dream Quest is tonight and it's mid-morning — if the party is too
-      slow, **Ratatat warns V.** and the mill turns up empty.
+- [ ] **The mill meeting** — built: [The Mill](../encounters/the-mill.md)
+      (V.'s writeup and stat block, the tunnel traps, the time-race). Still
+      to play, and to decide how the party takes first contact with **V.**,
+      the [First Foundation](../lore/the-first-foundation.md)'s Maalm agent:
+      intercept, observe, or spring it. **Route in found:** Lucrecia's
+      servant **Daniel** guides them on his **afternoon grain run** — clean
+      cover, but later than the mid-morning dash, so **more time for Ratatat
+      to warn V.** and leave the mill empty.
 - [ ] **Process the 20 rats** — dry/cure the meat before it spoils (the
       rat-meat prop), and get the party fed (leftover Goodberries + a real
       meal) before the ritual.
@@ -242,9 +292,16 @@
       (Aniess's **resurrection** read). Planned vehicle: **the Jasper beat**
       — the al Qahtani ask whether Jasper has a soul / is a construct /
       dreams, and admit they don't.
-- [ ] **Lucrecia** — new elite-caste contact. **Sarric owes a healing
-      potion** he took 50 gp for and never bought; **Aniess snubbed her.**
-      `[OPEN]` her tie to the [Second Foundation](../lore/the-second-foundation.md).
+- [ ] **Lucrecia** — elite-caste contact, now the party's road to the mill
+      (her man **Daniel** guides them on his afternoon grain run). **Sarric
+      owes a healing potion** he took 50 gp for and never bought; **Aniess
+      snubbed her.** Open hooks: the **flowers errand** (rough up a neighbor
+      over their flowers), and `[OPEN]` her tie to the
+      [Second Foundation](../lore/the-second-foundation.md).
+- [ ] **The Alcatanni family** — new NPCs: Maalm's **finest healers**, elite
+      skin-treatment providers, and quiet **charity in the lower city** the
+      elite look down on them for. `[OPEN]` a dedicated writeup, and their
+      tie to the al Qahtani healers / either Foundation.
 - [ ] **The docks — tomorrow 9 AM.** Run
       [Departure Under Fire](../encounters/docks-departure.md): a **send-off**
       turns into a **trumped-up arrest** (illegal export of the **20 rats**),

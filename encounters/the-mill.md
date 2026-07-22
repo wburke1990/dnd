@@ -146,6 +146,15 @@ The corrupt watch **walked Ratatat off** in the square's sham arrest, so he is
 **loose and short two fingers** — and he is the one who can warn V., because V.
 handles him by note, not by the Foundation's magic comms.
 
+**The party's route in (Session 6): Lucrecia's man Daniel.** At the bank the
+party learned the noble **Lucrecia** has her **garden grain milled here** — the
+founder-house garden grain the mill runs on — so she knows the place and offered
+her servant **Daniel** to **guide them on his afternoon grain run.** That is a
+clean way in — arriving behind a grain delivery instead of creeping the tunnels
+cold — but it moves first contact to **the afternoon**, later than the
+mid-morning dash, which **widens Ratatat's window to warn V.** Weigh the cover
+against the lost time.
+
 - **Fast — they catch it.** The party reaches the old chamber before Ratatat does,
   or as the **handoff is happening**: V. taking the maps, counting coin into the rat
   man's hand. Real first contact. What they do with it is theirs — watch, intercept,

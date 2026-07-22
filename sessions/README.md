@@ -27,9 +27,13 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 - **V. and the mill** (S6) — the interrogation turned the *"Bring more to
   the mill. — V."* note into a live lead: **V.**, the
   **First Foundation**'s one Maalm agent, is due to meet Ratatat at a
-  **nearby mill.** No mill/V. writeup yet (`[OPEN]` who V. is) — this is the
-  party's on-ramp to Preem's rivals, and the corrupt watch may already have
-  warned them.
+  **nearby mill.** Now built: [`encounters/the-mill.md`](../encounters/the-mill.md)
+  (V.'s writeup and stat block, the tunnel traps, the time-race). **Route
+  found (S6):** the noble **Lucrecia** has her garden grain milled there and
+  offered her servant **Daniel** to guide the party in on his **afternoon
+  grain run** — clean cover, but later than a mid-morning dash, so the freed
+  Ratatat has more time to warn V. and leave the mill empty. First contact
+  with Preem's rivals, still to play.
 - **Misplaced suspicion** (S2) — the party thinks the city-gate guides
   answer to **Preem**. They actually answer to the **rat man**. Payoff
   when they untangle it: Preem looks innocent, the rat man looks dangerous.
@@ -65,5 +69,10 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 - **Lucrecia** (S6) — a new **elite-caste** patron who thanked the party for
   the Ratatat fight (the severed fingers proved it wasn't a **staged**
   fight). She gave **Sarric 50 gp for a potion** (after **Aniess ignored
-  her**); **Sarric pocketed it** and bought nothing. `[OPEN]` her tie to the
+  her**); **Sarric pocketed it** and bought nothing. At the **bank** after,
+  she bought them tea, gave a **classist** tour of Maalm's castes, and became
+  the **route to the mill** — her servant **Daniel** will guide them on his
+  afternoon grain run. She named the **Alcatanni** (Maalm's finest healers,
+  who also run lower-city charity she looks down on) and dangled a **flowers
+  errand** (rough up a neighbor over their flowers). `[OPEN]` her tie to the
   **Second Foundation**.
