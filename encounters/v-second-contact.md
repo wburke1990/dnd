@@ -159,11 +159,13 @@ is also a spies-and-rumor den. So V. pitches them to betray Preem in a room buil
 on Preem's colonial wealth: the location argues her case with no exposition, and
 seeds the Company thread the soft way. It keeps the drink-steal.
 
-**Map candidates being opened in staging** (these are label-guesses — pick the
-one that actually reads as a coffeehouse / Company house): **The Coins `4b489d`**,
-**Merc Hall `dc9743`**, **High Rise Market `b00f40`**. Avoid a plain-tavern map —
-**Brick bar `b03586`** is the reused swap-tavern for the Twelve. The OW inventory
-now carries an opened-vs-unopened rule at the top (`tts/one-world-maps-inventory.md`).
+**Map candidates — opened and cleaned in staging.** Two remain in the running for
+the coffeehouse / Company house: **The Coins `4b489d`** and **Merc Hall `dc9743`**
+(Merc Hall came out sparse after cleanup — 85 dead pieces pruned — so eyeball it
+first). **High Rise Market `b00f40` is out** — it turned out to be an epic dwarf
+city (monolithic dwarf statues, 60+ minis), reserved for West Suartleheim
+instead. Avoid a plain-tavern map — **Brick bar `b03586`** is the reused
+swap-tavern for the Twelve. See `tts/one-world-maps-inventory.md` (Opened maps).
 
 ## The mural — the repainted founding `[OPEN: confirm]`
 
@@ -308,8 +310,9 @@ party through him: impressive in a fight, maybe not people she can hire. See
 
 ## Open threads
 
-- `[OPEN]` **Map** — pick from The Coins / Merc Hall / High Rise Market once
-  they're opened in staging.
+- `[OPEN]` **Map** — pick between The Coins and Merc Hall (both opened + cleaned
+  in staging; High Rise Market dropped — it's a dwarf city, reserved for West
+  Suartleheim).
 - `[OPEN]` **Mural** — confirm the repainted-Company-version approach.
 - `[OPEN]` **Timeline** — where the meeting slots against the 9 AM docks
   departure.

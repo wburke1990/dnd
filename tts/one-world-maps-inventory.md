@@ -80,6 +80,9 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | **Valience Farmhouse** | c3aa13 | 🔖 reserved — too rural | A primitive rural farmhouse — too rural for the mill. **Removed from staging** after eyeballing; banked for a later rural scene. Floor looked great despite "no plate detected → default vBase 25" (the default fit fine here). 22 dead-link pieces pruned — the **cleaned bag is stashed** at `~/Library/Tabletop Simulator/map-stash/farmhouse_clean_c3aa13.json`, so re-import from *there* (donor `c3aa13`) to skip re-pruning. |
 | **River Straight** | 6d9e46 | 🔖 reserved — river scene, not a mill | Beautiful: trees along both banks, a boat floating mid-river. Clean import (0 dead assets), floor plate-fit (vBase 18.14). Not a mill — **dropped from staging** to keep it lean; banked for a **river / boat / travel** scene. Clean donor, so re-import straight from `TS_Save_22` (`6d9e46`), no prune needed. |
 | **BlackSmiths House** | bc9404 | ❌ not usable — mislabeled | Not a smithy: an outdoor **forest** scene with 2 houses, some minis, and trees (floor image is `base_forest.jpg`). Floor URL dead (Google Sites) → black/white placeholder floor, and Build threw **20+ custom-token URL approval prompts**. Removed. |
+| **High Rise Market** | b00f40 | 🔖 **reserved — epic dwarf city** | Monolithic dwarf statues guarding the approach to a huge city built into cliffs; 60+ minis in the city. **Not a coffeehouse** — pulled from the V. coffeehouse shortlist. Reserved for **West Suartleheim** or another epic dwarf-city scene. Imported+pruned into staging (plate-fit vBase 10.3); 13 dead URLs, **48 pieces removed** in cleanup — eyeball that the statues/minis survived (they were rendering pre-prune, so should be the live ones kept). Steam-UGC floor image (decay-prone). |
+| The Coins | 4b489d | ⚠️ opened — coffeehouse candidate | Imported+pruned into staging as a V.-coffeehouse candidate (plate-fit vBase 13.27); 17 dead URLs, 7 pieces removed. Awaiting the user's read on whether it plays as a coffeehouse / Company house. |
+| Merc Hall | dc9743 | ⚠️ opened — heavily pruned | Imported+pruned into staging as a V.-coffeehouse candidate (no floor plate detected → default vBase 25). 25 dead URLs and **85 pieces removed** — likely sparse now; eyeball before using. Awaiting the user's read. |
 
 ---
 
@@ -196,14 +199,13 @@ The Abyssal Shelf - 7             5dc1a3
 The Abyssal Shelf - 8             b38d49
 ```
 
-## Cities & large towns (16)
+## Cities & large towns (15)
 
 ```
 Casle town                        de1c46
 Castle Town                       ec8490
 Fountain Park                     6d5362
 Gladiator Stadium                 af2ecf
-High Rise Market                  b00f40
 Inner Hearthglen                  d545b6
 Lindos                            36afeb
 New Hearthglen                    4dc821
@@ -232,7 +234,7 @@ Tiny town                         8d5e31
 Village                           615732
 ```
 
-## Inns, taverns, shops & interiors (15)
+## Inns, taverns, shops & interiors (14)
 
 ```
 BlackSmiths House                 bc9404
@@ -244,7 +246,6 @@ FH Building Interior              d3e410
 Hill town tavern                  d18d1c
 Jeny's Cottage Inside             b0e3ea
 Library Basement                  6f00b8
-Merc Hall                         dc9743
 Nonspecific Inn                   b2a074
 Snowy Tavern                      2b0984
 The Lion's Mane                   0353c3
@@ -462,7 +463,7 @@ River Straight                    6d9e46
 Twin Falls Encounter              441b2a
 ```
 
-## Encounters & misc scenes (20)
+## Encounters & misc scenes (19)
 
 ```
 Affluent Tree                     195d88
@@ -480,7 +481,6 @@ SoR Map 9                         3c6c3a
 SoR Map 10                        8ccc73
 Sqell                             f4cfb0
 Telemok                           338f26
-The Coins                         4b489d
 The Foundry                       56d9e9
 The Furnace                       73a4a3
 The Nexus Entrance                368b11
