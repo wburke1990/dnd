@@ -309,5 +309,7 @@ are locked, go back and add the rhymes — carefully.
 - [demons-and-the-hotspot](demons-and-the-hotspot.md) — bound vs. free demons;
   true death in the Abyss.
 - [ships-and-sea-power](ships-and-sea-power.md) — the two orc sagas to seed.
+- [saga-weather-omens](saga-weather-omens.md) — verified public-domain Heimskringla
+  passages for the mage-wind foreshadowing.
 - [characters/blackacre](../characters/blackacre.md) — whose choice decides the
   fleet.
