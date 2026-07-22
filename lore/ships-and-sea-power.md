@@ -179,6 +179,67 @@ bled for fell to **Mukka** and the small traders.
   in the north** (a Vinland / Greenland / Iceland — the lost colonies). See
   [the Muspel empire §5](the-muspel-empire.md).
 
+## Verified Heimskringla lines (Laing 1844) — to fold in `[added 7/22, nothing deleted]`
+
+These are checked character-by-character against Samuel Laing's 1844
+*Heimskringla* (public domain — Project Gutenberg #598), so they are safe to hand
+players word-for-word. Nothing above has been changed yet; these sit here to be
+reconciled with the quotes in the battle sections once the wording is settled —
+see the flag on the troll-women line below, and the fuller mage-wind palette in
+[saga-weather-omens](saga-weather-omens.md). Navigate the Svolder chapters by
+title, not number; the split differs between editions.
+
+**Svolder — the death-leap (verified wording).** *King Olaf Trygvason's Saga, ch.
+121, "The Serpent's Decks Cleared."*
+
+> "King Olaf and Kolbjorn the marshal both sprang overboard, each on his own side
+> of the ship; but the earl's men had laid out boats around the Serpent, and killed
+> those who leaped overboard. Now when the king had sprung overboard, they tried to
+> seize him with their hands, and bring him to Earl Eirik; but King Olaf threw his
+> shield over his head, and sank beneath the waters."
+
+and the skald Halfred's verse that closes the chapter:
+
+> "The Serpent and the Crane / Lay wrecks upon the main. / On his sword he cast a
+> glance,— / With it he saw no chance. / To his marshal, who of yore / Many a
+> war-chance had come o'er, / He spoke a word—then drew in breath, / And sprang to
+> his deep-sea death."
+
+**A sea-king overboard with his gold.** *King Olaf Trygvason's Saga, ch. 45, "Bue
+Throws Himself Overboard."* (Gutenberg-598 drops the apostrophe in `Bue's`.)
+
+> "Then Bue lifted up two chests full of gold, and called aloud, 'Overboard all
+> Bue['s] men,' and threw himself overboard with his two chests. Many of his people
+> sprang overboard with him."
+
+**Hjörungavágr — the real storm.** In Heimskringla the storm is the sacrifice and
+the hail, with no troll-women named. *King Olaf Trygvason's Saga, ch. 47, "Death of
+Gissur of Valders":*
+
+> "It was said that at this battle Earl Hakon had sacrificed for victory his son,
+> young Erling, to the gods; and instantly came the hailstorm, and the defeat and
+> slaughter of the Jomsborg vikings."
+
+and the hail itself, *ch. 44, "Earl Sigvalde's Flight":*
+
+> "A thunder-storm came on at this moment, and such a heavy hail-storm that every
+> hailstone weighed a pennyweight."
+
+> ⚠️ **The troll-women quote above is misattributed.** `[flag — needs Will's call]`
+> The line printed in the Hjörungavágr section ("arrows flew from the fingers of
+> the troll-women… every stone weighed an ounce") is **not** in Heimskringla — that
+> vivid version (Þorgerðr Hölgabrúðr and Irpa, ounce-hail) is from *Jómsvíkinga
+> saga*, whose English translations are all in copyright. Fix options and the
+> public-domain Old Norse are in [saga-weather-omens](saga-weather-omens.md).
+
+**A storm conjured against a fleet.** *Saga of Olaf Haraldson (St. Olaf), ch. 8,
+"The Third Battle."* A worked weather-attack thrown at a fleet.
+
+> "The Finlanders conjured up in the night, by their witchcraft, a dreadful storm
+> and bad weather on the sea; but the king ordered the anchors to be weighed and
+> sail hoisted, and beat off all night to the outside of the land. The king's luck
+> prevailed more than the Finlanders' witchcraft..."
+
 ## Sources — the saga lines
 
 The quotes above are faithful renderings, but the sagas survive in **many English
