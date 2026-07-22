@@ -47,8 +47,8 @@ Both motives got **stronger** from what actually played:
 ## Why she's blown and leaving
 
 **Daniel** is carrying the whole mill story back to
-**[Lucrecia](../sessions/session-07.md)**, who **gossips**, so the party's run-in
-with V. spreads through Maalm's elite fast — and can reach the
+**[Lucrecia](../sessions/session-07.md)**, who **gossips**, and the millers and guards may talk,
+so the party's run-ins with V. and ratatat will spread through Maalm's elite fast — and can reach the
 **[Second Foundation](../lore/the-second-foundation.md)**, whose ground this is.
 A First Foundation agent exposed on Second Foundation ground has to get out — the two
 orders have hunted each other for a **thousand years**, and exposure here means **death,
@@ -68,18 +68,19 @@ runs it:
 3. **She goes invisible** just before she comes into range, then closes to arm's
    reach.
 4. **She takes the atlas first** — the map is what this is for — then **plants a note
-   in each pocket**, her offers written out ahead of time, one per PC with the sum
-   for each service.
-5. **Then she sends a rat** with the invitation: meet at the coffeehouse (below) in
-   ≤30 minutes, short notice so they can't lay a trap.
+   in each pocket**, her offers written out ahead of time, one for Aniess and one for Pax,
+   with sums for each service.
+5. **Then she sends a rat** with the invitation: meet at the coffeehouse (below) in the 
+   merchant hall at the northern city docks in ≤30 minutes, short notice so they can't 
+   lay a trap. (The second hand meeting and Blackacre's ship are at the docks further south)
 6. **She walks the whole way with them, invisible at their elbow.** Head somewhere
-   other than the coffeehouse and she breaks off and is gone. Stop to plan an ambush
+   other than the coffeehouse and she follows and potentially ambushes. Stop to plan an ambush
    and she hears all of it — she is standing in the middle of the huddle.
 7. At the coffeehouse she **drops invisibility drinking Sarric's beer**, then lays out
    the offers and points each PC to the note already on them. Targeting **Sarric** is
    pointed — he is the one who bested her at the mill (disarm + crit) and threw a
    severed finger and a *coward* down the shaft after her; walking him to a room blind
-   and taking his beer is her answer, and she wins by leaving.
+   and taking his beer is her answer, and she won the mill fight by leaving.
 
 **Rules note — the hour holds.** Invisibility (2nd level) lasts an hour and ends only
 if she **attacks or casts a spell.** Lifting the atlas and planting notes with her
@@ -104,18 +105,27 @@ it** — no bonus a level-2 PC could stack would reliably stop her, so **don't s
 and don't let her auto-win either.** Give them the one chance a master still leaves — a
 **natural 20.**
 
-**For David — why this isn't the normal pickpocket rule.** By the book, picking a pocket
-is a contest: the thief's **Sleight of Hand** check against the mark's **passive
-Perception** (or an active Perception check if the mark is watching). V.'s Sleight of
-Hand is **+8**, and **Reliable Talent** turns any d20 of 9 or lower into a 10 — so her
-result is **never below 18** and averages about 20. A level-2 PC's passive Perception is
-roughly 12–15. Run it by the book and she **wins every time**: the map is simply gone, no
-roll for the players. That is the correct rule, and it feels bad — they lose their map on
-paper with nothing to do about it. So for this one lift we **drop the contest** and give
-the players the single out a thief this good still can't rule out: **a natural 20.** No
-DC, no modifiers — her mastery is the point, and no level-2 bonus should turn a long shot
-into a coin flip. The players still roll, still have a real (if slim) chance, and V.
-stays the level-10 professional she is.
+**For David — the actual math, and why this isn't the normal pickpocket rule.** By the
+book, picking a pocket is a contest: the thief's **Sleight of Hand** check against the
+mark's **passive Perception** (or an active Perception check if the mark is watching).
+Run those numbers here and the contest is already over:
+
+- **Her side — floor 18.** Sleight of Hand **+8** (Dex +4, proficiency +2 doubled by
+  Expertise to +4 → +8). **Reliable Talent** turns any d20 of 9 or lower into a 10, so
+  her die is **never below 10**: her result is **never below 10 + 8 = 18**, tops out at
+  20 + 8 = 28, and averages about **21**.
+- **Their side — ceiling ~15.** A level-2 PC's passive Perception is **10 + Wisdom mod +
+  proficiency (if any)**. Even the most perceptive PC at the table — Wis +3, proficient
+  (+2) — sits at **15**; most are **11–13**.
+- **So her worst roll (18) beats their best passive score (15) by three.** There is no
+  number on either die that lets them win the contest. Run it by the book and the map is
+  **simply gone** — no roll for the players, every time. That is the correct ruling, and
+  it feels bad: they lose their map on paper with nothing to do about it.
+
+So for this one lift we **drop the contest** and give the players the single out a thief
+this good still can't rule out: **a natural 20.** No DC, no modifiers — her mastery is the
+point, and no level-2 bonus should turn a long shot into a coin flip. The players still
+roll, still have a real (if slim) chance, and V. stays the level-10 professional she is.
 
 **1 — The atlas (before any invite).** On the approach, invisible and adjacent, she goes
 for the map first.
@@ -147,7 +157,26 @@ Catching her is a real win: they keep Preem's map and they have seen how she wor
 Foundation has the intelligence its whole Maalm operation was for. The party may not
 notice until they reach for it. `[OPEN]` when they find it gone, and what it costs.
 
-## The location — a Company coffeehouse `[OPEN: map]`
+**Contingencies — when the lift doesn't go clean (for David).** The meeting happens no
+matter how the lift goes; only what she walks in holding changes.
+
+- **She can't get the map (they catch the atlas lift).** Then she **legitimately has to
+  buy it.** The platinum offer stops being a flex over a theft and becomes a real
+  negotiation — she wants Preem's map, she couldn't take it, so she sits down and makes a
+  serious bid for it (the **50 pp** below, and she'll haggle up if pushed). This is the
+  best outcome for the party: they keep leverage and can sell or refuse.
+- **She can't plant the offer-notes** (caught, or no clean moment). The meeting **still
+  happens** — she just loses the *"the offer was already in your pocket"* flourish. She
+  makes the same offers out loud across the table instead. No mechanical loss to her plan,
+  only the demonstration.
+- **She drops invisibility during the legerdemain** (she's forced to cast, or a ruling
+  reveals her mid-lift). Now she is a blown First Foundation agent standing in the open in
+  front of a party that fought her at the mill — she **re-evaluates on the spot.** She
+  breaks off the lift, and depending on the room either talks fast (open the offer early,
+  hands visible, no theft) or leaves and tries the meeting later on her terms. She does
+  **not** press a lift she can't do unseen.
+
+## The location — a Company coffeehouse `[settled: Merc Hall]`
 
 Not the **Tavern of the Twelve** — that's Preem's rival crews' room, with Calix's
 quasit ([the rival crews](tavern-name-hunter-crews.md)); a spy who fears the
@@ -162,15 +191,17 @@ is also a spies-and-rumor den. So V. pitches them to betray Preem in a room buil
 on Preem's colonial wealth: the location argues her case with no exposition, and
 seeds the Company thread the soft way. It keeps the drink-steal.
 
-**Map candidates — opened and cleaned in staging.** Two remain in the running for
-the coffeehouse / Company house: **The Coins `4b489d`** and **Merc Hall `dc9743`**
-(Merc Hall came out sparse after cleanup — 85 dead pieces pruned — so eyeball it
-first). **High Rise Market `b00f40` is out** — it turned out to be an epic dwarf
-city (monolithic dwarf statues, 60+ minis), reserved for West Suartleheim
-instead. Avoid a plain-tavern map — **Brick bar `b03586`** is the reused
-swap-tavern for the Twelve. See `tts/one-world-maps-inventory.md` (Opened maps).
+**Map — Merc Hall `dc9743`** (in staging). A huge stone-floored hall with tables, rugs,
+boxes, hay, and trade goods — reads as a Company trading house / coffeehouse. The other
+two candidates are out: **The Coins `4b489d`** failed to build (custom-token import
+errors) and was removed; **High Rise Market `b00f40`** turned out to be an epic dwarf
+city (monolithic dwarf statues, 60+ minis) — reserved for West Suartleheim, stashed out
+of staging. See `tts/one-world-maps-inventory.md` (Opened maps).
 
-## The mural — the repainted founding `[OPEN: confirm]`
+## The mural — the repainted founding `[OPEN: on the fence]`
+
+**Undecided** whether to put this mural in Merc Hall at all — it may be more than the
+scene needs, or not fit the trading-hall read. Left in as an option, not committed.
 
 On a wall of the coffeehouse: the **Company's restored, gilded version** of the
 Ammit/Bedraageon founding — Bedraageon triumphant, Ammit a monster cleanly slain,
@@ -313,10 +344,11 @@ party through him: impressive in a fight, maybe not people she can hire. See
 
 ## Open threads
 
-- `[OPEN]` **Map** — pick between The Coins and Merc Hall (both opened + cleaned
-  in staging; High Rise Market dropped — it's a dwarf city, reserved for West
-  Suartleheim).
-- `[OPEN]` **Mural** — confirm the repainted-Company-version approach.
+- `[settled]` **Map** — **Merc Hall `dc9743`**, in staging (stone-floored trading
+  hall). The Coins failed to build and was removed; High Rise Market is a dwarf
+  city, stashed for West Suartleheim.
+- `[OPEN]` **Mural** — on the fence about including it in Merc Hall at all (see
+  [The mural](#the-mural--the-repainted-founding-open-on-the-fence)).
 - `[OPEN]` **Timeline** — where the meeting slots against the 9 AM docks
   departure.
 - `[OPEN]` **Coffeehouse name and keeper** — every Nila tavern-keeper is a
