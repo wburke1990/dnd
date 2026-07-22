@@ -92,34 +92,27 @@ she takes it.
 
 ## The legerdemain sequence — does she get the atlas?
 
-`[settled — table]` **She lifts the map; don't script it, check for it.** V. takes the
-atlas with her own hands, invisible and against them: **Sleight of Hand +8**, and
-**Reliable Talent** floors her at **18** (she averages ~20). She is a level-10 master,
-so **she usually gets it — but the party always rolls for it, and a natural 20 always
-catches her.** The rolls, in the order she acts:
+`[settled — table]` **She lifts the map; the players' one out is a natural 20.** V. is a
+level-10 master, invisible and standing against them, lifting with her own hands
+(**Sleight of Hand +8**, **Reliable Talent**). At this gap in level she simply **takes
+it** — no bonus a level-2 PC could stack would reliably stop her, so **don't set a DC,
+and don't let her auto-win either.** Give them the one chance a master still leaves:
 
 **1 — The atlas (before any invite).** On the approach, invisible and adjacent, she goes
 for the map first.
-- **Who rolls:** the PC **carrying the atlas** rolls **one active Perception check** —
-  never passive. (Her floor of 18 beats any level-2 passive Perception, so passive would
-  just hand it to her; the active roll is what gives the party a real chance.) A watching
-  ally may roll in their place if their Perception is higher. **One check.**
-- **DC 20** — V.'s Sleight of Hand (her Reliable-Talent average; roll d20+8 for swing if
-  you like, never below 18). A **natural 20 always catches her**, whatever the bonus — so
-  there is **always at least a 1-in-20**, however good she is.
-- **Advantage, or −5 to the DC,** for real care: atlas **in hand**, in a **sealed case**,
+- **The carrier rolls one d20 Perception. Only a natural 20 catches her** — bonuses do
+  not matter, it is the die alone (a flat 1-in-20). Give **advantage** (roll two d20s,
+  a 20 on either) if they have taken real care: atlas **in hand**, in a **sealed case**,
   or a **declared watch** on the pack.
-- **Beat it:** they feel the hand and keep the map — a sign they are not alone. **Miss
-  it:** the atlas is gone before she has even sent the rat, and she runs the offer
-  holding it.
+- **Natural 20:** they feel the hand and keep the map — and know someone unseen is right
+  on them.
+- **Anything else:** the atlas is gone before she has even sent the rat, and she runs the
+  meeting holding Preem's map.
 
-**2 — The pockets: her offers.** Same hands, same moment — she **plants a note in each
-PC's pocket**, her offer and the price for each service.
-- **Each PC rolls one active Perception check, DC 20** (natural 20 always catches her) —
-  the same as the atlas.
-- **Notice it** and you know someone unseen is on you before she ever shows herself — a
-  chance to move first. **Miss it** and the first you know is the note in your pocket
-  when she drops invisibility over Sarric's beer.
+**2 — The offers.** In the same unseen pass she **plants a note in each PC's pocket** —
+her offer and the price for each service. **No separate roll:** the natural 20 above, if
+it lands, catches the whole thing; otherwise the notes go in unfelt, and the first they
+know is the note in their pocket when she drops invisibility over Sarric's beer.
 
 **3 — The rats: shadows and messengers.** The rats tailing them, the courier she sends,
 the one that runs off down a crack when the meeting turns.
@@ -127,10 +120,9 @@ the one that runs off down a crack when the meeting turns.
   Ratatat's rats, now hers, keeping a tail and carrying word. Catching it tells them how
   she found them, and that whatever she took is already moving.
 
-**If they catch her (stage 1 or 2):** she does not fight for it — she is blown and on
-her way out. She still sends the offer (she wants them turned) and goes without the
-atlas. Catching her is a real win: they keep Preem's map and they have seen how she
-works.
+**If the natural 20 lands:** she does not fight for it — she is blown and on her way
+out. She still sends the offer (she wants them turned) and goes without the atlas.
+Catching her is a real win: they keep Preem's map and they have seen how she works.
 
 **Default:** V. leaves with the party's atlas — Preem's own crew-map — and the First
 Foundation has the intelligence its whole Maalm operation was for. The party may not
