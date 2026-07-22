@@ -219,12 +219,15 @@ and can surface again inside the same battle — free if its binder has fallen, 
 dragged back up to be bound anew. The beach does not empty; the dead keep coming
 back up.
 
-**Dragons — rumor, for now.** Canon has demons *surfacing* on Moku and only
-*rumors* of dragons — the coming pass's other pole (see
-[campaign-overview](campaign-overview.md)). The dragonborn *mean* to re-seat
-dragons on Moku (see [lonka-jotunheim](lonka-jotunheim.md)), but that is intent,
-not a sighting. Whether a dragon actually enters this battle, or the dragon-side
-stays a pressure over the horizon, is open. **[loose]**
+**Dragons stay out until the volcano.** `[settled — Will, 7/22]` No dragon fights
+in the Moku landing. Canon keeps demons *surfacing* on Moku and only *rumors* of
+dragons — the coming pass's other pole (see
+[campaign-overview](campaign-overview.md)); the dragonborn *mean* to re-seat dragons
+on Moku (see [lonka-jotunheim](lonka-jotunheim.md)), but the sky-dragon is held for
+the climax — the volcano, with the star falling (the Ragnarok pass; see
+[the-second-foundation](the-second-foundation.md)). On the beach the dragon stays a
+rumor and a pressure over the horizon; the fight there is demon against demon
+against demon. The sky-dragon comes only when the star is falling.
 
 **How it goes, and why it matters.** Artillery first, then the demons in through the
 fog, then the Wind Walk insertion behind the line — then the fleet's free demons and
