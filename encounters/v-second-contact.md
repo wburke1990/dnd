@@ -47,7 +47,9 @@ Both motives got **stronger** from what actually played:
 **[Lucrecia](../sessions/session-07.md)**, who **gossips**, so the party's run-in
 with V. spreads through Maalm's elite fast — and can reach the
 **[Second Foundation](../lore/the-second-foundation.md)**, whose ground this is.
-A First Foundation agent exposed on Second Foundation ground has to get out.
+A First Foundation agent exposed on Second Foundation ground has to get out — the two
+orders have hunted each other for a **thousand years**, and exposure here means **death,
+not arrest** (see [the First Foundation](../lore/the-first-foundation.md)).
 `[OPEN]` who hears the rumor and what it costs.
 
 ## The staging (the fun part)
@@ -252,43 +254,47 @@ party without breaking the purse. The per-service jobs and prices are below.
 
 ## The offers — jobs and pay (the pocket-notes)
 
-`[settled — table]` **What V. is hiring for.** She wants the party as **embedded assets**
-inside Preem's operation: they keep working for Preem (their cover) and feed the First
-Foundation what they see. She is a lone, compartmentalized agent, so there is **no salary
-and no standing meeting** — she pays **per delivery, in platinum, to a drop** (a rat
-courier or a chalk-mark signal she sets in the notes). Each PC's note names the work and
-the price.
+`[settled — table]` **She hires them as double agents.** They keep working for Preem —
+their cover — and feed the First Foundation what they see. She is a lone,
+compartmentalized agent, so there is **no salary and no standing meeting:** she pays **per
+delivery, to a drop** (a rat courier or a chalk-mark signal she sets in the notes). Each
+PC's note names the work and the price.
 
 **The code is the string.** Every job carries the same condition: **no torture, no bodies
 she has to explain, don't burn her contacts, don't blow the cover.** Break it and she is
 gone — the whole reason she is choosy about them.
 
-**The menu (platinum; tune the numbers to taste):**
-- **Sign-on** — she fronts each of them **~10 pp** to take the work at all, good faith.
-- **A copy of every atlas** Preem gives them or they see — **20 pp each.** (The thing
-  Ratatat never landed; now she buys it off the crew direct.)
-- **Each assignment reported** — where Preem sends them, what he has them collect —
-  **~10 pp.**
-- **Each true name they gather for Preem, relayed to her** — **~20 pp.** (She wants the
-  names badly, and does not yet know what they are *for* — DM note below.)
-- **Naming Preem's other crews and go-betweens** (the Second Hand, the rival crews) —
-  **~25 pp** apiece.
-- **Anything lifted off Preem himself or his tower** — an instruction, a gift, a document
-  — **50–150 pp** by value.
-- **The standing brief — what is Preem building toward?** A real, verified answer is
-  worth **~250 pp**, the biggest number on the table and the one she most wants.
-- **Active work** — obstruct or spoil a named Preem operation — **100 pp and up,** by
-  risk, negotiated per job.
+**Keep the pay small.** These are level-2 wages, not the map. Anchor: the whole tomb
+quest paid the party **~85 gp for seventeen names**
+([the names ledger](../sessions/session-05.md)), so intel work is **a handful of gold a
+delivery** and the 50-pp map is the one windfall on the table. Numbers to tune:
+- **Sign-on** — a few gp each, good faith.
+- **A copy of any atlas** Preem gives them — **~25 gp each** (she has the main one now;
+  copies are worth less, but she still buys them).
+- **Each errand reported** — where Preem sends them, what he has them do and bring back —
+  **~5 gp.**
+- **Naming Preem's other crews and go-betweens** — **~10 gp** apiece.
+- **Anything lifted off Preem or his tower** — a document, a gift, an instruction —
+  **~10–40 gp** by value.
+- **The standing brief — what is Preem really doing, and building toward?** — a full
+  quest's pay, **~50 gp**, for a real, verified answer. The one she wants most.
+- **Active work** — obstruct or spoil a named Preem operation — **negotiated, ~25 gp and
+  up** by risk.
 
-*(DM — the demon army. The First Foundation does **not** yet know Preem is binding a
-**demon army** — his tower's servants, the endgame host, and the volcano-demon that caps
-it ([Preem's demons](../characters/preems-demons.md),
-[overview](../lore/campaign-overview.md)). Neither V. nor the party knows it here. Her
-"what is Preem building toward" brief is the paid thread that eventually surfaces it —
-the party discovering the demon army is a later reveal
-([preems-demons.md](../characters/preems-demons.md)), and it lands hardest on **Aniess**
-([aniess.md](../characters/aniess.md)). Don't let V. name it; she is paying to find out
-what the party will one day find for her.)*
+*(DM — two things she does **not** know yet.
+**1. The name quest.** V. has no idea Preem has the party collecting **true names** (~17
+names for ~85 gp — [the tomb quest](../sessions/session-05.md)). She can't ask for what
+she doesn't know exists, so her offers stay general — report your errands, copy your
+maps, bring back what you can. She **learns about the names through the party's reports,**
+and that Preem is gathering ancient true names is a real discovery for the First
+Foundation.
+**2. The demon army.** She likewise doesn't know Preem is binding a **demon army** — his
+tower's servants, the endgame host, the volcano-demon that caps it
+([Preem's demons](../characters/preems-demons.md), [overview](../lore/campaign-overview.md)).
+Her "what is he building toward" brief is the paid thread that surfaces both, and the
+party discovering the demon army is a later reveal that lands hardest on **Aniess**
+([aniess.md](../characters/aniess.md)). Don't let V. name either; she is paying to find
+out what the party will one day find for her.)*
 
 ## Sarric — why V. hesitates
 

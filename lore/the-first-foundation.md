@@ -92,7 +92,17 @@ climax (the "names & ownership" thesis made concrete — see [campaign overview]
 **weaker than the Second now** — diminished, and its **present headquarters is
 unlocated** `[OPEN]` — but it **knows the Second.** That is the asymmetry: the First
 watches Preem's people, while Preem's people mostly don't know the First still moves
-against them. But Maalm is the Second
+against them.
+
+`[settled — chat]` **A thousand years of being hunted.** The two orders have been open
+enemies since the sabotage (~1,000 ya). After that Ragnarok the Second moved to **hunt
+down and kill the First's survivors,** and has kept at it since — a First Foundation
+agent found on Second Foundation ground is not arrested, they are killed. The war has run
+a thousand years and both orders still stand, which is a measure of how careful the
+weaker side learned to be. The remnant's **paranoia and op-sec are that history made into
+method:** a single exposed agent, no network to roll up, real comms by magic.
+
+But Maalm is the Second
 Foundation's own city and they are **ruthless,** so the remnant operates with hard
 **operational security:**
 
