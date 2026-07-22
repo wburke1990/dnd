@@ -69,7 +69,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   Planned reveal: the **Jasper beat** (the al Qahtani ask if he has a soul /
   dreams, and admit they don't). `[OPEN]` whether the family wants a
   **resurrection**. Not yet played: [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
-- **Lucrecia** (S6–S7) — a new **elite-caste** patron who thanked the party
+- **[Lucrecia](../characters/lucrecia.md)** (S6–S7) — a new **elite-caste** patron who thanked the party
   for the Ratatat fight (the severed fingers proved it wasn't a **staged**
   fight). She gave **Sarric 50 gp for a potion** (after **Aniess ignored
   her**); **Sarric pocketed it** and bought nothing. **S7:** at the bank she
