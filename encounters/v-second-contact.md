@@ -52,65 +52,77 @@ A First Foundation agent exposed on Second Foundation ground has to get out.
 
 ## The staging (the fun part)
 
-- A **rat** brings the party a note after the Dream Quest: meet V. at the
-  coffeehouse (below) in ≤30 minutes — short notice so they can't set a trap.
-- V. is **invisible beside them the whole walk over**, so she anticipates any
-  funny business, and **plants a note in each pocket** (her offers, with the sum
-  she'll pay for each service). Mechanically legal on her sheet: **Mage Hand
-  Legerdemain** picks a pocket at 30 ft invisibly; **Sleight of Hand +8**. That
-  same invisible hand **lifts the party's atlas** on the walk over — the theft the
-  whole meeting is really for (see
-  [the legerdemain sequence](#the-legerdemain-sequence--does-she-get-the-atlas)).
-- Opening beat: she **lifts Sarric's drink and drinks it in front of him as she
-  drops invisibility**, then lays out the offers and points each PC to the note
-  already in their pocket. Targeting **Sarric** is pointed — he's the one who
-  **bested her** at the mill (disarm + crit). The whole entrance is her **answer**
-  to the finger-and-taunt he threw down the shaft: you called me a coward and
-  threw my man's finger after me; I walked you here blind and took your beer. She
-  can turn "coward" back flat — she wins by leaving, and just proved it.
+`[settled — table]` **She robs them before she ever invites them.** The order she
+runs it:
+
+1. **She springs Ratatat.** V. gets [Ratatat](../bestiary/the-rat-man.md) out of
+   custody — the sham arrest walked him off in [S7](../sessions/session-07.md)
+   (`[OPEN]` how real that "prison" is). With him back, his **rats** work for her
+   again.
+2. **The rats find the party** and keep a tail on them, leading her to wherever they
+   are.
+3. **She goes invisible** just before she comes into range, then closes to arm's
+   reach.
+4. **She takes the atlas first** — the map is what this is for — then **plants a note
+   in each pocket**, her offers written out ahead of time, one per PC with the sum
+   for each service.
+5. **Then she sends a rat** with the invitation: meet at the coffeehouse (below) in
+   ≤30 minutes, short notice so they can't lay a trap.
+6. **She walks the whole way with them, invisible at their elbow.** Head somewhere
+   other than the coffeehouse and she breaks off and is gone. Stop to plan an ambush
+   and she hears all of it — she is standing in the middle of the huddle.
+7. At the coffeehouse she **drops invisibility drinking Sarric's beer**, then lays out
+   the offers and points each PC to the note already on them. Targeting **Sarric** is
+   pointed — he is the one who bested her at the mill (disarm + crit) and threw a
+   severed finger and a *coward* down the shaft after her; walking him to a room blind
+   and taking his beer is her answer, and she wins by leaving.
+
+**Rules note — the hour holds.** Invisibility (2nd level) lasts an hour and ends only
+if she **attacks or casts a spell.** Lifting the atlas and planting notes with her
+**own hands** — invisible and adjacent, Sleight of Hand +8 — is neither, so she does
+it by hand, **not** by recasting Mage Hand (a cantrip is a spell and would drop her).
+She casts nothing from the moment she turns invisible until she chooses to reappear,
+so the whole tail runs inside one Invisibility with no risk of it falling.
 
 ## The legerdemain sequence — does she get the atlas?
 
-`[settled — table]` **She lifts the map; don't script it, check for it.** V.'s play
-this meeting is to **take the party's atlas**, and as a level-10 Arcane Trickster she
-does it the way Ratatat never could: **Mage Hand Legerdemain** (an **invisible hand,
-pick a pocket at 30 ft**) behind **Sleight of Hand +8** and **Deception +10**, with
-**Reliable Talent** flooring both. Against a level-2 party those numbers mean **she
-usually gets it** — but a careful party can catch her. Run it as a short series of
-checks, in order:
+`[settled — table]` **She lifts the map; don't script it, check for it.** V. takes the
+atlas with her own hands, invisible and standing right against them (**Sleight of Hand
++8**, with **Reliable Talent** flooring the roll at 18; **Deception +10** to cover a
+slip). Against a level-2 party that number means **she usually gets it** — but a careful
+party can catch her. The rolls, in the order she acts:
 
-**1 — The walk over: keeping the atlas.** She is **invisible at their elbow the whole
-way** to the coffeehouse. Somewhere on that walk the hand goes for the atlas.
-- Carrier's **passive Perception vs. V.'s Sleight of Hand** (min 18 by Reliable
-  Talent); **DC 18 active Perception** if someone is deliberately minding it.
-- **Fail:** the atlas is gone **before they sit down** — she has already stolen it by
-  the time they meet, and runs the offer holding it.
-- **Pass:** they keep it, and feel the brush — a tell they are not walking alone.
-- **Advantage / auto-keep** for the obvious care: atlas sealed in a case, carried in
-  hand, a declared guard on the pack.
+**1 — The atlas (before any invite).** On the approach, invisible and adjacent, she goes
+for the map first.
+- Carrier's **passive Perception vs. her Sleight of Hand** (min 18); **DC 18 active
+  Perception** if someone is deliberately minding it.
+- **Fail:** the atlas is gone before she has even sent the rat — she is holding it
+  before they know a meeting is on offer.
+- **Pass:** they keep it, and feel the brush — a sign they are not alone.
+- **Advantage / auto-keep** for the obvious care: atlas in a sealed case, carried in
+  hand, a guard set on the pack.
 
-**2 — The pockets: her offers.** The same hand **plants a note in each PC's pocket**
-(her offer and the price for each service) — and lifts as it plants.
-- Per PC: **passive Perception vs. Sleight of Hand** (min 18) to feel the hand.
-- **Notice it** and you know, before the reveal, that someone invisible is on you — a
-  chance to act first. **Miss it** and the first you know is the note in your pocket
-  when she drops invisibility and drinks Sarric's beer.
+**2 — The pockets: her offers.** Same hands, same moment — she **plants a note in each
+PC's pocket**, her offer and the price for each service.
+- Per PC: **passive Perception vs. her Sleight of Hand** (min 18) to feel the hand.
+- **Notice it** and you know someone unseen is on you before she ever shows herself — a
+  chance to move first. **Miss it** and the first you know is the note in your pocket
+  when she drops invisibility over Sarric's beer.
 
-**3 — The rats: shadows and messengers.** The **rat that brought the note**, the rats
-in the room's corners, the one that **slips off down a crack** when the meeting turns.
-- **DC 15 Perception / Investigation:** the rats move *with* her and *watch* the
-  party — a rat-borne watch-and-relay net (Ratatat's rats put to her own use).
-  Clocking it is intel: she tracked them here, and whatever she took is already moving.
+**3 — The rats: shadows and messengers.** The rats tailing them, the courier she sends,
+the one that runs off down a crack when the meeting turns.
+- **DC 15 Perception / Investigation:** the rats move with her and watch the party —
+  Ratatat's rats, now hers, keeping a tail and carrying word. Catching it tells them how
+  she found them, and that whatever she took is already moving.
 
-**If they catch her (stage 1 or 2):** she does not fight for it — she is blown and
-leaving. She keeps the offer on the table (she still wants them turned) and goes
-without the atlas, filing the loss. The catch is a real win: they keep Preem's map and
-they have measured her.
+**If they catch her (stage 1 or 2):** she does not fight for it — she is blown and on
+her way out. She still sends the offer (she wants them turned) and goes without the
+atlas. Catching her is a real win: they keep Preem's map and they have seen how she
+works.
 
-**Default (she gets it):** V. walks out with the party's atlas — Preem's own crew-map
-— and the First Foundation finally has the intelligence its whole Maalm operation was
-for. The party may not notice until they reach for it. `[OPEN]` when they discover it
-is gone, and what it costs.
+**Default:** V. leaves with the party's atlas — Preem's own crew-map — and the First
+Foundation has the intelligence its whole Maalm operation was for. The party may not
+notice until they reach for it. `[OPEN]` when they find it gone, and what it costs.
 
 ## The location — a Company coffeehouse `[OPEN: map]`
 
