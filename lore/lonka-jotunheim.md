@@ -197,10 +197,11 @@ guarded channel.
 ## 6. The Zealot Fleet — sailing to Moku `[draft — endgame]`
 
 An endgame thread. The Lonka Zealots raise a fleet at Jotunheim and sail to **Moku
-Kurunatuka** to take the island where the dragons are now gathering. Whether they do it by
-**bringing god-stone** or by **killing everyone already living there** is undecided, and
-turns on **[Blackacre](../characters/blackacre.md)**. Either way the fleet reaches the
-[Moku finale](campaign-overview.md) as a third naval power beside the two Foundations.
+Kurunatuka** to take the island where the dragons are now gathering and reclaim them with
+**god-stone**. Whether they **also kill everyone already living there** — a second Lonka —
+is undecided, and turns on **[Blackacre](../characters/blackacre.md)**. Either way the
+fleet reaches the [Moku finale](campaign-overview.md) as a third naval power beside the two
+Foundations.
 
 - **The zealots can still put to sea.** They hold a fortress now, but the dragonborn were
   once **the only people on Nila with ships** (§4) and built the Muspel fleets. The fleet
@@ -222,16 +223,19 @@ turns on **[Blackacre](../characters/blackacre.md)**. Either way the fleet reach
   ([overview, "the clock"](campaign-overview.md)) means something to them while the rest of
   the world reads nothing in it — they know a reconsecration is due, and roughly when.
 
-- **What the fleet does at Moku.** They come to take the island. Two ways it can go, not
-  yet decided:
-  - **Bring god-stone.** Carry a shard of **Taniyn's heart-stone** (§5), or catch falling
-    comet-stone at the pass the way [Kuru re-forges its phoenix](kuru-and-the-phoenix.md),
-    and re-seat the dragons on Moku without emptying it. This is close to what Preem does
-    with the magma demon ([the Second Foundation](the-second-foundation.md)) — taking hold
-    of a power instead of following it, the island-bound zealot instinct.
-  - **Kill everyone on the island.** Take the holy ground back the way they took Lonka
-    (§4): the colonists put to the sword, Moku made a second Lonka.
-  - Which way it goes is Blackacre's to settle at the finale (see
+- **What the fleet does at Moku.** They come to take the island and get their gods back.
+  Two separate questions, both open — and **not** either/or; they can do both:
+  - **Reclaiming the dragons — god-stone.** Carry a shard of **Taniyn's heart-stone** (§5),
+    or catch falling comet-stone at the pass the way
+    [Kuru re-forges its phoenix](kuru-and-the-phoenix.md), and re-seat the dragons on Moku.
+    This is close to what Preem does with the magma demon
+    ([the Second Foundation](the-second-foundation.md)) — taking hold of a power rather than
+    following it, the island-bound zealot instinct.
+  - **The colonists — sword or not.** Whether they also kill everyone living on Moku, the
+    way they emptied Lonka (§4) — a second Lonka — or take the island and leave its people
+    standing. This is separate from the god-stone; a fleet that reclaims the dragons may
+    slaughter the colonists too.
+  - Both are Blackacre's to settle at the finale (see
     [Blackacre](../characters/blackacre.md)).
 
 - **What the archipelago sees.** The last time dragonborn came by sea in numbers they

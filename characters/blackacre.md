@@ -79,17 +79,19 @@ him to lead their fleet** — the fleet that sails to Moku to take the island wh
 dragons are gathering (see [lore/lonka-jotunheim.md §6](../lore/lonka-jotunheim.md)). His
 answer is the climax of his arc. Three choices:
 
-1. **Accept, and lead the attack.** He becomes the zealots' admiral, and Moku is taken the
-   way Lonka was — the colonists killed, a second Lonka. The zealot creed wins, and the
-   wandering way ends with its own hero leading the slaughter.
-2. **Accept, and hold the fleet back.** He takes command and turns it from killing the
-   islanders to re-seating the dragons with god-stone — the harder path, since he has to
-   hold the command and refuse to use it that way. The rift closes the way he wanted.
+1. **Accept, and lead the attack.** He becomes the zealots' admiral. They reclaim the
+   dragons with god-stone and take Moku the way they took Lonka — the colonists killed, a
+   second Lonka. The zealot creed wins, and the wandering way ends with its own hero
+   leading the slaughter.
+2. **Accept, and spare the island.** He takes command and gets the dragons back — the
+   god-stone still goes up — but stops the massacre, taking Moku without emptying it. The
+   harder path, since he has to hold the command and refuse to use it that way. The rift
+   closes the way he wanted.
 3. **Refuse, and fight the fleet.** He turns on his own people to stop the killing.
 
-His answer also decides how the fleet takes Moku — **god-stone** or **killing everyone on
-the island** (see [lore/lonka-jotunheim.md §6](../lore/lonka-jotunheim.md)). We **don't
-settle any of it in advance** — we see where his character is when we get there.
+The god-stone reclaims the dragons either way; what his answer decides is **whether the
+colonists on Moku are put to the sword** (see [lore/lonka-jotunheim.md §6](../lore/lonka-jotunheim.md)).
+We **don't settle any of it in advance** — we see where his character is when we get there.
 
 **Give him practice first.** A choice this large shouldn't be the first time he faces it,
 so put smaller versions of it in front of him along the way: power over a beaten enemy, and
