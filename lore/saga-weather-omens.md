@@ -196,6 +196,55 @@ Harald Gille, ch. 10 ("The Rise of War in Konungahella").*
   6A/6B for weather breaking a fleet; 5A–5C for the boarding once the fast craft
   close.
 
+## The troll-women line — public-domain Old Norse to translate ourselves `[added 7/22]`
+
+The vivid imagery can be rebuilt from genuinely public-domain Old Norse, so we do
+not need the copyrighted English translations at all — we translate the Norse
+ourselves. What was reachable, and what still needs a fetch:
+
+**The ounce-hail — verified.** Snorri's *Óláfs saga Tryggvasonar* (Heimskringla)
+tells the storm with no goddess named:
+
+> Þá gørði íllviðri ok él svá mikit at haglkornit eitt vá eyri.
+
+"Then there arose foul weather and so great a squall that a single hailstone
+weighed an ounce." Corroborated by Zoëga's *Concise Dictionary of Old Icelandic*
+(1910), under *vega*: **hvert haglkorn vá eyri**, "each hailstone weighed an ounce."
+(The verb *vá*, "weighed," is also the past of *vega*, "to slay.") Source: the
+medieval wording is public domain; normalized text from Gordon & Taylor, *An
+Introduction to Old Norse*.
+
+**The arrow from each finger — verified as a fixed saga formula, but from another
+saga.** The exact idiom is in *Örvar-Odds saga*, of the warrior Álfr:
+
+> hann skýtr ör af hverjum fingri ok hefir mann fyrir hverri.
+
+"he shoots an arrow from each finger and kills a man with each." The same formula
+recurs in *Þorsteins saga Víkingssonar*. In the Þorgerðr version the verb is *flýgr
+/ fló* — an arrow *flies* from each finger.
+
+**What could not be fetched here.** The exact *Jómsvíkinga saga* sentence that puts
+both the arrows and the hail on Þorgerðr (and Irpa) — af Petersens' AM 291 edition,
+and the *Óláfs saga en mesta* / Flateyjarbók version — is public domain, but every
+host that carries it (heimskringla.no, archive.org, Wikisource) is blocked from this
+environment. To lock a true-verbatim Þorgerðr handout, fetch that passage from an
+open machine, or paste it in, and we translate it exactly.
+
+**Our own candidate translation** (from the public-domain Norse above, not from any
+copyrighted edition) — **[draft]**:
+
+> An arrow flew from each of her fingers, and each one was a man's death; and the
+> hail fell so heavy that a single stone weighed an ounce.
+
+A barer version in house style:
+
+> From every finger an arrow flew, and each one killed a man; and the hail fell so
+> heavy a single stone weighed an ounce.
+
+The repo's current line tracks the real Norse closely, so it reads as a faithful
+translation, not a lift from a copyrighted edition. It needs correct attribution
+(Heimskringla for the hail; the saga formula for the arrows), not deletion.
+
 ## The troll-women fix — options for Will
 
 1. **Swap the quote for the real PD Heimskringla lines** (2A + 2B) in
