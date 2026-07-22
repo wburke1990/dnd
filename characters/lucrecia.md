@@ -1,10 +1,10 @@
-# Lucrecia — an old-family noble of Maalm
+# Lucrecia — of House Vettia
 
 > **Wealthy new-money NPC**, improvised at the table in
 > [Session 6](../sessions/session-06.md) and drawn out in
-> [Session 7](../sessions/session-07.md). A wealthy **human** of Maalm's good
-> merchant district — the [al Qahtani](the-children.md)'s neighbor, a little
-> southwest of the star fort — who became the party's way into [the mill](../encounters/the-mill.md)
+> [Session 7](../sessions/session-07.md). A wealthy **human** of **House Vettia** — new-money in the good
+> merchant district southwest of the star fort, the [al Qahtani](the-children.md)'s
+> neighbor — who became the party's way into [the mill](../encounters/the-mill.md)
 > — she has her garden grain milled there, and lent her servant Daniel to guide
 > them. A patron of the [al Qahtani](the-children.md) healers, and a gossip.
 > `[OPEN]` any tie to the [Second Foundation](../lore/the-second-foundation.md).
@@ -37,9 +37,30 @@
   ([their house](../encounters/the-dream-quest.md)). She is **jealous of it**,
   and pointedly **did not mention it** when she named them Maalm's finest
   healers.
-- `[OPEN]` Her **house name** (still to pick), and any tie to the
-  [Second Foundation](../lore/the-second-foundation.md), the founders'-quarter
-  elite's inner faction.
+- `[OPEN]` Any tie to the [Second Foundation](../lore/the-second-foundation.md),
+  the founders'-quarter elite's inner faction.
+
+## Heritage — which she denies
+
+- `[settled — table]` **House Vettia (the Vettii)** — a **new-money merchant
+  house**, not one of Maalm's founding families.
+- `[settled — table]` Her line does **not** run to the founders. She descends
+  from the **ancient Maalm-empire people who survived the Dark Age
+  underground**, in the **tunnels the city was later built over** — the same
+  underground-survival heritage the [al Qahtani](the-children.md) carry (see the
+  legend in [the Dream Quest](../encounters/the-dream-quest.md), and
+  [the deep / under-city](../lore/maalm-the-elven-stronghold.md)).
+- `[settled — table]` **She rejects it.** Where **Ghassan al Qahtani** was
+  Maalm's last old-gods believer and **embraced** that descent and faith,
+  Lucrecia **buries hers** — she climbs into respectable merchant society and
+  looks down, hard, on the lower city. Her classism reads as a social climber
+  burying old and low origins.
+- 🔒 `[OPEN]` **Lore nuance.** Her descent makes the "faithful survived
+  underground" story concretely **true in at least one living line** — which
+  rubs against the canon framing of the deep as **lethal and empty** and the
+  survival as mere legend ([the deep](../lore/maalm-the-elven-stronghold.md),
+  [the Dream Quest](../encounters/the-dream-quest.md)). Decide how far that
+  bends; for now it is her family's buried truth, not public fact.
 
 ## Manner
 
@@ -88,4 +109,6 @@
   or burn.
 - `[loose]` **Sarric's owed potion** — the 50 gp he pocketed is a lie waiting
   to surface.
-- `[OPEN]` Her **house name** — a human new-money merchant house, still to pick.
+- `[OPEN]` **Her buried history** — whether it surfaces that House Vettia
+  descends from the tunnel-survivors, and what that does to a woman who has
+  built her life on denying it.
