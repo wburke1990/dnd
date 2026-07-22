@@ -56,6 +56,16 @@ If you learn something worth remembering across sessions, add it here.
   pick a defensible option, note it briefly, and offer to revise — don't
   stall on a sub-question. Only pause when the choice is materially
   load-bearing or hard to reverse.
+- **Each new batch of session notes = a new numbered session file, and
+  *you* keep the count.** When the user starts dictating fresh session
+  notes (a new recap), create the next `sessions/session-NN.md` — don't
+  fold it into the previous session. The user does **not** track how many
+  sessions there have been; increment `NN` yourself off the
+  highest-numbered existing `sessions/session-*.md`, and add the row to
+  `sessions/README.md`. In-game continuity across a session break is normal
+  — a new session can pick up the same in-game day (e.g. S7 continued S6's
+  afternoon). Only the session logs are numbered; content/prep files
+  (`encounters/`, `characters/`, `lore/`) are not.
 - **Poetry is first-class campaign content.** The user loves poetry and
   uses poems throughout the Maalm/Nila campaign as in-world artifacts
   (grave inscriptions, "ancient scrolls"). Save pasted poems **verbatim**
