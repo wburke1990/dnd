@@ -68,8 +68,11 @@
 - **No maps changed hands** — Ratatat has **failed every attempt** to steal
   one, so there was nothing to hand off (see notes).
 - The party **chose not to pursue** into the deep. They **healed Blackacre**
-  with the **leftover Goodberries** from the day before and **left the
-  mill.**
+  with the **leftover Goodberries** from the day before.
+- After the healing, **Sarric took one of Ratatat's severed fingers, wrote on
+  it with his pen — *we've got your guy* — and threw it down the shaft after
+  V.**, shouting after her that she was a **coward** for running instead of
+  standing to fight. Then the party **left the mill.**
 
 ## After the mill — the millers, and a rest at Lucrecia's
 
@@ -77,6 +80,10 @@
   around the tunnels** under their mill. The **millers didn't understand** —
   there are tunnels under the **whole of Maalm** — so it went nowhere. A funny
   beat.
+- Sarric **weighed torturing the millers** for what they knew, and **let it
+  go** when their **young daughter** was there to walk in on it. The millers
+  are innocents who know nothing, and the tunnels run under all of Maalm
+  anyway — nothing to give.
 - **Daniel offered the party the servants' quarters of Lucrecia's mansion** to
   recover in while she finished her errands. They went and took a **short
   rest.**
@@ -143,6 +150,18 @@
   isn't a secret under one mill, it's the ground the whole city stands on
   ([the deep](../lore/maalm-the-elven-stronghold.md)). Feeds the under-city
   thread.
+- **Sarric's turn is darkening — and it has a line.** He led Ratatat's maiming
+  ([S6](session-06.md)), wrote *we've got your guy* on one of the severed
+  fingers and threw it down the shaft after V., and **weighed torturing the
+  innocent millers** — then stopped at their **daughter.** The edge is
+  **captured enemies yes, innocent people in front of a child no** — the exact
+  wound his backstory turns on (the burned camp, the screams that were "not
+  only men," [sarric.md](../characters/sarric.md)). That line is the whole gap
+  between him and his built mirror **Doruk Pell**
+  ([the rival crews](../encounters/tavern-name-hunter-crews.md)), who has none
+  of it and sleeps fine. Tonight's **Hall of Two Truths**
+  ([Dream Quest](../encounters/the-dream-quest.md)) — his confession, the
+  scales that don't weigh context — lands straight on it.
 
 ---
 
