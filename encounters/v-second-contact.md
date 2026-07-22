@@ -93,24 +93,30 @@ she takes it.
 ## The legerdemain sequence — does she get the atlas?
 
 `[settled — table]` **She lifts the map; don't script it, check for it.** V. takes the
-atlas with her own hands, invisible and standing right against them (**Sleight of Hand
-+8**, with **Reliable Talent** flooring the roll at 18; **Deception +10** to cover a
-slip). Against a level-2 party that number means **she usually gets it** — but a careful
-party can catch her. The rolls, in the order she acts:
+atlas with her own hands, invisible and against them: **Sleight of Hand +8**, and
+**Reliable Talent** floors her at **18** (she averages ~20). She is a level-10 master,
+so **she usually gets it — but the party always rolls for it, and a natural 20 always
+catches her.** The rolls, in the order she acts:
 
 **1 — The atlas (before any invite).** On the approach, invisible and adjacent, she goes
 for the map first.
-- Carrier's **passive Perception vs. her Sleight of Hand** (min 18); **DC 18 active
-  Perception** if someone is deliberately minding it.
-- **Fail:** the atlas is gone before she has even sent the rat — she is holding it
-  before they know a meeting is on offer.
-- **Pass:** they keep it, and feel the brush — a sign they are not alone.
-- **Advantage / auto-keep** for the obvious care: atlas in a sealed case, carried in
-  hand, a guard set on the pack.
+- **Who rolls:** the PC **carrying the atlas** rolls **one active Perception check** —
+  never passive. (Her floor of 18 beats any level-2 passive Perception, so passive would
+  just hand it to her; the active roll is what gives the party a real chance.) A watching
+  ally may roll in their place if their Perception is higher. **One check.**
+- **DC 20** — V.'s Sleight of Hand (her Reliable-Talent average; roll d20+8 for swing if
+  you like, never below 18). A **natural 20 always catches her**, whatever the bonus — so
+  there is **always at least a 1-in-20**, however good she is.
+- **Advantage, or −5 to the DC,** for real care: atlas **in hand**, in a **sealed case**,
+  or a **declared watch** on the pack.
+- **Beat it:** they feel the hand and keep the map — a sign they are not alone. **Miss
+  it:** the atlas is gone before she has even sent the rat, and she runs the offer
+  holding it.
 
 **2 — The pockets: her offers.** Same hands, same moment — she **plants a note in each
 PC's pocket**, her offer and the price for each service.
-- Per PC: **passive Perception vs. her Sleight of Hand** (min 18) to feel the hand.
+- **Each PC rolls one active Perception check, DC 20** (natural 20 always catches her) —
+  the same as the atlas.
 - **Notice it** and you know someone unseen is on you before she ever shows herself — a
   chance to move first. **Miss it** and the first you know is the note in your pocket
   when she drops invisibility over Sarric's beer.
