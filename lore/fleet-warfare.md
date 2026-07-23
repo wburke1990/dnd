@@ -150,7 +150,7 @@ marilith, goristro, balor. What their abilities do to the shape of the fight:
   onto the field. The Dragonborn fleet's demons are **free** — the old First
   Foundation alliance, unbroken (see
   [the-second-foundation](the-second-foundation.md)).
-- A demon killed on the surface does not truly die: it melts into the ground and
+- A demon killed on the surface does not die: it melts into the ground and
   reforms in the Abyss. But the name-leash holds as long as the elf who owns its
   name lives, so reforming does not free it — the same demon can be called back
   up. It comes free only if its binder is killed.

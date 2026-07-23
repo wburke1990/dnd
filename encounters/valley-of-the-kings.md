@@ -599,7 +599,7 @@ Read any aloud as the players examine them; you do not need all forty-two in pla
 
 ## The Puzzle — The Weighing
 
-**The mechanic:** Each party member chooses one tablet representing something their character has genuinely done and places it in the obsidian bowl. The scales register honesty. When a true confession is placed, the scales shift and then settle back toward balance. A door in the far wall — currently invisible, camouflaged in the painting — opens one lock for each honest confession. Five characters, five confessions, five locks.
+**The mechanic:** Each party member chooses one tablet representing something their character has done and places it in the obsidian bowl. The scales register honesty. When a true confession is placed, the scales shift and then settle back toward balance. A door in the far wall — currently invisible, camouflaged in the painting — opens one lock for each honest confession. Five characters, five confessions, five locks.
 
 **False confession — psychic damage:** If a player places a tablet for something their character has not done, the scales tip violently and a pulse of psychic energy radiates from the bowl — 1d6 psychic damage to the character who placed it, no save. The tablet is ejected. The scales resettle. They can try again.
 

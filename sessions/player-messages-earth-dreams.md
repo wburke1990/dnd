@@ -82,7 +82,7 @@ thread):
   built on believing he has been given a task; now he demonstrably has one and
   cannot read it. Every interpretation he reaches for — the moss, the river,
   the corrective mandate of soil — is him trying to fill in an instruction he
-  genuinely received and cannot recover. It also lands on the
+  received and cannot recover. It also lands on the
   campaign's ownership theme from the other direction: **something powerful wanting a
   named half-celestial to do something** is ownership arriving from above,
   the mirror of Preem working from below.

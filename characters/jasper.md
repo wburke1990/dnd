@@ -21,13 +21,13 @@ He assumes there were no other survivors. He may be wrong.
 
 Shortly after the disaster he joined the ecoterrorist organization — the same group Sarric and Pax belong to. His motivation is clear: protect the earth, prevent similar disasters from occurring. He sees things in black and white. He is a blunt instrument, and he knows it, and he is mostly comfortable with that.
 
-He has nothing he wouldn't talk about. This is unusual in this group and it is, in its own way, one of his most important qualities.
+He has nothing he wouldn't talk about. This is unusual in this group.
 
 ---
 
 ## Personality and Beliefs
 
-- Genuinely committed to the organization's mission — protecting the earth and preventing environmental destruction
+- Committed to the organization's mission — protecting the earth and preventing environmental destruction
 - Black and white thinking: the guilty are guilty, the innocent are innocent, the mission is just
 - Playful within the group — the ecoterrorism is earnest but not humorless
 - The rocky quality of his Earth Genasi nature affects his personality — solid, not easily moved, sometimes literally immovable

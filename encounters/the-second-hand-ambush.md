@@ -149,7 +149,7 @@ take — diverge, and that's the point:
 - **Cassia fights to reach the sergeant.** If the party keeps Halvard alive and
   lets Cassia get her hands on the man who sold out the watch, that's the
   emotional beat — let it land.
-- **Stakes for the Second Hand.** The crew should feel **genuinely close to a
+- **Stakes for the Second Hand.** The crew should feel **close to a
   wipe** so the rescue means something. Halvard at 0 and stabilizing, Nuru out of
   slots, Corvin bleeding. If the party is slow or clever-but-passive, let a Second
   Hand member take a permanent mark (a scar, a lost finger, a dead horse) — never

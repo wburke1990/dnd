@@ -369,8 +369,8 @@ left the mill.
 
 **It ran as designed:** the tripwire cost them the drop, the traps carried the
 pressure, V. **fought only to break contact**, and she **left down the shaft
-into the deep** — first contact made, no corpse on either side, the under-city
-opened. **No maps changed hands** — Ratatat has failed every attempt to steal
+into the deep** — first contact made. **No maps changed hands** — Ratatat has 
+failed every attempt to steal
 one (the party's, and the Second Hand's), so there was nothing to exchange;
 V.'s map-buying has netted nothing.
 

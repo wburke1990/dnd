@@ -206,7 +206,7 @@ Harald Gille, ch. 10 ("The Rise of War in Konungahella").*
 
 ## The troll-women line — public-domain Old Norse to translate ourselves `[added 7/22]`
 
-The vivid imagery can be rebuilt from genuinely public-domain Old Norse, so we do
+The vivid imagery can be rebuilt from public-domain Old Norse, so we do
 not need the copyrighted English translations at all — we translate the Norse
 ourselves. What was reachable, and what still needs a fetch:
 

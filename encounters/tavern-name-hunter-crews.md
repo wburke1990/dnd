@@ -563,7 +563,7 @@ preacher's presence: the fire's gone out, but she can still make you lean in.
   honest half of this room, which isn't saying much."* *[a tired, testing look]*
   *"You came off the Valley too. So you already know nobody's paying grave wages
   out of kindness."*
-- *Signature* *(low, if she warms):* *"Every banner's the same machine, friend.
+- *Signature* *(low, if she warms):* *"Every banner's the same cloth dragon, friend.
   Church, coin, comet — different paint, same teeth. I'd know. I served one and
   barely crawled out."*
 

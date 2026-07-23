@@ -852,7 +852,7 @@ He does not say anything else.
 
 ## The Three Judges
 
-**Isis** is interested in love. What did he love and did he love it truly. Arguments about his devotion to his children, his genuine feeling for his wife despite everything, land with her. Arguments that sentimentalize or exaggerate do not.
+**Isis** is interested in love. What did he love and did he love it true. Arguments about his devotion to his children, his genuine feeling for his wife despite everything, land with her. Arguments that sentimentalize or exaggerate do not.
 
 **Nephthys** is interested in grief. What did he lose and how did he carry it. Arguments about what the not-knowing cost him, what he gave up at the offering bowl, the weight of thirty-one years of chosen silence, land with her.
 
@@ -959,7 +959,7 @@ If they try a third time with something false:
 
 *"We have time."*
 
-Said very quietly. The implication is clear — there is no leaving this room until the heart speaks truly.
+Said very quietly. The implication is clear — there is no leaving this room until the heart speaks true.
 
 ### If a Player Cannot Find a Confession
 
