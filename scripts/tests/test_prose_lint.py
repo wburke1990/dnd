@@ -28,11 +28,14 @@ def test_flags_significance() -> None:
     assert "significance-flag" in _rules("This is the heart of it.")
     assert "significance-flag" in _rules("This is a centerpiece, not a subplot.")
     assert "significance-flag" in _rules("The reveal, not a reunion, is the point.")
+    assert "significance-flag" in _rules("the whole point is that he catches himself")
+    assert "significance-flag" in _rules("the single most important reaction Mul gives")
 
 
 def test_flags_not_just() -> None:
     assert "not-just" in _rules("It is not just a battle.")
     assert "not-just" in _rules("more than just a fight")
+    assert "not-just" in _rules("these aren't just preferences")
 
 
 def test_flags_coined_labels() -> None:
@@ -41,6 +44,7 @@ def test_flags_coined_labels() -> None:
     assert "coined-label" in _rules("the perverse engine of promotion")
     assert "coined-label" in _rules("the engine of the cataclysm")
     assert "coined-label" in _rules("turned the cycle into a land-factory")
+    assert "coined-label" in _rules("a transformation engine in its own right")
 
 
 def test_flags_simile_and_made_literal() -> None:
@@ -51,6 +55,7 @@ def test_flags_simile_and_made_literal() -> None:
 def test_flags_feeling_and_adverb() -> None:
     assert "feeling-word" in _rules("an ominous door")
     assert "feeling-word" in _rules("the reconquest is bitterly ironic")
+    assert "feeling-word" in _rules("left ominously open at the table")
     assert "editorial-adverb" in _rules("utterly broken")
     assert "editorial-adverb" in _rules("their culture is genuinely noble")
 

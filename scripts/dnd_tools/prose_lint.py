@@ -68,18 +68,19 @@ def _rule(name: str, pattern: str, message: str) -> Rule:
 RULES: tuple[Rule, ...] = (
     _rule(
         "not-just",
-        r"\bnot (just|only|merely)\b|\bit'?s not (just|only|merely)\b|\bmore than just\b",
+        r"\bnot (just|only|merely)\b|\bit'?s not (just|only|merely)\b"
+        r"|\bmore than just\b|\b\w+n't (just|only|merely)\b",
         "'not just/only/merely X' construction; say the plain thing (#3)",
     ),
     _rule(
         "significance-flag",
-        r"\b(payoff|centerpieces?|heart of it|gut-punch|key moment)\b"
+        r"\b(payoff|centerpieces?|heart of it|gut-punch|key moment|whole point|most important)\b"
         r"|\bthe picture the whole\b|\bthis is the (heart|key|point)\b|\bis the point\b",
         "significance-flag; let the world stand (#8)",
     ),
     _rule(
         "coined-label",
-        r"\bthe \w+[- ](engine|loop|ladder|machine|churn)\b"
+        r"\b(the|a|an) \w+[- ](engine|loop|ladder|machine|churn)\b"
         r"|\bthe engine (of|underneath|behind|dressed)\b"
         r"|\b\w+-(engine|loop|ladder|machine|churn|factory)\b",
         "coined label; name the thing plainly (#12)",
@@ -101,7 +102,8 @@ RULES: tuple[Rule, ...] = (
     ),
     _rule(
         "feeling-word",
-        r"\b(horrifying|unsettling|chilling|eerie|hauntingly|ominous|tragic|ironic(?:ally)?)\b",
+        r"\b(horrifying|unsettling|chilling|eerie|hauntingly)\b"
+        r"|\b(ominous(?:ly)?|tragic|ironic(?:ally)?)\b",
         "telling the reader how to feel (#6)",
     ),
     _rule(
