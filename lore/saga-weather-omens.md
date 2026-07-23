@@ -69,6 +69,14 @@ Markus and King Sigurd").* Understated omen — a fleet the wind keeps favoring.
 > "It was generally remarked, that Markus's men always got a fair wind, wherever
 > they wished to sail to."
 
+**1D — the bag of winds (Homer, not saga).** *Odyssey, Book 10.* Aeolus gives
+Odysseus the winds tied up in an oxhide bag, holding all but the west wind that is
+to carry him home; his crew opens it thinking it is gold, and the released winds
+blow the fleet back to where it started. A wind handed over as a gift, carried in a
+sack. This is a different tradition from the Heimskringla lines above — the PD
+English is available (Butcher & Lang 1879, Butler 1900) if we want a verbatim
+handout to sit beside the Raud passages.
+
 ## Image 2 — weather called up by patrons (and the real Hjörungavágr storm)
 
 **2A — the pennyweight hailstorm (the real Heimskringla storm at Hjörungavágr).**
