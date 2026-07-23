@@ -73,7 +73,7 @@ A **riches-to-rags** shape. **[settled — per 5/28 chat]**
 
 ## The endgame — the fleet offer (~level 20) `[draft]`
 
-The payoff of his goal of mending the rift. **However he's been played,** once Blackacre
+His goal of mending the rift leads here. **However he's been played,** once Blackacre
 reaches **~level 20** and his deeds have become legendary, the Jotunheim dragonborn **ask
 him to lead their fleet** — the fleet that sails to Moku to take the island where the
 dragons are gathering (see [lore/lonka-jotunheim.md §6](../lore/lonka-jotunheim.md)). His
@@ -214,7 +214,7 @@ above), which is where his druid-shipwright gift was prized:
 ## Encounter hooks (for highlighting Blackacre)
 
 1. **Sayid's fleet, in person** — unavoidable recognition, no disguise. The
-   confrontation with his estranged (ex-)friend is the payoff of the whole arc.
+   confrontation with his estranged (ex-)friend is what the whole arc leads to.
 2. **The quest reaches Lonka / Jotunheim** — a natural tie-in to Blackacre's
    goal of **mending the Zealot/nomad rift**, on the holy ground at its center.
 3. **Dragonborn on the Maalm docks** — DM leans toward staging the first
@@ -224,9 +224,7 @@ above), which is where his druid-shipwright gift was prized:
 4. **Lonka / Jotunheim itself** — the Zealots' island fortress and the dragon's
    holy first perch; an unstormable fortress-caldera carrying the massacre
    history of the Zealots. Ground zero of the rift Blackacre wants to mend.
-5. **Preem & Mukka politics** — letters of marque as quest engine; pulls him
-   between kingdoms' dirty work and his own atonement goal.
-6. **Watch-stones on every sea-road** — drop a wandering-saint's grave on the
+5. **Watch-stones on every sea-road** — drop a wandering-saint's grave on the
    route to any destination. Repetition is the point: stumbling onto stone
    after stone is what turns Blackacre's eye-roll into faith. See the hooks in
    [lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md) (esp.
