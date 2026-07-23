@@ -190,10 +190,9 @@ and the weight of the death falls on the father. Ammit's scales are the **Maalm*
 dead's court and take only that line (see
 [lineages-and-afterlives](lineages-and-afterlives.md),
 [egyptian-afterlife-mythology](egyptian-afterlife-mythology.md)); it is not Ammit
-who meets Hákon but his own people's sky-court — the **gods of the North**, the
-powers of the far north beyond the known map (the direction of the lost colonies and
-the missing Muspel fleet), the beast that made the orcs at the Bad Pass among them.
-`[settled — Will, 7/22; the Muspel court is the northern gods, not developed further
+who meets Hákon but his own people's sky-court — the **gods of the Norse pantheon**,
+the Aesir the Muspel orcs keep (their region's gods, as Ammit and Osiris are Maalm's).
+`[settled — Will, 7/22; the Muspel court is the Norse pantheon, not developed further
 yet]` What Amseh IV met at Ammit's scales, Hákon meets at his own — the child
 bought a victory the mountain took back, and the father answers for the child.
 

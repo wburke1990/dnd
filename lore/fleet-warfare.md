@@ -297,8 +297,33 @@ are locked, go back and add the rhymes — carefully.
   invented: a wind that turns before the fleets meet; weather called up by the
   patrons of one side; drums or an omen over the water before the ships show. The
   storm-witch Þorgerðr's god-called weather at Hjörungavágr is already a real hook
-  for the mage wind. When the party feels the real wind, the saga they were handed
-  word-for-word is what it echoes. **[draft]**
+  for the mage wind. When the party feels the real wind, the saga they were told is
+  what it echoes. **[draft]**
+
+### The ship engagement — seed it orally, from the recent sagas `[settled — Will, 7/22]`
+
+The orc-sea battles are recent — Svolder about 320 years ago, Hjörungavágr about 300 —
+so they live as **oral tradition**, sung and told in taverns, not written records
+(Mogg's telling,
+[tavern-name-hunter-crews](../encounters/tavern-name-hunter-crews.md)). Seed the
+Floating Fleet's ship-to-ship engagement by letting the party overhear these real saga
+beats before it comes, so the shape is already in their ears. Keep it offhand — a song
+half-heard, a drunk's boast, a sailor's tall tale — never a lecture. Verbatim lines in
+[saga-weather-omens](saga-weather-omens.md):
+
+- **The witchcraft-wind** → Raud's fair wind "which came from his arts of witchcraft."
+  When the mage wind later rises out of a flat calm, the party has already heard of a
+  wind bought with sorcery.
+- **The fleet on the horizon** → the Svolder headland, ship after ship taken for the
+  flagship as it files past; the watchman's skiff rowing out with the warning that the
+  enemy lies ahead.
+- **The storm that broke a fleet** → Thiodolf's gale that split the sails and drowned
+  the ships, and the thirteen sails of Konungahella, eleven lost with all aboard — the
+  druids' weather (Control Weather, Tsunami, Storm of Vengeance) sung a generation
+  early.
+- **The boarding** → the death-leap, Bue over the side with his two chests of gold, the
+  Jomsvikings jesting under the axe. When the fast craft grapple on, it is the song made
+  real. **[settled — oral delivery]**
 
 ## See also
 
