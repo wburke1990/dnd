@@ -127,14 +127,13 @@ This is dense with the campaign's themes:
 - **Mortality through transformation, at two scales.** The phoenix cheats death by
   burning and rising; the warforged cheat it by **becoming the imperishable stone.**
   Both pay the same price in the same coin — **the self.** Kuru's whole theology is
-  *we will not die* — and the horror underneath is *but we will not be ourselves.*
+  *we will not die* — and underneath it, *but we will not be ourselves.*
 - **The rot underneath.** `[settled]` The conversion is **never complete** — the
   **biological pieces that remain still decay, only slowly.** So the **oldest
   warforged are walking reliquaries of their own corpse:** imperishable god-stone
   laced with **rotting scraps of the human flesh they used to be,** held together
   past every natural end. The longer one has "lived," the more it is **dead matter
-  wearing a god's stone** — immortality you can *smell.* A visceral on-sight image
-  of everything Kuru's faith costs.
+  wearing a god's stone** — immortality you can *smell.*
 - **Puppet or person?** `[OPEN]` At the far end of conversion — most flesh gone,
   identity gone, the god's voice loudest — **it is unclear whether the oldest
   warforged are still independent beings (and so independent enemies), or merely
@@ -162,7 +161,7 @@ bargain (above) has hardened into a strict **military rite:**
   higher you stand — so **rank, stone, and depth in the hive mind rise together** (below).
   *To climb the Kuru army is to be subsumed.*
 
-`[settled]` **The perverse engine.** Because **promotion runs on heroic, near-fatal
+`[settled]` Because **promotion runs on heroic, near-fatal
 wounds and not on ordinary merit,** the Kuru army is full of soldiers **courting
 mutilation on purpose** — making **glory-mad decisions and dubious strategy** to earn
 the wound that earns the stone. An army that **rewards almost getting yourself killed**
@@ -181,9 +180,9 @@ this — figurehead, junior partner, or a rival the hive merely tolerates.
 
 `[settled]` **The phoenix's stone hates demons.** Beyond power, voice, and hive
 (above), the **phoenix's** godstone carries a deep, **unexplained antipathy — it
-*hates* demons,** and presses that loathing onto everyone who bears it. It is a
-**standing engine of the crusades:** the warforged go at Kalikhat's demons with a
-personal, holy hatred, not just strategy (§5). *(Note: a hatred, not a ward — the
+*hates* demons,** and presses that loathing onto everyone who bears it. It
+**drives the crusades:** the warforged go at Kalikhat's demons with a
+personal, holy hatred, rather than cold strategy (§5). *(Note: a hatred, not a ward — the
 stone gives no mechanical power to repel or bind demons.)*
 
 `[settled — table]` **This is the phoenix's stone, not godstone as such.** Each
@@ -263,14 +262,14 @@ of the old guard, verbatim:
 the old guard did it precisely while they still could. The cruelty is that a name is
 also exactly what the hive **takes back** (§4) — so an elder may carry a proud chosen
 name, **Vigil** or **Omen,** long after there is anyone left behind it: the **name
-outliving the self,** the last handhold of an identity the godstone has already
-swallowed (cf. *Puppet or person?* above). A numbered newcomer never had even that.
+outliving the self,** the last trace of an identity the godstone has already
+erased (cf. *Puppet or person?* above). A numbered newcomer never had even that.
 
 `[settled]` **Named old-guard warforged in play:**
 - **Vigil — V1G1L.** An old-guard warforged who is, 🔒 unknown to Kuru, the **mad
   mist-warforged of Kalikhat** (below, *Outside the hive*) — the **mist crusader.**
   Sent on the first crusade, stranded when its colony fell, he fused with the mist to
-  survive and has **never stood down.** His name is the tragedy in one word. Full
+  survive and has **never stood down.** His name still fits. Full
   treatment below.
 - **Shepard — SH3P4RD (Warforged 34).** A deep old-guard original — one of the ~8
   surviving first-hundred (above) — who **died on the first crusade;** his
@@ -364,8 +363,8 @@ with no god's voice in their heads.**
   set up on the surface not knowing the **deep gnomes, drow, and demons** waiting
   below, was overwhelmed, and **fought evil with evil** until the city damned itself.
   Cut off and dying, far from the godstone, he **fused with the mist** to outlast his
-  flesh — which **drowned the god's voice** and severed him from the hive. The cruelest
-  irony of all: **a crusader who can no longer hear the god he crusades for,** fighting
+  flesh — which **drowned the god's voice** and severed him from the hive: **a crusader
+  who can no longer hear the god he crusades for,** fighting
   a holy war, alone, for a silence. `[settled]` And
   he **never stopped fighting.** He turns the city's curse into
   a weapon — **using the mist to kill demons** (it devours even them) — **still waging
@@ -524,7 +523,7 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
 - **The Musleheim Reconquest (~300 ya → now) — Kuru's *second* crusade.** `[settled]`
   After the dark times of the orc wars, the risen, phoenix-faithful Kuru turned the Order
   of Sunne outward again — the long **reconquest of [Musleheim](the-muspel-empire.md)** is
-  its **second great holy war,** a later and larger turn of the same colonial engine as the
+  its **second great holy war,** a later and larger turn of the same colonial pattern as the
   Kalikhat crusades (above; [overview §3A](campaign-overview.md)).
 - **The Kurunatuka land rush (recent).** `[settled]` A running truth of the world:
   **there isn't enough land, and what there is is exhausted** ([overview §5](campaign-overview.md)).

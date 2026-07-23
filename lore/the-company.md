@@ -5,7 +5,7 @@
 > forts, and hired fleets, **secretly the commercial instrument of the
 > [Second Foundation](the-second-foundation.md)** and the source of
 > [Preem](../characters/preem.md)'s money. It is the **militaristic merchant arm** of
-> the archipelago's colonization, the mirror of Kuru's **militaristic religious arm**
+> the archipelago's colonization, the counterpart of Kuru's **militaristic religious arm**
 > (the [Order of Sunne](kuru-and-the-phoenix.md)) — and the **anti-colonial villain
 > the party should want to burn to the ground.** Distilled from the 6/28 brainstorm
 > (David & Alessandra). Legend: `[settled]` agreed · `[loose]` floated · `[OPEN]`
@@ -18,10 +18,10 @@
 
 ---
 
-## 1. Two empires, two militaristic arms `[settled — the brainstorm's spine]`
+## 1. Two empires, two militaristic arms `[settled — the core of the brainstorm]`
 
-The archipelago is colonized by **two separate powers** whose methods *rhyme* — but they
-are **rivals, not partners,** and emphatically **not one machine:**
+The archipelago is colonized by **two separate powers** whose methods *resemble each
+other* — but they are **rivals, not partners,** and **not one machine:**
 
 - **Kuru** projects power through its militaristic *religious* arm — the
   [Order of Sunne](kuru-and-the-phoenix.md): crusade, warforged legions, the holy
@@ -32,23 +32,23 @@ are **rivals, not partners,** and emphatically **not one machine:**
   army and hired fleets** to enforce both. Coin and contract; colonization run as a
   business.
 
-Both are colonialism, and they make a clean thematic rhyme — where the Order **burns** the
+Both are colonialism, and they form a clean thematic parallel — where the Order **burns** the
 [orc-diaspora quarters](the-muspel-empire.md) as heathens, the Company **ruins and buys
-out** the same people and takes their business. But the rhyme is the *only* link:
+out** the same people and takes their business. But the parallel is the *only* link:
 **Kuru is its own empire, with no tie to the [Second Foundation](the-second-foundation.md)
 behind the Company** (§2). On the [Musleheim front](kuru-and-the-phoenix.md) Noku even
-*fights beside* Kuru — which makes the betrayal underneath all the colder (§2).
+*fights beside* Kuru — which makes the betrayal underneath worse (§2).
 
 ---
 
 ## 2. Who really owns it — the Second Foundation 🔒
 
-`[settled]` Publicly the Company is a **Kurunatukan commercial venture,** the engine of
+`[settled]` Publicly the Company is a **Kurunatukan commercial venture,** the source of
 Noku's wealth and a junior partner in Kuru's war. Privately it is the
-**[Second Foundation](the-second-foundation.md)'s instrument** — the **material face**
+**[Second Foundation](the-second-foundation.md)'s instrument** — the **material form**
 of the elven cabal the rest of the lore describes mostly in cosmic and demonic terms.
 The Foundation's foreknowledge of the **[comet cycle](world-history-timeline.md)** is
-not just doom-prophecy; it is an **edge,** and the Company is that edge cashed out:
+both doom-prophecy and an **advantage,** and the Company is that advantage cashed out:
 cosmic knowledge converted into a worldly empire.
 
 - **Two faces in the Kurunatukas — both infiltrated, neither an ally of Kuru.** The
@@ -128,7 +128,7 @@ nefarious action:**
 
 - **Crushing the half-orc sea-trade.** Its first and clearest victim is the
   **[half-orc diaspora's last vestige](the-muspel-empire.md)** — the independent skippers
-  and the old wharf **merchant halls,** the shadow of the orcs' lost sea-dominance. The
+  and the old wharf **merchant halls,** the remnant of the orcs' lost sea-dominance. The
   Company **undercuts and buys them out** where it can and **wrecks, blacklists, and
   strong-arms** them where it can't — **seizing the merchant halls** for itself.
 - **The corrupt-officials playbook.** Bought magistrates, rigged charters, "accidents,"
@@ -142,7 +142,7 @@ nefarious action:**
 
 ## 5. Preem's coin — the party's complicity 🔒
 
-`[settled — brainstorm, the gut-punch]` [Preem](../characters/preem.md) is **First Chair
+`[settled — brainstorm]` [Preem](../characters/preem.md) is **First Chair
 of the Second Foundation,** and the Second Foundation **is the Company.** Therefore **the
 Company is Preem's money** — and Preem's money is **the party's pay.** Every
 [gift](../characters/preem.md) he outfits a crew with, every coin he hands them for a
@@ -152,8 +152,8 @@ Kalikhat, ruined half-orc families.
 - **The reveal line.** When the party finally traces the money, Preem does not flinch —
   he is **amused:** *"Where did you think your money was coming from?"* They took the
   gifts, the pay, the patronage, and **never once asked if it was ethically sourced.**
-  Their complicity in Preem's demon-trade (`[overview §2](campaign-overview.md)`) has a
-  **second floor underneath it** — they have been living on the Company the whole time.
+  Their complicity in Preem's demon-trade (`[overview §2](campaign-overview.md)`) has
+  **more underneath it** — they have been living on the Company the whole time.
 - 🔒 **And it is worse than a paycheck.** The same Foundation that pays them intends to
   **let the coming pass fall as Ragnarok** and bury everyone — including the **Kuru armies
   the Company sells to** (§2). Preem goes one step further still: he wants to **own** the
