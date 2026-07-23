@@ -65,7 +65,7 @@ in-combat mending falls to Halvard's Lay on Hands.
   party out, Halvard is the one who plants himself in the breach. A **veteran of
   the [Musleheim Reconquest](../lore/kuru-and-the-phoenix.md):** a shipwright from
   the yards at Ools who took an oath and shipped out with Kuru's holy war against
-  the orc-held lands, and came home **soured on it** — a colonial engine dressed
+  the orc-held lands, and came home **soured on it** — a war of conquest dressed
   as faith, a god that may be going mad. The crew's **moral anchor,** and its
   **conscience** about what they're being paid to dig up: he has stood in a holy
   cause that curdled before, and he watches this one the same way. **Shepard
@@ -133,8 +133,7 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
 - **Javelin** +6, 8 (1d6 + 4) piercing, thrown 30/120 — what he throws in the
   opening volley before he can reach anyone.
 - **Guardian (Reaction).** When an ally within 5 ft. is hit, Halvard makes
-  himself the target instead and takes the hit. He plants in the breach; this is
-  the whole point of him.
+  himself the target instead and takes the hit. He plants in the breach.
 - **Lay on Hands.** A pool of **15 HP**; touch an ally (or himself) to spend any
   amount as an action. With no medic in the crew, Halvard is also the **hands
   that pull you back** — the [anti-TPK lever](#the-alliance--and-the-anti-tpk-lever)
@@ -252,7 +251,7 @@ Why it works:
   party, or dangles their lives as the price of the party's compliance. The crew
   the party leaned on all campaign becomes the **hardest fight — or the hardest
   rescue** — of the last act. Whether the Second Hand **breaks Preem's leash and
-  sides with the party** is the payoff for every favor traded along the way.
+  sides with the party** depends on every favor traded along the way.
 
 ## Encounter hooks
 

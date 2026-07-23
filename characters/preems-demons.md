@@ -37,7 +37,7 @@ The mechanical heart of Preem's power, and the campaign's central moral object.
   the tombs and sells to Mul is another true name in Preem's ledger — another
   demon he can bind beyond any hope of refusal. He has an *army* of true names.
   (See [the names quest](preem.md#the-names-quest--why-he-sends-the-party-to-the-tombs).)
-- It is also the engine of the [dream quest's](../encounters/the-dream-quest.md)
+- It is also the source of the [dream quest's](../encounters/the-dream-quest.md)
   horror: the merchant's demon wife **could not have escaped, ever**, because he
   held her name. Planar binding is meant to feel **horrific** — a true name
   turns a person into a possession, with no roll left to make.
@@ -95,7 +95,7 @@ stone. **[settled]**
 
 > **Acid Kiss.** *Melee Spell Attack.* On a hit, the target takes
 > **6d6 + 4 acid damage.** Use when Mul has lured a PC into intimate range in a
-> disguised form — the payoff for trusting a sweet stranger who is, in fact,
+> disguised form — what a PC gets for trusting a sweet stranger who is, in fact,
 > the demon they "killed" last session.
 
 ## The Quasit — the paymaster
@@ -150,8 +150,8 @@ acknowledged talker.
 
 ## The escalation roster
 
-As the party's relationship with Preem sours, the demons sent after them climb
-the CR ladder. **[settled in outline — the campaign-long shape.]**
+As the party's relationship with Preem sours, the demons sent after them rise
+in CR. **[settled in outline — the campaign-long shape.]**
 
 **Stage 1 — infiltration & shadowing** (before the party suspects anything):
 - **Barlgura**, sent **invisible** —
@@ -172,7 +172,8 @@ vrocks, and finally nalfeshnees — just as Jeremy feared."*
 
 ## Table notes
 
-- Lean on **Demonic Restoration** to build relationships, not just fights.
+- Lean on **Demonic Restoration** to build relationships rather than to stage
+  more fights.
   A demon the party "beat" and then meets again — changed, resentful, quietly
   useful — is more memorable than a fresh stat block.
 - The disguised servants in the tower are a **slow-burn reveal**. Let the party

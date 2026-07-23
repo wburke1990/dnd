@@ -72,7 +72,7 @@ The material plane causes demons pain — the longer they remain unbound, the mo
 ## DM NOTE — PRIVATE
 
 **On her demon type:**
-She is a **Yochlol**, run off that stat block but reflavored away from Lolth — exactly as Mul is (see [Preem's demons](preems-demons.md)). In this world the Yochlol is simply the demon that can wear a person: Change Shape into a beautiful human woman, Dominate Person, Detect Thoughts, Magic Resistance. CR 10 reads as genuinely formidable, which suits a being thousands of years old. She is one of the **demon-people of the deep** (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)), having followed the hotspot across the buried cities since before the elves. That she and Mul are the same kind is deliberate: the shapeshifter-demon is Preem's standard instrument, so she is not unusual as a kind. She is unusual as a person.
+She is a **Yochlol**, run off that stat block but reflavored away from Lolth — exactly as Mul is (see [Preem's demons](preems-demons.md)). In this world the Yochlol is simply the demon that can wear a person: Change Shape into a beautiful human woman, Dominate Person, Detect Thoughts, Magic Resistance. CR 10 reads as formidable, which suits a being thousands of years old. She is one of the **demon-people of the deep** (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)), having followed the hotspot across the buried cities since before the elves. That she and Mul are the same kind is deliberate: the shapeshifter-demon is Preem's standard instrument, so she is not unusual as a kind. She is unusual as a person.
 
 **On her true name:**
 Her true name is held by [Preem](preem.md) and, through him, by the Second
@@ -100,11 +100,11 @@ As the children grow into their power, their demonic heritage may begin to manif
 **Her return, and how she ends:**
 Manizheh is not gone for good. Preem's claim on her name never lapsed, so at some later point he summons and re-binds her and turns her against the party. She does not obey. Out of gratitude — they carried her husband through the dream to his judgment, a thing she and her children could not do — she spends the one freedom a bound demon has: she **changes her own true name.** Doing so strips her demonic nature, including the power to re-form, so instead of being thrown back to the Abyss she comes apart on the spot, into ash and smoke, permanently. She chooses this knowing what it costs.
 
-**Why there is no afterlife for her, and why that is the point:**
+**Why there is no afterlife for her:**
 The river of stars and the Hall of Two Truths are for mortal souls. A demon is not a mortal soul, so that road was never hers — her exclusion from the dream quest is not a curse but her nature, the same reason her half-demon children cannot make the crossing either. When she unmakes herself she walks into a death her people have no map for: no judgment, no return, nothing anyone, including her, can name. Her last question is the unanswerable one — *is there anything at all, for us?* — and she goes without an answer. She also carries everything she knows of the old history into that silence. She witnessed ages no one else remembers, and she tells none of it. The first time she stood at the edge of true death, long ago, she gave up her name to keep existing; at the end she does the reverse, ending herself rather than be used. The same choice, made the other way.
 
 ---
 
 ## Key Detail for the Table
 
-She is the most important person in the dream quest who never speaks and never appears in the dream. Everything in the Hall of Two Truths is about her. Osiris knows what she would have chosen. He does not say.
+She never speaks and never appears in the dream. Everything in the Hall of Two Truths is about her. Osiris knows what she would have chosen. He does not say.

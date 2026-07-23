@@ -5,7 +5,7 @@ to exile him.** A stern mentor / disappointed-parent figure: older, formidable,
 and the one person whose judgment still lands on Pax like weather.
 
 > **In one line:** she did not hate him when he left — and that may be what makes
-> it worse. Pax would be genuinely happy to see her. Then immediately defensive.
+> it worse. Pax would be happy to see her. Then immediately defensive.
 
 **Role:** Former teacher at the Verdant Fist monastery
 **Type:** Stern mentor / disappointed parent figure
@@ -14,7 +14,7 @@ and the one person whose judgment still lands on Pax like weather.
 ## Who she is
 
 Master Ilyra is an older monk who taught Pax breathwork, restraint, balance, and
-survival in the deep wilds. She genuinely loved Pax as a student and believed he
+survival in the deep wilds. She loved Pax as a student and believed he
 was gifted — but she also believed his **Green Revelation** made him dangerous.
 She did not hate him when he left. That may be what makes it worse.
 

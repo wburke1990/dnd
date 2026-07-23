@@ -15,7 +15,7 @@ it is a **psychic bat**. It is in fact a **quasit** — a secret spy for
 - It is really a **quasit** — *Fiend (Demon), CR 1, Tiny —
   [5e.tools](https://5e.tools/bestiary.html#quasit_xmm)* — one of Preem's bound
   demons, planted as a **spy.** Jasper **has no idea** — keep the secret from
-  **Doug** (the player), not just the character. **[settled]**
+  **Doug** (the player), not the character alone. **[settled]**
 - This is a **second quasit, distinct from** the invisible paymaster quasit
   that drops 5 gp/name during long rests (see
   [Preem's demons](preems-demons.md#the-quasit--the-paymaster)).
@@ -80,7 +80,7 @@ recurring comedy — it keeps dying and reforming in the Abyss:
   knows that a bat shouldn't.
 - **Stage 3** — the party realizes it's a **demon spying for Preem.** What
   Jasper does with that — keep it, free it, kill it (and watch it come back) —
-  is the payoff.
+  is his to decide.
 
 ## Open threads
 
