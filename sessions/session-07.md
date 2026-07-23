@@ -107,9 +107,8 @@
   spider)** caught the fall-rock trap and saved the party, and the **false
   lip collapsed** under the covering fire, isolating him. V. **Misty Stepped
   the abyss, dropped Blackacre, and slid into the deep.** The party didn't
-  pursue (correct — the deep is lethal), healed Blackacre, and left. So the
-  payload landed: **V. is a face now, and the shaft / under-city is open** —
-  no corpse on either side. The party **read much better than expected.** Her exit
+  pursue deeper into V's territory, healed Blackacre, and left. So the
+  payload landed: **V. is a face now**. The party **read much better than expected.** Her exit
   state, for next contact: the **53** left her at roughly **20 of 73 HP**, and she
   spent **two of her three 2nd-level slots on Misty Step** getting clear — so she
   went down the shaft **wounded and holding a single 2nd-level slot** (one more
@@ -154,10 +153,10 @@
   isn't a secret under one mill, it's the ground the whole city stands on
   ([the deep](../lore/maalm-the-elven-stronghold.md)). Feeds the under-city
   thread.
-- **Sarric's turn is darkening — and it has a line.** He led Ratatat's maiming
+- **Sarric's turn is darkening** He led Ratatat's maiming
   ([S6](session-06.md)), wrote *we've got your guy* on one of the severed
   fingers and threw it down the shaft after V., and **weighed torturing the
-  innocent millers** — then stopped at their **daughter.** The edge is
+  innocent millers** — then stopped at their **daughter.** His motal line is
   **captured enemies yes, innocent people in front of a child no** — the exact
   wound his backstory turns on (the burned camp, the screams that were "not
   only men," [sarric.md](../characters/sarric.md)). That line is the whole gap
@@ -178,7 +177,8 @@
       under-city thread the [Dream Quest](../encounters/the-dream-quest.md)
       also touches.
 - [ ] **Find V. again.** First contact is made and she got clean away into
-      the deep. She read the party as Preem's and did **not** turn or recruit
+      the deep. She did not read the party as Preem's until after the encounter 
+      and did **not** turn or recruit
       them; next contact is `[OPEN]`. She went down the shaft **at ~20/73 HP and
       down to one 2nd-level slot** — hurt and nearly out of escape magic. Whether
       she's healed and re-supplied by the time they meet again depends on how soon
@@ -189,8 +189,9 @@
       keeps trying.
 - [ ] **Lucrecia** — road to the mill (used); the party rested in her
       **mansion's servants' quarters**; the **flowers errand** is open;
-      **Sarric still owes a healing potion** he took 50 gp for in
-      [Session 6](session-06.md); `[OPEN]` her tie to the
+      **Sarric took 50 gp to buy a healing potion, pocketed the cash, and
+      never bought one** — `[settled: he never intends to]`
+      ([Session 6](session-06.md)); `[OPEN]` her tie to the
       [Second Foundation](../lore/the-second-foundation.md), and what her
       **gossip** does to the party's standing.
 - [ ] **Next: the al Qahtani mansion.** After Lucrecia's, the party means to
