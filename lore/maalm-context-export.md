@@ -68,9 +68,9 @@ approaches a hidden cistern.**
 
 - Water **runs and rests underground** (no evaporation) in the **Abyss tunnel-network that
   honeycombs Nila** — the same tunnels that hold **Ammit's tomb.**
-- 🔒 **Ammit is presumed dead** — **Bedraageon killed it** (a mutual ending; the Twelve built
-  Maalm over the tomb). **No sightings.** If Ammit is *alive* down there, that is a **big
-  reveal,** not a given.
+- 🔒 `[settled — yes]` **Ammit is dead, and stays dead** — **Bedraageon killed it** (a mutual
+  ending; the Twelve built Maalm over the tomb). **No sightings**, and not a live thread (see
+  [maalm-the-elven-stronghold](maalm-the-elven-stronghold.md)).
 - **The hidden cisterns are in the upper tunnels** → why approaching one is deadly: entering
   the labyrinth means the dark, getting lost, the keepers' guards, and the forbidden Abyss and
   its demons below.
@@ -117,7 +117,6 @@ approaches a hidden cistern.**
 
 - The **cistern-keeper / seabird-warden caste** — who they are, the religion around them, how
   they relate to the council and the Second Foundation.
-- 🔒 Whether **Ammit is truly dead** (presumed yes — Bedraageon killed it); if alive, a big reveal.
 - Names of the **old families** and the **council seats.**
 
 ## 9. Spatial open-questions for David's maps (annotate these, then fold back)
