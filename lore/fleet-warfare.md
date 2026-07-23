@@ -53,7 +53,7 @@ everything afloat: dwarf-built hulls and Mukka bottoms, crewed by mercenaries
 druid-heavy, small and fast, and signals by drum across open water.
 
 **The prize is the hulls.** The Fleet strikes while it is on a timber-run, and
-Kuru's hired supply line is a run of timber that sails itself. The point is to
+Kuru's hired hulls are the wood it came for. The point is to
 **take** the ships, not sink them: wood is the one thing the sea cannot give back
 (see [floating-fleet](floating-fleet.md)), so a burned or sunk hull is wasted, and
 sinking is the failure, not the win. That shapes the whole doctrine — the Fleet
@@ -91,9 +91,8 @@ fleet comes ashore against it at night, its own demons — rakshasas among them 
 fighting willingly at its side.
 
 **The artillery.** Before the boats touch sand, the fleet's casters call down
-**Meteor Swarm (9th)** on the beach: four blasts, the shore softened. This is the
-picture the whole set-piece is built around — fleet artillery falling out of the
-dark. Behind it, **Fire Storm (7th)**, **Wall of Fire (4th)**, and
+**Meteor Swarm (9th)** on the beach: four blasts, the shore softened — fleet
+artillery falling out of the dark. Behind it, **Fire Storm (7th)**, **Wall of Fire (4th)**, and
 **Delayed Blast Fireball (7th)** rake and pin the beach line; the dragonborn
 carry a fire motif to match their breath.
 
@@ -133,19 +132,19 @@ marilith, goristro, balor. What their abilities do to the shape of the fight:
   frees every demon that elf held.
 - **The bound army's wall.** Vrock spores and Stunning Screech, the chasme's drone
   that drops creatures unconscious and blocks healing, the nalfeshnee's Horror
-  Nimbus that frightens everything near it — the area-denial the party learned to
-  dread.
-- **A dying balor is another shell.** Its Death Throes burst in fire when it
-  falls, so a free demon can go down and take the binders' line with it — the
-  glad-to-die beat made literal, and an echo of the eruption at Hjörungavágr.
+  Nimbus that frightens everything near it — the area-denial that has made the bound
+  army so dangerous.
+- **A dying balor explodes.** Its Death Throes burst in fire when it falls, so a
+  free demon can take part of the binders' line down with it as it dies — the same
+  fire the undersea eruption threw at Hjörungavágr.
 - **Night burns none of them, and favors the shadow demons.** The whole host
   sickens in daylight, and shadow demons are strong in the dark and weak in sun —
   the reason the landing comes at night. It also hands the party a rare edge: real
   light — Daylight, Sunbeam, Sunburst — hurts these demons the way little else the
   party carries can. **[draft]**
 
-**The demon-on-demon fight.** This is the heart of it, and the mechanics are set
-in [demons-and-the-hotspot](demons-and-the-hotspot.md):
+**The demon-on-demon fight.** The mechanics are set in
+[demons-and-the-hotspot](demons-and-the-hotspot.md):
 
 - The Second Foundation's demons are **bound** — held by their true names, forced
   onto the field. The Dragonborn fleet's demons are **free** — the old First
@@ -167,9 +166,9 @@ in [demons-and-the-hotspot](demons-and-the-hotspot.md):
   the next night, still chained. Both happen on the same beach. **[draft]**
 
 **The slaughter, and the choice it poses.** `[settled — Will, 7/22]` Play the
-demons as monstrous — gentle only with their own kind (above); to the men who
-held their names, and the soldiers who served those men, they are everything the
-party has spent the campaign dreading. A nalfeshnee closes its jaws over an elf
+freed demons as killers, gentle only with their own kind (above); to the men who
+held their names, and the soldiers who served those men, they show no mercy. A
+nalfeshnee closes its jaws over an elf
 caster's head and bites it off, and in the same moment the demons that elf held
 stop fighting for him and wheel on the men beside them — the leash died with him,
 and what it held is loose in the middle of his own line, tearing. The soldiers the
@@ -210,14 +209,13 @@ the fleet's to command, fighting for its own on its own ground. This is Jotunhei
 turned around: there, demons' tunnels carried the killers up inside the caldera;
 here the demons come up out of the ground themselves.
 
-And it puts the endgame under the party's feet. The deep-city beneath Moku is where
-the magma demon's name rests, with an eldest keeper closest to the force (see
-[demons-and-the-hotspot](demons-and-the-hotspot.md)) — so the beach is the roof of
-the dungeon the late campaign descends into. It also makes the reform-loop
-immediate: a demon killed on the sand sinks and reforms in the city directly below,
-and can surface again inside the same battle — free if its binder has fallen, or
-dragged back up to be bound anew. The beach does not empty; the dead keep coming
-back up.
+And it sets the late-campaign endgame directly below. The deep-city beneath Moku is
+where the magma demon's name rests, with an eldest keeper closest to the force (see
+[demons-and-the-hotspot](demons-and-the-hotspot.md)) — so the beach sits over the
+deep-city the late campaign descends into. And the reforming happens right underfoot:
+a demon killed on the sand sinks and reforms in the city directly below, and can
+surface again inside the same battle — free if its binder has fallen, or dragged back
+up to be bound anew. The beach does not empty; the dead keep coming back up.
 
 **Dragons stay out until the volcano.** `[settled — Will, 7/22]` No dragon fights
 in the Moku landing. Canon keeps demons *surfacing* on Moku and only *rumors* of
@@ -229,13 +227,12 @@ the climax — the volcano, with the star falling (the Ragnarok pass; see
 rumor and a pressure over the horizon; the fight there is demon against demon
 against demon. The sky-dragon comes only when the star is falling.
 
-**How it goes, and why it matters.** Artillery first, then the demons in through the
-fog, then the Wind Walk insertion behind the line — then the fleet's free demons and
-the risen deep-city breaking the bound army from within while the dragonborn cut down
-the binders. The Second Foundation army — the party's worst threat on the whole
-climb to 20 — comes apart inside an hour. Whatever the party took for the ceiling of
-what could hurt them, this is above it. Whether that reads as a rescue or a new
-threat depends on Blackacre (below).
+**How it goes.** Artillery first, then the demons in through the fog, then the Wind
+Walk insertion behind the line — then the fleet's free demons and the risen deep-city
+breaking the bound army from within while the dragonborn cut down the binders. The
+Second Foundation army — the party's worst threat on the whole climb to 20 — comes
+apart inside an hour. Whether that reads as a rescue or a new threat depends on
+Blackacre (below).
 
 ## How the party learns a fleet is coming
 
@@ -257,8 +254,8 @@ threat depends on Blackacre (below).
 advance on a timber-run (see [floating-fleet](floating-fleet.md)), so its cool
 following wind is an omen they can already read when the Fleet turns on Kuru.
 
-**Whose side.** When the Dragonborn fleet crushes the Second Foundation army, are
-they the party's rescue or the power that just ate the party's worst enemy? That
+**Whose side.** When the Dragonborn fleet destroys the Second Foundation army, is it
+the party's rescue, or a new power stronger than the enemy it just removed? That
 turns on what Blackacre does with the fleet he is offered. Left open on purpose.
 **[settled — Will, 7/22: it depends on Blackacre]**
 
@@ -322,8 +319,8 @@ half-heard, a drunk's boast, a sailor's tall tale — never a lecture. Verbatim 
   druids' weather (Control Weather, Tsunami, Storm of Vengeance) sung a generation
   early.
 - **The boarding** → the death-leap, Bue over the side with his two chests of gold, the
-  Jomsvikings jesting under the axe. When the fast craft grapple on, it is the song made
-  real. **[settled — oral delivery]**
+  Jomsvikings jesting under the axe. The party will have heard the boarding sung before
+  the fast craft ever grapple on. **[settled — oral delivery]**
 
 ## See also
 

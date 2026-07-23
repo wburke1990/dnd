@@ -114,7 +114,7 @@ flagship as the fleet files past.
 > is a large and very beautiful vessel: that will be the Long Serpent.' Earl Eirik
 > replied, 'That is not the Long Serpent.'"
 
-and the payoff a few lines on:
+and a few lines on:
 
 > "While the chiefs were speaking among themselves as above related, they saw
 > three very large ships coming sailing along, and at last after them a fourth, and
