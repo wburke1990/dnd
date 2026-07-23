@@ -112,6 +112,10 @@ a mechanic, or a scene a coined name, flagging how much it matters, or predictin
 the table will react. In a design note: name the sequence, state the mechanic,
 describe the moment, and stop. Do not sell it to yourself.
 
+A linter helps: **`prose-lint`** (see the CLI quick reference) flags the fixed
+offenders below on your changed lines — run it before committing. It is an assist,
+not the test; a coined label it has not seen still needs the eye.
+
 Concretely, do not write:
 
 1. **Forced poeticisms.** Say the plain thing. If a phrase calls
@@ -453,6 +457,12 @@ pad-maps                  # letterbox maps/*.{jpg,png} → maps/padded/
                           # find what needs padding — do NOT write
                           # for-loops probing maps/ vs maps/padded/
                           # (they hit a shell-syntax permission prompt).
+
+prose-lint                # house-style linter for content markdown; flags
+                          # coined labels, significance-flags, similes, etc.
+                          # (the CLAUDE.md rules). Default: only your changed
+                          # lines vs HEAD; --files = whole changed files;
+                          # PATHS = those files. Report-only, never edits.
 ```
 
 ## Reference docs
