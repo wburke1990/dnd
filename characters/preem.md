@@ -47,7 +47,7 @@ to *"search the tombs, get into the inner burial chambers, find what names you
 can and relay them to my associates using the sending stone."* He pays well for
 any **jewels** they recover and tells them not to expect any.
 
-What he does not tell them: **the names are the point, and the jewels are
+What he does not tell them: **the names are what he wants, and the jewels are
 spell components.** The tombs are full of the true names of the old empire's
 gods, judges, and devourers — Khepri, Ra, Apep, Ammit, the Forty-Two Assessors,
 the dead kings themselves. *"The gods of the ancients are dead now, but there
@@ -96,13 +96,13 @@ table are now concrete objects with a defined mechanic. **[in play]**
 - **The location stone.** A **special stone** that pairs with the atlas. **When
   the party is at a location shown on the map, they apply the stone to that
   location on the map, and instructions appear** to assist them in finding the
-  object or item to be recovered there. It is a guidance relic, not just a
-  comms link — Preem is steering the recovery hands-on from a distance.
+  object or item to be recovered there. It is a guidance relic — Preem is
+  steering the recovery hands-on from a distance.
 - **The call to adventure — the comet.** A **comet is already visible in the
   sky**, and it will **arrive in one year.** Preem has **assembled and set
   forth various groups** (the party is one of several) to **collect the items he
   will need to fend off the impending catastrophe.** What is coming is left
-  ominously open at the table — *a demon? a god fallen from the sky?*
+  open at the table — *a demon? a god fallen from the sky?*
 - **The prophecy.** Preem frames the stakes with the omen:
 
   > "The bleeding star bespoke the end. These are the last days, when the world
@@ -145,7 +145,7 @@ ore stripped from [Suartleheim Eet](../lore/nila-atlas.md) and
 - **The reveal line.** When the party traces the money, Preem doesn't flinch — he
   is **amused:** *"Where did you think your money was coming from?"* They took the
   coin and the patronage and **never once asked if it was ethically sourced** (and
-  this party *always* asks). A **second floor** under their complicity in his
+  this party *always* asks). **Another layer** beneath their complicity in his
   demon-trade.
 - 🔒 **And the money buys the end of the world.** The Foundation he chairs means to
   **let the coming pass fall as Ragnarok** and bury everyone — including the **Kuru
@@ -169,8 +169,8 @@ This is where Preem diverges from his fellow Foundationers. **[settled]**
   the year no matter what — but **its outcome is up for grabs.** *"He wouldn't mind
   enslaving one last demon… especially if that demon has the power to set off
   volcanoes."* A bound **volcano-demon** lets him **force the coming pass to fall as a
-  catastrophe he masters and aims** — not merely *ride out* Ragnarok as his fellow
-  Foundationers plan, but **own** it. (This squares with the world's cosmology: the last Ragnarok was a
+  catastrophe he masters and aims.** His fellow Foundationers plan to *ride out*
+  Ragnarok; he means to **own** it. (This squares with the world's cosmology: the last Ragnarok was a
   **volcanic winter** that buried the Egyptian empire and raised the volcanic
   islands missing from the ancient tomb-map. See
   [the Second Foundation](../lore/the-second-foundation.md).)
@@ -195,7 +195,7 @@ casting Planar Binding. The rescue was theater. The merchant believed he was
 thwarting a cruel wizard; he was being **recruited into Preem's system**, and he
 simply never scaled up.
 
-- This makes the merchant **tragic rather than merely guilty**, and it makes
+- This makes the merchant **deceived rather than simply guilty**, and it makes
   Preem's eventual reveal land far harder: when the party learns the true scope
   of his operation, someone asks *"wait — did he know about the wife?"* and the
   answer is **yes — his order has held her name for generations; he merely inherited it.**
@@ -206,7 +206,7 @@ simply never scaled up.
 - Without their knowing it, the quest is also Preem's gift to the party: it
   **teaches them Planar Binding and what a true name does** (see
   [True Names & Planar Binding](preems-demons.md#true-names--planar-binding-homebrew-house-rule))
-  — the exact horror they will have to weigh at the campaign's climax.
+  — the exact choice they will have to weigh at the campaign's climax.
 
 ## The climax — the volcano-demon choice
 
@@ -221,9 +221,9 @@ The whole campaign points here. **[settled]**
   ancient empire (the last Ragnarok) raised the volcanic islands missing from
   the tomb-map; volcanism makes land and unmakes it. Preem wants his hand on
   that lever.
-- The [dream quest](../encounters/the-dream-quest.md) is the **moral
-  rehearsal**. If the party has already felt what true-name binding does to one
-  person, the choice to do it to a world-breaking demon lands completely
+- The [dream quest](../encounters/the-dream-quest.md) **rehearses the
+  choice**. If the party has already felt what true-name binding does to one
+  person, the choice to do it to a world-breaking demon plays
   differently. See [the Second Foundation](../lore/the-second-foundation.md).
 
 ## Voice & table notes
@@ -258,7 +258,7 @@ The whole campaign points here. **[settled]**
    Second Foundation gets answers. This is the intended discovery of Preem's
    true role.
 4. **The volcano-demon** — the late-campaign stakes: Preem's plan to seize control of
-   the coming Ragnarok's outcome. Jeremy's old fear made literal.
+   the coming Ragnarok's outcome. Jeremy's old fear brought into the game.
 5. **Blackacre's letter** — Preem issued the letter of marque that brought
    [Blackacre](blackacre.md) to Maalm. Useful lever for tying that PC's arc to
    the patron.

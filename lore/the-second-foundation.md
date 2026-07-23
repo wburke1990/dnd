@@ -19,7 +19,7 @@ cataclysm the campaign calls **Ragnarok** — and that the next one is due
   working label (and a quiet Asimov nod). Pick its true name before the party
   can learn one. **[settled — it's a working name]**
 - They are seated in the **citadel** of Maalm, beside the **council**. Their
-  proximity to the seat of power is the whole point of the name: they are a
+  proximity to the seat of power is what the name marks: they are a
   *foundation* under the city's authority — and, for the Asimov-literate, a
   knowing nod to the *Second Foundation* of Foundation. **[settled]** (The
   table is not expected to catch the reference — *"I doubt they will figure out
@@ -67,7 +67,7 @@ the tie to the ancient-empire fall synthesizes existing campaign lore.]**
   controls the shape of the world to come.
 
 This is why a **volcano-demon** is the master key to Preem's endgame: volcanism
-is the engine of the cataclysm, and a bound volcano-demon lets him **govern how the
+drives the cataclysm, and a bound volcano-demon lets him **govern how the
 coming pass breaks** — driving its volcanism into a full Ragnarok rather than the
 controlled land-building the First Foundation would steer it toward. He shapes the
 *result*, not the timing. See **§4**.
@@ -121,7 +121,7 @@ demise of the valley kings.** **[settled]**
   Maalm's elite — the deep-rooted old guard of the gated upper city (see
   [Maalm — the elven stronghold](maalm-the-elven-stronghold.md)). The **Second
   Foundation is their inner, forward-looking cabal**: the elves old enough and
-  connected enough to be planning for the *next* turn of the cycle, not just
+  connected enough to be planning for the *next* turn of the cycle rather than only
   remembering the last.
 - The Second Foundation **crystallized as an order ~1,850 years ago**, within a
   generation of the Jotunheim massacre (below) and as the Muspel empire's relentless
@@ -206,7 +206,7 @@ chartered **East India Company** seated in [Noku Kurunatuka](nila-atlas.md), wit
 troops, forts, and hired fleets.
 
 - **Foreknowledge cashed out.** The Foundation's understanding of the
-  [comet cycle](world-history-timeline.md) is not only doom-prophecy; it is an **edge.**
+  [comet cycle](world-history-timeline.md) foretells doom and gives it an **edge.**
   The Company is that edge converted into a worldly empire — ore stripped from
   [Suartleheim Eet](nila-atlas.md) and [Kalikhat](campaign-overview.md), and slave-worked
   **coffee** plantations (our Java) on [Musleheim](musleheim.md)'s rich volcanic soil.
@@ -216,7 +216,7 @@ troops, forts, and hired fleets.
   catastrophe — the Second Foundation means to **let the coming pass fall as Ragnarok,**
   riding it out while it **wipes everyone else away** (§2 — the orc tribes *and* the
   Kuru/Noku armies fighting over [Musleheim](musleheim.md), within ~a year). The Company's
-  wealth is the **short game;** the cataclysm is the point, and the profit merely funds and
+  wealth is the **short game;** the cataclysm is the goal, and the profit merely funds and
   masks it.
 - **Not Kuru's ally.** 🔒 The Foundation has **infiltrated the Kuru client-states** (Noku
   via the Company, Moku as its finale ground) but has **no tie to Kuru itself and is not

@@ -54,11 +54,11 @@ asks to be actively pushed in this direction while brainstorming.*
 Traditional fantasy tropes inverted: **elves are not the good guys** (the Amseh
 elven empire grew rich extracting from the snake-island folk and called it trade);
 **orcs and half-orcs are noble warriors**. Maalm is a conquest-city built on the
-bones of the people it replaced. Preem's demon-slavery is the engine underneath.
+bones of the people it replaced. Preem's demon-slavery underlies all of it.
 
 - **Foreground vs. background (resolved):** **Preem's demon-slavery is the foreground**
   — the party is personally complicit in it (they harvest the names that fuel it), so
-  it's the colonial structure they *feel*, not just witness, and it's the through-line to
+  it's the colonial structure they *feel* rather than only witness, and it's the through-line to
   the climax. **Kuru's reconquest** (the Order of Sunne; colonies on the Kurunatukas,
   beachheads on Musleheim) is the **visible geopolitical background** — the war on the
   map. The **Amseh elven empire** and **Maalm itself** are the **deep-history backdrop**,
@@ -107,7 +107,7 @@ become islands, then back again. The contrast between transformation **chosen**
   explaining it.
 
 ### C. The Name Quest
-*Will has waited years to run a name quest. This is a centerpiece, not a subplot.*
+*Will has waited years to run a name quest. It is a main arc, not a subplot.*
 
 True names = power over souls (the Egyptian **Ren**; Planar Binding auto-succeeds
 with a true name). The party harvests names for Preem without understanding them.
@@ -129,7 +129,7 @@ with a true name). The party harvests names for Preem without understanding them
   intercept.)
 
 ### D. The Weirdness of Ancestral Myth
-Most people know a few myths but don't grasp how genuinely **bizarre** the
+Most people know a few myths but don't grasp how **bizarre** the
 mythological world of our ancestors was (cf. the Mabinogion's dream-logic and
 impossible tasks). The campaign uses **real primary-source myth, unsanitized** —
 Medjed, the 42 assessors, the seven-part soul, the Serpent of Punt — preserved
@@ -154,7 +154,7 @@ Nod* is the literal incantation of the river-of-stars crossing).
 
 ## 4. DMing Principles
 
-These aren't just preferences — several are load-bearing for the themes above.
+Some are table preferences; several are load-bearing for the themes above.
 
 1. **No railroading.** Essential to the thesis: the climactic name-choice only
    means something if it was never forced. The campaign *teaches* what a name does
@@ -194,7 +194,7 @@ These aren't just preferences — several are load-bearing for the themes above.
   Musleheim** through volcanism. The most recent pass (~1,000 years ago) **went
   badly** — it blanketed the continent in an **alchemical, mutating sickness**.
   Sea levels swing dramatically and **islands come and go.** It is a wild,
-  unstable time (and a transformation engine in its own right). `[draft]` **A Manichean
+  unstable time (and a source of transformation in its own right). `[draft]` **A Manichean
   read:** each pass is a contest of **magma demon vs. sky dragon** decided by **pace** —
   slow magma **flows out and builds land**, a fast clash **explodes** (Krakatoa) — which
   makes **demons a power apart** from the dragon-descended (see

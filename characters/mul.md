@@ -59,7 +59,7 @@ he spends his words *fishing*.
 
 ## Scene — Return to the Tower
 
-*The party comes back to Maalm having finished the [Valley of the Kings](../encounters/valley-of-the-kings.md) — the last names relayed, the tombs behind them. They climb to the tower to report and be paid. **Preem is not here** (Foundation business, the council, the Company — Mul is vague on purpose); Mul answers the door and handles them himself, settling the final payment in person. That is the whole horror of the scene, and you never say it out loud: they are handing the last of the true names — gods, judges, the two-and-forty Assessors — to a bound demon of the deep cities, the very kind of creature those names exist to enslave. Mul knows exactly what they've brought him. He thanks them warmly. Play him nasal, unassuming, in quiet pain, glad to see them — and let the mask slip only where noted.*
+*The party comes back to Maalm having finished the [Valley of the Kings](../encounters/valley-of-the-kings.md) — the last names relayed, the tombs behind them. They climb to the tower to report and be paid. **Preem is not here** (Foundation business, the council, the Company — Mul is vague on purpose); Mul answers the door and handles them himself, settling the final payment in person. That is what the scene does, and you never say it out loud: they are handing the last of the true names — gods, judges, the two-and-forty Assessors — to a bound demon of the deep cities, the very kind of creature those names exist to enslave. Mul knows exactly what they've brought him. He thanks them warmly. Play him nasal, unassuming, in quiet pain, glad to see them — and let the mask slip only where noted.*
 
 **Read aloud — the door opens:**
 
@@ -86,16 +86,16 @@ he spends his words *fishing*.
 **"What's coming? The comet — the bleeding star?"**
 - "The star that bleeds. Yes." *(a beat too long)* "The master will tell you what he wants you to know of it, and not a word before. It is not my place."
 - *(if they push)* "I know what everyone knows — a star, an ending, the old histories. The last time it came it —" *(he stops himself flat, like a man who has walked to the edge of something in the dark)* "— so it is written. Ask him. Not me." *(the smile, hurried, back on)* "Wine? You look like you want wine."
-- **DM note:** he very nearly says something he should not — a paying-attention party clocks the swallowed sentence and the too-quick "not me." But he does **not** tell them. He never tells them. The near-slip *is* the beat; a demon of the deep cities does remember the last Ragnarok, and the whole point is that he catches himself.
+- **DM note:** he very nearly says something he should not — a paying-attention party clocks the swallowed sentence and the too-quick "not me." But he does **not** tell them. He never tells them. Play the near-slip: a demon of the deep cities does remember the last Ragnarok, and he catches himself.
 
 **"We saw a serpent carved older than the tombs — gold-scaled, lapis-blue. What is it?"** *(the deep plot — the volcano-island, [Apep](../encounters/valley-of-the-kings.md), the thing the whole campaign points at)*
 - *(everything about him stops — the fidget, the smile, the nasal lilt, gone between one word and the next)* "...Where. Where did you see that."
 - *(if they answer)* "On the map. On the floor of the valley. Yes." *(very quiet)* "That one is not dead. The gods are dead. That one is only sleeping, and it is very far, and it is better for everyone that it stays both." *(then the mask snaps back, too fast, too bright)* "Old carvings! The ancients drew a great many things. Your payment — here, here."
-- **DM note:** this is the single most important reaction Mul ever gives. He is a demon of the deep cities; he knows what the serpent-island is and what Preem wants with it. Don't explain — just let a perceptive party feel that they touched a live wire.
+- **DM note:** this is Mul's largest reaction in the scene. He is a demon of the deep cities; he knows what the serpent-island is and what Preem wants with it. Don't explain — just let a perceptive party feel they have hit something dangerous.
 
 **"There's a queen still out there — Farseh-ti. A mummy, caring for the sick."** *(if they mention Kethara)*
 - *(barely interested — a flick of the hand)* "A dead thing, minding dying things. The valley is thick with sorrows; that is one more. She is nothing to the master — a name in a tomb with no door behind it." *(a thin, tired look)* "You did not bring her home with you, I hope? No? Good. Leave the dead their grief. We have enough of our own."
-- **DM note:** the *contrast* is the point. Farseh-ti is undead, not a demon — Planar Binding doesn't touch the undead, so her true name is **useless** to Preem. Mul waves her off, bored, where a minute ago the gold-and-lapis serpent made him go rigid. A sharp party feels the difference between the names that are "just names" and the ones that are doors. (The stray "we have enough of our own" is another quiet crack — grief he won't explain.)
+- **DM note:** play the *contrast*. Farseh-ti is undead, not a demon — Planar Binding doesn't touch the undead, so her true name is **useless** to Preem. Mul waves her off, bored, where a minute ago the gold-and-lapis serpent made him go rigid. A sharp party feels the difference between the names that are "just names" and the ones that are doors. (The stray "we have enough of our own" is another quiet crack — grief he won't explain.)
 
 **"Who are you, really?"** *(a suspicious PC)*
 - "I am the one who answers the door." *(the smile, on time for once, which is somehow worse)* "That is all I am for. ...We are very tired today. Was there anything else?"
@@ -123,17 +123,17 @@ Then, as they reach the stairs, quiet, and meaning it more than they can know:
 
 ## The Pay — What a Name Is Worth
 
-*Reference for the whole name-quest, not just this scene — Mul (or the invisible quasit at a long rest) is the paymaster. The party only ever sees the numbers, never the reason, and the numbers are themselves the clue: the names that pay a fortune are the names that are **doors.***
+*Reference for the whole name-quest, beyond this scene — Mul (or the invisible quasit at a long rest) is the paymaster. The party only ever sees the numbers, never the reason, and the numbers are themselves the clue: the names that pay a fortune are the names that are **doors.***
 
 | Pay / name | What the name is | Why |
 |---|---|---|
 | **5 gp** | **Dead names** — the whole [Valley of the Kings](../encounters/valley-of-the-kings.md) tier: dead kings, dead gods, the forty-two Assessors, undead queens — anyone whose referent is gone. | No binding value. Preem buys them as scholarship cover and to bury the names he *actually* wants in a heap of worthless ones. This is the "easy grave-robbing" rate — the one [Mul throws back at them](#the-stonewall--when-they-pry-too-hard). |
 | **50 gp** | **Minor living names** — lesser spirits, imp/quasit-tier fiends, a named beast-spirit. | A real door, but a small one. |
-| **500 gp** | **Significant demons and living powers** — something genuinely worth summoning and binding. | Preem notices names like these. |
-| **2,500 gp** | **The truly dangerous** — a demon-lord's lieutenant, an elemental prince's servitor, names spoken only in warnings. | Rare; he pays like it. |
-| **10,000 gp** | **The volcano-demon's true name** — the one name that can pull the trigger on Ragnarok. | The apex the entire quest-ladder was built to reach. Preem will pay a fortune for it — or hand it to the party and ask them to *speak* it themselves (the [climax](preem.md#the-climax--the-volcano-demon-choice)). |
+| **500 gp** | **Significant demons and living powers** — something worth summoning and binding. | Preem notices names like these. |
+| **2,500 gp** | **The most dangerous** — a demon-lord's lieutenant, an elemental prince's servitor, names spoken only in warnings. | Rare; he pays like it. |
+| **10,000 gp** | **The volcano-demon's true name** — the one name that can pull the trigger on Ragnarok. | What the whole quest builds toward. Preem will pay a fortune for it — or hand it to the party and ask them to *speak* it themselves (the [climax](preem.md#the-climax--the-volcano-demon-choice)). |
 
-**The escalation is the story.** The party starts grave-robbing for pocket change and ends holding a name worth more than most kingdoms. When the price of a name suddenly leaps, they are being told — without being told — that *this* one is different. (Exact numbers are tunable; the shape — **5 → 50 → 500 → 2,500 → 10,000** — is the point.)
+**The escalation is the signal.** The party starts grave-robbing for pocket change and ends holding a name worth more than most kingdoms. When the price of a name suddenly leaps, they are being told — without being told — that *this* one is different. (Exact numbers are tunable; what matters is the shape — **5 → 50 → 500 → 2,500 → 10,000**.)
 
 ---
 

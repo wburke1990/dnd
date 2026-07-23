@@ -48,7 +48,7 @@ So beneath the island chain there is a buried chain that mirrors it:
 
 ## The alliance, and how it fell apart
 
-When the First Foundation raised Muspelheim, the demon-people were its engine.
+When the First Foundation raised Muspelheim, the demon-people powered it.
 The empire ran on their power and their heat; men, dragonborn, and demons built
 the iron north together. The demons were infrastructure, not enemies. This is
 the part later ages forgot.
@@ -125,7 +125,7 @@ sun-god not by any gift but by **poisoning him and prising his hidden true name
 out of him at the edge of death.** The Maalm mages read that myth as a recipe, and
 it handed them both halves of what they built: the **principle** (a secret name is
 a leash, even on a god) and the **method** (take it at the brink). Working from
-**inside the First Foundation** (the Asimov nesting made literal: a hidden order
+**inside the First Foundation** (the Asimov nesting: a hidden order
 within the elder one; see [the Second Foundation](the-second-foundation.md)), they
 turned it into the weapon — **Planar Binding, spoken with a true name, takes hold
 with no save and never lets go** (see [Preem's demons](../characters/preems-demons.md)).
@@ -238,7 +238,7 @@ temples five thousand years ago.**
 
 #### The quest — and why the hunt is running now
 
-This is the campaign's spine. For most of its history the order needed a
+This is the campaign's core. For most of its history the order needed a
 **stable, not an army.** Its first names were taken the Isis-and-Ra way — at
 the brink, in the war era — and the centuries since added a name here and a
 name there, enough for a tower of bound servants. The order binds what climbs
@@ -273,8 +273,8 @@ Two things give the hunt teeth:
   freely purge the sunlit sites themselves — which is exactly why a patron needs
   **mortals,** who can walk in where demons can't. Every name-hunt is a race
   against something with everything to lose.
-- **The slow burn.** The party think they are grave-robbing for a scholar-patron.
-  The dawning horror is what the names are *for*: every one they recover and hand
+- **The party's discovery.** The party think they are grave-robbing for a scholar-patron.
+  What the names are *for* dawns on them slowly: every one they recover and hand
   up is the key that locks a living demon into servitude — a vrock in a pit as
   readily as anything wearing a human face. They are forging chains, link by link,
   and delivering them to Preem, and they grasp it only after they have done it.
@@ -283,8 +283,7 @@ Two things give the hunt teeth:
 deep city (below). When they descend, every gate on the way down answers to a
 keeper's covenant name — the covenant still holds the keeper, and there is no
 other door. To walk the road they must speak the names they have been selling,
-and watch each gate stop resisting. The toll is paid in the campaign's own
-currency.
+and watch each gate stop resisting.
 
 The endpoint of the hunt is the **one name no tomb holds — the magma demon's** —
 which is why getting *it* (below) is a different and far worse deed than robbing a
@@ -320,13 +319,13 @@ There is only one way to get it, and it is the same way any true name is taken:
 defeat that demon, bring it to the edge of true death, and force the name out of
 it. The difference is the target — a demon powerful enough that few could
 survive the attempt (a very high CR; see
-[the demon roster](../bestiary/available-demons.md)). This is the deed at the
-heart of the late campaign. To win the magma demon's name the party must do the
-very thing the whole story frames as horrific — wrench a name out of a demon at
+[the demon roster](../bestiary/available-demons.md)). The late campaign
+builds toward this deed. To win the magma demon's name the party must do the
+very act the rest of the story condemns — wrench a name out of a demon at
 the brink — before they are ever asked whether to use it.
 
 > **[OPEN]** Which demon holds it (a bespoke eldest of the deep, or a reflavored
 > printed demon lord), and where the confrontation happens. The living deep-city
 > under the current hotspot is the natural site; and because a demon can only
-> truly die in the Abyss, the fight that threatens it with true death likely has
+> die for good in the Abyss, the fight that threatens it with true death likely has
 > to happen down in the tunnels themselves.
