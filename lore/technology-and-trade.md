@@ -67,7 +67,7 @@ Nila has lived through **two ages of metal**, and the turn between them was a ca
 
 ### Bronze (the lost age — the Amseh world)
 The deep past ran on **bronze:** copper alloyed with **tin.** It was the age of the
-[Amseh empire](amseh-dynasty.md) and the dragonborn **Lonka/Tyre** trade — and it hung utterly
+[Amseh empire](amseh-dynasty.md) and the dragonborn **Lonka/Tyre** trade — and it hung
 on **long sea-roads,** because the two ingredients don't come from one place:
 - **Copper: [Lonka](lonka-jotunheim.md).** Common, and **copper does occur in volcanic
   ground** — and Lonka was the trade-city besides.
@@ -82,7 +82,7 @@ on **long sea-roads,** because the two ingredients don't come from one place:
 - **Amber** is **not** a bronze ingredient — it was the Bronze-Age **luxury** (the Amber
   Road). And it needs **deep age:** fossil resin takes millions of years, so it **cannot come
   from the young comet-islands** (Lonka, Musleheim, the Kurunatukas, all ≤6,000 yrs) — only
-  from **truly ancient land.** `[settled]` Its source is the **[ancient southern land of
+  from **ancient land.** `[settled]` Its source is the **[ancient southern land of
   giants](the-southern-land.md)** off the south edge of the map ([Sarric's](../characters/sarric.md)
   homeland), reached by the closed southern tunnels.
 - `[OPEN — to-do]` Write copper, tin, and amber into the
@@ -101,8 +101,8 @@ stopped, the Amseh world fell and stayed down.
 **the first iron empire** — ore mined in its **west,** smelted with charcoal and bellows,
 feeding a power no bronze-starved rival could match (see [Musleheim](musleheim.md)). Iron needs
 **no exotic tin road** — just ore, fuel, and air — so unlike bronze it is **collapse-proof,**
-which is part of how the Muspel/iron north came to dominate. *(The hot spot's land-factory is
-also an iron-factory: the newest volcanic islands are the richest ore — one more reason the
+which is part of how the Muspel/iron north came to dominate. *(The hot spot that makes new land
+also makes iron: the newest volcanic islands are the richest ore — one more reason the
 [Kurunatukas](kuru-and-the-phoenix.md) are fought over.)*
 
 ### Steel — not yet, except from the stars

@@ -195,7 +195,7 @@ growing to associate with them.** How to run it:
   something he won't admit is faith. By the time it matters, **Sea-Fever
   is his actual creed**, and the saints are his model for what atonement
   might cost: finish the thing, even if finishing it is the long trick.
-- **Foreshadowing payoff:** this quietly arms a heroic-sacrifice option
+- **Foreshadowing:** this quietly sets up a heroic-sacrifice option
   for the Sayid/Lonka climax without forcing it — the faith gives dying
   to mend things a *meaning* Blackacre would once have laughed at.
 - **Practice for the endgame choice.** `[draft]` At the finale the
@@ -212,7 +212,7 @@ growing to associate with them.** How to run it:
 
 1. **The watch-stone you can't avoid.** Drop a grave on the route to any
    sea destination. First few times: flavor, a verse, a free drink owed
-   to the dead. The drumbeat is the point — repetition is what converts
+   to the dead. Repetition is what converts
    him.
 2. **Two tellings, one tavern.** Two NPCs argue the "true" version of an
    Idris or Wazzan song; pull Blackacre in. Cheap, in-character, and it
@@ -236,7 +236,7 @@ growing to associate with them.** How to run it:
   [handouts/](../handouts/) on the Requiem pattern.
 - **Place the watch-stones on the map** — at least Idris's (near Lonka,
   on Blackacre's road) and Tariq's strait.
-- **Decide Wazzan's status** — dead, undead-by-trick, or genuinely still
+- **Decide Wazzan's status** — dead, undead-by-trick, or still
   out there.
 - Resolve how this faith relates (if at all) to the **zealots'** religion
   and to the broader **Ragnarok / Second Foundation** mythology the

@@ -24,7 +24,7 @@ it permanent. Settles the climate question behind
   is the **headwaters/catchment** (inland, south); the dead river's **mouth** is
   at the Maalm coast (north).
 - **Musleheim lies to the northwest** `[confirmed — world map]`: the large
-  mountainous landmass in the center-west, with a tall mountain spine through
+  mountainous landmass in the center-west, with a tall mountain range through
   its interior, separated from Maalm by the open central sea. From Maalm it sits
   up and to the left (NW) — squarely **upwind** of the valley if the rain-bearing
   weather comes off the northwestern ocean (the Lonka/Musleheim quarter). This
@@ -67,7 +67,7 @@ thousand years.
 
 ## Act II — The desert locks itself in (the mechanism)  [settled — the load-bearing idea]
 
-The few ashen years don't just *pause* the system — they push it past a
+The few ashen years do more than *pause* the system — they push it past a
 threshold into a state that **holds itself with no further forcing.** Two
 feedbacks do the work, and they reinforce each other:
 
@@ -116,7 +116,7 @@ further every generation until, by the middle passes, it is shut for good.
 > prevailing rain-bearing weather is **northwesterly** — off the deep ocean in
 > the Lonka/Musleheim quarter. Before Musleheim rose, those NW storms crossed
 > open water and watered the southern Troltiggen catchment, and the river ran.
-> Once the hot spot raised Musleheim's mountain spine directly to windward, that
+> Once the hot spot raised Musleheim's mountain range directly to windward, that
 > NW moisture is wrung out as orographic rain **on Musleheim's own slopes**, and
 > the air that finally reaches Maalm and its southern highlands is spent. The
 > river's outlet-sea lies to the *north*, so the lock depends specifically on
@@ -145,7 +145,7 @@ further every generation until, by the middle passes, it is shut for good.
   and a lens on the broader land-and-water scarcity theme
   ([overview §5](campaign-overview.md#5-the-shape-of-the-world)).
 - **The dead river *is* the cistern water.** The surface river didn't vanish so
-  much as go underground and uphill of nowhere; Maalm's whole closed-loop
+  much as go underground and uphill of nowhere; Maalm's whole
   survival — hidden cisterns, guarded tunnels — is the same region's water,
   hoarded 5,000 years later. The dead bed above and the deadly cisterns below
   are two ends of one story.
@@ -167,7 +167,7 @@ further every generation until, by the middle passes, it is shut for good.
 
 ---
 
-## Why not just "the ash cloud lasted 1,000 years"?
+## Why the ash cloud didn't last 1,000 years
 
 It can't — and the worldbuilding deliberately doesn't lean on it. Volcanic ash
 veils clear in years to a couple of decades. If the river's death depended on a
@@ -191,14 +191,14 @@ long dry coherent: a short trigger flipping a landscape into a state that keeps
 - [`lore/campaign-overview.md`](campaign-overview.md#5-the-shape-of-the-world) —
   the moving hot spot, the comet cycle, the land-and-water zero-sum theme.
 - [`lore/maalm-the-elven-stronghold.md`](maalm-the-elven-stronghold.md) /
-  [`lore/maalm-context-export.md`](maalm-context-export.md) — the closed-loop
+  [`lore/maalm-context-export.md`](maalm-context-export.md) — the
   cistern ecology the dead river feeds into.
 
 ## Open / to confirm
 
 - `[settled, per world map]` Musleheim sits NW of Maalm across the central sea;
   prevailing rain-bearing winds are NW (Lonka/Musleheim quarter); Musleheim's
-  mountain spine is the rain-shadow wall (see Act III).
+  mountain range is the rain-shadow wall (see Act III).
 - `[settled, per maps]` River direction (S→N), headwaters (Troltiggen highlands
   / Valley of the Kings, south), mouth (Maalm peninsula, north).
 - `[settled]` The river is an **ephemeral ghost**, not bone-dry: the channel is

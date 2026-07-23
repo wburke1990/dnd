@@ -203,7 +203,7 @@ bought a victory the mountain took back, and the father answers for the child.
 **The knock-on (the last few hundred years):**
 
 - With the orc fleet broken and the water opened, the hot spot kept **raising
-  new land** — **Moku Kurunatuka**, genuinely fresh volcanic rock, fertile and
+  new land** — **Moku Kurunatuka**, fresh volcanic rock, fertile and
   fought over by no one, because **it did not exist during Viking dominance —
   it rose as the Vikings fell.** **Noku is a different story:** it's old
   ground, the depopulated southern reach of the drowned Muspel capital

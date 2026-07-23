@@ -34,8 +34,8 @@ walk past. The plaque carries the founder's epitaph — the "lay of the last
 survivor" inscription quoted in full in [maalm-founding.md](maalm-founding.md)
 (Layer One), now attributed to **Bedraageon. Dragonborn.**
 
-This resolves the earlier fountain-vs-humble-marker question: **the fountain is the
-square's centerpiece; the grave itself stays a humble ground-marker beside it,** so
+This resolves the earlier fountain-vs-humble-marker question: **the fountain stands at the
+square's center; the grave itself stays a humble ground-marker beside it,** so
 the reveal still lives in the tavern (The Twelve), not the plaza — "the grave tells
 them almost nothing; the tavern tells them everything"
 ([maalm-founding.md](maalm-founding.md)).

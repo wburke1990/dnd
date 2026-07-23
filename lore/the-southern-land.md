@@ -5,7 +5,7 @@
 
 - **Ancient — older than the comet-islands.** It predates the comet's young volcanic lands,
   which is why it is the world's only source of **amber** (fossil resin needs deep age — see
-  [technology & trade](technology-and-trade.md)). A genuinely *old* land in a world of new ones.
+  [technology & trade](technology-and-trade.md)). An *old* land in a world of new ones.
 - **A land of giants** — and the homeland of **[Sarric](../characters/sarric.md)** (Jeremy's
   firbolg ranger), whose giant-kin lineage traces back here. *(Island gigantism, an old giant
   civilization, or both — `[OPEN]`.)*

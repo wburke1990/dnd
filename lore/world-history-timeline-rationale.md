@@ -26,7 +26,7 @@
 - **The hot spot drifts southeast,** cooling what it leaves behind. The under-sea tunnels off
   **northwest Musleheim** cool enough to walk by **~3,000 ya**, so the road home stands open for
   centuries — but the zealots don't cross until Maalm's colony (~2,000) provokes them, ~1,900 ya.
-- **Colonies and armies need *organization,* not just ships.** The dragonborn could always
+- **Colonies and armies need *organization,* not ships alone.** The dragonborn could always
   *voyage*; large colonial/military moves therefore cluster in the **iron-age empire** era
   (~4,000 on), not the empty Dark Age.
 

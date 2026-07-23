@@ -15,7 +15,7 @@
 
 An **elf-elite desert conquest-city, modeled on Petra,** built **atop the ruins of the
 Amseh dynasty** and **over the place where Ammit sleeps.** On **old, exhausted soil** it
-survives by a **near-total closed-loop ecology:** **hidden underground cisterns** (water)
+survives by a **near-total self-contained ecology:** **hidden underground cisterns** (water)
 plus **guano from sacred seabird colonies** (fertility). Two **iron laws** were given to
 the players in the opening session: **never harm a seabird,** and **death to anyone who
 approaches a hidden cistern.**
@@ -95,7 +95,7 @@ approaches a hidden cistern.**
 
 ## 6. Ecology reveals for the eco-party (Sarric the ecoterrorist)
 
-- **Green marvel vs. ruthless survival:** the world's most sophisticated closed-loop city,
+- **Green marvel vs. ruthless survival:** the world's most sophisticated self-contained city,
   held up by brutal law on land they already exhausted. *Stewardship or desperation?*
 - **Water inequality as a lushness gradient** (deep cool founder canopy vs. commoner
   rationing — the whole oasis is green, but the deep shade is the elite's).

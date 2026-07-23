@@ -153,7 +153,7 @@ Amseh III's tomb is about battle and judgment simultaneously. The outer chamber 
 
 **Historical role:** Amseh IV was not born to be king. He was a younger prince, married off to a foreign court as part of a diplomatic arrangement — the Mesopotamian theme of his tomb reflects his foreign origin and the cultural world he came from before his return. When the coup killed his older siblings, he was retrieved from abroad and placed on the throne.
 
-He changed his name to Amseh to legitimize his claim. His original name is unrecorded in the tombs — either deliberately erased or simply never inscribed, as if he was trying to become someone else entirely.
+He changed his name to Amseh to legitimize his claim. His original name is unrecorded in the tombs — either deliberately erased or simply never inscribed.
 
 **The foreign queen:**
 He brought Kethara (Farseh-ti) with him from the foreign court — she was his wife from his life abroad. She was foreign in a court already under enormous stress, ruling a people who were starving and looking for someone to blame. There is evidence — in the tone of the lament inscription if not in explicit text — that the court pushed for the sacrifice of the children partly out of xenophobia. The foreign queen's children. The children who were not fully of this land. The gods might prefer pure-blooded offerings.

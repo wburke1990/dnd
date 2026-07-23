@@ -5,7 +5,7 @@
 > machinery* the players don't know yet. **🔒 = DM secret** (currently unknown
 > to the party). Dates are the campaign's loose "~years ago" convention; the `~`
 > is load-bearing — most of this is myth recorded by unreliable hands, and several
-> spans are deliberately soft (`[OPEN]` flags the genuinely unresolved ones).
+> spans are deliberately soft (`[OPEN]` flags the unresolved ones).
 >
 > Sources are linked per entry. The thread to keep in view: **the comet returns on
 > a ~1,000-year cycle, and every return remakes the world** — stones fall, become
@@ -15,7 +15,7 @@
 
 ---
 
-## The Cosmological Engine: the Comet Cycle
+## The Comet Cycle
 
 Everything below hangs on one clock. Roughly every **~1,000 years** a comet passes
 and sheds matter onto **Nila** — a world *less dense than Earth, mostly water, and
@@ -69,7 +69,7 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 | *(the **Kalikhat Crusades**)* | *~1,400 → ~1,150 ya* | *Kuru's **first crusading era**: failed surface colonies on long-habitable Kalikhat run headlong into the deep gnomes, drow, and demons below; a second wave is sent to recover the **warforged dead** and 🔒 **steal Kalikhat's god-stone** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).* |
 | 6th — The Bad Pass | ~1,000 ya | 🔒 **Not an accident:** the [Second Foundation](the-second-foundation.md) had infiltrated the First and **sabotaged its comet-handling**, making the pass go haywire — **destroying the Muspel empire** and blanketing the continent in an **alchemical, mutating sickness** that **mutated the empire's own people into orcs & half-orcs** (see §VII, [First Foundation](the-first-foundation.md)). Seas swing, islands come and go. |
 | *(the orc sea falls — **Svolder & Hjörungavágr**)* | *~320 / ~300 ya* | *The two legendary sea-battles at the close of the raiding age break the **Muspel orcs'** command of the water — **Svolder** (orc against orc), then **Hjörungavágr** (the **Suartleheim dwarves** against the orcs), where an undersea eruption **begins raising Moku Kurunatuka**: the battle that broke the orc sea and the birth of the new land are one event (see [ships & sea-power](ships-and-sea-power.md)).* |
-| *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush**: onto **Moku**, genuinely fresh volcanic land the hot spot surfaces; onto **Noku**, old depopulated ground resettled by orcs since the bad pass and now **conquered** rather than claimed empty (see [Musleheim](musleheim.md)). Both grow into **client-states**, not mere colonies (see §VII).* |
+| *(**Moku & Noku Kurunatuka** colonized)* | *~300 ya → now* | *Kuru's **land rush**: onto **Moku**, fresh volcanic land the hot spot surfaces; onto **Noku**, old depopulated ground resettled by orcs since the bad pass and now **conquered** rather than claimed empty (see [Musleheim](musleheim.md)). Both grow into **client-states**, not mere colonies (see §VII).* |
 | 7th — **the coming Ragnarok** | **~1 year out** | Reckoned imminent by the Second Foundation, which means to **let it fall as Ragnarok** and ride out the wreck of its rivals — the orc tribes, the Kuru/Noku armies — unlike the **First Foundation**, who'd steer it into safe land-building. 🔒 Preem, the Foundation's First Chair, goes further than his own order: not content to merely survive the catastrophe, he means to **master** it, binding a volcano-demon to force the pass's result under his own hand. |
 
 *Sources: [campaign overview §5](campaign-overview.md), [Amseh dynasty](amseh-dynasty.md), [the Second Foundation](the-second-foundation.md).*
@@ -165,7 +165,7 @@ part of a thousand years, until Bedraageon.
 
 > **The hinge of the timeline.** Maalm is founded in the trough of the Dark Age,
 > *before* the comet's ~4,000-ya return begins raising Musleheim and the new
-> islands. That ordering is the point: Bedraageon searches an empty, land-poor world
+> islands. That ordering matters: Bedraageon searches an empty, land-poor world
 > and finds no other dragonborn **because the lands that will one day shelter
 > scattered survivors do not yet exist.** He is, in the cruelest sense, about a
 > century too early — the world starts to heal almost as soon as he's buried.

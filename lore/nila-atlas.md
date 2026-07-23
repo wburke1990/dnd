@@ -225,7 +225,7 @@ mainland, not Mukka.)*
 
 - **Maalm** (88, 93) is in the **extreme SE**, a peninsula in Suartleheim Eet.
 - **Musleheim** (~45, 42) fills the **whole center** and is **NW of Maalm** across
-  the open sea; its **mountain spine is in the west** — the rain-shadow wall in
+  the open sea; its **mountain range is in the west** — the rain-shadow wall in
   [the drying of the valley](the-drying-of-the-valley.md).
 - **Cartaga** (61, 57) — sunken Muspel capital — lies on the **Musleheim–Noku
   strait**, roughly N of the Kurunatukas.

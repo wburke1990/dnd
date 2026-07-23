@@ -21,7 +21,7 @@ Mortals cannot be *bound* — but they can be *geas'd*, and the true name is wha
 
 Run it in the old register — the **geis of Celtic myth**: a strange, specific prohibition or sworn charge whose breaking brings ruin (*"you shall never refuse a feast set before you," "you shall not lift a weapon against your own blood"*). Word the charge in the myths' own cadence where you can; with the true name behind it, the geis simply **holds**.
 
-**So the party is exposed after all.** Every living one of them has a true name and can be geas'd by anyone who learns it — not only Pax (who alone can be *enslaved*). Their shield is **secrecy, not immunity:** true names are hidden and hard to come by (see *True Names in the World*, below), which is why they are safe in practice and not in principle. **Aniess** is the sharp case — remade into a Yuan-ti, she still **can't be owned** (no bindable name), but like any living mortal she *could* be geas'd if her true name were known; it isn't. `[None of them have been warned they can be geas'd — DM's call whether and when they find out.]`
+**So the party is exposed after all.** Every living one of them has a true name and can be geas'd by anyone who learns it — Pax is not the only one exposed (he alone can be *enslaved*). Their shield is **secrecy, not immunity:** true names are hidden and hard to come by (see *True Names in the World*, below), which is why they are safe in practice and not in principle. **Aniess** is the sharp case — remade into a Yuan-ti, she still **can't be owned** (no bindable name), but like any living mortal she *could* be geas'd if her true name were known; it isn't. `[None of them have been warned they can be geas'd — DM's call whether and when they find out.]`
 
 ## Breaking your own name — the last door
 
@@ -55,7 +55,7 @@ The wizard has collected a number of true names over the years — the foundatio
 
 ## Changing a true name — the only escape
 
-A true name *can* be changed — but it is the most expensive act in the world, and almost no one pays it. To shed the name that binds you, you must **remake yourself from the root**: a conscious, deliberate **transformation into something genuinely other**, which means the **destruction of the self you were** and the **loss of every magical power you held**. What walks away is alive and free and *new* — but it is not you, and it is powerless.
+A true name *can* be changed — but it is the most expensive act in the world, and almost no one pays it. To shed the name that binds you, you must **remake yourself from the root**: a conscious, deliberate **transformation into something other**, which means the **destruction of the self you were** and the **loss of every magical power you held**. What walks away is alive and free and *new* — but it is not you, and it is powerless.
 
 This is the one door out of a true-name binding. A demon held an age can take it: faced with eternal servitude, it can **unmake the demon it was** — and the bound thing collapses into a drift of **ash that lifts on the breeze and is gone**, the binding closing on nothing. Freedom bought with self-erasure. *(A set-piece worth saving for when the quest reaches [Muspelheim](the-muspel-empire.md) and the stakes are highest.)*
 

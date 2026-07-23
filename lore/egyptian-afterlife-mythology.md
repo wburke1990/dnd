@@ -7,7 +7,7 @@
 
 The Egyptian afterlife belief system evolved over approximately 3,000 years and changed dramatically between periods. The dream quest draws primarily from New Kingdom sources — the Book of the Dead, the Amduat, the Book of Gates — but the tombs in the Valley of the Kings reference all three major periods. Understanding the evolution helps you answer player questions consistently and adds depth to how you describe what the party encounters.
 
-The single most important thing to understand: Egyptian afterlife belief was not a fixed system. It changed constantly, it contradicted itself, and different texts reflect different theological schools sometimes operating simultaneously. This is a feature, not a bug — it means you have enormous flexibility in how you present things at the table.
+The thing to understand: Egyptian afterlife belief was not a fixed system. It changed constantly, it contradicted itself, and different texts reflect different theological schools sometimes operating simultaneously. This is a feature, not a bug — it means you have enormous flexibility in how you present things at the table.
 
 ---
 
@@ -55,7 +55,7 @@ The single most important thing to understand: Egyptian afterlife belief was not
 
 **The Book of Two Ways:**
 
-The most important Middle Kingdom innovation for your campaign. Two paths through the underworld:
+The Middle Kingdom innovation used in your campaign. Two paths through the underworld:
 
 - **Land route (black):** Darker, more dangerous, guarded by named demons at a series of gates
 - **Water route (blue):** Requires navigating fire beneath the surface
@@ -113,7 +113,7 @@ The Book of the Dead is the primary source for the dream quest's mechanics — t
 
 ### The Book of Gates
 
-Similar structure to the Amduat but organized around gates rather than hours. Gates regulate movement rather than measuring time — passage requires authorization, not just endurance.
+Similar structure to the Amduat but organized around gates rather than hours. Gates regulate movement rather than measuring time — passage requires authorization rather than endurance.
 
 12 gates, each guarded by a serpent deity associated with a goddess. The deceased must know the name of each guardian to pass. Failure means suffering in a lake of fire.
 
@@ -233,7 +233,7 @@ Behind Osiris's throne. What lies beyond it is not described in Egyptian sources
 
 # APEP — EXTENDED NOTES
 
-Apep is the most important hostile entity in the dream quest. Full detail here for reference.
+Apep is the main hostile entity in the dream quest. Full detail here for reference.
 
 **Nature:** Not a god — a primordial force, a "non-being," the embodiment of chaos (Isfet) against which all order (Ma'at) must be maintained. No temples were built to him. He received no worship. He was feared, not revered.
 

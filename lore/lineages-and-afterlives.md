@@ -32,7 +32,7 @@ carries both and, at death, **chooses** which claims them (§6).
 | **Dragon people** | The comet: the primordial dragon-ancestor, then the cosmic beasts that mutated each line | **Judged in the sky** by the deity of their line's cosmic beast | **Many** — one per cosmic beast / region (Maalm's Egypt is example #1); includes **giant humans** (island gigantism) |
 | **The nameless** | Primordial — born of the world itself | **Return to the world** — unjudged, and no name to be owned by | **Earth** (True Giants → mountains; giant-kin/Firbolgs → the alpine life) and **Sky** (the weather-people → rain, rivers, storm) |
 
-The spine: **the true-named** are named and can be owned; **the nameless** have
+In short: **the true-named** are named and can be owned; **the nameless** have
 no name and cannot; **dragon people** are the mortal middle — they carry a Ren
 (true name) that matters for their souls, but they are not bound like outsiders.
 
@@ -46,7 +46,7 @@ ownable.
 
 - **Demons** — born from chaos, out of the magma-deep; the pole **below.** They
   get **one existence and nothing after.** This sharpens the name-quest horror:
-  binding a demon by its true name doesn't only enslave it — the demon has **no
+  binding a demon by its true name enslaves it, and the demon has **no
   afterlife to be freed into.** Planar Binding takes the one life it will ever
   have (see [the dream quest's wizard's-hand note](../encounters/the-dream-quest.md)).
 - **Celestials** — order and the sky; the pole **above.** Their existence is
@@ -169,10 +169,10 @@ them. That is why they leave one. The cave-painting tradition (§8) is a people
 recording the one thing their afterlife does not preserve.
 
 Sarric's fight follows from all this, and is worse than it first looks: the
-mountain is not only his dead, it is his **unborn** — the stock new Firbolgs
+mountain is his dead and his **unborn** — the stock new Firbolgs
 are drawn from. The Company gutting a mountain at
-[Haals](../encounters/the-haals-runoff.md) is not only butchering ancestors,
-it is destroying the material his people are made out of. His belief that
+[Haals](../encounters/the-haals-runoff.md) is butchering ancestors
+and destroying the material his people are made out of. His belief that
 "the world feels pain when it is hurt" ([sheet](../characters/sarric.md)) is
 fact, and the crime is closer to sterilization than to desecration.
 

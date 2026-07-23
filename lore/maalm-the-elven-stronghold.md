@@ -239,7 +239,7 @@ to the players in the opening session). **[settled]**
 - **[in play]** This is the legal teeth behind the
   [docks arrest](../encounters/docks-departure.md): **twenty rats is well past a
   traveler's provisions,** so the charge of **"illegal export of the 20 rats"** is a
-  real organics-smuggling offense the watch can hang on the party — not just a
+  real organics-smuggling offense the watch can hang on the party, not a
   pretext.
 
 ### The green city — every affording house a farm
