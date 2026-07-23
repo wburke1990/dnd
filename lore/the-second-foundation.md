@@ -245,9 +245,9 @@ discusses the owning of land.
 
 He is **[Pax](../characters/pax.md)'s mirror, deliberately held for late game.**
 Pax speaks for the wounded living world that is owned and damaged; Vael speaks
-for **the hand that owns** — two prophets, opposite gods, and (like Pax) maybe a
-madman dressing power in scripture, maybe genuinely touched by something old that
-answered him. Introduce him only when the **names-and-ownership truth is already
+for **the hand that owns** — two prophets, opposite gods, and (like Pax) maybe touched
+by something old that answered him, maybe a madman dressing power in scripture. 
+Introduce him only when the **names-and-ownership truth is already
 unfolding** (roughly **level 12+**), so he *confirms* what the party has begun to
 dread rather than *announcing* it. Pax's **early, surface** mirror — his
 chosen-instrument zealotry with no cosmology attached — is **Calix Vire** in the

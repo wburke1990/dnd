@@ -182,7 +182,7 @@ Some are table preferences; several are load-bearing for the themes above.
   **mutation runs fast**, so those descendants diversified into the full sprawl of
   D&D species. **Almost every race is homebrewed as descending from that one
   common ancestor.** (The first event in history is thus a transformation — the
-  whole comet cosmology made literal at the creation.)
+  first round of the comet cosmology.)
 - **Mixed peoples — no single-species cities (yet).** Fast mutation and constant
   migration mean **every city is mixed**; there is no one-people settlement anywhere.
   Regions *skew* — Maalm elf-elite, Kuru man-heavy, Musleheim orc-heavy — but none is

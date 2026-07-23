@@ -130,7 +130,7 @@ the shadows and directs all rats within 60 ft. as part of the same command.
   the target makes a **DC 10 Con save** or is **diseased**.
 
 **Resupply.** Ratatat's **Rat Empathy** Bonus Action summons **2 new rats** from
-the shadows/cracks each turn while he lives — the tide never truly stops until he
+the shadows/cracks each turn while he lives — the tide never stops until he
 falls. Track with tokens or a d20.
 
 ---

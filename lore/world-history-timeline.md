@@ -253,7 +253,7 @@ of men, dragonborn, and demons that raised the world has lost its dragonborn.
 
 ### The breach with the demons — and the Second Foundation (~1,850 ya)
 With the dragonborn gone home, the old **demon alliance curdled:** the empire leaned harder on
-its demon-power, and the demons — **a power apart,** never truly the coalition's servants — grew
+its demon-power, and the demons — **a power apart,** never the coalition's servants — grew
 from allies into a threat. The elven elite of Maalm answered — **fast, within a generation of the
 massacre.** They formed a **secret order** (true in-world name `[OPEN]`) **~1,850 years ago,**
 reading the Jotunheim slaughter for what it was: a demon-powered empire that would turn on Maalm

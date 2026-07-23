@@ -800,7 +800,7 @@ the rivals — Khalikhat, Jotunheim, the orc-held heart of Muspelheim — where 
 
 - **The Brass Jackals — a crappy boat of their own.** Too broke to buy decent
   passage, the Jackals sail a cheap, rotting dwarf-built tub with no one aboard
-  who can truly sail or mend it — independent, but a berth behind every leg and
+  who can competently sail or mend it — independent, but a berth behind every leg and
   one bad squall from the bottom. Their leaky hull is the clearest way to show
   the table what a self-sufficient wandering dragonborn (Blackacre) is worth —
   and, ironically, it can take them places the trader-dependent Writ can't reach,
