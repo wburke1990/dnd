@@ -118,7 +118,7 @@ tells Set's priests exactly where the party is.
 Victorian and internet extrapolation on top. No ancient narrative about it
 survives. What's defensible:
 
-- **Appearance — the sources genuinely disagree.** E. A. Wallis Budge (*Gods
+- **Appearance — the sources disagree.** E. A. Wallis Budge (*Gods
   of the Egyptians*, vol. II) describes an **antelope/oryx body with two wings
   and a bird's head crowned with three uraei**; some retellings add a
   serpent's tail. Paul Pierret (*Dictionnaire d'archéologie égyptienne*,

@@ -146,7 +146,7 @@ falls. Track with tokens or a d20.
 - **Round 3+ — desperate caller.** If the rats dwindle, *Call the Tide* rushes
   every remaining rat at the lowest-HP PC. Keep summoning 2 per Bonus Action.
 - **≤10 HP — Scatter! and run.** Ratatat triggers *Scatter!* and **bolts for the
-  exit** (or whatever map/gift he could grab — see below). If genuinely cornered
+  exit** (or whatever map/gift he could grab — see below). If cornered
   he **surrenders, babbling about "the Master who taught me the Calling"** and,
   pressed, about **"V.,"** the buyer who pays him to steal maps. He **can't** say more
   than that — he has no idea who V. really is (see

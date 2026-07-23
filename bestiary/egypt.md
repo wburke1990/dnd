@@ -39,7 +39,7 @@ for killing or eating them carelessly.
 ## Running an encounter
 
 The party keeps **Speak with Animals** up, so every roll is a *conversation*,
-not just a stat block. Resolve each encounter in three quick beats.
+not a stat block. Resolve each encounter in three quick beats.
 
 **1 · Detection — who gets the drop?**
 One player roll against static numbers (no extra dice for the beast unless you
