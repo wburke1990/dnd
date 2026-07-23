@@ -14,6 +14,7 @@ dependencies = [
 [project.scripts]
 tts = "dnd_tools.tts_cli:main"
 pad-maps = "dnd_tools.pad_maps:main"
+prose-lint = "dnd_tools.prose_lint:main"
 
 [dependency-groups]
 dev = [
