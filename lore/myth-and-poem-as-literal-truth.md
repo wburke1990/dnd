@@ -28,7 +28,7 @@ it.
 
 ## 2. Myth as literal truth (established)
 
-Already the spine of the world; see
+Already central to the world; see
 [`campaign-overview.md`](campaign-overview.md) §3.D. In brief:
 
 - **One region, one real mythology, played straight.** Egypt (Maalm) was
@@ -63,7 +63,7 @@ impossible claim, declare it a fact of Nila, and work outward:
    is not the goal, and forcing every wonder to be about the one thing
    flattens the world.)
 5. **Keep the source weird.** Same rule as the myths: don't tidy the poem
-   into sense. The leftover strangeness is the point.
+   into sense. The leftover strangeness is what to keep.
 
 ## 4. Worked example — *Wynken, Blynken, and Nod* (already built)
 
@@ -144,10 +144,10 @@ into the sky and the fields — rather than a seed.
 horse gone? Where the rider? … How that time has passed away, dark under the cover
 of night, as if it had never been."* Taken at its word, the questions are not
 rhetorical and the last line is not a figure of speech: what passes out of glory
-and memory is **unmade** — deleted backward, as if it had never stood. Renown holds
+and memory is **unmade** — deleted backward, so that it never stood. Renown holds
 a thing in existence; the night takes what renown no longer holds up. Annibel, who
 besieged Anklia and lost and can no longer say who she was, is going this way — her
-cavalry and captains not only dead but ceasing ever to have been, and the silent
+cavalry and captains dead, then ceasing ever to have been, and the silent
 northern colonies going quiet and then simply not being there. **Placement:**
 already seeded in Musleheim and on Annibel (see [the Muspel empire](the-muspel-empire.md));
 a regional truth carried by the fallen war-host, not a place to sail to.
