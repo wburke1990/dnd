@@ -325,6 +325,12 @@ half-heard, a drunk's boast, a sailor's tall tale — never a lecture. Verbatim 
   Jomsvikings jesting under the axe. When the fast craft grapple on, it is the song made
   real. **[settled — oral delivery]**
 
+> This works only because the ship-fight rhymes with real battles the orcs already
+> sing. The **Dragonborn landing on Moku gets no such songs** — it has not happened,
+> and the fleet is a secret until it lands, so nothing in oral tradition can point at
+> it. Its only foreshadowing is the warning ladder above (the recruiter, the hidden
+> ships, the mage wind in the moment), never a saga. `[settled — Will, 7/22]`
+
 ## See also
 
 - [floating-fleet](floating-fleet.md) — the halfling Fleets (Ahms's lore).
