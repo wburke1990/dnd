@@ -38,8 +38,8 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   under-city is open.** **No maps ever changed hands** (Ratatat has failed
   every theft).
 - **Misplaced suspicion** (S2) — the party thinks the city-gate guides
-  answer to **Preem**. They actually answer to the **rat man**. Payoff
-  when they untangle it: Preem looks innocent, the rat man looks dangerous.
+  answer to **Preem**. They actually answer to the **rat man**. When
+  they untangle it: Preem looks innocent, the rat man looks dangerous.
 - **The rat-meat prop** — picked up S1, offered to everything (the
   Set-beast took it; the lepers would be insulted), pays off feeding the
   lions in S3, and pays off again in S5 with a successful Animal

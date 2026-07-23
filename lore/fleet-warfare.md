@@ -16,7 +16,7 @@ late-campaign set-pieces and to seed hints back into the two orc sagas
 
 ## The mage winds — two omens, one per people
 
-A fleet under way moves its ships with magic, not only sail. The casting is a
+A fleet under way moves its ships with magic, not sail alone. The casting is a
 weather-working large enough to feel from over the horizon, so the first sign of
 a coming fleet is a wind that is wrong. The two peoples cast different workings,
 and a crew that has met both learns to tell them apart.

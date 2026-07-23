@@ -463,8 +463,8 @@ identity.** Signs the DM can seed:
   failing god at the bottom of it.*
 
 `[loose]` 🔒 **Why it's accelerating now.** The **~1,000-ya bad pass** that the
-[Second Foundation](the-second-foundation.md) sabotaged didn't only mutate the
-[Muspel](the-muspel-empire.md) into orcs — it **botched the phoenix's rebirth,**
+[Second Foundation](the-second-foundation.md) sabotaged mutated the
+[Muspel](the-muspel-empire.md) into orcs and also **botched the phoenix's rebirth,**
 so the god came back from that cycle more broken than any before. The decline has
 been steepening ever since. *(This gives Kuru a stake in the comet pass entirely
 separate from either Foundation's agenda.)*
