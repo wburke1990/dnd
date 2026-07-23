@@ -96,6 +96,22 @@ prose** and **show, don't tell**. Let the world stand on its own — give
 detailed, concrete description, and let the reader (and the players) draw
 their own conclusions.
 
+**One test, run on every sentence before it is committed:** cross out each word
+doing a job other than stating what literally happens, or what is literally there.
+If the crossing-out kills a coined label (*the warning ladder*, *the reform-loop*),
+a significance-flag (*this is the heart of it*, *the centerpiece*, *the picture the
+whole set-piece is built around*), an attributed feeling (*the party gets to feel
+clever*), or a figure of speech (*another shell*, *the roof of the dungeon*), it was
+ornament — keep the literal remainder. The numbered list below spells out the
+recurring ways prose fails this test; the test itself is the part to remember. (All
+the example phrases here are real, cut 7/22.)
+
+**Design notes fail this test in their own way.** Descriptive prose reaches for
+poetry; prep and design notes reach for labels and salesmanship — giving a sequence,
+a mechanic, or a scene a coined name, flagging how much it matters, or predicting how
+the table will react. In a design note: name the sequence, state the mechanic,
+describe the moment, and stop. Do not sell it to yourself.
+
 Concretely, do not write:
 
 1. **Forced poeticisms.** Say the plain thing. If a phrase calls
