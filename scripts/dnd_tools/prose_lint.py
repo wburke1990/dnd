@@ -119,6 +119,15 @@ RULES: tuple[Rule, ...] = (
 )
 
 
+# A "Feel:" / "Tone:" / "Mood:" note exists to DECLARE the intended emotional
+# register, so it legitimately names a feeling ("Tone: Eerie"). The feeling and
+# emotion-dictation rules invert on such a line, so suppress just those two here;
+# every other rule still fires. Matches the label after any list bullet / emphasis
+# / blockquote marker, allowing a short parenthetical before the colon.
+FEEL_TONE_MARKER: Pattern[str] = compile(r"^[\s>*_-]*(?:feel|tone|mood)\b[^:]{0,24}:", IGNORECASE)
+FEELING_RULES: frozenset[str] = frozenset({"feeling-word", "emotion-dictation"})
+
+
 def _relpath(path: Path) -> str:
     try:
         return str(path.resolve().relative_to(REPO_ROOT))
@@ -147,7 +156,10 @@ def iter_findings(
             continue
         if only_lines is not None and lineno not in only_lines:
             continue
+        feel_line = bool(FEEL_TONE_MARKER.match(raw))
         for rule in RULES:
+            if feel_line and rule.name in FEELING_RULES:
+                continue
             for m in rule.pattern.finditer(raw):
                 yield Finding(
                     path=path,

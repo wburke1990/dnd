@@ -69,6 +69,22 @@ def test_emotion_rule_ignores_physical_perception() -> None:
     assert "emotion-dictation" not in _rules("when the party feels the wind")
 
 
+def test_feel_tone_lines_keep_feeling_words() -> None:
+    # A line that exists to declare the intended register may name a feeling.
+    assert "feeling-word" not in _rules("*Tone: Eerie, orienting*")
+    assert "feeling-word" not in _rules("- **Feel (resolved):** it is meant to be horrifying")
+    assert "emotion-dictation" not in _rules("Feel: the party should feel clever here")
+
+
+def test_feeling_word_still_flagged_in_ordinary_prose() -> None:
+    assert "feeling-word" in _rules("The corridor is eerie and cold.")
+
+
+def test_feel_line_still_flags_non_feeling_rules() -> None:
+    # Only the feeling/emotion rules relax on a Feel:/Tone: line; others still fire.
+    assert "spine" in _rules("Tone: the spine of the dungeon.")
+
+
 def test_clean_prose_has_no_findings() -> None:
     text = "The fleet becalms the hulls, then the fast craft board them."
     assert _rules(text) == set()
