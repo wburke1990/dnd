@@ -75,6 +75,15 @@ run_check "typos" \
     uv --directory "$SCRIPTS_DIR" run --quiet typos "$REPO_ROOT" \
     || failures=$((failures + 1))
 
+# --- Prose style (advisory — never blocks) ---------------------------------
+# Flags house-style issues on staged content-markdown lines (see CLAUDE.md).
+# Report-only: it prints findings but never aborts the commit, because the
+# back-catalog still has plenty and a false positive shouldn't stop a commit.
+prose_out="$(uv --directory "$SCRIPTS_DIR" run --quiet prose-lint --staged 2>/dev/null)"
+if [[ -n "$prose_out" && "$prose_out" != "clean"* ]]; then
+    printf '\n=== pre-commit: prose-lint (advisory, not blocking) ===\n%s\n' "$prose_out" >&2
+fi
+
 # --- Lua linting on TTS scripts --------------------------------------------
 
 if command -v luacheck >/dev/null 2>&1; then
