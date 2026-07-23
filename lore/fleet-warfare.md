@@ -237,7 +237,7 @@ climb to 20 — comes apart inside an hour. Whatever the party took for the ceil
 what could hurt them, this is above it. Whether that reads as a rescue or a new
 threat depends on Blackacre (below).
 
-## The warning ladder — how the party learns a fleet is coming
+## How the party learns a fleet is coming
 
 **The Dragonborn fleet is a secret until it lands.** The party's only hints:
 
