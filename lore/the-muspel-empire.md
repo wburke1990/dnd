@@ -47,7 +47,7 @@ the Muspel empire's strength came from the **same mechanism now driving the
 and a great deal of it — because they controlled the cyclical events** that make it.
 Working through (or hand-in-glove with) the [First Foundation](the-first-foundation.md),
 who **steered the comet passes to build Musleheim** rather than let them explode, the
-empire turned the cycle into a **land-factory** — young volcanic soil, raised to order,
+empire used the cycle to make land — young volcanic soil, raised to order,
 far richer than the tired old ground elsewhere. This was the **hot spot passing through**
 on its long southeast drift out of Lonka ([overview §5](campaign-overview.md)), raising
 the fire-island as it went — and, since **dragons and demons follow the hot spot,** the
@@ -58,7 +58,7 @@ devastating: it mutated the Muspel people, and worse, **struck at the root of
 their power** — the cycle that made their land.
 
 This empire is the *first* colonizer in the recent age — the reason Kuru's reconquest
-(below) is so bitterly ironic: the colonized turned reconqueror.
+(below) runs the other way: the colonized turned reconqueror.
 
 ---
 
@@ -113,8 +113,8 @@ hiring others to fight them.
 They are **not the villains of this story.** They were survivors of a plague that
 unmade them, fighting for land and footing in a world where **land and food are a
 zero-sum trade** (see [campaign overview §5](campaign-overview.md)). Orc and half-orc
-warrior culture is genuinely **noble** — and the raids were also predation. Both true
-at once: the campaign's *no-clean-good-guys* thesis at war-scale.
+warrior culture is **noble** — and the raids were also predation. Both true at once:
+no clean good guys, now at the scale of a war.
 
 **Raiding *and* trading — the same longship.** `[Will, 6/28]` The Viking parallel runs
 all the way through: the Norse **raided and traded on the same voyage,** and so did the
@@ -193,11 +193,11 @@ and carrying the war back onto their own ground.
 - **The tavern reveal.** `[OPEN — seed, 7/2]` If she survives the Zama: her real-world
   analog spent his last years as a **hired military consultant** to whichever court
   would have him, hunted from place to place until he was finally cornered and took his
-  own life rather than be handed over. The DnD payoff — an old, scarred half-orc drifter
+  own life rather than be handed over. In play: an old, scarred half-orc drifter
   in some tavern, unremarkable the way half-orcs are everywhere in this world, quietly
   trading sharp tactical advice for coin. The party wouldn't believe it's really her
   until something forces the proof — a detail only Annibel would know, a scar, a name
-  let slip too deep in a cup. The reveal, not a reunion, is the point.
+  let slip too deep in a cup. Play it as a reveal, not a reunion.
 - **The missing fleet.** `[Will, 6/26]` **Annibel/Hannibal's fleet was never defeated.** After her
   resurgence it **dropped her on the Kuru mainland** for the land war, then **sailed north
   and vanished — nobody knows where.** Its destination is **north, toward the lost colonies
@@ -216,13 +216,13 @@ and carrying the war back onto their own ground.
   survive in the northeast of Musleheim** — a latent remnant, not a present force. Full
   naval picture: [ships & sea-power](ships-and-sea-power.md).
 
-**At campaign start he is dead, or freshly and finally defeated.** Either way the
+**At campaign start she is dead, or freshly and finally defeated.** Either way the
 half-orc resurgence has just **collapsed** and the tide has swung **back to the
 colonizers** — Kuru and the Order of Sunne ascendant again. It is the world's most
 recent and rawest reversal, and the ground the present war (§6) is fought on.
 
-`[OPEN]` His **name** and cultural register — Norse, like Musleheim, or Punic, like the
-analog he is drawn from.
+`[OPEN]` Her **name** and cultural register — Norse, like Musleheim, or Punic, like the
+analog she is drawn from.
 
 ---
 
@@ -265,7 +265,7 @@ What the diaspora kept, when the longships and the crowns were gone, was the **t
 (§3). Settled in other peoples' ports, half-orc families stayed **the skippers, pilots,
 and brokers** of the inter-island routes — independent coasters and the old **trade-houses
 ("merchant halls") on the wharves,** the **last vestige of the age when their people ruled
-Nila's water.** It is a shadow of the old sea-dominance — not a fleet, not a state, just
+Nila's water.** It is a remnant of the old sea-dominance — not a fleet, not a state, just
 families who still know the currents and the customers. 🔒 And it is **being taken from
 them:** the [Company](the-company.md) out of [Noku Kurunatuka](nila-atlas.md) is **muscling
 the half-orc skippers off the routes and seizing the old merchant halls** — sometimes by
