@@ -74,13 +74,14 @@ RULES: tuple[Rule, ...] = (
     _rule(
         "significance-flag",
         r"\b(payoff|centerpieces?|heart of it|gut-punch|key moment)\b"
-        r"|\bthe picture the whole\b|\bthis is the (heart|key|point)\b",
+        r"|\bthe picture the whole\b|\bthis is the (heart|key|point)\b|\bis the point\b",
         "significance-flag; let the world stand (#8)",
     ),
     _rule(
         "coined-label",
         r"\bthe \w+[- ](engine|loop|ladder|machine|churn)\b"
-        r"|\bthe engine (of|underneath|behind|dressed)\b",
+        r"|\bthe engine (of|underneath|behind|dressed)\b"
+        r"|\b\w+-(engine|loop|ladder|machine|churn|factory)\b",
         "coined label; name the thing plainly (#12)",
     ),
     _rule(
@@ -100,12 +101,12 @@ RULES: tuple[Rule, ...] = (
     ),
     _rule(
         "feeling-word",
-        r"\b(horrifying|unsettling|chilling|eerie|hauntingly|ominous|tragic)\b",
+        r"\b(horrifying|unsettling|chilling|eerie|hauntingly|ominous|tragic|ironic(?:ally)?)\b",
         "telling the reader how to feel (#6)",
     ),
     _rule(
         "editorial-adverb",
-        r"\b(truly|utterly|impossibly)\b",
+        r"\b(truly|utterly|impossibly|genuinely)\b",
         "editorializing adverb (#4)",
     ),
     _rule(

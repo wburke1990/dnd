@@ -27,6 +27,7 @@ def test_flags_significance() -> None:
     assert "significance-flag" in _rules("That confrontation is the payoff of the arc.")
     assert "significance-flag" in _rules("This is the heart of it.")
     assert "significance-flag" in _rules("This is a centerpiece, not a subplot.")
+    assert "significance-flag" in _rules("The reveal, not a reunion, is the point.")
 
 
 def test_flags_not_just() -> None:
@@ -39,6 +40,7 @@ def test_flags_coined_labels() -> None:
     assert "coined-label" in _rules("the warning ladder tells them")
     assert "coined-label" in _rules("the perverse engine of promotion")
     assert "coined-label" in _rules("the engine of the cataclysm")
+    assert "coined-label" in _rules("turned the cycle into a land-factory")
 
 
 def test_flags_simile_and_made_literal() -> None:
@@ -48,7 +50,9 @@ def test_flags_simile_and_made_literal() -> None:
 
 def test_flags_feeling_and_adverb() -> None:
     assert "feeling-word" in _rules("an ominous door")
+    assert "feeling-word" in _rules("the reconquest is bitterly ironic")
     assert "editorial-adverb" in _rules("utterly broken")
+    assert "editorial-adverb" in _rules("their culture is genuinely noble")
 
 
 def test_flags_emotion_dictation() -> None:
