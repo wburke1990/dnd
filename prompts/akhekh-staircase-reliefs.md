@@ -43,8 +43,8 @@ Kept so a future regeneration doesn't relearn them the hard way:
   single-headed griffin; transform **only the tail** into one long serpent
   (matches the authentic Akhekh depictions). The last two lines of the prompt
   above enforce this — keep them.
-- **Continuous procession, not framed panels.** The stair cutting across
-  carved figures is the point; it makes the architecture and the sculpture
+- **Continuous procession, not framed panels.** The stair cuts across
+  carved figures, so the architecture and the sculpture
   read as one monument the party climbs through.
 - **Archaeology, not concept art.** The "photographed real site today" framing
   is a big part of why the house style reads as a monument from a world where

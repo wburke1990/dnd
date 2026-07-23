@@ -82,8 +82,8 @@ thread):
   built on believing he has been given a task; now he demonstrably has one and
   cannot read it. Every interpretation he reaches for — the moss, the river,
   the corrective mandate of soil — is him trying to fill in an instruction he
-  genuinely received and genuinely cannot recover. It also lands on the
-  campaign's spine from the other direction: **something powerful wanting a
+  genuinely received and cannot recover. It also lands on the
+  campaign's ownership theme from the other direction: **something powerful wanting a
   named half-celestial to do something** is ownership arriving from above,
   the mirror of Preem working from below.
 - **How far back the instructed nights go is still open.** If they predate the
@@ -96,7 +96,7 @@ thread):
   this is Amseh's golden age or the valley before the dynasty — the valley
   predates Amseh and who lived there then is open canon. If pushed for a date,
   the dream doesn't carry one.
-- **Sarric is casual about this and Pax is not.** That contrast is the point;
-  let it play without steering either of them.
+- **Sarric is casual about this and Pax is not.** Let the contrast play
+  without steering either of them.
 - If either wants to *try* to dream something useful later, it doesn't work
   that way — the ground offers or it doesn't (the location rule, §11).

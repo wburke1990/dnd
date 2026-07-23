@@ -42,7 +42,7 @@ Her jaws are open as she rises from the deep beneath the city.
 
 The twelve companions stand together farther back.
 
-The Dragonborn stands apart from them, closer to Ammit than anyone else, as if stepping forward to face her alone.
+The Dragonborn stands apart from them, closer to Ammit than anyone else, stepping forward to face her alone.
 
 The composition should visually imply that the Dragonborn will descend to meet her.
 

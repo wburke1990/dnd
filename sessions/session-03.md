@@ -26,9 +26,9 @@ carefully rather than charge in.
   that uses pack tactics and doesn't pursue past the entrance chamber.
 - The party got through Tomb II without the lions turning on them.
 
-> **Payoff note:** This is the rat-meat running gag finally landing — three
+> **Rat-meat running gag:** three
 > sessions of offering rat meat to everything, and it's the *lions* (set up
-> by the Set-beast's tip in Session 2) where it pays off. Lean into that.
+> by the Set-beast's tip in Session 2) where it works. Lean into that.
 
 ## The mummy — Kethara (Tomb III / the Valley dead)
 
@@ -45,7 +45,7 @@ healing powers and a curse for anyone who harms those under her protection.
 
 # DM NOTES & OPEN THREADS
 
-- **Rat meat: resolved (gloriously).** The lions were the payoff. If the
+- **Rat meat: resolved (gloriously).** The lions accepted it. If the
   party keeps the bit going, that's fine — but the gag has had its big
   moment.
 - **Kethara / the lepers.** Note for continuity how the party treated the

@@ -87,7 +87,7 @@ restocking his pantry.)
   excuse. It pays off directly in
   [The Second Hand Ambush](../encounters/the-second-hand-ambush.md): the same
   three guards, done with the charade after the embarrassment, **fight openly for
-  the rat man** — and the party gets to *see* what the excuse was hiding.
+  the rat man** — and the party sees what the excuse was hiding.
 - The party walked away from the fight with **rat meat** harvested from
   the encounter. This became a running prop across the next two sessions:
   they keep offering it to everything they meet.
@@ -123,7 +123,7 @@ restocking his pantry.)
       espionage on Preem. Trail ends at **V.** (the one Maalm agent;
       compartmentalized). Still `[OPEN]`: **who V. is** — see
       [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md).
-- [ ] **He hunts *every* Preem crew, not just the PCs.** Replayed as a
+- [ ] **He hunts *every* Preem crew, the PCs among them.** Replayed as a
       set-piece in [The Second Hand Ambush](../encounters/the-second-hand-ambush.md):
       the party finds another of Preem's groups ([The Second Hand](../characters/the-second-hand.md))
       pinned down by the rat man and **corrupt city guards**, saves them,

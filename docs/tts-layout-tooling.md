@@ -23,7 +23,7 @@ itself is out of scope; we only recenter it.
 
 ## Key research findings (2026-05-30, cited)
 
-Confidence: ✅ verified across sources · ⚠️ single source / test in-engine.
+Confidence: ✅ verified across sources · ⚠️ single source / tested in the running game.
 
 ### Coordinate system & transforms
 - ✅ **Y-up, left-handed (Unity).** Floor plane is **X–Z**; Y is height.
@@ -176,7 +176,7 @@ entirely.
   `rescale` factor math, GUID-diff identification, global Lua/XmlUI +
   `LuaScriptState` round-trip through `pack`/`unpack`. Match the existing
   `scripts/tests/test_tts_save.py` style.
-- Runtime Lua: validated in-engine (the External Editor API on 39999 +
+- Runtime Lua: validated in the running game (the External Editor API on 39999 +
   `executeLuaCode` enables a fast edit/run loop without full save cycles).
 
 ## Decisions log

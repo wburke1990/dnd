@@ -73,7 +73,7 @@ chamber and recovered what the tomb held (per Preem's commission, the
 - **Rat meat, ongoing.** Accepted by the Set-beast. The party now treats it
   as a universal goodwill offering — set up the **lepers** at the Valley
   entrance (who find the offer insulting) and the **cave lions** (Session
-  3) as payoff/contrast.
+  3, who accept it).
 - **Hygelac answers to the rat man, not Preem.** The party's suspicion is
   pointed at the wrong man. The real link is back to the **escaped rat man**
   (S1), who pays **Hygelac** — a gate guard who also works the **town square** —
@@ -129,7 +129,7 @@ chamber and recovered what the tomb held (per Preem's commission, the
       omen/guide rather than just a meal).
 - [ ] **Decide when/how the party exposes Hygelac** — the one bought gate guard,
       who takes the rat man's coin to look away during the square ambushes
-      (Wiglaf and Unferth are clean). The mechanic's settled; this is payoff
-      timing.
+      (Wiglaf and Unferth are clean). The mechanic's settled; only the timing
+      is open.
 - [ ] Tomb I's **name** — log which name they pulled, for the running
       names-collected ledger.
