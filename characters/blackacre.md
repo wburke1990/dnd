@@ -225,7 +225,7 @@ above), which is where his druid-shipwright gift was prized:
    holy first perch; an unstormable fortress-caldera carrying the massacre
    history of the Zealots. Ground zero of the rift Blackacre wants to mend.
 5. **Watch-stones on every sea-road** — drop a wandering-saint's grave on the
-   route to any destination. Repetition is the point: stumbling onto stone
+   route to any destination. Repetition does the work: stumbling onto stone
    after stone is what turns Blackacre's eye-roll into faith. See the hooks in
    [lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md) (esp.
    **completing the labor Idris died before finishing** — maximum resonance
