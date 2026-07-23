@@ -29,7 +29,7 @@ fields that fail no matter the season — is being pointed **upstream.**
 
 > **This does not overwrite the region's natural dryness.** [Maalm](../lore/maalm-the-elven-stronghold.md)
 > and its corner are baseline-poor from the **rain-shadow** off Musleheim's western
-> spine (see [the drying of the valley](../lore/the-drying-of-the-valley.md)) — the
+> mountains (see [the drying of the valley](../lore/the-drying-of-the-valley.md)) — the
 > *climate* sets the floor. The Haals runoff is a **second, human-caused blight stacked
 > on top of it,** which is exactly why Copaa fails where upstream Haagen, on the clean
 > reach, does not. Climate explains the region; the mine explains the *difference between
@@ -51,8 +51,7 @@ dwarves never worked (see [the Company §3](../lore/the-company.md)).
   down to Copaa's fields.** Haagen, **upstream** on the clean reach, is untouched. One
   watershed, two fates.
 - **Who owns it.** `[settled — 6/30 brainstorm]` The
-  [East India Company](../lore/the-company.md) isn't merely the mine's client — it
-  **finances the whole Copaa/Haals/Haagen trade** and is the **majority shareholder
+  [East India Company](../lore/the-company.md) is the mine's client, **finances the whole Copaa/Haals/Haagen trade,** and is the **majority shareholder
   in the Haals mines** themselves, shipping through the regional ports at
   **[Aar and Aal](../lore/nila-atlas.md)** (Aar for Copaa/Haals, Aal for Haagen). The
   externality below is the Company's balance sheet made flesh.
@@ -92,8 +91,7 @@ and **no railroad.** Ways in and ways through:
 ## 4. Connections
 
 - **[The Company](../lore/the-company.md)** — this is one of its extraction sites; the
-  runoff is the **externality** the campaign uses to make the Company *felt*, not just
-  described. A good **first, local** encounter with the enemy long before the party
+  runoff is the **externality** the campaign uses to make the Company *felt* rather than described. A good **first, local** encounter with the enemy long before the party
   understands the whole shape of it.
 - **The dwarves of [Suartleheim](../lore/nila-atlas.md)** — Haals proves the Company's
   reach: dwarf crews working far from home as contractors (the Company §3).

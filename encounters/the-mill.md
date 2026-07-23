@@ -59,7 +59,7 @@ open; it runs below). It grinds **heritage grain the founder houses grow in the
 upper-city gardens** — small batches, fresh to order. It is **not** the bulk trade:
 Maalm imports its mass grain **whole, by boat** (flour spoils; you ship grain and
 mill it at the destination), and this grinder is a boutique beside that. Quiet, low
-traffic, out of sight — which is the point.
+traffic, out of sight.
 
 The **miller** works the mill chamber and goes no farther into the tunnels. He is
 innocent (see Dramatis Personae); knowing nothing keeps the meeting clean.

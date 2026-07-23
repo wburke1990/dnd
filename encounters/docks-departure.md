@@ -101,7 +101,7 @@ because they're 40–60 ft. off and can't reach melee yet.**
   target that hasn't acted — every guard qualifies) usually drops a watchman
   outright. Nuru's **Fire Bolt**, Cassia's **Heavy Crossbow**, and Halvard's
   thrown **Javelins** finish or soften two more. **A first wave of 5 guards comes
-  out of the surprise round at roughly half strength** — which is the point: it hands the
+  out of the surprise round at roughly half strength** — it hands the
   party tempo and tells them the crew is with them.
 - **Then it closes.** From round 1 on, Halvard and Cassia move to put themselves
   between the guards and the party (Halvard's **Guardian** reaction eats hits);

@@ -4,7 +4,7 @@
 > city on the north coast of **[Kalikhat](../lore/campaign-overview.md)**) stand
 > the **gates of the underworld.** Outside them, standing sentry, is a line of
 > **6–10 level-20 champions** — one for each of the **Kalikhat mutations** — who
-> are **utterly silent unless the party tries to enter.** From the **6/30
+> are **silent unless the party tries to enter.** From the **6/30
 > brainstorm**. Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 secret.
 
 ---

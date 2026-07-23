@@ -218,7 +218,7 @@ and Ammit locked together in the dark**, the twelve placing the first stones abo
 the city rising over both — the founding as
 [the Twelve tells it](../lore/maalm-founding.md), in old paint.
 
-Timing payoff: the party sees **Ammit** here hours after meeting her at the scales
+The party sees **Ammit** here hours after meeting her at the scales
 in the **[Dream Quest](the-dream-quest.md)** (Hall of Two Truths) the same night —
 the devourer from the dream is buried under this floor (true of anywhere in Maalm).
 The full story still gets **told later at the Twelve** (the bartender's telling);
@@ -241,7 +241,7 @@ it. Beats to pull from:
   beer. She has had every life at the table in her hand and given each back. That is
   her argument before she makes it: *"Your code cost a man his fingers. Mine has had
   all of you twice over, and here you all sit."*
-- **She pays for the map she already stole.** The centerpiece. She has it, she is
+- **She pays for the map she already stole.** She has it, she is
   keeping it either way, and she still slides **platinum** across the table for it —
   her code will not let her simply rob them. A thief who insists on paying when she
   doesn't have to (`[OPEN]` the sum — see the offer note below).
@@ -348,7 +348,7 @@ He **impressed her** at the mill: he bested her (disarm + crit), and strength is
 she is hiring for. But he also **led Ratatat's maiming**, threw a severed finger and a
 curse down the shaft after her, and weighed torturing the millers. That is what she
 **can't use** — an agent who survives by leaving no trail cannot employ people who work
-that loud and that cruel. So she is **genuinely on the fence about him**, and about the
+that loud and that cruel. So she is **on the fence about him**, and about the
 party through him: impressive in a fight, maybe not people she can hire. See
 [Conversation ideas for David](#conversation-ideas-for-david).
 

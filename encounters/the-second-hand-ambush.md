@@ -106,7 +106,7 @@ clawing at the scout's satchel of gifts.
 The read the party is meant to take — and the read the campaign *wants* them to
 take — diverge, and that's the point:
 
-- **Correct:** the rat man hunts **all** of Preem's crews, not just the PCs.
+- **Correct:** the rat man hunts **all** of Preem's crews, not the PCs alone.
 - **Intended-but-wrong:** *Preem's people are being watched* → suspicion lands on
   **Preem,** the patron, instead of the rat man, the real handler. (See the
   [Session 1 DM notes](../sessions/session-01.md) — this is the same misdirection

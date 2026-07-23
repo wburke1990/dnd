@@ -73,7 +73,7 @@ merchant believed he was thwarting a cruel wizard. He was being **recruited into
 a system.** He never scaled up.
 
 - Keep this entirely off the table until the party uncovers Preem's true
-  operation later in the campaign. The payoff is the moment someone asks *"wait —
+  operation later in the campaign. Later, someone asks *"wait —
   did the wizard know about the wife?"* and the answer is **yes — his order has
   held her name for generations.**
 - **Preem still knows her true name.** Her husband is dead and his binding died
@@ -331,7 +331,7 @@ Dark-Age gap between Amseh's fall and Bedraageon founding Maalm ~4,000 years
 ago is canon ([maalm-founding.md](../lore/maalm-founding.md)), as is the
 **tunnel network** beneath the city — the water works, **Ammit's tomb**, and
 the Abyss below ([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)).
-`[settled — table]` **The underground survival is real, not just legend.** The
+`[settled — table]` **The underground survival is real, not legend.** The
 Amseh faithful went into the tunnels when the empire fell, kept the old gods
 through the Dark Age, and **came up and settled** when the Twelve raised Maalm
 over them — so **some living Maalm lines descend from them**, the al Qahtani
@@ -358,7 +358,7 @@ other side of the veil.
 *"Everything here he bought — every piece, I could give you the trader and the price. Except this. This one he never would say. Only that it came from no market. That it came from the other side."*
 
 Keep the statue's provenance ambiguous; don't explain it. It is the spell's
-other-plane focus, and its payoff is the gift at the end — see
+other-plane focus, and it becomes the gift at the end — see
 [The Reward](#the-reward).
 
 *(DM — the truth, kept ambiguous at the table. The Anubis is the family's
@@ -690,7 +690,7 @@ Group DC 12 Wisdom saving throw. More than half the party must succeed. The dead
 
 *(DM: the serpent is the keeper of the first hour — see the Road and Its Keepers note above. If its name was spoken, skip the save entirely; the gate is already open. This is the only gate on the river a name opens.)*
 
-Characters who fail feel something pulled at — not painfully. As if the serpent found something in them that doesn't quite belong and is considering whether to let it pass. They pass regardless, but Anubis will look at these characters with particular attention later.
+Characters who fail feel something pulled at — not painfully. The serpent has found something in them that doesn't quite belong and is considering whether to let it pass. They pass regardless, but Anubis will look at these characters with particular attention later.
 
 ## After the Saves
 
@@ -735,7 +735,7 @@ The boat must keep moving. Everyone has a job. Each round every player names wha
 
 ## The Dead Man Helps
 
-This is the one moment in the journey where the dead man is an asset. He knows this boat. He sailed it in life. He can give the Help action to one player per round, calling out instructions in the voice of a man who has crossed difficult waters before. Let the players see his competence. He is not only guilt and regret.
+This is the one moment in the journey where the dead man is an asset. He knows this boat. He sailed it in life. He can give the Help action to one player per round, calling out instructions in the voice of a man who has crossed difficult waters before. Let the players see his competence. He is not all guilt and regret.
 
 ## Resolution
 
@@ -881,7 +881,7 @@ He says nothing. He cannot. But the party can look at him while they speak, and 
 
 Two of three judges satisfied opens the gate. The dead man passes through it. The gate closes behind him. The boat is waiting at the shore to take the party to the next passage.
 
-If all three judges are satisfied — Isis, Nephthys, and Selket all incline their heads simultaneously. The dead man straightens slightly as he passes through, as if something has been returned to him.
+If all three judges are satisfied — Isis, Nephthys, and Selket all incline their heads simultaneously. The dead man straightens slightly as he passes through.
 
 ---
 
@@ -1065,7 +1065,7 @@ No structure. No skill challenge. Pure roleplay. The party can say anything or n
 
 He does not speak. He looks at the scales. He looks at the dead man. He looks at the blue veil behind his throne.
 
-A successful DC 14 Insight check lets a player read something in his expression. What they read is what they decide. Confirm or gently redirect based on what the player says, but the reading belongs to them. There is no wrong answer. Osiris is genuinely difficult to read. The ambiguity is intentional.
+A successful DC 14 Insight check lets a player read something in his expression. What they read is what they decide. Confirm or gently redirect based on what the player says, but the reading belongs to them. There is no wrong answer. Osiris is difficult to read. The ambiguity is intentional.
 
 ---
 

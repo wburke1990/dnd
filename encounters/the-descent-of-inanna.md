@@ -19,7 +19,7 @@ thousand years, and the party is about to find out why.*
 
 # THE STORY, PLAYED STRAIGHT
 
-The whole quest is one myth followed down as if it were true. In order:
+The whole quest is one myth followed down as literal truth. In order:
 
 1. **The marriage that greened the world.** In the alliance age — demons and
    mortals still partners, before the binding — **Inanna**, demon-queen who

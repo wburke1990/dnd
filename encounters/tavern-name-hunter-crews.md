@@ -269,7 +269,7 @@ They don't think the names are evil. They think the names are **theirs**.*
 
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the party
 about how careless they've been. Each Writ member drifts toward their counterpart
-— Doruk corners Sarric, Calix unsettles Pax, Bram genuinely charms Jasper — so
+— Doruk corners Sarric, Calix unsettles Pax, Bram charms Jasper — so
 the mirror lands as *conversation*, not a lecture. Let the players feel the pull
 and the revulsion at once.
 
@@ -309,7 +309,7 @@ back to power and bore Setha to a non-elf father. The **founder bloc** that hold
 the old quarter found a half-blood carrying a live founder claim intolerable, and
 **one of the old houses had her mother killed** to end the line quietly. Preem
 took the orphaned half-blood in and **chartered her the Lapis Writ.** She's
-genuinely loyal to him — the only door that ever opened for her — but **no true
+loyal to him — the only door that ever opened for her — but **no true
 believer**; toward the houses she carries cold, patient fury. The flawless Valley
 run is at once her **audition for Preem** and her **war-chest against the houses.**
 *("Lapis Writ" reads as the writ of claim she means to win back.)*
@@ -354,7 +354,7 @@ heathen sea-devils, so the burning was holy work; and **Hjörungavágr** (~300 y
 back, where his own Suartleheim dwarves broke the orc war-fleets) makes it
 finishing a three-hundred-year score. Holy cause and ancient grudge together let
 him sleep. Now he's the Writ's **closer** — the hand that does what needs doing,
-kindly, wearily, and genuinely at rest.
+kindly, wearily, and at rest.
 
 **DM only — what he can't tell you.** *The mirror:* Sarric's wound is the camp he
 burned where *"the screams he heard were not only the screams of men,"* and the
@@ -459,7 +459,7 @@ having *enjoyed* him.
 coin always in hand — and a small **toad** riding one shoulder or cupped in his
 palm, which he treats as a blessed sign and is never without. He flips the coin
 for his drink — *"Heads, the red. Tails, the dark"* — and orders the result with
-total finality, as though God chose. Play him straight-faced Blues Brothers.
+total finality, taking the flip as God's will. Play him straight-faced Blues Brothers.
 
 **Hook lines.**
 - *Intro.* *[doesn't look up; produces a worn coin]* *"Calix."* *[flips it, reads
@@ -708,7 +708,7 @@ knows the cause is in his own kit, and **takes the next dose anyway** — becaus
 alternative is going down a tomb sober, and that he cannot do. He's the Jackals'
 cost worn inside-out: the one who tried to **chemistry the cost away,** and the
 cure is killing him faster than the job would. Played light — the table will be
-fond of him fast — which is the point: they laugh at the canary for a session
+fond of him fast — they laugh at the canary for a session
 before anyone clocks that the canary is dying of the air, by his own hand.
 
 *Preem's spy in the crew.* 🔒 That centipede is **Preem's** — a **quasit,** planted
@@ -740,7 +740,7 @@ live thread.
   road, three mileposts. You don't have to explain the names plot once — the
   crews are the explanation.
 - **Mirror handoffs.** Stage the missing-names exchange member-to-counterpart
-  (Doruk→Sarric, Issa→Aniess, etc.). Doubles the gut-punch and backfills the
+  (Doruk→Sarric, Issa→Aniess, etc.). Delivers the mirror and backfills the
   collectibles in one beat.
 - **Pecking order.** Writs *above* the party, Jackals *below*. Let Setha lord it
   and Veska scrap upward — two recurring faces to root against and for.
@@ -803,7 +803,7 @@ the rivals — Khalikhat, Jotunheim, the orc-held heart of Muspelheim — where 
   who can competently sail or mend it — independent, but a berth behind every leg and
   one bad squall from the bottom. Their leaky hull is the clearest way to show
   the table what a self-sufficient wandering dragonborn (Blackacre) is worth —
-  and, ironically, it can take them places the trader-dependent Writ can't reach,
+  and it can take them places the trader-dependent Writ can't reach,
   if it doesn't drown them first. The most concrete face of "the quest costs more
   than it pays."
 
@@ -842,7 +842,7 @@ sells "they've been out in it." They are the end state of the arc the Writ and
 Jackals begin: ragged, lean, a season too long at it, and starting to suspect
 what they're really carrying out — without the vocabulary for it yet.
 
-**Mobility (why they can't just leave).** The Ashfoot are weeks out, deep among
+**Mobility (why they can't leave).** The Ashfoot are weeks out, deep among
 the scattered sites, and their own travel has degraded to almost nothing — a
 failing hull, no wandering dragonborn to mend it, and no way home but the rare
 **Mukka** ship that comes that far out, at rates they can't pay. (If they've

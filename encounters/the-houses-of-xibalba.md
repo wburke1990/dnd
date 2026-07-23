@@ -31,7 +31,7 @@ Four load-bearing pieces, in order:
 2. **The Council of Lords** — a room of seated figures, most of them fakes.
    Learn the real ones' names or be caught out. This is the names hook, turned
    into a puzzle in its own right.
-3. **The Six Houses** — the trial spine. One room, one mechanic, one night each.
+3. **The Six Houses** — the main trial. One room, one mechanic, one night each.
 4. **The Ballcourt** — the set-piece finish, and the only way the living have
    ever walked back out.
 
@@ -126,7 +126,7 @@ themselves, and taking them is the puzzle.)*
 
 ---
 
-# 3. THE SIX HOUSES — The Trial Spine
+# 3. THE SIX HOUSES — The Main Trial
 
 Six sealed rooms, run one per night, no exit until each is passed. This is the
 four-tombs engine with two more chambers and a clock: the Lords expect the

@@ -37,7 +37,7 @@ back. Stump the giant and they take the round. This lane is pure invention —
 zero recall — and it's usually where a good table has the most fun. The giant
 is ancient and has never left this island: a riddle built from the surface
 world, from a city it's never seen, from the party's own lives, can land where
-a classic one wouldn't. Reward a genuinely clever riddle automatically; for a
+a classic one wouldn't. Reward a clever riddle automatically; for a
 shaky one, let the giant make an **Intelligence check** to crack it.
 
 **3. Change the rules — the seeded question.** See below. This is the only

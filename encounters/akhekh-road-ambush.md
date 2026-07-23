@@ -37,7 +37,7 @@ just defending its ground.
 
 1. **The entangle actually landed** — the Akhekh is bound in the vines, the
    single thing it hates most. That's the emotional peak of its rage — and,
-   bound, it can't just kite away, so its first turn goes to tearing loose.
+   bound, it can't kite away, so its first turn goes to tearing loose.
 2. **Its first turn is escape, not attack.** ("I am not going to try and
    kill them unless they are stupid.") It spends its first action **trying to
    break free of the vines** and **tells the party to flee** — a wild thing
@@ -53,7 +53,7 @@ just defending its ground.
    Two things are hers already: her own **Elvish** (the Elvish half of what
    it says) and her innate **Yuan-ti snake-speech** (the Akhekh is
    half-serpent). Those alone get her fragments — enough to know it's
-   *reasoning*, not just roaring. To actually understand its animal mind in
+   *reasoning*, not roaring. To actually understand its animal mind in
    full, someone has to **cast Speak with Animals** — Aniess does *not*
    have it herself, so a teammate choosing to spend the spell is what turns
    fragments into a real conversation (the bestiary already rules the spell

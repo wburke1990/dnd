@@ -59,7 +59,7 @@ To the adventurers, the island might look like:
 
 - Eventually, the people are no taller than a modern child.
 - Their statues are no bigger than waist height on a modern human.
-- Walking through the island, you'd see an eerie progression: enormous crumbling giants eroded by wind and sea, medium-sized figures in the interior, and then tiny, almost toy-like statues near the most recent villages.
+- Walking through the island, you'd see a progression: enormous crumbling giants eroded by wind and sea, medium-sized figures in the interior, and then tiny, almost toy-like statues near the most recent villages.
 
 ### 5. Atmosphere
 
@@ -76,7 +76,7 @@ To the adventurers, the island might look like:
 
 ## The Tradition of the Thinkers
 
-- Each generation crowns a leader called The Thinker, whose role is not only political but spiritual — the embodiment of wisdom, patience, and survival.
+- Each generation crowns a leader called The Thinker, whose role is political and spiritual — the embodiment of wisdom, patience, and survival.
 - During their lifetime, a life-sized statue of them is carved, always in the same brooding seated pose: head bowed, arms folded, deep in contemplation.
 - The statues are made in exact scale to the living Thinker at the time, meaning they gradually shrink with each generation.
 
@@ -91,7 +91,7 @@ To the adventurers, the island might look like:
 **The Middle Generations (Human-sized Thinkers)**
 
 - Statues still serious, contemplative, but smaller, more human-proportioned.
-- These are found inland, as though each generation built further from the shore, marking the slow retreat of their size.
+- These are found inland, each generation building further from the shore, marking the slow retreat of their size.
 - The rows of statues begin to resemble a shrinking genealogy.
 
 **The Halfling Thinkers**
@@ -150,7 +150,7 @@ As they walked deeper into the cave, the floor fell away, a staircase carved int
 
 The chamber opened before them: a vast hall. A crumbling stone throne, 10 times the size of a man, leaned against one wall, its back split by a deep fracture. Across from it stood a great altar, its surface scarred by time and half-buried under the rubble of a collapsed ceiling so high that the light of the torches revealed nothing but a black starless void. Shadows filled the vaulted space, broken only by the flicker of their torches.
 
-Beneath the chamber, the steps ended in ruin. The way further down had collapsed long ago. Jagged blocks of stone lay tumbled in heaps, as if a bull had pulled a plow the size of a tree though the earth. Tree roots snaked through the cracks, pale and wet, searching for water in the gloom.
+Beneath the chamber, the steps ended in ruin. The way further down had collapsed long ago. Jagged blocks of stone lay tumbled in heaps. Tree roots snaked through the cracks, pale and wet, searching for water in the gloom.
 
 Against one wall of the chamber hung a vast bell, black with age, suspended on chains as thick as a man's arm. Beside it lay a hammer. Its head was chipped but whole. The air around the bell was heavy, carrying something - a sound yet unstruck?
 
