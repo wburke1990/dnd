@@ -165,6 +165,50 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 [ships-and-sea-power.md](../lore/ships-and-sea-power.md).) Linger, and Mogg will
 take requests — or a drink.
 
+### Three shorter pieces — for later rounds or "a tale for a cup" `[added 7/22]`
+
+Each is built around a **verbatim public-domain saga line** (the *italic* words are
+the real 1844 text; sources in
+[saga-weather-omens.md](../lore/saga-weather-omens.md)) — Mogg gives the song's words,
+then turns them over in his own. These seed the shape of the Floating Fleet's coming
+ship-fight before the party ever meets it: a wind bought with witchcraft, a fleet
+swelling on the horizon, boarders coming over the rail (see
+[fleet-warfare.md](../lore/fleet-warfare.md)). Keep them offhand — a boast, a song
+half-sung — not a lesson.
+
+**The wind you can buy** *(the mage wind, a generation early):*
+
+> "You want to know the worst thing a man ever paid for? Not gold. Wind. There was a
+> wind-worker in the old songs, and the song says it plain — *'Raud had always a fair
+> wind wheresoever he wished to sail, which came from his arts of witchcraft.'* Every
+> other hull in the world beats and tacks and waits on the weather. Not him. He
+> whistled and the sea did as it was told. *[He leans in.]* So mark it: the day you
+> feel a fair wind come up out of a dead calm — steady, blowing straight against the
+> weather that's already on you — that's no luck, and it's no god being kind. That's a
+> wind somebody bought. And whoever paid for it is already coming."
+
+**The fleet on the horizon** *(the sighting):*
+
+> "You've never watched a real fleet come on, have you. I'll tell you how it goes. The
+> kings stood on the headland and watched them file past, ship after ship, each one
+> bigger than the last. *'That is a large and very beautiful vessel,'* they say, *'that
+> will be the Long Serpent'* — the great one, the one they feared. And a man beside
+> them says, *'That is not the Long Serpent.'* Not yet. *[He counts on thick fingers.]*
+> And *'they saw three very large ships coming sailing along, and at last after them a
+> fourth, and that was the Long Serpent.'* You understand? Every sail you count, you
+> think — that's the one, that's the worst of it. And it never is. There's always one
+> more hull behind, and it's bigger. That's what it is to watch a fleet come for you."
+
+**A man and his gold** *(the boarding):*
+
+> "And when the beaks bite and the boarders come over your rail and the ship is going
+> down under you — what does a man do with his money? There was one, Bue, in the narrow
+> water. *'Then Bue lifted up two chests full of gold, and called aloud, "Overboard all
+> Bue's men," and threw himself overboard with his two chests.'* Straight over the
+> side, gold and all, down into the dark. *[He grins.]* Sooner drown rich than be
+> robbed by a dwarf. That's the choice, when they come over the rail. And they always
+> come over the rail, in the end."
+
 ---
 
 ## Approaching an NPC — table reference
