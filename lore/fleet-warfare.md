@@ -52,6 +52,16 @@ everything afloat: dwarf-built hulls and Mukka bottoms, crewed by mercenaries
 (see [ships-and-sea-power](ships-and-sea-power.md)). The Floating Fleet is
 druid-heavy, small and fast, and signals by drum across open water.
 
+**The occasion — a supply fleet off Kandy.** The hulls are a supply run: rented
+bottoms carrying recruits and stores to Kuru's armies in Muspelheim. The Fleet
+catches them anchored off Kandy in the middle of unloading — landing boats
+pulling for the beach with the reinforcements aboard, cargo coming up out of the
+holds. The warforged armies are ashore; what rides the hulls is a few warforged
+in transit with the reinforcements, and the Kuru minders who keep the hired crews
+in line. Godstone does not trust rented pirates, so every bottom carries a few
+warforged and a zealot or two — which is why the crews have been sailing under
+guard, and why they strike so fast when the guard is cut off.
+
 **The prize is the hulls.** The Fleet strikes while it is on a timber-run, and
 Kuru's hired hulls are the wood it came for. The point is to
 **take** the ships, not sink them: wood is the one thing the sea cannot give back
@@ -67,8 +77,12 @@ fights to keep the wood whole.
   opened alongside, the bilge flooded to the waterline, the rudder fouled — enough
   to make a crew strike without holing the ship.
 - **The drums and the boarding.** The fast craft come out of the fog to the
-  war-drums and grapple on. Mercenary crews with no reason to die for Kuru's coin
-  strike or go over the side; the warforged that go over sink and do not come up.
+  war-drums and grapple on, and the deck divides on its own. The mercenary crews,
+  rented and with no reason to die for Kuru's coin, strike or go over the side. The
+  warforged detachment and the Kuru fanatics fight to the end — but it is a small
+  force, the armies being ashore, so once the crew quits the diehards are cut off
+  and overwhelmed, levered over the rail. The warforged that go over sink and do
+  not come up.
 - **Tsunami (8th) and Storm of Vengeance (9th)** — the formation-breakers, spent
   on escorts and on scattering the line to cut a prize hull out of the rest — kept
   off the ships the Fleet means to keep.
@@ -76,10 +90,19 @@ fights to keep the wood whole.
   that fights instead of striking, but every burned hull is timber lost, so it is
   the last resort, not the opener.
 
-**How it goes.** Becalm, fog, board to the drums, take the surrender. The line
-scatters, escorts drown under the weather, and the cargo hulls sail away crewed by
-halflings — a wood harvest cut straight out of Kuru's war-supply. What Kuru loses
-is a battle and the ships it never owned to begin with. **[draft]**
+**The landing boats.** The recruits are the soft target — packed into landing
+boats, halfway between hull and beach, no deck under them. A wave raised off the
+anchored line (Tsunami, or Control Water driven up the sound) swamps the boats and
+sweeps the reinforcements out before they reach the sand; the warforged among them
+go straight down. Kuru loses the troops it was landing without a hull being holed.
+
+**How it goes.** Becalm, fog, board to the drums, take the surrender. The mercenary
+crews strike; the warforged and the fanatics are cut off and go over the side; the
+wave takes the landing boats. The line scatters, escorts drown under the weather,
+and the cargo hulls sail away crewed by halflings, the stores still in their holds
+— a wood harvest and a supply train cut straight out of Kuru's war in Muspelheim.
+What Kuru loses is a battle, the reinforcements it was landing, and the ships it
+never owned to begin with. **[draft]**
 
 ## Ship-to-land — the Dragonborn landing on Moku
 
