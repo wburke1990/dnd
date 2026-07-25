@@ -90,6 +90,44 @@ fights to keep the wood whole.
   that fights instead of striking, but every burned hull is timber lost, so it is
   the last resort, not the opener.
 
+**Who boards — the druids' forms.** The same high-level druids who raise the
+weather do the boarding as beasts, each form chosen for the work:
+
+- **Giant octopus** — climbs the wet hull out of the water and grapples the crew,
+  taking them without killing and the ship without a hole.
+- **Killer whale, giant shark, giant crocodile** — the water. The warforged that go
+  over sink under their own godstone; a druid in these forms drags them down and
+  pulls resisters off the rail into the sea.
+- **Giant owl, giant eagle, giant vulture, pteranodon** — the crossing and the
+  drop. The owl is silent and sees in the dark, so it leads the approach through the
+  fog, and the forms come down onto the deck from above.
+- **Giant constrictor snake, brown bear, giant boar** — once aboard, to pin a crew
+  or bull it over the side. The snake restrains rather than kills.
+- **Conjure Animals (3rd)** — the druids call beasts as well as taking their forms:
+  a pack of sharks in the water or a swarm across a deck, so a few druids field a
+  menagerie beside their own shapes.
+
+**Ship to ship.** Boarders cross more than one way, out of the fog:
+
+- **Water Walk (3rd, ritual)** — the water is already becalmed flat, so boarders
+  walk across it on foot.
+- **Wind Walk (6th)** — turn to cloud-vapor and ride the mage wind across to a prize
+  hull. (The Dragonborn use the same spell to land at Moku, below.)
+- **Tree Stride (5th) and Transport via Plants (6th)** — the plant-druid crossing:
+  the masts and the cargo-timber are the wood they step through, ship to ship.
+- **Grasping Vine and Plant Growth** — a living line thrown between hulls, and growth
+  to foul a deck.
+
+**The boarders behind the beasts.** The Fleet is majority halfling, tribal, and run
+by drum:
+
+- **Halfling boarders** — small, up the side and in through the oar-ports, with
+  **slings** for the crew who stay on their feet on deck.
+- **Net-and-hook crews** — entangle and take prisoners instead of killing.
+- **The Amatssou** — the dragonborn among the Fleet, the heavier melee.
+- **The drummers** — the whale-bladder hulls beat the commands across the water while
+  the boarding runs (see [floating-fleet](floating-fleet.md)).
+
 **The landing boats.** The recruits are the soft target — packed into landing
 boats, halfway between hull and beach, no deck under them. A wave raised off the
 anchored line (Tsunami, or Control Water driven up the sound) swamps the boats and
