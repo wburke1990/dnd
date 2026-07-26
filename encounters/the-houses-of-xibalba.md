@@ -9,11 +9,13 @@ names to be found and carried back. Where the Valley was four tombs read in
 daylight, this is six houses read in the dark, one after another, with no way
 back up until they are finished.*
 
-> `[OPEN]` **Placement & level.** Not yet sited in Nila and not yet leveled.
-> The descent structure (rivers, then a name-council, then six houses in a
-> row, then the ballcourt) wants a party that can take a beating and think
-> under a timer — a mid-to-high site, not a first one. Where in the world
-> the mouth of the descent sits is a separate decision. Left open on purpose.
+> `[OPEN]` **Placement & level.** Not yet leveled. The descent structure
+> (rivers, then a name-council, then six houses in a row, then the ballcourt)
+> wants a party that can take a beating and think under a timer — a mid-to-high
+> site, not a first one. **Proposed placement:** the mouth of the descent under
+> **Copaa**, if [Suartleheim Eet goes Mesoamerican](../lore/the-fallen-gnome-kingdom.md)
+> — the ballcourt and the chinampa lake on the surface, this descent below.
+> `[OPEN — Will & David to discuss.]`
 
 ---
 

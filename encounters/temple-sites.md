@@ -146,5 +146,7 @@ Mesoamerican would seat several things in one place:
 
 The ballgame and chinampas run Aztec; Xibalba and the Hero Twins run Maya
 (the Popol Vuh) — blended here on purpose, one Mesoamerican region.
-`[OPEN — confirm the region goes Mesoamerican, and whether Xibalba seats
-here.]`
+
+Full proposal and the open decision live in [the fallen gnome
+kingdom](../lore/the-fallen-gnome-kingdom.md). `[OPEN — Will & David to
+discuss.]`

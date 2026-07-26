@@ -17,6 +17,30 @@
   [lepers in the tombs](../encounters/valley-of-the-kings.md). The [Copaa lament](../handouts/copaa-lament.md)
   is the region's dirge, a land whose river ran foul.
 
+## Proposed mythology — Mesoamerican `[OPEN — Will & David to discuss]`
+
+The leading candidate for the region's cosmology (the third open thread below):
+the fallen gnome kingdom was **Mesoamerican**. What it seats in one place:
+
+- **A lake city on floating gardens.** The kingdom farmed **chinampas** —
+  floating garden-plots — on [Copaa](nila-atlas.md)'s lake, after the Aztec
+  gardens of Tenochtitlan. The [Haals mine runoff](../encounters/the-haals-runoff.md)
+  is where the fall still shows: the gardens rotting in poisoned water, the
+  farmers driven out ([the lepers in the tombs](../encounters/valley-of-the-kings.md)).
+- **The ballgame above, the underworld below.** [The houses of
+  Xibalba](../encounters/the-houses-of-xibalba.md) — the finished, unplaced Maya
+  descent — seats here: the mouth of the descent under Copaa, the ballcourt at
+  the bottom.
+- **The hands in the mine.** The earth-people's handprints deep in the Haals
+  dig ([temple sites](../encounters/temple-sites.md)) sit in the same ground.
+
+Blend note: the chinampas and the ballgame run Aztec; Xibalba and the Hero
+Twins run Maya (the Popol Vuh). Blended on purpose, one region.
+
+`[OPEN]` Confirm the region goes Mesoamerican; whether the gnomes are the
+chinampa-farmers and ballplayers; how it squares with the deep-gnome / Underdark
+thread below.
+
 ## Open threads
 
 - `[OPEN]` **These gnomes vs. the deep gnomes.** Canon already has **deep gnomes** from the
@@ -28,8 +52,9 @@
 - `[OPEN]` **What felled the kingdom** — the Company and colonization, an older catastrophe, or
   both layered (the way the [Haals runoff](../encounters/the-haals-runoff.md) stacks a human
   blight on the region's baseline dryness).
-- `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology, still to build.
-  Keep it distinct from Maalm's Egyptian corner next door.
+- `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
+  Leading candidate is **Mesoamerican** (see the proposal above); still to confirm,
+  and to keep distinct from Maalm's Egyptian corner next door.
 
 *Companions: [nila atlas](nila-atlas.md) (the SE gazetteer), [the Haals runoff](../encounters/the-haals-runoff.md),
 [the Company](the-company.md), [the Copaa lament](../handouts/copaa-lament.md).*
