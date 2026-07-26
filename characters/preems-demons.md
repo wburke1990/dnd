@@ -78,13 +78,13 @@ you have **not** named.
 
   A CR-10 yochlol takes a **level-17** caster and a 9th-level slot, solo.
 
-- **Circle-cast Summon Greater Demon** *(homebrew)*: each wizard in the circle
-  past the lead spends a slot of the lead's level and raises the ceiling
-  **+1 CR**. Five level-9 wizards (5th slot, base CR 6) reach **CR 6 + 4 = CR 10**
-  — the same yochlol, at a third the level, because there are five of them.
-  Control still runs on the name: summon a demon above the CR you can hold
+- **Circle-cast Summon Greater Demon** *(homebrew — full rule below)*: a circle
+  raises the ceiling to **its effective slot level + 1**. Five level-9 wizards (a
+  5th-level slot each) reach an effective 9th level → **CR 10**, the same yochlol
+  at a third the level, because there are five of them. Five level-17 wizards (a
+  9th-level slot each) reach effective 13th → about **CR 14**, the circle's
+  ceiling. Control still runs on the name: call a demon above what you can hold
   *without* its name and it makes its save, breaks free, and turns on the circle.
-  A five-wizard circle tops out near **CR 14**.
 
 - A **specific, named** demon (not a generic one) has to be present another way:
   **sealed in a tomb**, found together with its name, or pulled through by
@@ -112,26 +112,55 @@ sets the duration:
   | 8th | 180 days |
   | 9th | 366 days |
 
-A 5th-level slot (level 9, or a circle that reaches one) binds anything named; you
-re-cast every 24 hours. Longer bindings want bigger slots. Preem's tower demons
-are held by name with no renewal at all.
+With the name, any effective 5th-level cast binds it; the **duration is set by the
+effective slot the caster or circle reaches**, so how often it must be re-cast is a
+function of how many casters you can muster. A lone level-9 caster has one 5th-level
+slot and re-binds **every 24 hours**; a five-wizard circle reaches 9th and holds it
+**a year**. Preem's tower demons are held by name with no renewal at all.
 
-**Circle casting (homebrew), in one place.** Several casters who know the spell
-cast it together across the full casting time, each assistant spending a slot of
-the lead's level. It lets a group cast a spell no one member has the slot for
-(five level-9s reach a 5th-level Planar Binding; lower crews pool toward it), and
-for **Summon Greater Demon** each assistant past the lead adds +1 CR to the
-ceiling. Planar Binding needs no CR help — the name already carries it; the circle
-only supplies the slot and the bodies to hold the demon for the hour.
+### Circle casting *(homebrew) — the exact rule*
+
+Several casters who all know the spell cast it together over its full casting time.
+
+- Pick a **base slot level** — at least the spell's own level (4th for Summon
+  Greater Demon, 5th for Planar Binding).
+- **Every caster in the circle, lead and each assistant, expends one spell slot of
+  that base level or higher.** A caster who has no slot that high can't join *that*
+  circle.
+- The spell resolves at an **effective slot level = the base level, +1 for each
+  caster past the lead** (a circle of N casters casts at base + N − 1).
+
+What the effective level buys:
+
+- **Summon Greater Demon:** CR ceiling = effective slot level + 1. No 9th-level
+  cap — this is how a large enough circle calls a demon no lone caster could.
+- **Planar Binding:** the duration from the table above, read at the effective slot
+  (capped at 9th = 366 days). The name already makes it auto-succeed, so the circle
+  buys **duration**, plus the bodies to hold the demon through the hour.
+
+Every caster spending a **5th-level slot** (so each is level 9 or higher):
+
+| Casters | Effective slot | Planar Binding duration | Summon Greater Demon CR |
+|---------|----------------|-------------------------|-------------------------|
+| 1 | 5th | 24 hours | 6 |
+| 2 | 6th | 10 days | 7 |
+| 3 | 7th | 30 days | 8 |
+| 4 | 8th | 180 days | 9 |
+| 5 | 9th | 366 days | 10 |
+
+To reach higher, every caster spends a higher slot: five wizards each burning a
+**9th-level slot** (all level 17) reach effective 13th — Summon Greater Demon up to
+about **CR 14**, Planar Binding still capped at a year.
 
 **Worked example — a CR-10 yochlol like Mul, two ways.**
 
 - *Solo (Preem's tier):* a level-17 wizard casts Summon Greater Demon from a
   9th-level slot, blood circle up. With the yochlol's name the control holds; then
   Planar Binding with the name, at whatever slot buys the duration he wants.
-- *Circle (a crew):* five level-9 wizards circle-cast Summon Greater Demon at 5th
-  level (CR 6 + 4 = CR 10); one of them then Planar Binds it with the name. Five
-  ordinary wizards do what one archmage does alone.
+- *Circle (a crew):* five level-9 wizards, a 5th-level slot each, reach effective
+  9th — Summon Greater Demon calls a **CR-10 yochlol**, and Planar Binding cast the
+  same way (on another day, once slots recover) holds it a **year**. Five ordinary
+  wizards do what one archmage does alone.
 
 **Why the magma demon is the climax and nothing smaller.** It is about **CR 19**
 and it **is the volcano** — already present, never summoned, so no blood circle
