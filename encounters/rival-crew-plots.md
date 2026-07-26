@@ -95,6 +95,25 @@ above the rest, cutting through the party while the crew hold the line. The part
 set their plan against five humanoids; the real threat arrives after initiative is
 set.
 
+**Preem's order, and the second fight.** Once the drained villages come to light,
+Preem sends the party to destroy the Ninth — a crew binding demons off his books,
+which he wants gone. He plays it as cleanup; what he actually wants is the head
+demon's true name, a prize he means to take for himself. The party don't know they
+are being aimed at a small copy of their own patron. The first fight is the ambush
+above — a surprise, and it should hurt; the party may have to break off. If they
+live, Preem escalates: he runs many crews, so he sends the
+[Second Hand](../characters/the-second-hand.md) and others in to help them finish
+it. The second fight is a battle among crews — the party and their allies against
+the Ninth, the demons the Ninth have summoned, and the head demon itself.
+
+Two things to hold. Killing the crew ends the binding and frees the head demon —
+the release it has been steering toward all along — so a clean win over the Ninth
+gives the demon exactly what it wanted unless the party deal with the demon too.
+And the name Preem wants is the name that re-binds it: hand it over and Preem
+absorbs the asset, having used the party to do his acquisition; keep it and they
+hold something he wants. When the party later learn what Preem is, they will have
+already helped him wipe out a smaller version of himself.
+
 **The tie to Preem's endgame.** A demon that wants the world broken wants what the
 comet is bringing. This crew can be reaching for the catastrophe Preem is reaching
 for, neither side knowing the other — or the demon's push for its own release runs
