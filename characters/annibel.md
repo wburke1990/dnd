@@ -35,11 +35,11 @@ middle victories are drafts to name.
 |---|---|---|
 | **Crossing the Alps** | The impossible approach | **The sea-crossing.** Her fleet put her army ashore on the **Kuru mainland** where it could not be — an island world's Alps. `[settled]` |
 | **Trebia** (218 BC) | First big victory, a river ambush | **The Trebia** — a river ambush that swallowed the first army sent against her. `[draft]` |
-| **Lake Trasimene** (217 BC) | Ambush on the lake shore, an army lost whole | **Lake Tressamine** — the victory that marked her as a generational threat. `[settled]` |
+| **Lake Trasimene** (217 BC) | Ambush on the lake shore, an army lost whole | **Lake Trasimene** — the victory that marked her as a generational threat. `[settled]` |
 | **Cannae** (216 BC) | Double envelopment; a larger army surrounded and destroyed | **Cannae** — she lets her center give, folds the wings around a bigger force, and destroys it. Her worst blow to Kuru. `[draft]` |
 | **The march on Rome / *ad portas*** | The enemy at the gates | **The siege of Anklia** — a Kuru city she besieges at her height. The walls hold; she never takes it. `[settled]` |
 | **~15 years in Italy** | Ravaging enemy ground, unbeaten in the field | **~20 years on Kuru's ground**, carrying the war back onto the people who pushed her own off theirs. `[settled]` |
-| **Zama** (202 BC) | Scipio invades Africa; Hannibal is beaten at last | **Ilka Mak** — **Noku**, not Kuru, lands in her homeland Scipio-style and breaks her for good. That it was Noku is the wound straining the Kuru–Noku alliance. `[settled]` |
+| **Zama** (202 BC) | Scipio invades Africa; Hannibal is beaten at last | Her **Zama**, fought at **Ilka Mak** — the stand-in for Carthage. **Noku**, not Kuru, invades her homeland Scipio-style and breaks her for good; that it was Noku is the wound straining the Kuru–Noku alliance. `[settled]` |
 
 `[settled]` **The war-oliphaunts.** Her host fights behind a corps of **giant
 war-elephants** — grown to the scale of Tolkien's oliphaunts (the mûmakil), far
@@ -73,7 +73,7 @@ the giants are bred, and a stat block]`
 
 ## Enemies and motive
 
-- **Kuru** — she humiliated it for a generation (Lake Tressamine, the ravaging, the
+- **Kuru** — she humiliated it for a generation (Lake Trasimene, the ravaging, the
   siege of Anklia).
 - **Noku** — it broke her at Ilka Mak.
 - 🔒 `[draft — new]` **The Company** — Noku's merchant arm, which ruins and buys out

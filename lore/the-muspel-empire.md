@@ -172,7 +172,7 @@ and carrying the war back onto their own ground.
 > by a whole people in arms. The *trade*-Phoenician side lives with the **dragonborn**
 > (Lonka as Tyre — see [wandering-dragonborn](wandering-dragonborn.md)).
 
-- **Lake Tressamine** — her famous early victory (our Lake Trasimene): an ambush that
+- **Lake Trasimene** — her famous early victory: an ambush that
   swallowed a colonizer army whole and marked her as a generational threat.
 - **The crossing (settled — 7/2).** Her masterstroke was a **sea-crossing**, not a
   mountain one: her fleet put her army ashore on the **Kuru mainland** somewhere it

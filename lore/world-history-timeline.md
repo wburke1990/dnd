@@ -324,7 +324,7 @@ that thread quietly through all of it down to today.
   the empire's own ancient rebel colony, now leads the conquest of its old homeland.**
 - **The half-orc Annibel/Hannibal (recent).** A generational **half-orc warlord** — Annibel/Hannibal's
   campaign in **Viking/barbarian dress**, a people-in-arms rather than a merchant-state's
-  mercenaries — reversed the reversal: a stunning early victory at **Lake Tressamine**,
+  mercenaries — reversed the reversal: a stunning early victory at **Lake Trasimene**,
   a **sea-crossing** that put his army ashore on the Kuru mainland, **~20 years** ravaging
   colonizer ground, and a **siege of Anklia** that became legendary without ever cracking
   the walls — before being broken at a **Zama fought at Ilka Mak**, where Kuru's own
