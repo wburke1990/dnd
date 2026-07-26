@@ -65,3 +65,86 @@ cannot carry back to a dragon, they set aside — no place in the song.
 - **Lands on:** Sam, whose dragonborn line sits closest to that first
   dragon.
 - **Region fit:** the Kurunatukas — the Polynesian islands.
+
+## The Green Chapel — Kuru `[draft]`
+
+Real myth: in *Sir Gawain and the Green Knight*, a knight lets a
+challenger cut off his head, picks the head up off the floor, and holds
+the challenger to take the same blow in return, a set time later.
+
+A warforged of Sunne kneels at the altar and bares its neck. Strike the
+head off and the god-stone draws it back onto the shoulders. The warforged
+stands and names the terms: come back in six months, kneel, and take the
+blow yourself.
+
+- **Reveals:** the phoenix's trick — die, reform — and a warforged up
+  close, before the party has a word for either. The return blow is six
+  months out; they carry the date without being told what else comes due
+  around then.
+- **Lands on:** Jasper, who already owes something for being the one who
+  lived.
+- **Region fit:** Kuru — Anglo-Saxon, the Order of Sunne.
+
+## The waking of the god — Lonka / Jotunheim `[draft]`
+
+Real rite: at Tyre the priests woke their god Melqart from death each year
+with fire (the *egersis*).
+
+The Lonka Zealots hold the drowned caldera. Once a year they light the
+god-fire on the ring-wall, between the two trees — an ash and an elm they
+call the children of the first dragon — and call the dragons home. The
+dragons do not come. Only the Dragon Turtle still moves in the bay below.
+The next year they light the fire again.
+
+- **Reveals:** the comet cycle from the inside — fire wakes the god, a pass
+  is coming — and a god that abandons its faithful (the same as Tomb 4's
+  empty thrones). The dragons left when the hot spot drifted southeast
+  toward Moku; the zealots don't know that, and it is eating their faith.
+- **Lands on:** Sam, on his people's first ground, among the zealots his
+  arc is set to reconcile with the wandering nomads.
+- **Region fit:** Lonka / Jotunheim — Phoenician Tyre fused with the
+  Ramayana's Lanka, Norse register at the caldera.
+
+## The hand on the wall — Copaa / the Haals mine `[draft]`
+
+Real site: Cueva de las Manos, a cave wall of stenciled handprints.
+
+Deep in the Company's mine at Haals, past the tailings, the digging has
+broken into a wall of handprints — thousands of them, older than the
+gnomes of Copaa. The earth-people press one hand to the rock before they
+lie down and become a hill; there is no name to leave, so they leave a
+hand. The tunnels run on through them.
+
+Sleep the night in the mine and the ground hands over a stranger's
+afternoon — a floodplain, a day's work, no name to it (see
+[inherited memory](../lore/lineages-and-afterlives.md)).
+
+- **Reveals:** how the earth-people die — back into the land, nothing to
+  own — and that the mine is cutting through the dead to reach the ore. The
+  runoff poisoning Copaa's lake downstream starts here (see
+  [the Haals runoff](the-haals-runoff.md)).
+- **Lands on:** Sarric. These are his people's dead, and the stock his
+  unborn are drawn from; the Company is digging straight through them.
+- **Region fit:** Copaa / Suartleheim Eet, the fallen-gnome corner — see
+  the note below.
+
+---
+
+## Note — Copaa and a Mesoamerican region `[open]`
+
+Copaa's region has no mythology yet ([the fallen gnome
+kingdom](../lore/the-fallen-gnome-kingdom.md) is `[OPEN]`). Making it
+Mesoamerican would seat several things in one place:
+
+- The **handprints** in the Haals mine (above).
+- The unplaced Maya underworld in [the houses of
+  Xibalba](the-houses-of-xibalba.md) — the descent, the Council of Lords,
+  the ballcourt. It needs a home; Copaa could be it.
+- **Chinampas** — floating gardens — in Copaa's lake, dying as the Haals
+  runoff reaches them. The ballgame and the poisoned water on the surface;
+  the descent to Xibalba and the hands below.
+
+The ballgame and chinampas run Aztec; Xibalba and the Hero Twins run Maya
+(the Popol Vuh) — blended here on purpose, one Mesoamerican region.
+`[OPEN — confirm the region goes Mesoamerican, and whether Xibalba seats
+here.]`
