@@ -198,6 +198,11 @@ and carrying the war back onto their own ground.
   trading sharp tactical advice for coin. The party wouldn't believe it's really her
   until something forces the proof — a detail only Annibel would know, a scar, a name
   let slip too deep in a cup. Play it as a reveal, not a reunion.
+  **Staged `[draft — 7/26]`:** the party first meets her at a tavern near Copaa,
+  where she offers help against the [Company](the-company.md)'s Haals mine — see
+  [the Haals runoff §4](../encounters/the-haals-runoff.md). That job also writes
+  her enmity toward the Company itself; her canon so far made her an enemy of
+  Noku's armies alone.
 - **The missing fleet.** `[Will, 6/26]` **Annibel/Hannibal's fleet was never defeated.** After her
   resurgence it **dropped her on the Kuru mainland** for the land war, then **sailed north
   and vanished — nobody knows where.** Its destination is **north, toward the lost colonies

@@ -73,7 +73,8 @@ and **no railroad.** Ways in and ways through:
   dying; or the party notices on their own passing through; or a
   **[half-orc skipper](../lore/the-muspel-empire.md)** / a
   [Second Hand](../characters/the-second-hand.md) contact — people the Company is also
-  squeezing — points them at Haals.
+  squeezing — points them at Haals. This half-orc contact can be **Annibel**
+  herself (see §4).
 - **Expose it.** Bring proof to the magistrates — except the **Company owns the
   magistrates** ([the Company §4](../lore/the-company.md)), so the legal road runs into
   the same rot the party meets in Maalm. A lesson in *who the law is for.*
@@ -88,7 +89,37 @@ and **no railroad.** Ways in and ways through:
 
 ---
 
-## 4. Connections
+## 4. The tavern — meeting Annibel `[draft]`
+
+The half-orc contact from §3's hooks, named: **Annibel** (see [the Muspel
+empire §5](../lore/the-muspel-empire.md)) — the general who ravaged Kuru for
+twenty years and was broken by Noku at Ilka Mak. She is at large, hunted,
+hiding her name, drifting court to court and selling tactical advice for coin.
+A tavern near Copaa or its port at [Aar](../lore/nila-atlas.md) is where the
+party finds her: an old scarred half-orc drinking alone, one more half-orc in
+a world full of them.
+
+- **What she knows.** Where the mine is weak — the tailings dam, the ore road
+  down to Aar, the guard's hours, the Company ships that carry the ore out. She
+  lays it out for the price of the drink, and more for more.
+- **Why she helps.** The mine is the [Company](../lore/the-company.md)'s, and
+  the Company is Noku's — the power that broke her — and it ruins and buys out
+  the orc towns her people were driven into. Wrecking it costs her nothing and
+  costs them something. `[draft — new: this writes her enmity toward the Company;
+  before, she was an enemy of Noku's armies alone.]`
+- **Her plan.** Drop the dam, fire the works, workers and all, and move on. The
+  dwarf crews are hired hands, not the Company (§3); they are not her concern.
+  Her counsel is sound, and taking it whole is the party's to decide.
+- **The reveal.** She hides who she is. It comes out sideways — a scar, a detail
+  only she would know, the [Wanderer lament](../handouts/the-wanderer-lament.md)
+  recited too deep in a cup, *"Where is the horse gone? Where the rider?"* on a
+  cavalry commander with no cavalry left. Play it as a reveal, not a reunion
+  (muspel §5).
+- **What she wants.** `[OPEN]` Coin, for now. A party that later sails north
+  could bring word of her vanished fleet (muspel §5) — a thread to pull, not a
+  price set here.
+
+## 5. Connections
 
 - **[The Company](../lore/the-company.md)** — this is one of its extraction sites; the
   runoff is the **externality** the campaign uses to make the Company *felt* rather than described. A good **first, local** encounter with the enemy long before the party
