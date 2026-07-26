@@ -21,56 +21,60 @@ a losing crew exists, come back and pick which PC this one mirrors from where th
 party is then. Current guess: **Aniess**, the party member most drawn to power
 right now.
 
-One of Preem's crews on grave-wages, a season from becoming the Ashfoot. One of
-them found a demon's true name in a tomb and, instead of relaying it to Preem,
-used it himself.
+One of Preem's crews on grave-wages, a season from becoming the Ashfoot, did what
+a desperate crew with a real caster can do: they cast
+[Planar Binding](../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)
+on a powerful demon, one far stronger than they could safely hold, and made it
+serve. It works. The demon fights beside them and does the work that kills lesser
+crews, and the Ninth start winning. What they don't see is that it is smarter than
+all of them, and it obeys the binding to the letter while working them for its own
+ends.
 
-**Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap
-freely)*. Leader **Kesh Dural**. Five members, standard species like the other
-rival crews. The bound one: **Halen**.
+**Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
+Leader **Kesh Dural**; their caster **Halen** holds the binding and renews it.
+Five members, standard species like the other rival crews.
 
-**The binding.** The true name lets you bind a demon to serve you — the
-[Planar Binding house rule](../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)
-the party will learn, that Preem runs his tower on, that the dream-quest merchant
-used on his wife. Halen bound the demon as an ordinary servant and set it to the
-crew's dangerous work: it goes into the rooms that kill people and comes back,
-and the Ninth start finishing tombs no one else can. Their pay rises. The party's
-gifts are demons Preem holds on a leash; this is a demon Halen holds himself —
-and it is far stronger than a grave-robber should hold.
+**What the demon wants** *(standard D&D — chaotic evil, born of the Abyss)*. Not
+to rule them; that is a devil's want. It wants out of the binding, and short of
+that it wants ruin and their corruption. So it follows every order and spends the
+arrangement steering them toward its release, getting them to cross lines that damn
+them, and pushing toward a wider catastrophe. Every fight it joins and every kill
+it hands them feeds it. They take the power for their own.
 
-**The catch.** The name forces the demon to obey, but it can't be dismissed and
-the binding has to be renewed, and it spends that hold grinding down the man who
-carries it. It can't break the name, so it works on him instead — feeds him the
-wins that make him lean on it, and takes a little more of him each time he does,
-until he is its body.
+**How it corrupts them — across meetings.**
 
-**How Halen comes apart — across meetings.**
+- *First.* Winning, flush, glad of the edge. The demon fights beside them and the
+  fights are short.
+- *Later.* Harder, colder, quicker to kill — taking work and doing things the crew
+  that started out would not have. They defend the demon and do not hear
+  themselves.
+- *Late.* They serve it and call it serving themselves. The binding is a formality
+  now: it points, they go, and they would renew it on any terms rather than give
+  up what it gives them.
 
-- *First.* Sharp, winning, unhurt from rooms that should have killed him. He eats
-  constantly, cold food, far more than a man his size.
-- *Later.* His speech goes — less, then out of order, then the crew answers for
-  him. His teeth and eyes have changed. The others cover for him and take the
-  money.
-- *Late.* There is more demon than man in the seat. The name that would end it is
-  the one word none of them will speak, because speaking it ends the demon and
-  the money with it.
+**The tie to Preem's endgame.** A demon that wants the world broken wants what the
+comet is bringing. This crew can be reaching for the catastrophe Preem is reaching
+for, neither side knowing the other — or the demon's push for its own release runs
+it straight into Preem, who does not tolerate a demon in Nila he does not hold
+himself.
 
 **What it sets up.** At the climax the party are handed a true name and asked to
-use it — the volcano-demon (see [preem.md](../characters/preem.md)). Halen is
-that choice already made and going wrong: he bound something bigger than he could
-hold, and it is taking him. The dream-quest merchant is the quiet version of the
-same act; Halen is the loud one.
+bind the volcano-demon (see [preem.md](../characters/preem.md)). This crew is that
+bargain already made and already lost: they bound something bigger than they could
+hold, and now it acts through them. The dream-quest merchant is the small, quiet
+version of the same act; this crew is the loud one.
 
 **Hooks.**
 
-- The party can end Halen by speaking his demon's true name and dismissing it — a
-  mercy that also strips the Ninth of their edge and drops them toward the
-  Ashfoot. The same trap as the [missing-names favor](tavern-name-hunter-crews.md#the-lapis-writ--the-ones-who-won)
-  in the tavern: the kind act deepens the machine.
-- Kesh, the crew's leader, knows what is happening to Halen and keeps taking the
-  money.
-- Preem knows too. A crew binding demons off his books is a threat and a prize —
-  he can stamp it out, or take the demon for himself.
+- Free or kill the demon and the crew loses what the binding bought — their wins,
+  their standing — and slides toward the Ashfoot. Doing the right thing wrecks
+  them. The same trap as the tavern's
+  [missing-names favor](tavern-name-hunter-crews.md#the-lapis-writ--the-ones-who-won),
+  reversed.
+- The crew will not be saved. The power is what they have, and they fight to keep
+  it.
+- Preem knows. A powerful demon bound off his books is a threat and a prize — he
+  can break it, or take it.
 
 ---
 
