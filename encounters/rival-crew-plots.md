@@ -66,8 +66,7 @@ initiative gets rolled on that footing. Then the demon: it was invisible in the
 room from the start, or it teleports in on the first round — a creature several CR
 above the rest, cutting through the party while the crew hold the line. The party
 set their plan against five humanoids; the real threat arrives after initiative is
-set. Until the binding lapses, the crew fight without fear, because the thing that
-matters can't be beaten by killing them.
+set.
 
 **The tie to Preem's endgame.** A demon that wants the world broken wants what the
 comet is bringing. This crew can be reaching for the catastrophe Preem is reaching
