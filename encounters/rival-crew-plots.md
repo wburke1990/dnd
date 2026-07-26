@@ -45,8 +45,13 @@ and each renewal needs the crew alive and together in one place. That window is 
 demon's opening, and the party's.
 
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
-Leader **Kesh Dural**; their caster **Halen** holds the binding and renews it.
-Five members, standard species like the other rival crews.
+Leader **Kesh Dural**. Two full casters run the demon work: **Halen** holds the
+Planar Binding on the head demon and renews it, and **Erin** — a sea elf (she/her) —
+casts Summon Greater Demon, the kill-for-blood summons that call the lesser demons.
+Five members, standard species like the other rival crews. *(Erin is an homage to a
+past-campaign character of the same name — the sea-elf demon-summoner — the same
+Erin [Preem's voice note](../characters/preem.md) already reaches for. Keep or
+rename freely.)*
 
 **The warning at the seal.** The demon is older than the elves, and older than
 true-name binding itself, which the elves invented only about eighteen centuries ago
@@ -90,33 +95,33 @@ masters his demons; the Ninth are mastered by theirs, and don't know it.
   now: it points, they go, and they would renew it on any terms rather than give
   up what it gives them.
 
-**What the party finds.** Ahead of the crew or behind them, the party come on a
-village of the dead — bodies pale and emptied of blood, and on the ground the
-summoning circles drawn in it, one for each demon called there.
-[Timebiter](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene) dates
-the kills to the crew's passing. The first one is a massacre with no name on it;
-follow the trail and it leads to the Ninth — and, pulled further, it is Preem's
-machine shown small before the party ever see it whole: kill for blood, summon by
-name, and do it again.
+**The first fight — a surprise.** The party's first fight with the Ninth comes
+before they know what the crew is. It looks even — five against five, mercenaries.
+The binder does the talking, telling the party what the crew will do to them, and
+initiative gets rolled on that footing. Then the demon: it was invisible in the room
+from the start, or it teleports in on the first round — a creature several CR above
+the rest, cutting through the party while the crew hold the line. The party set
+their plan against five humanoids; the real threat arrives after initiative is set.
+It should hurt, and they may have to break off, not yet knowing what they tangled
+with.
 
-**The fight, when it comes.** It looks even — five against five, mercenaries. The
-binder does the talking, telling the party what the crew will do to them, and
-initiative gets rolled on that footing. Then the demon: it was invisible in the
-room from the start, or it teleports in on the first round — a creature several CR
-above the rest, cutting through the party while the crew hold the line. The party
-set their plan against five humanoids; the real threat arrives after initiative is
-set.
+**What the party finds.** Afterward, following the crew, the party come on a village
+of the dead — bodies pale and emptied of blood, and on the ground the summoning
+circles drawn in it, one for each demon called there.
+[Timebiter](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene) dates
+the kills to the crew's passing. Now the fight makes sense: the rival crew are this,
+and — pulled further — it is Preem's machine shown small before the party ever see
+it whole: kill for blood, summon by name, and do it again.
 
 **Preem's order, and the second fight.** Once the drained villages come to light,
 Preem sends the party to destroy the Ninth — a crew binding demons off his books,
 which he wants gone. He plays it as cleanup; what he actually wants is the head
 demon's true name, a prize he means to take for himself. The party don't know they
-are being aimed at a small copy of their own patron. The first fight is the ambush
-above — a surprise, and it should hurt; the party may have to break off. If they
-live, Preem escalates: he runs many crews, so he sends the
-[Second Hand](../characters/the-second-hand.md) and others in to help them finish
-it. The second fight is a battle among crews — the party and their allies against
-the Ninth, the demons the Ninth have summoned, and the head demon itself.
+are being aimed at a small copy of their own patron. Now they have a sanction to
+hunt the crew they already tangled with, and Preem escalates it: he runs many crews,
+so he sends the [Second Hand](../characters/the-second-hand.md) and others in to help
+finish it. The second fight is a battle among crews — the party and their allies
+against the Ninth, the demons the Ninth have summoned, and the head demon itself.
 
 Two things to hold. Killing the crew ends the binding and frees the head demon —
 the release it has been steering toward all along — so a clean win over the Ninth
@@ -126,8 +131,10 @@ absorbs the asset, having used the party to do his acquisition; keep it and they
 hold something he wants. When the party later learn what Preem is, they will have
 already helped him wipe out a smaller version of himself.
 
-**The twist — it was never bound.** The warning was literal. This demon was never
-bound at all: the name carved for the taking was false, one the demon left there
+**The twist — it was never bound (optional).** Both plots are good; the one above,
+where the binding is real, stands on its own, so run this only for the bigger
+surprise. The warning was literal, and this demon was never bound at all: the name
+carved for the taking was false, one the demon left there
 itself, and it let the false binding take and has played bound ever since —
 obeying, letting the crew re-cast renewals that hold nothing, letting them believe
 they owned it while it used them. There was never a real binding to lapse, and never
