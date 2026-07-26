@@ -138,19 +138,34 @@ What the effective level buys:
   (capped at 9th = 366 days). The name already makes it auto-succeed, so the circle
   buys **duration**, plus the bodies to hold the demon through the hour.
 
-Every caster spending a **5th-level slot** (so each is level 9 or higher):
+**Summoning (Summon Greater Demon)** — each caster spends a 5th-level slot:
 
-| Casters | Effective slot | Planar Binding duration | Summon Greater Demon CR |
-|---------|----------------|-------------------------|-------------------------|
-| 1 | 5th | 24 hours | 6 |
-| 2 | 6th | 10 days | 7 |
-| 3 | 7th | 30 days | 8 |
-| 4 | 8th | 180 days | 9 |
-| 5 | 9th | 366 days | 10 |
+| Casters | Effective slot | CR ceiling |
+|---------|----------------|-----------|
+| 1 | 5th | 6 |
+| 2 | 6th | 7 |
+| 3 | 7th | 8 |
+| 4 | 8th | 9 |
+| 5 | 9th | 10 |
 
-To reach higher, every caster spends a higher slot: five wizards each burning a
-**9th-level slot** (all level 17) reach effective 13th — Summon Greater Demon up to
-about **CR 14**, Planar Binding still capped at a year.
+Push higher by everyone spending higher slots — five wizards each burning a
+**9th-level slot** (all level 17) reach effective 13th, about **CR 14**.
+
+**Binding a found demon (Planar Binding)** — the demon is already there (sealed in
+a tomb, or the magma demon in its volcano), so there is no summoning and no CR
+gate: the name auto-succeeds and the circle only buys the **duration**, plus the
+bodies to hold it the hour. Ways to reach a **9th-level, year-long** binding:
+
+| Circle | Each caster spends | Effective slot | Binding lasts |
+|--------|--------------------|----------------|---------------|
+| 1 caster | 9th slot | 9th | 366 days |
+| 2 casters | 8th slot | 9th | 366 days |
+| 3 casters | 7th slot | 9th | 366 days |
+| 4 casters | 6th slot | 9th | 366 days |
+| 5 casters | 5th slot | 9th | 366 days |
+
+Smaller circles or lower slots land shorter — four casters at a 5th-level slot each
+reach effective 8th (180 days); a lone level-9 caster reaches only 5th (24 hours).
 
 **Worked example — a CR-10 yochlol like Mul, two ways.**
 
