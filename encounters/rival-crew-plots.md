@@ -55,6 +55,18 @@ arrangement steering them toward its release, getting them to cross lines that d
 them, and pushing toward a wider catastrophe. Every fight it joins and every kill
 it hands them feeds it. They take the power for their own.
 
+**The method — they become small Preems.** The demon is ancient and knows the true
+names of lesser demons. It feeds the Ninth those names one at a time, and each name
+is a demon they can call and hold without a roll — the name auto-controls
+[Summon Greater Demon](../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics).
+But Summon Greater Demon needs blood, a vial from a humanoid killed within the past
+day, so every name the head demon hands down is another person the crew has to kill.
+They kill for the blood, call the named demon with it, draw the blood circle in the
+same blood, and take the next job with a demon at their side. Then the head demon
+gives the next name. It is Preem's own machine — kill for blood, summon by name,
+summon more — run at a crew's size. The difference is who holds the leash: Preem
+masters his demons; the Ninth are mastered by theirs, and don't know it.
+
 **How it corrupts them — across meetings.**
 
 - *First.* Winning, flush, glad of the edge. The demon fights beside them and the
@@ -65,6 +77,15 @@ it hands them feeds it. They take the power for their own.
 - *Late.* They serve it and call it serving themselves. The binding is a formality
   now: it points, they go, and they would renew it on any terms rather than give
   up what it gives them.
+
+**What the party finds.** Ahead of the crew or behind them, the party come on a
+village of the dead — bodies pale and emptied of blood, and on the ground the
+summoning circles drawn in it, one for each demon called there.
+[Timebiter](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene) dates
+the kills to the crew's passing. The first one is a massacre with no name on it;
+follow the trail and it leads to the Ninth — and, pulled further, it is Preem's
+machine shown small before the party ever see it whole: kill for blood, summon by
+name, and do it again.
 
 **The fight, when it comes.** It looks even — five against five, mercenaries. The
 binder does the talking, telling the party what the crew will do to them, and
