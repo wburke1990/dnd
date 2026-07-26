@@ -48,6 +48,18 @@ demon's opening, and the party's.
 Leader **Kesh Dural**; their caster **Halen** holds the binding and renews it.
 Five members, standard species like the other rival crews.
 
+**The warning at the seal.** The demon is older than the elves, and older than
+true-name binding itself, which the elves invented only about eighteen centuries ago
+as their weapon against a demon-powered empire (see
+[the Second Foundation §3](../lore/the-second-foundation.md#3-the-founding-link--who-the-foundationers-are)).
+Where the Ninth found it, a hand from those first years of the practice left a
+record: a group who believed they had bound this same demon by its name, and were
+taken apart the same way — killing for it, feeding it, until it had used them up.
+Whoever put it back under the seal carved their account beside it, as a warning. The
+Ninth couldn't read it, or didn't. The party can, and it names what is happening to
+the rival crew before it finishes happening. *[loose — the earlier group, and how
+much of this ties to the founding of true-name binding, are open.]*
+
 **What the demon wants** *(standard D&D — chaotic evil, born of the Abyss)*. Not
 to rule them; that is a devil's want. It wants out of the binding, and short of
 that it wants ruin and their corruption. So it follows every order and spends the
@@ -113,6 +125,22 @@ And the name Preem wants is the name that re-binds it: hand it over and Preem
 absorbs the asset, having used the party to do his acquisition; keep it and they
 hold something he wants. When the party later learn what Preem is, they will have
 already helped him wipe out a smaller version of himself.
+
+**The twist — it was never bound.** The warning was literal. This demon was never
+bound at all: the name carved for the taking was false, one the demon left there
+itself, and it let the false binding take and has played bound ever since —
+obeying, letting the crew re-cast renewals that hold nothing, letting them believe
+they owned it while it used them. There was never a real binding to lapse, and never
+a true name in anyone's hand. When it drops the act, the crew find they were the
+summoned ones all along.
+
+*[loose] How far it ripples.* If a demon can seed a false name and play bound, a
+true-name binding is only as sound as the name is real — and no one can tell a true
+name from a false one by looking. That threatens Preem's whole airtight army, and
+the [volcano-demon of the climax](../characters/preem.md#the-climax--the-volcano-demon-choice)
+most of all: the true name the party are handed could be the lie. Contained to the
+Ninth it's a surprise; let it reach Preem and it undermines the whole endgame. A
+decision still to make.
 
 **The tie to Preem's endgame.** A demon that wants the world broken wants what the
 comet is bringing. This crew can be reaching for the catastrophe Preem is reaching
