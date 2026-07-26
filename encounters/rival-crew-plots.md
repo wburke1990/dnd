@@ -56,16 +56,23 @@ Erin [Preem's voice note](../characters/preem.md) already reaches for. Keep or
 rename freely.)*
 
 **The warning at the seal.** The demon is older than the elves, and older than
-true-name binding itself, which the elves invented only about eighteen centuries ago
-as their weapon against a demon-powered empire (see
-[the Second Foundation §3](../lore/the-second-foundation.md#3-the-founding-link--who-the-foundationers-are)).
-Where the Ninth found it, a hand from those first years of the practice left a
-record: a group who believed they had bound this same demon by its name, and were
-taken apart the same way — killing for it, feeding it, until it had used them up.
-Whoever put it back under the seal carved their account beside it, as a warning. The
-Ninth couldn't read it, or didn't. The party can, and it names what is happening to
-the rival crew before it finishes happening. *[loose — the earlier group, and how
-much of this ties to the founding of true-name binding, are open.]*
+true-name binding, which the elves invented only about eighteen centuries ago —
+reading the myth of
+**[Isis and Ra](../lore/demons-and-the-hotspot.md#where-the-names-come-from--and-why-the-party-hunts-them)**
+as a recipe: a secret name is a leash even on a god, and the way to take one is at
+the edge of death, where the dying cannot withhold it. That is the guarantee the
+whole practice rests on — Ra could not lie at the brink, so nothing can. This demon
+is the exception. In those first years the earliest binders took it the Isis-and-Ra
+way — brought it to the edge of true death and prised out a name — and it lied, gave
+a false name where the myth swears there is none left to give, played bound, and used
+them up the way it now uses the Ninth. Whoever finally sealed it carved the false
+name beside it, with the account, as a warning. The Ninth couldn't read it, or
+didn't; the party can, and it names what is happening to the rival crew before it
+finishes. Whether the crew's binding is genuine or the same lie again is the open
+ending below. *[loose — a demon that lied at the brink breaks the one method the
+binders (and Preem) trust most: the
+[false-name crack](../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)
+at the root of the whole practice.]*
 
 **What the demon wants** *(standard D&D — chaotic evil, born of the Abyss)*. Not
 to rule them; that is a devil's want. It wants out of the binding, and short of

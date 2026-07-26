@@ -48,7 +48,10 @@ The mechanical heart of Preem's power, and the campaign's central moral object.
 - **`[OPEN — 7/26]` The false-name crack.** A true name auto-succeeds — *if it is
   the real one.* An old, clever demon may leave a **false name** where finders will
   take it and then play bound, never actually compelled; no one can tell a true name
-  from a false one by looking. If this holds in the world it threatens every binding
+  from a false one by looking. The deeper version: an old enough demon may lie even
+  at the **brink of true death**, where the Isis-and-Ra method swears the truth is
+  forced — cracking the one way of taking a name that everyone trusts absolutely. If
+  this holds in the world it threatens every binding
   built on a supplied name — Preem's whole army, and the **volcano-demon of the
   climax** most of all, where the name the party are handed could be the lie. First
   surfaced with [the Ninth](../encounters/rival-crew-plots.md). Undecided — a table
