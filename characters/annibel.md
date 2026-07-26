@@ -34,15 +34,19 @@ middle victories are drafts to name.
 | Hannibal's battle | What happened | In Nila |
 |---|---|---|
 | **Crossing the Alps** | The impossible approach | **The sea-crossing.** Her fleet put her army ashore on the **Kuru mainland** where it could not be — an island world's Alps. `[settled]` |
-| **Trebia** (218 BC) | First big victory, a river ambush | **The Trebba** — a river ambush that swallowed the first army sent against her. `[draft — name TBD]` |
+| **Trebia** (218 BC) | First big victory, a river ambush | **The Trebbia** — a river ambush that swallowed the first army sent against her. `[draft — name]` |
 | **Lake Trasimene** (217 BC) | Ambush on the lake shore, an army lost whole | **Lake Tressamine** — the victory that marked her as a generational threat. `[settled]` |
-| **Cannae** (216 BC) | Double envelopment; a larger army surrounded and destroyed | **Kenai** — she lets her center give, folds the wings around a bigger force, and destroys it. Her worst blow to Kuru. `[draft]` |
+| **Cannae** (216 BC) | Double envelopment; a larger army surrounded and destroyed | **Kannae** — she lets her center give, folds the wings around a bigger force, and destroys it. Her worst blow to Kuru. `[draft — name]` |
 | **The march on Rome / *ad portas*** | The enemy at the gates | **The siege of Anklia** — a Kuru city she besieges at her height. The walls hold; she never takes it. `[settled]` |
 | **~15 years in Italy** | Ravaging enemy ground, unbeaten in the field | **~20 years on Kuru's ground**, carrying the war back onto the people who pushed her own off theirs. `[settled]` |
 | **Zama** (202 BC) | Scipio invades Africa; Hannibal is beaten at last | **Ilka Mak** — **Noku**, not Kuru, lands in her homeland Scipio-style and breaks her for good. That it was Noku is the wound straining the Kuru–Noku alliance. `[settled]` |
 
-`[OPEN]` Whether her host had a **beast-corps** — a Nila analog to the war
-elephants — or whether that Punic detail is dropped with the rest.
+`[settled]` **The war-oliphaunts.** Her host fights behind a corps of **giant
+war-elephants** — grown to the scale of Tolkien's oliphaunts (the mûmakil), far
+past any real elephant, raised huge the way Nila's fast mutation and island
+gigantism grow beasts ([lineages & afterlives §9](../lore/lineages-and-afterlives.md)).
+Her fleet ships them across to the Kuru mainland for the land war. `[draft — where
+the giants are bred, and a stat block]`
 
 ## Now — exile, and the tavern
 
@@ -90,8 +94,9 @@ elephants — or whether that Punic detail is dropped with the rest.
 - `[OPEN]` Her **name and cultural register** (Norse vs. Punic) — [muspel §5](../lore/the-muspel-empire.md).
 - `[OPEN]` Her **fate at campaign start** — killed at Ilka Mak, hunted down after, or
   vanished into the tavern life.
-- `[draft]` In-world names for **the Trebba** (Trebia) and **Kenai** (Cannae).
-- `[OPEN]` A **beast-corps** analog, or drop the elephants.
+- `[draft]` In-world names for **the Trebbia** (Trebia) and **Kannae** (Cannae) —
+  or keep them exactly as the real battles.
+- `[draft]` The **war-oliphaunts** — where the giants are bred, and a stat block.
 - `[OPEN]` Where her **fleet** went, for the party that sails north.
 
 ---
