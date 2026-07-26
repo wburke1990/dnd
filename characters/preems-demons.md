@@ -167,6 +167,16 @@ bodies to hold it the hour. Ways to reach a **9th-level, year-long** binding:
 Smaller circles or lower slots land shorter — four casters at a 5th-level slot each
 reach effective 8th (180 days); a lone level-9 caster reaches only 5th (24 hours).
 
+**Component cost.** Planar Binding consumes a **jewel worth at least 1,000 gp** on
+every cast — so a year-long binding spends that jewel once a year, but a daily
+binding spends one *every day*. Holding the demon for the hour adds a **Magic
+Circle**: **100 gp** of powdered silver and iron (or holy water), consumed. Magic
+Circle lasts only an hour at 3rd level, exactly the binding's cast time, so cast it a
+slot high for margin or recast it — and against a demon that can teleport (a balor)
+one circle is not a sure cage, it gets a save to leave, so plan on more. Rough floor
+for a single found-demon binding: **1,000 gp + 100 gp per circle**, on top of the
+slots.
+
 **Worked example — a CR-10 yochlol like Mul, two ways.**
 
 - *Solo (Preem's tier):* a level-17 wizard casts Summon Greater Demon from a
