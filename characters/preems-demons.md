@@ -227,6 +227,51 @@ and why the Ninth's **Erin** is one too: a lone diviner can force a middling dem
 down, but only Preem's coven of them can take the **volcano-demon**. Weigh against
 the current auto-success rule — a table call.
 
+## What the party can cast — the evil route
+
+*DM analysis, drawn from the PCs' classes (re-derivable from the class spell lists).
+Levels aren't on the sheets, so exact character levels are `[OPEN]`.*
+
+Of the five PCs, only two can touch demon-binding:
+
+| PC | Class | Magic Circle (cage) | Planar Binding (bind) | Summon Greater Demon (conjure) |
+|----|-------|:---:|:---:|:---:|
+| **Aniess** | Rogue/Cleric | yes | yes | no |
+| **Blackacre** | Druid | no | yes | no |
+| Sarric | Ranger | no | no | no |
+| Jasper | Fighter | no | no | no |
+| Pax | Monk | no | no | no |
+
+- **No one can summon.** Summon Greater Demon is Wizard/Warlock only, and the party
+  has neither — so the party can't manufacture demons or run the kill-for-blood
+  machine the Ninth do. Their only route is to **bind a demon already present** — one
+  sealed in a tomb, or the volcano-demon handed to them at the climax.
+- **When the spells come** (both are prepared casters, so a spell opens the moment
+  its slot does):
+  - **Magic Circle** — the cage — at **class level 5**, Cleric list, so **Aniess
+    only.**
+  - **Planar Binding** — the bind — at **class level 9**, Cleric and Druid, so
+    **both.**
+- **Blackacre** gets Planar Binding at level 9 and never gets Magic Circle (not on
+  the Druid list): he can bind but can't cage, so he needs Aniess or an NPC to hold
+  the demon.
+- **Aniess** is the only PC who can cage and bind alone. That access runs off
+  **Cleric level**, not character level — a plain Rogue adds nothing to casting — so
+  Magic Circle at **Cleric 5** and Planar Binding at **Cleric 9**. Character level is
+  that plus the Rogue levels: three Rogue levels would push Planar Binding to
+  **character level 12.** (The Rogue/Cleric split isn't on the sheet — `[OPEN]`.)
+- **The route opens late.** Nobody binds before class level 9, and the full
+  cage-and-bind only exists once Aniess reaches Cleric 9 — the campaign's back half,
+  around level 12+, which is where the volcano-demon choice lands anyway.
+- **Under the diviner variant above:** no PC is a Wizard, so no Portent — the party
+  could not bind the volcano-demon (or any top-tier demon) on their own, and would
+  have to go through Preem's coven. Under the base auto-success rule, Aniess can, with
+  the name.
+
+So the evil route runs through **Aniess** by class and temperament both: the one
+drawn to power (the [Ninth's mirror](../encounters/rival-crew-plots.md)) and the only
+PC who can walk the whole path.
+
 ## Demonic Restoration *(homebrew house rule)*
 
 The mechanic that makes Preem's servants a **recurring cast** rather than
