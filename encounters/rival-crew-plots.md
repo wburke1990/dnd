@@ -21,6 +21,12 @@ a losing crew exists, come back and pick which PC this one mirrors from where th
 party is then. Current guess: **Aniess**, the party member most drawn to power
 right now.
 
+Pitch their level to the gap that makes this work: high enough to bind the demon,
+too low to hold it a year. **Two full casters around level 9–11** reach a **ten-day**
+binding (thirty days by level 11) that they have to keep re-casting — and that
+renewal is the party's opening. A full year needs Preem's wizards (three casters at
+level 13, or five at level 9), never a grave-crew.
+
 One of Preem's crews on grave-wages, a season from becoming the Ashfoot, found a
 demon **sealed in a tomb** — a guardian left with the dead, its true name carved
 on the wall beside it. That name was the thing they were sent to relay to Preem.
@@ -32,7 +38,7 @@ stolen name. It works. The demon fights beside them and does the work that kills
 lesser crews, and the Ninth start winning. What they don't see is that it is
 smarter than all of them: it obeys the binding to the letter while working them
 for its own ends. The binding lapses and has to be re-cast, and the Ninth are a
-crew, not a wizard-circle — a caster or two, nowhere near enough to hold it long
+crew, not a wizard-circle — two full casters, nowhere near enough to hold it long
 the way Preem's team will hold the magma demon. So they re-bind every ten days or
 so (see [the binding rules](../characters/preems-demons.md#circle-casting-homebrew--the-exact-rule)),
 and each renewal needs the crew alive and together in one place. That window is the
