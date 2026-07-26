@@ -126,7 +126,10 @@ Several casters who all know the spell cast it together over its full casting ti
   Greater Demon, 5th for Planar Binding).
 - **Every caster in the circle, lead and each assistant, expends one spell slot of
   that base level or higher.** A caster who has no slot that high can't join *that*
-  circle.
+  circle. This makes circle-binding a full-caster affair: a 5th-level Planar Binding
+  circle needs a 5th-level slot from every member — full casters reach that at level
+  9, half-casters (paladin, ranger) not until 17, and Planar Binding isn't on their
+  list regardless. Half-casters and non-casters don't count toward a circle.
 - The spell resolves at an **effective slot level = the base level, +1 for each
   caster past the lead** (a circle of N casters casts at base + N − 1).
 
