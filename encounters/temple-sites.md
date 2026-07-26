@@ -128,6 +128,69 @@ afternoon — a floodplain, a day's work, no name to it (see
 - **Region fit:** Copaa / Suartleheim Eet, the fallen-gnome corner — see
   the note below.
 
+## The reaped field — Pax's trial `[draft]`
+
+Real rite: the Eleusinian Mysteries. Initiates were led down into the dark,
+shown something no one was allowed to describe, and at the end held up a
+single cut ear of grain — the seed that dies in the ground and comes back
+up green.
+
+What is at stake for Pax, plainly: he is half one kind of being and half
+another, and when he dies he has to pick which he becomes. He can sink into
+the land and become part of the soil and the growing things, with no name
+and no self left over. Or he can rise to a heaven and keep himself, but
+belong to it. Most people are only ever one or the other; he is pulled
+toward both, and does not know it. He thinks the voice that has always
+spoken to him is his god.
+
+The site: the Verdant Fist's shrine, where initiates are led down into the
+dark and brought back up. Most come out having felt one pull — down, into
+the green. Pax feels two at once: the ground offering to take him in, and a
+voice from above speaking straight to him. Here, for the first time, he can
+tell they are two different things.
+
+- **Reveals:** the choice waiting for him at his death — become the land, or
+  go to a heaven — and that what he calls his Green Revelation is half of a
+  larger thing (see [lineages & afterlives §6](../lore/lineages-and-afterlives.md)).
+- **Lands on:** Pax.
+- **Region fit:** wherever the Verdant Fist keeps its shrine `[OPEN]`.
+
+## The churning sea — Kalikhat `[draft]`
+
+Real myth: the Samudra Manthan, the churning of the ocean of milk. Gods and
+demons wrap a giant serpent around a mountain and haul it back and forth,
+using the mountain to churn the sea. Out of the churning come a deadly
+poison first, and at last the nectar of immortality.
+
+The site: a shore temple where the rite is kept — the mountain, the serpent,
+gods and demons hauling on the same rope. What the sea gives up when it is
+worked: the poison, then the nectar.
+
+- **Reveals:** the comet cycle from another angle — churn the deep and it
+  gives up both ruin and life, the way a pass does (slow build, or fast
+  blast). And gods and demons working the same rope, fitting for the country
+  where mortals first dealt with demons.
+- **Lands on:** whoever is chasing what the comet cycle is, and the
+  demon-dealing thread.
+- **Region fit:** Kalikhat — South Asian, the Underdark cradle.
+
+## The dwarves' forge — Suartleheim `[draft]`
+
+Real myth: Norse. The dwarf-smiths Brokkr and Eitri forge the gods' great
+treasures, Mjölnir among them; Loki wagers his head on their failing, loses,
+and has his mouth sewn shut when he wriggles out of paying.
+
+The site: a forge under the western dwarf-country, where the smiths will
+make a thing no one else can make — and set the price in a piece of you,
+worked into the metal. A wager is part of it: bet wrong and the forge takes
+what you staked.
+
+- **Reveals:** ownership and the body — you buy the power by giving up part
+  of yourself, the same trade the Kuru warforged make, told in the Norse
+  register.
+- **Lands on:** anyone tempted by what the forge can make.
+- **Region fit:** Suartleheim Weet — the dwarves (Norse Svartalfheim).
+
 ---
 
 ## Note — Copaa and a Mesoamerican region `[open]`
