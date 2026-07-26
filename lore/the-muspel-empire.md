@@ -149,6 +149,9 @@ The colonized became the reconqueror — and the reconquest is, in its turn, col
 
 ## 5. The Half-Orc Annibel/Hannibal — a resurgence, then a Zama (recent)
 
+> **Full NPC sheet:** [Annibel](../characters/annibel.md) — her whole arc mapped to
+> Hannibal's battles, her present exile, and how the party meets her.
+
 The long reconquest was not a straight line. In the last generation a **half-orc
 warlord** — David's requested Hannibal, recast in-world as **Annibel/Hannibal**
 (she/her), in **Viking / barbarian-herdsman** dress — rallied the orcs and half-orcs
