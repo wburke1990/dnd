@@ -46,6 +46,102 @@ The mechanical heart of Preem's power, and the campaign's central moral object.
   rehearsal for that choice. (See
   [Preem](preem.md#the-climax--the-volcano-demon-choice).)
 
+## Summoning, holding, and binding (homebrew mechanics)
+
+Three separate jobs, three tools. Kept straight, the levels follow.
+
+**A true name overrides both demon spells.** A true name you hold makes both
+auto-succeed against that demon:
+
+- **Planar Binding** — auto-success, no save (the rule above).
+- **Summon Greater Demon** — the demon **auto-fails** its control save every
+  turn instead of taking disadvantage, so a named demon can never break control
+  while you concentrate.
+
+Without the name, both go back to rolls, and the bigger the demon the better it
+resists — so a high demon's saves and Legendary Resistance only bite for demons
+you have **not** named.
+
+**1. Getting the demon in front of you — the real level-gate.**
+
+- **Summon Greater Demon** calls a **generic** demon of a type you choose, up to
+  a CR ceiling set by the slot:
+
+  | Slot | Caster level | CR ceiling | e.g. |
+  |------|--------------|-----------|------|
+  | 4th | 7 | 5 | barlgura, shadow demon |
+  | 5th | 9 | 6 | chasme, vrock |
+  | 6th | 11 | 7 | — |
+  | 7th | 13 | 8 | — |
+  | 8th | 15 | 9 | glabrezu |
+  | 9th | 17 | 10 | **yochlol (Mul)** |
+
+  A CR-10 yochlol takes a **level-17** caster and a 9th-level slot, solo.
+
+- **Circle-cast Summon Greater Demon** *(homebrew)*: each wizard in the circle
+  past the lead spends a slot of the lead's level and raises the ceiling
+  **+1 CR**. Five level-9 wizards (5th slot, base CR 6) reach **CR 6 + 4 = CR 10**
+  — the same yochlol, at a third the level, because there are five of them.
+  Control still runs on the name: summon a demon above the CR you can hold
+  *without* its name and it makes its save, breaks free, and turns on the circle.
+  A five-wizard circle tops out near **CR 14**.
+
+- A **specific, named** demon (not a generic one) has to be present another way:
+  **sealed in a tomb**, found together with its name, or pulled through by
+  **Gate** (9th-level, Preem-tier), which takes a named individual by name.
+
+**2. Holding it for the hour of casting.**
+
+- The **blood circle** belongs to **Summon Greater Demon alone.** It shields the
+  space inside it from *that summoned* demon and lasts only as long as the
+  summon. It protects the casters; it does not cage the demon, and it does
+  nothing against a demon you did not summon.
+- **Magic Circle** (3rd) traps any qualifying demon in a 10-ft cylinder for an
+  hour when inverted. This is the cage for binding, and the only containment that
+  works on a demon too big to summon — which has no blood circle to care about.
+
+**3. Binding it — Planar Binding (5th-level).** With the name it auto-succeeds at
+any CR, so the demon's power is no obstacle once it is present and named. The slot
+sets the duration:
+
+  | Slot | Duration |
+  |------|----------|
+  | 5th | 24 hours |
+  | 6th | 10 days |
+  | 7th | 30 days |
+  | 8th | 180 days |
+  | 9th | 366 days |
+
+A 5th-level slot (level 9, or a circle that reaches one) binds anything named; you
+re-cast every 24 hours. Longer bindings want bigger slots. Preem's tower demons
+are held by name with no renewal at all.
+
+**Circle casting (homebrew), in one place.** Several casters who know the spell
+cast it together across the full casting time, each assistant spending a slot of
+the lead's level. It lets a group cast a spell no one member has the slot for
+(five level-9s reach a 5th-level Planar Binding; lower crews pool toward it), and
+for **Summon Greater Demon** each assistant past the lead adds +1 CR to the
+ceiling. Planar Binding needs no CR help — the name already carries it; the circle
+only supplies the slot and the bodies to hold the demon for the hour.
+
+**Worked example — a CR-10 yochlol like Mul, two ways.**
+
+- *Solo (Preem's tier):* a level-17 wizard casts Summon Greater Demon from a
+  9th-level slot, blood circle up. With the yochlol's name the control holds; then
+  Planar Binding with the name, at whatever slot buys the duration he wants.
+- *Circle (a crew):* five level-9 wizards circle-cast Summon Greater Demon at 5th
+  level (CR 6 + 4 = CR 10); one of them then Planar Binds it with the name. Five
+  ordinary wizards do what one archmage does alone.
+
+**Why the magma demon is the climax and nothing smaller.** It is about **CR 19**
+and it **is the volcano** — already present, never summoned, so no blood circle
+applies, and a five-wizard circle can't reach it on the summon ceiling anyway
+(CR 14). Its save would throw off any binding tried without its name. So it can be
+bound only the way the campaign is built: a **circle** large enough to hold it
+through the hour (Magic Circle and bodies, not a summon) plus the **true name**
+the party carry, which makes its save moot. Two things are needed; the party hold
+one.
+
 ## Demonic Restoration *(homebrew house rule)*
 
 The mechanic that makes Preem's servants a **recurring cast** rather than
