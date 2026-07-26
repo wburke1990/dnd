@@ -1,8 +1,8 @@
 # Rival name-hunter crews — plots past the Valley
 
 These carry the rival crews past the tomb race and into the rest of the
-campaign. The Valley is done; the crews aren't. The engine is Preem's **pay
-ladder** (established this session): he pays his crews on a curve — the first
+campaign. The Valley is done; the crews aren't. The rivalry runs on money
+(worked out this session): Preem pays his crews on a curve — the first
 and cleanest crews take the big money, the rest get grave-wages (the party's
 canonical **5 gp/name**), and a crew that falls in the standings slides toward
 what the [Ashfoot](tavern-name-hunter-crews.md#the-ashfoot--the-wreckage-where-the-road-ends)
@@ -13,51 +13,64 @@ below hangs off that.
 
 ---
 
-## The crew that bound a demon to climb
+## The crew that bound a demon
 
-A crew that was sliding toward the bottom took a private bargain for power,
-climbed the ladder fast, and is being eaten by what they took.
+**On hold.** Deploy only once a crew has actually fallen behind in play and the
+pressure on them is real — not enough in-game time has passed for that yet. When
+a losing crew exists, come back and pick which PC this one mirrors from where the
+party is then. Current guess: **Aniess**, the party member most drawn to power
+right now.
+
+One of Preem's crews on grave-wages, a season from becoming the Ashfoot. One of
+them found a demon's true name in a tomb and, instead of relaying it to Preem,
+used it himself.
 
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap
 freely)*. Leader **Kesh Dural**. Five members, standard species like the other
-rival crews.
+rival crews. The bound one: **Halen**.
 
-**The bargain.** A season from becoming the Ashfoot, one of them — **Halen** —
-took a demon's true name off a tomb wall and, instead of relaying it to Preem,
-bound the demon into himself. The party's gifts are demons on a leash Preem
-holds; this is a demon let inside, held by no one. It works. The Ninth start
-finishing tombs no one else can and moving faster than a crew their size
-should, and their pay jumps. For a stretch they beat the Writ.
+**The binding.** The true name lets you bind a demon to serve you — the
+[Planar Binding house rule](../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)
+the party will learn, that Preem runs his tower on, that the dream-quest merchant
+used on his wife. Halen bound the demon as an ordinary servant and set it to the
+crew's dangerous work: it goes into the rooms that kill people and comes back,
+and the Ninth start finishing tombs no one else can. Their pay rises. The party's
+gifts are demons Preem holds on a leash; this is a demon Halen holds himself —
+and it is far stronger than a grave-robber should hold.
 
-**How they come apart — across meetings, shown not told.**
+**The catch.** The name forces the demon to obey, but it can't be dismissed and
+the binding has to be renewed, and it spends that hold grinding down the man who
+carries it. It can't break the name, so it works on him instead — feeds him the
+wins that make him lean on it, and takes a little more of him each time he does,
+until he is its body.
 
-- *First meeting.* Sharp, flush, winning. Halen does the worst of the work alone
-  and walks out unhurt of rooms that should have killed him. One tell: he eats
+**How Halen comes apart — across meetings.**
+
+- *First.* Sharp, winning, unhurt from rooms that should have killed him. He eats
   constantly, cold food, far more than a man his size.
-- *Later.* His speech is going — less, then out of order, then the crew answers
-  for him. His teeth and eyes have changed. The others cover for him and keep
-  taking the money.
-- *Late.* There is more demon than man in the seat. The name that would end it
-  is the one word none of them will speak, because speaking it ends their edge
-  and their pay with it. Kesh keeps him because the Ninth are nothing without
-  him now.
+- *Later.* His speech goes — less, then out of order, then the crew answers for
+  him. His teeth and eyes have changed. The others cover for him and take the
+  money.
+- *Late.* There is more demon than man in the seat. The name that would end it is
+  the one word none of them will speak, because speaking it ends the demon and
+  the money with it.
 
-**What it sets up for the party.** The party carry leashed gifts, and at the
-climax they are handed a true name and asked to use it — the volcano-demon (see
-[preem.md](../characters/preem.md)). The Ninth are that choice already made and
-already going wrong: Halen spoke the name to own the demon, and the demon is
-taking him. Like the dream-quest merchant and his bound wife, they let the party
-watch the campaign's central choice play out on someone else first.
+**What it sets up.** At the climax the party are handed a true name and asked to
+use it — the volcano-demon (see [preem.md](../characters/preem.md)). Halen is
+that choice already made and going wrong: he bound something bigger than he could
+hold, and it is taking him. The dream-quest merchant is the quiet version of the
+same act; Halen is the loud one.
 
 **Hooks.**
 
-- The party can end Halen by taking and speaking his demon's true name — a mercy
-  that also strips the Ninth of their edge and drops them toward the Ashfoot.
-  The same trap as the [missing-names favor](tavern-name-hunter-crews.md#the-lapis-writ--the-ones-who-won)
+- The party can end Halen by speaking his demon's true name and dismissing it — a
+  mercy that also strips the Ninth of their edge and drops them toward the
+  Ashfoot. The same trap as the [missing-names favor](tavern-name-hunter-crews.md#the-lapis-writ--the-ones-who-won)
   in the tavern: the kind act deepens the machine.
-- Kesh knows exactly what is happening to Halen and keeps taking the money.
-- Preem knows too. A crew binding demons off his books is both a threat and a
-  prize — he can stamp it out, or take the bound demon for himself.
+- Kesh, the crew's leader, knows what is happening to Halen and keeps taking the
+  money.
+- Preem knows too. A crew binding demons off his books is a threat and a prize —
+  he can stamp it out, or take the demon for himself.
 
 ---
 
