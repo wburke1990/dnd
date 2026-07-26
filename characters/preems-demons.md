@@ -45,6 +45,14 @@ The mechanical heart of Preem's power, and the campaign's central moral object.
   **volcano-demon's true name** and asked to use it. The dream quest is their
   rehearsal for that choice. (See
   [Preem](preem.md#the-climax--the-volcano-demon-choice).)
+- **`[OPEN — 7/26]` The false-name crack.** A true name auto-succeeds — *if it is
+  the real one.* An old, clever demon may leave a **false name** where finders will
+  take it and then play bound, never actually compelled; no one can tell a true name
+  from a false one by looking. If this holds in the world it threatens every binding
+  built on a supplied name — Preem's whole army, and the **volcano-demon of the
+  climax** most of all, where the name the party are handed could be the lie. First
+  surfaced with [the Ninth](../encounters/rival-crew-plots.md). Undecided — a table
+  call still to make.
 
 ## Summoning, holding, and binding (homebrew mechanics)
 
@@ -198,6 +206,23 @@ bound only the way the campaign is built: a **circle** large enough to hold it
 through the hour (Magic Circle and bodies, not a summon) plus the **true name**
 the party carry, which makes its save moot. Two things are needed; the party hold
 one.
+
+### `[loose — 7/26]` Variant: unbindable high demons, and the diviner workaround
+
+An alternative to auto-success at the top end, under consideration: the **very
+high-CR demons don't auto-succeed even with the true name.** They revert to the
+written rule and get their saving throw, and between high Charisma and Legendary
+Resistance they make it — so the biggest demons are effectively unbindable by name
+alone.
+
+The workaround is a **diviner.** A School of Divination wizard's **Portent** replaces
+a save with a die rolled in advance, so a diviner can force the demon to *fail.*
+Legendary Resistance then means you have to force enough fails to burn through it
+first — a **circle of diviners** spending Portent dice, and a fight spent stripping
+the demon's resistances before the binding lands. This is why **Preem is a diviner**,
+and why the Ninth's **Erin** is one too: a lone diviner can force a middling demon
+down, but only Preem's coven of them can take the **volcano-demon**. Weigh against
+the current auto-success rule — a table call.
 
 ## Demonic Restoration *(homebrew house rule)*
 

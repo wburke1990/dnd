@@ -46,8 +46,10 @@ demon's opening, and the party's.
 
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
 Leader **Kesh Dural**. Two full casters run the demon work: **Halen** holds the
-Planar Binding on the head demon and renews it, and **Erin** — a sea elf (she/her) —
+Planar Binding on the head demon and renews it, and **Erin** — a sea elf (she/her) diviner —
 casts Summon Greater Demon, the kill-for-blood summons that call the lesser demons.
+Her Portent is the workaround if the [high-CR-unbindable variant](../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics)
+is used — how a crew this size holds a demon this big at all.
 Five members, standard species like the other rival crews. *(Erin is an homage to a
 past-campaign character of the same name — the sea-elf demon-summoner — the same
 Erin [Preem's voice note](../characters/preem.md) already reaches for. Keep or
@@ -148,6 +150,11 @@ the [volcano-demon of the climax](../characters/preem.md#the-climax--the-volcano
 most of all: the true name the party are handed could be the lie. Contained to the
 Ninth it's a surprise; let it reach Preem and it undermines the whole endgame. A
 decision still to make.
+
+**The ending is open.** Two ways to close it: the demon was real and **Preem binds
+it** once the crew are dead — his acquisition, done by the party's hands, the
+original idea — or it was faking on a **false name** and cons everyone, Preem
+included. Both good; pick at the table.
 
 **The tie to Preem's endgame.** A demon that wants the world broken wants what the
 comet is bringing. This crew can be reaching for the catastrophe Preem is reaching
