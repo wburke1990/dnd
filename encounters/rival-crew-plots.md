@@ -21,14 +21,17 @@ a losing crew exists, come back and pick which PC this one mirrors from where th
 party is then. Current guess: **Aniess**, the party member most drawn to power
 right now.
 
-One of Preem's crews on grave-wages, a season from becoming the Ashfoot, did what
-a desperate crew with a real caster can do: they cast
-[Planar Binding](../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)
-on a powerful demon, one far stronger than they could safely hold, and made it
-serve. It works. The demon fights beside them and does the work that kills lesser
-crews, and the Ninth start winning. What they don't see is that it is smarter than
-all of them, and it obeys the binding to the letter while working them for its own
-ends.
+One of Preem's crews on grave-wages, a season from becoming the Ashfoot, found a
+demon **sealed in a tomb** — a guardian left with the dead, its true name carved
+on the wall beside it. That name was the thing they were sent to relay to Preem.
+They kept it, and cast
+[Planar Binding](../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics)
+on the demon with the name instead. The name makes the binding auto-succeed, so a
+mid-level crew held a demon it had no business holding — not by power, by the
+stolen name. It works. The demon fights beside them and does the work that kills
+lesser crews, and the Ninth start winning. What they don't see is that it is
+smarter than all of them: it obeys the binding to the letter while working them
+for its own ends, and every day the binding has to be renewed.
 
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
 Leader **Kesh Dural**; their caster **Halen** holds the binding and renews it.
