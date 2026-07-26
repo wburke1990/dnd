@@ -31,7 +31,12 @@ mid-level crew held a demon it had no business holding — not by power, by the
 stolen name. It works. The demon fights beside them and does the work that kills
 lesser crews, and the Ninth start winning. What they don't see is that it is
 smarter than all of them: it obeys the binding to the letter while working them
-for its own ends, and every day the binding has to be renewed.
+for its own ends. The binding lapses and has to be re-cast, and the Ninth are a
+crew, not a wizard-circle — a caster or two, nowhere near enough to hold it long
+the way Preem's team will hold the magma demon. So they re-bind every ten days or
+so (see [the binding rules](../characters/preems-demons.md#circle-casting-homebrew--the-exact-rule)),
+and each renewal needs the crew alive and together in one place. That window is the
+demon's opening, and the party's.
 
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
 Leader **Kesh Dural**; their caster **Halen** holds the binding and renews it.
@@ -54,6 +59,15 @@ it hands them feeds it. They take the power for their own.
 - *Late.* They serve it and call it serving themselves. The binding is a formality
   now: it points, they go, and they would renew it on any terms rather than give
   up what it gives them.
+
+**The fight, when it comes.** It looks even — five against five, mercenaries. The
+binder does the talking, telling the party what the crew will do to them, and
+initiative gets rolled on that footing. Then the demon: it was invisible in the
+room from the start, or it teleports in on the first round — a creature several CR
+above the rest, cutting through the party while the crew hold the line. The party
+set their plan against five humanoids; the real threat arrives after initiative is
+set. Until the binding lapses, the crew fight without fear, because the thing that
+matters can't be beaten by killing them.
 
 **The tie to Preem's endgame.** A demon that wants the world broken wants what the
 comet is bringing. This crew can be reaching for the catastrophe Preem is reaching
