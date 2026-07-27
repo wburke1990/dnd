@@ -733,6 +733,8 @@ The boat must keep moving. Everyone has a job. Each round every player names wha
 
 **If three or fewer succeed:** the boat slows. The darkness rises around the hull. Whoever contributed least to forward movement makes a DC 12 Dexterity saving throw or takes 1d4 bludgeoning damage from something scraping the hull from below. This is real damage. They can wake up.
 
+*(DM — this is the model the campaign's [sailing system](../lore/sailing-and-storms.md#the-storm-set-piece) uses for hard weather at sea: all hands, each names an action, roll the ability that fits, tally the crew. The dream runs it with no gear but the boat's own, and here a bad round wakes a sleeper where at sea it would cost the hull. Gate Six runs the same way.)*
+
 ## The Dead Man Helps
 
 This is the one moment in the journey where the dead man is an asset. He knows this boat. He sailed it in life. He can give the Help action to one player per round, calling out instructions in the voice of a man who has crossed difficult waters before. Let the players see his competence. He is not all guilt and regret.
@@ -897,17 +899,17 @@ If all three judges are satisfied — Isis, Nephthys, and Selket all incline the
 
 ## The Mechanic
 
-Each round, two players make DC 12 Strength or Athletics checks to keep the boat centered. Other players can use the Help action to give advantage on the checks.
+All hands — the same footing as [Gate Two](#gate-two--apep) and the campaign's [sailing system](../lore/sailing-and-storms.md#the-storm-set-piece): each round every player names what their character is doing to hold the boat off the burning banks — leaning on the steering-oar, spilling wind from the sail, poling off the bank, backing water, reading where the current sets — and rolls the ability that fits it (DEX or WIS to steer, STR or DEX on the sail, STR to pole or row) against **DC 12**.
 
-**If both succeed:** the boat holds center.
-**If one fails:** the boat drifts toward the fire.
-**If both fail:** the boat hits the bank.
+Count the crew's successes each round:
 
-Hitting the bank means the fire touches the hull. Anyone in contact with the hull takes 1d4 fire damage. This is your final and most sudden damage risk. The rule the party was warned about at the start is never more real than here.
+**Most of the crew succeeds:** the boat holds the channel. On to the next round.
+
+**Half or fewer succeed:** the current wins and the boat sheers into the fire of Ma'at. Whoever did least to hold her course makes a **DC 12 DEX save** or the hull comes against the blue fire at their side and they take **1d4 fire damage** — and any damage wakes them, the rule from the start of the dream.
 
 ## Resolution
 
-Three rounds of successful navigation. The channel widens back into open dark water. The fire recedes behind them.
+Three clean rounds holding her in the channel, and it widens back into open dark water. The fire recedes behind them.
 
 Ahead: a shore. On the shore, a building so large it has no visible ceiling, its entrance open, a blue light emanating from somewhere deep inside.
 
