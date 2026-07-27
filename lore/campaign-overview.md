@@ -152,19 +152,24 @@ Nod* is the literal incantation of the river-of-stars crossing).
 
 ---
 
-## 4. DMing Principles
+## 4. What Makes a Good Encounter
 
-Some are table preferences; several are load-bearing for the themes above.
+The criteria, in order. The first is load-bearing; the rest are preferences —
+hit as many as fit, not all of them every time.
 
-1. **No railroading.** Essential to the thesis: the climactic name-choice only
-   means something if it was never forced. The campaign *teaches* what a name does
-   so the choice can be the players'.
-2. **Build everything around the characters and their stories.** Already baked in
-   — the Hall of Two Truths confessions are each PC's wound made into content
-   (Sarric's camp, Aniess's stolen self, Jasper's survivor's guilt).
-3. **Always a non-combat option.**
-4. **Lots of puzzles.** (3 & 4 are exactly how the tombs and dream quest already
-   run: puzzle-and-navigation, no weapons, damage = waking.)
+1. **No railroading.** The choices that matter only mean something if they were
+   never forced.
+2. **Built around the characters' stories.** Draw on the PCs' backstories — the
+   people, places, and history the players wrote (the Hall of Two Truths
+   confessions run on this).
+3. **A non-combat option, preferable.**
+4. **Lots of puzzles, preferable.** (3 & 4 are how the tombs and dream quest run:
+   puzzle-and-navigation, weapons optional, damage = waking.)
+5. **Show them something about the campaign** — a new spell, a piece of
+   foreshadowing, a thread of the wider world surfacing.
+6. **Show them something weird about real-world mythology** — a real
+   primary-source strangeness played straight (Medjed, the 42 assessors, the
+   seven-part soul), per §3.D.
 
 ---
 
