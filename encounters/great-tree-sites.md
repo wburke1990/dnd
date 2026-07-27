@@ -50,13 +50,15 @@ Jotunheim) — do not reuse elsewhere. See
 
 ---
 
-## Upas / Zaqqum demon-tree — in development `[building]`
+## The hell-tree — the dead god at Suartleheim's edge `[building]`
 
-Pushkin's poison-tree ([Anchar](../handouts/anchar.md)) fused with the Quranic
-Zaqqum: roots reaching down into the Abyss, fruit that births demons, at the dead
-northern tip of [Suartleheim](../lore/nila-atlas.md). Preem sends crews to take
-names off the newborns before they learn to guard them. In development — see
-[the game preserve](the-game-preserve.md).
+A comet-god the True Giants killed before it could rise; a tree grew from its
+body, its mind trapped in the wood, its roots reaching the deep. The fruit births
+demons, and Preem sends crews to take the newborns' names before they learn to
+guard them. Draws on [Anchar](../handouts/anchar.md), the Qur'an's
+[Zaqqum](../handouts/the-tree-of-zaqqum.md), Kronos/Uranus with the Gigantomachy,
+the Juniper Tree, and the born-from-fruit tales. See
+[the hell-tree](the-hell-tree.md).
 
 ---
 
