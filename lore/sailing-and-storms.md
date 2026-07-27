@@ -183,6 +183,52 @@ boxes struck, and a Navigator check for where the storm has left them.
 
 ---
 
+## Resting at sea
+
+Standing watch is light activity by the rules, and a long rest allows up to two
+hours of it on top of six hours' sleep — so keeping the boat watched and taking
+a long rest are not opposed. Whether the *whole* party rests turns on how many
+hands the night's weather needs at the stations.
+
+**Easy nights — calm or fresh, one lookout enough.** Split the night into a
+watch bill. With five aboard, each stands about a ninety-minute watch — inside
+the two-hour allowance — and still gets six hours down. The whole party
+completes a long rest and the boat is watched the whole night. The sixth berth
+is slack: no one shares a bunk, and one passenger or hired hand rides along
+without breaking this.
+
+**Hard nights — rising, gale, or driving through.** Now the boat needs the helm
+*and* the sails worked without a break — two or more hands up the whole time.
+Cover that around the clock with only five and someone stands a real three- or
+four-hour watch, past the two-hour allowance and short of six hours' sleep. On a
+hard-sailing night the crew who keep her moving get **a short rest, not a long
+one.** Rotate who stands the heavy watches so the loss moves around the party
+night to night.
+
+**Why fragmented sleep doesn't add up.** A long rest is one block — six
+hours' sleep plus at most two hours of light activity, and only one such rest
+per twenty-four hours — not a tally of naps banked across a day. Three two-hour
+dozes between watch turns are three short sleeps, none of them the six-hour block
+the rest needs, and stretching the night longer doesn't assemble one out of the
+pieces. Broken sleep stays broken.
+
+**Enough crew.** Hands enough to work the stations *and* free each PC for six
+hours mean everyone rests even in a blow. Working two stations right through the
+night and still resting all five PCs takes about eight aboard — so a hard passage
+is the reason to ship extra crew, and the six-berth cap is the limit on how many
+can rest at once. Short-handed on a long passage, the party wears down a person
+at a time, a cost that stacks with the stores clock and the hull wear.
+
+**Interrupted.** A storm that breaks in the night, or a beast, is an hour of
+hard work or fighting — it ends the rest for everyone drawn into it, and the rest
+starts over.
+
+**At anchor or ashore.** Reach a sheltered anchorage or make landfall and the
+sea does the keeping: the whole crew sleeps and takes a full long rest, at the
+cost of the night's progress. The plainest way to rest hard is to stop.
+
+---
+
 ## Getting lost — the sandbox delivers
 
 A blown leg or a failed course is not a dead end. When the party runs before a
@@ -261,7 +307,9 @@ the campaign land as those songs coming true (see
    through.
 5. **Storm** — the set-piece: rising / peak / breaking, tally each round, hull
    boxes and overboard on a bad round.
-6. **Landfall** — repair hull in port, refill stores, and reckon where the
+6. **Resting** — easy night: all hands long-rest on short watches. Hard-sailing
+   night: those who crew her get a short rest only. Anchor or land to rest fully.
+7. **Landfall** — repair hull in port, refill stores, and reckon where the
    storm actually left them.
 </content>
 </invoke>
