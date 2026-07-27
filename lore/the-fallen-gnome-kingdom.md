@@ -24,8 +24,8 @@ placed in Copaa are elsewhere now:
 
 - **Chinampas** are a [Company](the-company.md) technology, grown on the lake
   south of Kalwa in Noku Kurunatuka — not on Copaa's lake.
-- **[The houses of Xibalba](../encounters/the-houses-of-xibalba.md)** stay
-  unplaced; the mouth of the descent is sited wherever it fits, not under Copaa.
+- **[The houses of Xibalba](../encounters/the-houses-of-xibalba.md)** are sited
+  on Noku Kurunatuka, not under Copaa.
 
 What stays: the **earth-people's handprints** in the Haals dig ([temple
 sites](../encounters/temple-sites.md)) — how the fallen-gnome dead go back into

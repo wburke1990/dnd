@@ -201,8 +201,8 @@ placed here are elsewhere now, or unplaced:
 - The **handprints** in the Haals mine (above) stay — the earth-people's death
   back into the land is the fallen-gnome corner's own, and does not depend on the
   region's cosmology.
-- [The houses of Xibalba](the-houses-of-xibalba.md) stay **unplaced**; the mouth
-  of the descent is sited wherever it fits, not under Copaa.
+- [The houses of Xibalba](the-houses-of-xibalba.md) are sited on **Noku
+  Kurunatuka**, not under Copaa.
 - **Chinampas** are a [Company](../lore/the-company.md) technology grown on the
   lake south of Kalwa in Noku Kurunatuka, not in Copaa's lake.
 

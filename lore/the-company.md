@@ -170,9 +170,9 @@ The Company developed the **chinampa**: a garden-plot built up from the bed of a
 shallow lake and worked from a canoe. Its plots stand on the lake **south of Kalwa**
 in [Noku Kurunatuka](nila-atlas.md) and feed the Company's seat. The technology is
 the Company's own — it grows there because that is where the Company built it, and
-the Company can lay chinampas on any water it holds. It has no tie to the
-[Xibalba descent](../encounters/the-houses-of-xibalba.md); the mouth of that
-underworld is sited separately.
+the Company can lay chinampas on any water it holds. The lake is not the Xibalba
+mouth — [that descent](../encounters/the-houses-of-xibalba.md) is on Noku too,
+but at its own site, not this lake.
 
 ---
 
