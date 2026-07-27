@@ -410,6 +410,34 @@ and so does everyone.
 *(Ali, plainer than she was at the shop:)*
 *"I'll be plainer than I was at the shop. There's a spell — we know how to cast it, and when. You say the words, and you... go. With him, or after him — I couldn't tell you which. We tried to be the ones. We can't get in. That's the whole of why you're here: someone who can."*
 
+## What the Father Warned
+
+Two things the father set beside the rite, drilled, and never explained. He
+never made the crossing himself, so the warnings are older than he was — handed
+down with the poem, their reasons lost somewhere up the line. The children give
+them because he made them promise to, not because they understand what they
+guard against.
+
+*(Muntadhir, handing it over as exactly as he can:)*
+*"He was strict about two things, and he could never tell us why — only that they came down with the rest of it and were not to be broken.*
+
+*First: whoever goes must not be hurt out there. Not scratched, not struck, nothing. He said if harm finds you, you're thrown back — you wake here, on the floor, and the night is gone. So whatever you meet out there, keep it at arm's length. Don't let it touch you."*
+
+*(then, lower — the one he pressed hardest:)*
+*"And there is a veil. Blue. He never said where, only that you would know it when you came near. You do not go past it. Whatever lies on the other side is the far country, the dead's own, and the living have no leave there. Go up to it if you must. Do not go through. Bring yourselves back."*
+
+*(Ali, who has heard it her whole life:)*
+*"We don't know what any of it means — a veil, being touched. He said it the same way every time, by rote, and never once told us why. Just don't be hurt, don't go past the blue, and come back. That last part he'd say twice."*
+
+*(DM — the two warnings foreshadow the dream's rules without explaining them.
+"Don't be hurt" is the damage-ends-the-spell rule ([Overview](#overview),
+[Gate Two](#gate-two--apep), [Gate Six](#gate-six--the-fire)). "Don't go past the
+blue veil" is Osiris's veil in the [Hall of Two Truths](#the-hall-of-two-truths),
+where Anubis leads the party out through a side door before the verdict — the
+living turn back, they do not pass through. Neither child knows any of this; play
+them repeating a rule they cannot read. The blue veil is also the spell's own
+name, *Dream of the Blue Veil*.)*
+
 ## "We've Tried" — They Cannot Cross the Threshold
 
 Make it unmistakable that their failure is at the **door of sleep**, not
