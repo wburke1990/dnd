@@ -339,6 +339,7 @@ mechanics of the circle-cast duel]`
   [myth & poem as literal truth (design pillar)](myth-and-poem-as-literal-truth.md),
   [lineages & afterlives (one death per bloodline)](lineages-and-afterlives.md),
   [house rules & world mechanics](house-rules-and-world-mechanics.md),
+  [sailing the archipelago (crewing, weather, storms)](sailing-and-storms.md),
   [Kuru & the phoenix](kuru-and-the-phoenix.md),
   [the Company (the merchant arm)](the-company.md),
   [demons, the hotspot & the deep cities](demons-and-the-hotspot.md),
@@ -354,7 +355,7 @@ mechanics of the circle-cast duel]`
 - **`handouts/`** — player-facing text: tomb inscriptions, grave poems, the
   Dream-of-the-Blue-Veil incantation, the Ragnarok scroll.
 - **`prompts/`** — verbatim AI image-generation prompts for the tomb art.
-- **`bestiary/`** — [the Egypt encounter table](../bestiary/egypt.md), [available demons (stat-block roster)](../bestiary/available-demons.md).
+- **`bestiary/`** — [the Egypt encounter table](../bestiary/egypt.md), [the sea-beasts table (world-myth ocean encounters)](../bestiary/sea-beasts.md), [available demons (stat-block roster)](../bestiary/available-demons.md).
 - **`maps/`** — region and city maps (letterboxed copies in `maps/padded/`).
 
 ---
