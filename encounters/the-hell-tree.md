@@ -41,7 +41,8 @@ Giants** — the oldest people, born of the world, who lie down and become mount
 tore it apart. This is the [pact](../lore/demons-and-the-hotspot.md) broken at the
 start: the one comet-fall where no god rose, no land was raised, and no road of the
 dead was ever kept. From the body a tree grew. The god did not die clean; its mind
-stayed, held in the wood.
+stayed, held in the wood. The killing is ancient — older than the Muspel empire;
+the exact age waits on the timeline. `[OPEN]`
 
 **The long middle.** Thousands of years. The tree stands over dead ground, its mind
 trapped and going bad, its roots creeping down year on year toward the road of the
@@ -52,11 +53,11 @@ demons climb out — one to a fruit. There is a moment, as each one comes free, 
 it is new and exposed — the Three Citrons, the thing that bursts from the fruit and
 can be lost in an instant. The trapped god calls them its children.
 
-The newborns do not stay. They leave the tree for the demon country to join the
-deep-people — Momotarō left home to fight the demons on their island; here the
-fruit's children leave to join them. `[OPEN]` where they go: the old deep city
-under [Muspelheim](../lore/musleheim.md), or the Underdark cradle of
-[Kalikhat](../lore/lonka-jotunheim.md).
+The newborns do not stay. They leave the tree for
+[Kalikhat](../lore/lonka-jotunheim.md), the Underdark cradle — Momotarō left home
+to fight the demons on their island; here the fruit's children leave to join them.
+This is one myth's road, not a rule of the world: the demons of this tree go to
+Kalikhat, and it says nothing about where demons go anywhere else.
 
 ---
 
