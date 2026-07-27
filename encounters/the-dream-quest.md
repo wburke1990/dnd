@@ -421,18 +421,18 @@ them on unchanged. The children repeat them and do not know what they mean.
 
 *'Take no wound in the dark.'*
 
-*And — 'Go to the blue, and no farther.'"*
+*And — 'Turn back at the blue veil.'"*
 
 *(Ali:)*
 *"I don't know what they mean. I never have. He said them every time, the same words, and I never asked what for. I'm only telling you because he made us promise."* *(a beat)* *"That second one he'd say twice."*
 
 *(DM — the two sayings foreshadow the dream's rules without explaining them.
 "Take no wound in the dark" is the damage-ends-the-spell rule ([Overview](#overview),
-[Gate Two](#gate-two--apep), [Gate Six](#gate-six--the-fire)). "Go to the blue, and no
-farther" is Osiris's veil in the [Hall of Two Truths](#the-hall-of-two-truths),
+[Gate Two](#gate-two--apep), [Gate Six](#gate-six--the-fire)). "Turn back at the
+blue veil" is Osiris's veil in the [Hall of Two Truths](#the-hall-of-two-truths),
 where Anubis leads the party out before the verdict — the living turn back, they
 do not pass through. Neither child knows any of this; play them repeating words
-they cannot read. The blue is also the spell's own name, *Dream of the Blue
+they cannot read. The blue veil is also the spell's own name, *Dream of the Blue
 Veil*.)*
 
 ## "We've Tried" — They Cannot Cross the Threshold
