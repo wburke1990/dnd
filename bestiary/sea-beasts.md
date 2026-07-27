@@ -9,10 +9,13 @@ out here. As with the [Egypt table](egypt.md), the myth is kept **unsanitized
 and primary-source**, as everywhere in this world (see
 [campaign-overview §3D](../lore/campaign-overview.md)).
 
-**When to roll.** These are the waters the [sailing system](../lore/sailing-and-storms.md)
-delivers the party into — a crossing, a watch, and above all a leg blown off
-course or a run for shelter that fetches them up on unmarked water (see
-*Getting lost* there). Roll on the table, or place a beast as a set-piece.
+**When to roll.** Roll once per **day of open-water travel**, wherever the boat
+is on the map. The sea is the same water everywhere; nothing on this table
+depends on being near a coast, a reef, a strait, or a named place, so the daily
+roll stands anywhere. A leg blown off course or a run for shelter is a fair
+moment for an extra roll (see *Getting lost* in the
+[sailing system](../lore/sailing-and-storms.md)). Place a beast as a set-piece
+when you'd rather choose than roll.
 
 *Tags:* sea; wandering encounter region; ties to [sailing-and-storms](../lore/sailing-and-storms.md)
 
@@ -28,7 +31,7 @@ their own myth.
 |----:|----------|-----------|------|----|
 | 1  | Dolphin Pod | — | Beast | 1/8 each (2d6) |
 | 2  | Sounding Whale | — | Beast | 8 |
-| 3  | Reef Shark Pack | — | Beast | 1/2 each (2d4) |
+| 3  | Open-Ocean Shark Pack | — | Beast | 1/2 each (2d4) |
 | 4  | Giant Squid | — | Beast | 4 |
 | 5  | Giant Sea Turtle | — | Beast | 2 |
 | 6  | Baitball & Seabirds | — | Beast (swarm) | 0 |
@@ -45,10 +48,12 @@ their own myth.
 | 17 | The Ketos | Greek | Monstrosity | 12 |
 | 18 | Sea-Serpent | Norse | Monstrosity | 9 |
 | 19 | The Kun | Chinese | Monstrosity | — (wonder) |
-| 20 | Scylla & Charybdis | Greek | Monstrosity / hazard | 16 / — |
+| 20 | Kraken | Norse | Monstrosity | 16 |
 
-Beyond the table sit the **great primordials** — Leviathan, Tiamat, the
-shark-god of the hot spot — placed by the DM, not rolled. See the last section.
+Beyond the table sit encounters the DM **places** rather than rolls: the
+**great primordials** (Leviathan, Tiamat, the shark-god of the hot spot), and
+the **strait of Scylla and Charybdis**, which needs the geography of a narrow
+passage. See the last sections.
 
 ---
 
@@ -78,8 +83,7 @@ they should happen:
   [storm set-piece](../lore/sailing-and-storms.md#the-storm-set-piece) with a
   monster instead of weather: stations, escalating rounds, and the beast strikes
   **hull boxes** and puts crew **overboard** exactly as a storm does. Break
-  contact — outrun it, lose it in fog or reef, put a headland between — and the
-  boat lives.
+  contact — outrun it, or lose it in fog or a squall — and the boat lives.
 - **Fight.** Only when cornered, or when the party has grown into it. Low-level,
   a real monster is a thing to flee, not kill.
 
@@ -109,7 +113,7 @@ Spd 0 ft, swim 60 ft. Tail/Fluke +11 (5d8+7 bludgeoning; a small boat in reach t
 
 *Tags:* sea-mundane; d20:2; hull threat if provoked; peaceful if left
 
-### 3 · Reef Shark Pack
+### 3 · Open-Ocean Shark Pack
 *Beast (Medium, pack of 2d4)* — **Beast, CR 1/2 each** · Unaligned
 **AC** 12 · **HP** 22 · **STR** 14 **DEX** 13 **CON** 13 **INT** 1 **WIS** 10 **CHA** 4
 
@@ -137,9 +141,9 @@ Spd 20 ft, swim 40 ft. Bite +6 (2d8+4 piercing). Hold Breath 1 hr; Shell (half c
 *Swarm of Tiny Beasts (Gargantuan school) + wheeling birds* — **Beast, CR 0** · Unaligned
 **AC** 12 · **HP** — (environmental) · treat as difficult swimming water
 
-A boiling acre of fish under a diving column of birds. No threat. It means two things a Navigator can read: **fish to net** (refill a stores box, DC 12) and **shallow water or a current line** nearby — a wayfinding sign that land, or a reef, is close. Predators feed here too; a baitball can be the first sign of a shark pack or worse below.
+A boiling acre of fish under a diving column of birds. No threat. A Navigator can work it for **fish to net** (refill a stores box, DC 12). Predators feed here too; a baitball can be the first sign of a shark pack or worse below.
 
-*Tags:* sea-mundane; d20:6; food + wayfinding sign; draws predators
+*Tags:* sea-mundane; d20:6; food; draws predators
 
 ---
 
@@ -149,9 +153,9 @@ A boiling acre of fish under a diving column of birds. No threat. It means two t
 *Monstrosity (Medium, bird-bodied women, 1d4+1)* — **Monstrosity, CR 4 each** · Neutral Evil
 **AC** 13 · **HP** 52 · **STR** 10 **DEX** 16 **CON** 14 **INT** 14 **WIS** 16 **CHA** 20
 
-Spd 20 ft, fly 40 ft. Talons +6 (2d6+3 slashing). **Song** (each creature that hears within 300 ft, DC 16 WIS save or charmed and compelled to steer toward the rocks; repeat save each turn; a charmed helmsman drives the boat onto the reef). Deaf creatures are immune. Bird-bodied, not fish-tailed — the older myth (Homer, *Odyssey* XII). They sing that they **know all that happens on the earth** and name the truth a listener most wants. **The answer is in the myth:** stop the crew's ears with wax and lash the one who would hear to the mast. A boat that passes with no one lost — the sirens' song broken — is said in the oldest tellings to be their death. **BOON:** a siren feather taken from one that dies of a clean passage lets its bearer, once, hear the true answer to a single question asked aloud at sea. **CURSE:** kill one in the water and its sisters' song follows the party across three more crossings.
+Spd 20 ft, fly 40 ft. Talons +6 (2d6+3 slashing). **Song** (each creature that hears within 300 ft, DC 16 WIS save or charmed; repeat save each turn). A charmed helmsman holds the boat turning toward the song and will not correct — the boat comes about in a slow circle and the leg is lost until the song breaks; a charmed swimmer, or a PC not fixed to a station, is compelled over the side to swim toward it. Deaf creatures are immune. Bird-bodied, not fish-tailed — the older myth (Homer, *Odyssey* XII). They sing that they **know all that happens on the earth** and name the truth a listener most wants. **The answer is in the myth:** stop the crew's ears with wax and lash the one who would hear to the mast. A boat that passes with no one lost — the sirens' song broken — is said in the oldest tellings to be their death. **BOON:** a siren feather taken from one that dies of a clean passage lets its bearer, once, hear the true answer to a single question asked aloud at sea. **CURSE:** kill one in the water and its sisters' song follows the party across three more crossings.
 
-*Tags:* sea-myth; d20:7; puzzle — wax & the mast; drives the boat onto rocks
+*Tags:* sea-myth; d20:7; puzzle — wax & the mast; charms the crew off course
 
 ### 8 · Hippocampi & a Nereid
 *Fey/Celestial (Large sea-horses drawing a shell, with a sea-nymph)* — **CR 3** · Chaotic Good
@@ -165,7 +169,7 @@ Spd swim 60 ft. Hooves +5 (2d6+3 bludgeoning) — used only if the nymph is thre
 *Fey (Large, appears as a fine horse or a handsome stranger)* — **Fey, CR 5** · Chaotic Evil
 **AC** 14 · **HP** 76 · **STR** 19 **DEX** 15 **CON** 16 **INT** 11 **WIS** 13 **CHA** 17
 
-Spd 40 ft, swim 60 ft. Bite +7 (2d10+4 piercing). Change Shape (a beautiful horse, a comely rider, a lost swimmer begging aboard). **Adhesive Hide:** a creature that touches it while it wills (mounts the horse, takes the offered hand) is grappled, DC 16 to break, and the each-uisge bolts for deep water to drown and devour it — leaving only the liver to wash ashore. The sea-loch cousin of the kelpie, deadlier than the freshwater kind. Salt water is its home; it cannot be ridden past the sight of the sea without turning. **Tell:** its hair, or the stranger's, is always beaded with water and threaded with weed that never dries.
+Spd 40 ft, swim 60 ft. Bite +7 (2d10+4 piercing). Change Shape (a beautiful horse, a comely rider, a lost swimmer begging aboard). **Adhesive Hide:** a creature that touches it while it wills (mounts the horse, takes the offered hand) is grappled, DC 16 to break, and the each-uisge bolts for deep water to drown and devour it — leaving only the liver to wash ashore. The sea cousin of the kelpie, deadlier than the freshwater kind, and at home in the open ocean; far from any shore it comes as a lone swimmer begging to be pulled aboard. **Tell:** its hair, or the stranger's, is always beaded with water and threaded with weed that never dries.
 
 *Tags:* sea-myth; d20:9; shapeshifter; lures aboard, drowns; leaves the liver
 
@@ -181,17 +185,17 @@ Spd swim 40 ft. Swamping Wave +10 (4d10 bludgeoning to the boat as **1d6 hull bo
 *Undead (Medium, a drowned woman, pale and beautiful, hair always wet)* — **Undead, CR 4** · Chaotic Evil
 **AC** 13 · **HP** 58 · **STR** 12 **DEX** 17 **CON** 14 **INT** 11 **WIS** 14 **CHA** 18
 
-Spd 30 ft, swim 40 ft. Drowning Grasp +6 (2d8+3 + grapple DC 15; a grappled creature pulled underwater begins to drown). **Beckoning Laughter** (30 ft, DC 15 WIS or charmed toward the water's edge, moving to embrace her). The spirit of a woman drowned or wronged; she lures the living in to share her death. Most dangerous in the shallows, at a river mouth, or where the party puts in for water. **Laying her to rest** — answering the wrong that drowned her — frees her, and the water she haunted becomes safe. **BOON:** a rusalka laid to rest gives calm passage through her waters ever after. **CURSE:** killed with force rather than freed, she rises again at the next river mouth, and the party's Bosun finds a hull box freshly sprung each morning.
+Spd 30 ft, swim 40 ft. Drowning Grasp +6 (2d8+3 + grapple DC 15; a grappled creature pulled underwater begins to drown). **Beckoning Laughter** (30 ft, DC 15 WIS or charmed toward the water's edge, moving to embrace her). The spirit of a woman drowned or wronged; she lures the living in to share her death. She rises beside a boat in the open sea as readily as anywhere. **Laying her to rest** — answering the wrong that drowned her — frees her, and the water she haunted becomes safe. **BOON:** a rusalka laid to rest gives calm passage through her waters ever after. **CURSE:** killed with force rather than freed, she rises again at the next river mouth, and the party's Bosun finds a hull box freshly sprung each morning.
 
-*Tags:* sea-myth; d20:11; lure & drown; laying-to-rest option; shallows & river mouths
+*Tags:* sea-myth; d20:11; lure & drown; laying-to-rest option; open water
 
 ### 12 · Makara
 *Monstrosity (Huge, crocodile forebody, elephant's trunk, fish's tail)* — **Monstrosity, CR 7** · Lawful Neutral
 **AC** 17 · **HP** 115 · **STR** 21 **DEX** 12 **CON** 18 **INT** 10 **WIS** 15 **CHA** 14
 
-Spd 20 ft, swim 50 ft. Bite +9 (3d10+5 piercing + grapple DC 17). Trunk +9 (2d8+5 bludgeoning, 15 ft reach, pulls a creature or boat toward it). The mount of Varuna, lord of the waters, and the guardian carved over sacred gates. **It keeps a threshold** — a strait, a river mouth, a drowned temple's door — and lets no one past who cannot answer for why they come. Reverence and a true purpose satisfy it; force does not. **BOON:** answered rightly, it grants passage and, once, escort through dangerous water (no beast rolls that leg). **CURSE:** killed at its threshold, the water it kept turns against the party — every crossing one step worse weather until an offering is made to Varuna.
+Spd 20 ft, swim 50 ft. Bite +9 (3d10+5 piercing + grapple DC 17). Trunk +9 (2d8+5 bludgeoning, 15 ft reach, pulls a creature or boat toward it). The mount of Varuna, lord of the waters. It rises across the boat's course and **claims the water the party is crossing as its own**, letting no one pass who cannot answer for why they come. Reverence and a true purpose satisfy it; force does not. **BOON:** answered rightly, it grants passage and, once, escort through dangerous water (no beast roll that day). **CURSE:** killed rather than answered, the water turns against the party — every crossing one step worse weather until an offering is made to Varuna.
 
-*Tags:* sea-myth; d20:12; gatekeeper; answer for your purpose; guards straits & temple mouths
+*Tags:* sea-myth; d20:12; gatekeeper; answer for your purpose; open water
 
 ### 13 · Bakunawa
 *Monstrosity (Gargantuan sea-serpent, mouth a league wide)* — **Monstrosity, CR 11** · Chaotic Evil
@@ -210,24 +214,25 @@ Spd 20 ft, swim 60 ft, fly 40 ft (in its own storm). Bite +9 (3d8+5 piercing + 2
 *Tags:* sea-myth; d20:14; the storm is the beast; ties to the mage-winds
 
 ### 15 · Sedna's Tribute
-*Celestial (the sea-mother, unseen; her children are the seals and whales)* — **encounter, not a stat block** · Lawful Neutral (cold northern water)
+*Celestial (the sea-mother, unseen; her children are the seals and whales)* — **encounter, not a stat block** · Lawful Neutral
 
-No fight — a reckoning. In the cold north, the sea and everything in it answers
-to **Sedna**, drowned by her own father, her finger-joints cut away as she
-clung to the boat until they became the seals, the walrus, and the whales. She
-holds the sea-beasts in her hands and gives or withholds them by her mood, and
-her hair, unwashed, tangles with the grief of every wrong done above her water.
-The party meets her as **empty water** — no fish, no seal, no wind, stores
-running down (mark stores boxes each day) — and a hunger that does not lift
-until she is answered. **The answer is in the myth:** someone must go down to
-her, **comb and braid her tangled hair** (she has no fingers to do it herself),
-and set right, or speak true to, a wrong the party carries. Do it, and the sea
-opens — fish, fair wind, safe passage north. Refuse, and the empty water holds.
-Tie to the **northern reveal** and the **sealskin folk** (see
+No fight — a reckoning. The sea and everything in it answers to **Sedna**,
+drowned by her own father, her finger-joints cut away as she clung to the boat
+until they became the seals, the walrus, and the whales. She holds the
+sea-beasts in her hands and gives or withholds them by her mood, and her hair,
+unwashed, tangles with the grief of every wrong done above her water. The party
+meets her as **empty water** — no fish, no seal, no wind, stores running down
+(mark stores boxes each day) — and a hunger that does not lift until she is
+answered. **The answer is in the myth:** someone must go down to her, **comb and
+braid her tangled hair** (she has no fingers to do it herself), and set right,
+or speak true to, a wrong the party carries. Do it, and the sea opens — fish,
+fair wind, safe passage. Refuse, and the empty water holds. Her cold empty sea
+can find the party on any crossing; it also resonates with the **northern
+reveal** and the **sealskin folk** (see
 [the-muspel-empire](../lore/the-muspel-empire.md), and Annibel's missing fleet
 that sailed north — [ships-and-sea-power](../lore/ships-and-sea-power.md)).
 
-*Tags:* sea-myth; d20:15; no fight — comb her hair, right a wrong; northern water; sealskin-folk hook
+*Tags:* sea-myth; d20:15; no fight — comb her hair, right a wrong; open water; sealskin-folk hook
 
 ### 16 · Hafgufa & the Lyngbakr
 *Monstrosity (Gargantuan whale-island; the greatest of sea-beasts)* — **Monstrosity, CR 10** · Unaligned
@@ -241,9 +246,9 @@ Spd swim 40 ft. The **Lyngbakr** ("heather-back") is the island that isn't: a lo
 *Monstrosity (Gargantuan sea-monster)* — **Monstrosity, CR 12** · Chaotic Evil
 **AC** 18 · **HP** 253 · **STR** 25 **DEX** 10 **CON** 22 **INT** 5 **WIS** 12 **CHA** 10
 
-Spd swim 60 ft. Multiattack: Bite + Tail. Bite +12 (4d12+7 piercing, swallow Large or smaller). Tail +12 (3d10+7 bludgeoning; **1d10 hull boxes**). Amphibious; can heave its forebody onto a shore. Poseidon's sea-monster, sent against a coast that offended the sea — the beast a town chains a daughter to the rocks to feed (Andromeda). The party may arrive to find a **coastal town mid-sacrifice**, a victim already on the rocks, and the choice the myth turns on: pay the toll, break the chains and fight the monster in the surf, or find why the sea is owed. **BOON:** a town saved owes the party a safe harbor and a berth forever. Its hide makes armor that turns the sea's cold and wet.
+Spd swim 60 ft. Multiattack: Bite + Tail. Bite +12 (4d12+7 piercing, swallow Large or smaller). Tail +12 (3d10+7 bludgeoning; **1d10 hull boxes**). Amphibious; can heave its forebody onto a shore. Poseidon's sea-monster, sent against those who offend the sea. In open water it rises and takes the boat for prey — a thing to flee, or to fight in the swell once the party is grown enough. Its hide makes armor that turns the sea's cold and wet. **[Optional coastal set-piece]** the Andromeda scene, when a leg does end at a shore: the party makes landfall to find a **town mid-sacrifice**, a victim chained on the rocks, and the choice the myth turns on — pay the toll, break the chains and fight it in the surf, or find why the sea is owed; a town saved owes them a berth forever.
 
-*Tags:* sea-myth; d20:17; the sacrifice-monster; a town, a victim, a choice; coastal set-piece
+*Tags:* sea-myth; d20:17; open-water predator; optional Andromeda coastal scene
 
 ### 18 · Sea-Serpent
 *Monstrosity (Gargantuan, a coil of the world-serpent's brood)* — **Monstrosity, CR 9** · Neutral
@@ -256,9 +261,9 @@ Spd swim 60 ft. Bite +10 (4d10+7 piercing). Constrict the hull (+10, DC 17; a ca
 ### 19 · The Kun
 *Monstrosity (beyond Gargantuan — a fish thousands of li across)* — **wonder, not a fight** · Unaligned
 
-Not an encounter to survive — one to witness. In the far northern darkness of
-the sea lies the **Kun**, a fish so vast the party sails for a day along a flank
-they take for a black coast. Then it **changes:** it heaves out of the sea and
+Not an encounter to survive — one to witness. Somewhere in the open sea lies the
+**Kun**, a fish so vast the party sails for a day along a flank they take for a
+black coast. Then it **changes:** it heaves out of the sea and
 becomes the **Peng**, a bird whose wings darken the sky from edge to edge, and
 beats south for the far ocean, and the sea it leaves collapses into a swell that
 carries the boat leagues in a breath (Zhuangzi's *Xiaoyaoyou*). It is the
@@ -270,25 +275,13 @@ transformation theme; place it, don't roll it, and let it mean nothing yet.]**
 
 *Tags:* sea-myth; d20:19; wonder not combat; seeds the comet/transformation cycle
 
-### 20 · Scylla & Charybdis
-*The strait — Scylla: Monstrosity CR 16; Charybdis: hazard* · Neutral Evil / — 
+### 20 · Kraken
+*Monstrosity (Gargantuan cephalopod of the deep)* — **Monstrosity, CR 16** · Neutral Evil
+**AC** 18 · **HP** 350 · **STR** 28 **DEX** 12 **CON** 25 **INT** 10 **WIS** 14 **CHA** 18
 
-Two dangers in one narrow water, and no way through that touches neither. On
-one cliff, **Scylla** — six long necks, each a head of three rows of teeth,
-twelve groping feet — snatches sailors off a passing deck, **one per head that
-reaches** (each head +13, DC 18, a caught PC hauled up the cliff and eaten; she
-cannot be outfought from a boat, only outrun). On the other side, **Charybdis**
-— a throat in the sea that swallows the water down three times a day and belches
-it back, a whirlpool that takes a whole boat if it passes at the wrong hour
-(Navigator DC 18 to time the slack; failure feeds the boat to the maw, **all
-hull boxes** and a sinking clock). **The answer is in the myth:** you cannot
-have both. Pass close under Scylla and **lose a few of the crew** rather than
-risk the whirlpool that takes everyone. Odysseus was told to hug Scylla's cliff
-and grieve six men, not fight — the strait is a choice about what you will pay,
-not a monster to kill. Run it as the [storm set-piece](../lore/sailing-and-storms.md#the-storm-set-piece)
-with two hazards and a stated price.
+Spd swim 60 ft. Multiattack: two Tentacles + Bite. Tentacle +17 (3d6+9 bludgeoning + grapple DC 20, 30 ft reach; a grappled boat is dragged down — **2d6 hull boxes/round**, and a sinking clock the moment the hull goes under). Bite +17 (5d10+9 piercing; swallow Large or smaller). Fling (a grappled creature hurled 60 ft). Rises from the deepest water without warning — and the water is deep enough to hide it anywhere out here. Too vast to kill from a boat: the encounter is to break the grip and run before it pulls the hull down. Sailors say it sleeps most of an age and wakes hungry.
 
-*Tags:* sea-myth; d20:20; the strait; a choice, not a kill; pairs with make-for-shelter
+*Tags:* sea-myth; d20:20; open-water apex; drags the whole hull under; break free and run
 
 ---
 
@@ -331,6 +324,25 @@ the Pele/hot-spot cosmology; grows as the Kurunatuka arc does.]**
 - **Apep** — the river-serpent of the Duat, kept for the [dream quest](../encounters/the-dream-quest.md), not the open sea.
 
 ---
+
+## The strait — Scylla and Charybdis (placed by geography)
+
+This one needs the geography, so it is **placed, never rolled**: one narrow
+passage with a cliff on either hand, the only way between two waters. On one
+cliff, **Scylla** — six long necks, each a head of three rows of teeth, twelve
+groping feet — snatches sailors off a passing deck, **one per head that reaches**
+(each head +13, DC 18; a caught PC is hauled up the cliff and eaten, and she
+cannot be outfought from a boat, only outrun). On the other side, **Charybdis** —
+a throat in the sea that swallows the water down three times a day and belches it
+back, a whirlpool that takes a whole boat at the wrong hour (Navigator DC 18 to
+time the slack; failure feeds the boat to the maw — **all hull boxes** and a
+sinking clock). **The answer is in the myth:** you cannot have both. Pass close
+under Scylla and **lose a few of the crew** rather than risk the whirlpool that
+takes everyone — Odysseus was told to hug her cliff and grieve six men, not
+fight. The strait is a choice about what you will pay. Run it as the
+[storm set-piece](../lore/sailing-and-storms.md#the-storm-set-piece) with two
+hazards and a stated price. The natural place on the map is the **strait dividing
+Musleheim from Noku Kurunatuka** (see [nila-atlas](../lore/nila-atlas.md)).
 
 ## See also
 

@@ -187,11 +187,14 @@ boxes struck, and a Navigator check for where the storm has left them.
 
 A blown leg or a failed course is not a dead end. When the party runs before a
 storm, fails navigation badly, or makes for the nearest shelter, they **fetch
-up somewhere they did not aim for** — an island off the charts, a stretch of
-open water with something living in it, a coast no one aboard knows. Roll on
-the [sea-beasts table](../bestiary/sea-beasts.md), or drop them at a prepared
-island. Bad sailing is how the party finds the water's stranger places; a clean
-crossing skips them. Let the dice carry them off course and see where they land.
+up somewhere they did not aim for** — an island off the charts, a coast no one
+aboard knows. Drop them at a prepared island, or roll for a strange landfall.
+Bad sailing is how the party finds the water's stranger *places*; a clean
+crossing skips those. (The [sea-beasts table](../bestiary/sea-beasts.md) is
+separate — it's a **daily roll on any open-water leg**, wherever the boat is, so
+the party can meet a monster on a clean crossing too; a botched leg just adds a
+strange landfall on top.) Let the dice carry them off course and see where they
+land.
 
 ---
 
