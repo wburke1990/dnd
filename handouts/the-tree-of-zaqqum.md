@@ -1,11 +1,72 @@
 # The Tree of Zaqqum — the Qur'an
 
 > **Handout — scripture.** The Qur'an's verses on **Zaqqum**, the tree that
-> grows in Hell. English is the **Sahih International** translation; surah and
-> ayah numbers given. Kept verbatim (source: quran.com). The last passage
-> (Al-Isra 17:60) names "the accursed tree," traditionally read as Zaqqum.
+> grows in Hell. Two English translations below: **A. J. Arberry** (*The Koran
+> Interpreted*, 1955) — the beautiful reading, the one to use in play — and
+> **Sahih International**, plainer, kept as a gloss. Kept verbatim (source:
+> quranx.com, Arberry column; and quran.com for Sahih). The last passage
+> (Al-Isra 17:60) names "the tree cursed in the Koran," traditionally read as
+> Zaqqum.
+>
+> **The contrast.** In 37:62 the "or" sets Paradise against Hell — the surah has
+> just described the garden and welcome of the faithful, then asks whether that
+> is the better hospitality, or the Tree of Zaqqum. Arberry throws the same word
+> back at 56:56: the tree is the damned's "hospitality on the Day of Doom."
+>
+> `[to verify]` Arberry's line-final punctuation (comma vs. semicolon vs. period
+> across the running passages) is per the quranx per-ayah pages; cross-check
+> against the archive.org book scan before treating it as final.
 
-## As-Saffat 37:62–68
+---
+
+## A. J. Arberry — the beautiful reading
+
+**As-Saffat 37:62–68**
+
+```
+Is that better as a hospitality, or the Tree of Ez-Zakkoum?
+We have appointed it as a trial for the evildoers.
+It is a tree that comes forth in the root of Hell;
+its spathes are as the heads of Satans,
+and they eat of it, and of it fill their bellies,
+then on top of it they have a brew of boiling water,
+then their return is unto Hell.
+```
+
+**Ad-Dukhan 44:43–46**
+
+```
+Lo, the Tree of Ez-Zakkoum
+is the food of the guilty,
+like molten copper, bubbling in the belly
+as boiling water bubbles.
+```
+
+**Al-Waqi'ah 56:51–56**
+
+```
+Then you erring ones, you that cried lies,
+you shall eat of a tree called Zakkoum,
+and you shall fill therewith your bellies
+and drink on top of that boiling water
+lapping it down like thirsty camels.
+This shall be their hospitality on the Day of Doom.
+```
+
+**Al-Isra 17:60**
+
+```
+And when We said to thee, 'Surely thy Lord encompasses men,' and We made
+the vision that We showed thee and the tree cursed in the Koran to be only
+a trial for men; and We frighten them, but it only increases them in great
+insolence.
+```
+
+---
+
+## Sahih International — the plain gloss
+
+**As-Saffat 37:62–68**
 
 ```
 62. Is Paradise a better accommodation or the tree of zaqqum?
@@ -17,7 +78,7 @@
 68. Then indeed, their return will be to the Hellfire.
 ```
 
-## Ad-Dukhan 44:43–46
+**Ad-Dukhan 44:43–46**
 
 ```
 43. Indeed, the tree of zaqqum
@@ -26,7 +87,7 @@
 46. Like the boiling of scalding water.
 ```
 
-## Al-Waqi'ah 56:51–56
+**Al-Waqi'ah 56:51–56**
 
 ```
 51. Then indeed you, O those astray [who are] deniers,
@@ -37,7 +98,7 @@
 56. That is their accommodation on the Day of Recompense.
 ```
 
-## Al-Isra 17:60
+**Al-Isra 17:60**
 
 ```
 And [remember, O Muhammad], when We told you, "Indeed, your Lord has
