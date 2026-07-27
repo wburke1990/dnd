@@ -17,29 +17,20 @@
   [lepers in the tombs](../encounters/valley-of-the-kings.md). The [Copaa lament](../handouts/copaa-lament.md)
   is the region's dirge, a land whose river ran foul.
 
-## Proposed mythology — Mesoamerican `[OPEN — Will & David to discuss]`
+## Mythology — not Mesoamerican `[settled — 7/26, Will & David]`
 
-The leading candidate for the region's cosmology (the third open thread below):
-the fallen gnome kingdom was **Mesoamerican**. What it seats in one place:
+The region does **not** go Mesoamerican. The pieces that candidate would have
+placed in Copaa are elsewhere now:
 
-- **A lake city on floating gardens.** The kingdom farmed **chinampas** —
-  floating garden-plots — on [Copaa](nila-atlas.md)'s lake, after the Aztec
-  gardens of Tenochtitlan. The [Haals mine runoff](../encounters/the-haals-runoff.md)
-  is where the fall still shows: the gardens rotting in poisoned water, the
-  farmers driven out ([the lepers in the tombs](../encounters/valley-of-the-kings.md)).
-- **The ballgame above, the underworld below.** [The houses of
-  Xibalba](../encounters/the-houses-of-xibalba.md) — the finished, unplaced Maya
-  descent — seats here: the mouth of the descent under Copaa, the ballcourt at
-  the bottom.
-- **The hands in the mine.** The earth-people's handprints deep in the Haals
-  dig ([temple sites](../encounters/temple-sites.md)) sit in the same ground.
+- **Chinampas** are a [Company](the-company.md) technology, grown on the lake
+  south of Kalwa in Noku Kurunatuka — not on Copaa's lake.
+- **[The houses of Xibalba](../encounters/the-houses-of-xibalba.md)** stay
+  unplaced; the mouth of the descent is sited wherever it fits, not under Copaa.
 
-Blend note: the chinampas and the ballgame run Aztec; Xibalba and the Hero
-Twins run Maya (the Popol Vuh). Blended on purpose, one region.
-
-`[OPEN]` Confirm the region goes Mesoamerican; whether the gnomes are the
-chinampa-farmers and ballplayers; how it squares with the deep-gnome / Underdark
-thread below.
+What stays: the **earth-people's handprints** in the Haals dig ([temple
+sites](../encounters/temple-sites.md)) — how the fallen-gnome dead go back into
+the land, which does not depend on the region's cosmology. That cosmology is open
+again (see the open threads below).
 
 ## Open threads
 
@@ -53,8 +44,8 @@ thread below.
   both layered (the way the [Haals runoff](../encounters/the-haals-runoff.md) stacks a human
   blight on the region's baseline dryness).
 - `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
-  Leading candidate is **Mesoamerican** (see the proposal above); still to confirm,
-  and to keep distinct from Maalm's Egyptian corner next door.
+  **Mesoamerican is ruled out** (settled 7/26); still to choose, and to keep
+  distinct from Maalm's Egyptian corner next door.
 
 *Companions: [nila atlas](nila-atlas.md) (the SE gazetteer), [the Haals runoff](../encounters/the-haals-runoff.md),
 [the Company](the-company.md), [the Copaa lament](../handouts/copaa-lament.md).*

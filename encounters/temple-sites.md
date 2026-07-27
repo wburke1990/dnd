@@ -193,23 +193,18 @@ what you staked.
 
 ---
 
-## Note — Copaa and a Mesoamerican region `[open]`
+## Note — Copaa is not Mesoamerican `[settled — 7/26, Will & David]`
 
-Copaa's region has no mythology yet ([the fallen gnome
-kingdom](../lore/the-fallen-gnome-kingdom.md) is `[OPEN]`). Making it
-Mesoamerican would seat several things in one place:
+Copaa's region does not go Mesoamerican. The pieces that proposal would have
+placed here are elsewhere now, or unplaced:
 
-- The **handprints** in the Haals mine (above).
-- The unplaced Maya underworld in [the houses of
-  Xibalba](the-houses-of-xibalba.md) — the descent, the Council of Lords,
-  the ballcourt. It needs a home; Copaa could be it.
-- **Chinampas** — floating gardens — in Copaa's lake, dying as the Haals
-  runoff reaches them. The ballgame and the poisoned water on the surface;
-  the descent to Xibalba and the hands below.
+- The **handprints** in the Haals mine (above) stay — the earth-people's death
+  back into the land is the fallen-gnome corner's own, and does not depend on the
+  region's cosmology.
+- [The houses of Xibalba](the-houses-of-xibalba.md) stay **unplaced**; the mouth
+  of the descent is sited wherever it fits, not under Copaa.
+- **Chinampas** are a [Company](../lore/the-company.md) technology grown on the
+  lake south of Kalwa in Noku Kurunatuka, not in Copaa's lake.
 
-The ballgame and chinampas run Aztec; Xibalba and the Hero Twins run Maya
-(the Popol Vuh) — blended here on purpose, one Mesoamerican region.
-
-Full proposal and the open decision live in [the fallen gnome
-kingdom](../lore/the-fallen-gnome-kingdom.md). `[OPEN — Will & David to
-discuss.]`
+The region's mythology is open again (see [the fallen gnome
+kingdom](../lore/the-fallen-gnome-kingdom.md)).
