@@ -65,8 +65,8 @@ a stand-up battle. Resolve it in the same three beats as the
 [Egypt table](egypt.md#running-an-encounter), fitted to the water.
 
 **1 · Detection — who has the water?** Run it off the [sailing read](../lore/sailing-and-storms.md#a-voyage-is-a-run-of-watches):
-the Lookout's watch check is what stands between the party and being surprised
-by something already under the hull. A won read = warning and a choice; a lost
+the hand on watch's read is what stands between the party and being surprised by
+something already under the hull. A won read = warning and a choice; a lost
 read = it rises first.
 
 **2 · Disposition — roll 2d6 reaction** (the [Egypt table](egypt.md#running-an-encounter)

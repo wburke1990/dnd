@@ -45,26 +45,33 @@ the next leg already gone. A neglected boat begins a crossing half-broken.
 
 ---
 
-## Stations — everyone has a job
+## Crewing — a watch of one, all hands when it counts
 
-Five stations for the five PCs. Each names their station at the start of a leg
-and works it each watch. This is the same footing as the boat-crossing in the
-[dream quest's Apep gate](../encounters/the-dream-quest.md#gate-two--apep):
-each round a player says what their character is physically doing, and rolls
-the ability that fits it.
+A boat this size sails on a small watch. In ordinary weather **one hand keeps
+her** — at the helm, holding the course and watching the water — and everyone
+else is off-watch: sleeping, eating, doing as they like. She berths six, so the
+five-PC crew has a spare bunk and room for a passenger, and no one is chained to
+a post just to make way. The crew stands the watch in turns.
+
+**All hands — the stations.** When the sea gets up, a beast rises, or a chase is
+on, everyone turns to. Three jobs, doubled up with five aboard — two on deck, or
+a spare ready to take a station whose PC goes down:
 
 | Station | The work | Usual ability |
 |---|---|---|
-| **Helm** | steer; hold the boat's heading against sea and wind | DEX, or WIS to read the water |
-| **Sails** | set, trim, and reef; get power out of the wind, or spill it | STR or DEX |
-| **Lookout** | watch the sky, the water, and the horizon — weather, reefs, sails, and what's below | WIS (Perception) |
-| **Navigator** | set and hold the course by star, current, and landmark | INT or WIS (Survival) |
-| **Bosun** | keep her dry and whole — bail, mend, secure the gear | CON or STR (or druid magic) |
+| **Helm** | steer; hold her head to the sea | DEX, or WIS to read the water |
+| **Sails** | set, trim, reef — power on, or spill it | STR or DEX |
+| **Deck** | bail, mend, work the lines, watch the water | STR or CON (or druid magic; WIS to spot) |
 
-**Short-handed.** Fewer than five aboard, or a PC down, means stations go
-unworked. A short crew raises every watch DC by **2**, and the read (below)
-loses the extra eyes — take it at disadvantage. This is why crew, passengers,
-and hired hands matter, and why the party may want more bodies than PCs.
+This is the footing of the [dream quest's Apep gate](../encounters/the-dream-quest.md#gate-two--apep):
+each round a player says what their character is doing and rolls the ability that
+fits. Setting a course and keeping a lookout fold into whoever holds the watch;
+the old bosun's job is Deck.
+
+**Short-handed for a crisis.** All hands wants at least three able bodies. Fewer
+than three raises the storm and beast DCs by **2** — which is why a couple of
+hired hands earn their keep the first time it blows: crew enough to work hard
+weather and still keep people off-watch and resting.
 
 ---
 
@@ -75,28 +82,18 @@ and hired hands matter, and why the party may want more bodies than PCs.
   sea ([nila-atlas](nila-atlas.md)): **three to five watches**.
 - **The strait** and other named bad water: DM's count, and worse weather.
 
-Each watch runs in three beats.
+Each watch, the hand on duty makes **one check** against the weather DC —
+reading the sea and handling the boat at once (WIS/Perception, or the ability
+that fits what they're doing).
 
-**1 · The read.** Lookout and Navigator each check against the watch DC.
-- **Both succeed:** they see the watch clearly — the weather a beat before it
-  lands, the reef before the hull finds it, whether they're holding course, and
-  what shares the water with them. They choose how to meet it.
-- **One succeeds:** they get part of it — the weather but not the position, or
-  the course but not the sail on the horizon.
-- **Both fail:** the sea acts first. The storm is on them, the rocks are under
-  them, or the thing in the water has already risen before anyone calls it.
-
-**2 · The work.** Helm, Sails, and Bosun check against the watch DC for what
-their stations are doing that watch.
-
-**3 · The tally.** Count the crew's successes for the watch:
-- **Most of the crew succeeds:** a clean watch. Make way, hold course, nothing
-  parts.
-- **Half or fewer succeed:** a setback, scaled to how bad. Pick or roll: lose
-  ground (**add a watch** to the leg), **strike one hull box**, drift off course
-  (Navigator check next watch or fetch up somewhere unplanned — see *Getting
-  lost*), or a line/spar carries away (a station works at disadvantage until
-  the Bosun sets it right).
+- **Success:** a clean watch. Make way, hold course, and see trouble — weather,
+  a sail on the horizon, something in the water — early enough to choose how to
+  meet it.
+- **Failure:** a setback, scaled to the weather. Pick or roll: lose ground
+  (**add a watch** to the leg), **strike a hull box**, drift off course (a
+  navigation check next watch, or fetch up somewhere unplanned — see *Getting
+  lost*), or the sea reaches the boat before the watch calls it. A bad failure,
+  or weather of **Gale** or worse, calls all hands and the storm set-piece.
 
 **Watch DC by weather:**
 
@@ -121,12 +118,12 @@ builds, the swell lengthens, the sky goes hard and greenish. On a good read the
 party sees it a watch out and chooses how to meet it, before it is on them.
 
 - **Run before it.** Turn downwind and ride it out fast. Least dangerous to the
-  hull, but it carries the boat well off course — Navigator check when it
+  hull, but it carries the boat well off course — a navigation check when it
   passes to learn where they've fetched up (often somewhere unplanned).
 - **Heave to.** Hold position and take the beating to stay on course. Saves the
   leg, risks the hull — run the storm set-piece.
 - **Make for shelter.** Race a lee shore or an island before the storm lands: a
-  chase of Helm/Sails/Navigator checks against a rising DC. Reach it and they
+  chase of Helm and Sails checks against a rising DC. Reach it and they
   ride the storm at anchor in calm water. The island may be one no chart marks
   (see *Getting lost*).
 - **Drive through.** Fastest to the far side, most dangerous — the storm at full
@@ -179,53 +176,37 @@ that is in reach, storms are no longer the danger; the *beasts* and the
 
 **Breaking it.** Three clean rounds — one per phase — and the storm passes, or
 a Control Weather working ends it outright. Then the reckoning: total the hull
-boxes struck, and a Navigator check for where the storm has left them.
+boxes struck, and a navigation check for where the storm has left them.
 
 ---
 
 ## Resting at sea
 
-Standing watch is light activity by the rules, and a long rest allows up to two
-hours of it on top of six hours' sleep — so keeping the boat watched and taking
-a long rest are not opposed. Whether the *whole* party rests turns on how many
-hands the night's weather needs at the stations.
+Because ordinary sailing needs only one hand on watch, **the off-watch crew rest
+freely.** Rotate the watch in short turns through the night — standing a watch is
+light activity by the rules, and each turn is well under the two hours a long
+rest allows — and everyone gets their six-hour block. A long rest under way is
+the normal thing, calm or blowing, not a prize you only win in flat water. The
+sixth berth is slack: a passenger or a hired hand rides along and the party still
+rests.
 
-**Easy nights — calm or fresh, one lookout enough.** Split the night into a
-watch bill. With five aboard, each stands about a ninety-minute watch — inside
-the two-hour allowance — and still gets six hours down. The whole party
-completes a long rest and the boat is watched the whole night. The sixth berth
-is slack: no one shares a bunk, and one passenger or hired hand rides along
-without breaking this.
+The one thing that stops a long rest is a **storm.** That is all hands, hours of
+hard work, the boat fighting the sea — nobody sleeps through it. A night spent
+riding out a storm is **a short rest at best**, and the party chooses between
+heaving to and losing ground, or driving on and staying tired (see the storm
+set-piece above). A beast in the night, or any hour of fighting, breaks the rest
+the same way, for everyone drawn in.
 
-**Hard nights — rising, gale, or driving through.** Now the boat needs the helm
-*and* the sails worked without a break — two or more hands up the whole time.
-Cover that around the clock with only five and someone stands a real three- or
-four-hour watch, past the two-hour allowance and short of six hours' sleep. On a
-hard-sailing night the crew who keep her moving get **a short rest, not a long
-one.** Rotate who stands the heavy watches so the loss moves around the party
-night to night.
+**Fragmented sleep still doesn't add up.** A long rest is one block — six hours'
+sleep plus at most two hours of light activity, and only one such rest per
+twenty-four hours. On a quiet passage the short watches fit inside that with room
+to spare; it is only when the boat needs several hands up for hours — a storm, a
+running fight — that the sleep breaks into scraps that never make a rest. Broken
+sleep stays broken.
 
-**Why fragmented sleep doesn't add up.** A long rest is one block — six
-hours' sleep plus at most two hours of light activity, and only one such rest
-per twenty-four hours — not a tally of naps banked across a day. Three two-hour
-dozes between watch turns are three short sleeps, none of them the six-hour block
-the rest needs, and stretching the night longer doesn't assemble one out of the
-pieces. Broken sleep stays broken.
-
-**Enough crew.** Hands enough to work the stations *and* free each PC for six
-hours mean everyone rests even in a blow. Working two stations right through the
-night and still resting all five PCs takes about eight aboard — so a hard passage
-is the reason to ship extra crew, and the six-berth cap is the limit on how many
-can rest at once. Short-handed on a long passage, the party wears down a person
-at a time, a cost that stacks with the stores clock and the hull wear.
-
-**Interrupted.** A storm that breaks in the night, or a beast, is an hour of
-hard work or fighting — it ends the rest for everyone drawn into it, and the rest
-starts over.
-
-**At anchor or ashore.** Reach a sheltered anchorage or make landfall and the
-sea does the keeping: the whole crew sleeps and takes a full long rest, at the
-cost of the night's progress. The plainest way to rest hard is to stop.
+**At anchor or ashore**, the sea does the keeping and the whole crew sleeps
+regardless of weather, riding out even a storm at anchor in shelter — a full long
+rest at the cost of the night's progress.
 
 ---
 
@@ -300,15 +281,16 @@ the campaign land as those songs coming true (see
 ## Quick DM checklist
 
 1. **Leg length** — hop (1 watch) / crossing (3–5) / bad water (more).
-2. **Stations** — each PC names one; short crew raises DCs by 2.
-3. **Each watch** — the read (Lookout + Navigator), the work (Helm, Sails,
-   Bosun), the tally. Set or roll the weather.
+2. **Crewing** — one hand on watch in ordinary weather; call all hands to
+   Helm / Sails / Deck only when it gets rough.
+3. **Each watch** — the hand on duty makes one read/handling check vs the
+   weather DC. Set or roll the weather.
 4. **Rising sea** — offer the choice: run, heave to, make for shelter, drive
    through.
-5. **Storm** — the set-piece: rising / peak / breaking, tally each round, hull
-   boxes and overboard on a bad round.
-6. **Resting** — easy night: all hands long-rest on short watches. Hard-sailing
-   night: those who crew her get a short rest only. Anchor or land to rest fully.
+5. **Storm** — the set-piece: all hands, rising / peak / breaking, tally each
+   round, hull boxes and overboard on a bad round.
+6. **Resting** — off-watch crew long-rest in any weather but a storm; rotate
+   short watches. Storm or night fight = short rest. Anchor or land to rest fully.
 7. **Landfall** — repair hull in port, refill stores, and reckon where the
    storm actually left them.
 </content>
