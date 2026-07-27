@@ -6,7 +6,8 @@ A single giant tree at the dead northern tip of [Suartleheim](../lore/nila-atlas
 an ancient, exhausted land where people cannot live. It grew from the body of a
 comet-god the giants killed before it could rise, its roots have reached the deep,
 and its fruit births demons. One of the sites [Preem's map](../characters/preem.md)
-marks.
+marks. The [game preserve](the-game-preserve.md) is the setting around it — the
+hunt in the deadly land is the way in.
 
 Sources run together: **[Anchar](../handouts/anchar.md)** (the lone poison-tree),
 the Qur'an's **[Zaqqum](../handouts/the-tree-of-zaqqum.md)** (the tree in the root
@@ -50,6 +51,12 @@ dead far below.
 demons climb out — one to a fruit. There is a moment, as each one comes free, when
 it is new and exposed — the Three Citrons, the thing that bursts from the fruit and
 can be lost in an instant. The trapped god calls them its children.
+
+The newborns do not stay. They leave the tree for the demon country to join the
+deep-people — Momotarō left home to fight the demons on their island; here the
+fruit's children leave to join them. `[OPEN]` where they go: the old deep city
+under [Muspelheim](../lore/musleheim.md), or the Underdark cradle of
+[Kalikhat](../lore/lonka-jotunheim.md).
 
 ---
 

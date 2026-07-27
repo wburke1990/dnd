@@ -58,7 +58,8 @@ demons, and Preem sends crews to take the newborns' names before they learn to
 guard them. Draws on [Anchar](../handouts/anchar.md), the Qur'an's
 [Zaqqum](../handouts/the-tree-of-zaqqum.md), Kronos/Uranus with the Gigantomachy,
 the Juniper Tree, and the born-from-fruit tales. See
-[the hell-tree](the-hell-tree.md).
+[the hell-tree](the-hell-tree.md); its setting is
+[the game preserve](the-game-preserve.md).
 
 ---
 
