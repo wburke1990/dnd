@@ -419,17 +419,17 @@ them on unchanged. The children repeat them and do not know what they mean.
 *(Muntadhir:)*
 *"He had two sayings for it, and he'd make us say them back to him.*
 
-*'Let nothing touch you out there.'*
+*'Take no wound in the dark.'*
 
-*And — 'Go to the blue. Never through it.'"*
+*And — 'Go to the blue, but never through.'"*
 
 *(Ali:)*
 *"I don't know what they mean. I never have. He said them every time, the same words, and I never asked what for. I'm only telling you because he made us promise."* *(a beat)* *"That second one he'd say twice."*
 
 *(DM — the two sayings foreshadow the dream's rules without explaining them.
-"Let nothing touch you" is the damage-ends-the-spell rule ([Overview](#overview),
-[Gate Two](#gate-two--apep), [Gate Six](#gate-six--the-fire)). "Go to the blue,
-never through it" is Osiris's veil in the [Hall of Two Truths](#the-hall-of-two-truths),
+"Take no wound in the dark" is the damage-ends-the-spell rule ([Overview](#overview),
+[Gate Two](#gate-two--apep), [Gate Six](#gate-six--the-fire)). "Go to the blue, but
+never through" is Osiris's veil in the [Hall of Two Truths](#the-hall-of-two-truths),
 where Anubis leads the party out before the verdict — the living turn back, they
 do not pass through. Neither child knows any of this; play them repeating words
 they cannot read. The blue is also the spell's own name, *Dream of the Blue
