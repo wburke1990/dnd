@@ -12,9 +12,10 @@ back up until they are finished.*
 > `[OPEN]` **Placement & level.** Not yet leveled. The descent structure
 > (rivers, then a name-council, then six houses in a row, then the ballcourt)
 > wants a party that can take a beating and think under a timer — a mid-to-high
-> site, not a first one. **Proposed placement:** the mouth of the descent under
-> **Copaa**, if [Suartleheim Eet goes Mesoamerican](../lore/the-fallen-gnome-kingdom.md)
-> — the ballcourt and the chinampa lake on the surface, this descent below.
+> site, not a first one. **Placement is open — the entrance can go anywhere.**
+> It is not tied to the chinampas: the chinampas are a Company agricultural
+> technology, grown on the lake south of Kalwa in Noku Kurunatuka. The mouth of
+> the descent is a separate question, sited wherever it fits.
 > `[OPEN — Will & David to discuss.]`
 
 ---

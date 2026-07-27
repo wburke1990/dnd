@@ -164,6 +164,18 @@ Kalikhat, ruined half-orc families.
 
 ---
 
+## The chinampas — Company agriculture `[settled — 7/26 brainstorm, David]`
+
+The Company developed the **chinampa**: a garden-plot built up from the bed of a
+shallow lake and worked from a canoe. Its plots stand on the lake **south of Kalwa**
+in [Noku Kurunatuka](nila-atlas.md) and feed the Company's seat. The technology is
+the Company's own — it grows there because that is where the Company built it, and
+the Company can lay chinampas on any water it holds. It has no tie to the
+[Xibalba descent](../encounters/the-houses-of-xibalba.md); the mouth of that
+underworld is sited separately.
+
+---
+
 ## Campaign connections
 
 - **Resolves "who commits the world's ecological atrocities."** `[settled]` The Company
