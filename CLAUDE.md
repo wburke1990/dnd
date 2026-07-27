@@ -257,6 +257,12 @@ a TTS change are two commits). After each commit, run `git push`
 immediately so work is durable off-machine and the user can pull from
 another device. Deviate only when a change feels risky or unfinished.
 
+**Don't ask permission to commit — just commit and push, then keep
+going.** "Want me to commit now or keep going?" is the wrong move: the
+answer is always both. Commit each working change as you finish it,
+push it, and carry on — even mid-brainstorm, even when more edits to the
+same files are likely. Small, frequent commits are the house default.
+
 **Never bypass the pre-commit hook with `--no-verify`.** If a check fails,
 fix the underlying issue.
 
