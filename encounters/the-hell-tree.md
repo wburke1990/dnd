@@ -14,7 +14,9 @@ the Qur'an's **[Zaqqum](../handouts/the-tree-of-zaqqum.md)** (the tree in the ro
 of Hell, its fruit the heads of devils), **Kronos and Uranus** with the
 **Gigantomachy** (the old earth-powers strike down the sky-god, and a tree grows
 from the wound), **the Juniper Tree** (a mind held in the wood), and **Momotarō /
-the Three Citrons / Attis** (a being born from a fruit).
+the Three Citrons / Attis / Thumbelina** (a being born from a fruit or flower —
+Thumbelina carries the whole arc, a planted seed growing into the bloom it comes
+from).
 
 ---
 
