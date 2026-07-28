@@ -64,6 +64,18 @@ def test_flags_emotion_dictation() -> None:
     assert "emotion-dictation" in _rules("the party gets to feel clever")
 
 
+def test_flags_gnomic_passive() -> None:
+    assert "gnomic-passive" in _rules("No one explains it; it is there to be seen.")
+    assert "gnomic-passive" in _rules("The evidence is there to be found.")
+    assert "gnomic-passive" in _rules("the tree's own words, there to be heard")
+
+
+def test_gnomic_passive_leaves_plain_prose() -> None:
+    # A plain "there" or an infinitive that states an action is fine.
+    assert "gnomic-passive" not in _rules("A stair is there, going down.")
+    assert "gnomic-passive" not in _rules("They go there to read the verses.")
+
+
 def test_emotion_rule_ignores_physical_perception() -> None:
     # "feels the wind" is perception, not dictated emotion.
     assert "emotion-dictation" not in _rules("when the party feels the wind")

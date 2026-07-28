@@ -163,6 +163,12 @@ Concretely, do not write:
     ("founding trauma", "reclaiming as capture"). If a phrase is there for
     effect rather than to carry information, use the plain version. (All
     real flagged-and-removed examples, 7/22.)
+13. **Oblique constructions.** Clipped, gnomic phrasing that gestures at a
+    thing instead of stating it — "it is there to be seen", "the way in that
+    is not a fight", "sources run together". They read as unfinished. Name
+    what is there and what happens. (The linter's `gnomic-passive` rule
+    catches the "there to be X" form; the rest need the eye. Cut 7/28, when
+    a whole doc came out "almost unreadable" this way.)
 
 This governs both new writing and edits to existing files. When cleaning
 up old text, prefer the plainer rewrite over deleting content outright.

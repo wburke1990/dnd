@@ -116,6 +116,11 @@ RULES: tuple[Rule, ...] = (
         r"\bthe party (gets to|will feel|should feel|is meant to feel)\b",
         "dictating PC reaction (#7)",
     ),
+    _rule(
+        "gnomic-passive",
+        r"\bthere to be (seen|read|found|felt|heard|had|noticed|worked out|understood)\b",
+        "oblique 'there to be X' construction; state what is there (#11)",
+    ),
 )
 
 
