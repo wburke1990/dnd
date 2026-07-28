@@ -25,7 +25,10 @@ The region does **not** go Mesoamerican. The pieces that candidate would have
 placed in Copaa are elsewhere now:
 
 - **Chinampas** are a [Company](the-company.md) technology, grown on the lake
-  south of Kalwa in Noku Kurunatuka — not on Copaa's lake.
+  south of Kalwa in Noku Kurunatuka. `[David 7/28]` The Company now also works a few at
+  the mouth of the river on Copaa's lake — but as its own imported industry, not the
+  gnome kingdom's craft, so this does not make the region's mythology Mesoamerican (see
+  [Copaa](copaa.md)).
 - **[The houses of Xibalba](../encounters/the-houses-of-xibalba.md)** are sited
   on Noku Kurunatuka, not under Copaa.
 

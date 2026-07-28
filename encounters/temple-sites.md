@@ -204,7 +204,10 @@ placed here are elsewhere now, or unplaced:
 - [The houses of Xibalba](the-houses-of-xibalba.md) are sited on **Noku
   Kurunatuka**, not under Copaa.
 - **Chinampas** are a [Company](../lore/the-company.md) technology grown on the
-  lake south of Kalwa in Noku Kurunatuka, not in Copaa's lake.
+  lake south of Kalwa in Noku Kurunatuka. `[David 7/28]` The Company now also works a
+  few at Copaa's river mouth — but as its own imported industry, not the gnome kingdom's
+  craft, so this does not make the region's mythology Mesoamerican (see
+  [Copaa](../lore/copaa.md)).
 
 The region's mythology is open again (see [the fallen gnome
 kingdom](../lore/the-fallen-gnome-kingdom.md)).

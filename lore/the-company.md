@@ -174,6 +174,11 @@ the Company can lay chinampas on any water it holds. The lake is not the Xibalba
 mouth — [that descent](../encounters/the-houses-of-xibalba.md) is on Noku too,
 but at its own site, not this lake.
 
+`[David 7/28]` The Company now also works a few chinampas at the mouth of the river on
+**[Copaa](nila-atlas.md)'s** lake, on the poisoned Haals water. The tomatoes off them
+are poison; the beds are under guard; the crated produce never reaches the outbound sea
+barges. See [Copaa](copaa.md).
+
 ---
 
 ## Campaign connections
