@@ -75,14 +75,19 @@ do not. (For when a player asks why the priests are as they are.)
 ([sheet](../characters/sarric.md)); a temple served by **bee**-priestesses is a thing
 the world sets in front of him. What he makes of it is Jeremy's.
 
+**The cult puts its people in the skins of Artemis's beasts.** The town's girls are
+her **bears** (above); the quarry of the man-hunt is her **stag**, in antlers and a
+deer-hide; the hunters are her **hounds**, in hound-pelts, the pack that runs the
+stag down. Everyone in the rite wears the animal they stand for.
+
 Signing on as the quarry is done here, and the priestess who takes the name asks one
 thing first: **where to send the money** — the quarry is not expected to come back.
 The party gives an address. The man-hunt is a sacrifice to Artemis in the shape of a
 hunt: the human quarry marked as the stag. (At Aulis a deer was swapped for
 Iphigenia at the altar; here a man is the stag.)
 
-Then the marking. The quarry is given the **symbolic antlers** of Actaeon's stag,
-and inside the temple, for the first time, sees the **Attis mystery**: the fruit-born
+Then the marking. The quarry is given the **antlers and deer-hide** of Actaeon's
+stag, and inside the temple, for the first time, sees the **Attis mystery**: the fruit-born
 god who dies and is mourned, and the tree grown from a killing. As they go, the
 priestesses lay a blessing on them — **Longstrider** — the stag's own speed, the
 swiftness Actaeon marveled at when the antlers took him. Then the hunt begins.

@@ -37,7 +37,8 @@ hunt held at the turn of the season, out in the wild land of the preserve. It ha
   **Actaeon**: the one turned to a stag and torn apart by the hounds.
 
 `[proposed]` The hunters ride **great hounds** — a gnome-sized pack, the hounds of
-the Actaeon rite, fast enough to run a stag down.
+the Actaeon rite — and go in **hound-pelts** to match, fast enough to run a stag
+down. The quarry, marked at the temple, goes in the stag's antlers and hide.
 
 The hunt stays **out in the wild land and never turns in toward the tree.** The tree
 is the forbidden center, ground no hunter enters — which is what keeps it alone.
