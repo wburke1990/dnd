@@ -6,7 +6,7 @@ The last town before the poison deadland, on the coast north of
 [Raand](../lore/nila-atlas.md). A town of dragon-descended gnome artisans and
 performers, and the hub for [the game preserve](the-game-preserve.md) and the road
 in to [the hell-tree](the-hell-tree.md): the hunters and pilgrims gather here, and
-the cult of Artemis that runs the sacred hunt keeps its temple here.
+the **priestesses of Artemis** who run the sacred hunt keep their temple here.
 
 Its founding is the Momotarō peach-boy, told straight, and the town is built around
 it — a peach grove rings the town, a statue of the founder stands in the square, and
@@ -48,30 +48,42 @@ one is kept in the temple.
 
 ---
 
-## The temple of Artemis, and the start of the hunt
+## The priestesses of Artemis, and the start of the hunt
 
-The cult of Artemis keeps its temple here and runs the sacred hunt — the two
-strands, the beast-hunt and the Actaeon man-hunt (see
-[the game preserve](the-game-preserve.md)).
+The temple is kept by **priestesses of Artemis** — the huntress, mistress of the
+wild — virgin-sworn, as the goddess demands of her women. They run the sacred hunt
+(the two strands, the beast-hunt and the Actaeon man-hunt — see
+[the game preserve](the-game-preserve.md)). The town's own girls serve the goddess
+as **bears** before they marry (the real Brauron rite), and the priestesses keep her
+other face too: Artemis is also **Hecate**, of the moon and the crossroads of the
+dead — the face that has anything to do with what waits out in the deadland.
 
-A party that enters the man-hunt as the quarry comes **into the temple to be marked**
-— given the **symbolic antlers** of Actaeon's stag. Inside, for the first time, they
-see the **Attis mystery**: the fruit-born god who dies and is mourned, and the tree
-grown from a killing. They take the antlers, and the hunt begins.
+Signing on as the quarry is done here, and the priestess who takes the name asks one
+thing first: **where to send the money** — the quarry is not expected to come back.
+The party gives an address. The man-hunt is a sacrifice to Artemis in the shape of a
+hunt: the human quarry marked as the stag. (At Aulis a deer was swapped for
+Iphigenia at the altar; here a man is the stag.)
 
-So the temple does two things at once. It starts the hunt — the antlers, the quarry —
-and it shows, quietly, the grown version of the myth behind the whole deadland. The
-party carries both out the door.
+Then the marking. The quarry is given the **symbolic antlers** of Actaeon's stag,
+and inside the temple, for the first time, sees the **Attis mystery**: the fruit-born
+god who dies and is mourned, and the tree grown from a killing. As they go, the
+priestesses lay a blessing on them — **Longstrider** — the stag's own speed, the
+swiftness Actaeon marveled at when the antlers took him. Then the hunt begins.
+
+So the temple does two things at once. It starts the hunt — the address, the antlers,
+the blessing — and it shows, quietly, the grown version of the myth behind the whole
+deadland. The party carries both out the door.
 
 `[OPEN]` how the Attis mystery is shown — a wall-scene the party reads, or a rite
-they watch — and what the antlering costs or asks of them.
+they watch.
 
 ---
 
 ## What still needs building
 
 - The town's **name** (Hjort `[proposed]`) and the naming convention.
-- The **temple scene** — the antlering and the Attis mystery.
+- The **temple scene** — the sign-up and the address, the antlering, the
+  Longstrider blessing, and how the Attis mystery is shown.
 - The **handout texts** for the statue base, the shrines, and the temple (the six
   sources: the four fruit-births, plus Kronos/Uranus and the Juniper Tree).
 - Links to [the game preserve](the-game-preserve.md) and
