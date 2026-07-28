@@ -1,4 +1,4 @@
-# The Peach Town `[name proposed: Hjort]`
+# The Peach Town `[name proposed: Brauron]`
 
 ## A D&D Encounter / Site — Design Note `[draft]`
 
@@ -12,9 +12,13 @@ Its founding is the Momotarō peach-boy, told straight, and the town is built ar
 it — a peach grove rings the town, a statue of the founder stands in the square, and
 the artisan-gnomes stage the fruit-birth myths through the streets.
 
-`[name]` **Hjort** proposed — Norse for hart, for the stag of the Actaeon hunt that
-starts here. The region's map-names run short and Norse (Raand, Aar, Haals), so a
-Norse name for the map or a Greek one for the cult is `[OPEN]`.
+`[name]` The name is **Greek, not Norse.** The Norse map-names (Raand, Aar,
+Suartleheim) came with the Muspel empire; this town and its religion **predate the
+Muspel empire** — the tree fell in the first pass — the way Lonka and Kalikhat keep
+their older, non-Norse names. Proposed: **Brauron**, the real Artemis sanctuary where
+girls served as bears, which is the rite the town keeps (Ephesus, her great temple
+city, is the alternative). `[OPEN]` confirm. And the cult's name is literal — **the
+cult of Artemis**, word for word, not renamed.
 
 ---
 
@@ -81,7 +85,8 @@ they watch.
 
 ## What still needs building
 
-- The town's **name** (Hjort `[proposed]`) and the naming convention.
+- The town's **name** (Brauron `[proposed]`, Greek — predates the Norse/Muspel
+  names).
 - The **temple scene** — the sign-up and the address, the antlering, the
   Longstrider blessing, and how the Attis mystery is shown.
 - The **handout texts** for the statue base, the shrines, and the temple (the six
