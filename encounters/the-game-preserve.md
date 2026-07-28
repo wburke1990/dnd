@@ -7,8 +7,8 @@ northern tip of [Suartleheim](../lore/nila-atlas.md), and the town at its edge.
 The land past the town is poison — [Anchar](../handouts/anchar.md)'s air and dead
 ground — and that poison is what stops anyone settling further in. This town is as
 far inland as the world gets here. Each turn of the season the town holds its
-**hunt** in that land, a rite from its religion, and the party's way to the tree
-runs through it.
+**hunt** in that land, a rite from its religion; the party gets in through it, then
+crosses to the tree on their own.
 
 Source for the approach: *Heart of Darkness* (a journey inward, worsening the
 closer it comes to a ruined mind at the center).
@@ -27,21 +27,34 @@ the cult runs the sacred hunt (below). `[OPEN]` the town's name.
 
 ---
 
-## The hunt — a seasonal rite
+## The hunt — Artemis's sacred hunt
 
-The hunt is not a business. The **cult of Artemis** in the town organizes it — a
-**sacred hunt** held at the turn of the season. It re-enacts **Actaeon**: the hunter
-who saw what he should not have and was turned to a stag and torn apart by his own
-hounds. The rite marks a quarry as the stag and drives it into the forbidden
-deadland, toward the tree — Artemis's furthest wild, the ground no one may hold. So
-the hunt runs at the hell-tree by design.
+The hunt is not a business. The **cult of Artemis** in the town runs it — a sacred
+hunt held at the turn of the season, out in the wild land of the preserve. It has
+**two strands:**
 
-Reaching the tree means taking part in the rite:
+- **The beast-hunt** — run down the great game of the wild country. The
+  **Calydonian boar**: Artemis looses a monstrous beast and the hunters bring it
+  down.
+- **The man-hunt** — a person is marked as the quarry, the stag, and run down.
+  **Actaeon**: the one turned to a stag and torn apart by the hounds.
 
-- **Run as a hunter.**
-- **Stand as the quarry** — play the god driven inward toward the tree. The party
-  can afford this one.
-- **Slip in** outside the rite, through the poison land.
+The hunt stays **out in the wild land and never turns in toward the tree.** The tree
+is the forbidden center, ground no hunter enters — which is what keeps it alone.
+Hunters come and go for the season and never reach it.
+
+## Getting in, and getting to the tree
+
+The hunt is the way past the fence. The tree is the party's own problem after that.
+
+- **Enter as hunters** — join either strand.
+- **Enter as the quarry** — stand as the stag in the man-hunt. The party can afford
+  this one.
+- **Slip in** past the fence and the deadland.
+
+Once inside, the party **breaks off from the hunt** and crosses the poison land to
+the tree on its own, while the hunt runs on behind them, out in the wild, never
+coming this far in.
 
 `[OPEN]` the rules of the hunt at the table.
 
@@ -61,8 +74,8 @@ The party finds them deeper and deeper in. `[OPEN]` the stages.
 ## What still needs building
 
 - The town's **name** and the shape of its cult of Artemis.
-- The **rules of the hunt** at the table (the Actaeon re-enactment; the quarry as
-  the stag).
+- The **rules of the hunt** at the table — the two strands (the Calydonian
+  beast-hunt and the Actaeon man-hunt).
 - The **stages** of the approach and the shrines.
 - **Level** and placement.
 - What the party **recovers** at the tree — see [the hell-tree](the-hell-tree.md).
