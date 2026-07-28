@@ -115,9 +115,9 @@ pluck one of the fruits, and name whatever is inside. He pays them for the name.
 
 `[DM]` What is inside is a baby demon, and a newborn demon has not learned to guard its
 true name yet — so the name can be taken (see
-[the name quest](../lore/demons-and-the-hotspot.md)). The site is holy and no one
-controls it — not the Company — so Preem cannot own it or work it himself; he needs
-mortals who go in and come out. He tells the party none of this.
+[the name quest](../lore/demons-and-the-hotspot.md)). The site is poisoned, holy,
+and cannot be controlled — not by the Company — so Preem cannot own it or work it
+himself; he needs mortals who go in and come out. He tells the party none of this.
 
 ---
 
