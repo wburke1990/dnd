@@ -17,13 +17,10 @@ closer it comes to a ruined mind at the center).
 
 ## The town north of Raand
 
-The last settlement inland — **gnomes, dragon-descended** like
-[Raand](../lore/nila-atlas.md) to the south. Its founding is a fruit-myth,
-**Momotarō**: a childless couple found a boy inside a peach in the river; he grew
-strong and good and helped them raise the town. That is the town's origin, told
-straight — a good child from a fruit, and nothing to do with the demon-tree's kind.
-Its religion is the **cult of Artemis** — the huntress, mistress of the wild — and
-the cult runs the sacred hunt (below). `[OPEN]` the town's name.
+The hunters and pilgrims set out from the town at the edge of the deadland — a town
+of dragon-descended gnome artisans, founded on the Momotarō peach-boy, keeping the
+**cult of Artemis** that runs the sacred hunt (below). Full writeup:
+[the peach town](the-peach-town.md).
 
 ---
 
