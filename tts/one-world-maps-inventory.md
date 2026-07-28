@@ -27,7 +27,8 @@ cross-map reference. So importing one map means pulling just that one
 > **Opened set (exhaustive — add to it the moment you open one):** `dfd079`
 > `e47bca` `55ed53` `432502` `ed6b26` `6b9aab` `811e42` `06363d` `abc718`
 > `a7d428` `56d9e9` `c3aa13` `6d9e46` `bc9404` `dc9743` `b00f40` `4b489d`
-> `fdc25b` `0e869d` `d95910` `e5838c` `df6dd9`
+> `fdc25b` `0e869d` `d95910` `e5838c` `df6dd9` `ff391e` `e57584` `4bc694`
+> `d8cc23`
 
 > **Maintenance (2026-06-25):** the save was cleaned up after this
 > inventory was first built — the 17 duplicate copies were deleted
@@ -84,11 +85,15 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | **Merc Hall** | dc9743 | ✅ **winner — the V. coffeehouse** | Huge stone-floored hall: tables, rugs, boxes, hay, trade goods. Chosen as the coffeehouse for [V. second contact](../encounters/v-second-contact.md). Lives in staging; no floor plate detected → default vBase 25, built clean and looks right despite 25 dead URLs / 85 pieces pruned. |
 | **High Rise Market** | b00f40 | 🔖 **reserved — epic dwarf city** | Monolithic dwarf statues guarding the approach to a huge city built into cliffs; 60+ minis in the city. **Not a coffeehouse** — reserved for **West Suartleheim** or another epic dwarf-city scene. **Removed from staging**; the cleaned bag is stashed at `~/Library/Tabletop Simulator/map-stash/highrise_clean_b00f40.json` — re-import from *there* (donor `b00f40`) to skip re-pruning. Plate-fit vBase 10.3; Steam-UGC floor image (decay-prone). |
 | The Coins | 4b489d | ❌ not usable | Custom-token import errors — **nothing builds**. **Removed from staging.** The dead custom-token images were the failure the old prune missed (it blanked them, which made TTS error on the empty URL); `clean_ow_map` now removes such pieces, so a fresh import might build — but we dropped it in favour of Merc Hall. Google-Sites floor image (dead). |
-| **Mithral Mine** | fdc25b | ⚠️ under review — mines candidate | Loaded for the Cava de Los Manos mines. Clean import (0 dead of 55 probed), floor plate-fit (vBase 18.32). Kept in staging; not yet judged. |
+| **Mithral Mine** | fdc25b | ❌ floor offset — great content | Carved numbered square rooms, numbered cave rooms, an animated centaur archer, Cerberus torn apart at the entrance, a passage to a big body of water. Clean import (0 dead of 55 probed). But the painted floor is offset from the terrain mesh — the plate-fit picks the wrong tile (same offset as Altaruk / Dwarven Cavern below; all three appear to be the same author, whose floors are 3D terrain meshes, not flat tiles). plate-fit vBase 18.32. Best content of the mine candidates if the offset can be fixed. |
 | **Altaruk** | 0e869d | ❌ not usable | Dark Sun frontier town. The floor plate does not line up with the mountain terrain mesh or the stone fort — floor sizing off. Plate-fit vBase 15.44; 51 pieces pruned (6 dead URLs). **Removed from staging.** |
 | **Black Lake** | d95910 | 🔖 reserved — Eustice→dragon scene | Underground lake; piles of gold on a central island. Banked for the Eustice-to-dragon transformation scene. Near-clean (2 pieces pruned, 1 dead URL), floor plate-fit (vBase 18.06). Floor image is a Dropbox `?dl=1` link (decay-prone). **Removed from staging.** |
 | **Small ship town** | e5838c | ⚠️ usable — needs a water floor | Walled town: a watchtower/lighthouse, a small round-tower castle, a few buildings, a stony approach from the walls down to the water. The floor image has no water — needs a replacement floor with water. 93 pieces pruned (22 dead URLs); no plate → default vBase 25. **Removed from staging.** |
 | **Goldnose Outpost** | df6dd9 | 🔖 reserved — military camp | Military encampment on green/muddy ground: a wooden fence, rows of tents, a big barn at the center, ranks of soldiers drawn up for battle. 54 pieces pruned (25 dead URLs); no plate → default vBase 25. **Removed from staging.** |
+| **Dwarven Cavern** | ff391e | ❌ floor offset | Carved tunnels in rock, big treasure chests, dead dwarf minis, one pool of water inside. The floor and the meshes are shifted apart — same plate-fit mis-detection as Mithral Mine / Altaruk (same author). plate-fit vBase 11.41 (small — the plate-fit latched onto a small flat tile). 65 pieces pruned (27 dead of 92). Floor image is a DeviantArt hotlink (decay-prone). |
+| **Middle Dwarf Town** | e57584 | ✅ usable — Haals | A stone city partly built into a mountainside. Many named minis, some animated. Big vats of lava in what read as smelters. no plate detected → default vBase 25, and it looks right. 46 pieces pruned (24 dead of 261 — a big map, survived well). In staging. |
+| **Dry City** | 4bc694 | 🔖 reserved — not Copaa | A huge "Sultanah's Palace" at one end, big docks at the other, a tropical sea floor. Between them, a stone plaza of water features covered in trade goods. Not Copaa (tropical, not old-west river). Near-clean (3 pruned of 133), floor plate-fit vBase 27.82. Banked for a palace/port scene. |
+| **Loading Docks** | d8cc23 | ✅ usable | Big warehouses on a sandy beach. Floor plate-fit (vBase 18.1), reads well despite a heavy prune (131 pieces of 184 — 60 dead URLs). In staging. |
 
 ---
 
