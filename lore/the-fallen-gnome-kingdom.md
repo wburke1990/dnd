@@ -15,7 +15,9 @@
 - **Copaa — where the fall still shows.** The [Company's mine runoff at Haals](../encounters/the-haals-runoff.md)
   poisons **[Copaa](nila-atlas.md)'s** river and fields, and its people are driven out — the
   [lepers in the tombs](../encounters/valley-of-the-kings.md). The [Copaa lament](../handouts/copaa-lament.md)
-  is the region's dirge, a land whose river ran foul.
+  is the region's dirge, a land whose river ran foul. `[David 7/28]` Copaa is now an
+  **old-west ore town** — the Haals ore comes down the river to Copaa's landing and goes
+  on to the port at Aar, and the town has a tavern and an inn. Full writeup: [Copaa](copaa.md).
 
 ## Mythology — not Mesoamerican `[settled — 7/26, Will & David]`
 

@@ -219,6 +219,11 @@ mainland, not Mukka.)*
 > the [East India Company](the-company.md),** which is also **majority shareholder
 > in the Haals mine** — see [the Haals runoff](../encounters/the-haals-runoff.md).
 
+> **Copaa `[David 7/28]`.** An **old-west ore town.** The Haals ore comes **down the
+> river** to Copaa, is weighed on the Company scales at the landing, and goes on
+> overland to the port at **Aar.** The town has a **tavern (the Ore Scale)** and an
+> **inn (the Aar Road Inn).** See [Copaa](copaa.md) for the full writeup.
+
 ---
 
 ## Quick bearings (the ones we keep needing)
