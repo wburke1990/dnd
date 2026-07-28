@@ -2,6 +2,12 @@
 
 ## A D&D Encounter / Site — Design Note `[draft]`
 
+> **Start here — the root of the Brauron quest.** This tree is what the whole site is
+> built around; the rest is the approach to it. Reading order: this file (the dead god
+> and the demons), then [the game preserve](the-game-preserve.md) (the hunt and the
+> poisoned approach), then [Brauron](the-peach-town.md) (the town the party comes in
+> through). In play the party runs it the other way — Brauron first, this tree last.
+
 A single giant tree at the dead northern tip of [Suartleheim](../lore/nila-atlas.md),
 an ancient, exhausted land where people cannot live. It grew from the body of a
 comet-god the giants killed before it could rise, its roots have reached the deep,
