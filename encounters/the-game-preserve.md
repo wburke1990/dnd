@@ -68,7 +68,16 @@ thickening, the land and its game turning stranger, the pull of the
 [thing in the tree](the-hell-tree.md) growing. Pilgrims have hiked in over the
 years and left **small shrines** along the way — nothing permanent holds in this
 ground — and the shrines carry the [Zaqqum verses](../handouts/the-tree-of-zaqqum.md).
-The party finds them deeper and deeper in. `[OPEN]` the stages.
+The party finds them deeper and deeper in.
+
+Deeper still, a **bird** sings the [Juniper song](../handouts/the-juniper-tree.md) —
+*my mother she killed me, my father he ate me* — where nothing should be alive. It is
+no soul and no omen: a **mockingbird**, one of the creatures the tree's alchemical
+poison has warped, and it repeats whatever it hears. It happened to hear the tree
+talking to itself. So the party gets the tree's own words secondhand, from a dumb
+bird, before they ever reach it.
+
+`[OPEN]` the stages.
 
 ---
 

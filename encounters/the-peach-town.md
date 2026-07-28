@@ -34,17 +34,18 @@ it in statues, orchards, fountains, and plays.
 The town shows the four born-from-fruit myths, each in its own way. Three are public;
 one is kept in the temple.
 
-- **Momotarō — the founding.** A peach grove rings the town; a **statue of the
-  peach-boy** stands in the square, the story cut into its base; and **kabuki
-  players** act the tale in the street — the couple, the peach in the river, the
-  boy, the raising of the town. The party meets this walking in.
-- **The Three Citrons — the fountain.** A **fountain** in the square, three
-  citron-maidens carved at the spout, where the town draws its water. In the tale
-  the maiden bursts from the cut fruit crying for water or she vanishes; the fountain
-  shows that moment.
-- **Thumbelina — the puppets.** A **puppet show**, small and for children — a
-  barleycorn planted, a flower that opens, the girl inside.
-- **Attis — the temple mystery.** Kept inside the temple of Artemis (below). Attis
+- **[Momotarō](../handouts/momotaro.md) — the founding.** A peach grove rings the
+  town; a **statue of the peach-boy** stands in the square, the story cut into its
+  base; and **kabuki players** act the tale in the street — the couple, the peach in
+  the river, the boy, the raising of the town. The party meets this walking in.
+- **[The Three Citrons](../handouts/the-three-citrons.md) — the fountain.** A
+  **fountain** in the square, three citron-maidens carved at the spout, where the town
+  draws its water. In the tale the maiden bursts from the cut fruit crying for water or
+  she vanishes; the fountain shows that moment.
+- **[Thumbelina](../handouts/thumbelina.md) — the puppets.** A **puppet show**, small
+  and for children — a barleycorn planted, a flower that opens, the girl inside.
+- **[Attis](../handouts/the-birth-of-attis.md) — the temple mystery.** Kept inside
+  the temple of Artemis (below). Attis
   is born from the almond of a tree grown from a slain god's blood, and he dies and
   is mourned. It is the fruit-birth turned sad and grown, and it points at the tree.
   The party sees it only in the temple.
@@ -86,11 +87,15 @@ The party gives an address. The man-hunt is a sacrifice to Artemis in the shape 
 hunt: the human quarry marked as the stag. (At Aulis a deer was swapped for
 Iphigenia at the altar; here a man is the stag.)
 
-Then the marking. The quarry is given the **antlers and deer-hide** of Actaeon's
-stag, and inside the temple, for the first time, sees the **Attis mystery**: the fruit-born
-god who dies and is mourned, and the tree grown from a killing. As they go, the
-priestesses lay a blessing on them — **Longstrider** — the stag's own speed, the
-swiftness Actaeon marveled at when the antlers took him. Then the hunt begins.
+Then the marking. The rite opens with the
+**[Hymn to Artemis](../handouts/hymn-to-artemis.md)** — the shooter of stags, who
+cheers on the hounds — and as the quarry is given the **antlers and deer-hide**, the
+priestesses read the turning of **[Actaeon](../handouts/actaeon.md)** over them: the
+hunter made a stag, torn by his own hounds. Inside, for the first time, they also see
+the **[Attis mystery](../handouts/the-birth-of-attis.md)**: the fruit-born god who dies
+and is mourned, and the tree grown from a killing. As they go, the priestesses lay a
+blessing on them — **Longstrider** — the stag's own speed, the swiftness Actaeon
+marveled at when the antlers took him. Then the hunt begins.
 
 So the temple does two things at once. It starts the hunt — the address, the antlers,
 the blessing — and it shows, quietly, the grown version of the myth behind the whole

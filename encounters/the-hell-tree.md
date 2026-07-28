@@ -68,13 +68,17 @@ Kalikhat, and it says nothing about where demons go anywhere else.
 
 The party is never told the tree's origin. They read it off the place.
 
-- **The killing (Kronos/Uranus).** The tree stands grown out of the fallen god —
-  the comet-stone it rooted in, the dead ground, whatever giant-work is left in it.
-  The deepest shrines on the way in carry the killing, where the sweet fruit-tales
-  fall away. No one explains it; it is there to be seen.
-- **The trapped mind (the Juniper Tree).** They learn there is a mind in the wood
-  because **it speaks** — it grieves, it lies, it calls the demons its children.
-  Nobody says a god is bound in the tree; the tree says it, in its own way.
+- **The killing ([Kronos/Uranus](../handouts/kronos-and-uranus.md)).** The tree
+  stands grown out of the fallen god — the comet-stone it rooted in, the dead ground,
+  whatever giant-work is left in it. The deepest shrines on the way in carry the
+  killing, where the sweet fruit-tales fall away. No one explains it; it is there to
+  be seen.
+- **The trapped mind (the [Juniper Tree](../handouts/the-juniper-tree.md)).** They
+  learn there is a mind in the wood because **it speaks** — it grieves, it lies, it
+  calls the demons its children. Nobody says a god is bound in the tree; the tree says
+  it, in its own way. Its muttering reaches them earlier still, from the
+  **mockingbird** on the approach that learned to repeat it (see
+  [the game preserve](the-game-preserve.md)).
 
 ---
 
