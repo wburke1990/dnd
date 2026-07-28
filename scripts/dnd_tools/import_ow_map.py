@@ -81,6 +81,16 @@ DEFAULT_VBASE = 25.0
 # scenery props are <=~8, so this threshold separates a floor plate from junk.
 PLATE_MIN_SCALE = 8.0
 
+# A floor plate is broad in BOTH horizontal axes. A wall/beam laid flat is
+# broad in ONE axis only (e.g. an 11x1 bar) — flat and large by footprint, but
+# not a floor. Some authors build the walkable surface as 3D terrain meshes
+# with no flat plate at all, leaving only such bars as the "largest flat tile";
+# without this guard the plate-fit latches onto a beam and recenters the whole
+# map on it (the Dwarven Cavern / same-author offset). Require the shorter
+# horizontal side be at least this fraction of the longer: 0.33 keeps real
+# plates (square through ~3:1) and rejects the 9:1-11:1 bars seen in practice.
+PLATE_MIN_ASPECT = 0.33
+
 # Match a 6-hex-char GUID with word boundaries on each side. Used to
 # rewrite GUID references inside Lua/XML/Description strings without
 # touching identifiers that happen to contain the substring.
@@ -280,8 +290,9 @@ def build_sbx_manifest(bag: dict[str, Any]) -> str:
 
 
 def _flat_footprint(child: dict[str, Any]) -> float | None:
-    """Return a piece's horizontal footprint scale if it's FLAT (a floor
-    tile: negligible height vs footprint), else None."""
+    """Return a piece's horizontal footprint scale if it's a plausible floor
+    plate — FLAT (negligible height vs footprint) AND broad in both horizontal
+    axes (not a thin bar) — else None."""
     t = child.get("Transform")
     if not isinstance(t, dict):
         return None
@@ -291,8 +302,13 @@ def _flat_footprint(child: dict[str, Any]) -> float | None:
         sz = float(t.get("scaleZ", 1) or 1)
     except (TypeError, ValueError):
         return None
-    foot = max(sx, sz)
-    return foot if sy <= foot * 0.5 else None
+    major = max(sx, sz)
+    minor = min(sx, sz)
+    if sy > major * 0.5:  # too tall — a wall/statue, not a tile
+        return None
+    if minor < major * PLATE_MIN_ASPECT:  # a thin bar (beam), not a floor plate
+        return None
+    return major
 
 
 def detect_floor_plate(bag: dict[str, Any]) -> tuple[float, float, float] | None:

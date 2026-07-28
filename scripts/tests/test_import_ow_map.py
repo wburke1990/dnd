@@ -565,6 +565,23 @@ def _tile(guid: str, x: float, z: float, scale: float, height: float = 1.0) -> d
     }
 
 
+def _rect_tile(
+    guid: str, x: float, z: float, sx: float, sz: float, height: float = 1.0
+) -> dict[str, Any]:
+    """A tile with independent X/Z footprint (for bar vs. plate tests)."""
+    return {
+        "GUID": guid,
+        "Transform": {
+            "posX": x,
+            "posY": 1.0,
+            "posZ": z,
+            "scaleX": sx,
+            "scaleY": height,
+            "scaleZ": sz,
+        },
+    }
+
+
 def test_detect_floor_plate_finds_largest_flat_tiles() -> None:
     bag = {
         "ContainedObjects": [
@@ -590,6 +607,28 @@ def test_detect_floor_plate_ignores_tall_big_objects() -> None:
     # a big but TALL object (a wall/statue) is not a floor plate
     bag = {"ContainedObjects": [_tile("wall11", 0.0, 0.0, 20.0, height=20.0)]}
     assert detect_floor_plate(bag) is None
+
+
+def test_detect_floor_plate_ignores_thin_bars() -> None:
+    # a big FLAT tile that is a thin bar (a beam laid flat) is not a floor
+    # plate — this is the Dwarven Cavern / same-author offset (an 11x1 beam
+    # was winning the plate-fit and recentering the whole map onto it).
+    bag = {
+        "ContainedObjects": [
+            _rect_tile("bar111", -25.0, 0.0, 11.41, 1.0),
+            _rect_tile("bar222", -0.5, -7.4, 8.89, 1.0),
+        ]
+    }
+    assert detect_floor_plate(bag) is None
+
+
+def test_detect_floor_plate_accepts_rectangular_plate() -> None:
+    # a broad rectangular plate (both axes large, ~0.78 aspect like Mithral's
+    # tiles) IS a plate; scale is the major axis.
+    bag = {"ContainedObjects": [_rect_tile("rect11", 0.0, 0.0, 14.29, 18.32)]}
+    plate = detect_floor_plate(bag)
+    assert plate is not None
+    assert plate[0] == 18.32
 
 
 def test_recenter_children_shifts_x_and_z_only() -> None:
