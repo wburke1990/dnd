@@ -29,7 +29,7 @@ Everything else in this note is behind that. The party has to work it out.
 
 **The fruit.** Huge fruits grow on the tree, and inside each one is a baby demon.
 When a fruit splits open, the newborn is out in the open for a moment before it comes
-to itself — that is the window to take its name (below, and the
+to itself — the window to name it (below, and the
 [Three Citrons](../handouts/the-three-citrons.md)).
 
 **The voice.** The muttering is a mind — the mind of the dead god the tree grew from
