@@ -22,19 +22,19 @@ The last settlement inland — **gnomes, dragon-descended** like
 **Momotarō**: a childless couple found a boy inside a peach in the river; he grew
 strong and good and helped them raise the town. That is the town's origin, told
 straight — a good child from a fruit, and nothing to do with the demon-tree's kind.
-Its religion is **Greek** `[proposed]`. `[OPEN]` the town's name.
+Its religion is the **cult of Artemis** — the huntress, mistress of the wild — and
+the cult runs the sacred hunt (below). `[OPEN]` the town's name.
 
 ---
 
 ## The hunt — a seasonal rite
 
-The hunt is not a business. It is a **symbolic re-enactment** of a hunt from the
-town's religion, held at the turn of the season. `[proposed]` the myth is
-**Adonis** — the hunted youth gored by the boar, who goes down into the underworld
-for half the year and returns for the other half. The rite drives its quarry inward
-toward the tree as the cold half comes on, and calls it back with the spring. So the
-hunt runs toward the hell-tree by design: the tree is the underworld the hunted god
-goes down into.
+The hunt is not a business. The **cult of Artemis** in the town organizes it — a
+**sacred hunt** held at the turn of the season. It re-enacts **Actaeon**: the hunter
+who saw what he should not have and was turned to a stag and torn apart by his own
+hounds. The rite marks a quarry as the stag and drives it into the forbidden
+deadland, toward the tree — Artemis's furthest wild, the ground no one may hold. So
+the hunt runs at the hell-tree by design.
 
 Reaching the tree means taking part in the rite:
 
@@ -60,9 +60,9 @@ The party finds them deeper and deeper in. `[OPEN]` the stages.
 
 ## What still needs building
 
-- The town's **name** and the shape of its Greek religion.
-- The **seasonal myth** the hunt re-enacts (Adonis `[proposed]`).
-- The **rules of the hunt** at the table.
+- The town's **name** and the shape of its cult of Artemis.
+- The **rules of the hunt** at the table (the Actaeon re-enactment; the quarry as
+  the stag).
 - The **stages** of the approach and the shrines.
 - **Level** and placement.
 - What the party **recovers** at the tree — see [the hell-tree](the-hell-tree.md).
