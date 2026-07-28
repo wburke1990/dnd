@@ -43,8 +43,9 @@ Giants** — the oldest people, born of the world, who lie down and become mount
 tore it apart. This is the [pact](../lore/demons-and-the-hotspot.md) broken at the
 start: the one comet-fall where no god rose, no land was raised, and no road of the
 dead was ever kept. From the body a tree grew. The god did not die clean; its mind
-stayed, held in the wood. The killing is ancient — older than the Muspel empire;
-the exact age waits on the timeline. `[OPEN]`
+stayed, held in the wood. The stone fell in the **first pass**,
+the first age of the world — so the tree is older than the gnomes, older than the
+Muspel empire, older than almost everything here. `[OPEN]` exact dating.
 
 **The long middle.** Thousands of years. The tree stands over dead ground, its mind
 trapped and going bad, its roots creeping down year on year toward the road of the
