@@ -1,135 +1,129 @@
-# The Hell-Tree — the Dead God at Suartleheim's Edge
+# The Hell-Tree
 
 ## A D&D Encounter / Site — Design Note `[draft]`
 
-> **Start here — the root of the Brauron quest.** This tree is what the whole site is
-> built around; the rest is the approach to it. Reading order: this file (the dead god
-> and the demons), then [the game preserve](the-game-preserve.md) (the hunt and the
-> poisoned approach), then [Brauron](the-peach-town.md) (the town the party comes in
-> through). In play the party runs it the other way — Brauron first, this tree last.
+> **Start here.** Root of the Brauron quest. Read this file, then
+> [the game preserve](the-game-preserve.md) (the hunt and the approach), then
+> [Brauron](the-peach-town.md) (the town). In play the party goes the other way:
+> Brauron first, this tree last.
 
-A single giant tree at the dead northern tip of [Suartleheim](../lore/nila-atlas.md),
-an ancient, exhausted land where people cannot live. It grew from the body of a
-comet-god the giants killed before it could rise, its roots have reached the deep,
-and its fruit births demons. One of the sites [Preem's map](../characters/preem.md)
-marks. The [game preserve](the-game-preserve.md) is the setting around it — the
-hunt in the deadly land is the way in.
-
-Sources run together: **[Anchar](../handouts/anchar.md)** (the lone poison-tree),
-the Qur'an's **[Zaqqum](../handouts/the-tree-of-zaqqum.md)** (the tree in the root
-of Hell, its fruit the heads of devils), **Kronos and Uranus** with the
-**Gigantomachy** (the old earth-powers strike down the sky-god, and a tree grows
-from the wound), **the Juniper Tree** (a mind held in the wood), and **Momotarō /
-the Three Citrons / Attis / Thumbelina** (a being born from a fruit or flower —
-Thumbelina carries the whole arc, a planted seed growing into the bloom it comes
-from).
+The far end of the Brauron hunt: a single giant tree at the dead northern tip of
+[Suartleheim](../lore/nila-atlas.md), north of [Raand](../lore/nila-atlas.md) (94, 74)
+and across the strait from [Sukkek](../lore/nila-atlas.md) (95, 61). A dot on
+[Preem's map](../characters/preem.md).
 
 ---
 
-## Where it is
+## Read aloud — at the tree
 
-The northern tip of Suartleheim — **not an island**, the land's end north of
-[Raand](../lore/nila-atlas.md) (94, 74), across the strait from
-[Sukkek](../lore/nila-atlas.md) (95, 61). Ancient and exhausted: nothing farms
-here and no one lives here. The land itself kills — the air near the tree carries
-the poison of [Anchar](../handouts/anchar.md), and the country around it is wild
-and hard. The beasts are only beasts, not demons.
+> *One huge old tree stands alone on dead grey ground. Fruit hangs in it — swollen
+> and heavy, each one bigger than a man's head, and here and there a fruit has split
+> open. The air stings the eyes and is hard to breathe. Down in the roots a great
+> stone is half-buried; the roots have wrapped it and grown on down into the earth.
+> The whole time, the tree is muttering to itself — a low, steady voice that does not
+> stop.*
 
-[Preem's map](../characters/preem.md) marks the tree. The party applies the
-[location stone](../characters/preem.md) at the tree and the instructions appear.
-
----
-
-## The myth — in three layers
-
-**The old event.** A comet-stone fell here to become this land's god — a new cosmic
-beast, the start of a new people (see [lineages & afterlives](../lore/lineages-and-afterlives.md)
-for how a fallen stone becomes a lineage's god). Before it could rise, the **True
-Giants** — the oldest people, born of the world, who lie down and become mountains —
-tore it apart. This is the [pact](../lore/demons-and-the-hotspot.md) broken at the
-start: the one comet-fall where no god rose, no land was raised, and no road of the
-dead was ever kept. From the body a tree grew. The god did not die clean; its mind
-stayed, held in the wood. The stone fell in the **first pass**,
-the first age of the world — so the tree is older than the gnomes, older than the
-Muspel empire, older than almost everything here. `[OPEN]` exact dating.
-
-**The long middle.** Thousands of years. The tree stands over dead ground, its mind
-trapped and going bad, its roots creeping down year on year toward the road of the
-dead far below.
-
-**The late turn.** When the roots reach the deep, the tree begins to fruit, and
-demons climb out — one to a fruit. There is a moment, as each one comes free, when
-it is new and exposed — the Three Citrons, the thing that bursts from the fruit and
-can be lost in an instant. The trapped god calls them its children.
-
-The newborns do not stay. They leave the tree for
-[Kalikhat](../lore/lonka-jotunheim.md), the Underdark cradle — Momotarō left home
-to fight the demons on their island; here the fruit's children leave to join them.
-This is one myth's road, not a rule of the world: the demons of this tree go to
-Kalikhat, and it says nothing about where demons go anywhere else.
+Everything else in this note is behind that. The party has to work it out.
 
 ---
 
-## Two myths shown, not told
+## The tree
 
-The party is never told the tree's origin. They read it off the place.
+**The fruit.** Huge fruits grow on the tree, and inside each one is a baby demon.
+When a fruit splits open, the newborn is out in the open for a moment before it comes
+to itself — that is the window to take its name (below, and the
+[Three Citrons](../handouts/the-three-citrons.md)).
 
-- **The killing ([Kronos/Uranus](../handouts/kronos-and-uranus.md)).** The tree
-  stands grown out of the fallen god — the comet-stone it rooted in, the dead ground,
-  whatever giant-work is left in it. The deepest shrines on the way in carry the
-  killing, where the sweet fruit-tales fall away. No one explains it; it is there to
-  be seen.
-- **The trapped mind (the [Juniper Tree](../handouts/the-juniper-tree.md)).** They
-  learn there is a mind in the wood because **it speaks** — it grieves, it lies, it
-  calls the demons its children. Nobody says a god is bound in the tree; the tree says
-  it, in its own way. Its muttering reaches them earlier still, from the
-  **mockingbird** on the approach that learned to repeat it (see
-  [the game preserve](the-game-preserve.md)).
+**The voice.** The muttering is a mind — the mind of the dead god the tree grew from
+(below). It can be spoken to (Speak with Plants, or anything like it). It lies, it
+grieves, and it calls the demons its children. The party can deal with it by talking
+instead of fighting. `[OPEN]` its voice — what it wants, what it lies about, what it
+will trade.
+
+**The stone in the roots.** The half-buried stone is the comet it grew from (below).
+
+So far, **exactly one demon from this tree has left for
+[Kalikhat](../lore/lonka-jotunheim.md).**
 
 ---
 
-## The tree speaks
+## The land around it
 
-The god's mind is in the wood, and it can be spoken to (Speak with Plants, or any
-talking-to-plants effect). It lies, it grieves, and it calls the demons its
-children. This is the way in that is not a fight. `[OPEN]` its voice — what it
-wants, what it lies about, what it will trade.
+Nothing farms here and no one lives here; the land is ancient and worn out, and the
+air near the tree is poison (see [Anchar](../handouts/anchar.md)). The animals are
+**mutated by the tree's poison** — real beasts, not demons, but terrible. `[for
+David]` pick the set of monsters the party meets on the hunt.
+
+---
+
+## How the tree got here
+
+Long ago, in the **first pass** (the first age of the world), a comet-stone fell here.
+A comet-stone normally grows into a god — a cosmic beast that a people descends from
+(see [lineages & afterlives](../lore/lineages-and-afterlives.md)). This one never got
+the chance: the **True Giants** — the world's oldest people, who lie down and become
+mountains — killed it before it grew. A tree grew out of the dead god's body, and its
+mind stayed alive in the wood. Over thousands of years the roots grew down until they
+reached hell, and then the tree began to fruit.
+
+Because the giants killed the god, no god rose here, no new land was raised, and no
+[road of the dead](../lore/demons-and-the-hotspot.md) was ever kept. The tree fell in
+the first pass, so it is older than the gnomes, older than the Muspel empire, older
+than almost everything here. `[OPEN]` exact date.
+
+---
+
+## What the party can work out, and how
+
+No one tells them any of it. The evidence is in front of them:
+
+- **The tree grew from a dead god** — the comet-stone in the roots, the dead ground,
+  old giant-work around it. See [Kronos/Uranus](../handouts/kronos-and-uranus.md).
+- **The tree is alive** — it talks. See the [Juniper Tree](../handouts/the-juniper-tree.md).
+  They hear it first from the [mockingbird](the-game-preserve.md) on the approach,
+  which learned to copy the muttering.
 
 ---
 
 ## Why Preem sends the party
 
-A newborn demon has not yet learned to guard its true name. Preem sends crews here
-to take the names off the newly born, for his bindings (see
+A newborn demon has not learned to guard its true name yet. Preem sends crews here to
+take the newborns' names, for his bindings (see
 [the name quest](../lore/demons-and-the-hotspot.md)). The site is holy and no one
-holds it — not the Company — so he cannot own it or work it with his own hands; he
-needs mortals who go in and come out. `[OPEN]` the holy rite the site is built
-around, and who, if anyone, tends it.
+controls it — not the Company — so Preem cannot own it or work it himself. He needs
+mortals who can go in and come out.
 
 ---
 
 ## What still needs building
 
-- The **ritual** — the holy rite the site is built around (the real upas legend
-  sent condemned people to the poison-tree to gather it; a rite, not a business).
+- The **ritual** — the holy rite the site is built around (the real upas legend sent
+  condemned people to the poison-tree to gather it).
+- The **monsters** — the poison-mutated beasts of the hunt. `[for David]`
 - The **level**, and where it sits on the itinerary.
-- The **moment-of-birth mechanic** (the Three Citrons) — the window in which a
-  newborn demon can be named or taken.
-- The **poison approach** (Anchar) — reaching the tree alive.
-- What the party **recovers**, and how the fruit-demons are statted.
-- **Handouts:** short verbatim excerpts of the source myths, to sit beside the
-  Qur'an ([Zaqqum](../handouts/the-tree-of-zaqqum.md)) and
-  [Anchar](../handouts/anchar.md).
+- The **name-taking mechanic** — the window when a fruit opens.
+- What the party **recovers**, and how the demons are statted.
+
+---
+
+## Sources
+
+[Anchar](../handouts/anchar.md) (a lone poison-tree); the Qur'an's
+[Zaqqum](../handouts/the-tree-of-zaqqum.md) (a tree in hell, its fruit the heads of
+devils); [Kronos and Uranus](../handouts/kronos-and-uranus.md) (a sky-god struck down,
+a tree from the wound); the [Juniper Tree](../handouts/the-juniper-tree.md) (a dead
+soul living on in a tree); and [Momotarō](../handouts/momotaro.md), the
+[Three Citrons](../handouts/the-three-citrons.md),
+[Attis](../handouts/the-birth-of-attis.md), and
+[Thumbelina](../handouts/thumbelina.md) (a child born out of a fruit).
 
 ---
 
 ## A note on canon
 
-This is a **comet-fall that failed** — a god killed before it could rise and join
-the [pact](../lore/demons-and-the-hotspot.md). It adds one thing the world did not
-have: **the giants killing a god.** Keep that consistent — the
-[True Giants](../lore/lineages-and-afterlives.md) are passive everywhere else (they
-lie down and become mountains); here, once, they struck. `[OPEN]` why they struck
-this god, and whether it happened more than once.
+This adds one new thing to the world: **the giants killed a god.** Everywhere else the
+[True Giants](../lore/lineages-and-afterlives.md) are quiet — they lie down and become
+mountains. Here, once, they killed. Keep that straight. `[OPEN]` why they killed this
+god, and whether it happened more than once.
 
 *End of design note.*
