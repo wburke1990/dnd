@@ -2,91 +2,107 @@
 
 ## A D&D Encounter — Design Note `[draft]`
 
-The setting around [the hell-tree](the-hell-tree.md): the poison land at the
-northern tip of [Suartleheim](../lore/nila-atlas.md), and the town at its edge.
-The land past the town is poison — [Anchar](../handouts/anchar.md)'s air and dead
-ground — and that poison is what stops anyone settling further in. This town is as
-far inland as the world gets here. Each turn of the season the town holds its
-**hunt** in that land, a rite from its religion; the party gets in through it, then
-crosses to the tree on their own.
+> The middle of the Brauron quest — the poison wild between the town and
+> [the hell-tree](the-hell-tree.md). The party gets in through the hunt, then leaves
+> it and crosses to the tree alone. Read [the hell-tree](the-hell-tree.md) first; the
+> town is [Brauron](the-peach-town.md).
 
-Source for the approach: *Heart of Darkness* (a journey inward, worsening the
-closer it comes to a ruined mind at the center).
+The land past Brauron is poison, and the poison is what stops anyone settling further
+in — [Brauron](the-peach-town.md) is as far inland as the world gets here. Out in that
+wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** each turn
+of the season, and [the hell-tree](the-hell-tree.md) stands at the dead center of it,
+where no hunter goes. The party joins the hunt to get past the fence, then breaks off
+and crosses to the tree alone.
 
----
-
-## The town north of Raand
-
-The hunters and pilgrims set out from the town at the edge of the deadland — a town
-of dragon-descended gnome artisans, founded on the Momotarō peach-boy, keeping the
-**cult of Artemis** that runs the sacred hunt (below). Full writeup:
-[the peach town](the-peach-town.md).
+Source for the approach: *Heart of Darkness* — the way in gets worse the closer it
+comes to the thing at the center.
 
 ---
 
-## The hunt — Artemis's sacred hunt
+## Read aloud — the edge of the hunt
 
-The hunt is not a business. The **cult of Artemis** in the town runs it — a sacred
-hunt held at the turn of the season, out in the wild land of the preserve. It has
-**two strands:**
+> *A long fence runs off into the wild both ways. Past it the ground is bad — the
+> grass wrong-coloured and too tall, the trees knotted and low. Hunters are
+> gathering: gnomes in hound-pelts, up on the backs of great hounds, with a loose pack
+> of more hounds circling them. Far out past all of it, too far to make out, a single
+> huge tree stands over everything.*
 
-- **The beast-hunt** — run down the great game of the wild country. The
-  **Calydonian boar**: Artemis looses a monstrous beast and the hunters bring it
-  down.
-- **The man-hunt** — a person is marked as the quarry, the stag, and run down.
-  **Actaeon**: the one turned to a stag and torn apart by the hounds.
+`[OPEN]` the fence, the muster, the first sight of the far tree.
 
-`[proposed]` The hunters ride **great hounds** — a gnome-sized pack, the hounds of
-the Actaeon rite — and go in **hound-pelts** to match, fast enough to run a stag
-down. The quarry, marked at the temple, goes in the stag's antlers and hide.
+---
 
-The hunt stays **out in the wild land and never turns in toward the tree.** The tree
-is the forbidden center, ground no hunter enters — which is what keeps it alone.
-Hunters come and go for the season and never reach it.
+## The hunt
+
+The [cult of Artemis](the-peach-town.md) runs it — a sacred hunt, not a business —
+out in the wild, at the turn of the season. Two strands:
+
+- **The beast-hunt (the Calydonian boar).** The cult looses a great beast into the
+  wild and the hunters run it down.
+- **The man-hunt (Actaeon).** A person is marked as the stag and run down. The quarry
+  is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
+
+The hunters ride **great hounds** and wear **hound-pelts**. `[proposed]` the hounds
+are big enough for a gnome to ride — the pack of the Actaeon rite.
+
+The hunt stays out in the wild and **never goes near the tree.** The tree is holy
+ground, and no hunter enters it — which is what keeps it alone. The hunters come and
+go for the season and never reach it.
+
+---
 
 ## Getting in, and getting to the tree
 
-The hunt is the way past the fence. The tree is the party's own problem after that.
+The hunt is the way past the fence. Reaching the tree is the party's own problem after
+that.
 
-- **Enter as hunters** — join either strand.
-- **Enter as the quarry** — stand as the stag in the man-hunt. The party can afford
-  this one.
-- **Slip in** past the fence and the deadland.
+- **Come as hunters** — join either strand.
+- **Come as the quarry** — put your name down as the stag in the man-hunt. This is the
+  one the party can afford.
+- **Slip in** past the fence.
 
-Once inside, the party **breaks off from the hunt** and crosses the poison land to
-the tree on its own, while the hunt runs on behind them, out in the wild, never
-coming this far in.
+Once inside, the party leaves the hunt and crosses the poison land to the tree alone,
+while the hunt runs on out in the wild, far from the tree.
 
 `[OPEN]` the rules of the hunt at the table.
 
 ---
 
-## The approach — a Heart of Darkness escalation
+## The approach to the tree
 
-The way to the tree runs inward and worsens with each stretch: the poison
-thickening, the land and its game turning stranger, the pull of the
-[thing in the tree](the-hell-tree.md) growing. Pilgrims have hiked in over the
-years and left **small shrines** along the way — nothing permanent holds in this
-ground — and the shrines carry the [Zaqqum verses](../handouts/the-tree-of-zaqqum.md).
-The party finds them deeper and deeper in.
+The way in gets worse the closer they come — the poison thicker, the mutated beasts
+worse (see [the hell-tree](the-hell-tree.md)), and the sickness starting to work on
+the party themselves. **Fast in, fast out.**
 
-Deeper still, a **bird** sings the [Juniper song](../handouts/the-juniper-tree.md) —
-*my mother she killed me, my father he ate me* — where nothing should be alive. It is
-no soul and no omen: a **mockingbird**, one of the creatures the tree's alchemical
-poison has warped, and it repeats whatever it hears. It happened to hear the tree
-talking to itself. So the party gets the tree's own words secondhand, from a dumb
-bird, before they ever reach it.
+### Read aloud — a shrine on the way
 
-`[OPEN]` the stages.
+> *A little pile of stones stands beside the path, no taller than a knee, with a flat
+> slab set on top. Words are cut into the slab. Nothing is built near it and no one
+> tends it. Further on there is another, and past that another.*
+
+Pilgrims left the shrines on their way in; nothing permanent holds in this ground. The
+slabs carry the **[Anchar](../handouts/anchar.md)** poem — the lone poison-tree, and
+the master who sends a man to gather from it and not come back. (The Qur'an's
+[Zaqqum](../handouts/the-tree-of-zaqqum.md) is down the stair at the tree itself — see
+[the hell-tree](the-hell-tree.md).)
+
+### Read aloud — the bird
+
+> *A bird is singing in a dead tree. The song has words: "My mother she killed me, my
+> father he ate me…" It sings them plainly, waits, and sings them again.*
+
+It is a **mockingbird**, warped by the tree's poison, that repeats whatever it hears.
+It once heard the tree muttering to itself. So the party gets the tree's own words from
+a dumb bird, long before they reach it (see [the hell-tree](the-hell-tree.md)).
+
+`[OPEN]` the stages of the approach — how many shrines, and how the mutation is
+tracked.
 
 ---
 
 ## What still needs building
 
-- The town's **name** and the shape of its cult of Artemis.
-- The **rules of the hunt** at the table — the two strands (the Calydonian
-  beast-hunt and the Actaeon man-hunt).
-- The **stages** of the approach and the shrines.
+- The **rules of the hunt** at the table — the two strands.
+- The **stages** of the approach — the shrines, the bird, the mutation clock.
 - **Level** and placement.
 - What the party **recovers** at the tree — see [the hell-tree](the-hell-tree.md).
 
