@@ -12,13 +12,12 @@ Its founding is the Momotarō peach-boy, told straight, and the town is built ar
 it — a peach grove rings the town, a statue of the founder stands in the square, and
 the artisan-gnomes stage the fruit-birth myths through the streets.
 
-`[name]` The name is **Greek, not Norse.** The Norse map-names (Raand, Aar,
-Suartleheim) came with the Muspel empire; this town and its religion **predate the
-Muspel empire** — the tree fell in the first pass — the way Lonka and Kalikhat keep
-their older, non-Norse names. Proposed: **Brauron**, the real Artemis sanctuary where
-girls served as bears, which is the rite the town keeps (Ephesus, her great temple
-city, is the alternative). `[OPEN]` confirm. And the cult's name is literal — **the
-cult of Artemis**, word for word, not renamed.
+The town is **Brauron** `[settled]` — after the real Artemis sanctuary where girls
+served as bears, the rite the town keeps. Greek, not Norse: the Norse map-names
+(Raand, Aar, Suartleheim) came with the Muspel empire, and this town and its religion
+**predate it** — the tree fell in the first pass — the way Lonka and Kalikhat keep
+their older names. The cult's name is literal too: **the cult of Artemis**, word for
+word.
 
 ---
 
@@ -62,6 +61,20 @@ as **bears** before they marry (the real Brauron rite), and the priestesses keep
 other face too: Artemis is also **Hecate**, of the moon and the crossroads of the
 dead — the face that has anything to do with what waits out in the deadland.
 
+**Two priesthoods keep the temple, both borrowed from Ephesus.** The
+**bee-priestesses — the Melissae, "the bees"** — are Artemis's virgin women, and they
+run the hunt (the marking and the blessing, below). The **eunuch priests — the
+Megabyzoi** — keep the **Attis mystery** in the inner room. `[DM background]` The
+Megabyzoi are real: Artemis's priests at Ephesus were castrated, in the manner of the
+**Galli**, the self-cut priests of Cybele and Attis. Attis castrates himself under the
+pine and dies, and his priests followed him into it. So the eunuchs here are what the
+Attis mystery is — the cutting, the dying god — which is why they keep it and the bees
+do not. (For when a player asks why the priests are as they are.)
+
+`[lands on Sarric]` Sarric carries his beehive everywhere
+([sheet](../characters/sarric.md)); a temple served by **bee**-priestesses is a thing
+the world sets in front of him. What he makes of it is Jeremy's.
+
 Signing on as the quarry is done here, and the priestess who takes the name asks one
 thing first: **where to send the money** — the quarry is not expected to come back.
 The party gives an address. The man-hunt is a sacrifice to Artemis in the shape of a
@@ -85,8 +98,6 @@ they watch.
 
 ## What still needs building
 
-- The town's **name** (Brauron `[proposed]`, Greek — predates the Norse/Muspel
-  names).
 - The **temple scene** — the sign-up and the address, the antlering, the
   Longstrider blessing, and how the Attis mystery is shown.
 - The **handout texts** for the statue base, the shrines, and the temple (the six
