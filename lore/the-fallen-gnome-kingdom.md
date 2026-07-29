@@ -11,7 +11,8 @@
   take. Suartleheim Eet was **not empty.** The **Firbolgs** held it; the gnomes took it by **holy
   war**, the land promised them by their god and its people put to the sword — the region's founding
   faith and its first crime at once. His **watch-stone** stands over the harbour at whichever port
-  the party lands (**Aar or Aal**), his own [Vision of the Future](../handouts/locksley-hall-vision.md)
+  the party lands (**Aar or Aal** — the port writeup is [Aar](copaa.md)'s; if they land at Aal,
+  swap it wholesale into Aar's role, only ever the one), his own [Vision of the Future](../handouts/locksley-hall-vision.md)
   cut into it (Tennyson), and beside it the gnomes'
   [lament for lost Kalikhat](../handouts/into-my-heart-an-air-that-kills.md) (Housman) — a people
   grieving the home they fled while standing on the home they seized.
