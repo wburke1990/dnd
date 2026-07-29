@@ -77,7 +77,14 @@ If you learn something worth remembering across sessions, add it here.
   psychology, describe how the **world or an NPC** plays off what the player
   established — don't put new motives in the PC's head. (NPC files in
   `characters/` — Preem, Mul, the al Qahtani, Lucrecia, and the like — are
-  DM-written and fair game.)
+  DM-written and fair game.) **Keep our notes in a companion file, not the
+  player sheet.** DM-facing prep about a PC — connections, how the world
+  plays off them, our readings of their backstory — lives in
+  `characters/<pc>-dm-notes.md` (e.g. `jasper-dm-notes.md`), so the sheet
+  stays the player's and the boundary is a file boundary, not a matter of
+  remembering. The player sheet links to its companion at the top; the
+  companion links back. Migrate existing DM sections out of a sheet the
+  next time you touch it.
 - **Poetry is first-class campaign content.** The user loves poetry and
   uses poems throughout the Maalm/Nila campaign as in-world artifacts
   (grave inscriptions, "ancient scrolls"). Save pasted poems **verbatim**
