@@ -110,6 +110,17 @@ Someone may point out the parallel. Or no one will, and the player will sit with
 
 ---
 
+## DM Note — The Lost Memory (Session 8)
+
+At the offering bowl in the [Dream Quest](../encounters/the-dream-quest.md),
+Aniess gave up the **memory of a night out with her friends** — the last of
+the five offerings, after a summoned dagger the bowl wouldn't take. The bowl
+accepted it, and **she can no longer remember that night.** What the memory
+held is Greg's to say; it's gone from her either way. See
+[session-08.md](../sessions/session-08.md).
+
+---
+
 ## Campaign Connections
 
 - First genuine independent choice: joining the wizard's adventurer call without Order direction

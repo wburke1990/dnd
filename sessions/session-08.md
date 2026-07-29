@@ -42,6 +42,8 @@
 - **Jasper knew almost every question.** **Aniess kept giving wrong answers**,
   and **David played it so the boat shook each time she answered wrong.** The
   party got enough right and moved on.
+- **Thoth greeted Sarric and Jasper by name** — the two who'd failed the
+  serpent's save at Gate One. It creeped the players out.
 
 ## Gate Four — the offering bowl
 
@@ -82,9 +84,10 @@ The dream stopped here. **Next session picks up at Gate Five.**
   or a patrol. Ties into the **docks departure tomorrow 9 AM**
   ([Departure Under Fire](../encounters/docks-departure.md)).
 - **Sarric and Jasper failed the Gate One save.** The serpent flagged something
-  in each of them that didn't belong. Per the prep, **Anubis notes those
-  characters with particular attention** in the Hall — carry it into the
-  judgment next session.
+  in each of them that didn't belong. **It already paid off at Gate Three —
+  Thoth greeted the two of them by name.** Per the prep, **Anubis notes those
+  characters with particular attention** in the Hall — keep the thread live
+  through the judgment next session.
 - **Ali did not appear in person — an aide stood in for her.** The house scene
   as built leans on **Ali**: the Jasper question, her coming apart on home
   ground, and the "Did he — was it —" beat at waking are all hers. `[OPEN]`
