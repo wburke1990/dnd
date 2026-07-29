@@ -5,6 +5,13 @@
 > that is Maalm proper, next door; this corner is its **own** thing: a **gnome kingdom that
 > fell.** Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
+- **The founding — a dragonborn wanderer.** `[Will 7/29]` A wandering dragonborn seer
+  led the gnomes to Suartleheim Eet and founded the kingdom. His tomb carries
+  [The Vision of the Future](../handouts/locksley-hall-vision.md) (Tennyson's *Locksley
+  Hall*) — the seer who "dipt into the future." These are the **surface** gnomes, led
+  here overland; they are **not** the [Kalikhat gnomes who fled underground](lonka-jotunheim.md)
+  into the deep. `[OPEN]` when he led them, and whether they were Bleeding-Star refugees
+  or an older people.
 - **A kingdom that fell.** `[settling — Will]` Suartleheim Eet was once a **gnome kingdom.**
   It is gone. What the party finds is the **aftermath** — poor towns on tired ground, a
   poisoned watershed, a people no longer their own masters.
@@ -44,7 +51,9 @@ again (see the open threads below).
   Decide how the **surface** gnome kingdom of Suartleheim Eet relates — unrelated kin, a surface
   branch, or one people split by the catastrophe. This is the place to settle the standing
   `[OPEN]` reconciling Suartleheim / Svartalfheim with Kalikhat as the Underdark cradle
-  ([campaign overview](campaign-overview.md)).
+  ([campaign overview](campaign-overview.md)). `[Will 7/29]` The founding above sets them as a
+  **surface** line, led to Suartleheim Eet by the dragonborn wanderer — distinct from the
+  underground deep gnomes. Still `[OPEN]`: whether the two share one stock split by the Bleeding Star.
 - `[OPEN]` **What felled the kingdom** — the Company and colonization, an older catastrophe, or
   both layered (the way the [Haals runoff](../encounters/the-haals-runoff.md) stacks a human
   blight on the region's baseline dryness).
