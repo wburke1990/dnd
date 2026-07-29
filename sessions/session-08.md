@@ -18,12 +18,15 @@
   were received by **Muntadhir** and **Ali** — whose full name, **Alizayd**,
   was given here.
 - **Muntadhir walked them through the house** — the tour as built. They
-  **learned the rite is cast with the *Dream of the Blue Veil* spell**, cast
-  it, and **fell into the dream.** They woke on the boat on the river of
-  stars.
+  **learned the rite is cast with the *Dream of the Blue Veil* spell.**
 - **Ali warned them, on her father's behalf:** **not to pass beyond the blue
   veil into the land of the dead**, and that **any wound taken in the dream
   would be a real wound when they woke.**
+- **They cast it by reading the poem with Ali** — the family's incantation, a
+  four-verse poem
+  ([Wynken, Blynken, and Nod](../handouts/wynken-blynken-and-nod.md)). **Ali
+  read the first verse, then Pax, then Sarric, then Blackacre** — one verse
+  each. They fell into the dream and **woke on the boat on the river of stars.**
 
 ## The dream — Gate One, the serpent
 
