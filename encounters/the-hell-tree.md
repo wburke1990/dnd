@@ -70,6 +70,12 @@ made of them. `[for David]` pick the set of monsters the party meets on the hunt
 they stay, the more it mutates them — worst at the tree, worse still down the stair,
 where they are standing on the source. Fast in, fast out.
 
+`[DM]` The mutation does not touch Jasper. His people were humanoids — humans, maybe —
+that the alchemical sickness mutated after the last Ragnarok, so the same sickness is
+already in him; the rest of the party never went through it. The poison here is that
+sickness, so it does not change him or hurt him. It makes him stronger — more so the
+closer he gets to the tree, more so again down the stair.
+
 ---
 
 ## How the tree got here
