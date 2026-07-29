@@ -133,6 +133,39 @@ the sea voyage out of Maalm and the Egyptian death-road.
 - **Bless / Guidance** — "Pied Beauty" (Gerard Manley Hopkins, 1844–1889). "Glory
   be to God for dappled things" — a spoken blessing.
 
+## Rare & underused spells to feature
+
+Part of why *Dream of the Blue Veil* landed is that it is **7th level** —
+scarce, and never seen in a campaign of ours before. These are spells that
+rarely appear: high enough level to be rare, or overlooked at any level.
+Candidates to build a scene, a ritual, or an NPC around; several also take
+the poem treatment above. Tags flag which campaign thread they touch.
+
+**High level (6th–9th), scarce:**
+- Imprisonment (9th) — bind a creature forever; some forms need its true name — the apex of the binding thread `[names]`
+- Gate (9th) — a portal to a named being on another plane `[names]`
+- Soul Cage (6th) — trap a soul as it dies and spend it `[death-road]`
+- Magic Jar (6th) — move your soul into a vessel and possess bodies `[death-road]`
+- Planar Ally (6th) — call a named outsider and bargain `[names]`
+- Symbol (7th) — a glyph of harm that waits; a tomb ward `[tombs]`
+- True Seeing (6th) — see through illusion and disguise; shows a half-demon for what they are `[al Qahtani]`
+- Sequester (7th) — hide a body or object in stasis until a trigger
+- Clone (8th) / Simulacrum (7th) — a wizard cheating death or fielding a copy `[Preem]`
+- Heroes' Feast (6th) — a blessed feast; the hospitality motif `[now]`
+- Astral Projection (9th) / Etherealness (7th) — cross to the far side in the flesh
+- Divine Word (7th) / Power Word Kill or Stun (9th / 8th) — a single spoken word of power `[names]`
+
+**Overlooked at any level:**
+- Dream (5th) — walk into a sleeper's dream to speak or terrify `[dreams]`
+- Modify Memory (5th) — rewrite a memory; the mirror of what the bowl did to Aniess `[dreams]`
+- Reincarnate (5th) — return in a random new body
+- Legend Lore (5th) — the hidden history of a named thing; the small Anubis
+- Feign Death (3rd, ritual) — play dead for a rite or an escape
+- Meld into Stone (3rd, ritual) — vanish into a wall `[tombs]`
+- Magic Mouth (2nd, ritual) — a message set to speak on a trigger; inscriptions that talk
+- Hallow (5th) — consecrate a site with a lingering effect
+- Nystul's Magic Aura (2nd) — mask what a thing is to detection
+
 ## To finalize one
 
 - Pick the poem and the spell.
