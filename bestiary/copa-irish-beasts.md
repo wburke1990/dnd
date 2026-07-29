@@ -344,7 +344,7 @@ for, or driven under and left, not fought on the shore.
 
 ## Placed, not rolled
 
-Three the DM sites rather than rolls, each tied to what Copaa already carries.
+Four the DM sites rather than rolls, each tied to what Copaa already carries.
 
 **Balor of the Death-Eye — the buried giant under Haals.** The
 [giant the gnomes woke by digging too deep](../lore/the-fallen-gnome-kingdom.md)
@@ -374,6 +374,32 @@ name-hold: a boon given and a sworn prohibition laid, worded in the myths' own
 cadence, and with the true name behind it there is no ordinary saving throw and
 no ordinary lifting of it. A party that goes under the hill to bargain comes out
 carrying what it swore. See [the name-hold on mortals](../lore/house-rules-and-world-mechanics.md).
+
+**The Children of Lir — the four swans on the lake.** Four white swans on the
+poisoned lake, and when they sing every creature that hears them holds still.
+They speak with human voices, because they are human: the four children of
+**Lir**, a lord of the [gnome kingdom that fell](../lore/the-fallen-gnome-kingdom.md)
+— Fionnuala the eldest, Aodh, and the twins Fiachra and Conn. Their father's
+second wife, **Aoife** — jealous, in the telling, of his love for them — took
+them to the water and struck them into swan-shape with a druid's rod, and set a
+term on it: three hundred years on each of three waters, their minds and speech
+and singing kept the whole time, and no release until a bell of a new faith rings
+over the lake. For her own crime her father turned her into a spirit of the air,
+and she rides the wind over the water still. **The three waters are the region's
+three ages:** the swans have swum this one lake through the gnome kingdom, the
+[Mughal](../lore/the-fallen-gnome-kingdom.md) age, and the
+[Company](../lore/the-company.md) age, and they remember all of it — four who saw
+the fall, the middle empire, and the colony come one after another, and can tell
+a party the whole of it in their own words. **No one may harm them:** a hand
+raised against the swans brings ruin on the raiser (CURSE), fixed in every
+telling. Their release is not a rescue — when the term ends and they take human
+shape again they are as old as their years, nine hundred years in a moment,
+and they die at once, and are buried together in one grave. A party that ends the
+curse gives them their death as themselves instead of another age on the water.
+Place it as a parley and a choice, not a fight. `[OPEN]` whether the bell that
+frees them is a faith already in the world (Maalm's Egypt next door) or one the
+party's own age brings — and whether the swans' song and the
+[Copaa lament](../handouts/copaa-lament.md) are the same grief on the water.
 
 ---
 
