@@ -14,10 +14,12 @@
 
 The country is bog. It is named for the people first in it — the fear bogs, the
 Fir Bolg, whose dead lie preserved in the peat and rise out of it. The gnomes who
-came after are the fair folk of the mounds: they lay **[geasa](../lore/house-rules-and-world-mechanics.md)**
-on those who enter their ground — a sworn prohibition worded in the old cadence,
-which with a true name behind it simply holds (the geis is already the world's
-name-hold on mortals; the Copaa fey are where it lives in play).
+came after are the fair folk of the mounds, and they deal in
+**[geasa](../lore/house-rules-and-world-mechanics.md)** — a sworn prohibition
+worded in the old cadence, offered as the price of a boon and sworn freely by the
+one who takes it, its breaking bringing ruin (the geis is already the world's
+name-hold on mortals; the little people are where it lives in play, run through
+their music — see *The Little People*, below).
 
 **When to roll.** Roll once per **day the party is out in the Copaa country** —
 the bogs, the lake shore, the Aar road, the emptied gnome houses. Rolls **1–3**
@@ -229,15 +231,15 @@ block**
 No fight — a passing. On certain nights the fair folk ride out from the mound in
 train, in fine dress, with music and lights, crossing the bog road. **The answer
 is in the telling:** stand aside, hold your tongue, and let them pass. Take
-nothing they offer — no cup, no food, no seat on a horse; eat the fairy meat or
-take the fairy cup and you belong to the mound and do not come out the same, or at
-all. Bow, and they may leave a gift on the road behind them; interrupt or insult
-the ride, and the party has made an enemy of the whole court under the hill (the
-gnomes who went under). This is where a **[geis](../lore/house-rules-and-world-mechanics.md)**
-is most likely laid — a lord of the ride binds a helpful mortal with a sworn
-prohibition, the old name-hold, and lets them go carrying it.
+nothing they offer without knowing the price — the fairy cup and the fairy meat
+come with a debt. Bow, and they may leave a gift on the road behind them;
+interrupt or insult the ride, and the party has made an enemy of the whole court
+under the hill (the gnomes who went under). A party that deals with them rather
+than only standing aside is offered the music bargain — a boon for a song and a
+sworn **[geas](../lore/house-rules-and-world-mechanics.md)** (see *The Little
+People*, below).
 
-*Tags:* Copaa; d20:13; stand aside; take nothing; the geis is laid here
+*Tags:* Copaa; d20:13; stand aside; the music bargain; the geis is offered here
 
 ### 14 · Fear Ceoil, the Piper
 *Fey (Medium, a musician of the mound)* — **Fey, CR 3**
@@ -365,15 +367,27 @@ poison in one flesh.** Whoever burns a thumb on the cooking and sucks it, as Fio
 did, takes the knowledge — and the contaminant with it. A boon that is also the
 region's wound, eaten. Place it as a wonder and a temptation, not a fight.
 
-**The Court under the Mound — the aos sí lord.** The gnomes who went under the
-hill keep a court there, out of the [Mughal](../lore/the-fallen-gnome-kingdom.md)
-age and the Company age both, where a night is a year and the food is not to be
-eaten. This is the seat of the **[geis](../lore/house-rules-and-world-mechanics.md)**
-— a mortal brought before the lord of the mound is dealt with by the old
-name-hold: a boon given and a sworn prohibition laid, worded in the myths' own
-cadence, and with the true name behind it there is no ordinary saving throw and
-no ordinary lifting of it. A party that goes under the hill to bargain comes out
-carrying what it swore. See [the name-hold on mortals](../lore/house-rules-and-world-mechanics.md).
+**The Little People — a geas for a tune.** The gnomes who went under the hill
+keep to the emptied houses and the mound, and at night they are at their music —
+pipes and a bodhrán, dancing on the flattened grass. They will deal, and the deal
+runs through a song. Ask them a boon — safe passage across the poisoned lake, a
+true answer about Haals, a gift, a tune of their own that carries a small magic —
+and they name the price: play for them, and swear a charge. **The performance is
+the bargain.** A PC offers a song and rolls **Performance**; the little people's
+own piper answers, and it plays out as a contest — contested Performance, or a
+run of checks with each hand that joins the tune adding to the tally. A strong
+showing wins a real gift and their favour; a poor one wins a lesser boon or their
+scorn; a botched insult turns the whole session against the party. **The boon is
+sworn, not bought.** To carry the gift out, the winner takes a
+**[geas](../lore/house-rules-and-world-mechanics.md)** — a specific prohibition
+worded in the old cadence and tied to the music: *"you shall never refuse a call
+for a song," "you shall not play this tune before the sun is down," "no other
+hand shall touch your strings."* They swear it freely; it holds because it is
+sworn, and its breaking brings the ruin the old geasa always bring — the
+sworn-charge register, not the true-name hold that enslaves. The little people
+offer; they do not seize. Keep the charge and keep the gift; break it and the
+gift turns on the breaker. Refuse the whole bargain and they play on and let the
+party go — no tune, no geis. `[OPEN]` the boons on offer and the tunes.
 
 **The Children of Lir — the four swans on the lake.** Four white swans on the
 poisoned lake, and when they sing every creature that hears them holds still.
@@ -414,7 +428,8 @@ party's own age brings — and whether the swans' song and the
   the water-beasts swim in; Balor's eye as the runoff.
 - [The Copaa lament](../handouts/copaa-lament.md) — the bean sídhe's song.
 - [House rules — the name-hold on mortals](../lore/house-rules-and-world-mechanics.md)
-  — the **geis**, made absolute by a true name; the mound-court lays it.
+  — the **geis**; the little people offer it for a song, sworn freely as the price
+  of a boon.
 - [Sea-beasts](sea-beasts.md) — the sister table (the each-uisce is shared);
   the 2d6 reaction and three-beat run carry over.
 - [Sarric](../characters/sarric.md) — the living Firbolg; the fear bogs are his
