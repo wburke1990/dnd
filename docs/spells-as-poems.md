@@ -39,7 +39,7 @@ more.**
 - Conjure Elemental (the kraken) — 1 min — *The Kraken* `[now]`
 - Raise Dead / Resurrection — 1 hour — *Do not go gentle*
 - Ceremony — 1 hr, **ritual** (a blessing) — *Pied Beauty*
-- Forbiddance — 10 min, **ritual** (a warded sanctuary) — Psalm 91
+- Forbiddance — 10 min, **ritual** (a warded sanctuary) — [Psalm 91](../handouts/psalm-91.md)
 - Gentle Repose / Leomund's Tiny Hut — **ritual** (preserve a body / a safe camp)
 
 **Fast as mapped — swap to the slow cousin:**
@@ -139,8 +139,11 @@ the sea voyage out of Maalm and the Egyptian death-road.
   delight. Reciting the Pebble is the binding — the free-or-own choice the
   campaign's true-name thread turns on, and the rehearsal for the
   volcano-demon's name. `[names]`
-- **Sanctuary / Shield / Protection** — Psalm 91 (KJV). "His truth shall be
-  thy shield and buckler."
+- **Forbiddance / a warded sanctuary** — Psalm 91, saved at
+  [handouts/psalm-91.md](../handouts/psalm-91.md). Refuge and fortress, shield
+  and rampart; the terror of night and the arrow by day pass over; angels set
+  to guard the ground. (Forbiddance is 10 min, ritual — see above; Sanctuary
+  itself is a bonus action and too fast for the device.)
 - **Bless / Guidance** — "Pied Beauty" (Gerard Manley Hopkins, 1844–1889). "Glory
   be to God for dappled things" — a spoken blessing.
 
