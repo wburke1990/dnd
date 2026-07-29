@@ -1,6 +1,8 @@
 # Do Not Stand at My Grave and Weep (Player Handout)
 
-*A candidate grave inscription / handout in the grave-elegy vein — the dead speaking, denying the grave holds them ("I am not there; I did not die"). Verbatim; the poem circulated in variants, this is the standard Frye text. Placement not yet assigned.*
+*A grave inscription in the grave-elegy vein — the dead speaking, denying the grave holds them ("I am not there; I did not die"). Verbatim; the poem circulated in variants, this is the standard Frye text.*
+
+*Placement: carved over the graves at the Verdant Fist, the monastery that raised Pax ([creation-pax.md](creation-pax.md)). The order teaches the body is a bridge between spirit and soil; the poem runs the same span — wind and stars, grain and snow. In the world's cosmology it is the weather-people's, whose dead go into wind, rain, and the light on grain ([lineages-and-afterlives.md §5](../lore/lineages-and-afterlives.md)).*
 
 *Real-world source: Mary Elizabeth Frye (1905–2004), "Do Not Stand at My Grave and Weep" (1932).*
 
