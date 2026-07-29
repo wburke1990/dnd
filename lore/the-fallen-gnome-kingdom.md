@@ -28,7 +28,9 @@
 > **conquest of Canaan (Exodus / Joshua)** — a prophet leads refugees into a promised land taken
 > by *ḥerem*. The [Copaa Lament](../handouts/copaa-lament.md) adds the **Admonitions of Ipuwer**:
 > "the **nomes** are laid waste" reads as the **gnomes** laid waste, and its "the river is blood"
-> rhymes with the Exodus plagues.
+> rhymes with the Exodus plagues. The peaceful counterpart across Suartleheim is
+> [Weet](../handouts/the-ruin.md): the **Dorians among the Mycenaean ruins**, dwarves inheriting
+> the giants' emptied halls — inheritance where Eet is conquest.
 - **A kingdom that fell.** `[settling — Will]` Suartleheim Eet was once a **gnome kingdom.**
   It is gone. What the party finds is the **aftermath** — poor towns on tired ground, a
   poisoned watershed, a people no longer their own masters.
