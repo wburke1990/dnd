@@ -26,7 +26,9 @@
   the dragon-borne [Egyptians](amseh-dynasty.md) were given vacated land as a gift, the dwarves
   inherited the empty [giant-halls](../handouts/the-ruin.md), and only the **Firbolg remnant who
   stayed behind** were there to be conquered — by the gnomes, much later, in
-  [Eet](the-fallen-gnome-kingdom.md). `[OPEN]` whether the closing of the tunnels was the same event.
+  [Eet](the-fallen-gnome-kingdom.md). Those were killed, absorbed, or driven back south, so **the
+  living Firbolgs are all here now, south of the mountains** (Sarric's people), and Eet keeps only
+  their dead. `[OPEN]` whether the closing of the tunnels was the same event.
 - **The work of giants.** `[settling]` What they left behind is **great stonework standing
   empty** in the dwarves' reach — halls built too big for the people who live among them now.
   This is the home of the Old English **"[The Ruin](../handouts/the-ruin.md)"**: a **bard's lay
