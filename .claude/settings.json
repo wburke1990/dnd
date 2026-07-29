@@ -105,7 +105,13 @@
       "Edit",
       "Write",
       "Edit(.claude/settings.json)",
-      "Write(.claude/settings.json)"
+      "Write(.claude/settings.json)",
+      "Task",
+      "Task(Explore:*)",
+      "Task(general-purpose:*)",
+      "Task(Plan:*)",
+      "Task(tts-inspector:*)",
+      "Agent"
     ],
     "additionalDirectories": [
       "/Users/wcb/Library/Tabletop Simulator",
