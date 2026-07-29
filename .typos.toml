@@ -38,6 +38,7 @@ Mak = "Mak"  # place name: Ilka Mak, Noku Kurunatuka's beachhead on Musleheim
 layed = "layed"  # Ezra Pound, "The Seafarer" (1911): "The blade is layed low."
 nomes = "nomes"  # Admonitions of Ipuwer: Egyptian nomes (districts) — not "gnomes."
 turnes = "turnes"  # Arthur Golding, Ovid's Metamorphoses (1567): "She turnes his fingers into feete" — handouts/actaeon.md
+Spiritus = "Spiritus"  # Latin "Spiritus Mundi" in W. B. Yeats, "The Second Coming" — handouts/the-second-coming.md
 # Homeric transliterations, quoted verbatim from named translators in
 # references/homeric-epithets.md. Lattimore renders the Greek Ἀχιλλεύς as
 # "Achilleus" and Fitzgerald as "Akhilleus"; both are the translator's

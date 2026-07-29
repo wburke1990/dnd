@@ -95,7 +95,8 @@ the sea voyage out of Maalm and the Egyptian death-road.
   `[now]` the party is escorting a soul through the underworld.
 - **Augury** — "The Raven" (Edgar Allan Poe, 1809–1849). A question put to
   the dead and one word returned.
-- **Foresight / a portent** — "The Second Coming" (W. B. Yeats, 1865–1939). A
+- **Foresight / a portent** — "The Second Coming" (W. B. Yeats, 1865–1939),
+  saved at [handouts/the-second-coming.md](../handouts/the-second-coming.md). A
   revelation at hand and a shape moving to be born.
 
 ### Enchantment
