@@ -211,9 +211,14 @@ files, `rg -t lua …` filters by type, `rg --files -g '*.lua'` replaces
 a raw `grep … | while read f; do … done` loop, and that compound statement
 prompts on mobile *regardless* of the allowlist (the pipe-into-`while`-`do`-`done`
 shape can't be statically vetted — same bucket as heredocs). The subagent's
-prompt surfaces to the user just like the parent's would. So when you spawn an
-agent to search, **tell it in the prompt to use `rg` (piping to `xargs` when it
-needs per-file follow-up), never `grep`/`find` inside a shell loop.**
+prompt surfaces to the user just like the parent's would. It is **not only the
+`grep|while` shape** — a `for f in …; do test -f …; done` existence check, or any
+`&&`/`||` chain, trips the same `compound_statement` gate and prompts too. So when
+you spawn an agent to search, **tell it in the prompt to avoid shell control flow
+entirely:** use `rg` (piping to `xargs` for per-file follow-up), use the `Glob`/`Read`
+tools or a single `ls`/`rg` to check what exists — **no loops, no `test -f`, no
+`&&`/`||` chains.** Any loop or compound statement a search agent emits prompts the
+user, even a harmless file-existence check.
 
 **Roll dice with `python3 -c`, never `$((RANDOM))`.** Arithmetic
 expansion of a non-literal variable (`echo $(( (RANDOM % 20) + 1 ))`) is
