@@ -176,6 +176,15 @@ and destroying the material his people are made out of. His belief that
 "the world feels pain when it is hurt" ([sheet](../characters/sarric.md)) is
 fact, and the crime is closer to sterilization than to desecration.
 
+`[Will 7/29]` **And there is an older crime under the Company's.** The earth-kin are the
+region's displaced first people: at [Suartleheim Eet](the-fallen-gnome-kingdom.md) the
+Firbolgs held the land until Kalikhat's refugee gnomes took it by holy war, and the
+[La Cava handprints](../encounters/temple-sites.md) at Haals are theirs, older than the
+gnomes who live over them now. So Sarric's people are an older race replaced — driven to the
+peaks or absorbed, a remnant — and Haals is two crimes on one ground: the gnome conquest,
+then the Company. Real-world anchors: the Fir Bolg of the Irish Book of Invasions, and
+Neanderthal replacement (partial, with admixture — hence the remnant).
+
 **Does Sarric know?** Yes. His people know what they are, have a word for it,
 and raise children expecting it. It is unremarkable to him — which is the good
 version, because he can be casual about something the rest of the party finds

@@ -1,6 +1,6 @@
 # The Vision of the Future — Tomb Inscription (Player Handout)
 
-*A tomb inscription for the wandering dragonborn seer who led the gnomes to [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) and founded the kingdom that later fell — the seer who "dipt into the future." Verbatim, line breaks preserved. (See the other grave inscriptions in [handouts/](.) and the [Bedraageon grave in Maalm](../lore/maalm-founding.md).)*
+*A tomb inscription for the wandering dragonborn **prophet** who led the gnome refugees out of poisoned Kalikhat to [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) and founded the kingdom by holy conquest — the founding's Moses and Joshua at once: he "dipt into the future" and saw the promised land, then took it from the Firbolgs by the sword. His watch-stone stands over the harbour at whichever port the party makes landfall (**Aar or Aal** — only the one they choose), the first thing they find ashore, set beside the gnomes' own [lament for lost Kalikhat](into-my-heart-an-air-that-kills.md). Verbatim, line breaks preserved. (See the other grave inscriptions in [handouts/](.) and the [Bedraageon grave in Maalm](../lore/maalm-founding.md).)*
 
 *Real-world source: Alfred, Lord Tennyson, "Locksley Hall."*
 

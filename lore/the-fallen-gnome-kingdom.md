@@ -5,13 +5,30 @@
 > that is Maalm proper, next door; this corner is its **own** thing: a **gnome kingdom that
 > fell.** Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
-- **The founding — a dragonborn wanderer.** `[Will 7/29]` A wandering dragonborn seer
-  led the gnomes to Suartleheim Eet and founded the kingdom. His tomb carries
-  [The Vision of the Future](../handouts/locksley-hall-vision.md) (Tennyson's *Locksley
-  Hall*) — the seer who "dipt into the future." These are the **surface** gnomes, led
-  here overland; they are **not** the [Kalikhat gnomes who fled underground](lonka-jotunheim.md)
-  into the deep. `[OPEN]` when he led them, and whether they were Bleeding-Star refugees
-  or an older people.
+- **The founding — a prophet's conquest.** `[Will 7/29]` The gnomes came as **refugees from
+  [Kalikhat](lonka-jotunheim.md)**, its surface poisoned by the Bleeding Star, led overland by a
+  **wandering dragonborn seer** — a prophet who "dipt into the future" and saw the land they would
+  take. Suartleheim Eet was **not empty.** The **Firbolgs** held it; the gnomes took it by **holy
+  war**, the land promised them by their god and its people put to the sword — the region's founding
+  faith and its first crime at once. His **watch-stone** stands over the harbour at whichever port
+  the party lands (**Aar or Aal**), his own [Vision of the Future](../handouts/locksley-hall-vision.md)
+  cut into it (Tennyson), and beside it the gnomes'
+  [lament for lost Kalikhat](../handouts/into-my-heart-an-air-that-kills.md) (Housman) — a people
+  grieving the home they fled while standing on the home they seized.
+- **The Firbolgs were here first.** The [handprints in La Cava](../encounters/temple-sites.md) at
+  Haals are **theirs**, older than the gnomes — [Sarric's people](../characters/sarric.md), the
+  earth-kin, the older race the gnomes replaced. Survivors were driven to the cold peaks or
+  absorbed; Sarric is the remnant. Haals carries **two crimes on one ground**: the gnome conquest,
+  then the [Company's poison](../encounters/the-haals-runoff.md) — his ancestors butchered twice.
+
+> **Inspirations (real-world anchors — keep for reference).** The **Fir Bolg** of the Irish
+> *Book of Invasions* (an earlier people displaced by later waves); **Neanderthal replacement**
+> by incoming moderns (partial, with admixture — which is why remnants survive); the
+> **Maltravieso** cave hand-stencils (the oldest are Neanderthal — our La Cava prints); the
+> **conquest of Canaan (Exodus / Joshua)** — a prophet leads refugees into a promised land taken
+> by *ḥerem*. The [Copaa Lament](../handouts/copaa-lament.md) adds the **Admonitions of Ipuwer**:
+> "the **nomes** are laid waste" reads as the **gnomes** laid waste, and its "the river is blood"
+> rhymes with the Exodus plagues.
 - **A kingdom that fell.** `[settling — Will]` Suartleheim Eet was once a **gnome kingdom.**
   It is gone. What the party finds is the **aftermath** — poor towns on tired ground, a
   poisoned watershed, a people no longer their own masters.
@@ -39,10 +56,10 @@ placed in Copaa are elsewhere now:
 - **[The houses of Xibalba](../encounters/the-houses-of-xibalba.md)** are sited
   on Noku Kurunatuka, not under Copaa.
 
-What stays: the **earth-people's handprints** in the Haals dig ([temple
-sites](../encounters/temple-sites.md)) — how the fallen-gnome dead go back into
-the land, which does not depend on the region's cosmology. That cosmology is open
-again (see the open threads below).
+What stays: the **[handprints in La Cava](../encounters/temple-sites.md)** in the Haals
+dig — **the Firbolgs'**, older than the gnomes (above), left by the earth-kin who lie down
+and become the land. The gnomes who hold this ground now dug through the graves of the
+people they took it from.
 
 ## Open threads
 
@@ -51,15 +68,18 @@ again (see the open threads below).
   Decide how the **surface** gnome kingdom of Suartleheim Eet relates — unrelated kin, a surface
   branch, or one people split by the catastrophe. This is the place to settle the standing
   `[OPEN]` reconciling Suartleheim / Svartalfheim with Kalikhat as the Underdark cradle
-  ([campaign overview](campaign-overview.md)). `[Will 7/29]` The founding above sets them as a
-  **surface** line, led to Suartleheim Eet by the dragonborn wanderer — distinct from the
-  underground deep gnomes. Still `[OPEN]`: whether the two share one stock split by the Bleeding Star.
+  ([campaign overview](campaign-overview.md)). `[settled 7/29]` One **Kalikhat** stock, split by
+  the Bleeding Star: the deep gnomes fled underground, these fled overland with the prophet-founder
+  to take Suartleheim Eet from the Firbolgs (above).
 - `[OPEN]` **What felled the kingdom** — the Company and colonization, an older catastrophe, or
   both layered (the way the [Haals runoff](../encounters/the-haals-runoff.md) stacks a human
   blight on the region's baseline dryness).
 - `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
-  **Mesoamerican is ruled out** (settled 7/26); still to choose, and to keep
-  distinct from Maalm's Egyptian corner next door.
+  **Mesoamerican is ruled out** (settled 7/26). `[Will 7/29]` The founding **faith** is set: a
+  **promised-land conquest** in the Exodus/Joshua register — a god who gave the refugee gnomes
+  this land and sanctified taking it from the Firbolgs. Still `[OPEN]`: the god's name and the
+  fuller cosmology, kept distinct from Maalm's Egypt next door — though the
+  [Copaa Lament](../handouts/copaa-lament.md) borrows the Egyptian Ipuwer through the nome/gnome pun.
 
 *Companions: [nila atlas](nila-atlas.md) (the SE gazetteer), [the Haals runoff](../encounters/the-haals-runoff.md),
 [the Company](the-company.md), [the Copaa lament](../handouts/copaa-lament.md).*

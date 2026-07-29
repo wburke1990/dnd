@@ -110,10 +110,15 @@ The next year they light the fire again.
 Real site: Cueva de las Manos, a cave wall of stenciled handprints.
 
 Deep in the Company's mine at Haals, past the tailings, the digging has
-broken into a wall of handprints — thousands of them, older than the
-gnomes of Copaa. The earth-people press one hand to the rock before they
-lie down and become a hill; there is no name to leave, so they leave a
-hand. The tunnels run on through them.
+broken into a wall of handprints — **La Cava de Los Manos** — thousands of
+them, older than the gnomes of Copaa. They are the **Firbolgs'**
+([Sarric's people](../characters/sarric.md)): the earth-kin press one hand
+to the rock before they lie down and become a hill; there is no name to
+leave, so they leave a hand. The Firbolgs held this land before Kalikhat's
+refugee gnomes took it by holy war ([the fallen gnome
+kingdom](../lore/the-fallen-gnome-kingdom.md)) — so the tunnels run through
+the graves of the people the gnomes displaced, and now the Company digs
+them again.
 
 Sleep the night in the mine and the ground hands over a stranger's
 afternoon — a floodplain, a day's work, no name to it (see
