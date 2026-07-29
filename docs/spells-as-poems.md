@@ -19,6 +19,41 @@ real-world attribution.
   what waits before the party has seen it.
 - **Verse count maps to casters.** *Wynken* is four verses; four people read
   one each. Match the split to the poem's stanzas.
+- **Prefer ritual or long-casting spells.** The recited poem only fits a
+  spell that is already cast slowly. *Dream of the Blue Veil* is a 10-minute
+  cast — that is why Session 8 worked. Action-cast combat spells fight the
+  device. See below.
+
+## Cast slowly?
+
+The filter for this device: a **ritual**, or a casting time of a **minute or
+more.**
+
+**Slow or ritual as written — use as-is:**
+- Water Breathing — 1 action but **ritual** — *Full fathom five* `[now]`
+- Augury — 1 min, **ritual** — *The Raven*
+- Divination — **ritual**
+- Commune / Contact Other Plane — 1 min, **ritual** — for the death-road; *The Second Coming* (or Foresight, 1 min)
+- Control Weather — 10 min — *The Cloud* (see note)
+- Magnificent Mansion — 1 min — *Kubla Khan* (Hallucinatory Terrain — 10 min — same poem)
+- Conjure Elemental (the kraken) — 1 min — *The Kraken* `[now]`
+- Raise Dead / Resurrection — 1 hour — *Do not go gentle*
+- Ceremony — 1 hr, **ritual** (a blessing) — *Pied Beauty*
+- Forbiddance — 10 min, **ritual** (a warded sanctuary) — Psalm 91
+- Gentle Repose / Leomund's Tiny Hut — **ritual** (preserve a body / a safe camp)
+
+**Fast as mapped — swap to the slow cousin:**
+- Hidden path → **Find the Path** (1 min), not Pass Without Trace (1 action) — *The Way Through the Woods*
+- Enthralling charm → **Geas** (1 min) or **Antipathy/Sympathy** (1 hr), not Charm Person — *La Belle Dame sans Merci*
+- Speak with Dead is 1 action; for the same tone use Commune / Contact Other Plane above — *Because I could not stop for Death*
+
+**Inherently fast — skip for this device (combat spells):** Call Lightning,
+Gust of Wind, Fireball, Darkness, Fly, Levitate, Polymorph, Sleep, Hypnotic
+Pattern, Command, Heroism, Bestow Curse, Blight, Contagion, Revivify.
+
+> **Control Weather is a 10-minute cast**, so it sets the weather *before* a
+> fight, not during it. For the next voyage's storm, the caster raises it as
+> the sky turns, not as a reaction when the pirates are already on them.
 
 ## Candidates
 
