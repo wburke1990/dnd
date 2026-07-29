@@ -118,7 +118,9 @@ leave, so they leave a hand. The Firbolgs held this land before Kalikhat's
 refugee gnomes took it by holy war ([the fallen gnome
 kingdom](../lore/the-fallen-gnome-kingdom.md)) — so the tunnels run through
 the graves of the people the gnomes displaced, and now the Company digs
-them again.
+them again. Cutting here wakes the ancient terror that felled the gnome
+kingdom; the poison downstream at Copaa is the earth-kin dead stirring
+(see [the runoff §2](the-haals-runoff.md)).
 
 Sleep the night in the mine and the ground hands over a stranger's
 afternoon — a floodplain, a day's work, no name to it (see

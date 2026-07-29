@@ -32,13 +32,20 @@
 > rhymes with the Exodus plagues. The peaceful counterpart across Suartleheim is
 > [Weet](../handouts/the-ruin.md): the **Dorians among the Mycenaean ruins**, dwarves inheriting
 > the giants' emptied halls — inheritance where Eet is conquest.
-- **A kingdom that fell.** `[settling — Will]` Suartleheim Eet was once a **gnome kingdom.**
-  It is gone. What the party finds is the **aftermath** — poor towns on tired ground, a
-  poisoned watershed, a people no longer their own masters.
-- **Raand — the remnant.** `[settling]` The **artisan gnomes at [Raand](nila-atlas.md)** are the
-  **surviving heirs** of that kingdom: a skilled people reduced to a single trade village, half
-  cut off by the currents, running its goods overland to Haagen. What was a kingdom is one
-  village of craftsmen.
+- **A kingdom that fell.** `[Will 7/29]` The gnome kingdom rose after the conquest and, at its
+  height, **dug too deep at Haals and woke the ancient terror** — the land turned on it, and it
+  fell. That was the **distant past.** A **middle civilization** `[OPEN — who]` then rose over the
+  broken region, held it through the long middle age (and kept the Haals taboo), and in turn
+  **fell to the [Company](the-company.md) in the colonial age** — the Bengal beat: a trading power
+  that made itself the ruler, owned the magistrates, and bled the land dry (the
+  [East India Company](the-company.md)). And the [Company's mine is that first fall replayed
+  now](../encounters/the-haals-runoff.md). So the party finds **aftermath on aftermath** — poor
+  towns on tired ground, a poisoned watershed, a people no longer their own masters.
+- **Raand — the remnant.** `[Will 7/29]` The **artisan gnomes at [Raand](nila-atlas.md)** are the
+  **one gnome city that survived the whole timeline** — through their own kingdom's fall, the
+  middle civilization, and into the Company's age: the surviving heirs, reduced to a single trade
+  village, half cut off by the currents, running goods overland to Haagen. What was a kingdom is
+  one village of craftsmen.
 - **Copaa — where the fall still shows.** The [Company's mine runoff at Haals](../encounters/the-haals-runoff.md)
   poisons **[Copaa](nila-atlas.md)'s** river and fields, and its people are driven out — the
   [lepers in the tombs](../encounters/valley-of-the-kings.md). The [Copaa lament](../handouts/copaa-lament.md)
@@ -74,9 +81,11 @@ people they took it from.
   ([campaign overview](campaign-overview.md)). `[settled 7/29]` One **Kalikhat** stock, split by
   the Bleeding Star: the deep gnomes fled underground, these fled overland with the prophet-founder
   to take Suartleheim Eet from the Firbolgs (above).
-- `[OPEN]` **What felled the kingdom** — the Company and colonization, an older catastrophe, or
-  both layered (the way the [Haals runoff](../encounters/the-haals-runoff.md) stacks a human
-  blight on the region's baseline dryness).
+- `[settled 7/29]` **What felled the kingdom:** the gnomes **dug too deep at Haals and woke the
+  ancient terror** ([the runoff §2](../encounters/the-haals-runoff.md)); a **middle civilization**
+  rose over the ruin and later **fell to the Company** (the Bengal/colonial beat); the Company's
+  mine is that first fall replayed. Still `[OPEN]`: the **middle civilization's identity**, and
+  exactly **what the terror is**.
 - `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
   **Mesoamerican is ruled out** (settled 7/26). `[Will 7/29]` The founding **faith** is set: a
   **promised-land conquest** in the Exodus/Joshua register — a god who gave the refugee gnomes

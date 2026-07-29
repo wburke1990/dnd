@@ -59,6 +59,20 @@ dwarves never worked (see [the Company §3](../lore/the-company.md)).
   did — enough that the **acute** harm to *people* has faded, leaving a **chronic
   environmental** wound: dead soil, bad water, a grassland that used to be farmland.
   (This is the hook for the **leprosy** link, now canon — see §4.)
+- 🔒 **What the digging is really doing.** `[Will 7/29]` The **untapped eastern ore the
+  natives never worked** was not a lapse — it was a **taboo.** The mountain at Haals is the
+  **[Firbolg dead](../lore/lineages-and-afterlives.md)** (the earth-kin become the land; the
+  [La Cava handprints](temple-sites.md) are theirs), and cutting into it wakes what sleeps
+  there. The **[gnome kingdom fell the same way](../lore/the-fallen-gnome-kingdom.md)** in the
+  distant past — it dug too deep and roused the terror, and the land turned on it. The
+  **Company's mine is that fall replayed:** the poison in Copaa's water is the terror
+  **stirring again,** the earth-kin dead answering the desecration of their graves. Every
+  people between then and now kept the taboo; the Company, ignorant and greedy, breaks it.
+  Play the poison as the **first sign** — let the party read the gnomes' fall as the warning,
+  and grasp that if the mine keeps cutting, what took the kingdom comes back in full.
+  Real-world anchor: **Potosí** (Cerro Rico, "the mountain that eats men"). `[OPEN]` exactly
+  what the terror is — the massed Firbolg dead, a **buried giant** (the mountain is a dead
+  giant, Ymir), or the deep [badgermole](../lore/the-southern-land.md) dark.
 
 ---
 
