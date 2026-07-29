@@ -206,6 +206,15 @@ files, `rg -t lua …` filters by type, `rg --files -g '*.lua'` replaces
 `find -name`. Only when you genuinely need filesystem predicates
 (`-mtime`, `-size`) is `find` right — then pipe to `xargs`, don't `-exec`.
 
+**This applies to search *subagents* too — they are the usual culprit.** An
+`Explore`/`general-purpose` agent left to its own devices will often reach for
+a raw `grep … | while read f; do … done` loop, and that compound statement
+prompts on mobile *regardless* of the allowlist (the pipe-into-`while`-`do`-`done`
+shape can't be statically vetted — same bucket as heredocs). The subagent's
+prompt surfaces to the user just like the parent's would. So when you spawn an
+agent to search, **tell it in the prompt to use `rg` (piping to `xargs` when it
+needs per-file follow-up), never `grep`/`find` inside a shell loop.**
+
 **Roll dice with `python3 -c`, never `$((RANDOM))`.** Arithmetic
 expansion of a non-literal variable (`echo $(( (RANDOM % 20) + 1 ))`) is
 a construct the permission analyzer can't statically vet — same bucket as
