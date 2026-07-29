@@ -105,6 +105,44 @@ The river of stars and the Hall of Two Truths are for mortal souls. A demon is n
 
 ---
 
+## Literary Parallel — Ariel (DM inspiration, not a handout)
+
+*Not for player hands — a voice to draw on for a scene with Manizheh, or when
+she returns. In* The Tempest*, Ariel is a spirit freed from one captor's tree
+only to serve the magician who freed him, held in line by the threat of being
+sealed away again, and made to submit. That is the shape of Manizheh: her name
+taken by the Second Foundation, the merchant "freeing" her into his own binding,
+and Preem's claim always ready to pull her back.*
+
+*Real-world source: William Shakespeare, "The Tempest" (c. 1610), Act 1, Scene 2.*
+
+```
+ARIEL.   Is there more toil? Since thou dost give me pains,
+         Let me remember thee what thou hast promised,
+         Which is not yet perform'd me.
+PROSPERO.                              How now? moody?
+         What is't thou canst demand?
+ARIEL.                                My liberty.
+PROSPERO. Before the time be out? No more!
+   ...
+         [Sycorax] did confine thee,
+         By help of her more potent ministers,
+         And in her most unmitigable rage,
+         Into a cloven pine; within which rift
+         Imprison'd thou didst painfully remain
+         A dozen years; ...
+         It was mine art,
+         When I arrived and heard thee, that made gape
+         The pine, and let thee out.
+ARIEL.   I thank thee, master.
+PROSPERO. If thou more murmur'st, I will rend an oak
+         And peg thee in his knotty entrails till
+         Thou hast howl'd away twelve winters.
+ARIEL.   Pardon, master;
+         I will be correspondent to command,
+         And do my spiriting gently.
+```
+
 ## Key Detail for the Table
 
 She never speaks and never appears in the dream. Everything in the Hall of Two Truths is about her. Osiris knows what she would have chosen. He does not say.
