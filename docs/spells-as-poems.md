@@ -116,10 +116,12 @@ the sea voyage out of Maalm and the Egyptian death-road.
   fits a hag.
 - **Blight / Contagion** — "The Sick Rose" (William Blake, 1757–1827). An
   invisible worm destroying a life from within.
-- **Revivify / Raise Dead** — "Do not go gentle into that good night" (Dylan
-  Thomas, 1914–1953), saved at
+- **Raise Dead / Resurrection** — "Do not go gentle into that good night"
+  (Dylan Thomas, 1914–1953), saved at
   [handouts/do-not-go-gentle.md](../handouts/do-not-go-gentle.md). A refusal of
-  death, spoken to a dying father.
+  death, spoken to a dying father. `[settled]` Assign it to whichever
+  return-from-death spell surfaces first — Raise Dead or Resurrection, both
+  1-hour casts that suit a recited rite; not Revivify (1 action, too fast).
 
 ### Transmutation
 
@@ -139,11 +141,12 @@ the sea voyage out of Maalm and the Egyptian death-road.
   delight. Reciting the Pebble is the binding — the free-or-own choice the
   campaign's true-name thread turns on, and the rehearsal for the
   volcano-demon's name. `[names]`
-- **Forbiddance / a warded sanctuary** — Psalm 91, saved at
+- **Forbiddance / a warded sanctuary** — Psalm 91 (KJV), saved at
   [handouts/psalm-91.md](../handouts/psalm-91.md). Refuge and fortress, shield
-  and rampart; the terror of night and the arrow by day pass over; angels set
-  to guard the ground. (Forbiddance is 10 min, ritual — see above; Sanctuary
-  itself is a bonus action and too fast for the device.)
+  and buckler; the terror by night and the arrow by day pass over; angels set
+  to guard the ground; "tread upon the lion and adder… the dragon shalt thou
+  trample." (Forbiddance is 10 min, ritual — see above; Sanctuary itself is a
+  bonus action and too fast for the device.)
 - **Bless / Guidance** — "Pied Beauty" (Gerard Manley Hopkins, 1844–1889). "Glory
   be to God for dappled things" — a spoken blessing.
 

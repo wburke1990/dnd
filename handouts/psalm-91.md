@@ -1,49 +1,41 @@
 # Psalm 91 — (Player Handout)
 
-*A saved scripture for the campaign. Candidate incantation for **Forbiddance** — a warded sanctuary — see [docs/spells-as-poems.md](../docs/spells-as-poems.md). The images are the ward: refuge and fortress, shield and rampart, the terror of night and the arrow by day passing over, angels set to guard the ground. Line 13's "tread on the lion and the cobra… trample the great lion and the serpent" rhymes with the Gate One serpent and Ammit ([the Dream Quest](../encounters/the-dream-quest.md)); "he acknowledges my name" touches the names thread — protection through a name, the inverse of binding by one. Verbatim, verse numbers and line breaks preserved; footnote markers trimmed.*
+*A saved scripture for the campaign. Candidate incantation for **Forbiddance** — a warded sanctuary — see [docs/spells-as-poems.md](../docs/spells-as-poems.md). The images are the ward: refuge and fortress, shield and buckler, the terror by night and the arrow by day passing over, angels set to guard the ground. Verse 13's "tread upon the lion and adder: the young lion and the dragon shalt thou trample" rhymes with the Gate One serpent and Ammit ([the Dream Quest](../encounters/the-dream-quest.md)); "he hath known my name" touches the names thread — protection through a name, the inverse of binding by one. Verbatim (King James Version); line breaks set for reading.*
 
-*Real-world source: Psalm 91, "Whoever dwells in the shelter of the Most High" (New International Version).*
+*Real-world source: Psalm 91, "He that dwelleth in the secret place of the most High" (King James Version).*
 
 ---
 
 ```
-1 Whoever dwells in the shelter of the Most High
-    will rest in the shadow of the Almighty.
-2 I will say of the Lord, "He is my refuge and my fortress,
-    my God, in whom I trust."
-
-3 Surely he will save you
-    from the fowler's snare
-    and from the deadly pestilence.
-4 He will cover you with his feathers,
-    and under his wings you will find refuge;
-    his faithfulness will be your shield and rampart.
-5 You will not fear the terror of night,
-    nor the arrow that flies by day,
-6 nor the pestilence that stalks in the darkness,
-    nor the plague that destroys at midday.
-7 A thousand may fall at your side,
-    ten thousand at your right hand,
-    but it will not come near you.
-8 You will only observe with your eyes
-    and see the punishment of the wicked.
-
-9 If you say, "The Lord is my refuge,"
-    and you make the Most High your dwelling,
-10 no harm will overtake you,
-    no disaster will come near your tent.
-11 For he will command his angels concerning you
-    to guard you in all your ways;
-12 they will lift you up in their hands,
-    so that you will not strike your foot against a stone.
-13 You will tread on the lion and the cobra;
-    you will trample the great lion and the serpent.
-
-14 "Because he loves me," says the Lord, "I will rescue him;
-    I will protect him, for he acknowledges my name.
-15 He will call on me, and I will answer him;
-    I will be with him in trouble,
-    I will deliver him and honor him.
-16 With long life I will satisfy him
-    and show him my salvation."
+1  He that dwelleth in the secret place of the most High
+     shall abide under the shadow of the Almighty.
+2  I will say of the LORD, He is my refuge and my fortress:
+     my God; in him will I trust.
+3  Surely he shall deliver thee from the snare of the fowler,
+     and from the noisome pestilence.
+4  He shall cover thee with his feathers, and under his wings
+     shalt thou trust: his truth shall be thy shield and buckler.
+5  Thou shalt not be afraid for the terror by night;
+     nor for the arrow that flieth by day;
+6  Nor for the pestilence that walketh in darkness;
+     nor for the destruction that wasteth at noonday.
+7  A thousand shall fall at thy side, and ten thousand at thy right hand;
+     but it shall not come nigh thee.
+8  Only with thine eyes shalt thou behold
+     and see the reward of the wicked.
+9  Because thou hast made the LORD, which is my refuge,
+     even the most High, thy habitation;
+10 There shall no evil befall thee,
+     neither shall any plague come nigh thy dwelling.
+11 For he shall give his angels charge over thee,
+     to keep thee in all thy ways.
+12 They shall bear thee up in their hands,
+     lest thou dash thy foot against a stone.
+13 Thou shalt tread upon the lion and adder:
+     the young lion and the dragon shalt thou trample under feet.
+14 Because he hath set his love upon me, therefore will I deliver him:
+     I will set him on high, because he hath known my name.
+15 He shall call upon me, and I will answer him;
+     I will be with him in trouble; I will deliver him, and honour him.
+16 With long life will I satisfy him, and shew him my salvation.
 ```
