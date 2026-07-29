@@ -15,12 +15,15 @@
 
 - Picking up from [Session 7](session-07.md), the party went to the
   **al Qahtani mansion** ([the children](../characters/the-children.md)) and
-  were received by **Muntadhir** and **Ali**. **Ali's full name was given
-  here.**
+  were received by **Muntadhir** and **Ali** — whose full name, **Alizayd**,
+  was given here.
 - **Muntadhir walked them through the house** — the tour as built. They
   **learned the rite is cast with the *Dream of the Blue Veil* spell**, cast
   it, and **fell into the dream.** They woke on the boat on the river of
   stars.
+- **Ali warned them, on her father's behalf:** **not to pass beyond the blue
+  veil into the land of the dead**, and that **any wound taken in the dream
+  would be a real wound when they woke.**
 
 ## The dream — Gate One, the serpent
 
@@ -88,12 +91,21 @@ The dream stopped here. **Next session picks up at Gate Five.**
   Thoth greeted the two of them by name.** Per the prep, **Anubis notes those
   characters with particular attention** in the Hall — keep the thread live
   through the judgment next session.
-- **Ali received them with Muntadhir, and her full name was established this
-  session** — record it on [the children](../characters/the-children.md) (the
-  prep left the given name to the table: Alizayd "Ali" or Zaynab). The house
-  beats that lean on her — the Jasper "do you dream" question and the "Did he —
-  was it —" beat at waking — are still hers; the **Jasper question may not have
+- **Ali received them with Muntadhir; her name was settled as Alizayd** ("Ali")
+  — recorded on [the children](../characters/the-children.md). The house beats
+  that lean on her — the Jasper "do you dream" question and the "Did he — was it
+  —" beat at waking — are still hers; the **Jasper question may not have
   surfaced yet**, so hold it for waking or drop it.
+- **The wound rule, as played:** Ali warned that **a wound in the dream is a
+  real wound on waking**, and to **turn back at the blue veil.** The prep's
+  built rule is that taking damage **ends the spell and the sleeper wakes**,
+  regaining consciousness with no wound
+  ([the Dream Quest](../encounters/the-dream-quest.md#overview)), and it keeps
+  the father's two sayings opaque. The table made the sayings explicit and made
+  wounds **carry.** Nobody took damage this session (Pax passed his Gate Two
+  save), so it wasn't tested — but **Gate Six (the fire) runs on it** next
+  session. `[OPEN]` whether to update the encounter's damage rule to match the
+  table.
 
 ---
 
@@ -111,7 +123,10 @@ The dream stopped here. **Next session picks up at Gate Five.**
       sheet.
 - [ ] **Gate One flags** — Sarric and Jasper drew the serpent's attention; land
       it at Anubis in the Hall.
-- [ ] **Record Ali's full name** (given this session) on
+- [x] **Ali's full name** — settled as **Alizayd** ("Ali"), recorded on
       [the children](../characters/the-children.md).
+- [ ] **Reconcile the wound rule** — the table has wounds carrying as real on
+      waking; the prep has damage waking the sleeper with no wound. Settle it
+      before **Gate Six** next session.
 - [ ] Carried from [Session 7](session-07.md): the **docks at 9 AM**, and
       **Sarric's owed potion** (the 50 gp he pocketed).
