@@ -20,8 +20,13 @@
 - **The giants were once a northern people.** `[settling — Will]` They did not begin off the
   south edge. They held ground **farther north** — up into what is now the dwarves' country of
   [Suartleheim](nila-atlas.md) — and **withdrew south** through the mountains to their present
-  land and the sealed tunnels above. `[OPEN]` why they went (the closing of the tunnels may be
-  the same event).
+  land and the sealed tunnels above. `[settled — Will 7/29]` **Why they went: land exhaustion** —
+  the earth-people spent the northern ground and moved on, **long before the first comet pass or
+  the founding of Egypt,** driven by no conqueror. So the north lay empty for those who came after:
+  the dragon-borne [Egyptians](amseh-dynasty.md) were given vacated land as a gift, the dwarves
+  inherited the empty [giant-halls](../handouts/the-ruin.md), and only the **Firbolg remnant who
+  stayed behind** were there to be conquered — by the gnomes, much later, in
+  [Eet](the-fallen-gnome-kingdom.md). `[OPEN]` whether the closing of the tunnels was the same event.
 - **The work of giants.** `[settling]` What they left behind is **great stonework standing
   empty** in the dwarves' reach — halls built too big for the people who live among them now.
   This is the home of the Old English **"[The Ruin](../handouts/the-ruin.md)"**: a **bard's lay

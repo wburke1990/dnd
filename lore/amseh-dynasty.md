@@ -38,6 +38,8 @@ The empire fell and Ammit rose **~4,960 years ago**. The Dark Age that followed 
 
 **Duration:** Approximately 590 years across four reigns, plus earlier kings who preceded the dynasty but lacked the resources for elaborate tombs.
 
+**Origin — carried here on dragonback.** `[Will 7/29]` The first Egyptians did not sail — they were **carried from [Lonka](lonka-jotunheim.md) on dragonback** in the first age, before the dragonborn took to boats ([timeline §I](world-history-timeline.md): the earliest colonists came by literal dragons, only later by dragonborn hull). Their gods — **Osiris, Anubis, and the rest** — gave them this land, and the founding faith holds it a **divine gift, a promised land granted rather than taken.** The ground was empty to receive them: the [giants](the-southern-land.md) who once held the north had already withdrawn south, so no one was displaced. This is the innocent counterpart to [Suartleheim Eet's](the-fallen-gnome-kingdom.md) founding next door — the gnomes **took** their promised land from the Firbolgs by holy war; Egypt was **given** an empty one.
+
 ---
 
 # THE VALLEY OF THE KINGS
