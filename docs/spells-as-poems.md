@@ -117,7 +117,9 @@ the sea voyage out of Maalm and the Egyptian death-road.
 - **Blight / Contagion** — "The Sick Rose" (William Blake, 1757–1827). An
   invisible worm destroying a life from within.
 - **Revivify / Raise Dead** — "Do not go gentle into that good night" (Dylan
-  Thomas, 1914–1953). A refusal of death.
+  Thomas, 1914–1953), saved at
+  [handouts/do-not-go-gentle.md](../handouts/do-not-go-gentle.md). A refusal of
+  death, spoken to a dying father.
 
 ### Transmutation
 
@@ -131,6 +133,12 @@ the sea voyage out of Maalm and the Egyptian death-road.
 
 ### Abjuration
 
+- **Planar Binding** — "The Clod and the Pebble" (William Blake, 1757–1827),
+  saved at [handouts/the-clod-and-the-pebble.md](../handouts/the-clod-and-the-pebble.md).
+  Two stanzas, two loves: the Clod frees, the Pebble binds another to its
+  delight. Reciting the Pebble is the binding — the free-or-own choice the
+  campaign's true-name thread turns on, and the rehearsal for the
+  volcano-demon's name. `[names]`
 - **Sanctuary / Shield / Protection** — Psalm 91 (KJV). "His truth shall be
   thy shield and buckler."
 - **Bless / Guidance** — "Pied Beauty" (Gerard Manley Hopkins, 1844–1889). "Glory
