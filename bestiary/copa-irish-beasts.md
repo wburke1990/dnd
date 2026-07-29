@@ -346,7 +346,7 @@ for, or driven under and left, not fought on the shore.
 
 ## Placed, not rolled
 
-Four the DM sites rather than rolls, each tied to what Copaa already carries.
+Six the DM sites rather than rolls, each tied to what Copaa already carries.
 
 **Balor of the Death-Eye — the buried giant under Haals.** The
 [giant the gnomes woke by digging too deep](../lore/the-fallen-gnome-kingdom.md)
@@ -414,6 +414,46 @@ Place it as a parley and a choice, not a fight. `[OPEN]` whether the bell that
 frees them is a faith already in the world (Maalm's Egypt next door) or one the
 party's own age brings — and whether the swans' song and the
 [Copaa lament](../handouts/copaa-lament.md) are the same grief on the water.
+
+The last two are people who went into the hill and came out to a changed world.
+The time in the mound does not fall on the party — it fell on them, and the party
+meets what it did.
+
+**The Returner and the Stone — the broken stirrup.** A rider comes down the Aar
+road on a fine horse, dressed in a fashion no one has worn in an age, asking
+after people and a kingdom hundreds of years gone. He went under the hill — or
+over the sea to the Land of Youth — with a woman of the mound, for what he counts
+as a short while, and he is coming home to a home that fell before the
+[Mughals](../lore/the-fallen-gnome-kingdom.md) came. He was told one thing: do
+not set foot on this ground, or the years you skipped find you at once. On the
+road he comes on men straining to shift a great stone they cannot move — clearing
+the road, or a fallen [Firbolg standing-stone](../lore/the-fallen-gnome-kingdom.md)
+— and, still in the saddle, he leans down to lift it for them, because the men of
+his day would have done it one-handed. The stirrup-leather breaks. He falls, and
+the moment he touches the earth every year he was away lands on him in a breath:
+a withered ancient, then dust, and the horse bolts back the way it came. **The
+party's moment is before he touches ground.** Move the stone for him so he never
+reaches down, catch him as the leather goes (STR/Athletics or DEX), or keep him
+talking from the saddle — he is a witness who names what the region was, and what
+he says is true where the maps are blank. The telling keeps its ending: touch the
+ground and he ages. What the party changes is what they learn from him, and
+whether he dies a stranger or with his questions answered.
+
+**The Piper out of the Mound.** The [Company's digging](../encounters/the-haals-runoff.md),
+or a collapse, opens a mound, and a piper walks out of it mid-tune — fine-dressed,
+a master, expecting the feast and the company he left a night ago. Hundreds of
+years have passed. He does not know. He plays the music of the
+[fallen kingdom](../lore/the-fallen-gnome-kingdom.md), the tunes the little people
+still trade under the hill (*The Little People*, above), and he is the best hand
+anyone in Copaa has heard. He asks after people long dead and a hall long gone.
+**The choice is whether to tell him.** Play alongside him and he takes the
+measure of the party by their hands (**Performance**; a hard audience, and a
+generous teacher of anyone who can keep up). Made to understand how long he was
+under, he goes the way of the returner on the road — the years find him and he
+ages where he stands — or he turns and walks back into the mound and is not seen
+again. Left in his mistake, he is a man out of the old kingdom still walking,
+until something breaks it. He and the swans (*The Children of Lir*, above) tell
+the same history from two mouths.
 
 ---
 
