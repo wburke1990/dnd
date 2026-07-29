@@ -208,6 +208,13 @@ Jasper is Earth Genasi, but his sheet says the rock is superficial: *"a
 descendant of humanoids"* with *"a soul, organs, a heart"*
 ([sheet](../characters/jasper.md)). So he is **dragon-people.**
 
+`[Will 7/29]` This squares with where earth genasi come from: they are a **Bad-Pass
+mutation** of the Muspel folk, who were dragon-people ([the mutation](the-muspel-empire.md)
+§2). The stone is what the comet-sickness did to the body; the lineage under it never
+changed — so "the rock is superficial" is the plain fact of it. `[OPEN]` whether Jasper's
+own line runs back to Musleheim or the change recurred elsewhere; his sheet doesn't say,
+and it stays his to keep open.
+
 The reveal: the eco-warrior who *looks* most like living stone, standing beside
 friends who will dissolve into the land (Sarric) or choose it (Pax), is the
 **one who gets hauled up to the sky to be judged** — cut off from them at the

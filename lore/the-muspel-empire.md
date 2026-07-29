@@ -88,8 +88,14 @@ It transformed the empire's *own people:*
 - **Orcs** where the change bit deepest — near the impact, in the heart of Musleheim.
 - **Half-orcs** at the margins, where the sickness ran thinner and the change took
   only halfway.
+- **Earth genasi** `[Will 7/29]` where it worked on the body a different way — the flesh
+  turning to stone instead of to the orc. The stone is only skin-deep: underneath they stay
+  the dragon-people the Muspel folk always were, which is why
+  [Jasper's rock is superficial](lineages-and-afterlives.md) (§7).
+- **Worse things** the same sickness threw up out in the poisoned waste — the blighted beasts
+  of [Musleheim](musleheim.md) (aboleths, blights, bullywugs).
 
-The mutation is **geographic**: the closer to the landing, the heavier the change.
+For orc and half-orc the mutation is **geographic**: the closer to the landing, the heavier the change.
 A few hundred years passed while the new peoples settled into themselves; by **~700
 years ago the orcs and half-orcs had fully emerged** as distinct peoples — and the
 empire, reborn in their image, turned outward.
