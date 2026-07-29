@@ -15,8 +15,8 @@
 
 - Picking up from [Session 7](session-07.md), the party went to the
   **al Qahtani mansion** ([the children](../characters/the-children.md)) and
-  were met by **Muntadhir** and **an aide of Ali's** — Ali herself did not
-  receive them in person.
+  were received by **Muntadhir** and **Ali**. **Ali's full name was given
+  here.**
 - **Muntadhir walked them through the house** — the tour as built. They
   **learned the rite is cast with the *Dream of the Blue Veil* spell**, cast
   it, and **fell into the dream.** They woke on the boat on the river of
@@ -88,12 +88,12 @@ The dream stopped here. **Next session picks up at Gate Five.**
   Thoth greeted the two of them by name.** Per the prep, **Anubis notes those
   characters with particular attention** in the Hall — keep the thread live
   through the judgment next session.
-- **Ali did not appear in person — an aide stood in for her.** The house scene
-  as built leans on **Ali**: the Jasper question, her coming apart on home
-  ground, and the "Did he — was it —" beat at waking are all hers. `[OPEN]`
-  reconcile who carries those beats now that the party met **Muntadhir and an
-  aide** instead. The **Jasper "do you dream" question** may not have surfaced
-  yet — hold it for the house on waking, or drop it.
+- **Ali received them with Muntadhir, and her full name was established this
+  session** — record it on [the children](../characters/the-children.md) (the
+  prep left the given name to the table: Alizayd "Ali" or Zaynab). The house
+  beats that lean on her — the Jasper "do you dream" question and the "Did he —
+  was it —" beat at waking — are still hers; the **Jasper question may not have
+  surfaced yet**, so hold it for waking or drop it.
 
 ---
 
@@ -111,7 +111,7 @@ The dream stopped here. **Next session picks up at Gate Five.**
       sheet.
 - [ ] **Gate One flags** — Sarric and Jasper drew the serpent's attention; land
       it at Anubis in the Hall.
-- [ ] **Ali's absence** — decide whether she appears for the waking, and who
-      carries her beats if not.
+- [ ] **Record Ali's full name** (given this session) on
+      [the children](../characters/the-children.md).
 - [ ] Carried from [Session 7](session-07.md): the **docks at 9 AM**, and
       **Sarric's owed potion** (the 50 gp he pocketed).
