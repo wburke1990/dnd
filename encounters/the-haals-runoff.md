@@ -70,9 +70,12 @@ dwarves never worked (see [the Company §3](../lore/the-company.md)).
   people between then and now kept the taboo; the Company, ignorant and greedy, breaks it.
   Play the poison as the **first sign** — let the party read the gnomes' fall as the warning,
   and grasp that if the mine keeps cutting, what took the kingdom comes back in full.
-  Real-world anchor: **Potosí** (Cerro Rico, "the mountain that eats men"). `[OPEN]` exactly
-  what the terror is — the massed Firbolg dead, a **buried giant** (the mountain is a dead
-  giant, Ymir), or the deep [badgermole](../lore/the-southern-land.md) dark.
+  Real-world anchor: **Potosí** (Cerro Rico, "the mountain that eats men"). `[settled — Will
+  7/29]` **The terror is a buried giant:** the Haals mountain is a **dead giant** (the earth-kin
+  become mountains, Ymir), the mine cuts into its body, and the dig rouses it — which makes
+  [Sarric's](../characters/sarric.md) "the world feels pain when it is hurt" the literal thing
+  the party is about to wake. Deliberately **not** a Balrog: the "delved too deep" beat inverted —
+  the terror is the mountain itself and the earth-kin dead, not an alien demon in the dark.
 
 ---
 

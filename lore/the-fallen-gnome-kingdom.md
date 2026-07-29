@@ -33,14 +33,22 @@
 > [Weet](../handouts/the-ruin.md): the **Dorians among the Mycenaean ruins**, dwarves inheriting
 > the giants' emptied halls — inheritance where Eet is conquest.
 - **A kingdom that fell.** `[Will 7/29]` The gnome kingdom rose after the conquest and, at its
-  height, **dug too deep at Haals and woke the ancient terror** — the land turned on it, and it
-  fell. That was the **distant past.** A **middle civilization** `[OPEN — who]` then rose over the
-  broken region, held it through the long middle age (and kept the Haals taboo), and in turn
-  **fell to the [Company](the-company.md) in the colonial age** — the Bengal beat: a trading power
-  that made itself the ruler, owned the magistrates, and bled the land dry (the
+  height, **dug too deep at Haals and woke a buried giant** — the land turned on it, and it fell.
+  That was the **distant past.** A **Mughal-analog empire** then rose over the broken region,
+  held it through the long middle age (and kept the Haals taboo), and in turn **fell to the
+  [Company](the-company.md) in the colonial age** — the Bengal beat: a trading power that made
+  itself the ruler, owned the magistrates, and bled the land dry (the
   [East India Company](the-company.md)). And the [Company's mine is that first fall replayed
   now](../encounters/the-haals-runoff.md). So the party finds **aftermath on aftermath** — poor
   towns on tired ground, a poisoned watershed, a people no longer their own masters.
+- **The middle empire — a Mughal-analog.** `[Will 7/29]` The power that rose over the fallen
+  gnome kingdom and held Eet through the long middle age: a **Mughal-analog** of Persianate/Indian
+  splendour — courts, gardens, artisans — that kept the Haals taboo and left the region its
+  architecture and craft, now run to ruin. The **[Company](the-company.md) hollowed it out** in
+  the Bengal beat: puppet rulers, extraction, famine, and the poor Company towns of the present.
+  The gnomes of **[Raand](nila-atlas.md)** kept their craft through it as a protected artisan
+  caste. `[OPEN]` its name, gods, and its own name for the realm (the Norse "Suartleheim" is an
+  outsiders' exonym, not the empire's own); wants a writeup of its own.
 - **Raand — the remnant.** `[Will 7/29]` The **artisan gnomes at [Raand](nila-atlas.md)** are the
   **one gnome city that survived the whole timeline** — through their own kingdom's fall, the
   middle civilization, and into the Company's age: the surviving heirs, reduced to a single trade
@@ -81,11 +89,11 @@ people they took it from.
   ([campaign overview](campaign-overview.md)). `[settled 7/29]` One **Kalikhat** stock, split by
   the Bleeding Star: the deep gnomes fled underground, these fled overland with the prophet-founder
   to take Suartleheim Eet from the Firbolgs (above).
-- `[settled 7/29]` **What felled the kingdom:** the gnomes **dug too deep at Haals and woke the
-  ancient terror** ([the runoff §2](../encounters/the-haals-runoff.md)); a **middle civilization**
-  rose over the ruin and later **fell to the Company** (the Bengal/colonial beat); the Company's
-  mine is that first fall replayed. Still `[OPEN]`: the **middle civilization's identity**, and
-  exactly **what the terror is**.
+- `[settled 7/29]` **What felled the kingdom:** the gnomes **dug too deep at Haals and woke a
+  [buried giant](../encounters/the-haals-runoff.md)** (the mountain is a dead giant); a
+  **Mughal-analog empire** rose over the ruin and later **fell to the Company** (the Bengal/colonial
+  beat); the Company's mine is that first fall replayed. `[OPEN]` only the Mughal-analog's name and
+  writeup.
 - `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
   **Mesoamerican is ruled out** (settled 7/26). `[Will 7/29]` The founding **faith** is set: a
   **promised-land conquest** in the Exodus/Joshua register — a god who gave the refugee gnomes
