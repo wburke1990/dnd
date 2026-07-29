@@ -359,6 +359,31 @@ high-level set-piece: the eye is met shut, and the encounter turns on never
 letting it open. Its death in the telling is a stone through the eye from behind
 — his own grandson's sling.
 
+**Time in the mountain.** The dead giant is a source of **dunamis** — the time
+and gravity magic of *Wildemount*, worked by **chronurgy** (time) and
+**graviturgy** (gravity). Under Haals it pools, and the deeper the dig cuts toward
+the giant the less time runs true. This is where the mound's years come from,
+worked as a mine: *The Returner and the Stone* and *The Piper out of the Mound*
+(below) are this same force, met above ground. In the drifts the party finds:
+
+- time at a different rate the deeper they go — a shift at the face is a day at
+  the surface, and a miner can come up older than he went down;
+- stopped pockets, a moment held still — a cave-in hanging in the air, a digger
+  caught mid-swing — that hold anyone who steps in until the moment lets go;
+- the past repeating in the deep drifts — the gnome diggers of the fallen kingdom
+  still at the face, the conquest, the giant's killing, played over, a loop that
+  can pull a watcher into it;
+- things aged wrong near the seams — timber rotted through in a shift, iron rusted
+  through, a hand withered — carried out in the water that kills the fields below;
+- glimpses forward — a miner sees the cave-in before it comes and cannot stop it,
+  a fixed doom foretold, the same shape as the geis: a fate spoken that holds.
+
+`[OPEN]` whether the [Haals runoff](../encounters/the-haals-runoff.md)'s
+contaminant is this — time-rot in the water rather than a chemical poison, the
+giant's leaking dunamis aging the fields and the tomatoes — or whether the time
+magic runs alongside a separate poison. Bound up with the runoff's own `[OPEN]`
+on what the contaminant is.
+
 **The Salmon of Knowledge — in the Haals.** A single old salmon in the river that
 ate the nine hazelnuts of wisdom that fell into the well at the world's source,
 so that the first to taste its flesh knows all things. In Copaa the river is
