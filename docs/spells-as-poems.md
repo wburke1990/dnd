@@ -89,7 +89,9 @@ the sea voyage out of Maalm and the Egyptian death-road.
 ### Divination
 
 - **Speak with Dead** — "Because I could not stop for Death" (Emily
-  Dickinson, 1830–1886). The carriage ride with Death; the tone of the Duat.
+  Dickinson, 1830–1886), saved at
+  [handouts/because-i-could-not-stop-for-death.md](../handouts/because-i-could-not-stop-for-death.md).
+  The carriage ride with Death; the tone of the Duat.
   `[now]` the party is escorting a soul through the underworld.
 - **Augury** — "The Raven" (Edgar Allan Poe, 1809–1849). A question put to
   the dead and one word returned.
