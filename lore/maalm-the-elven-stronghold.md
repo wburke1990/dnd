@@ -242,6 +242,31 @@ to the players in the opening session). **[settled]**
   real organics-smuggling offense the watch can hang on the party, not a
   pretext.
 
+### The coastal waystation — Maalm sells the stop
+- **[settled — chat 7/29]** Maalm produces almost nothing to trade. With **no cheap energy**
+  (no geothermal, no fast water to turn mills) it cannot manufacture, and it hoards its one rich
+  organic (guano, above). What it sells is **the stop itself:** a **desert Petra on the coastal
+  trade route,** a reprovisioning point between richer places.
+- **Why the stop is unavoidable.** `[Will 7/29]` The archipelago's craft are **primitive and
+  coast-hugging** — the standard [dwarf boat](ships-and-sea-power.md) and its like fear the open
+  water and creep headland to headland; only the **[dragonborn](wandering-dragonborn.md)**
+  master-mariners cross open sea. So a ship working this coast **cannot skip Maalm,** and Maalm
+  holds what it needs.
+- **What it sells:**
+  - **Water** — it controls the only reliable fresh water on a dry coast, so every thirsty hull
+    pays to fill (the same cisterns that make it unbesiegeable, above).
+  - **Safe harbour and reprovisioning** — anchorage, repairs, rest, and food for crews: a
+    caravanserai for coasting ships.
+  - **Entrepôt transit** — richer places' goods warehouse, change hands, and redistribute here;
+    Maalm skims the exchange and grows rich as the crossroads.
+  - **Neutral ground** — because it cannot be besieged (above), even rivals can trade here
+    safely; the neutrality is itself a service.
+  - **Low-energy luxury craft** — the one thing it makes: **dyes, glass, and fine work** that
+    need skill and rare imported materials more than power, worked by the artisan houses and sold
+    on to the passing trade.
+- So a **water-poor desert rock is rich** — on position, water, and the coast-hugging ships that
+  must come to it.
+
 ### The green city — every affording house a farm
 - **[settled]** The food is grown **inside the walls.** Maalm feeds itself from
   **intensive agriculture spread across the whole city** — terraced fields
