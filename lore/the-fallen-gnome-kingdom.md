@@ -35,29 +35,41 @@
 > rhymes with the Exodus plagues. The peaceful counterpart across Suartleheim is
 > [Weet](../handouts/the-ruin.md): the **Dorians among the Mycenaean ruins**, dwarves inheriting
 > the giants' emptied halls — inheritance where Eet is conquest.
+>
+> **The full Book-of-Invasions stack** carries the region through: **Fir Bolg → Firbolgs, Tuatha Dé
+> Danann → gnomes, Milesians → Mughals, the English → the Company.** The gnomes' slow ruin is the
+> **Fomorian blight** (famine out of the earth); the Mughals' coming is **Babur** — driven across
+> the mountains by war, seizing a weakened realm; the colonial fall draws on **both the Bengal
+> (1770) and Irish (1845) famines;** and the Bad Pass's **mini ice age** (a volcanic winter, the
+> Year Without a Summer) is what lights the southern wars that send the Mughals north.
 - **A kingdom that fell — the Fomorian blight.** `[Will 7/29; refined w/ Will]` The gnome kingdom
   rose after the conquest and, at its height, broke the **Haals taboo and dug too deep, and stirred
   the buried giant** — **Balor**, a **Fomorian** kin to the Firbolg — whose waking brings the old
   Fomorian blight: not a battle but a slow famine, harvests failing over generations, the land dying
   under it until the kingdom was hollow. Hubris starts it; the famine finishes it slowly. Under the
   same mountain the giant also holds **time magic** — blight and time, the two things he does (see
-  [the mines of Haals](../encounters/the-mines-of-haals.md)).
-  That was the **distant past.** The **Mughals** then rose over the broken region,
-  held it through the long middle age (and kept the Haals taboo), and in turn **fell to the
-  [Company](the-company.md) in the colonial age** — the Bengal beat: a trading power that made
-  itself the ruler, owned the magistrates, and bled the land dry (the
-  [East India Company](the-company.md)). And the [Company's mine is that first fall replayed
+  [the mines of Haals](../encounters/the-mines-of-haals.md)). Then **~1,000 ya the [Bad
+  Pass](world-history-timeline.md) threw a mini ice age** over the world, and its cold set off **wars
+  in the south** that drove the **Mughals** north across the mountains — they **conquered the
+  famine-hollowed kingdom** (the Milesian conquest of the exhausted Tuatha Dé), and the surviving
+  gnomes fell back into the hills, to **[Raand](nila-atlas.md)** (the sidhe). The Mughals held the
+  **long middle age (~1,000 → ~200 ya)** until the **[Company](the-company.md)** took it in the
+  colonial age — the Bengal beat: a trading power that made itself the ruler, owned the magistrates,
+  and bled the land dry by famine. And the [Company's mine is the gnomes' first fall replayed
   now](../encounters/the-haals-runoff.md). So the party finds **aftermath on aftermath** — poor
   towns on tired ground, a poisoned watershed, a people no longer their own masters.
-- **The middle empire — the Mughals.** `[Will 7/29]` The power that rose over the fallen gnome
-  kingdom and held Eet through the long middle age: the **Mughals** — Persianate, Islamic, Timurid
-  splendour of courts, gardens, and artisans (the exact historical name, as with the
-  [East India Company](the-company.md) that undoes them). They kept the Haals taboo and left the
-  region its architecture and craft, now run to ruin. The **[Company](the-company.md) hollowed them
-  out** in the Bengal beat: puppet rulers, extraction, famine, and the poor Company towns of the
-  present. The gnomes of **[Raand](nila-atlas.md)** kept their craft through it all as a protected
-  artisan caste. `[OPEN]` a fuller writeup of the Mughal period (and note the Norse "Suartleheim" is
-  an outsiders' exonym, not the Mughals' own name for the realm).
+- **The middle empire — the Mughals.** `[Will 7/29]` **Babur's people:** driven from their southern
+  homeland by the wars the [Bad Pass's mini ice age](world-history-timeline.md) set off (~1,000 ya),
+  they crossed the southern mountains and conquered the famine-weakened gnome kingdom —
+  refugee-conquerors, the same story as the gnomes one wave before them. What they built was the
+  **Mughals** — Persianate, Islamic, Timurid splendour of courts, gardens, and artisans (the exact
+  historical name, as with the [East India Company](the-company.md) that undoes them). They kept the
+  Haals taboo and left the region its architecture and craft, now run to ruin. The
+  **[Company](the-company.md) hollowed them out** in the Bengal beat: puppet rulers, extraction,
+  famine, and the poor Company towns of the present. The gnomes of **[Raand](nila-atlas.md)** kept
+  their craft through it all as a protected artisan caste — the Tuatha Dé gone into the hills.
+  `[OPEN]` a fuller writeup of the Mughal period (and note the Norse "Suartleheim" is an outsiders'
+  exonym, not the Mughals' own name for the realm).
 - **Raand — the remnant.** `[Will 7/29]` The **artisan gnomes at [Raand](nila-atlas.md)** are the
   **one gnome city that survived the whole timeline** — through their own kingdom's fall, the
   middle civilization, and into the Company's age: the surviving heirs, reduced to a single trade
@@ -125,8 +137,9 @@ founding on.
   [**Balor**, a Fomorian kin to the Firbolg](../encounters/the-mines-of-haals.md) — whose waking
   brings the Fomorian blight: a slow famine over generations, not a battle and not a rampage (the
   [Copaa Lament](../handouts/copaa-lament.md)). The giant also holds **time magic**; blight and time
-  are the two things he does;
-  the **Mughals** rose over the ruin and later **fell to the Company** (the Bengal/colonial beat);
+  are the two things he does. Then ~1,000 ya the **Mughals**, driven north by the wars of the [Bad
+  Pass's mini ice age](world-history-timeline.md), **conquered the hollowed kingdom** (Milesians over
+  the Tuatha Dé), and held it until the **Company** took them (~200 ya, the Bengal/colonial beat);
   the Company's mine is that first fall replayed. `[OPEN]` only a fuller writeup of the Mughal period.
 - `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
   **Mesoamerican is ruled out** (settled 7/26). `[Will 7/29]` The founding **faith** is set: a
