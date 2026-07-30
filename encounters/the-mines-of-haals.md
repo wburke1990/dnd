@@ -70,6 +70,41 @@ the war does not follow them past its own level. Scale the number of soldiers to
 the party. `[OPEN]` whether killing an echo of a conquest-soldier does anything to
 the history, or only ends that figure in that moment.
 
+## One you can meet — the founding Dragonborn
+
+Most of the people in the mountain are locked in their own time and do not see the
+party as themselves. One does. The
+[founding Dragonborn](../lore/the-fallen-gnome-kingdom.md) — the wandering seer who
+led the gnomes overland out of Kalikhat, saw this land before they took it, and
+founded the kingdom and the port at Aar — knows where and when he is. He dipt into
+the future in life — into the giant below — so standing outside his own time is not
+new to him. Meet him at the conquest level or on the way down, and he will talk.
+
+He is a **wandering dragonborn**, [Blackacre's own people](../characters/blackacre.md),
+and one of the [saints Blackacre's faith venerates](../lore/wandering-dragonborn.md),
+met alive instead of at a grave-stone.
+
+**He asks about the party's world.** He wants the year, who holds Aar now, whether
+the kingdom he founded still stands. The answers are the fall, the Mughals, and the
+Company — his kingdom gone three times over. Let the party tell him, or not.
+
+- *"What year is it out there? Who holds Aar?"*
+- *"I saw the land before we took it. I told them it was ours, and we made it ours."*
+
+**He presses Blackacre.** He took a land by the sword, and he holds that a man with
+a gift who will not use it is nothing. He sees a druid keeping his power back, and
+says so. [Blackacre bailed when his own plan turned violent](../characters/blackacre.md);
+the founder is the man who did not. Run it as the founder's challenge, for Sam to
+answer — not a fact about the character.
+
+- To Blackacre: *"You have the gift and you keep it sheathed. Strength you will not
+  use is not yours."*
+
+`[OPEN]` whether he is an echo that will not last or the seer himself held out of
+time; whether he knows he is dead; and how he takes a
+[Firbolg](../characters/sarric.md) in front of him, having led the war that killed
+them.
+
 ## The sleeping giant
 
 At the bottom the party reaches the giant. It fills the deep cave, buried in the
