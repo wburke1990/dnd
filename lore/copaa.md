@@ -9,7 +9,7 @@
 > mouth — the tomatoes are poison, the operation is under guard, and the crates
 > never reach the outbound barges. This sits on
 > top of what Copaa already is: the poisoned downstream town of the
-> [fallen gnome kingdom](the-fallen-gnome-kingdom.md), its native people driven
+> [fallen gnome kingdom](the-fallen-gnome-kingdom.md), its people driven
 > out (the [tomb-lepers](../encounters/valley-of-the-kings.md)), its
 > [lament](../handouts/copaa-lament.md) the region's dirge. Legend:
 > `[settling]` · `[loose]` · `[OPEN]`.
@@ -32,14 +32,17 @@ comes down the same river that carries the ore, so the water is bad. There is pl
 of it and none of it is fit to drink. People buy their drink because the wells are
 foul.
 
-The gnome families who built Copaa are mostly gone. The bad water drove them out, up
+The families who built the present town are mostly gone. The bad water drove them out, up
 into the tombs near Maalm, where they are the [lepers](../encounters/valley-of-the-kings.md).
-What fills the town now is the Company's trade: dwarf crews down off the mine, bargemen
-off the Haals run and the sea run, guards on the chinampas at the river mouth, a Company
-clerk and store, and the men who follow that money. A few gnome families still hold on.
+They were settlers of the Mughal and Company ages, not the old gnomes — the gnome kingdom
+emptied out of here long before, its people gone into the hills to [Raand](nila-atlas.md),
+the sidhe. What fills the town now is the Company's trade: dwarf crews down off the mine,
+bargemen off the Haals run and the sea run, guards on the chinampas at the river mouth, a
+Company clerk and store, and the men who follow that money. A few of the old settler
+families still hold on.
 
 One street runs along the landing. The Company office and store, the ore scales, the
-tavern, and the inn stand on it. Emptied gnome houses sit at the edge of town, their
+tavern, and the inn stand on it. Emptied houses sit at the edge of town, their
 doors open.
 
 ## The river and the ore `[settling]`
@@ -61,18 +64,22 @@ has worked the runoff down. The water is better than it was; the acute harm to p
 passed, and what is left is the chronic wound in the soil ([the Haals runoff §2](../encounters/the-haals-runoff.md)).
 
 Where the river fills the lake, the Company has built a few **chinampas** — growing beds
-raised out of the shallows — and works them for produce. The chinampas are Company
-technology, laid on water the Company holds ([the Company](the-company.md)); the same beds
-grow on the lake south of Kalwa in Noku Kurunatuka. They are the colonizer's imported
+raised out of the shallows — and works them where the Haals water comes in. The beds are
+there to clean the water: the plants take up what the runoff carries, and the water that
+leaves the beds is better than the water that reaches them. This is how the
+[Second Foundation](the-second-foundation.md) has worked the runoff down. The chinampas are
+Company technology, laid on water the Company holds ([the Company](the-company.md)); the same
+beds grow on the lake south of Kalwa in Noku Kurunatuka. They are the colonizer's imported
 industry, not the gnome kingdom's craft ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md)).
 
-The tomatoes off the chinampas are poison. They grow on the water that came down from
-Haals, and they carry what the water carries — what the contaminant is remains
-[`[OPEN]`](../encounters/the-haals-runoff.md).
+The tomatoes off the chinampas are poison. The plants pull the contaminant out of the water
+and hold it in the fruit, so the crop carries what the water carried. What the contaminant is
+remains [`[OPEN]`](../encounters/the-haals-runoff.md).
 
-The whole operation is under guard. The produce is picked, packed into crates, and the
-crates are held. They do not go onto the barges that leave the lake for the sea. A party
-watching the outbound barges sees ore, and no crates.
+The whole operation is under guard. The produce is picked, packed into crates, and the crates
+are held. They do not go onto the barges that leave the lake for the sea — they hold the
+contaminant the beds pulled out of the water. A party watching the outbound barges sees ore,
+and no crates.
 
 ## The tavern `[draft]`
 
@@ -90,8 +97,8 @@ she knows about the mine for the price of the drink.
 
 The inn on the Aar road is **the Aar Road Inn** — rooms above, a common room below,
 beds for boatmen, wagoners, Company men, and travelers coming off the road. One of the
-few remaining gnome families keeps it (`[OPEN]` — name for David); they were here before
-the Company and mean to outlast it.
+few families that were here before the Company keeps it (`[OPEN]` — name for David); they
+mean to outlast it.
 
 ## Who's here `[loose]`
 
@@ -102,7 +109,7 @@ the Company and mean to outlast it.
 - **The bargemen.** The men who move the ore down the river and out to the sea.
 - **The chinampa guards.** The Company's men on the growing beds at the river mouth, and
   on the crates.
-- **The last gnome families.** The natives who didn't leave, keeping the inn and a few
+- **The old settler families.** The ones who didn't leave, keeping the inn and a few
   houses on a poisoned river.
 
 ## Connections
@@ -123,15 +130,16 @@ the Company and mean to outlast it.
 
 ## Open threads
 
-- `[OPEN]` Where the crates go and what is in them — the guarded chinampa produce that
-  never reaches the outbound sea barges (David's hook, 7/28).
-- `[OPEN]` Whether the poison in the tomatoes is a side effect of growing on Haals water,
-  or the reason the beds are there at all — bound up with what the runoff contaminant is
-  ([the Haals runoff](../encounters/the-haals-runoff.md)).
+- `[OPEN]` Where the crates go — the guarded chinampa produce that never reaches the
+  outbound sea barges (David's hook, 7/28). What is in them is settled: the contaminant the
+  beds pull out of the Haals water (the chinampas section, above).
+- `[settled]` Why the chinampa beds are there — to clean the Haals runoff; the plants take
+  up the contaminant, which is why the tomatoes are poison (the chinampas section, above).
 - `[OPEN]` Names for the tavern-keeper and the innkeeper family — David's to set.
 - `[OPEN]` Whether the Company keeps a magistrate, a marshal, or hired guns in Copaa
   itself, or runs it from Aar.
 - `[OPEN]` What the ore is and what the runoff is ([the Haals runoff](../encounters/the-haals-runoff.md)
   open threads) — the town-level detail depends on it.
-- `[OPEN]` The gnome kingdom's name and mythology ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md))
-  — what the emptied gnome town remembers of itself.
+- `[OPEN]` The gnome kingdom's **name** ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md)).
+  Its mythology is settled: Irish, the **Tuatha Dé Danann** — the region's deep past, before
+  the Mughal and Company settlers. The proper name is still open.
