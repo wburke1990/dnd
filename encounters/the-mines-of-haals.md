@@ -119,14 +119,17 @@ fact about the character.
 **He asks about Sarric.** To Musa the [Firbolg](../characters/sarric.md) are the
 **nameless ones**, the ones who die — the people his gnomes take the land from, who
 hold no name and so hold no ground. He is not hostile; he asks his kinsman
-Blackacre, plainly, why he travels with one of them.
+Blackacre, plainly, why he travels with one of them. `[OPEN — discuss with David]`
+the "nameless ones" / "ones who die" as the gnomes' name for the Firbolg, before it
+goes into canon.
 
 - To Blackacre: *"Why do you keep company with one of the nameless ones — one of the
   ones who die?"*
 
-`[OPEN]` whether the party is **in** the vision Musa was just given — whether the
-prophecy on the Aar stone includes them — and whether anything they tell him here
-changes what he does, and so changes the present. (`[OPEN]` too: the
+`[OPEN — discuss with David]` whether the party is **in** the vision Musa was just
+given — whether the prophecy on the Aar stone includes them — and whether anything
+they tell him here changes what he does, and so changes the present. (`[OPEN]` too:
+the
 [gnome-kingdom doc](../lore/the-fallen-gnome-kingdom.md) says he led them
 *overland* — square that with the boat, or let the sea crossing be the last leg.)
 
