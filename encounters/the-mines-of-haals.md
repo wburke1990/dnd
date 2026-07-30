@@ -132,10 +132,10 @@ goes into canon.
 
 `[OPEN — discuss with David]` whether the party is **in** the vision Musa was just
 given — whether the prophecy on the Aar stone includes them — and whether anything
-they tell him here changes what he does, and so changes the present. (`[OPEN]` too:
-the
-[gnome-kingdom doc](../lore/the-fallen-gnome-kingdom.md) says he led them
-*overland* — square that with the boat, or let the sea crossing be the last leg.)
+they tell him here changes what he does, and so changes the present. (The
+[gnome-kingdom doc](../lore/the-fallen-gnome-kingdom.md) is now settled to **by
+sea** — Musa carried five gnomes in his boat, and their descendants grew the
+kingdom.)
 
 ## The sleeping giant
 

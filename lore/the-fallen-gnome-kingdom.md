@@ -6,7 +6,7 @@
 > fell.** Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
 - **The founding — a prophet's conquest.** `[Will 7/29]` The gnomes came as **refugees from
-  [Kalikhat](lonka-jotunheim.md)**, its surface poisoned by the Bleeding Star, led overland by a
+  [Kalikhat](lonka-jotunheim.md)**, its surface poisoned by the Bleeding Star, led by sea by a
   **wandering dragonborn seer** — a prophet who "dipt into the future" and saw the land they would
   take. Suartleheim Eet was **not empty.** The **Firbolgs** held it; the gnomes took it by **holy
   war**, the land promised them by their god and its people put to the sword — the region's founding
@@ -130,7 +130,7 @@ founding on.
   branch, or one people split by the catastrophe. This is the place to settle the standing
   `[OPEN]` reconciling Suartleheim / Svartalfheim with Kalikhat as the Underdark cradle
   ([campaign overview](campaign-overview.md)). `[settled 7/29]` One **Kalikhat** stock, split by
-  the Bleeding Star: the deep gnomes fled underground, these fled overland with the prophet-founder
+  the Bleeding Star: the deep gnomes fled underground, these fled by sea with the prophet-founder
   to take Suartleheim Eet from the Firbolgs (above).
 - `[settled 7/29; blight refined with Will]` **What felled the kingdom — the Fomorian blight:** the
   gnomes **broke the Haals taboo and dug too deep, stirring the buried giant** —
