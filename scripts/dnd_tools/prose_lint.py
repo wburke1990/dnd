@@ -144,6 +144,13 @@ RULES: tuple[Rule, ...] = (
         r"|\b(lights?|lit)\s+the\s+\w+\s+wars?\b",
         "history-as-metaphor verb (replayed/hollowed/lit a war); state what happens (#2, #12)",
     ),
+    _rule(
+        "geis-jargon",
+        r"\bname-hold\b|\bsworn-charge\b|\btrue-name hold\b|\bcadence\b"
+        r"|\b(?:old|sworn[- ]charge|true[- ]name) register\b",
+        "coined geis/true-name jargon (name-hold, sworn-charge, true-name hold, "
+        "'... register', cadence); state it plainly (#12)",
+    ),
 )
 
 

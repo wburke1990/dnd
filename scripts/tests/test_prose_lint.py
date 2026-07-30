@@ -76,6 +76,22 @@ def test_flags_new_coined_labels() -> None:
     assert "coined-label" in _rules("the Kalikhat Underdark cradle")
 
 
+def test_flags_geis_jargon() -> None:
+    assert "geis-jargon" in _rules("the world's name-hold on mortals")
+    assert "geis-jargon" in _rules("the sworn-charge register, not the true-name hold")
+    assert "geis-jargon" in _rules("a sworn prohibition worded in the old cadence")
+    assert "geis-jargon" in _rules("Run it in the old register.")
+    assert "geis-jargon" in _rules("word the charge in the myths' own cadence")
+
+
+def test_geis_jargon_leaves_plain_true_name() -> None:
+    # "true name" is a pervasive, legitimate campaign concept; only the coined
+    # compounds and the "... register / cadence" labels are flagged.
+    assert "geis-jargon" not in _rules("bound by its true name, forced to obey")
+    assert "geis-jargon" not in _rules("he still holds her true name")
+    assert "geis-jargon" not in _rules("she rang the register at the store")
+
+
 def test_new_rules_leave_plain_prose() -> None:
     assert _rules("The ore comes down the river to the landing at Copaa.") == set()
     assert _rules("He stacked the crates and bled the brakes.") == set()
