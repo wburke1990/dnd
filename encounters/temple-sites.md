@@ -113,7 +113,7 @@ Deep in the Company's mine at Haals, past the tailings, the digging has
 broken into a wall of handprints — **La Cava de Los Manos** — thousands of
 them, older than the gnomes of Copaa. They are the **Firbolgs'**
 ([Sarric's people](../characters/sarric.md)): the earth-kin press one hand
-to the rock before they lie down and become a hill; there is no name to
+to the rock before they become a hill; there is no name to
 leave, so they leave a hand. The Firbolgs held this land before Kalikhat's
 refugee gnomes took it by holy war ([the fallen gnome
 kingdom](../lore/the-fallen-gnome-kingdom.md)) — so the tunnels run through

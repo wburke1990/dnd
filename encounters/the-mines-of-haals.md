@@ -46,17 +46,17 @@ as the session wants; the order is fixed by depth.
    open. They kept the taboo. The party can read what the Mughals knew was down
    there and would not touch.
 3. **The gnome kingdom, and its fall.** Gnome miners driving a gallery downward at
-   the height of the kingdom; the picks reach too deep and stir the giant, and the
-   first harvest fails. The fall is slow — a famine over generations as he turns in
-   his sleep — but this is the moment it starts, the Haals taboo broken, played at
-   the point it started.
+   the height of the kingdom; the picks reach too deep and break into the Firbolg
+   graves, and the first harvest fails. The fall is slow — a famine over generations
+   as the disturbed dead foul the ground — but this is the moment it starts, the
+   Haals taboo broken, played at the point it started.
 4. **The long war.** The gnomes' war on the Firbolg — not a single conquest but
    generations of it, Musa's descendants prosecuting it through the dark ages. The
    scene the party is attacked in (below).
 5. **The Firbolg age — La Cava.** The first people, [Sarric's kin](../characters/sarric.md),
    the earth-kin alive. This deep level **is [La Cava](temple-sites.md)** — the
    handprints in the Haals dig are here, being pressed into the wall now, and the
-   earth-kin lie down and become the stone. The mine and La Cava are one place, dug
+   earth-kin become the stone. The mine and La Cava are one place, dug
    apart by an age. Sarric walks through his own people's time, and they do not
    treat him as a stranger.
 6. **The heart.** Older than all of it — the giant, asleep (below).
@@ -151,12 +151,12 @@ once. It keeps the eye shut. It is asleep, and it is awake, and both are now.
 **It spares Sarric.** He is of its own blood — the Firbolg are its kin — and it
 speaks to him first.
 
-**The blight is his.** Balor is a **Fomorian**, and the Fomorians bring blight —
-famine as the giant stirs. The gnome kingdom's digging woke it and the kingdom
-withered over generations; the [Company's mine](the-haals-runoff.md) wakes it again,
-and the famine comes down the river as the runoff (see
-[the bestiary, *The Fomorian blight*](../bestiary/copa-irish-beasts.md)). His other
-face is time. Blight and time, kin to the Firbolg — that is what sleeps under Haals.
+**The blight is not his — it is the graves.** The runoff and the old famine come
+from the disturbed Firbolg graves, not from Balor: the gnome kingdom broke into them
+and the kingdom withered, and the [Company's mine](the-haals-runoff.md) is breaking
+into them again (see [the bestiary, *The blight from the graves*](../bestiary/copa-irish-beasts.md)).
+Balor's one thing is **time.** The graves hold the poison; Balor holds the time; they
+share a mountain.
 
 **The reveal.** The giant is the source of the gnomes' founding prophecy.
 [Musa, the wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
@@ -225,8 +225,8 @@ inside, and whatever they carried out of the conquest fight.
   peoples, the buried giant, the dragonborn founder whose prophecy the giant
   claims.
 - [The Haals runoff](the-haals-runoff.md) — the surface job at the same mine; the
-  runoff is Balor's blight, the Fomorian famine surfacing where the Company digs —
-  one face of him, his time magic the other (`[settled with Will]`).
+  runoff is the disturbed Firbolg graves, the old dead fouling the water where the
+  Company digs — a separate thing from Balor's time magic (`[settled with Will]`).
 - [The Copaa bestiary — *Time in the mountain*](../bestiary/copa-irish-beasts.md)
   — Balor, the drift dangers, the returners and the piper the giant's eye makes.
 - [Sarric](../characters/sarric.md) — the Firbolg the giant spares; the scene is

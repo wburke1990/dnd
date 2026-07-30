@@ -14,9 +14,9 @@
 
 The country is dry — rain-shadow grassland, a poisoned lake, and the Haals river,
 with reed and marsh only where the river fills the lake. The **Firbolg** were
-first, the earth-kin who lie down and become the land; their dead lie in graves
+first, the earth-kin who become the land; their dead lie in graves
 across it, and where a grave is opened the dead poison the ground (the region's
-poison — see *Balor* and *The Fomorian blight* in the placed set-pieces below).
+poison — see *The blight from the graves* in the placed set-pieces below).
 The gnomes who came after are the fair folk of the mounds, and they deal in
 **[geasa](../lore/house-rules-and-world-mechanics.md)** — a sworn prohibition
 worded in the old cadence, offered as the price of a boon and sworn freely by the
@@ -367,16 +367,17 @@ a high-level set-piece: the eye is met shut, and the encounter turns on never
 letting it open. His death in the telling is a stone through the eye from behind —
 his own grandson's sling.
 
-**The Fomorian blight — how the kingdom fell.** In the telling the Fomorians grind
-a land down with blight and famine, the earth dying under a bad king. Balor is that
-under Haals. At its height the gnome kingdom broke the Haals taboo and dug too deep,
-and the digging stirred him; from then it withered over generations, the harvests
-failing further each year as the giant turned in his sleep, until it was hollow
-enough for the Mughals to take (the [Copaa lament](../handouts/copaa-lament.md)). No
-battle and no single poisoning — a slow famine, the ground going tired and then bad.
-The [Company's mine](../encounters/the-haals-runoff.md) cuts the same ground now,
-and the same blight comes down the river: the runoff is the old famine surfacing
-again. `[settled with Will]`
+**The blight from the graves — how the kingdom fell.** The Firbolg dead lie in
+graves under Haals, and disturbing them fouls the ground. At its height the gnome
+kingdom broke the Haals taboo and dug too deep, breaking into those graves; from
+then it withered over generations, the harvests failing further each year, until it
+was hollow enough for the Mughals to take (the [Copaa lament](../handouts/copaa-lament.md)).
+No battle and no single poisoning — a slow famine, the ground going tired and then
+bad. In the Irish telling this is the Fomorian blight, the earth dying under a bad
+king; here it comes out of the graves, not out of Balor. The
+[Company's mine](../encounters/the-haals-runoff.md) cuts the same ground now, and the
+same blight comes down the river: the runoff is the old dead disturbed again.
+`[settled with Will]`
 
 **Time in the mountain.** The dead giant is a source of **dunamis** — the time
 and gravity magic of *Wildemount*, worked by **chronurgy** (time) and
@@ -397,9 +398,10 @@ worked as a mine: *The Returner and the Stone* and *The Piper out of the Mound*
 - glimpses forward — a miner sees the cave-in before it comes and cannot stop it,
   a fixed doom foretold, the same shape as the geis: a fate spoken that holds.
 
-The runoff above is Balor's **blight** — the famine of *The Fomorian blight*, above
-— surfacing where the Company digs. What Haals leaks here in the deep is his other
-face: **time.** Blight and time are the two things the one Fomorian does.
+The runoff above is **not** the giant's doing — that is the disturbed Firbolg graves
+(*The blight from the graves*, above). What Haals leaks here in the deep is Balor's
+one thing: **time.** The blight is the graves; the time is Balor; they share a
+mountain.
 
 Going **into** the mountain is its own set-piece: a walk down through the region's
 whole history to the giant at the bottom, who spares the Firbolg and speaks
@@ -511,7 +513,7 @@ the same history from two mouths.
 - [Copaa](../lore/copaa.md) — the ore town these beasts wander; the lake, the
   landing, the emptied Mughal houses, the chinampa guards.
 - [The Haals runoff](../encounters/the-haals-runoff.md) — the poison in the water
-  the water-beasts swim in; Balor's eye as the runoff.
+  the water-beasts swim in; the disturbed Firbolg graves as the runoff.
 - [The Copaa lament](../handouts/copaa-lament.md) — the bean sídhe's song.
 - [House rules — the name-hold on mortals](../lore/house-rules-and-world-mechanics.md)
   — the **geis**; the little people offer it for a song, sworn freely as the price

@@ -82,8 +82,8 @@ closer he gets, more so again down the stair. See
 Long ago, in the **first pass** (the first age of the world), a comet-stone fell here.
 A comet-stone normally grows into a god — a cosmic beast that a people descends from
 (see [lineages & afterlives](../lore/lineages-and-afterlives.md)). This one never got
-the chance: the **True Giants** — the world's oldest people, who lie down and become
-mountains — tore it apart before it could land and take root. (That is the killing in
+the chance: the **True Giants** — the world's oldest people, who become mountains
+when they die — tore it apart before it could land and take root. (That is the killing in
 [Kronos and Uranus](../handouts/kronos-and-uranus.md): a sky-god struck down, a tree
 grown from the wound.) A tree grew up where the torn body fell, and its mind stayed
 alive in the wood. Over thousands of years the roots grew down until they reached hell,
@@ -155,8 +155,8 @@ struck down, a tree from the wound); the [Juniper Tree](../handouts/the-juniper-
 ## A note on canon
 
 This adds one new thing to the world: **the giants killed a god.** Everywhere else the
-[True Giants](../lore/lineages-and-afterlives.md) are quiet — they lie down and become
-mountains. Here, once, they killed. Keep that straight. `[OPEN]` why they killed this
+[True Giants](../lore/lineages-and-afterlives.md) are quiet — they become
+mountains when they die. Here, once, they killed. Keep that straight. `[OPEN]` why they killed this
 god, and whether it happened more than once.
 
 *End of design note.*
