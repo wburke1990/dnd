@@ -48,15 +48,14 @@
   failing over generations, until the kingdom emptied — no battle; the digging starts it and the
   famine finishes it. (Under the same mountain sleeps **[Balor](../encounters/the-mines-of-haals.md)**,
   a **Fomorian** kin to the Firbolg — the source of the mountain's **time magic**, a separate thing
-  from the graves' poison.) Then **~1,000 ya the [Bad Pass](world-history-timeline.md) threw a mini
-  ice age** over the world, and its cold set off **wars in the south** that drove the **Mughals**
+  from the graves' poison.) Then **~1,000 ya the [Bad Pass](world-history-timeline.md) caused a mini
+  ice age** across the world, and its cold set off **wars in the south** that drove the **Mughals**
   north across the mountains; they took the famine-weakened kingdom (the Milesian conquest of the
   exhausted Tuatha Dé), and the surviving gnomes fell back into the hills, to
-  **[Raand](nila-atlas.md)** (the sidhe). The Mughals held the **long middle age (~1,000 → ~200 ya)**
+  **[Raand](nila-atlas.md)** (the sidhe). The Mughals held the kingdom through the **long middle age (~1,000 → ~200 ya)**
   until the **[Company](the-company.md)** took it ~200 ya — a trading power that made itself the ruler
-  and drained the land by famine. The [Company's mine is the first fall happening
-  again](../encounters/the-haals-runoff.md), its digging cutting back into the same graves. So the
-  party finds poor towns on tired ground, a poisoned watershed, and a people no longer ruling
+  and caused famine. The [Company's mine](../encounters/the-haals-runoff.md) cuts back into the same graves. So the
+  party finds poor towns on worn-out soil, a poisoned watershed, and a people no longer ruling
   themselves.
 - **The middle empire — the Mughals.** `[Will 7/29]` **Babur's people:** driven from their southern
   homeland by the wars the [Bad Pass's mini ice age](world-history-timeline.md) set off (~1,000 ya),
@@ -122,31 +121,30 @@ founding on.
 
 ## Open threads
 
-- `[OPEN]` **These gnomes vs. the deep gnomes.** Canon already has **deep gnomes** from the
-  [Kalikhat Underdark](lonka-jotunheim.md) (fled underground after the Bleeding Star).
-  Decide how the **surface** gnome kingdom of Suartleheim Eet relates — unrelated kin, a surface
-  branch, or one people split by the catastrophe. This is the place to settle the standing
-  `[OPEN]` reconciling Suartleheim / Svartalfheim with Kalikhat as the Underdark origin
-  ([campaign overview](campaign-overview.md)). `[settled 7/29]` One **Kalikhat** stock, split by
+- `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
+  **Mesoamerican is ruled out** (settled 7/26). `[Will 7/29]` The founding **faith** is set: a
+  **promised-land conquest** in the Exodus/Joshua register — a god who gave the refugee gnomes
+  this land and sanctified taking it from the Firbolgs. Still open: the god's name and the
+  fuller cosmology, kept distinct from Maalm's Egypt next door — though the
+  [Copaa Lament](../handouts/copaa-lament.md) borrows the Egyptian Ipuwer through the nome/gnome pun.
+- `[OPEN]` A fuller writeup of the **Mughal period** (also noted above under *The middle empire*).
+
+## Settled
+
+- `[settled 7/29]` **These gnomes vs. the deep gnomes.** One **Kalikhat** stock, split by
   the Bleeding Star: the deep gnomes fled underground — and changed quickly there, so they look
   different now — while these fled by sea with the prophet-founder to take Suartleheim Eet from the
-  Firbolgs (above).
-- `[settled 7/29; blight refined with Will]` **What felled the kingdom — the blight from the graves:**
-  the gnomes **broke the Haals taboo and dug too deep, breaking into the
+  Firbolgs (above). This also settles reconciling Suartleheim / Svartalfheim with Kalikhat as the
+  Underdark origin ([campaign overview](campaign-overview.md)).
+- `[settled 7/29; blight refined with Will]` **What felled the kingdom — the blight from the graves.**
+  The gnomes **broke the Haals taboo and dug too deep, breaking into the
   [Firbolg graves](../encounters/the-mines-of-haals.md).** The disturbed dead poisoned the ground — a
   slow famine over generations, no battle and no rampage (the [Copaa Lament](../handouts/copaa-lament.md)).
   **[Balor](../encounters/the-mines-of-haals.md)**, a Fomorian kin to the Firbolg asleep under the
   same mountain, is the mountain's **time magic** — a separate thing from the graves' poison. Then
   ~1,000 ya the **Mughals**, driven north by the wars of the [Bad Pass's mini ice
   age](world-history-timeline.md), took the emptied kingdom (Milesians over the Tuatha Dé), and held
-  it until the **Company** took them (~200 ya); the Company's mine is that first fall happening again.
-  `[OPEN]` only a fuller writeup of the Mughal period.
-- `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
-  **Mesoamerican is ruled out** (settled 7/26). `[Will 7/29]` The founding **faith** is set: a
-  **promised-land conquest** in the Exodus/Joshua register — a god who gave the refugee gnomes
-  this land and sanctified taking it from the Firbolgs. Still `[OPEN]`: the god's name and the
-  fuller cosmology, kept distinct from Maalm's Egypt next door — though the
-  [Copaa Lament](../handouts/copaa-lament.md) borrows the Egyptian Ipuwer through the nome/gnome pun.
+  it until the **Company** took them (~200 ya); the Company's mine repeats that first fall.
 
 *Companions: [nila atlas](nila-atlas.md) (the SE gazetteer), [the Haals runoff](../encounters/the-haals-runoff.md),
 [the Company](the-company.md), [the Copaa lament](../handouts/copaa-lament.md).*
