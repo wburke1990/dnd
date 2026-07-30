@@ -293,19 +293,17 @@ same files are likely. Small, frequent commits are the house default.
 **Never bypass the pre-commit hook with `--no-verify`.** If a check fails,
 fix the underlying issue.
 
-**Author commits as the repo owner, not as Claude.** GitHub credits the
-contribution graph to the commit *author* email, so commits here are
+**Author commits as the repo owner, not as Claude.** Commits here are
 authored **`William Burke <williamconroyburke@gmail.com>`** (his
 GitHub-verified email), with Claude kept as a
 `Co-Authored-By: Claude … <noreply@anthropic.com>` trailer in the message
-body — so William gets graph credit and Claude is still recorded. The
-SessionStart hook (`.claude/hooks/session-start.sh`) sets this local git
-identity on every device, so you normally don't touch it — just keep
-writing the co-author trailer. **Do not** re-author commits to
+body. The SessionStart hook (`.claude/hooks/session-start.sh`) sets this
+local git identity on every device, so you normally don't touch it — just
+keep writing the co-author trailer. **Do not** re-author commits to
 `Claude <noreply@anthropic.com>` to "match older history": much of the
-existing log predates this decision and credits nobody, and new commits
-should credit William. Leave already-pushed commits as-is (rewriting
-shared history needs a force-push — last resort).
+existing log predates this decision, and new commits are authored as
+William. Leave already-pushed commits as-is (rewriting shared history
+needs a force-push — last resort).
 
 **Running in app containers (remote / web sessions).** Some sessions run in a
 managed container the user doesn't control, cloned fresh. Three things differ
@@ -332,9 +330,8 @@ surprised:
 - **"Unverified" commits.** A stop-hook may flag commits as Unverified because
   they aren't signed and the author email isn't `noreply@anthropic.com`. That's
   expected — commits here are authored as **William** (see *Author commits as
-  the repo owner* above) so his GitHub graph gets credit; the badge is a harness
-  artifact, not a problem. **Do not** "fix" it by re-authoring to
-  `noreply@anthropic.com` (that credits nobody).
+  the repo owner* above); the badge is a harness artifact, not a problem.
+  **Do not** "fix" it by re-authoring to `noreply@anthropic.com`.
 
 ### Prefer subagents — heavily, and aggressively
 
