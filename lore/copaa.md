@@ -10,8 +10,8 @@
 > never reach the outbound barges. This sits on
 > top of what Copaa already is: the poisoned downstream town of the
 > [fallen gnome kingdom](the-fallen-gnome-kingdom.md), its people driven
-> out (the [tomb-lepers](../encounters/valley-of-the-kings.md)), its
-> [lament](../handouts/copaa-lament.md) the region's dirge. Legend:
+> out (the [tomb-lepers](../encounters/valley-of-the-kings.md)), and the
+> [lament](../handouts/copaa-lament.md) written for the whole region. Legend:
 > `[settling]` · `[loose]` · `[OPEN]`.
 
 ---
@@ -53,15 +53,15 @@ barges that leave the lake for the sea and the port at Aar. Bargemen work the
 Haals–Copaa run and the run out to sea; the Company clerk keeps the scale-book and
 pays out.
 
-The river that brings the ore is the river that killed the fields. The runoff and the
-ore come down the same water. A party asking why the land is dead is standing at the
-place the answer arrives every day — see [the Haals runoff](../encounters/the-haals-runoff.md).
+The runoff that ruined the fields comes down the same river as the ore. A party asking why
+the land is dead is standing where the runoff comes in — see
+[the Haals runoff](../encounters/the-haals-runoff.md).
 
 ## The chinampas and the crates `[draft — David 7/28]`
 
 The [Second Foundation](the-second-foundation.md) — through the [Company](the-company.md) —
 has worked the runoff down. The water is better than it was; the acute harm to people has
-passed, and what is left is the chronic wound in the soil ([the Haals runoff §2](../encounters/the-haals-runoff.md)).
+passed, and what is left is the lasting damage to the soil ([the Haals runoff §2](../encounters/the-haals-runoff.md)).
 
 Where the river fills the lake, the Company has built a few **chinampas** — growing beds
 raised out of the shallows — and works them where the Haals water comes in. The beds are
@@ -69,8 +69,8 @@ there to clean the water: the plants take up what the runoff carries, and the wa
 leaves the beds is better than the water that reaches them. This is how the
 [Second Foundation](the-second-foundation.md) has worked the runoff down. The chinampas are
 Company technology, laid on water the Company holds ([the Company](the-company.md)); the same
-beds grow on the lake south of Kalwa in Noku Kurunatuka. They are the colonizer's imported
-industry, not the gnome kingdom's craft ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md)).
+beds grow on the lake south of Kalwa in Noku Kurunatuka. The Company brought the chinampa
+method here; it is not the gnome kingdom's ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md)).
 
 The tomatoes off the chinampas are poison. The plants pull the contaminant out of the water
 and hold it in the fruit, so the crop carries what the water carried. What the contaminant is
@@ -97,8 +97,7 @@ she knows about the mine for the price of the drink.
 
 The inn on the Aar road is **the Aar Road Inn** — rooms above, a common room below,
 beds for boatmen, wagoners, Company men, and travelers coming off the road. One of the
-few families that were here before the Company keeps it (`[OPEN]` — name for David); they
-mean to outlast it.
+few families that were here before the Company keeps it (`[OPEN]` — name for David).
 
 ## Who's here `[loose]`
 
@@ -121,9 +120,9 @@ mean to outlast it.
   Company; runs the chinampas and holds the crates.
 - **[The Company](the-company.md)** — owns the mine, finances the trade, owns the
   magistrate, and built the chinampas. Copaa is the Company's ore moving through a town
-  the Company killed.
+  the Company's runoff poisoned.
 - **[The fallen gnome kingdom](the-fallen-gnome-kingdom.md)** — the region Copaa belongs
-  to. "Where the fall still shows."
+  to.
 - **[The Copaa lament](../handouts/copaa-lament.md)** — the handout, the river run foul.
 - **[Aar](nila-atlas.md)** — the port the ore ships out through.
 - **The [tomb-lepers](../encounters/valley-of-the-kings.md)** — Copaa's driven-out people.
