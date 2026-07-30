@@ -37,28 +37,31 @@ you'd rather choose than roll.
 
 ## d20 Encounter Table
 
-| d20 | Creature | Irish source | Type | CR |
-|----:|----------|--------------|------|----|
-| 1  | Firbolg Graves & Corpse-Lights | *tine ghealáin* / the dead | Hazard / Undead | — |
-| 2  | Bog-Wolves | — | Beast | 1/4 each (2d4) |
-| 3  | The Boar of Ben Bulben | *Diarmuid's boar* | Beast | 4 |
-| 4  | Púca | *púca* | Fey | 2 |
-| 5  | Cù Sìth | *cú sídhe* | Fey | 4 |
-| 6  | Dobhar-chú | *dobhar-chú* | Monstrosity | 3 |
-| 7  | Each-uisce | *each-uisce* | Fey | 5 |
-| 8  | Merrow | *murúch* | Fey | 2 |
-| 9  | Bean Sídhe | *bean sídhe* | Undead | 4 (omen) |
-| 10 | Fear Gorta | *fear gorta* | Undead | 1 |
-| 11 | Fear Dearg | *fear dearg* | Fey | 3 |
-| 12 | Leanan Sídhe | *leannán sí* | Fey | 4 |
-| 13 | The Fairy Ride | *aos sí* / *the Good Neighbours* | Fey | — (encounter) |
-| 14 | Fear Ceoil, the Piper | *Aillén* | Fey | 3 |
-| 15 | Dullahan | *dullahan* | Undead | 6 |
-| 16 | Sluagh | *sluagh na marbh* | Undead (swarm) | 5 |
-| 17 | Abhartach | *abhartach* | Undead | 5 |
-| 18 | Alp-luachra, the Joint-Eater | *alp-luachra* | Fey | 1/2 (puzzle) |
-| 19 | Fear Liath, the Grey Man | *an fear liath* | Fey | 3 (hazard) |
-| 20 | Caoránach of the Lake | *caoránach* | Monstrosity | 8 |
+| d20 | Creature | Say it | Irish source | Type | CR |
+|----:|----------|--------|--------------|------|----|
+| 1  | Firbolg Graves & Corpse-Lights | FEER-bulg; *tine ghealáin* = TIN-eh YAL-awn | *tine ghealáin* / the dead | Hazard / Undead | — |
+| 2  | Bog-Wolves | — | — | Beast | 1/4 each (2d4) |
+| 3  | The Boar of Ben Bulben | ben-BULL-bin; Diarmuid = DEER-mid | *Diarmuid's boar* | Beast | 4 |
+| 4  | Púca | POO-kuh | *púca* | Fey | 2 |
+| 5  | Cù Sìth | koo SHEE | *cú sídhe* | Fey | 4 |
+| 6  | Dobhar-chú | DOH-war-KHOO | *dobhar-chú* | Monstrosity | 3 |
+| 7  | Each-uisce | AKH-ISH-kuh | *each-uisce* | Fey | 5 |
+| 8  | Merrow | MERR-oh; *murúch* = muh-ROOKH | *murúch* | Fey | 2 |
+| 9  | Bean Sídhe | ban-SHEE | *bean sídhe* | Undead | 4 (omen) |
+| 10 | Fear Gorta | far GOR-tuh | *fear gorta* | Undead | 1 |
+| 11 | Fear Dearg | far DJARR-ig | *fear dearg* | Fey | 3 |
+| 12 | Leanan Sídhe | LAN-awn SHEE | *leannán sí* | Fey | 4 |
+| 13 | The Fairy Ride | *aos sí* = EESS SHEE | *aos sí* / *the Good Neighbours* | Fey | — (encounter) |
+| 14 | Fear Ceoil, the Piper | far KYOHL; Aillén = AL-yen | *Aillén* | Fey | 3 |
+| 15 | Dullahan | DULL-uh-han | *dullahan* | Undead | 6 |
+| 16 | Sluagh | SLOO-uh | *sluagh na marbh* | Undead (swarm) | 5 |
+| 17 | Abhartach | AV-ar-takh | *abhartach* | Undead | 5 |
+| 18 | Alp-luachra, the Joint-Eater | ALP-LOOKH-ruh | *alp-luachra* | Fey | 1/2 (puzzle) |
+| 19 | Fear Liath, the Grey Man | far LEE-uh | *an fear liath* | Fey | 3 (hazard) |
+| 20 | Caoránach of the Lake | KEER-uh-nakh | *caoránach* | Monstrosity | 8 |
+
+*"Say it" is an approximate anglicized pronunciation — enough to say the name at the
+table, not strict Irish or Scottish Gaelic (KH = a throaty "ch" as in "loch").*
 
 Beyond the table sit the placed set-pieces the DM chooses rather than rolls —
 Balor under Haals, the salmon in the river, the little people, the Children of

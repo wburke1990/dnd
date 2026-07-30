@@ -45,6 +45,9 @@ Spiritus = "Spiritus"  # Latin "Spiritus Mundi" in W. B. Yeats, "The Second Comi
 # spelling, not ours to correct.
 Achilleus = "Achilleus"
 Akhilleus = "Akhilleus"
+# Phonetic respelling in the Copaa bestiary's "Say it" column (how to say
+# the Gaelic names at the table). typos reads "muh" as "much".
+muh = "muh"  # murúch = muh-ROOKH
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.
