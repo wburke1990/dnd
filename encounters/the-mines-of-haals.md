@@ -48,8 +48,9 @@ as the session wants; the order is fixed by depth.
    the height of the kingdom; the picks reach the giant; the water turns; and
    above, in the same moment, the crops fail and the river runs foul. The fall as
    it happened, played at the point it happened.
-4. **The conquest.** The gnomes' holy war on the Firbolg, thousands of years back
-   — the scene the party is attacked in (below).
+4. **The long war.** The gnomes' war on the Firbolg — not a single conquest but
+   generations of it, Musa's descendants prosecuting it through the dark ages. The
+   scene the party is attacked in (below).
 5. **The Firbolg age.** The first people, [Sarric's kin](../characters/sarric.md),
    the earth-kin alive: the [handprints being pressed into the wall at La Cava](temple-sites.md),
    the earth-kin lying down to become the stone. Sarric walks through his own
@@ -58,10 +59,11 @@ as the session wants; the order is fixed by depth.
 
 ## The gnome ambush
 
-At the conquest level the party walks into the war. Soldiers of the gnome
-holy war are putting the Firbolg to the sword, and they see, in the middle of a
-band of strangers, **a Firbolg** — the enemy their god gave them the land to
-destroy. They attack, taking the party for fear bogs they are already killing.
+At the war level the party walks into it. Gnome soldiers — Musa's descendants,
+generations into the long war — are putting the Firbolg to the sword, and they see,
+in the middle of a band of strangers, **a Firbolg** — the enemy their god gave them
+the land to destroy. They attack, taking the party for fear bogs they are already
+killing.
 
 Run it as a real fight — the soldiers of that age strike and are struck, and their
 weapons draw real blood, because the scene is solid to the party. The party can
@@ -70,23 +72,31 @@ the war does not follow them past its own level. Scale the number of soldiers to
 the party. `[OPEN]` whether killing an echo of a conquest-soldier does anything to
 the history, or only ends that figure in that moment.
 
-## One you can meet — the founding Dragonborn
+## One you can meet — Musa, the founding Dragonborn
 
-He is **alive.** The party meets him at the mouth of the giant's cavern, walking
-out, having just received the prophecy. This is his own moment, thousands of years
-back: the [wandering seer](../lore/the-fallen-gnome-kingdom.md) who led the gnomes
-overland out of Kalikhat has gone in to the giant, been shown the future, and come
-out with it — the vision that drives the conquest and ends up cut into his
+He is **alive**, and he is not hostile to the party. They meet him at the mouth of
+the giant's cavern, walking out, having just received the prophecy. This is his own
+moment, thousands of years back: **Musa**, the wandering dragonborn seer who
+carried the gnomes out of [Kalikhat](../lore/lonka-jotunheim.md) by sea, has gone
+in to the giant, been shown the future, and come out with it — the vision that
+drives the conquest and ends up cut into his
 [watch-stone over Aar](../handouts/locksley-hall-vision.md). He has not taken the
 land yet. He is about to.
 
-Everyone else in the mountain is locked in their own time. He is not, because he
+He came with **five gnomes** — all his boat would carry. Musa founds; the long war
+on the [Firbolg](../lore/the-fallen-gnome-kingdom.md) is prosecuted by his
+**descendants**, generation on generation, through the dark ages of Nila. The
+[long war the party walks through](#the-gnome-ambush) is theirs, not his — Musa is
+where it begins, met at the start.
+
+Everyone else in the mountain is locked in their own time. Musa is not, because he
 has just been shown all of it. He knows the party for what they are — people out of
 the future he was given — and he will talk.
 
-He is a **wandering dragonborn**, [Blackacre's own people](../characters/blackacre.md),
-and one of the [saints Blackacre's faith venerates](../lore/wandering-dragonborn.md),
-met alive instead of at a grave-stone.
+He is a **wandering dragonborn**, [Blackacre's own people](../characters/blackacre.md)
+— the kind of solitary wandering saint
+[Blackacre's faith venerates](../lore/wandering-dragonborn.md), met alive; the
+watch-stone over Aar is his grave.
 
 **He wants to know if what he saw is true.** He has the vision fresh and
 half-formed, and the party is standing proof of how it comes out. He asks what the
@@ -99,18 +109,26 @@ to the fall, the Mughals, and the Company. Let the party tell him, or hold it ba
 **He presses Blackacre.** He is about to take a land by the sword, sure of it, and
 he holds that a man with a gift who will not use it is nothing. He sees a druid
 keeping his power back, and says so.
-[Blackacre bailed when his own plan turned violent](../characters/blackacre.md); the
-founder is the man on his way to do it. Run it as the founder's challenge, for Sam
-to answer — not a fact about the character.
+[Blackacre bailed when his own plan turned violent](../characters/blackacre.md); Musa
+is the man on his way to do it. Run it as his challenge, for Sam to answer — not a
+fact about the character.
 
 - To Blackacre: *"You have the gift and you keep it sheathed. Strength you will not
   use is not yours."*
 
-`[OPEN]` whether the party is **in** the vision he was just given — whether the
+**He asks about Sarric.** To Musa the [Firbolg](../characters/sarric.md) are the
+**nameless ones**, the ones who die — the people his gnomes take the land from, who
+hold no name and so hold no ground. He is not hostile; he asks his kinsman
+Blackacre, plainly, why he travels with one of them.
+
+- To Blackacre: *"Why do you keep company with one of the nameless ones — one of the
+  ones who die?"*
+
+`[OPEN]` whether the party is **in** the vision Musa was just given — whether the
 prophecy on the Aar stone includes them — and whether anything they tell him here
-changes what he does, and so changes the present. And how he takes a
-[Firbolg](../characters/sarric.md) in front of him, on his way to the war that
-kills them.
+changes what he does, and so changes the present. (`[OPEN]` too: the
+[gnome-kingdom doc](../lore/the-fallen-gnome-kingdom.md) says he led them
+*overland* — square that with the boat, or let the sea crossing be the last leg.)
 
 ## The sleeping giant
 
@@ -125,9 +143,9 @@ are now.
 **It spares Sarric.** It knows a Firbolg by the smell of the first age, and it
 speaks to him first.
 
-**The reveal.** The giant is the source of the gnomes' founding prophecy. The
-[wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
-and led the gnomes overland to take this land — the seer dipt into the **giant.**
+**The reveal.** The giant is the source of the gnomes' founding prophecy.
+[Musa, the wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
+and carried the gnomes here to take this land — Musa dipt into the **giant.**
 The vision cut into his [watch-stone over Aar](../handouts/locksley-hall-vision.md)
 is the giant's. The prophecy that built the gnome kingdom and sanctified taking
 the land from the Firbolg came out of the same giant the gnomes would later wake
@@ -150,28 +168,33 @@ lines:
 - *"You want to know what comes. I will give you a piece of the river. You will not
   be able to set it down."*
 
-**The offer.** It offers the party a **prophecy** — a true one, because it is
-looking at the thing it foretells. A prophecy from the giant is a fate spoken that
-holds, the same shape as a [geis](../lore/house-rules-and-world-mechanics.md): once
-carried, it cannot be set down. The party can take it or refuse it.
+**The offer.** It offers the party one **prophecy**, and lets **them choose what to
+ask about.** Whatever they ask — a person, a place, a danger ahead, one of their own
+arcs — it answers, and the answer is true, because it is looking at the thing it
+foretells. The answer is a fate spoken that holds, the same shape as a
+[geis](../lore/house-rules-and-world-mechanics.md): once they have it, they cannot
+set it down. They can ask, or refuse the offer and take nothing.
 
 ## The prophecy — `[OPEN]`
 
-The words are Will/David's to set, and load-bearing, so this stays open. The
-giant is looking at the campaign's future and can foretell anything the metaplot
-wants seeded early. Candidates already in canon it could speak to:
+What it says depends on what the party asks at the table, so this stays open by
+design — do not pre-write it. When they choose their question, answer in the myths'
+cadence, keep it true, and make it a fate they cannot dodge — a thing that stands in
+all of time at once does not foretell a future that can be changed. If the table
+needs a nudge toward what is worth asking, the campaign's open futures are the
+candidates:
 
 - the **Bleeding Star / the comet** that poisoned Kalikhat and drove the gnomes
   out — whether it returns, and what it does when it does;
 - the **transformation cycle** (the [Kun](../bestiary/sea-beasts.md), the comet —
   [campaign overview §B](../lore/campaign-overview.md)) — stone to dragon to beast
   to land and back;
-- the **hot-spot finale** at Kurunatuka.
+- the **hot-spot finale** at Kurunatuka;
+- or one of the party's own arcs — [Blackacre's fleet offer](../characters/blackacre.md),
+  and the like.
 
-Word it in the myths' cadence, keep it true, and make it a fate the party cannot
-dodge — a thing that stands in all of time at once does not foretell a future that
-can be changed. Match the [Tennyson watch-stone vision](../handouts/locksley-hall-vision.md)
-if it should rhyme with the founder's.
+Match the [Tennyson watch-stone vision](../handouts/locksley-hall-vision.md) if the
+answer should rhyme with Musa's.
 
 ## Getting out
 
