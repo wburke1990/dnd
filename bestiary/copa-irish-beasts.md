@@ -16,7 +16,7 @@ The country is dry — rain-shadow grassland, a poisoned lake, and the Haals riv
 with reed and marsh only where the river fills the lake. The **Firbolg** were
 first, the earth-kin who lie down and become the land; their dead lie in graves
 across it, and where a grave is opened the dead poison the ground (the region's
-poison — see *Balor* and *The giant's children* in the placed set-pieces below).
+poison — see *Balor* and *The Fomorian blight* in the placed set-pieces below).
 The gnomes who came after are the fair folk of the mounds, and they deal in
 **[geasa](../lore/house-rules-and-world-mechanics.md)** — a sworn prohibition
 worded in the old cadence, offered as the price of a boon and sworn freely by the
@@ -355,27 +355,28 @@ for, or driven under and left, not fought on the shore.
 Six the DM sites rather than rolls, each tied to what Copaa already carries.
 
 **Balor of the Death-Eye — the buried giant under Haals.** The
-[giant under Haals](../lore/the-fallen-gnome-kingdom.md) is **Balor**, whose one
-eye kills what it looks on, kept lidded by a heavy shroud that takes four men to
-lift. He is the first father of the **Firbolg**, the greatest of the earth-kin,
-put down by the gnomes when they took the land, and he sleeps in the stone he
-became. His eye is time (see *Time in the mountain*, below): to have it open on you
-is to have every year fall at once — the returners and the piper are the eye's work
-at a distance. The [Company's mine](../encounters/the-haals-runoff.md) is digging
-toward him. Held for a high-level set-piece: the eye is met shut, and the encounter
-turns on never letting it open. Its death in the telling is a stone through the eye
-from behind — his own grandson's sling.
+[giant under Haals](../lore/the-fallen-gnome-kingdom.md) is **Balor**, a
+**Fomorian** — the old chthonic kin of the Firbolg, the greatest of them, sleeping
+in the stone he became. His one eye kills what it looks on, kept lidded under a
+shroud that takes four men to lift; the eye is time (see *Time in the mountain*,
+below): to have it open on you is to have every year fall at once — the returners
+and the piper are the eye's work at a distance. He is kin to
+[Sarric's people](../characters/sarric.md), and does not take from his own. The
+[Company's mine](../encounters/the-haals-runoff.md) is digging toward him. Held for
+a high-level set-piece: the eye is met shut, and the encounter turns on never
+letting it open. His death in the telling is a stone through the eye from behind —
+his own grandson's sling.
 
-**The giant's children — the poison.** The Firbolg are Balor's children, and the
-region's poison is theirs, not his. When the gnome kingdom dug too deep at Haals it
-broke into the Firbolg graves, and the disturbed dead fouled the water and the
-ground — crops failed, the river ran bad, and the kingdom fell (the
-[Copaa lament](../handouts/copaa-lament.md)). The
-[Company's mine](../encounters/the-haals-runoff.md) has cut into the same graves,
-and the same poison comes down the river now: the runoff is the old dead disturbed
-again. **Two things sit under Haals, and they are not one** — Balor with his time
-magic, and his children in their graves with the poison. `[settled with Will]` the
-runoff contaminant is the Firbolg-grave poison, not the giant's dunamis.
+**The Fomorian blight — how the kingdom fell.** In the telling the Fomorians grind
+a land down with blight and famine, the earth dying under a bad king. Balor is that
+under Haals. At its height the gnome kingdom broke the Haals taboo and dug too deep,
+and the digging stirred him; from then it withered over generations, the harvests
+failing further each year as the giant turned in his sleep, until it was hollow
+enough for the Mughals to take (the [Copaa lament](../handouts/copaa-lament.md)). No
+battle and no single poisoning — a slow famine, the ground going tired and then bad.
+The [Company's mine](../encounters/the-haals-runoff.md) cuts the same ground now,
+and the same blight comes down the river: the runoff is the old famine surfacing
+again. `[settled with Will]`
 
 **Time in the mountain.** The dead giant is a source of **dunamis** — the time
 and gravity magic of *Wildemount*, worked by **chronurgy** (time) and
@@ -396,9 +397,9 @@ worked as a mine: *The Returner and the Stone* and *The Piper out of the Mound*
 - glimpses forward — a miner sees the cave-in before it comes and cannot stop it,
   a fixed doom foretold, the same shape as the geis: a fate spoken that holds.
 
-The runoff poison is **not** this. That is the Firbolg graves — *The giant's
-children*, above — a separate thing. What Haals leaks down here is time; the two
-run alongside each other under the same mountain.
+The runoff above is Balor's **blight** — the famine of *The Fomorian blight*, above
+— surfacing where the Company digs. What Haals leaks here in the deep is his other
+face: **time.** Blight and time are the two things the one Fomorian does.
 
 Going **into** the mountain is its own set-piece: a walk down through the region's
 whole history to the giant at the bottom, who spares the Firbolg and speaks
@@ -518,4 +519,4 @@ the same history from two mouths.
 - [Sea-beasts](sea-beasts.md) — the sister table (the each-uisce is shared);
   the 2d6 reaction and three-beat run carry over.
 - [Sarric](../characters/sarric.md) — the living Firbolg; the dead in the graves
-  are his people, and Balor their first father.
+  are his people, and Balor their Fomorian kin under Haals.
