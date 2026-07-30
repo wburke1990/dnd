@@ -15,17 +15,17 @@ The rule reaches **only beings of extraplanar nature** — celestials, elemental
 
 The one exception among the party is **Pax**: an **aasimar** carries true celestial nature, so he *does* have a bindable true name and *can be enslaved* — the only PC who can be. (He's been warned.) A bindable name belongs only to a **living** extraplanar being, so most of what a name-hunt turns up **binds** nothing — the names of the dead, and of mortals, enslave no one. But a living mortal's name is not worthless: it grounds a **geas** (below).
 
-## Geas — the name-hold on mortals
+## Geas — the true name's hold on mortals
 
 Mortals cannot be *bound* — but they can be *geas'd*, and the true name is what makes it absolute. **Speaking a living mortal's true name makes Geas auto-succeed: no Wisdom save, and the charge cannot be lifted by ordinary magic** — only by the caster's release, or by the breaking of the name itself. Where a demon's true name makes a **slave**, a mortal's true name makes a **geis**.
 
-Run it in the old register — the **geis of Celtic myth**: a strange, specific prohibition or sworn charge whose breaking brings ruin (*"you shall never refuse a feast set before you," "you shall not lift a weapon against your own blood"*). Word the charge in the myths' own cadence where you can; with the true name behind it, the geis simply **holds**.
+Run it as the **geis of Celtic myth**: a strange, specific prohibition or sworn charge whose breaking brings ruin (*"you shall never refuse a feast set before you," "you shall not lift a weapon against your own blood"*). Phrase the charge the way the myths do, where you can; with the true name behind it, the geis simply **holds**.
 
 **So the party is exposed after all.** Every living one of them has a true name and can be geas'd by anyone who learns it — Pax is not the only one exposed (he alone can be *enslaved*). Their shield is **secrecy, not immunity:** true names are hidden and hard to come by (see *True Names in the World*, below), which is why they are safe in practice and not in principle. **Aniess** is the sharp case — remade into a Yuan-ti, she still **can't be owned** (no bindable name), but like any living mortal she *could* be geas'd if her true name were known; it isn't. `[None of them have been warned they can be geas'd — DM's call whether and when they find out.]`
 
 ## Breaking your own name — the last door
 
-A name-hold can be slipped from the inside, by **changing your own true name** so the stolen key turns nothing — this is the "breaking of the name" that ends a geas (above). The price is total, and it differs by what you are:
+A hold through the true name can be slipped from the inside, by **changing your own true name** so the stolen key turns nothing — this is the "breaking of the name" that ends a geas (above). The price is total, and it differs by what you are:
 
 - A **demon** that changes its name is **unmade** by the act — for a demon, escape and self-destruction are the same thing (see [demons & the hotspot](demons-and-the-hotspot.md)).
 - A **mortal** lives through it — body and **afterlife both intact** — but **loses all of their abilities.** Everything they had made themselves into was carried in the name they shed; change it and you keep your soul and your place in the Duat, yet walk away stripped of all you could do.
