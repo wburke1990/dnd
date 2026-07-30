@@ -44,6 +44,29 @@ points straight at this seam. **[loose — offered, not locked]**
 > [the Muspel empire §5](the-muspel-empire.md)). Carthage's mercantile,
 > mercenary-hiring, Sicily-obsessed side carries over to neither.
 
+## The traders — ruling the sea-roads, and losing the welcome
+
+`[Will 7/29]` The dragonborn's trade history, and how the archipelago's love for them turned.
+
+- **The only ones with boats.** As the Dark Age after the [Bleeding Star](world-history-timeline.md)
+  closed, the dragonborn were the **only people on Nila who could sail,** so they **held all trade.**
+  They **founded almost every major city** ([Maalm](maalm-founding.md) the eldest) and brought goods
+  to a world that had none — and for that they were **welcome everywhere.**
+- **A few centuries ruling the sea-roads.** When the comet raised [Musleheim](musleheim.md)
+  (~4,000 ya), the dragonborn of the [Muspel empire](the-muspel-empire.md) could build **large
+  trading fleets for the first time** — but Musleheim's other gift, its **timber, had to grow:** it
+  took a few hundred years for the trees to reach **mast-height.** Through that gap the **lone
+  wandering dragonborn still held the sea-roads.**
+- **Ceding the trade, keeping the welcome.** Once the timber matured and Muspel's great fleets
+  sailed, the dragonborn **gave up the trade lead to the larger ships** — and were **still welcome
+  everywhere.** They had been loved as founders and as the bringers of goods in the dark, and that
+  did not change when the Muspel fleets grew larger.
+- **The welcome turns — Jotunheim.** Only in the wake of the **[massacre at
+  Jotunheim](lonka-jotunheim.md)** (~1,900 ya — the zealots slaughtering Maalm's colonists) did the
+  archipelago grow **cold toward the dragonborn,** the first time the sea-saints' people were feared
+  in port rather than welcomed. The [zealot–wanderer split](taniyn-and-lonka.md) is felt here as a
+  change in every harbour.
+
 ## The shape of the faith
 
 - **Real-world flavor:** the Maghrebi **marabout** — wandering Sufi
