@@ -72,38 +72,45 @@ the history, or only ends that figure in that moment.
 
 ## One you can meet — the founding Dragonborn
 
-Most of the people in the mountain are locked in their own time and do not see the
-party as themselves. One does. The
-[founding Dragonborn](../lore/the-fallen-gnome-kingdom.md) — the wandering seer who
-led the gnomes overland out of Kalikhat, saw this land before they took it, and
-founded the kingdom and the port at Aar — knows where and when he is. He dipt into
-the future in life — into the giant below — so standing outside his own time is not
-new to him. Meet him at the conquest level or on the way down, and he will talk.
+He is **alive.** The party meets him at the mouth of the giant's cavern, walking
+out, having just received the prophecy. This is his own moment, thousands of years
+back: the [wandering seer](../lore/the-fallen-gnome-kingdom.md) who led the gnomes
+overland out of Kalikhat has gone in to the giant, been shown the future, and come
+out with it — the vision that drives the conquest and ends up cut into his
+[watch-stone over Aar](../handouts/locksley-hall-vision.md). He has not taken the
+land yet. He is about to.
+
+Everyone else in the mountain is locked in their own time. He is not, because he
+has just been shown all of it. He knows the party for what they are — people out of
+the future he was given — and he will talk.
 
 He is a **wandering dragonborn**, [Blackacre's own people](../characters/blackacre.md),
 and one of the [saints Blackacre's faith venerates](../lore/wandering-dragonborn.md),
 met alive instead of at a grave-stone.
 
-**He asks about the party's world.** He wants the year, who holds Aar now, whether
-the kingdom he founded still stands. The answers are the fall, the Mughals, and the
-Company — his kingdom gone three times over. Let the party tell him, or not.
+**He wants to know if what he saw is true.** He has the vision fresh and
+half-formed, and the party is standing proof of how it comes out. He asks what the
+land becomes, who holds Aar, what he founds — and the answer runs past his kingdom
+to the fall, the Mughals, and the Company. Let the party tell him, or hold it back.
 
-- *"What year is it out there? Who holds Aar?"*
-- *"I saw the land before we took it. I told them it was ours, and we made it ours."*
+- *"I have seen it. We take this land and hold it. Tell me I am right."*
+- *"You are from the far end of it. What did we make?"*
 
-**He presses Blackacre.** He took a land by the sword, and he holds that a man with
-a gift who will not use it is nothing. He sees a druid keeping his power back, and
-says so. [Blackacre bailed when his own plan turned violent](../characters/blackacre.md);
-the founder is the man who did not. Run it as the founder's challenge, for Sam to
-answer — not a fact about the character.
+**He presses Blackacre.** He is about to take a land by the sword, sure of it, and
+he holds that a man with a gift who will not use it is nothing. He sees a druid
+keeping his power back, and says so.
+[Blackacre bailed when his own plan turned violent](../characters/blackacre.md); the
+founder is the man on his way to do it. Run it as the founder's challenge, for Sam
+to answer — not a fact about the character.
 
 - To Blackacre: *"You have the gift and you keep it sheathed. Strength you will not
   use is not yours."*
 
-`[OPEN]` whether he is an echo that will not last or the seer himself held out of
-time; whether he knows he is dead; and how he takes a
-[Firbolg](../characters/sarric.md) in front of him, having led the war that killed
-them.
+`[OPEN]` whether the party is **in** the vision he was just given — whether the
+prophecy on the Aar stone includes them — and whether anything they tell him here
+changes what he does, and so changes the present. And how he takes a
+[Firbolg](../characters/sarric.md) in front of him, on his way to the war that
+kills them.
 
 ## The sleeping giant
 
