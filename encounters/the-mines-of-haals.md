@@ -25,8 +25,7 @@ Everyone the party meets in the mountain is held in their own time — aged, fro
 or looping (the drift dangers in [*Time in the mountain*](../bestiary/copa-irish-beasts.md)).
 The party is not. **[Sarric](../characters/sarric.md) is a Firbolg**, the first
 people, and the giant is Fomorian, kin to the Firbolg (Balor, below); it does not
-take from its own blood, and holds its hand off Sarric and the ones who walk with
-him. So the party moves through
+take from its own blood, and spares Sarric and the ones who walk with him. So the party moves through
 the scenes without aging, without freezing, without being pulled into a loop.
 
 They are still **seen.** The past is solid enough to touch them, and to be touched.
@@ -48,16 +47,15 @@ as the session wants; the order is fixed by depth.
 3. **The gnome kingdom, and its fall.** Gnome miners driving a gallery downward at
    the height of the kingdom; the picks reach too deep and break into the Firbolg
    graves, and the first harvest fails. The fall is slow — a famine over generations
-   as the disturbed dead foul the ground — but this is the moment it starts, the
-   Haals taboo broken, played at the point it started.
-4. **The long war.** The gnomes' war on the Firbolg — not a single conquest but
-   generations of it, Musa's descendants prosecuting it through the dark ages. The
+   as the disturbed dead foul the ground — but this level is the break itself, the
+   Haals taboo broken.
+4. **The long war.** The gnomes' war on the Firbolg — generations of it, not a single
+   conquest, Musa's descendants prosecuting it through the dark ages. The
    scene the party is attacked in (below).
 5. **The Firbolg age — La Cava.** The first people, [Sarric's kin](../characters/sarric.md),
    the earth-kin alive. This deep level **is [La Cava](temple-sites.md)** — the
    handprints in the Haals dig are here, being pressed into the wall now, and the
-   earth-kin become the stone. The mine and La Cava are one place, dug
-   apart by an age. Sarric walks through his own people's time, and they do not
+   earth-kin become the stone. The mine and La Cava are one place, dug an age apart. Sarric walks through his own people's time, and they do not
    treat him as a stranger.
 6. **The heart.** Older than all of it — the giant, asleep (below).
 
@@ -89,7 +87,7 @@ land yet. He is about to.
 
 He came with **five gnomes** — all his boat would carry. Musa founds; the long war
 on the [Firbolg](../lore/the-fallen-gnome-kingdom.md) is prosecuted by his
-**descendants**, generation on generation, through the dark ages of Nila. The
+**descendants**, over many generations, through the dark ages of Nila. The
 [long war the party walks through](#the-gnome-ambush) is theirs, not his — Musa is
 where it begins, met at the start.
 
@@ -155,17 +153,16 @@ speaks to him first.
 from the disturbed Firbolg graves, not from Balor: the gnome kingdom broke into them
 and the kingdom withered, and the [Company's mine](the-haals-runoff.md) is breaking
 into them again (see [the bestiary, *The blight from the graves*](../bestiary/copa-irish-beasts.md)).
-Balor's one thing is **time.** The graves hold the poison; Balor holds the time; they
-share a mountain.
+Balor's one thing is **time.** The graves hold the poison and Balor holds the time; the two are in the same mountain.
 
 **The reveal.** The giant is the source of the gnomes' founding prophecy.
 [Musa, the wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
 and carried the gnomes here to take this land — Musa dipt into the **giant.**
 The vision cut into his [watch-stone over Aar](../handouts/locksley-hall-vision.md)
 is the giant's. The prophecy that built the gnome kingdom and sanctified taking
-the land from the Firbolg came out of the same mountain the gnomes would later
-break open, and be destroyed by. The founding and the doom have one source,
-sleeping at the bottom of the mine.
+the land from the Firbolg came out of the same mountain the gnomes later broke
+open, and the breaking destroyed them. The founding prophecy and the fall came from
+the same giant, asleep at the bottom of the mine.
 
 **Its voice.** It sees every year of the mountain at once and speaks from all of
 them — the register of the weirwoods and the three-eyed raven. It is not surprised
@@ -208,13 +205,13 @@ candidates:
 - or one of the party's own arcs — [Blackacre's fleet offer](../characters/blackacre.md),
   and the like.
 
-Match the [Tennyson watch-stone vision](../handouts/locksley-hall-vision.md) if the
-answer should rhyme with Musa's.
+Draw on the [Tennyson watch-stone vision](../handouts/locksley-hall-vision.md) if the
+answer should match Musa's.
 
 ## Getting out
 
 The party climbs back up through the same ages in reverse, from the first age to
-the present. Nothing holds them on the way up; the giant's leave carries them out.
+the present. Nothing holds them on the way up; the giant's leave lets them pass.
 They come back to the Company face with whatever they took from the bottom — a
 prophecy that holds, what they learned of the region's whole history from the
 inside, and whatever they carried out of the conquest fight.
