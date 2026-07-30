@@ -84,6 +84,27 @@ dig — **the Firbolgs'**, older than the gnomes (above), left by the earth-kin 
 and become the land. The gnomes who hold this ground now dug through the graves of the
 people they took it from.
 
+## The ancient kingdom's neighbours `[Will 7/29]`
+
+The gnome kingdom was **alone** for its first ~900 years — the Dark Age, no trading partners,
+agriculture only slowly recovering on tired ground. The neighbours below matter from Maalm's
+founding on.
+
+- **The wandering dragonborn — the one outside tie.** Their **founder's own people** ([the
+  prophet](../handouts/locksley-hall-vision.md) was one), and through the Dark Age the **only sailors
+  afloat** — so the lone wandering dragonborn were the gnomes' **single link to the world,** bringing
+  goods no one else could. Welcome here as everywhere (see [the traders](wandering-dragonborn.md)).
+- **[Maalm](maalm-the-elven-stronghold.md), the rich neighbour.** From ~4,100 ya the desert
+  waystation caught the water and the coastal trade and grew rich; the gnomes, with their own
+  watershed but poor exhausted soil and no trade position, stayed the **poorer neighbour** — modest
+  provisions and craft into Maalm's stop, never a peer, never prey.
+- **The dwarves of [Weet](../handouts/the-ruin.md) — kin in the giants' land.** The other half of
+  Suartleheim, two small stone-folk living among the withdrawn giants' works; real trade came
+  **late,** once commerce revived — dwarf metal and stone for gnome craft.
+- **The Firbolgs, south.** Beyond the mountains lay the people the kingdom had dispossessed
+  ([driven south](the-southern-land.md)) — not partners but the wronged at its back, the crime it was
+  founded on standing just over the range.
+
 ## Open threads
 
 - `[OPEN]` **These gnomes vs. the deep gnomes.** Canon already has **deep gnomes** from the
