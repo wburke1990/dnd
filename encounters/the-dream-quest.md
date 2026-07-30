@@ -1,6 +1,15 @@
 # The Dream Quest
 ## A D&D Encounter for 5 Players, Level 2
 
+> **How to use this doc.** Two parts. Part One is background — read it once
+> in prep. Part Two is the run sheet, in play order: read-aloud, the lines to
+> say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
 ---
 
 # OVERVIEW
@@ -151,6 +160,120 @@ and the keepers' names are the only way down
 
 ---
 
+# DM NOTE — BEHIND THE HOUSE SCENES
+
+*Also private from the players. What the house scene hints at but the party
+will not learn this session. Read them in prep so you can run the house scene
+without spelling these out; don't say them aloud at the table. The run sheet
+points back here at the scene each one belongs to.*
+
+## The private cistern
+
+*(DM — lore nuance. Cisterns in Maalm are **state secrets held by the
+cistern-keeper caste**, and approaching a hidden one is a killing offense
+([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)). A
+**private** cistern for a new-money merchant house is either a measure of how
+bought-in the family is, or a thread — how did outsiders come by one? — that
+rhymes with Ghassan's **old-gods-underground** legend and the tunnel network
+under the city. Use it as a hook; leave it `[OPEN]`.)*
+
+## The underground survival is real (settled)
+
+*(DM note — grounding & what's now settled. The pantheon is canon as the dead
+**Amseh** religion ([amseh-dynasty.md](../lore/amseh-dynasty.md)); the
+Dark-Age gap between Amseh's fall and Bedraageon founding Maalm ~4,000 years
+ago is canon ([maalm-founding.md](../lore/maalm-founding.md)), as is the
+**tunnel network** beneath the city — the water works, **Ammit's tomb**, and
+the Abyss below ([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)).
+`[settled — table]` **The underground survival is real, not legend.** The
+Amseh faithful went into the tunnels when the empire fell, kept the old gods
+through the Dark Age, and **came up and settled** when the Twelve raised Maalm
+over them — so **some living Maalm lines descend from them**, the al Qahtani
+and [Lucrecia's House Vettia](../characters/lucrecia.md) among them. **But the
+living don't know it as fact** — Muntadhir and Ali present it as the legend
+their father believed, and Muntadhir does not know the truth of the
+heirloom either. The proof, DM-side, is the **small Anubis** (below): the
+family's ~5,000-year heirloom, and a piece of **godstone** — see there. This
+does **not** contradict the deep being **forbidden and lethal, with no one
+living down there now** — the survivors came up long ago; the deep is still
+Ammit's tomb and the death of the dark (the Abyss being only the name for those
+tunnels), no demons.)*
+
+## The small Anubis — what it really is
+
+*(DM — the truth, kept ambiguous at the table. The Anubis is the family's
+**~5,000-year heirloom**, carried out of the Amseh empire, down into the
+tunnels through the Dark Age, and back up — the physical proof the underground
+survival is real. It is a piece of **godstone** — the
+**sentient stone that falls on the comet pass**, the substance of the
+comet-born gods
+([Kuru & the phoenix](../lore/kuru-and-the-phoenix.md#1-the-short-version)) —
+which is why it reads as "from the other side of the veil" and works as the
+rite's other-plane focus. **Neither Muntadhir nor Ali knows any of this;** to
+them it is only the piece their father wouldn't explain. It is an **Amseh**
+god's godstone, **not the phoenix's** — so it carries **no demon-hatred** (that
+is the phoenix stone's alone; see
+[Kuru & the phoenix](../lore/kuru-and-the-phoenix.md)). 🔒 `[OPEN]` — hooks, not
+unknowns about godstone itself: **which comet-born god** this fragment is, and
+**how the Amseh came by it**.)*
+
+## The father's two warnings — what they foreshadow
+
+*(DM — the two sayings foreshadow the dream's rules without explaining them.
+"Take no wound in the dark" is the damage-ends-the-spell rule ([Overview](#overview),
+[Gate Two](#gate-two--apep), [Gate Six](#gate-six--the-fire)). "Turn back at the
+blue veil" is Osiris's veil in the [Hall of Two Truths](#the-hall-of-two-truths),
+where Anubis leads the party out before the verdict — the living turn back, they
+do not pass through. Neither child knows any of this; play them repeating words
+they cannot read. The blue veil is also the spell's own name, *Dream of the Blue
+Veil*.)*
+
+## Why the children can't dream (and why the party can)
+
+*(DM — the real reason, which neither sibling can give you. A dream is a
+**real crossing**, and **crossing requires standing on one side.** A demon
+stands on both planes at once and so never crosses; the children were born
+standing on both, like their mother. There is no far side for them to
+reach. It is not a journey they fail — it is a journey that was never
+available. See "The dream is a real crossing" in the Road note,
+[demons & the hotspot](../lore/demons-and-the-hotspot.md), and
+[Lineages & Afterlives §11](../lore/lineages-and-afterlives.md). **Note
+this is not about having no afterlife** — that is a separate question, and
+one they also can't answer. Neither child knows any of it; they were
+raised on a story and believe it, so play them honestly ignorant.)*
+
+*(DM — **the whole party gets in, full stop.** The test is standing on
+**one** side, not the right side, and it is all one road — so any
+one-sided sleeper can be set anywhere on it. Sarric comes up against the
+tunnel face on an ordinary night and Pax's nights alternate between that
+and something that addresses him; neither has ever touched the river of
+stars, and **both of them travel tonight.** The lineage rule exists to
+make the children's exclusion mean something, never to bench a player. If
+a player asks whether their character can do this: yes.)*
+
+*(DM — the family wants nothing more than this. The rite is a
+**death-rite**: shepherd Ghassan to judgment. No resurrection, no second
+aim, no catch. Their father asked for it with the last clear breath he
+had and they are carrying it out. If a player is hunting for the angle,
+let them hunt; there isn't one. The secret in this house is what the
+family **is**, not what the rite is **for**.)*
+
+## Soul-parts terminology
+
+*(DM — terminology. **Akh**, not Ankh; the Ankh is the life-symbol, a
+different thing entirely. The other soul-parts are already load-bearing in
+this campaign without being named: the **Ib** is the heart Anubis weighs, the
+**Ren** is the true name the whole names-quest runs on
+([lineages & afterlives §2](../lore/lineages-and-afterlives.md)), and the
+**Sheut** is the shadow — which is why Manizheh's falls slightly askew.)*
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
+
 # THE STORE — THE HIRE
 
 The party's first contact with the family. **Ali/Zaynab** — the younger
@@ -277,14 +400,7 @@ their water — and their gardens — never depend on the shared allotment. The
 morning-after **breakfast** comes straight off the terraces (see
 [Waking](#waking)). Exterior image prompt:
 [al-qahtani-mansion-exterior.md](../prompts/al-qahtani-mansion-exterior.md).
-
-*(DM — lore nuance. Cisterns in Maalm are **state secrets held by the
-cistern-keeper caste**, and approaching a hidden one is a killing offense
-([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)). A
-**private** cistern for a new-money merchant house is either a measure of how
-bought-in the family is, or a thread — how did outsiders come by one? — that
-rhymes with Ghassan's **old-gods-underground** legend and the tunnel network
-under the city. Use it as a hook; leave it `[OPEN]`.)*
+*(The private cistern can lead somewhere later — see Background: "The private cistern.")*
 
 The house is shelved and hung like a museum. Relics of the **Amseh
 dynasty** — the fallen empire whose gods the party met in the Valley of the
@@ -325,25 +441,9 @@ the dark, and came back up when Bedraageon raised Maalm over the deep.
 *(Muntadhir:)*
 *"The way he told it: when the empire fell and the gods didn't answer, the ones who still believed went down. Into the tunnels — the ones under the city now, the ones nobody's allowed near. They kept the faith down there the better part of a thousand years, and walked back into the light when the Twelve built Maalm on top of them. That's the legend. He believed it."*
 
-*(DM note — grounding & what's now settled. The pantheon is canon as the dead
-**Amseh** religion ([amseh-dynasty.md](../lore/amseh-dynasty.md)); the
-Dark-Age gap between Amseh's fall and Bedraageon founding Maalm ~4,000 years
-ago is canon ([maalm-founding.md](../lore/maalm-founding.md)), as is the
-**tunnel network** beneath the city — the water works, **Ammit's tomb**, and
-the Abyss below ([maalm-the-elven-stronghold.md](../lore/maalm-the-elven-stronghold.md)).
-`[settled — table]` **The underground survival is real, not legend.** The
-Amseh faithful went into the tunnels when the empire fell, kept the old gods
-through the Dark Age, and **came up and settled** when the Twelve raised Maalm
-over them — so **some living Maalm lines descend from them**, the al Qahtani
-and [Lucrecia's House Vettia](../characters/lucrecia.md) among them. **But the
-living don't know it as fact** — Muntadhir and Ali present it as the legend
-their father believed (above), and Muntadhir does not know the truth of the
-heirloom either. The proof, DM-side, is the **small Anubis** (below): the
-family's ~5,000-year heirloom, and a piece of **godstone** — see there. This
-does **not** contradict the deep being **forbidden and lethal, with no one
-living down there now** — the survivors came up long ago; the deep is still
-Ammit's tomb and the death of the dark (the Abyss being only the name for those
-tunnels), no demons.)*
+*(What's actually true here — see Background: "The underground
+survival is real (settled)." The children believe it as legend; play it that
+way.)*
 
 ## The Small Anubis — What the Rite Requires
 
@@ -360,22 +460,8 @@ other side of the veil.
 Keep the statue's provenance ambiguous; don't explain it. It is the spell's
 other-plane focus, and it becomes the gift at the end — see
 [The Reward](#the-reward).
-
-*(DM — the truth, kept ambiguous at the table. The Anubis is the family's
-**~5,000-year heirloom**, carried out of the Amseh empire, down into the
-tunnels through the Dark Age, and back up — the physical proof the underground
-survival is real. It is a piece of **godstone** — the
-**sentient stone that falls on the comet pass**, the substance of the
-comet-born gods
-([Kuru & the phoenix](../lore/kuru-and-the-phoenix.md#1-the-short-version)) —
-which is why it reads as "from the other side of the veil" and works as the
-rite's other-plane focus. **Neither Muntadhir nor Ali knows any of this;** to
-them it is only the piece their father wouldn't explain. It is an **Amseh**
-god's godstone, **not the phoenix's** — so it carries **no demon-hatred** (that
-is the phoenix stone's alone; see
-[Kuru & the phoenix](../lore/kuru-and-the-phoenix.md)). 🔒 `[OPEN]` — hooks, not
-unknowns about godstone itself: **which comet-born god** this fragment is, and
-**how the Amseh came by it**.)*
+*(What it really is — see Background: "The small Anubis — what it really is."
+Keep it ambiguous at the table.)*
 
 *(DM — physical prop. There is a **real mini** on the table for this. Put
 it in a player's hand at the tour and let it stay out for the rest of the
@@ -426,14 +512,8 @@ them on unchanged. The children repeat them and do not know what they mean.
 *(Ali:)*
 *"I don't know what they mean. I never have. He said them every time, the same words, and I never asked what for. I'm only telling you because he made us promise."* *(a beat)* *"That second one he'd say twice."*
 
-*(DM — the two sayings foreshadow the dream's rules without explaining them.
-"Take no wound in the dark" is the damage-ends-the-spell rule ([Overview](#overview),
-[Gate Two](#gate-two--apep), [Gate Six](#gate-six--the-fire)). "Turn back at the
-blue veil" is Osiris's veil in the [Hall of Two Truths](#the-hall-of-two-truths),
-where Anubis leads the party out before the verdict — the living turn back, they
-do not pass through. Neither child knows any of this; play them repeating words
-they cannot read. The blue veil is also the spell's own name, *Dream of the Blue
-Veil*.)*
+*(What these two warnings point to — see Background: "The father's two
+warnings." Play the children repeating words they cannot read.)*
 
 ## "We've Tried" — They Cannot Cross the Threshold
 
@@ -498,33 +578,10 @@ whether there's anything inside him. There is. They are the ones who
 cannot dream. Let the party find that on their own — nobody in the room
 says it.
 
-*(DM — the real reason, which neither sibling can give you. A dream is a
-**real crossing**, and **crossing requires standing on one side.** A demon
-stands on both planes at once and so never crosses; the children were born
-standing on both, like their mother. There is no far side for them to
-reach. It is not a journey they fail — it is a journey that was never
-available. See "The dream is a real crossing" above,
-[demons & the hotspot](../lore/demons-and-the-hotspot.md), and
-[Lineages & Afterlives §11](../lore/lineages-and-afterlives.md). **Note
-this is not about having no afterlife** — that is a separate question, and
-one they also can't answer. Neither child knows any of it; they were
-raised on a story and believe it, so play them honestly ignorant.)*
-
-*(DM — **the whole party gets in, full stop.** The test is standing on
-**one** side, not the right side, and it is all one road — so any
-one-sided sleeper can be set anywhere on it. Sarric comes up against the
-tunnel face on an ordinary night and Pax's nights alternate between that
-and something that addresses him; neither has ever touched the river of
-stars, and **both of them travel tonight.** The lineage rule exists to
-make the children's exclusion mean something, never to bench a player. If
-a player asks whether their character can do this: yes.)*
-
-*(DM — the family wants nothing more than this. The rite is a
-**death-rite**: shepherd Ghassan to judgment. No resurrection, no second
-aim, no catch. Their father asked for it with the last clear breath he
-had and they are carrying it out. If a player is hunting for the angle,
-let them hunt; there isn't one. The secret in this house is what the
-family **is**, not what the rite is **for**.)*
+*(The real reason they can't dream, the ruling that the **whole party still
+gets in** regardless of lineage, and that the rite is what the family wants —
+all in Background: "Why the children can't dream (and why the party
+can)." If a player asks whether their character can do this: yes.)*
 
 ## The Poem Is the Spell
 
@@ -680,12 +737,8 @@ dressed. Three overlapping translucent projections read as light rather than
 flesh, which keeps that beat from landing awkwardly at the table. Describe the
 aspects, not the bodies.)*
 
-*(DM — terminology. **Akh**, not Ankh; the Ankh is the life-symbol, a
-different thing entirely. The other soul-parts are already load-bearing in
-this campaign without being named: the **Ib** is the heart Anubis weighs, the
-**Ren** is the true name the whole names-quest runs on
-([lineages & afterlives §2](../lore/lineages-and-afterlives.md)), and the
-**Sheut** is the shadow — which is why Manizheh's falls slightly askew.)*
+*(Soul-part terminology — Akh vs. Ankh, and the Ib/Ren/Sheut already at work
+elsewhere in the campaign — see Background: "Soul-parts terminology.")*
 
 ---
 
