@@ -82,7 +82,8 @@ RULES: tuple[Rule, ...] = (
         "coined-label",
         r"\b(the|a|an) \w+[- ](engine|loop|ladder|machine|churn)\b"
         r"|\bthe engine (of|underneath|behind|dressed)\b"
-        r"|\b\w+-(engine|loop|ladder|machine|churn|factory)\b",
+        r"|\b\w+-(engine|loop|ladder|machine|churn|factory)\b"
+        r"|\b\w+[- ](beat|stack|cradle)\b",
         "coined label; name the thing plainly (#12)",
     ),
     _rule(
@@ -120,6 +121,28 @@ RULES: tuple[Rule, ...] = (
         "gnomic-passive",
         r"\bthere to be (seen|read|found|felt|heard|had|noticed|worked out|understood)\b",
         "oblique 'there to be X' construction; state what is there (#11)",
+    ),
+    _rule(
+        "war-cliche",
+        r"\bput to the sword\b|\bto the last man\b"
+        r"|\bbled\s+(the\s+)?\w+\s+dry\b|\bbutchered\b",
+        "war/killing cliche or loaded verb; say it plainly (#1, #5)",
+    ),
+    _rule(
+        "repetition-flourish",
+        r"\b(\w+)\s+on\s+\1\b",
+        "'X on X' intensifier flourish; a plain statement is truer (#1, #9)",
+    ),
+    _rule(
+        "meta-jargon",
+        r"\bthe whole timeline\b",
+        "meta/analytical jargon used in-world; name the span plainly (#12)",
+    ),
+    _rule(
+        "history-metaphor",
+        r"\breplayed\b|\bhollowed\s+\w*\s*out\b|\b\w+-hollowed\b"
+        r"|\b(lights?|lit)\s+the\s+\w+\s+wars?\b",
+        "history-as-metaphor verb (replayed/hollowed/lit a war); state what happens (#2, #12)",
     ),
 )
 

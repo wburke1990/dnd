@@ -47,6 +47,40 @@ def test_flags_coined_labels() -> None:
     assert "coined-label" in _rules("a transformation engine in its own right")
 
 
+def test_flags_war_cliche() -> None:
+    assert "war-cliche" in _rules("its people put to the sword")
+    assert "war-cliche" in _rules("a trading power that bled the land dry")
+    assert "war-cliche" in _rules("his ancestors butchered twice")
+    assert "war-cliche" in _rules("held it to the last man")
+
+
+def test_flags_repetition_flourish() -> None:
+    assert "repetition-flourish" in _rules("the party finds aftermath on aftermath")
+    assert "repetition-flourish" in _rules("crime on crime")
+
+
+def test_flags_meta_jargon() -> None:
+    assert "meta-jargon" in _rules("the one city that survived the whole timeline")
+
+
+def test_flags_history_metaphor() -> None:
+    assert "history-metaphor" in _rules("the gnomes' first fall replayed now")
+    assert "history-metaphor" in _rules("the Company hollowed them out")
+    assert "history-metaphor" in _rules("a famine-hollowed kingdom")
+    assert "history-metaphor" in _rules("the cold lights the southern wars")
+
+
+def test_flags_new_coined_labels() -> None:
+    assert "coined-label" in _rules("undone in the Bengal beat")
+    assert "coined-label" in _rules("the full Book-of-Invasions stack")
+    assert "coined-label" in _rules("the Kalikhat Underdark cradle")
+
+
+def test_new_rules_leave_plain_prose() -> None:
+    assert _rules("The ore comes down the river to the landing at Copaa.") == set()
+    assert _rules("He stacked the crates and bled the brakes.") == set()
+
+
 def test_flags_simile_and_made_literal() -> None:
     assert "simile" in _rules("it moved as if alive")
     assert "made-literal" in _rules("his old fear made literal")
