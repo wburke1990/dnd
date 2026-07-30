@@ -18,11 +18,10 @@ first, the earth-kin who become the land; their dead lie in graves
 across it, and where a grave is opened the dead poison the ground (the region's
 poison — see *The blight from the graves* in the placed set-pieces below).
 The gnomes who came after are the fair folk of the mounds, and they deal in
-**[geasa](../lore/house-rules-and-world-mechanics.md)** — a sworn prohibition
-worded in the old cadence, offered as the price of a boon and sworn freely by the
-one who takes it, its breaking bringing ruin (the geis is already the world's
-name-hold on mortals; the little people are where it lives in play, run through
-their music — see *The Little People*, below).
+**[geasa](../lore/house-rules-and-world-mechanics.md)** — a strange, specific
+prohibition, offered as the price of a boon and sworn freely by the
+one who takes it, its breaking bringing ruin (the geis is already the world's hold on mortals through their names; the little
+people are where geasa come up in play — see *The Little People*, below).
 
 **When to roll.** Roll once per **day the party is out in the Copaa country** —
 the grassland, the lake shore, the Aar road, the emptied Mughal houses. Rolls **1–3**
@@ -244,11 +243,11 @@ nothing they offer without knowing the price — the fairy cup and the fairy mea
 come with a debt. Bow, and they may leave a gift on the road behind them;
 interrupt or insult the ride, and the party has made an enemy of the whole court
 under the hill (the gnomes who went under). A party that deals with them rather
-than only standing aside is offered the music bargain — a boon for a song and a
-sworn **[geas](../lore/house-rules-and-world-mechanics.md)** (see *The Little
+than only standing aside is offered the little people's bargain — play for a gift, or swear a
+**[geas](../lore/house-rules-and-world-mechanics.md)** for a boon (see *The Little
 People*, below).
 
-*Tags:* Copaa; d20:13; stand aside; the music bargain; the geis is offered here
+*Tags:* Copaa; d20:13; stand aside; the little people's bargain; the geis is offered here
 
 ### 14 · Fear Ceoil, the Piper
 *Fey (Medium, a musician of the mound)* — **Fey, CR 3**
@@ -296,7 +295,7 @@ and holds until the light or the dawn breaks the flock.
 *Tags:* Copaa; d20:16; the host of the unforgiven dead; comes from the west; shut the west windows
 
 ### 17 · Abhartach
-*Undead (Small, a deformed dwarf-lord risen from his grave, blood on his mouth)* —
+*Undead (Small, a deformed gnome-lord risen from his grave, blood on his mouth)* —
 **Undead, CR 5**
 
 A tyrant of the little people who died and would not stay dead — he climbs out of
@@ -418,27 +417,29 @@ poison in one flesh.** Whoever burns a thumb on the cooking and sucks it, as Fio
 did, takes the knowledge — and the contaminant with it. A boon that is also the
 region's wound, eaten. Place it as a wonder and a temptation, not a fight.
 
-**The Little People — a geas for a tune.** The gnomes who went under the hill
-keep to the emptied houses and the mound, and at night they are at their music —
-pipes and a bodhrán, dancing on the flattened grass. They will deal, and the deal
-runs through a song. Ask them a boon — safe passage across the poisoned lake, a
-true answer about Haals, a gift, a tune of their own that carries a small magic —
-and they name the price: play for them, and swear a charge. **The performance is
-the bargain.** A PC offers a song and rolls **Performance**; the little people's
-own piper answers, and it plays out as a contest — contested Performance, or a
-run of checks with each hand that joins the tune adding to the tally. A strong
-showing wins a real gift and their favour; a poor one wins a lesser boon or their
-scorn; a botched insult turns the whole session against the party. **The boon is
-sworn, not bought.** To carry the gift out, the winner takes a
-**[geas](../lore/house-rules-and-world-mechanics.md)** — a specific prohibition
-worded in the old cadence and tied to the music: *"you shall never refuse a call
-for a song," "you shall not play this tune before the sun is down," "no other
-hand shall touch your strings."* They swear it freely; it holds because it is
-sworn, and its breaking brings the ruin the old geasa always bring — the
-sworn-charge register, not the true-name hold that enslaves. The little people
-offer; they do not seize. Keep the charge and keep the gift; break it and the
-gift turns on the breaker. Refuse the whole bargain and they play on and let the
-party go — no tune, no geis. `[OPEN]` the boons on offer and the tunes.
+**The Little People — a gift for a song, a favour for a geas.** The gnomes who
+went under the hill keep to the mounds, and at night they are at their music —
+pipes and a bodhrán, dancing on the flattened grass. They will deal two ways.
+
+**Play for them, and a good turn buys a gift.** A PC offers a song and rolls
+**Performance**; the little people's own piper answers, and it plays out as a
+contest — contested Performance, or a run of checks with each player who joins the
+tune adding to the tally. A strong showing buys a real gift and their favour; a
+poor one a lesser token or their scorn; a botched insult turns the whole court
+against the party.
+
+**Ask a greater boon, and the price is a geas.** For safe passage across the
+poisoned lake, a true answer about Haals, or a tune of their own that carries a
+small magic, they name a **[geas](../lore/house-rules-and-world-mechanics.md)** as
+the price. One of the party swears a charge, and the little people do the favour in
+return — a strange, specific prohibition: *"you shall never refuse
+a call for a song," "you shall not cross the running stream after dark," "you shall
+never leave the mound without leaving something behind."* The one who swears takes
+it freely; it holds because it is sworn, and its breaking brings the ruin the old
+geasa always bring. The little people offer the bargain; they do not force it. Keep the charge and keep the favour; break it and the ruin falls on
+the one who swore. Refuse the bargain and they
+let the party go — no favour, no geis. `[OPEN]` the boons on offer and the geasa
+set for them.
 
 **The Children of Lir — the four swans on the lake.** Four white swans on the
 poisoned lake, and when they sing every creature that hears them holds still.
@@ -518,9 +519,8 @@ the same history from two mouths.
 - [The Haals runoff](../encounters/the-haals-runoff.md) — the poison in the water
   the water-beasts swim in; the disturbed Firbolg graves as the runoff.
 - [The Copaa lament](../handouts/copaa-lament.md) — the bean sídhe's song.
-- [House rules — the name-hold on mortals](../lore/house-rules-and-world-mechanics.md)
-  — the **geis**; the little people offer it for a song, sworn freely as the price
-  of a boon.
+- [House rules — the geis](../lore/house-rules-and-world-mechanics.md) — the little
+  people set it as the price of a boon, sworn freely.
 - [Sea-beasts](sea-beasts.md) — the sister table (the each-uisce is shared);
   the 2d6 reaction and three-beat run carry over.
 - [Sarric](../characters/sarric.md) — the living Firbolg; the dead in the graves
