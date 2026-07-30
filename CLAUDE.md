@@ -119,9 +119,17 @@ a mechanic, or a scene a coined name, flagging how much it matters, or predictin
 the table will react. In a design note: name the sequence, state the mechanic,
 describe the moment, and stop. Do not sell it to yourself.
 
-A linter helps: **`prose-lint`** (see the CLI quick reference) flags the fixed
-offenders below on your changed lines — run it before committing. It is an assist,
-not the test; a coined label it has not seen still needs the eye.
+**Two checks help, and they split the work.** The regex linter **`prose-lint`**
+(see the CLI quick reference) flags the *fixed* offenders below on your changed
+lines — it's cheap, deterministic, and already wired into the pre-commit hook as a
+non-blocking advisory, so it runs on every commit. But it only catches patterns
+someone has encoded; a coined label it has never seen (a fresh "Underdark cradle")
+sails past. So for **new or edited prose, also run the `prose-critic` subagent** on
+the changed file before committing (see *Prefer subagents*). It reads only that one
+file — never the lore — so its ear stays naive and it catches the novel coinages
+and flourishes the regex can't. When the critic keeps catching the same new
+coinage, add a regex for it to `prose-lint` so the cheap gate absorbs it. Neither
+is the test; the test is the cross-out above.
 
 Concretely, do not write:
 
@@ -345,6 +353,13 @@ to "should I delegate this?" is **yes**.
   Saves are multi-MB and will wreck your context if you `Read` or `cat`
   them. Use for "what's in this save", "find this object's GUID",
   "what assets does mod X reference", "diff two saves".
+- `prose-critic` — the house-style critic for **content prose**. Hand it a
+  content-markdown file (or a line range) before committing new or edited prose;
+  it returns flagged spans with plain rewrites. It reads **only** the file you give
+  it — never the lore — on purpose, so it stays the naive ear that hears the
+  coinages a marinated writer stops noticing. Style only; it never judges lore or
+  accuracy. The regex `prose-lint` is the cheap gate; this is the smart pass — the
+  two are complements, not substitutes.
 
 For campaign **content** questions (NPCs, bestiary, lore, encounters,
 sessions) there is no dedicated agent — it's all markdown now, so use
