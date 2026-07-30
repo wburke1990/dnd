@@ -384,6 +384,10 @@ giant's leaking dunamis aging the fields and the tomatoes — or whether the tim
 magic runs alongside a separate poison. Bound up with the runoff's own `[OPEN]`
 on what the contaminant is.
 
+Going **into** the mountain is its own set-piece: a walk down through the region's
+whole history to the giant at the bottom, who spares the Firbolg and speaks
+prophecy. See [The Mines of Haals](../encounters/the-mines-of-haals.md).
+
 **The Salmon of Knowledge — in the Haals.** A single old salmon in the river that
 ate the nine hazelnuts of wisdom that fell into the well at the world's source,
 so that the first to taste its flesh knows all things. In Copaa the river is
