@@ -7,8 +7,8 @@
 > chronurgy (see [the Copaa bestiary, *Time in the mountain*](../bestiary/copa-irish-beasts.md)).
 > The deeper the party goes, the older the time, so the descent is a walk down
 > through the region's whole history. It turns on **[Sarric](../characters/sarric.md)**
-> being a Firbolg — a fear bog, the first people — because the giant spares its
-> own. Legend: `[draft]` · `[loose]` · `[OPEN]`.
+> being a Firbolg, the first people — because the giant is their forefather and
+> spares his own. Legend: `[draft]` · `[loose]` · `[OPEN]`.
 
 ## The way in
 
@@ -24,8 +24,9 @@ changes with them.
 Everyone the party meets in the mountain is held in their own time — aged, frozen,
 or looping (the drift dangers in [*Time in the mountain*](../bestiary/copa-irish-beasts.md)).
 The party is not. **[Sarric](../characters/sarric.md) is a Firbolg**, the first
-people, and the giant is of the first age and does not take from its own; it holds
-its hand off him, and off the ones who walk with him. So the party moves through
+people, and the giant is the Firbolg's own forefather (Balor, below); it does not
+take from its own blood, and holds its hand off Sarric and the ones who walk with
+him. So the party moves through
 the scenes without aging, without freezing, without being pulled into a loop.
 
 They are still **seen.** The past is solid enough to touch them, and to be touched.
@@ -45,16 +46,18 @@ as the session wants; the order is fixed by depth.
    open. They kept the taboo. The party can read what the Mughals knew was down
    there and would not touch.
 3. **The gnome kingdom, and its fall.** Gnome miners driving a gallery downward at
-   the height of the kingdom; the picks reach the giant; the water turns; and
-   above, in the same moment, the crops fail and the river runs foul. The fall as
-   it happened, played at the point it happened.
+   the height of the kingdom; the picks break into the Firbolg graves; the water
+   turns and the ground goes bad; and above, in the same moment, the crops fail and
+   the river runs foul. The fall as it happened, played at the point it happened.
 4. **The long war.** The gnomes' war on the Firbolg — not a single conquest but
    generations of it, Musa's descendants prosecuting it through the dark ages. The
    scene the party is attacked in (below).
-5. **The Firbolg age.** The first people, [Sarric's kin](../characters/sarric.md),
-   the earth-kin alive: the [handprints being pressed into the wall at La Cava](temple-sites.md),
-   the earth-kin lying down to become the stone. Sarric walks through his own
-   people's time, and they do not treat him as a stranger.
+5. **The Firbolg age — La Cava.** The first people, [Sarric's kin](../characters/sarric.md),
+   the earth-kin alive. This deep level **is [La Cava](temple-sites.md)** — the
+   handprints in the Haals dig are here, being pressed into the wall now, and the
+   earth-kin lie down and become the stone. The mine and La Cava are one place, dug
+   apart by an age. Sarric walks through his own people's time, and they do not
+   treat him as a stranger.
 6. **The heart.** Older than all of it — the giant, asleep (below).
 
 ## The gnome ambush
@@ -62,7 +65,7 @@ as the session wants; the order is fixed by depth.
 At the war level the party walks into it. Gnome soldiers — Musa's descendants,
 generations into the long war — are putting the Firbolg to the sword, and they see,
 in the middle of a band of strangers, **a Firbolg** — the enemy their god gave them
-the land to destroy. They attack, taking the party for fear bogs they are already
+the land to destroy. They attack, taking the party for Firbolg they are already
 killing.
 
 Run it as a real fight — the soldiers of that age strike and are struck, and their
@@ -137,23 +140,28 @@ the
 
 At the bottom the party reaches the giant. It fills the deep cave, buried in the
 stone it became, one eye lidded under a shroud of grown-over rock. It is
-**Balor** — the [Fomorian the gnomes woke](../lore/the-fallen-gnome-kingdom.md) —
-and its eye is time itself. The [returners on the road and the piper](../bestiary/copa-irish-beasts.md)
-are what its eye does at a distance: to have it open on you is to have all your
-years fall at once. It keeps the eye shut. It is asleep, and it is awake, and both
-are now.
+**Balor**, the first father of the [Firbolg](../lore/the-fallen-gnome-kingdom.md),
+put down by the gnomes when they took the land — and its eye is time itself. The
+[returners on the road and the piper](../bestiary/copa-irish-beasts.md) are what its
+eye does at a distance: to have it open on you is to have all your years fall at
+once. It keeps the eye shut. It is asleep, and it is awake, and both are now.
 
-**It spares Sarric.** It knows a Firbolg by the smell of the first age, and it
-speaks to him first.
+**It spares Sarric.** He is of its own blood — the Firbolg are its children — and
+it speaks to him first.
+
+**The poison is not his.** The runoff that killed Copaa is the giant's **children**
+— the Firbolg dead in their graves, disturbed first by the gnome kingdom's digging
+and now by the Company's mine (see [the bestiary, *The giant's children*](../bestiary/copa-irish-beasts.md)).
+Balor holds time; his children hold the poison. Two things under one mountain.
 
 **The reveal.** The giant is the source of the gnomes' founding prophecy.
 [Musa, the wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
 and carried the gnomes here to take this land — Musa dipt into the **giant.**
 The vision cut into his [watch-stone over Aar](../handouts/locksley-hall-vision.md)
 is the giant's. The prophecy that built the gnome kingdom and sanctified taking
-the land from the Firbolg came out of the same giant the gnomes would later wake
-and be destroyed by. The founding and the doom have one source, sleeping at the
-bottom of the mine.
+the land from the Firbolg came out of the same mountain the gnomes would later
+break open, and be destroyed by. The founding and the doom have one source,
+sleeping at the bottom of the mine.
 
 **Its voice.** It sees every year of the mountain at once and speaks from all of
 them — the register of the weirwoods and the three-eyed raven. It is not surprised
@@ -213,10 +221,11 @@ inside, and whatever they carried out of the conquest fight.
   peoples, the buried giant, the dragonborn founder whose prophecy the giant
   claims.
 - [The Haals runoff](the-haals-runoff.md) — the surface job at the same mine; the
-  runoff whose contaminant may be the giant's time-rot (`[OPEN]`).
+  runoff is the Firbolg-grave poison (Balor's children), not the giant's time magic
+  (`[settled with Will]`).
 - [The Copaa bestiary — *Time in the mountain*](../bestiary/copa-irish-beasts.md)
   — Balor, the drift dangers, the returners and the piper the giant's eye makes.
 - [Sarric](../characters/sarric.md) — the Firbolg the giant spares; the scene is
-  built on him being a fear bog.
+  built on him being a Firbolg, Balor's own descendant.
 - [The watch-stone vision at Aar](../handouts/locksley-hall-vision.md) — the
   founder's cut-in prophecy, which the giant says is its own.

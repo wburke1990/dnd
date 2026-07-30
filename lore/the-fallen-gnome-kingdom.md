@@ -36,7 +36,10 @@
 > [Weet](../handouts/the-ruin.md): the **Dorians among the Mycenaean ruins**, dwarves inheriting
 > the giants' emptied halls — inheritance where Eet is conquest.
 - **A kingdom that fell.** `[Will 7/29]` The gnome kingdom rose after the conquest and, at its
-  height, **dug too deep at Haals and woke a buried giant** — the land turned on it, and it fell.
+  height, **dug too deep at Haals and broke into the Firbolg graves** — the disturbed dead poisoned
+  the water and the ground, the crops failed, and it fell. (Under the same mountain sleeps a **giant
+  with time magic**, the Firbolg's father; the poison is his children's and the time magic his — two
+  things, not one. See [the mines of Haals](../encounters/the-mines-of-haals.md).)
   That was the **distant past.** The **Mughals** then rose over the broken region,
   held it through the long middle age (and kept the Haals taboo), and in turn **fell to the
   [Company](the-company.md) in the colonial age** — the Bengal beat: a trading power that made
@@ -115,9 +118,11 @@ founding on.
   ([campaign overview](campaign-overview.md)). `[settled 7/29]` One **Kalikhat** stock, split by
   the Bleeding Star: the deep gnomes fled underground, these fled overland with the prophet-founder
   to take Suartleheim Eet from the Firbolgs (above).
-- `[settled 7/29]` **What felled the kingdom:** the gnomes **dug too deep at Haals and woke a
-  [buried giant](../encounters/the-haals-runoff.md)** — the mountain is a dead giant, and its waking
-  showed as poison and failed crops, not a rampage (the [Copaa Lament](../handouts/copaa-lament.md));
+- `[settled 7/29; poison refined with Will]` **What felled the kingdom:** the gnomes **dug too deep
+  at Haals and broke into the [Firbolg graves](../encounters/the-mines-of-haals.md)** — the disturbed
+  dead poisoned the water and the crops failed, not a rampage (the [Copaa Lament](../handouts/copaa-lament.md)).
+  Under the same mountain sleeps a **giant with time magic**, the Firbolg's father (Balor); the
+  poison is his children's and the time magic his — two things, not one;
   the **Mughals** rose over the ruin and later **fell to the Company** (the Bengal/colonial beat);
   the Company's mine is that first fall replayed. `[OPEN]` only a fuller writeup of the Mughal period.
 - `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.

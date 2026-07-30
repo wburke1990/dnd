@@ -1,10 +1,10 @@
-# The Fear Bogs — the Copaa bestiary `[draft / new]`
+# The Copaa Bestiary — the Firbolg country `[draft / new]`
 
 > **DM reference.** The wandering bestiary for the **[Copaa](../lore/copaa.md)**
 > country — Suartleheim Eet, the [fallen gnome kingdom](../lore/the-fallen-gnome-kingdom.md).
 > The region's three peoples read straight off the Irish *Book of Invasions*:
-> the **fear bogs** (the Fir Bolg, [Sarric's earth-kin](../characters/sarric.md))
-> came first and lie in the peat; the **gnomes** are the little people who took
+> the **Firbolg** ([Sarric's earth-kin](../characters/sarric.md)) came first; the
+> **gnomes** are the little people who took
 > the land and went under the hills (the Tuatha Dé Danann, the aos sí — the deep
 > gnomes and the [Raand](../lore/nila-atlas.md) remnant are what remains); the
 > **[Mughals](../lore/the-fallen-gnome-kingdom.md)** are the third wave who took
@@ -12,9 +12,12 @@
 > [sea-beasts](sea-beasts.md) are every people's at once and the [Egypt
 > table](egypt.md) is Maalm's next door. Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
-The country is bog. It is named for the people first in it — the fear bogs, the
-Fir Bolg, whose dead lie preserved in the peat and rise out of it. The gnomes who
-came after are the fair folk of the mounds, and they deal in
+The country is dry — rain-shadow grassland, a poisoned lake, and the Haals river,
+with reed and marsh only where the river fills the lake. The **Firbolg** were
+first, the earth-kin who lie down and become the land; their dead lie in graves
+across it, and where a grave is opened the dead poison the ground (the region's
+poison — see *Balor* and *The giant's children* in the placed set-pieces below).
+The gnomes who came after are the fair folk of the mounds, and they deal in
 **[geasa](../lore/house-rules-and-world-mechanics.md)** — a sworn prohibition
 worded in the old cadence, offered as the price of a boon and sworn freely by the
 one who takes it, its breaking bringing ruin (the geis is already the world's
@@ -22,7 +25,7 @@ name-hold on mortals; the little people are where it lives in play, run through
 their music — see *The Little People*, below).
 
 **When to roll.** Roll once per **day the party is out in the Copaa country** —
-the bogs, the lake shore, the Aar road, the emptied gnome houses. Rolls **1–3**
+the grassland, the lake shore, the Aar road, the emptied Mughal houses. Rolls **1–3**
 are the ground and its wildlife; **4–20** are Irish myth, most a **BOON** for the
 right dealing and a **CURSE** for the wrong, and several a **parley or a puzzle**
 answered straight out of their own telling. Place a beast as a set-piece when
@@ -36,7 +39,7 @@ you'd rather choose than roll.
 
 | d20 | Creature | Irish source | Type | CR |
 |----:|----------|--------------|------|----|
-| 1  | Sucking Bog & Corpse-Lights | *tine ghealáin* / bog-body | Hazard / Undead | — |
+| 1  | Firbolg Graves & Corpse-Lights | *tine ghealáin* / the dead | Hazard / Undead | — |
 | 2  | Bog-Wolves | — | Beast | 1/4 each (2d4) |
 | 3  | The Boar of Ben Bulben | *Diarmuid's boar* | Beast | 4 |
 | 4  | Púca | *púca* | Fey | 2 |
@@ -57,26 +60,29 @@ you'd rather choose than roll.
 | 19 | Fear Liath, the Grey Man | *an fear liath* | Fey | 3 (hazard) |
 | 20 | Caoránach of the Lake | *caoránach* | Monstrosity | 8 |
 
-Beyond the table sit three the DM **places** rather than rolls — the buried
-giant under Haals, the salmon in the river, and the court under the mound. See
-the last section.
+Beyond the table sit the placed set-pieces the DM chooses rather than rolls —
+Balor under Haals, the salmon in the river, the little people, the Children of
+Lir, and the two returners. See the last section.
 
 ---
 
 ## The rolls
 
-### 1 · Sucking Bog & Corpse-Lights
-*Hazard, and the Fir Bolg dead who rise from it* — **—**
+### 1 · Firbolg Graves & Corpse-Lights
+*Hazard, and the Firbolg dead who rise when a grave is opened* — **—**
 
-The peat itself. Off the path it takes a foot and holds it (DC 13 STR to pull
-free; a fully mired creature goes under in three failed checks). At dusk pale
-lights stand over the mire — *tine ghealáin*, the corpse-candles — and a
-traveler who follows one walks off the firm ground into the wet. **The fear bogs
-lie here:** the peat keeps its dead whole, skin and hair and the cord that
-strangled them, and now and again one stands up — a bog-body, the first people's
-dead, brown as tanned leather (as a **zombie**, but it does not rot; salt or fire
-puts it back down). **The answer to the light is in the telling:** do not follow
-it. Carry your own flame, or an iron nail turned in the pocket, and hold the path.
+The Firbolg lie in graves across the country and in the reed-marsh where the river
+fills the lake. At dusk pale lights stand over them — *tine ghealáin*, the
+corpse-candles — and a traveler who follows one is led off firm ground into the
+marsh or a grave-cut (DC 13 DEX to catch yourself before the wet or the pit).
+**The dead do not always stay down:** open a Firbolg grave — a dig, a plough, the
+Company's cutting — and the ground goes bad, and now and again one of the dead
+stands up, skin and hair and the cord that killed it kept whole (a **zombie** that
+does not rot; salt or fire puts it back down). This is the region's poison, small:
+opening a grave fouls the ground here the way the
+[opened graves at Haals](#placed-not-rolled) foul the whole watershed. **The answer
+is in the telling:** do not follow the light, and do not open the graves. Carry
+your own flame, or an iron nail turned in the pocket, and hold the path.
 
 *Tags:* Copaa; d20:1; the bog & the light; the Firbolg dead; hold the path
 
@@ -188,7 +194,7 @@ boon.
 ### 10 · Fear Gorta
 *Undead (Medium, a starved man, skin over bone, begging)* — **Undead, CR 1**
 
-The hungry man. He walks the emptied gnome houses and the poor Company road in a
+The hungry man. He walks the emptied Mughal houses and the poor Company road in a
 famine year, and where the [Company](../lore/the-company.md) has bled the ground
 he is on it, holding out a hand. Alms given to him — food, coin, a place at the
 fire — bring luck and a fair season to the giver. Alms refused, and the famine he
@@ -219,8 +225,8 @@ hand, songs and words that come easy — and takes the life for it, so that her
 loved ones burn bright and die young, and she carries their remains back to the
 mound. A party member courted by her gains inspiration and loses their years. **The
 answer is in the telling:** the one who can outlast her, or refuse her, keeps
-their life; the one who gives in is hers. She is met near the mounds and in the
-old gnome houses where the fair folk still keep a door.
+their life; the one who gives in is hers. She is met near the mounds, where the
+fair folk still keep a door.
 
 *Tags:* Copaa; d20:12; the muse who drains; genius for years; near the mounds
 
@@ -349,15 +355,27 @@ for, or driven under and left, not fought on the shore.
 Six the DM sites rather than rolls, each tied to what Copaa already carries.
 
 **Balor of the Death-Eye — the buried giant under Haals.** The
-[giant the gnomes woke by digging too deep](../lore/the-fallen-gnome-kingdom.md)
-is a **Fomorian**, the old chaotic sea-and-earth power the fair folk fought and
-put down — **Balor**, whose one eye kills what it looks on, kept lidded by a heavy
-shroud that takes four men to lift. The [Company's mine](../encounters/the-haals-runoff.md)
-is digging toward that lid. What comes down the river as poison is the giant's
-eye bleeding into the water; the runoff and the myth are one wound. Held for a
-high-level set-piece: the eye is met shut, and the encounter turns on never
-letting it open. Its death in the telling is a stone through the eye from behind
-— his own grandson's sling.
+[giant under Haals](../lore/the-fallen-gnome-kingdom.md) is **Balor**, whose one
+eye kills what it looks on, kept lidded by a heavy shroud that takes four men to
+lift. He is the first father of the **Firbolg**, the greatest of the earth-kin,
+put down by the gnomes when they took the land, and he sleeps in the stone he
+became. His eye is time (see *Time in the mountain*, below): to have it open on you
+is to have every year fall at once — the returners and the piper are the eye's work
+at a distance. The [Company's mine](../encounters/the-haals-runoff.md) is digging
+toward him. Held for a high-level set-piece: the eye is met shut, and the encounter
+turns on never letting it open. Its death in the telling is a stone through the eye
+from behind — his own grandson's sling.
+
+**The giant's children — the poison.** The Firbolg are Balor's children, and the
+region's poison is theirs, not his. When the gnome kingdom dug too deep at Haals it
+broke into the Firbolg graves, and the disturbed dead fouled the water and the
+ground — crops failed, the river ran bad, and the kingdom fell (the
+[Copaa lament](../handouts/copaa-lament.md)). The
+[Company's mine](../encounters/the-haals-runoff.md) has cut into the same graves,
+and the same poison comes down the river now: the runoff is the old dead disturbed
+again. **Two things sit under Haals, and they are not one** — Balor with his time
+magic, and his children in their graves with the poison. `[settled with Will]` the
+runoff contaminant is the Firbolg-grave poison, not the giant's dunamis.
 
 **Time in the mountain.** The dead giant is a source of **dunamis** — the time
 and gravity magic of *Wildemount*, worked by **chronurgy** (time) and
@@ -374,15 +392,13 @@ worked as a mine: *The Returner and the Stone* and *The Piper out of the Mound*
   still at the face, the conquest, the giant's killing, played over, a loop that
   can pull a watcher into it;
 - things aged wrong near the seams — timber rotted through in a shift, iron rusted
-  through, a hand withered — carried out in the water that kills the fields below;
+  through, a hand withered where the time runs fast;
 - glimpses forward — a miner sees the cave-in before it comes and cannot stop it,
   a fixed doom foretold, the same shape as the geis: a fate spoken that holds.
 
-`[OPEN]` whether the [Haals runoff](../encounters/the-haals-runoff.md)'s
-contaminant is this — time-rot in the water rather than a chemical poison, the
-giant's leaking dunamis aging the fields and the tomatoes — or whether the time
-magic runs alongside a separate poison. Bound up with the runoff's own `[OPEN]`
-on what the contaminant is.
+The runoff poison is **not** this. That is the Firbolg graves — *The giant's
+children*, above — a separate thing. What Haals leaks down here is time; the two
+run alongside each other under the same mountain.
 
 Going **into** the mountain is its own set-piece: a walk down through the region's
 whole history to the giant at the bottom, who spares the Firbolg and speaks
@@ -492,7 +508,7 @@ the same history from two mouths.
   peoples (Firbolg / gnome / Mughal), the buried giant, the *Book of Invasions*
   frame this table reads off.
 - [Copaa](../lore/copaa.md) — the ore town these beasts wander; the lake, the
-  landing, the emptied gnome houses, the chinampa guards.
+  landing, the emptied Mughal houses, the chinampa guards.
 - [The Haals runoff](../encounters/the-haals-runoff.md) — the poison in the water
   the water-beasts swim in; Balor's eye as the runoff.
 - [The Copaa lament](../handouts/copaa-lament.md) — the bean sídhe's song.
@@ -501,5 +517,5 @@ the same history from two mouths.
   of a boon.
 - [Sea-beasts](sea-beasts.md) — the sister table (the each-uisce is shared);
   the 2d6 reaction and three-beat run carry over.
-- [Sarric](../characters/sarric.md) — the living Firbolg; the fear bogs are his
-  people's dead.
+- [Sarric](../characters/sarric.md) — the living Firbolg; the dead in the graves
+  are his people, and Balor their first father.
