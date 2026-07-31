@@ -14,6 +14,11 @@ tts/mods-mirror/
 tts/assets/cache/
 !tts/assets/cache/.gitkeep
 
+# Edited/replacement image assets (floor swaps, etc.) are working files
+# only — never host campaign images in git (history balloons; ~1.5 GB for
+# the map set). Upload to TTS Cloud instead. See docs/tts-asset-debug.md.
+tts/floors/
+
 # SQLite WAL/SHM side files — campaign.db itself is the source of truth.
 *.db-wal
 *.db-shm

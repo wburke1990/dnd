@@ -76,23 +76,26 @@ future Hub Build attempts to spawn missing GUIDs. See
 
 When you swap in your own asset — an edited floor image, a rehosted
 mesh — every player's TTS fetches that URL over the network at load.
-So the URL has to be reachable from **their** machines. A link only
-this computer can resolve loads for you and is broken for them:
+So the URL has to be reachable from **their** machines, and it must not
+live in this git repo:
 
 - A **local `file://` path or a `localhost` link works only on the
   machine that made it** — it loads for you and is a broken/blank asset
   for every player. Never paste a local path into a shared save.
-- **GitHub Raw works for players** *because this repo is public*:
-  `https://raw.githubusercontent.com/wburke1990/dnd/main/<path>`. Commit
-  the file and it serves at that URL. This is how the floor swap for
-  Small town (`tts/floors/smalltown_grass_180.jpg`) is hosted. Caveats:
-  it breaks for everyone if the repo goes **private**, or the file is
-  **renamed / moved / its branch deleted**; and `raw.githubusercontent`
-  is not a CDN (it rate-limits), which is fine for a handful of images
-  loaded once per player but not for hundreds of assets. To edit the
-  image later, re-commit it **at the same path** so the URL stays valid
-  (add a `?v=2` cache-buster if TTS serves a stale copy).
-- Steam UGC and imgur also work for players and don't depend on the
-  repo, but you can't guarantee they stay up (the whole reason the asset
-  tooling exists). For anything the game must not lose, back it up with
-  `tts assets backup` and host somewhere you control.
+- **Don't host campaign images in the git repo.** GitHub Raw *serves* a
+  committed file while the repo is public, but images don't scale into
+  git: the full OW map set alone is ~1.5 GB of floor images, and every
+  one bloats clone history forever — the same reason the big saves
+  aren't committed (see [oneworld.md](oneworld.md), "script a new OW map
+  from a padded image"). A weekly campaign's images extrapolate well
+  past what the repo should carry, so **GitHub is not the image host.**
+- **For a one-off manual swap, use TTS Cloud.** Upload the image through
+  TTS's in-client **Cloud Manager**; it mints a
+  `steamusercontent-a.akamaihd.net/ugc/…` URL via Steam Remote Storage.
+  Paste that into the object's asset field. This is **manual only** —
+  Steam Cloud has no external push API, so it can't be scripted (again
+  see [oneworld.md](oneworld.md)); an automated host for the whole fleet
+  (Cloudflare R2) is planned but deferred.
+- Steam UGC and imgur work for players but you can't guarantee they stay
+  up (the whole reason the asset tooling exists). For anything the game
+  must not lose, back it up with `tts assets backup`.
