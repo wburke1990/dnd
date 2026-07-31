@@ -179,7 +179,7 @@ worked: the poison, then the nectar.
   where mortals first dealt with demons.
 - **Lands on:** whoever is chasing what the comet cycle is, and the
   demon-dealing thread.
-- **Region fit:** Kalikhat — South Asian, the Underdark cradle.
+- **Region fit:** Kalikhat — South Asian, the Underdark's origin.
 
 ## The dwarves' forge — Suartleheim `[draft]`
 

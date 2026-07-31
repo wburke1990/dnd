@@ -81,7 +81,7 @@ A DC 10 Perception check at the base of the statues reveals the ancient map on t
 
 # THE WALL LEDGERS — Reading the Economic Record
 
-*A deployable beat for any tomb. Beside the religious paintings, every tomb's walls are ruled into columns of **trade and harvest figures** — the fullest economic history of the dead empire. A character who studies them (**DC 12 Intelligence**, or automatic for anyone who reads Ancient Egyptian) can follow the numbers. Comparing tombs tells a story the paintings don't.*
+*A scene for any tomb. Beside the religious paintings, every tomb's walls are ruled into columns of **trade and harvest figures** — the fullest economic history of the dead empire. A character who studies them (**DC 12 Intelligence**, or automatic for anyone who reads Ancient Egyptian) can follow the numbers. Comparing tombs tells a story the paintings don't.*
 
 **Read aloud — reading the ledgers (Tombs 1 & 2, the prosperous kings):**
 
@@ -651,7 +651,7 @@ Each character who experiences the psychic damage has a brief involuntary vision
 
 **Jasper Vale** (the community lost to others' carelessness; he alone lived, at fourteen) — tablets **39, 40**. Note that Jasper has done no wrong — the room weighs whether you know yourself, not whether you sinned, so his confession is allowed to be grief rather than guilt. Spoken truth: *"I lived. Everyone else didn't. I was fourteen. I have never understood why."*
 
-**Aniess** (taken as a child, remade into a weapon, never once questioning the Order that built her) — tablets **36, 37, 38**, and **14**. Spoken truth: *"I don't know if anything I believe is mine. I have never asked."* This is the heaviest beat for Aniess — the puzzle itself is the first time she's been made to look.
+**Aniess** (taken as a child, remade into a weapon, never once questioning the Order that built her) — tablets **36, 37, 38**, and **14**. Spoken truth: *"I don't know if anything I believe is mine. I have never asked."* For Aniess, the puzzle itself is the first time she's been made to look.
 
 **Blackacre / Adghal** (lost his nerve mid-plan, left Sayid to carry the violence alone, backed out of the Lonka raid, has been avoiding it for years) — tablets **29, 30, 31, 32**. Spoken truth: *"I left my friend to finish what I started, because I was afraid."*
 

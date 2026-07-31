@@ -228,8 +228,8 @@ than as something they watch.
   woundable god is the Phoenix:** Kuru's god is a physical thing — the
   island *is* the god sleeping as stone, and the living phoenix is that
   same stone woken to fire (see [Kuru & the phoenix](../lore/kuru-and-the-phoenix.md)).
-  So the Diomedes beat is on the table **if the party fights on the orc
+  So the Diomedes moment is on the table **if the party fights on the orc
   side** — striking the enemy's living god. It carries real weight: the
   Phoenix is already going mad, and wounding a god is not free (Diomedes'
-  gods took it out of him later). `[OPEN]` a campaign-scale beat — the
+  gods took it out of him later). `[OPEN]` a campaign-scale question — the
   consequences want their own thought.

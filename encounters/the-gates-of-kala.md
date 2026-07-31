@@ -13,7 +13,7 @@
 
 **[Kala](../lore/nila-atlas.md)** (city, Kalikhat north coast, ~X61 Y3) holds the
 **gates of the underworld** — a threshold into the deep world beneath Kalikhat,
-the archipelago's **Underdark cradle** and land of demons
+the archipelago's **Underdark origin** and land of demons
 ([overview §5](../lore/campaign-overview.md);
 [world-history-timeline](../lore/world-history-timeline.md), the Kalikhat thread,
 where the people were driven underground and the surface poisoned).

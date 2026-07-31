@@ -65,7 +65,7 @@ dwarves never worked (see [the Company §3](../lore/the-company.md)).
   [La Cava handprints](temple-sites.md) are theirs), and cutting into it wakes what sleeps
   there. The **[gnome kingdom fell the same way](../lore/the-fallen-gnome-kingdom.md)** in the
   distant past — it dug too deep and roused the terror, and the land turned on it. The
-  **Company's mine is that fall replayed:** the poison in Copaa's water is the terror
+  **Company's mine repeats that fall:** the poison in Copaa's water is the terror
   **stirring again,** the earth-kin dead answering the desecration of their graves. Every
   people between then and now kept the taboo; the Company, ignorant and greedy, breaks it.
   Play the poison as the **first sign** — let the party read the gnomes' fall as the warning,

@@ -226,7 +226,7 @@ set it down. They can ask, or refuse the offer and take nothing.
 
 What it says depends on what the party asks at the table, so this stays open by
 design — do not pre-write it. When they choose their question, answer in the myths'
-cadence, keep it true, and make it a fate they cannot dodge — a thing that stands in
+voice, keep it true, and make it a fate they cannot dodge — a thing that stands in
 all of time at once does not foretell a future that can be changed. If the table
 needs a nudge toward what is worth asking, the campaign's open futures are the
 candidates:

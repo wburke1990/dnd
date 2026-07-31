@@ -51,7 +51,7 @@ Four load-bearing pieces, in order:
 
 ## The Descent — design note
 
-*(Design: this is the Egyptian obelisk-shadow beat rebuilt as a social
+*(Design: this is the Egyptian obelisk-shadow puzzle rebuilt as a social
 approach — a wrong answer that isn't lethal, just costly. It sets up Room 2.)*
 
 ---

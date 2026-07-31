@@ -320,7 +320,7 @@ in as customers):
 *"A rite. A ritual for my father — for the dead. It has to be done properly, and done soon, and I'd sooner pay for hands that know their business than leave it to luck. What it asks of you, I'll tell you at the house. Not before."*
 
 **"Why hire strangers? Why not do it yourselves?"**
-*(a beat — and she simply doesn't answer it)* *"Come to the house."*
+*(a pause — and she simply doesn't answer it)* *"Come to the house."*
 
 She withholds without lying. Her refusal to answer a reasonable question is
 the scene's only real hook that something is wrong — and it leaks nothing
@@ -510,7 +510,7 @@ them on unchanged. The children repeat them and do not know what they mean.
 *And — 'Turn back at the blue veil.'"*
 
 *(Ali:)*
-*"I don't know what they mean. I never have. He said them every time, the same words, and I never asked what for. I'm only telling you because he made us promise."* *(a beat)* *"That second one he'd say twice."*
+*"I don't know what they mean. I never have. He said them every time, the same words, and I never asked what for. I'm only telling you because he made us promise."* *(a pause)* *"That second one he'd say twice."*
 
 *(What these two warnings point to — see Background: "The father's two
 warnings." Play the children repeating words they cannot read.)*
@@ -555,7 +555,7 @@ Then Ali, who has been waiting for it:
 **Jasper does.** He is a descendant of humanoids with a soul, organs, a
 heart; the stone is on the outside
 ([jasper.md](../characters/jasper.md)). He also has nothing he won't talk
-about, so he will answer all of this plainly, which is what makes the beat
+about, so he will answer all of this plainly, which is what makes it
 work — he gives them the truth for free and gets nothing back.
 
 **If Ali puts the question to the whole room, every PC answers yes** — but
@@ -604,7 +604,7 @@ She could be their sister; nothing in her face says she bore and raised
 the two grown people who hired you.)*
 
 *(Ali/Zaynab, following the party's glance:)*
-*"That's our mother. She won't speak. Not since."* *(a beat too long at the door before she looks away)*
+*"That's our mother. She won't speak. Not since."* *(a moment too long at the door before she looks away)*
 
 **DC 12 Perception** on Manizheh reveals subtle wrongness — she does not
 blink at the right intervals, her shadow falls slightly askew, flowers
@@ -676,7 +676,7 @@ the living.
 
 Before they lie down, **Muntadhir** asks whether they've eaten, and tells
 them to — they'll want their strength for what's ahead. A plain host's
-nudge; it also gives the party a beat to deal with food before the rite (as
+nudge; it also gives the party a moment to deal with food before the rite (as
 of this session they're carrying **Goodberries** and a load of **rats** and
 haven't eaten all day — see [Session 6](../sessions/session-06.md)).
 
@@ -732,9 +732,9 @@ If a character studies their own aspects at any point after the offering bowl,
 the gap has narrowed slightly. Do not explain that either.
 
 *(DM — this also solves the naked problem. They wake with nothing and there
-are robes folded in front of them, so there is a beat before anyone is
+are robes folded in front of them, so there is a moment before anyone is
 dressed. Three overlapping translucent projections read as light rather than
-flesh, which keeps that beat from landing awkwardly at the table. Describe the
+flesh, which keeps that moment from landing awkwardly at the table. Describe the
 aspects, not the bodies.)*
 
 *(Soul-part terminology — Akh vs. Ankh, and the Ib/Ren/Sheut already at work

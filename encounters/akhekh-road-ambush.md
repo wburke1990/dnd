@@ -43,7 +43,7 @@ just defending its ground.
 ## A table-humor aside about Greg (not canon)
 
 *(Table-humor aside, not campaign canon: David floated this partly as an
-in-fiction consequence for Greg's habit of talking through every beat
+in-fiction consequence for Greg's habit of talking through every moment
 without leaving room for the DM to respond — "that's what he gets,"
 immediately followed by "I kid, that's bordering on petty." Worth
 remembering as part of where the choice came from, not worth writing into

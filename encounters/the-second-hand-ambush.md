@@ -22,7 +22,7 @@
 
 # OVERVIEW
 
-This is the party's **own Session-1 ambush, replayed for them to watch from the
+This is the party's **own Session-1 ambush, re-enacted for them to watch from the
 outside.** The rat man does to *every* one of Preem's crews what he did to the
 PCs; this time the party stumbles on it mid-fight, with the victims still
 salvageable.
@@ -183,7 +183,7 @@ clawing at the scout's satchel of gifts.
   what it was.
 - **Cassia fights to reach the sergeant.** If the party keeps Halvard alive and
   lets Cassia get her hands on the man who sold out the watch, that's the
-  emotional beat — let it land.
+  moment — let it land.
 - **Stakes for the Second Hand.** The crew should feel **close to a
   wipe** so the rescue means something. Halvard at 0 and stabilizing, Nuru out of
   slots, Corvin bleeding. If the party is slow or clever-but-passive, let a Second

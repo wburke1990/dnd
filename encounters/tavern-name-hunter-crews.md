@@ -56,7 +56,7 @@ middle — and the Writ are holding exactly what the party overlooked.
   crews are the explanation.
 - **Mirror handoffs.** Stage the missing-names exchange member-to-counterpart
   (Doruk→Sarric, Issa→Aniess, etc.). Delivers the mirror and backfills the
-  collectibles in one beat.
+  collectibles in one move.
 - **Pecking order.** Writs *above* the party, Jackals *below*. Let Setha lord it
   and Veska scrap upward — two recurring faces to root against and for.
 - **Complicity, not exposition.** Restraint in Maalm: the mirrors do the work.
@@ -233,7 +233,7 @@ player can't learn by talking.*
 
 ---
 
-## The opening beat — what the party walks in on
+## The opening — what the party walks in on
 
 When the PCs push through the door, the room is already leaning toward one
 table: **Mogg**, the Brass Jackals' half-orc, is **mid-saga**. He's telling
@@ -380,7 +380,7 @@ half-sung — not a lesson.
 
 *When a player walks up to someone, scroll to their block. Every block runs the
 same order: **Appearance** (how they read across the room, and what they're
-drinking) → **Hook lines** (ready dialogue for the intro, the drink, and the beat
+drinking) → **Hook lines** (ready dialogue for the intro, the drink, and the moment
 that shows who they are) → **In conversation** (the backstory a player can
 actually draw out, if they earn it) → and, at the very end, **DM only — what they
 can't tell you** (buried truths, the mirror, hidden mechanics). Read a block
@@ -389,7 +389,7 @@ secrets sit last, after the material that can surface at the table.*
 
 *Crew-level scene notes — how the two crews behave, the pecking order, the
 missing-names handoff — live under **DM levers**. The party first overhear
-**Mogg** mid-saga in **The opening beat** above.*
+**Mogg** mid-saga in **The opening** above.*
 
 ---
 
@@ -812,7 +812,7 @@ and she's the Ashfoot walking, twenty years early.
 
 **Appearance.** Big — the work needs someone big. The biggest cup in the house,
 earned a story at a time; *"a tale for a cup"* is the standing deal. The party
-first overhear him **mid-saga** (see **The opening beat** above).
+first overhear him **mid-saga** (see **The opening** above).
 
 **Hook lines.**
 - *Intro* *(if they came in on his saga, he's just landed the joke):* *"—and

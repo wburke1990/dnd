@@ -166,7 +166,7 @@ With his last words, the thinker beseeched the party to ring the bell beneath th
 
 The cave mouth was a gaping wound in the hillside. The air cold on their skin as they stepped inside, the sound of the surf nothing but a whisper inside the cave. Their boots crunched on loose gravel, and the air smelled of damp stone and old roots.
 
-As they walked deeper into the cave, the floor fell away, a staircase carved into the ancient rock dropping down, each step broad and enough for a giant's stride. Water dripped and echoed somewhere in the dark, a clock's slow beat. The smell was weaker now—moss, rot, and the faint metallic tang of rusted iron or old blood slowly bowed to father time in the silent darkness.
+As they walked deeper into the cave, the floor fell away, a staircase carved into the ancient rock dropping down, each step broad and enough for a giant's stride. Water dripped and echoed somewhere in the dark. The smell was weaker now—moss, rot, and the faint metallic tang of rusted iron or old blood slowly bowed to father time in the silent darkness.
 
 The chamber opened before them: a vast hall. A crumbling stone throne, 10 times the size of a man, leaned against one wall, its back split by a deep fracture. Across from it stood a great altar, its surface scarred by time and half-buried under the rubble of a collapsed ceiling so high that the light of the torches revealed nothing but a black starless void. Shadows filled the vaulted space, broken only by the flicker of their torches.
 
