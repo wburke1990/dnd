@@ -28,7 +28,7 @@ cross-map reference. So importing one map means pulling just that one
 > `e47bca` `55ed53` `432502` `ed6b26` `6b9aab` `811e42` `06363d` `abc718`
 > `a7d428` `56d9e9` `c3aa13` `6d9e46` `bc9404` `dc9743` `b00f40` `4b489d`
 > `fdc25b` `0e869d` `d95910` `e5838c` `df6dd9` `ff391e` `e57584` `4bc694`
-> `d8cc23`
+> `d8cc23` `00c35d` `85ff11` `9e7345` `3695ec`
 
 > **Maintenance (2026-06-25):** the save was cleaned up after this
 > inventory was first built — the 17 duplicate copies were deleted
@@ -94,6 +94,12 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | **Middle Dwarf Town** | e57584 | ✅ usable — Haals | A stone city partly built into a mountainside. Many named minis, some animated. Big vats of lava in what read as smelters. no plate detected → default vBase 25, and it looks right. 46 pieces pruned (24 dead of 261 — a big map, survived well). In staging. |
 | **Dry City** | 4bc694 | 🔖 reserved — not Copaa | A huge "Sultanah's Palace" at one end, big docks at the other, a tropical sea floor. Between them, a stone plaza of water features covered in trade goods. Not Copaa (tropical, not old-west river). Near-clean (3 pruned of 133), floor plate-fit vBase 27.82. Banked for a palace/port scene. **Removed from staging.** |
 | **Loading Docks** | d8cc23 | ✅ usable | Big warehouses on a sandy beach. Floor plate-fit (vBase 18.1), reads well despite a heavy prune (131 pieces of 184 — 60 dead URLs). In staging. |
+| **Yartar** | 00c35d | ⚠️ usable — not chosen | A bridge over a river lined with houses and shops, a tower and gate at each end. A gap in the bridge near the center is part of the map — it's on the floor image, with wreckage and a burned building beside it. 9 pieces pruned (8 dead); default vBase 25. **Removed from staging** — not chosen for Copaa. |
+| **Port city** | 85ff11 | ❌ not usable — lost land | A port ringed by trees. The land mesh is dead-hosted: prune removed 136 of ~190 pieces (28 dead URLs), leaving no ground to stand on. **Removed from staging.** |
+| **Dorter Slums - Docks** | 9e7345 | ⚠️ usable — not chosen | Ships burning in a harbor; rows of houses climbing from the water to higher ground. Smoke uses the broken shader (renders white). 85 pieces pruned (24 dead); default vBase 25. **Removed from staging** — not chosen for Copaa. |
+| **Small City Lvl 1** | 3695ec | ❌ not usable | Only the square and the ground floor of the wizard's tower where the campaign opened — the upper floors are gone. Prune removed 451 of ~624 pieces (27 dead URLs). **Removed from staging.** |
+| **Shady Dragon Inn** | 34a951 | ✅ winner — Annibel meet | *(Source: slot 24 "Shady Dragon Inn" save, not the `TS_Save_22` donor.)* A tavern in a wooded green area — large and detailed, many animated minis, fires with working smoke. In staging for the Annibel meeting. **Import with floor-plate fitting OFF**: the map carries its own ground meshes, and the plate-fit shrank the base to one dirt tile and recentered on it, dropping the floor. Default vBase 25 with no recenter builds it right. 1 dead pruned. Its 60 Dropbox-hosted assetbundles can throttle on a cold OW Build — rehost (`tts assets backup`/`rehost`) if that recurs. |
+| **Redbrand Hideout** | 7562c5 | 🔖 reserved — desert castle | *(Source: slot 24 "Shady Dragon Inn" save, where OW is broken — the OWx bag had lost its name and was rebuilt by hand to import.)* Interior of a desert castle: open stone caskets, skeletons. River shader doesn't load (white water — cosmetic). 1 dead pruned; default vBase 25. Not an arc location — banked. |
 
 ---
 
