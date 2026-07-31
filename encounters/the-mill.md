@@ -2,6 +2,15 @@
 
 ## A D&D Encounter — Maalm, the under-mill tunnels
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > Ratatat gave up the meeting place under torture ([Session 6](../sessions/session-06.md)):
 > *"Bring more to the mill. — V."* The mill is a small artisanal grinder in
 > the mixed city, run by a miller who knows nothing. Below it, in the old
@@ -46,131 +55,6 @@ get away.
 
 ---
 
-# THE PLACE
-
-## The mill, underground
-
-A small **artisanal mill** entered from the mixed city **north of the star fort,
-near the docks but not on them** (the star fort is the walled founders' quarter at
-the north of the plan, see [Maalm](../lore/maalm-the-elven-stronghold.md)). Its
-working chamber is **underground** — cut into Maalm's **upper tunnels** and driven
-by the water-channels that run there (the city's fresh water never stands in the
-open; it runs below). It grinds **heritage grain the founder houses grow in the
-upper-city gardens** — small batches, fresh to order. It is **not** the bulk trade:
-Maalm imports its mass grain **whole, by boat** (flour spoils; you ship grain and
-mill it at the destination), and this grinder is a boutique beside that. Quiet, low
-traffic, out of sight.
-
-The **miller** works the mill chamber and goes no farther into the tunnels. He is
-innocent (see Dramatis Personae); knowing nothing keeps the meeting clean.
-
-## The mill chamber and the adjoining tunnels
-
-**TTS map: The Foundry (`56d9e9`), staged in [`19 - staging`](../tts/one-world-maps-inventory.md).**
-Read the map's rooms as two things:
-
-- **The mill chamber** — the **great water-driven millstone**, run off the channel
-  that flows through. The miller's ground.
-- **The adjoining tunnels** — the rooms beyond: **bones along one wall, a dozen or
-  more, lying where they fell**, not buried; and a **shaft that drops into the
-  dark**, the way down from the upper tunnels toward the **deep** — the Abyss (the
-  name for these tunnels), the forbidden reaches, and at the bottom **Ammit's tomb**
-  ([the deep](../lore/maalm-the-elven-stronghold.md)). The cistern-keeper caste know
-  the safe paths through here; nobody else who comes down does, which is what the
-  bones are.
-
-**V. meets Ratatat out in the adjoining tunnels, not at the millstone** — "the
-mill" is only the landmark Ratatat was told. The party **finds her by exploring the
-tunnels adjoining the mill chamber.** The shaft is where she goes to ground.
-
-## The tunnels and the traps
-
-The approach is a short run of **dry side-cuts and old rubble** adjoining the mill
-chamber — **off the guarded water.** The sacred channels are the cistern-keepers'
-ground (approach them and you're killed, iron law #1), so V. keeps to the dead, dry
-cuts, and so do her traps. Three hazards carry the pressure in place of a boss fight
-— one of V.'s making, two the under-city's own. **D&D 2024; tuned for a level-2
-party** — scale the DCs and dice to taste.
-
-### 1. The tripline (V.'s alarm — the one that matters)
-
-A near-invisible cord strung ankle-high across a side-cut, run back to a stack of
-tin cups and a bell-wire deeper in. **Not a damage trap — an early warning.**
-
-- **Notice.** Passive Perception **15** to catch the cord; **DC 13 Investigation** to
-  trace the mechanism.
-- **Disarm.** **DC 13 Dexterity (Thieves' Tools).**
-- **Trigger & effect.** A creature who misses the cord springs it: a **clatter and a
-  bell** carry down the tunnels. **V. is warned** — she starts for the shaft. In
-  time-race terms this **downgrades a fast approach to a middle one** (she's leaving
-  as they arrive), and a middle one to **gone.**
-
-### 2. The cave-in (the old cut gives way)
-
-A stretch of the dry side-cut runs under sagging timber shoring and loose rock — old
-work, long past trusting.
-
-- **Notice.** DC **14** Perception for the cracked shoring and the rubble poised
-  above; automatic for a creature moving at half speed and searching.
-- **Trigger & effect.** Weight in the wrong place brings it down. **DC 13 Dexterity
-  save** — fail: buried in the fall for **2d6 bludgeoning** and knocked **prone;**
-  success: dive clear. The collapse is **loud** (it can trip V.'s alarm by proxy) and
-  can **block the cut** — sealing a retreat, or a pursuer.
-
-### 3. The lip of the abyss (the dangerous one)
-
-The **huge hole** — the shaft down into the deep — sits in the floor of the far
-room. Its **rim is a false lip:** a crust of rubble that overhangs the drop and reads
-as solid ground in the dark.
-
-- **Notice.** DC **15** Perception (the rim rings hollow, the crust is wrong);
-  **DC 13 Investigation** if probed. **Light and caution matter** — in the dark it is
-  easy to walk straight onto it.
-- **Trigger & effect.** Put weight on the false lip and it breaks away. **DC 14
-  Dexterity save** — on a fail you go **over the edge into the hole.** As you drop you
-  get **one grab at the broken rim: DC 13 Strength (Athletics)** to catch and hang (an
-  ally can **Help,** or throw a rope). **Catch it** → hanging, hauled up.
-  **Miss it** → you **fall into the abyss** — a long drop into the deep; **treat as
-  lethal** unless the party can reach you fast (a rope, *feather fall*, a readied
-  grab). Dial the lethality to your table.
-- **It's her exit, not a hazard to her.** V. knows the true edge from the false lip.
-  She crosses it and **drops down her own safe route into the deep** while pursuers
-  meet the crumbling rim — the shaft is **her ground.**
-
----
-
-# THE TIME-RACE
-
-It is **mid-morning** and the [Dream Quest](the-dream-quest.md) runs tonight, so
-the party may hit the mill first ([Session 6 pacing](../sessions/session-06.md)).
-The corrupt watch **walked Ratatat off** in the square's sham arrest, so he is
-**loose and short two fingers** — and he is the one who can warn V., because V.
-handles him by note, not by the Foundation's magic comms.
-
-**The party's route in (Session 7): Lucrecia's man Daniel.** At the bank the
-party learned the noble **Lucrecia** has her **garden grain milled here** — the
-founder-house garden grain the mill runs on — so she knows the place and offered
-her servant **Daniel** to **guide them on his afternoon grain run.** That is a
-clean way in — arriving behind a grain delivery instead of creeping the tunnels
-cold — but it moves first contact to **the afternoon**, later than the
-mid-morning dash, which **widens Ratatat's window to warn V.** Weigh the cover
-against the lost time.
-
-- **Fast — they catch it.** The party reaches the old chamber before Ratatat does,
-  or as the **meeting is happening**: V. and Ratatat mid-exchange, coin in the rat
-  man's hand. Real first contact. What they do with it is theirs — watch, intercept,
-  parley, or spring it.
-- **Slow — the place is empty.** Ratatat gets there first, tells V. the meeting is
-  blown, and V. is **gone down the shaft.** The party finds the old
-  chamber, the millstone, the bones, the cold meeting spot — and the shape of what
-  happened — but no V. The lead ends here, as designed, and they've found the place
-  to watch.
-- **Middle — a glimpse and a chase.** They arrive as V. is leaving: a look, a few
-  words across the chamber, and V. **drops down the shaft into the deep** before they
-  can close. Don't let them follow far — the deep is lethal and they know it.
-
----
-
 # DRAMATIS PERSONAE
 
 **V. — the First Foundation's one agent in Maalm.** `[settled]` A **human woman:
@@ -187,19 +71,6 @@ so how she plays them is **theirs to determine**: depending on how they act she 
 win.** Pushed or cornered, she goes **invisible and down the shaft into the deep**,
 and is gone. `[OPEN]` V.'s real name; her cover in the city above.
 
-**Her voice.** V. meets questions with contempt. She reads the party as
-adventurers on Preem's errand, answers her own questions before they can,
-mocks the idea that they follow a code, and swears at them to leave — she
-talks to take their measure and buy a moment, not to explain herself.
-David's line for her first exchange, kept as he wrote it:
-
-> Let me ask you a question, are you all adventurers? Ill answer that for
-> you. Of course you are, so original. You all must have a code huh? Rules
-> to abide by. Oh dont strain yourselves. I can answer that as well. The
-> answer is no, SHOCKING. Well in that case, kindly FUCK OFF. What divine
-> righteousness gives you the rite to start demanding shit from an innocent
-> bystander.
-
 **The miller.** `[loose]` An artisan who grinds the founder houses' garden grain
 and asks no questions about the cellar channel he was told never to follow. He is
 **not** in on it — knowing nothing is his safety and the meeting's cover. A source
@@ -213,93 +84,6 @@ failed). Stats and behavior:
 [the rat man](../bestiary/the-rat-man.md) (CR ½ + rat minions; **Scatter!** and
 run — never a kill). If the scene turns to a fight he does what he always does:
 screens with rats and bolts.
-
----
-
-# V. — STAT BLOCK
-
-*Level-10 Arcane Trickster rogue · Medium humanoid (human) · lawful neutral ·
-effective challenge ~5–6.* A blonde, hooded woman working under the alias **V.**
-Ability array and spell picks are a defensible build — retune to taste.
-
-| | |
-|---|---|
-| **Armor Class** | 16 (studded leather) |
-| **Hit Points** | 73 (10d8 + 20) |
-| **Speed** | 30 ft. |
-| **Initiative** | +8 (Alert) |
-| **Proficiency Bonus** | +4 |
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 (+0) | 18 (+4) | 14 (+2) | 16 (+3) | 12 (+1) | 14 (+2) |
-
-- **Saving Throws** Dex +8, Int +7
-- **Skills** Stealth +12, Investigation +11, Deception +10, Perception +9,
-  Sleight of Hand +8, Insight +5, Persuasion +6
-- **Passive Perception** 19
-- **Languages** Common and two others (a spy's)
-
-**Sneak Attack (5d6).** Once per turn, **+5d6** on a hit with a finesse or ranged
-weapon when she has advantage, or when an ally is within 5 ft of the target and she
-isn't at disadvantage.
-
-**Weapon Mastery — Vex.** When she hits and damages a creature with her shortsword or
-hand crossbow, she has **advantage on her next attack against it** before the end of
-her next turn — her reliable way to re-arm Sneak Attack.
-
-**Steady Aim (Bonus Action).** If she hasn't moved and won't move this turn, she gains
-**advantage on her next attack** (another Sneak Attack enabler).
-
-**Cunning Action (Bonus Action).** Dash, Disengage, or Hide.
-
-**Cunning Strike (save DC 16).** She may spend Sneak Attack dice for effects on a hit:
-**Withdraw** (1d6 — move half her speed without provoking opportunity attacks),
-**Poison** (1d6 — Con save or poisoned 1 min), **Trip** (1d6 — Dex save or prone).
-
-**Uncanny Dodge (Reaction).** Halve the damage of one attack she can see hit her.
-
-**Evasion.** On a Dexterity save for half damage, she takes **none** on a success and
-half on a failure.
-
-**Reliable Talent.** On any ability check with a skill she's proficient in, treat a
-d20 of 9 or lower as a **10** — she rarely fails Stealth, Deception, or Investigation.
-
-**Alert (feat).** She adds her proficiency bonus to initiative (**+8** total), and can
-swap her initiative with a willing ally. She usually **acts first** — the ambusher's
-edge.
-
-**Magical Ambush.** If she is **hidden or invisible** from a creature when she casts a
-spell on it, that creature has **disadvantage on the save** (pairs with *Invisibility*
-→ *Charm Person* / *Suggestion*).
-
-**Spellcasting (Intelligence; spell save DC 15, +7 to hit).** She casts wizard spells:
-- **Cantrips:** *Mage Hand* (with **Mage Hand Legerdemain** — the hand is invisible and
-  can stow/retrieve an object, pick a lock, or pick a pocket at 30 ft), *Minor
-  Illusion*, *Prestidigitation.*
-- **1st level (4 slots):** *Disguise Self, Charm Person, Silent Image, Find Familiar.*
-- **2nd level (3 slots):** ***Invisibility*** *(her signature escape), Misty Step,
-  Suggestion.*
-
-### Actions
-- **Shortsword.** *Melee, finesse:* +8 to hit, reach 5 ft. *Hit:* **8 (1d6+4)**
-  piercing, plus **17 (5d6)** if Sneak Attack applies. (Vex.)
-- **Hand Crossbow.** *Ranged, finesse:* +8 to hit, range 30/120 ft. *Hit:* **8 (1d6+4)**
-  piercing, plus Sneak Attack if it applies. (Vex.)
-
-### Bonus Actions
-- **Steady Aim**, **Cunning Action** (Dash / Disengage / Hide), or **Misty Step**
-  (2nd-level slot — 30-ft teleport, her short-range escape).
-
-### Reactions
-- **Uncanny Dodge.**
-
-**Running her in a fight.** She opens **hidden or invisible.** If forced, she lands
-**one big Sneak Attack (~25 on a hit)** — enough to drop a level-2 PC to 0, though
-**not** to kill outright from full — then breaks away: *Invisibility*, *Misty Step*,
-or **Cunning Action: Disengage** toward the shaft, with **Uncanny Dodge** to survive a
-focus-fire round. She fights **to leave, not to win;** the moment it turns costly she
-is gone down the hole (see *The lip of the abyss*).
 
 ---
 
@@ -418,3 +202,235 @@ V.'s map-buying has netted nothing.
       as the founder houses' garden-grain grinder. Record in the Maalm lore.
 - [ ] **Time-race** — track whether the party beats the freed Ratatat here; a sprung
       alarm downgrades a fast approach to a middle one.
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
+
+# THE TIME-RACE
+
+It is **mid-morning** and the [Dream Quest](the-dream-quest.md) runs tonight, so
+the party may hit the mill first ([Session 6 pacing](../sessions/session-06.md)).
+The corrupt watch **walked Ratatat off** in the square's sham arrest, so he is
+**loose and short two fingers** — and he is the one who can warn V., because V.
+handles him by note, not by the Foundation's magic comms.
+
+**The party's route in (Session 7): Lucrecia's man Daniel.** At the bank the
+party learned the noble **Lucrecia** has her **garden grain milled here** — the
+founder-house garden grain the mill runs on — so she knows the place and offered
+her servant **Daniel** to **guide them on his afternoon grain run.** That is a
+clean way in — arriving behind a grain delivery instead of creeping the tunnels
+cold — but it moves first contact to **the afternoon**, later than the
+mid-morning dash, which **widens Ratatat's window to warn V.** Weigh the cover
+against the lost time.
+
+- **Fast — they catch it.** The party reaches the old chamber before Ratatat does,
+  or as the **meeting is happening**: V. and Ratatat mid-exchange, coin in the rat
+  man's hand. Real first contact. What they do with it is theirs — watch, intercept,
+  parley, or spring it.
+- **Slow — the place is empty.** Ratatat gets there first, tells V. the meeting is
+  blown, and V. is **gone down the shaft.** The party finds the old
+  chamber, the millstone, the bones, the cold meeting spot — and the shape of what
+  happened — but no V. The lead ends here, as designed, and they've found the place
+  to watch.
+- **Middle — a glimpse and a chase.** They arrive as V. is leaving: a look, a few
+  words across the chamber, and V. **drops down the shaft into the deep** before they
+  can close. Don't let them follow far — the deep is lethal and they know it.
+
+---
+
+# THE PLACE
+
+## The mill, underground
+
+A small **artisanal mill** entered from the mixed city **north of the star fort,
+near the docks but not on them** (the star fort is the walled founders' quarter at
+the north of the plan, see [Maalm](../lore/maalm-the-elven-stronghold.md)). Its
+working chamber is **underground** — cut into Maalm's **upper tunnels** and driven
+by the water-channels that run there (the city's fresh water never stands in the
+open; it runs below). It grinds **heritage grain the founder houses grow in the
+upper-city gardens** — small batches, fresh to order. It is **not** the bulk trade:
+Maalm imports its mass grain **whole, by boat** (flour spoils; you ship grain and
+mill it at the destination), and this grinder is a boutique beside that. Quiet, low
+traffic, out of sight.
+
+The **miller** works the mill chamber and goes no farther into the tunnels. He is
+innocent (see Dramatis Personae); knowing nothing keeps the meeting clean.
+
+## The mill chamber and the adjoining tunnels
+
+**TTS map: The Foundry (`56d9e9`), staged in [`19 - staging`](../tts/one-world-maps-inventory.md).**
+Read the map's rooms as two things:
+
+- **The mill chamber** — the **great water-driven millstone**, run off the channel
+  that flows through. The miller's ground.
+- **The adjoining tunnels** — the rooms beyond: **bones along one wall, a dozen or
+  more, lying where they fell**, not buried; and a **shaft that drops into the
+  dark**, the way down from the upper tunnels toward the **deep** — the Abyss (the
+  name for these tunnels), the forbidden reaches, and at the bottom **Ammit's tomb**
+  ([the deep](../lore/maalm-the-elven-stronghold.md)). The cistern-keeper caste know
+  the safe paths through here; nobody else who comes down does, which is what the
+  bones are.
+
+**V. meets Ratatat out in the adjoining tunnels, not at the millstone** — "the
+mill" is only the landmark Ratatat was told. The party **finds her by exploring the
+tunnels adjoining the mill chamber.** The shaft is where she goes to ground.
+
+## The tunnels and the traps
+
+The approach is a short run of **dry side-cuts and old rubble** adjoining the mill
+chamber — **off the guarded water.** The sacred channels are the cistern-keepers'
+ground (approach them and you're killed, iron law #1), so V. keeps to the dead, dry
+cuts, and so do her traps. Three hazards carry the pressure in place of a boss fight
+— one of V.'s making, two the under-city's own. **D&D 2024; tuned for a level-2
+party** — scale the DCs and dice to taste.
+
+### 1. The tripline (V.'s alarm — the one that matters)
+
+A near-invisible cord strung ankle-high across a side-cut, run back to a stack of
+tin cups and a bell-wire deeper in. **Not a damage trap — an early warning.**
+
+- **Notice.** Passive Perception **15** to catch the cord; **DC 13 Investigation** to
+  trace the mechanism.
+- **Disarm.** **DC 13 Dexterity (Thieves' Tools).**
+- **Trigger & effect.** A creature who misses the cord springs it: a **clatter and a
+  bell** carry down the tunnels. **V. is warned** — she starts for the shaft. In
+  time-race terms this **downgrades a fast approach to a middle one** (she's leaving
+  as they arrive), and a middle one to **gone.**
+
+### 2. The cave-in (the old cut gives way)
+
+A stretch of the dry side-cut runs under sagging timber shoring and loose rock — old
+work, long past trusting.
+
+- **Notice.** DC **14** Perception for the cracked shoring and the rubble poised
+  above; automatic for a creature moving at half speed and searching.
+- **Trigger & effect.** Weight in the wrong place brings it down. **DC 13 Dexterity
+  save** — fail: buried in the fall for **2d6 bludgeoning** and knocked **prone;**
+  success: dive clear. The collapse is **loud** (it can trip V.'s alarm by proxy) and
+  can **block the cut** — sealing a retreat, or a pursuer.
+
+### 3. The lip of the abyss (the dangerous one)
+
+The **huge hole** — the shaft down into the deep — sits in the floor of the far
+room. Its **rim is a false lip:** a crust of rubble that overhangs the drop and reads
+as solid ground in the dark.
+
+- **Notice.** DC **15** Perception (the rim rings hollow, the crust is wrong);
+  **DC 13 Investigation** if probed. **Light and caution matter** — in the dark it is
+  easy to walk straight onto it.
+- **Trigger & effect.** Put weight on the false lip and it breaks away. **DC 14
+  Dexterity save** — on a fail you go **over the edge into the hole.** As you drop you
+  get **one grab at the broken rim: DC 13 Strength (Athletics)** to catch and hang (an
+  ally can **Help,** or throw a rope). **Catch it** → hanging, hauled up.
+  **Miss it** → you **fall into the abyss** — a long drop into the deep; **treat as
+  lethal** unless the party can reach you fast (a rope, *feather fall*, a readied
+  grab). Dial the lethality to your table.
+- **It's her exit, not a hazard to her.** V. knows the true edge from the false lip.
+  She crosses it and **drops down her own safe route into the deep** while pursuers
+  meet the crumbling rim — the shaft is **her ground.**
+
+---
+
+**Her voice.** V. meets questions with contempt. She reads the party as
+adventurers on Preem's errand, answers her own questions before they can,
+mocks the idea that they follow a code, and swears at them to leave — she
+talks to take their measure and buy a moment, not to explain herself.
+David's line for her first exchange, kept as he wrote it:
+
+> Let me ask you a question, are you all adventurers? Ill answer that for
+> you. Of course you are, so original. You all must have a code huh? Rules
+> to abide by. Oh dont strain yourselves. I can answer that as well. The
+> answer is no, SHOCKING. Well in that case, kindly FUCK OFF. What divine
+> righteousness gives you the rite to start demanding shit from an innocent
+> bystander.
+
+---
+
+# V. — STAT BLOCK
+
+*Level-10 Arcane Trickster rogue · Medium humanoid (human) · lawful neutral ·
+effective challenge ~5–6.* A blonde, hooded woman working under the alias **V.**
+Ability array and spell picks are a defensible build — retune to taste.
+
+| | |
+|---|---|
+| **Armor Class** | 16 (studded leather) |
+| **Hit Points** | 73 (10d8 + 20) |
+| **Speed** | 30 ft. |
+| **Initiative** | +8 (Alert) |
+| **Proficiency Bonus** | +4 |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10 (+0) | 18 (+4) | 14 (+2) | 16 (+3) | 12 (+1) | 14 (+2) |
+
+- **Saving Throws** Dex +8, Int +7
+- **Skills** Stealth +12, Investigation +11, Deception +10, Perception +9,
+  Sleight of Hand +8, Insight +5, Persuasion +6
+- **Passive Perception** 19
+- **Languages** Common and two others (a spy's)
+
+**Sneak Attack (5d6).** Once per turn, **+5d6** on a hit with a finesse or ranged
+weapon when she has advantage, or when an ally is within 5 ft of the target and she
+isn't at disadvantage.
+
+**Weapon Mastery — Vex.** When she hits and damages a creature with her shortsword or
+hand crossbow, she has **advantage on her next attack against it** before the end of
+her next turn — her reliable way to re-arm Sneak Attack.
+
+**Steady Aim (Bonus Action).** If she hasn't moved and won't move this turn, she gains
+**advantage on her next attack** (another Sneak Attack enabler).
+
+**Cunning Action (Bonus Action).** Dash, Disengage, or Hide.
+
+**Cunning Strike (save DC 16).** She may spend Sneak Attack dice for effects on a hit:
+**Withdraw** (1d6 — move half her speed without provoking opportunity attacks),
+**Poison** (1d6 — Con save or poisoned 1 min), **Trip** (1d6 — Dex save or prone).
+
+**Uncanny Dodge (Reaction).** Halve the damage of one attack she can see hit her.
+
+**Evasion.** On a Dexterity save for half damage, she takes **none** on a success and
+half on a failure.
+
+**Reliable Talent.** On any ability check with a skill she's proficient in, treat a
+d20 of 9 or lower as a **10** — she rarely fails Stealth, Deception, or Investigation.
+
+**Alert (feat).** She adds her proficiency bonus to initiative (**+8** total), and can
+swap her initiative with a willing ally. She usually **acts first** — the ambusher's
+edge.
+
+**Magical Ambush.** If she is **hidden or invisible** from a creature when she casts a
+spell on it, that creature has **disadvantage on the save** (pairs with *Invisibility*
+→ *Charm Person* / *Suggestion*).
+
+**Spellcasting (Intelligence; spell save DC 15, +7 to hit).** She casts wizard spells:
+- **Cantrips:** *Mage Hand* (with **Mage Hand Legerdemain** — the hand is invisible and
+  can stow/retrieve an object, pick a lock, or pick a pocket at 30 ft), *Minor
+  Illusion*, *Prestidigitation.*
+- **1st level (4 slots):** *Disguise Self, Charm Person, Silent Image, Find Familiar.*
+- **2nd level (3 slots):** ***Invisibility*** *(her signature escape), Misty Step,
+  Suggestion.*
+
+### Actions
+- **Shortsword.** *Melee, finesse:* +8 to hit, reach 5 ft. *Hit:* **8 (1d6+4)**
+  piercing, plus **17 (5d6)** if Sneak Attack applies. (Vex.)
+- **Hand Crossbow.** *Ranged, finesse:* +8 to hit, range 30/120 ft. *Hit:* **8 (1d6+4)**
+  piercing, plus Sneak Attack if it applies. (Vex.)
+
+### Bonus Actions
+- **Steady Aim**, **Cunning Action** (Dash / Disengage / Hide), or **Misty Step**
+  (2nd-level slot — 30-ft teleport, her short-range escape).
+
+### Reactions
+- **Uncanny Dodge.**
+
+**Running her in a fight.** She opens **hidden or invisible.** If forced, she lands
+**one big Sneak Attack (~25 on a hit)** — enough to drop a level-2 PC to 0, though
+**not** to kill outright from full — then breaks away: *Invisibility*, *Misty Step*,
+or **Cunning Action: Disengage** toward the shaft, with **Uncanny Dodge** to survive a
+focus-fire round. She fights **to leave, not to win;** the moment it turns costly she
+is gone down the hole (see *The lip of the abyss*).
