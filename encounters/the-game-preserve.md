@@ -2,6 +2,15 @@
 
 ## A D&D Encounter — Design Note `[draft]`
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > The middle of the Brauron quest — the poison wild between the town and
 > [the hell-tree](the-hell-tree.md). The party gets in through the hunt, then leaves
 > it and crosses to the tree alone. Read [the hell-tree](the-hell-tree.md) first; the
@@ -16,20 +25,6 @@ and crosses to the tree alone.
 
 Source for the approach: *Heart of Darkness* — the way in gets worse the closer it
 comes to the thing at the center.
-
----
-
-## Read aloud — the edge of the hunt
-
-> *A long fence runs off into the wild both ways. Past it the ground is bad — the
-> grass wrong-coloured and too tall, the trees knotted and low. Hunters are
-> gathering: gnomes in hound-pelts, up on the backs of great hounds, with a loose pack
-> of more hounds circling them. Far out past all of it, too far to make out, a single
-> huge tree stands over everything.*
-
-`[OPEN]` the fence, the muster, the first sight of the far tree.
-
----
 
 ## The hunt
 
@@ -47,6 +42,30 @@ are big enough for a gnome to ride — the pack of the Actaeon rite.
 The hunt stays out in the wild and **never goes near the tree.** The tree is holy
 ground, and no hunter enters it — which is what keeps it alone. The hunters come and
 go for the season and never reach it.
+
+## What still needs building
+
+- The **rules of the hunt** at the table — the two strands.
+- The **stages** of the approach — the shrines, the bird, the mutation clock.
+- **Level** and placement.
+- What the party **recovers** at the tree — see [the hell-tree](the-hell-tree.md).
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
+
+## Read aloud — the edge of the hunt
+
+> *A long fence runs off into the wild both ways. Past it the ground is bad — the
+> grass wrong-coloured and too tall, the trees knotted and low. Hunters are
+> gathering: gnomes in hound-pelts, up on the backs of great hounds, with a loose pack
+> of more hounds circling them. Far out past all of it, too far to make out, a single
+> huge tree stands over everything.*
+
+`[OPEN]` the fence, the muster, the first sight of the far tree.
 
 ---
 
@@ -98,12 +117,5 @@ a dumb bird, long before they reach it (see [the hell-tree](the-hell-tree.md)).
 tracked.
 
 ---
-
-## What still needs building
-
-- The **rules of the hunt** at the table — the two strands.
-- The **stages** of the approach — the shrines, the bird, the mutation clock.
-- **Level** and placement.
-- What the party **recovers** at the tree — see [the hell-tree](the-hell-tree.md).
 
 *End of preserve design note.*
