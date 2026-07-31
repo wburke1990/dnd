@@ -156,6 +156,23 @@ a world full of them.
 - **[The drying of the valley](../lore/the-drying-of-the-valley.md)** — the climate
   baseline this blight is layered on (§1).
 
+## 6. Maps — TTS build (staging, slot 19) `[settled — 7/31]`
+
+Each scene is built from the OneWorld Hub in the **staging save
+(`TS_Save_19`, "19 - staging")**. Per-map detail — prune counts, floor
+quirks — is in [the OW map inventory](../tts/one-world-maps-inventory.md).
+
+| Scene | TTS map | OWx GUID | Notes |
+|---|---|---|---|
+| The mine — ore workings / caves | **Canyon Cave** | `55ed53` | Plate-fit floor, clean import. The tunnels of the Haals dig. |
+| **Haals** — the Company mining camp (§2) | **Middle Dwarf Town** | `e57584` | Stone town built into a mountainside, with lava vats. |
+| **Copaa** — the poisoned town (§1) | **Small town** | `189d29` | A temple, a sword-bearing warrior statue, a smithy. Floor swapped to a grass image, rotated 180°, hosted on TTS Cloud. |
+| The lake / port at **Aar** | **Loading Docks** | `d8cc23` | Warehouses on a sandy beach — where the ore ships out. |
+| The tavern — meeting **Annibel** (§4) | **Shady Dragon Inn** | `34a951` | Wooded tavern, animated minis. Import with floor-plate fitting **off** (it carries its own ground meshes). |
+
+All five are registered in staging now. **Haagen** (the clean upstream
+city, §1) has no map yet.
+
 ## Open threads
 
 - `[OPEN]` What the contaminant **is** (heavy-metal / alchemical / magical) and whether
