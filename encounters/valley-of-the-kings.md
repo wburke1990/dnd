@@ -1,6 +1,13 @@
 # The Valley of the Kings
 ## A D&D Encounter for 5 Players, Level 1
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
 ---
 
 # OVERVIEW
@@ -23,6 +30,29 @@ The party has been sent here by the wizard to collect names. They do not yet kno
 
 ---
 
+# What the wall ledgers record
+
+**DM:** the ledgers are the **Bronze-Age Collapse made legible.** Bronze needs *both* **copper** (from [Lonka](../lore/lonka-jotunheim.md)) **and tin** (from the [Suartleheim West](../lore/technology-and-trade.md) dwarf-mines), carried along sea-roads that all ran **through Lonka** — so when the [Bleeding Star](../lore/amseh-dynasty.md) shattered Lonka and cut the roads, **both halves of bronze died in one year,** and the weapons with them. A party that reads carefully grasps the catastrophe **economically** as well as mythically — and walks away with the names of trade-partners (Lonka; the western dwarf-mines; the amber-land in the deep south) that matter later.
+
+---
+
+# An optional origin for the lepers
+
+> 🔒 `[loose — tentative, 6/28 brainstorm]` **An optional origin for the lepers — the poisoned ones.** A floated idea, *not yet canon:* the lepers may be the **first human victims of the [Haals mine runoff](the-haals-runoff.md)** — people sickened when the [Company](../lore/the-company.md)'s pollution was at its worst, **quietly banished** from Maalm so as not to raise alarm, and **settled in the empty valley** because the city would not open its doors to them (yet, not being monsters, sends the **charity** supplies — which is why the shipments exist). The pollution is "managed" now, so the **acute** sickness has faded, but a **chronic** blight lingers downstream (see the runoff note §2). **David flagged the timing may not work, and we need not connect them at all** — keep this as a possible thread, not a fact. If used, it makes the charity an act of guilt, and ties Maalm's compassion and its complicity into one gesture.
+
+---
+
+# What the Twelve Keepers are
+
+**DM note — what these are.** The twelve are the **keepers of the gates of the dead's road** — the covenant names the funerary tradition existed to carry, and the only kind of true name ever committed to writing (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)). A royal tomb carries the full roll; cheap burials carry titles only, which bind nothing. Which of the twelve are five millennia dead — a dead keeper's name binds nothing, and its successor is named in no tomb — and which still hold their gates is `[OPEN]`. Reveal it through [Mul's](../characters/mul.md) follow-up questions and the sudden jumps in his pay scale, not through exposition. Design intent: the deep hours (5–7) are the old, durable seats; if any keeper still answers to its covenant name, start there. The party missed these captions on their first pass — the [Lapis Writ did not](tavern-name-hunter-crews.md), and their [ledger](../handouts/the-lapis-writ-ledger.md) hands the roll over.
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
+
 # THE MAP MECHANIC
 
 The party carries a sending stone paired with a stone held by the wizard's associate. When a party member taps the sending stone against the location marked on the ancient map — the Valley of the Kings — they hear the wizard's voice:
@@ -30,22 +60,6 @@ The party carries a sending stone paired with a stone held by the wizard's assoc
 **Read aloud — the wizard's sending stone message:**
 
 *"You're standing in the valley of the ancient kings of the land we now know as Maalm. As you probably already know, shortly after Maalm was founded on the ancient ruins, the lords of Maalm cleaned out these tombs. The gods of the ancients are dead now, but there are other powers in this world than gods and stolen relics. I've sent you on this quest in search of names. Search the tombs, get into the inner burial chambers. Find what names you can and relay them to my associates using the sending stone. I don't expect you to find jewels, but know that I will pay you good prices for any jewels you may find on your journeys."*
-
----
-
-# THE WALL LEDGERS — Reading the Economic Record
-
-*A deployable beat for any tomb. Beside the religious paintings, every tomb's walls are ruled into columns of **trade and harvest figures** — the fullest economic history of the dead empire. A character who studies them (**DC 12 Intelligence**, or automatic for anyone who reads Ancient Egyptian) can follow the numbers. Comparing tombs tells a story the paintings don't.*
-
-**Read aloud — reading the ledgers (Tombs 1 & 2, the prosperous kings):**
-
-*"Between the gods and the grave-scenes, the walls are ruled into neat columns of figures — harvest tallies, ship manifests, tribute lists, kept like a merchant's book. Grain up the river. Guano by the boatload. And metal: ingots of **copper** out of Lonka, ingots of **tin** carried down from the western mountains, and — rarer, set apart, almost reverently — beads of golden **amber** from somewhere far to the south, past the edge of any map you know. These are massive trade quantities, an order of magnitude that what you would see passing through current Maalm. The kingdom is growing rich, and you can see exactly how: it sits at the center of a web of roads that reaches the whole world."*
-
-**Read aloud — if they then read Tomb 3 (the warrior king):**
-
-*"The same columns, the same careful hand — and then, partway down a wall, in the hundredth year of the king, everything changes. The grain figures fall off a cliff. The guano stops. The copper stops. The **tin stops.** The amber stops. The whole web of roads goes dark at once, in a single year. And where the trade tallies end, a new kind of figure begins — soldiers, spears, rations for armies. You are looking at the exact year the world ended, written in a bookkeeper's neat hand."*
-
-**DM:** the ledgers are the **Bronze-Age Collapse made legible.** Bronze needs *both* **copper** (from [Lonka](../lore/lonka-jotunheim.md)) **and tin** (from the [Suartleheim West](../lore/technology-and-trade.md) dwarf-mines), carried along sea-roads that all ran **through Lonka** — so when the [Bleeding Star](../lore/amseh-dynasty.md) shattered Lonka and cut the roads, **both halves of bronze died in one year,** and the weapons with them. A party that reads carefully grasps the catastrophe **economically** as well as mythically — and walks away with the names of trade-partners (Lonka; the western dwarf-mines; the amber-land in the deep south) that matter later.
 
 ---
 
@@ -65,6 +79,22 @@ A DC 10 Perception check at the base of the statues reveals the ancient map on t
 
 ---
 
+# THE WALL LEDGERS — Reading the Economic Record
+
+*A deployable beat for any tomb. Beside the religious paintings, every tomb's walls are ruled into columns of **trade and harvest figures** — the fullest economic history of the dead empire. A character who studies them (**DC 12 Intelligence**, or automatic for anyone who reads Ancient Egyptian) can follow the numbers. Comparing tombs tells a story the paintings don't.*
+
+**Read aloud — reading the ledgers (Tombs 1 & 2, the prosperous kings):**
+
+*"Between the gods and the grave-scenes, the walls are ruled into neat columns of figures — harvest tallies, ship manifests, tribute lists, kept like a merchant's book. Grain up the river. Guano by the boatload. And metal: ingots of **copper** out of Lonka, ingots of **tin** carried down from the western mountains, and — rarer, set apart, almost reverently — beads of golden **amber** from somewhere far to the south, past the edge of any map you know. These are massive trade quantities, an order of magnitude that what you would see passing through current Maalm. The kingdom is growing rich, and you can see exactly how: it sits at the center of a web of roads that reaches the whole world."*
+
+**Read aloud — if they then read Tomb 3 (the warrior king):**
+
+*"The same columns, the same careful hand — and then, partway down a wall, in the hundredth year of the king, everything changes. The grain figures fall off a cliff. The guano stops. The copper stops. The **tin stops.** The amber stops. The whole web of roads goes dark at once, in a single year. And where the trade tallies end, a new kind of figure begins — soldiers, spears, rations for armies. You are looking at the exact year the world ended, written in a bookkeeper's neat hand."*
+
+*(The economic story the ledgers tell, and the trade-partner names that matter later — see Background: "What the wall ledgers record.")*
+
+---
+
 # THE LEPER ENCOUNTER
 
 *This encounter occurs at the entrance to Tomb 1. Run it before the players enter the tomb.*
@@ -73,7 +103,7 @@ A DC 10 Perception check at the base of the statues reveals the ancient map on t
 
 Six lepers live in and around the entrance to Tomb 1. They shelter here because the valley is otherwise empty of people and because something in the tomb eases their suffering slightly — they don't know it is Kethara. They are expecting a supply shipment from a charity in the city. If the party brought the supplies from the city gate, the lepers are immediately friendly. If the party did not bring supplies, the encounter begins with wariness and may escalate depending on how the party handles it.
 
-> 🔒 `[loose — tentative, 6/28 brainstorm]` **An optional origin for the lepers — the poisoned ones.** A floated idea, *not yet canon:* the lepers may be the **first human victims of the [Haals mine runoff](the-haals-runoff.md)** — people sickened when the [Company](../lore/the-company.md)'s pollution was at its worst, **quietly banished** from Maalm so as not to raise alarm, and **settled in the empty valley** because the city would not open its doors to them (yet, not being monsters, sends the **charity** supplies — which is why the shipments exist). The pollution is "managed" now, so the **acute** sickness has faded, but a **chronic** blight lingers downstream (see the runoff note §2). **David flagged the timing may not work, and we need not connect them at all** — keep this as a possible thread, not a fact. If used, it makes the charity an act of guilt, and ties Maalm's compassion and its complicity into one gesture.
+*(An optional non-canon origin for the lepers — see Background: "An optional origin for the lepers.")*
 
 ## Read Aloud — Approaching Tomb 1
 
@@ -369,7 +399,7 @@ The upper line of each caption is a title; the lower line is a name. Readable pe
 | 11 | She Who Carries the Light | Neruit |
 | 12 | The Sleeper at the Last Gate | Aken |
 
-**DM note — what these are.** The twelve are the **keepers of the gates of the dead's road** — the covenant names the funerary tradition existed to carry, and the only kind of true name ever committed to writing (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)). A royal tomb carries the full roll; cheap burials carry titles only, which bind nothing. Which of the twelve are five millennia dead — a dead keeper's name binds nothing, and its successor is named in no tomb — and which still hold their gates is `[OPEN]`. Reveal it through [Mul's](../characters/mul.md) follow-up questions and the sudden jumps in his pay scale, not through exposition. Design intent: the deep hours (5–7) are the old, durable seats; if any keeper still answers to its covenant name, start there. The party missed these captions on their first pass — the [Lapis Writ did not](tavern-name-hunter-crews.md), and their [ledger](../handouts/the-lapis-writ-ledger.md) hands the roll over.
+*(What the twelve keepers are, and which may still hold their gates — see Background: "What the Twelve Keepers are.")*
 
 ---
 
