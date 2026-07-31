@@ -2,6 +2,15 @@
 
 ## A D&D Encounter / Site — Design Note `[draft]`
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > Part of the Brauron quest — the town the party comes in through, at the edge of the
 > poison land. See [the hell-tree](the-hell-tree.md) (the root) and
 > [the game preserve](the-game-preserve.md) (the hunt).
@@ -18,6 +27,49 @@ the rite the town keeps. The name is Greek, not Norse: the Norse map-names (Raan
 Suartleheim) came with the Muspel empire, and this town predates it, the way Lonka and
 Kalikhat keep their older names. The cult's name is literal: **the cult of Artemis**,
 word for word.
+
+---
+
+## The people
+
+Gnome artisans and performers, dragon-descended like [Raand](../lore/nila-atlas.md).
+They carve, build, and act. The fruit-birth is their holy story, and they keep it in
+the grove, the statue, the fountain, and the plays.
+
+---
+
+## The Megabyzoi and the Attis mystery
+
+`[DM background]` The Megabyzoi are real: Artemis's priests at Ephesus were castrated,
+in the manner of the **Galli**, the self-cut priests of Cybele and Attis. Attis
+castrates himself under the pine and dies, and his priests followed him into it. So the
+eunuchs are what the Attis story is about — the cutting, the dying god — which is why
+they keep it and the bees do not. (For when a player asks.)
+
+---
+
+## The bee-priestesses and Sarric
+
+`[lands on Sarric]` Sarric carries his beehive everywhere
+([sheet](../characters/sarric.md)); a temple of **bee**-priestesses is a thing the
+world sets in front of him. What he makes of it is Jeremy's.
+
+---
+
+## What still needs building
+
+- The **antlering** at the table — the sign-up, the two readings, the Longstrider
+  blessing.
+- The **Attis walls** — how the mystery is laid out in the temple.
+- Links out to [the game preserve](the-game-preserve.md) and
+  [the hell-tree](the-hell-tree.md).
+
+*End of town design note.*
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
 
 ---
 
@@ -56,14 +108,6 @@ with a tiny girl inside.
 
 ---
 
-## The people
-
-Gnome artisans and performers, dragon-descended like [Raand](../lore/nila-atlas.md).
-They carve, build, and act. The fruit-birth is their holy story, and they keep it in
-the grove, the statue, the fountain, and the plays.
-
----
-
 ## Read aloud — the temple of Artemis
 
 > *The temple is dim and cool. The women who keep it are veiled and still; among them
@@ -80,15 +124,7 @@ The priestesses keep the goddess's other side too: Artemis is also **Hecate**, o
 moon and the dead — the side that has to do with the deadland and the tree. The town's
 girls serve the goddess as **bears** before they marry (the real Brauron rite).
 
-`[DM background]` The Megabyzoi are real: Artemis's priests at Ephesus were castrated,
-in the manner of the **Galli**, the self-cut priests of Cybele and Attis. Attis
-castrates himself under the pine and dies, and his priests followed him into it. So the
-eunuchs are what the Attis story is about — the cutting, the dying god — which is why
-they keep it and the bees do not. (For when a player asks.)
-
-`[lands on Sarric]` Sarric carries his beehive everywhere
-([sheet](../characters/sarric.md)); a temple of **bee**-priestesses is a thing the
-world sets in front of him. What he makes of it is Jeremy's.
+*(The eunuch Megabyzoi priests and the Attis mystery, and how the bee-priestesses land on Sarric — see Background: "The Megabyzoi and the Attis mystery" and "The bee-priestesses and Sarric".)*
 
 ---
 
@@ -116,15 +152,3 @@ Then the marking:
 The two readings are the **[Hymn to Artemis](../handouts/hymn-to-artemis.md)** and
 **[Actaeon](../handouts/actaeon.md)**; the blessing is **Longstrider**, the stag's
 speed. Then the hunt begins.
-
----
-
-## What still needs building
-
-- The **antlering** at the table — the sign-up, the two readings, the Longstrider
-  blessing.
-- The **Attis walls** — how the mystery is laid out in the temple.
-- Links out to [the game preserve](the-game-preserve.md) and
-  [the hell-tree](the-hell-tree.md).
-
-*End of town design note.*
