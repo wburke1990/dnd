@@ -28,7 +28,7 @@ cross-map reference. So importing one map means pulling just that one
 > `e47bca` `55ed53` `432502` `ed6b26` `6b9aab` `811e42` `06363d` `abc718`
 > `a7d428` `56d9e9` `c3aa13` `6d9e46` `bc9404` `dc9743` `b00f40` `4b489d`
 > `fdc25b` `0e869d` `d95910` `e5838c` `df6dd9` `ff391e` `e57584` `4bc694`
-> `d8cc23` `00c35d` `85ff11` `9e7345` `3695ec`
+> `d8cc23` `00c35d` `85ff11` `9e7345` `3695ec` `ca7a72`
 
 > **Maintenance (2026-06-25):** the save was cleaned up after this
 > inventory was first built — the 17 duplicate copies were deleted
@@ -99,6 +99,7 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 | **Dorter Slums - Docks** | 9e7345 | ⚠️ usable — not chosen | Ships burning in a harbor; rows of houses climbing from the water to higher ground. Smoke uses the broken shader (renders white). 85 pieces pruned (24 dead); default vBase 25. **Removed from staging** — not chosen for Copaa. |
 | **Small City Lvl 1** | 3695ec | ❌ not usable | Only the square and the ground floor of the wizard's tower where the campaign opened — the upper floors are gone. Prune removed 451 of ~624 pieces (27 dead URLs). **Removed from staging.** |
 | **Shady Dragon Inn** | 34a951 | ✅ winner — Annibel meet | *(Source: slot 24 "Shady Dragon Inn" save, not the `TS_Save_22` donor.)* A tavern in a wooded green area — large and detailed, many animated minis, fires with working smoke. In staging for the Annibel meeting. **Import with floor-plate fitting OFF**: the map carries its own ground meshes, and the plate-fit shrank the base to one dirt tile and recentered on it, dropping the floor. Default vBase 25 with no recenter builds it right. 1 dead pruned. Its 60 Dropbox-hosted assetbundles can throttle on a cold OW Build — rehost (`tts assets backup`/`rehost`) if that recurs. |
+| **Piper Downs** | ca7a72 | ⚠️ fixable — dropped | Three houses and some trees by a small dock with a moored ship; a well and a few signposts. Two faults: the floor image is a dead Google-Sites link (errors before Build), and the houses' side-wall images are dead (34 textures blanked → untextured walls). 21 pieces pruned (25 dead). **Removed from staging** — fixable by swapping the SBx floor image for a live URL and rehosting the wall textures if the little dock hamlet is wanted. |
 | **Redbrand Hideout** | 7562c5 | 🔖 reserved — desert castle | *(Source: slot 24 "Shady Dragon Inn" save, where OW is broken — the OWx bag had lost its name and was rebuilt by hand to import.)* Interior of a desert castle: open stone caskets, skeletons. River shader doesn't load (white water — cosmetic). 1 dead pruned; default vBase 25. Not an arc location — banked. |
 
 ---
