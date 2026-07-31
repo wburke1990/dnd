@@ -5,6 +5,13 @@
 [`bestiary/akhekh.md`](../bestiary/akhekh.md) — this sheet is the specific
 encounter as it played out and how the table (with David) is running it.*
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
 ---
 
 ## What happened at the table
@@ -33,33 +40,7 @@ just defending its ground.
 
 ---
 
-## How it's shaping up (proposed with David — not yet ruled at the table)
-
-1. **The entangle actually landed** — the Akhekh is bound in the vines, the
-   single thing it hates most. That's the emotional peak of its rage — and,
-   bound, it can't kite away, so its first turn goes to tearing loose.
-2. **Its first turn is escape, not attack.** ("I am not going to try and
-   kill them unless they are stupid.") It spends its first action **trying to
-   break free of the vines** and **tells the party to flee** — a wild thing
-   trying to leave, not press a fight. It doesn't attack that round; if the
-   party keeps hitting it while it's plainly trying to go, those blows land
-   free, but that's them pressing a fight it's quitting. Only if they refuse
-   to disengage does it turn and fight for real.
-3. **It breaks the tangle and speaks.** Once it tears free of the vines, it
-   says something — **part Elvish, part Ancient Egyptian** (not Sylvan;
-   Aniess was an elf before her transformation, so Elvish is the language
-   that's actually hers to half-recognize).
-4. **Aniess can partially understand it — but only partway on her own.**
-   Two things are hers already: her own **Elvish** (the Elvish half of what
-   it says) and her innate **Yuan-ti snake-speech** (the Akhekh is
-   half-serpent). Those alone get her fragments — enough to know it's
-   *reasoning*, not roaring. To actually understand its animal mind in
-   full, someone has to **cast Speak with Animals** — Aniess does *not*
-   have it herself, so a teammate choosing to spend the spell is what turns
-   fragments into a real conversation (the bestiary already rules the spell
-   works on the Akhekh). Either way the choice — talk it down or keep
-   fighting — lands squarely on **Greg**: his character is the one who can
-   hear it at all, and the one who provoked it.
+## A table-humor aside about Greg (not canon)
 
 *(Table-humor aside, not campaign canon: David floated this partly as an
 in-fiction consequence for Greg's habit of talking through every beat
@@ -70,20 +51,7 @@ the Akhekh's actual in-world motivations.)*
 
 ---
 
-## Where it can still go from here
-
-The mercy sequence above makes a hard TPK much less likely than the
-original "play it straight" read, but the branch from before is still live
-depending on how the talk-down attempt lands:
-
-**A. Aniess talks it down, or the party disengages.** Fight ends there.
-Best case; doesn't need any extra prep.
-
-**B. It still goes for the grab-and-flee.** If the talk-down fails or the
-party keeps pressing past the warning, the original rescue-hook idea is
-still on the table: the Akhekh carries someone off to its lair to feed to
-its young, rather than killing them outright in combat. This reframes the
-immediate threat into a new quest: **rescue [target] before they're eaten.**
+## The rescue at the lair (Option B) — prep
 
 **Who it grabs:** if a player misses the session where this next section
 plays out, the Akhekh grabs *that* player's character instead — a clean
@@ -326,3 +294,59 @@ instead of freeing her, let it cost them — she should haunt the table.
       pure recovery if the player is absent.**
 - [ ] How the "help the akhekh vs. side with Set's priests" choice actually
       plays out mechanically — a straight fight, a negotiation, both.
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
+
+## How it's shaping up (proposed with David — not yet ruled at the table)
+
+1. **The entangle actually landed** — the Akhekh is bound in the vines, the
+   single thing it hates most. That's the emotional peak of its rage — and,
+   bound, it can't kite away, so its first turn goes to tearing loose.
+2. **Its first turn is escape, not attack.** ("I am not going to try and
+   kill them unless they are stupid.") It spends its first action **trying to
+   break free of the vines** and **tells the party to flee** — a wild thing
+   trying to leave, not press a fight. It doesn't attack that round; if the
+   party keeps hitting it while it's plainly trying to go, those blows land
+   free, but that's them pressing a fight it's quitting. Only if they refuse
+   to disengage does it turn and fight for real.
+3. **It breaks the tangle and speaks.** Once it tears free of the vines, it
+   says something — **part Elvish, part Ancient Egyptian** (not Sylvan;
+   Aniess was an elf before her transformation, so Elvish is the language
+   that's actually hers to half-recognize).
+4. **Aniess can partially understand it — but only partway on her own.**
+   Two things are hers already: her own **Elvish** (the Elvish half of what
+   it says) and her innate **Yuan-ti snake-speech** (the Akhekh is
+   half-serpent). Those alone get her fragments — enough to know it's
+   *reasoning*, not roaring. To actually understand its animal mind in
+   full, someone has to **cast Speak with Animals** — Aniess does *not*
+   have it herself, so a teammate choosing to spend the spell is what turns
+   fragments into a real conversation (the bestiary already rules the spell
+   works on the Akhekh). Either way the choice — talk it down or keep
+   fighting — lands squarely on **Greg**: his character is the one who can
+   hear it at all, and the one who provoked it.
+
+*(Table-humor aside on where Greg's choice came from — see Background: "A table-humor aside about Greg (not canon)".)*
+
+---
+
+## Where it can still go from here
+
+The mercy sequence above makes a hard TPK much less likely than the
+original "play it straight" read, but the branch from before is still live
+depending on how the talk-down attempt lands:
+
+**A. Aniess talks it down, or the party disengages.** Fight ends there.
+Best case; doesn't need any extra prep.
+
+**B. It still goes for the grab-and-flee.** If the talk-down fails or the
+party keeps pressing past the warning, the original rescue-hook idea is
+still on the table: the Akhekh carries someone off to its lair to feed to
+its young, rather than killing them outright in combat. This reframes the
+immediate threat into a new quest: **rescue [target] before they're eaten.**
+
+*(The rescue arc if Option B is picked — the lair, the climb, the gardens — see Background: "The rescue at the lair (Option B) — prep".)*
