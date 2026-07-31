@@ -2,6 +2,15 @@
 
 ## A D&D Encounter — Design Note
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 *A Norse riddle-contest for [Musleheim](../lore/musleheim.md), the fire-realm.
 The opponent is a fire giant — an eldjötunn old enough to have watched the
 comet build the island and poison it. It out-knows any mortal alive, so the
@@ -15,6 +24,52 @@ who did the reading. Every gate here is either **solved by reasoning**,
 > needs from the giant when this drops in (passage past it, a name it holds, a
 > thing it took, a way down to the drowned capital). The wager only needs to
 > **escalate each round**; the rest of the design doesn't care what it is.
+
+---
+
+# THE OPPONENT
+
+A fire giant / eldjötunn of Musleheim — old enough to remember the
+[Muspel empire](../lore/the-muspel-empire.md) before the last comet pass
+drowned Cartaga. It doesn't fight the party; it wagers with them. It is
+courteous, patient, and certain it cannot lose, because in a contest of
+knowledge it cannot. Statline it as a talker, not a brawler — the duel is the
+encounter. If the party tries to skip the game and swing, it is a fire giant
+and the game was the mercy.
+
+> `[OPEN]` **Name & spelling.** Giant unnamed for now. Note the realm's own
+> open spelling question (Musleheim / Muspel / Muspelheim) in
+> [the gazetteer](../lore/musleheim.md#open--to-confirm) — match whatever
+> lands there.
+
+---
+
+## Why the seeded question works
+
+In the myth, Odin ends every wisdom duel the same way: he stops asking riddles
+and asks the one question only he could answer — *what did I whisper in my dead
+son's ear?* — and the contest breaks, because it was never winnable on
+knowledge. Whoever will step outside the game wins it.
+
+*(Design: this is why the giant is ancient. Its age is the reason knowledge
+can't beat it — and the reason a small human specific is the blade that can.)*
+
+---
+
+# WHAT STILL NEEDS BUILDING
+
+- **Stakes** — set the wager and its escalation when this drops in.
+- **The seed** — decide which name or fact, planted where in Musleheim, is the
+  Lane-3 question. The duel is only as good as its seed.
+- **The giant** — name, a talker statline, where it sits in the fire-realm.
+- **Read-aloud** — the approach and the giant's opening, once it's sited.
+
+*End of Wisdom Duel design note.*
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
 
 ---
 
@@ -69,34 +124,6 @@ Don't run it as sudden death. Run a wager that escalates:
 **Whole table.** The giant asks the party, not a player. They confer out loud,
 in character, and anyone answers. If one voice dominates, have the giant
 demand the *next* answer come from someone who hasn't spoken.
-
----
-
-# THE WHISPER, REBUILT — The Seeded Question
-
-In the myth, Odin ends every wisdom duel the same way: he stops asking riddles
-and asks the one question only he could answer — *what did I whisper in my dead
-son's ear?* — and the contest breaks, because it was never winnable on
-knowledge. Whoever will step outside the game wins it.
-
-Keep the move, drop the literal line. The party's version is a question **only
-they could ask** — and you **seed the answer earlier in the site** so a
-paying-attention table has it in hand:
-
-- A **name they collected** somewhere in Musleheim that the giant lost, or was
-  never told, or has spent centuries trying to remember.
-- A **fact from their own history** the giant cannot have witnessed, because it
-  happened on the far side of the sea it's never crossed.
-- Something the giant **buried and assumes is gone** — that the party dug up
-  three rooms ago.
-
-Ask it and the giant can't answer, can't stump, can't change the subject. All
-three lanes close on it at once. Back the recall with the **DC 13 check** so a
-half-remembered seed still surfaces. This is the win that costs nothing but
-attention — the opposite of a trivia test.
-
-*(Design: this is why the giant is ancient. Its age is the reason knowledge
-can't beat it — and the reason a small human specific is the blade that can.)*
 
 ---
 
@@ -166,29 +193,24 @@ playing the duel the way it's meant to be played.*
 
 ---
 
-# THE OPPONENT
+# THE WHISPER, REBUILT — The Seeded Question
 
-A fire giant / eldjötunn of Musleheim — old enough to remember the
-[Muspel empire](../lore/the-muspel-empire.md) before the last comet pass
-drowned Cartaga. It doesn't fight the party; it wagers with them. It is
-courteous, patient, and certain it cannot lose, because in a contest of
-knowledge it cannot. Statline it as a talker, not a brawler — the duel is the
-encounter. If the party tries to skip the game and swing, it is a fire giant
-and the game was the mercy.
+*(The myth this move comes from, and why it works against something this old — see Background: "Why the seeded question works".)*
 
-> `[OPEN]` **Name & spelling.** Giant unnamed for now. Note the realm's own
-> open spelling question (Musleheim / Muspel / Muspelheim) in
-> [the gazetteer](../lore/musleheim.md#open--to-confirm) — match whatever
-> lands there.
+Keep the move, drop the literal line. The party's version is a question **only
+they could ask** — and you **seed the answer earlier in the site** so a
+paying-attention table has it in hand:
 
----
+- A **name they collected** somewhere in Musleheim that the giant lost, or was
+  never told, or has spent centuries trying to remember.
+- A **fact from their own history** the giant cannot have witnessed, because it
+  happened on the far side of the sea it's never crossed.
+- Something the giant **buried and assumes is gone** — that the party dug up
+  three rooms ago.
 
-# WHAT STILL NEEDS BUILDING
+Ask it and the giant can't answer, can't stump, can't change the subject. All
+three lanes close on it at once. Back the recall with the **DC 13 check** so a
+half-remembered seed still surfaces. This is the win that costs nothing but
+attention — the opposite of a trivia test.
 
-- **Stakes** — set the wager and its escalation when this drops in.
-- **The seed** — decide which name or fact, planted where in Musleheim, is the
-  Lane-3 question. The duel is only as good as its seed.
-- **The giant** — name, a talker statline, where it sits in the fire-realm.
-- **Read-aloud** — the approach and the giant's opening, once it's sited.
-
-*End of Wisdom Duel design note.*
+*(Design rationale — see Background: "Why the seeded question works".)*
