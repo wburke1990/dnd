@@ -539,6 +539,22 @@ def test_main_writes_output(tmp_path: Path) -> None:
     assert any(o.get("Nickname") == "OWx_Dockside City" for o in mbag["ContainedObjects"])
 
 
+def test_main_prints_prune_reminder(tmp_path: Path, capsys: Any) -> None:
+    source = _save([_wbase("https://water"), _owx_bag("Dockside City")])
+    target = _save([_abag(), _mbag()])
+    src_path = tmp_path / "src.json"
+    tgt_path = tmp_path / "tgt.json"
+    out_path = tmp_path / "out.json"
+    src_path.write_text(json.dumps(source))
+    tgt_path.write_text(json.dumps(target))
+
+    rc = main([str(src_path), str(tgt_path), str(out_path)])
+    assert rc == 0
+    out = capsys.readouterr().out
+    assert "REQUIRED NEXT STEP" in out
+    assert "clean_ow_map prune" in out
+
+
 def test_main_refuses_to_overwrite_target(tmp_path: Path) -> None:
     src_path = tmp_path / "src.json"
     tgt_path = tmp_path / "tgt.json"

@@ -594,6 +594,15 @@ def main(argv: list[str] | None = None) -> int:
             for old, new in result["remapped_guids"].items():
                 print(f"    {old} -> {new}")
     print(f"Wrote {args.output}")
+    if result["status"] == "imported":
+        print(
+            "\n"
+            "REQUIRED NEXT STEP — do NOT ship this save unpruned. Donor maps\n"
+            "carry dead asset URLs that spam 'Failed to import asset' and can\n"
+            "break the OW Build. Prune them now:\n"
+            f"  python -m dnd_tools.clean_ow_map prune "
+            f"{args.output} <next-out>.json --owx-guid {result['owx_guid']}"
+        )
     return 0
 
 
