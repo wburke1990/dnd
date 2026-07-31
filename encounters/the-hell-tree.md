@@ -2,6 +2,15 @@
 
 ## A D&D Encounter / Site — Design Note `[draft]`
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > **Start here.** Root of the Brauron quest. Read this file, then
 > [the game preserve](the-game-preserve.md) (the hunt and the approach), then
 > [Brauron](the-peach-town.md) (the town). In play the party goes the other way:
@@ -14,66 +23,15 @@ and across the strait from [Sukkek](../lore/nila-atlas.md) (95, 61). A dot on
 
 ---
 
-## Read aloud — at the tree
+## Why Preem sends the party
 
-> *One huge old tree stands alone. Fruit hangs in it — swollen and heavy, each one
-> bigger than a man's head, and here and there a fruit has split open. The air stings
-> the eyes and is hard to breathe. The tree is muttering to itself — a low, steady
-> voice that does not stop.*
+Preem asks the party to make their way to a large tree in the wilderness near Brauron,
+pluck one of the fruits, and name whatever is inside. He pays them for the name.
 
-Everything else in this note is behind that. The party has to work it out.
-
----
-
-## The tree
-
-**The fruit.** Huge fruits grow on the tree, and inside each one is a baby demon.
-When a fruit splits open, the newborn is out in the open for a moment before it comes
-to itself — the window to name it (below, and the
-[Three Citrons](../handouts/the-three-citrons.md)).
-
-**The voice.** The muttering is a mind — the mind of the dead god the tree grew from
-(below). It can be spoken to (Speak with Plants, or anything like it). It lies, it
-grieves, and it calls the demons its children. The party can deal with it by talking
-instead of fighting. `[OPEN]` its voice — what it wants, what it lies about, what it
-will trade.
-
-**The comet, far down.** The stone the tree grew from is deep underground now, at the
-foot of the stair (see the descent, below).
-
----
-
-## The descent — the stair to the stone
-
-At the base of the tree a **stair goes down**, following the roots into the earth, and
-ends far below at the **broken stone** — the comet the god fell as, all that is left of
-him.
-
-The party goes down it a level at a time. Each level carries one verse of the Qur'an's
-**[Zaqqum](../handouts/the-tree-of-zaqqum.md)** in Arberry's words — *a tree that comes
-forth in the root of Hell* — so they read the tree's own scripture as they climb down
-into its roots. `[proposed]` the As-Saffat run (37:62–68), one verse a level, ending on
-the stone.
-
-`[OPEN]` how many levels, and what is at the stone.
-
----
-
-## The land around it
-
-No one lives here; the land is ancient and worn out, and the air near the tree is
-poison (see [Anchar](../handouts/anchar.md)). The poison is the tree's **alchemical
-sickness**, and it works on anything that stays in it — the animals here are what it
-made of them. `[for David]` pick the set of monsters the party meets on the hunt.
-
-`[proposed mechanic]` It works on the party too. The closer they get and the longer
-they stay, the more it mutates them — worst at the tree, worse still down the stair,
-where they are standing on the source. Fast in, fast out.
-
-`[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness
-his people were mutated by, so it strengthens him instead of changing him — more so the
-closer he gets, more so again down the stair. See
-[Jasper — DM Notes](../characters/jasper-dm-notes.md).
+`[DM]` What is inside is a baby demon, and a newborn demon has not learned to guard its
+true name yet — so the name can be taken (see
+[the name quest](../lore/demons-and-the-hotspot.md)). The site is poisoned, holy,
+and cannot be controlled, so Preem cannot own it or work it himself.
 
 ---
 
@@ -113,15 +71,12 @@ already saw:
 
 ---
 
-## Why Preem sends the party
+## A note on canon
 
-Preem asks the party to make their way to a large tree in the wilderness near Brauron,
-pluck one of the fruits, and name whatever is inside. He pays them for the name.
-
-`[DM]` What is inside is a baby demon, and a newborn demon has not learned to guard its
-true name yet — so the name can be taken (see
-[the name quest](../lore/demons-and-the-hotspot.md)). The site is poisoned, holy,
-and cannot be controlled, so Preem cannot own it or work it himself.
+This adds one new thing to the world: **the giants killed a god.** Everywhere else the
+[True Giants](../lore/lineages-and-afterlives.md) are quiet — they become
+mountains when they die. Here, once, they killed. Keep that straight. `[OPEN]` why they killed this
+god, and whether it happened more than once.
 
 ---
 
@@ -152,11 +107,72 @@ struck down, a tree from the wound); the [Juniper Tree](../handouts/the-juniper-
 
 ---
 
-## A note on canon
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
 
-This adds one new thing to the world: **the giants killed a god.** Everywhere else the
-[True Giants](../lore/lineages-and-afterlives.md) are quiet — they become
-mountains when they die. Here, once, they killed. Keep that straight. `[OPEN]` why they killed this
-god, and whether it happened more than once.
+---
+
+## Read aloud — at the tree
+
+> *One huge old tree stands alone. Fruit hangs in it — swollen and heavy, each one
+> bigger than a man's head, and here and there a fruit has split open. The air stings
+> the eyes and is hard to breathe. The tree is muttering to itself — a low, steady
+> voice that does not stop.*
+
+Everything else in this note is behind that. The party has to work it out.
+
+---
+
+## The tree
+
+**The fruit.** Huge fruits grow on the tree, and inside each one is a baby demon.
+When a fruit splits open, the newborn is out in the open for a moment before it comes
+to itself — the window to name it (below, and the
+[Three Citrons](../handouts/the-three-citrons.md)).
+
+**The voice.** The muttering is a mind — the mind of the dead god the tree grew from
+(below). It can be spoken to (Speak with Plants, or anything like it). It lies, it
+grieves, and it calls the demons its children. The party can deal with it by talking
+instead of fighting. `[OPEN]` its voice — what it wants, what it lies about, what it
+will trade.
+
+**The comet, far down.** The stone the tree grew from is deep underground now, at the
+foot of the stair (see the descent, below).
+
+---
+
+## The land around it
+
+No one lives here; the land is ancient and worn out, and the air near the tree is
+poison (see [Anchar](../handouts/anchar.md)). The poison is the tree's **alchemical
+sickness**, and it works on anything that stays in it — the animals here are what it
+made of them. `[for David]` pick the set of monsters the party meets on the hunt.
+
+`[proposed mechanic]` It works on the party too. The closer they get and the longer
+they stay, the more it mutates them — worst at the tree, worse still down the stair,
+where they are standing on the source. Fast in, fast out.
+
+`[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness
+his people were mutated by, so it strengthens him instead of changing him — more so the
+closer he gets, more so again down the stair. See
+[Jasper — DM Notes](../characters/jasper-dm-notes.md).
+
+---
+
+## The descent — the stair to the stone
+
+At the base of the tree a **stair goes down**, following the roots into the earth, and
+ends far below at the **broken stone** — the comet the god fell as, all that is left of
+him.
+
+The party goes down it a level at a time. Each level carries one verse of the Qur'an's
+**[Zaqqum](../handouts/the-tree-of-zaqqum.md)** in Arberry's words — *a tree that comes
+forth in the root of Hell* — so they read the tree's own scripture as they climb down
+into its roots. `[proposed]` the As-Saffat run (37:62–68), one verse a level, ending on
+the stone.
+
+`[OPEN]` how many levels, and what is at the stone.
+
+---
 
 *End of design note.*
