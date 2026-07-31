@@ -274,15 +274,42 @@ def prune_map(
     abag_guid: str = ABAG_GUID,
     probe: Callable[[list[str]], set[str]] = probe_urls,
 ) -> dict[str, Any]:
-    """Collect the map's URLs, probe for dead ones, then prune."""
+    """Collect the map's URLs, probe for dead ones, then prune.
+
+    Also probes the map's **floor image** — the ``CustomImage.ImageURL`` on
+    the SBx token in aBag, which the Hub paints as the OW floor. That image
+    lives outside the OWx bag, so ``prune_dead_assets`` never sees it; a dead
+    one (commonly a rotted Google-Sites / Dropbox link) throws before the map
+    is even built. We only *report* it (``floor_image_dead``), never remove or
+    blank it: blanking a token image makes TTS error on the empty URL, and a
+    plate-fitted map carries its own floor plate so a dead paint image is not
+    fatal. Swap in a live URL if you want the paint back.
+    """
     states = save.get("ObjectStates") or []
     bag = find_object(states, owx_guid)
     if bag is None:
         raise CleanError(f"OWx bag {owx_guid!r} not found in save")
     urls = collect_map_urls(bag)
-    dead = probe(list(urls))
-    result = prune_dead_assets(save, owx_guid, dead, abag_guid=abag_guid)
+
+    floor_url: str | None = None
+    abag = find_object(states, abag_guid)
+    if abag is not None:
+        sbx = find_sbx_by_owx(abag, owx_guid)
+        if sbx is not None:
+            ci = sbx.get("CustomImage")
+            if isinstance(ci, dict) and ci.get("ImageURL"):
+                floor_url = ci["ImageURL"]
+
+    probe_list = list(urls)
+    if floor_url and floor_url not in urls:
+        probe_list.append(floor_url)
+    dead = probe(probe_list)
+
+    bag_dead = {u for u in dead if u in urls}
+    result = prune_dead_assets(save, owx_guid, bag_dead, abag_guid=abag_guid)
     result["urls_probed"] = len(urls)
+    result["floor_image"] = floor_url
+    result["floor_image_dead"] = bool(floor_url and floor_url in dead)
     return result
 
 
@@ -407,6 +434,16 @@ def main(argv: list[str] | None = None) -> int:
 
     for k, v in result.items():
         print(f"  {k}: {v}")
+    if result.get("floor_image_dead"):
+        print(
+            "\n"
+            "  ⚠️  FLOOR IMAGE DEAD — the SBx token's paint image is dead, so\n"
+            "      the OW floor won't render and TTS errors on it BEFORE Build.\n"
+            "      Not fatal for a plate-fitted map (it carries its own floor\n"
+            "      plate); on a plateless map expect a blank/erroring floor.\n"
+            "      Swap CustomImage.ImageURL on the SBx token for a live URL to\n"
+            "      restore the paint."
+        )
     if result.get("status") in ("noop",):
         # still write, so an output file always exists for chaining
         pass

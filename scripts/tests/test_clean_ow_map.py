@@ -244,6 +244,23 @@ def test_prune_map_probes_then_prunes() -> None:
     assert result["objects_removed"] == 1
     assert result["fields_blanked"] == 1
     assert result["urls_probed"] >= 2
+    # SBx floor image is live in the fixture — reported, not flagged dead
+    assert result["floor_image"] == "https://live.example/floor.jpg"
+    assert result["floor_image_dead"] is False
+
+
+def test_prune_map_flags_dead_floor_image() -> None:
+    save = _fixture()
+
+    def fake_probe(urls: list[str]) -> set[str]:
+        # only the SBx floor image is dead; all bag URLs are live
+        return {u for u in urls if u == "https://live.example/floor.jpg"}
+
+    result = prune_map(save, "c00001", probe=fake_probe)
+    assert result["floor_image_dead"] is True
+    # a dead floor image lives outside the bag: it must NOT remove bag pieces
+    assert result.get("objects_removed", 0) == 0
+    assert _get(save, "c00001").get("ContainedObjects")  # bag pieces intact
 
 
 # ---------------------------------------------------------------------------
