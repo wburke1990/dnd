@@ -71,3 +71,28 @@ After removing objects, also strip their GUIDs from every
 `SBx_*.LuaScript` manifest line in `aBag` (`966e1c`) — otherwise a
 future Hub Build attempts to spawn missing GUIDs. See
 [oneworld.md](oneworld.md).
+
+## Hosting a replacement asset for a shared save
+
+When you swap in your own asset — an edited floor image, a rehosted
+mesh — every player's TTS fetches that URL over the network at load.
+So the URL has to be reachable from **their** machines. A link only
+this computer can resolve loads for you and is broken for them:
+
+- A **local `file://` path or a `localhost` link works only on the
+  machine that made it** — it loads for you and is a broken/blank asset
+  for every player. Never paste a local path into a shared save.
+- **GitHub Raw works for players** *because this repo is public*:
+  `https://raw.githubusercontent.com/wburke1990/dnd/main/<path>`. Commit
+  the file and it serves at that URL. This is how the floor swap for
+  Small town (`tts/floors/smalltown_grass_180.jpg`) is hosted. Caveats:
+  it breaks for everyone if the repo goes **private**, or the file is
+  **renamed / moved / its branch deleted**; and `raw.githubusercontent`
+  is not a CDN (it rate-limits), which is fine for a handful of images
+  loaded once per player but not for hundreds of assets. To edit the
+  image later, re-commit it **at the same path** so the URL stays valid
+  (add a `?v=2` cache-buster if TTS serves a stale copy).
+- Steam UGC and imgur also work for players and don't depend on the
+  repo, but you can't guarantee they stay up (the whole reason the asset
+  tooling exists). For anything the game must not lose, back it up with
+  `tts assets backup` and host somewhere you control.
