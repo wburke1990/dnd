@@ -1,5 +1,15 @@
 # Tavern Scene — Rival Name-Hunter Crews
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
+
 Two of Preem's other name-hunter crews are drinking in a Maalm tavern when the
 party returns from **tomb four**. They are not a contrivance and not flavor:
 Preem deliberately runs multiple crews against the names, and these two are
@@ -34,6 +44,161 @@ middle — and the Writ are holding exactly what the party overlooked.
 > the Valley is right there. The ~29 far-flung sites are the wider map. No crew
 > working *those* would backtrack to the city — which is exactly why the
 > Ashfoot belong in a later town, not here.
+
+---
+
+## DM levers
+
+- **The danger arc (the through-line of all three crews).** Maalm: the Writ show the
+  *moral* danger (who you become), the Jackals show the *human* cost (what it
+  takes). A later city: the Ashfoot show the *wreckage* (where it ends). Same
+  road, three mileposts. You don't have to explain the names plot once — the
+  crews are the explanation.
+- **Mirror handoffs.** Stage the missing-names exchange member-to-counterpart
+  (Doruk→Sarric, Issa→Aniess, etc.). Delivers the mirror and backfills the
+  collectibles in one beat.
+- **Pecking order.** Writs *above* the party, Jackals *below*. Let Setha lord it
+  and Veska scrap upward — two recurring faces to root against and for.
+- **Complicity, not exposition.** Restraint in Maalm: the mirrors do the work.
+  Don't tip Preem's endgame here; let the party *feel* the danger off the
+  rivals and reach the conclusions themselves.
+- **Who survives is a thread.** Sefi and Pim are deliberately fragile. Whether
+  the party tries to pull either out of Preem's machine is a live hook — and a
+  reason to care when the Ashfoot appear.
+
+---
+
+## Getting around Nila — how each crew moves
+
+Inside the archipelago the real sea-powers are few: the **Mukka** pirates — the
+Tortuga-style haven whose mercenary letters-of-marque ferry every kingdom's
+dirty work across the water — the rare **solitary wandering dragonborn** who
+sail their own hulls, the **Suartleheim dwarves** who build the hulls everyone
+else sails (Mukka's included), the land powers (**Kuru** foremost) with **no
+navy of their own** — their warforged sink — and the **fallen Viking longships**
+of the Muspel orcs (mostly sunk or missing, their coast occupied — a spent force, not a hull
+for hire). The great **Floating Fleets** don't count here at all: a separate
+*open-water* civilization, over the horizon almost always, in archipelago waters
+only every couple years on a timber-run. So for a name-hunting crew the options are thin: **own a boat (few can), nurse a
+crappy one, or buy passage from the small independent traders** who work the
+safer lanes. That last is how most crews get around — and it has teeth: **no
+trader will run them to Khalikhat (a land of demons), Jotunheim (the Zealots and
+the Dragon Turtle), or into the orc-held heart of Muspelheim.** (Traders *do* reach the Kuru-held
+**war-coast**, supplying the war, and a few dicey ports on the southern **mutant**
+coast like **Tripoca** — but the orc interior stays shut.) So those corners are
+nearly closed to anyone who doesn't own a hull and the nerve to sail it. With the comet barely
+a year out, crossing *fast* is the whole game, and how each crew solves it is a
+clean read on what it is.
+
+- **The party — they own their mobility, and that's the quiet power.**
+  Blackacre's commandeered lashed-hull sloop: small, fast, quiet, shallow
+  enough to slip into island sites, just big enough for five. They owe Mukka
+  nothing, because **Blackacre is one of the rare wandering dragonborn who is
+  his own captain, navigator, *and* shipwright** — his druidcraft keeps the hull
+  alive without a shipyard or a hired crew. Every other crew has to rent what
+  the party carries for free. A quiet edge, and a target: a self-sufficient
+  wandering dragonborn is a prize, and a druid who can grow and mend a wooden
+  ship is worth a fortune to the open-water Fleets — so anyone who learns what
+  he is will want him. It also makes every port a backstory minefield: those are
+  Mukka waters and the Lonka sea-lanes, where Sayid's co-opted tribes range. The
+flip side of owning their hull: the party can push into the corners that strand
+the rivals — Khalikhat, Jotunheim, the orc-held heart of Muspelheim — where no hired trader sails.
+
+- **The Lapis Writ — they buy the best seat.** Founder-blood Maalm elves are
+  *desert* aristocrats, not sailors; they don't crew a boat, they **pay for
+  passage** — and their money buys the *reliable* traders, the faster lanes, and
+  the odd fat bribe to make a nervous skipper risk a rougher crossing. It's part
+  of *why they finished the Valley first*. The catch: passage only goes where
+  traders go. When the map points at Khalikhat, Jotunheim, or the orc-held heart of Muspelheim, all
+  their coin buys is a captain shaking his head — the no-go corners stall them as
+  hard as anyone.
+
+- **The Brass Jackals — a crappy boat of their own.** Too broke to buy decent
+  passage, the Jackals sail a cheap, rotting dwarf-built tub with no one aboard
+  who can competently sail or mend it — independent, but a berth behind every leg and
+  one bad squall from the bottom. Their leaky hull is the clearest way to show
+  the table what a self-sufficient wandering dragonborn (Blackacre) is worth —
+  and it can take them places the trader-dependent Writ can't reach,
+  if it doesn't drown them first. The most concrete face of "the quest costs more
+  than it pays."
+
+**Hazards differ by route.** The northwest lanes toward Lonka/Jotunheim mean
+the **Lonka Zealots** and the **Dragon Turtle** in the caldera bay; open
+crossings mean pirates and the comet-cycle's swinging weather and volcanic
+flux. A crew's route tells you which danger it's been eating.
+
+**Travel hooks.** (1) *Blackacre-as-target:* any crew or faction that learns a
+druid-shipwright sails with the party has reason to court, hire, rob, or
+press-gang him. (2) *The Writ's pirate captain* is a flippable, coin-loyal
+non-mirror NPC the party can turn. (3) *The Jackals' dying hull* is a mercy
+hook: does Blackacre fix a rival's boat? Doing so is kindness *and* keeps a
+doomed crew in Preem's machine — the same complicity trap as the missing names.
+
+---
+
+# Hold for a later tavern (next city)
+
+> **Develop these crews late, against the real party.** The Ashfoot (and the
+> ally crew, the Second Hand) are deliberately left as skeletons. By the time
+> the party is near them the PCs will have their own history — names carried,
+> crew lost, lines crossed — and these NPCs land hardest when each one mirrors
+> *that* specific party rather than a guess made chapters early. When the party
+> is a town or two out, flesh them member-by-member the way the Writ and Jackals
+> were done: pick the PC each one shadows, then make the backstory concrete.
+> The hooks below are placeholders, not commitments — keep what still fits,
+> reshape the rest to who the party has become.
+
+## The Ashfoot — *the wreckage (where the road ends)*
+
+*Do NOT use in Maalm.* This crew has run the **Valley of the Kings** and pushed
+on toward the scattered sites — so they only make sense **far from Maalm**, in
+a later city, re-provisioning between distant tombs. That distance is what
+sells "they've been out in it." They are the end state of the arc the Writ and
+Jackals begin: ragged, lean, a season too long at it, and starting to suspect
+what they're really carrying out — without the vocabulary for it yet.
+
+**Mobility (why they can't leave).** The Ashfoot are weeks out, deep among
+the scattered sites, and their own travel has degraded to almost nothing — a
+failing hull, no wandering dragonborn to mend it, and no way home but the rare
+**Mukka** ship that comes that far out, at rates they can't pay. (If they've
+drifted toward open water, the only other sail they ever see is a Floating Fleet
+on its years-apart timber-run — no help, and gone by morning.) The distance that
+keeps them safely far from Maalm also **strands** them: they couldn't come back
+quickly even if they found the nerve. That trap is half their dread.
+
+| # | Name | Species | Role | Hook |
+|---|------|---------|------|------|
+| 1 | **Korbo Sann** | Half-orc | Leader | Tired, watchful; has buried crew and counts heads constantly. |
+| 2 | **Nem the Pale** | Human | Tomb-guide | Knows the tombs better than anyone; flinches at the word "names." |
+| 3 | **Bittel Roon** | Halfling | Thief | Twitchy; pocketing names to sell on the side — a loose thread that could blow Preem's scheme open. |
+| 4 | **Hessa Drum** | Dwarf | Lapsed priest | Quietly convinced the crews are doing something damnable; drinks to not think about it. |
+| 5 | **Olen Vask** | Elf | Survivor | Sole holdover from an *earlier* crew that didn't come back; says little, knows the most. |
+
+**The sentinel (age-correct foreshadowing).** The tombs are 5,000 years old —
+nothing *living* is still down there to answer to anything. The only thing that
+survives with a true name is the **sentinel** left to guard the tomb: a bound
+spirit, a desiccated watchman, a lesser demon sealed at the threshold — a thing
+that had kept its own will for five thousand years. **Nem** read a name off the
+wall, or **Bittel** lifted the tablet it was carved on, and the guardian
+*answered to that name* — knelt, went slack, and stopped being itself. A will
+older than Maalm, erased by a spoken word. They don't understand it. They just
+know names **do something** — they can own a thing that should have been
+unownable — and they want to be far away before they have to think about it.
+
+**Why it lands later.** **Olen** wasn't originally theirs: Korbo's people found
+him alone and half-unstrung in the tombs, the last of an earlier Preem crew
+that never reported back, and folded him in — which is why he's done the Valley
+twice and says the least. By the time the party meets the Ashfoot, the PCs have
+done the Valley themselves and carry their own names. The Ashfoot are the
+party's near future walking back out the door — the seed of *names own people,
+the servants aren't servants* — delivered by a crew that lived it without
+understanding it. Olen gives the first real warning; Hessa confirms it from the
+bottom of a cup.
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
 
 ---
 
@@ -731,151 +896,3 @@ free or kill it (it reforms in the Abyss, per Demonic Restoration) and that's a
 live thread.
 
 ---
-
-## DM levers
-
-- **The danger arc (the through-line of all three crews).** Maalm: the Writ show the
-  *moral* danger (who you become), the Jackals show the *human* cost (what it
-  takes). A later city: the Ashfoot show the *wreckage* (where it ends). Same
-  road, three mileposts. You don't have to explain the names plot once — the
-  crews are the explanation.
-- **Mirror handoffs.** Stage the missing-names exchange member-to-counterpart
-  (Doruk→Sarric, Issa→Aniess, etc.). Delivers the mirror and backfills the
-  collectibles in one beat.
-- **Pecking order.** Writs *above* the party, Jackals *below*. Let Setha lord it
-  and Veska scrap upward — two recurring faces to root against and for.
-- **Complicity, not exposition.** Restraint in Maalm: the mirrors do the work.
-  Don't tip Preem's endgame here; let the party *feel* the danger off the
-  rivals and reach the conclusions themselves.
-- **Who survives is a thread.** Sefi and Pim are deliberately fragile. Whether
-  the party tries to pull either out of Preem's machine is a live hook — and a
-  reason to care when the Ashfoot appear.
-
----
-
-## Getting around Nila — how each crew moves
-
-Inside the archipelago the real sea-powers are few: the **Mukka** pirates — the
-Tortuga-style haven whose mercenary letters-of-marque ferry every kingdom's
-dirty work across the water — the rare **solitary wandering dragonborn** who
-sail their own hulls, the **Suartleheim dwarves** who build the hulls everyone
-else sails (Mukka's included), the land powers (**Kuru** foremost) with **no
-navy of their own** — their warforged sink — and the **fallen Viking longships**
-of the Muspel orcs (mostly sunk or missing, their coast occupied — a spent force, not a hull
-for hire). The great **Floating Fleets** don't count here at all: a separate
-*open-water* civilization, over the horizon almost always, in archipelago waters
-only every couple years on a timber-run. So for a name-hunting crew the options are thin: **own a boat (few can), nurse a
-crappy one, or buy passage from the small independent traders** who work the
-safer lanes. That last is how most crews get around — and it has teeth: **no
-trader will run them to Khalikhat (a land of demons), Jotunheim (the Zealots and
-the Dragon Turtle), or into the orc-held heart of Muspelheim.** (Traders *do* reach the Kuru-held
-**war-coast**, supplying the war, and a few dicey ports on the southern **mutant**
-coast like **Tripoca** — but the orc interior stays shut.) So those corners are
-nearly closed to anyone who doesn't own a hull and the nerve to sail it. With the comet barely
-a year out, crossing *fast* is the whole game, and how each crew solves it is a
-clean read on what it is.
-
-- **The party — they own their mobility, and that's the quiet power.**
-  Blackacre's commandeered lashed-hull sloop: small, fast, quiet, shallow
-  enough to slip into island sites, just big enough for five. They owe Mukka
-  nothing, because **Blackacre is one of the rare wandering dragonborn who is
-  his own captain, navigator, *and* shipwright** — his druidcraft keeps the hull
-  alive without a shipyard or a hired crew. Every other crew has to rent what
-  the party carries for free. A quiet edge, and a target: a self-sufficient
-  wandering dragonborn is a prize, and a druid who can grow and mend a wooden
-  ship is worth a fortune to the open-water Fleets — so anyone who learns what
-  he is will want him. It also makes every port a backstory minefield: those are
-  Mukka waters and the Lonka sea-lanes, where Sayid's co-opted tribes range. The
-flip side of owning their hull: the party can push into the corners that strand
-the rivals — Khalikhat, Jotunheim, the orc-held heart of Muspelheim — where no hired trader sails.
-
-- **The Lapis Writ — they buy the best seat.** Founder-blood Maalm elves are
-  *desert* aristocrats, not sailors; they don't crew a boat, they **pay for
-  passage** — and their money buys the *reliable* traders, the faster lanes, and
-  the odd fat bribe to make a nervous skipper risk a rougher crossing. It's part
-  of *why they finished the Valley first*. The catch: passage only goes where
-  traders go. When the map points at Khalikhat, Jotunheim, or the orc-held heart of Muspelheim, all
-  their coin buys is a captain shaking his head — the no-go corners stall them as
-  hard as anyone.
-
-- **The Brass Jackals — a crappy boat of their own.** Too broke to buy decent
-  passage, the Jackals sail a cheap, rotting dwarf-built tub with no one aboard
-  who can competently sail or mend it — independent, but a berth behind every leg and
-  one bad squall from the bottom. Their leaky hull is the clearest way to show
-  the table what a self-sufficient wandering dragonborn (Blackacre) is worth —
-  and it can take them places the trader-dependent Writ can't reach,
-  if it doesn't drown them first. The most concrete face of "the quest costs more
-  than it pays."
-
-**Hazards differ by route.** The northwest lanes toward Lonka/Jotunheim mean
-the **Lonka Zealots** and the **Dragon Turtle** in the caldera bay; open
-crossings mean pirates and the comet-cycle's swinging weather and volcanic
-flux. A crew's route tells you which danger it's been eating.
-
-**Travel hooks.** (1) *Blackacre-as-target:* any crew or faction that learns a
-druid-shipwright sails with the party has reason to court, hire, rob, or
-press-gang him. (2) *The Writ's pirate captain* is a flippable, coin-loyal
-non-mirror NPC the party can turn. (3) *The Jackals' dying hull* is a mercy
-hook: does Blackacre fix a rival's boat? Doing so is kindness *and* keeps a
-doomed crew in Preem's machine — the same complicity trap as the missing names.
-
----
-
-# Hold for a later tavern (next city)
-
-> **Develop these crews late, against the real party.** The Ashfoot (and the
-> ally crew, the Second Hand) are deliberately left as skeletons. By the time
-> the party is near them the PCs will have their own history — names carried,
-> crew lost, lines crossed — and these NPCs land hardest when each one mirrors
-> *that* specific party rather than a guess made chapters early. When the party
-> is a town or two out, flesh them member-by-member the way the Writ and Jackals
-> were done: pick the PC each one shadows, then make the backstory concrete.
-> The hooks below are placeholders, not commitments — keep what still fits,
-> reshape the rest to who the party has become.
-
-## The Ashfoot — *the wreckage (where the road ends)*
-
-*Do NOT use in Maalm.* This crew has run the **Valley of the Kings** and pushed
-on toward the scattered sites — so they only make sense **far from Maalm**, in
-a later city, re-provisioning between distant tombs. That distance is what
-sells "they've been out in it." They are the end state of the arc the Writ and
-Jackals begin: ragged, lean, a season too long at it, and starting to suspect
-what they're really carrying out — without the vocabulary for it yet.
-
-**Mobility (why they can't leave).** The Ashfoot are weeks out, deep among
-the scattered sites, and their own travel has degraded to almost nothing — a
-failing hull, no wandering dragonborn to mend it, and no way home but the rare
-**Mukka** ship that comes that far out, at rates they can't pay. (If they've
-drifted toward open water, the only other sail they ever see is a Floating Fleet
-on its years-apart timber-run — no help, and gone by morning.) The distance that
-keeps them safely far from Maalm also **strands** them: they couldn't come back
-quickly even if they found the nerve. That trap is half their dread.
-
-| # | Name | Species | Role | Hook |
-|---|------|---------|------|------|
-| 1 | **Korbo Sann** | Half-orc | Leader | Tired, watchful; has buried crew and counts heads constantly. |
-| 2 | **Nem the Pale** | Human | Tomb-guide | Knows the tombs better than anyone; flinches at the word "names." |
-| 3 | **Bittel Roon** | Halfling | Thief | Twitchy; pocketing names to sell on the side — a loose thread that could blow Preem's scheme open. |
-| 4 | **Hessa Drum** | Dwarf | Lapsed priest | Quietly convinced the crews are doing something damnable; drinks to not think about it. |
-| 5 | **Olen Vask** | Elf | Survivor | Sole holdover from an *earlier* crew that didn't come back; says little, knows the most. |
-
-**The sentinel (age-correct foreshadowing).** The tombs are 5,000 years old —
-nothing *living* is still down there to answer to anything. The only thing that
-survives with a true name is the **sentinel** left to guard the tomb: a bound
-spirit, a desiccated watchman, a lesser demon sealed at the threshold — a thing
-that had kept its own will for five thousand years. **Nem** read a name off the
-wall, or **Bittel** lifted the tablet it was carved on, and the guardian
-*answered to that name* — knelt, went slack, and stopped being itself. A will
-older than Maalm, erased by a spoken word. They don't understand it. They just
-know names **do something** — they can own a thing that should have been
-unownable — and they want to be far away before they have to think about it.
-
-**Why it lands later.** **Olen** wasn't originally theirs: Korbo's people found
-him alone and half-unstrung in the tombs, the last of an earlier Preem crew
-that never reported back, and folded him in — which is why he's done the Valley
-twice and says the least. By the time the party meets the Ashfoot, the PCs have
-done the Valley themselves and carry their own names. The Ashfoot are the
-party's near future walking back out the door — the seed of *names own people,
-the servants aren't servants* — delivered by a crew that lived it without
-understanding it. Olen gives the first real warning; Hessa confirms it from the
-bottom of a cup.
