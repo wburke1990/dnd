@@ -1,5 +1,14 @@
 # The Mines of Haals — the walk down through time `[draft / new]`
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > **DM reference.** What the party finds if it goes **into** the mountain at
 > [Haals](../lore/nila-atlas.md), past the [Company's mine](the-haals-runoff.md)
 > and down toward the [buried giant](../lore/the-fallen-gnome-kingdom.md). The
@@ -32,6 +41,39 @@ They are still **seen.** The past is solid enough to touch them, and to be touch
 The giant spares the party the time-hazards; it does not stop the people of the
 past from acting on what they see — and what the gnomes of the conquest see is a
 Firbolg among strangers.
+
+## The giant is the source of the gnomes' founding prophecy
+
+**The reveal.** The giant is the source of the gnomes' founding prophecy.
+[Musa, the wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
+and carried the gnomes here to take this land — Musa dipt into the **giant.**
+The vision cut into his [watch-stone over Aar](../handouts/locksley-hall-vision.md)
+is the giant's. The prophecy that built the gnome kingdom and sanctified taking
+the land from the Firbolg came out of the same mountain the gnomes later broke
+open, and the breaking destroyed them. The founding prophecy and the fall came from
+the same giant, asleep at the bottom of the mine.
+
+## Connections
+
+- [The fallen gnome kingdom](../lore/the-fallen-gnome-kingdom.md) — the three
+  peoples, the buried giant, the dragonborn founder whose prophecy the giant
+  claims.
+- [The Haals runoff](the-haals-runoff.md) — the surface job at the same mine; the
+  runoff is the disturbed Firbolg graves, the old dead fouling the water where the
+  Company digs — a separate thing from Balor's time magic (`[settled with Will]`).
+- [The Copaa bestiary — *Time in the mountain*](../bestiary/copa-irish-beasts.md)
+  — Balor, the drift dangers, the returners and the piper the giant's eye makes.
+- [Sarric](../characters/sarric.md) — the Firbolg the giant spares; the scene is
+  built on him being a Firbolg, kin to the giant.
+- [The watch-stone vision at Aar](../handouts/locksley-hall-vision.md) — the
+  founder's cut-in prophecy, which the giant says is its own.
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
 
 ## The descent — the ages, deepest is oldest
 
@@ -155,14 +197,7 @@ and the kingdom withered, and the [Company's mine](the-haals-runoff.md) is break
 into them again (see [the bestiary, *The blight from the graves*](../bestiary/copa-irish-beasts.md)).
 Balor's one thing is **time.** The graves hold the poison and Balor holds the time; the two are in the same mountain.
 
-**The reveal.** The giant is the source of the gnomes' founding prophecy.
-[Musa, the wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
-and carried the gnomes here to take this land — Musa dipt into the **giant.**
-The vision cut into his [watch-stone over Aar](../handouts/locksley-hall-vision.md)
-is the giant's. The prophecy that built the gnome kingdom and sanctified taking
-the land from the Firbolg came out of the same mountain the gnomes later broke
-open, and the breaking destroyed them. The founding prophecy and the fall came from
-the same giant, asleep at the bottom of the mine.
+*(The giant is the source of Musa's prophecy — see Background: "The giant is the source of the gnomes' founding prophecy".)*
 
 **Its voice.** It sees every year of the mountain at once and speaks from all of
 them — the register of the weirwoods and the three-eyed raven. It is not surprised
@@ -215,18 +250,3 @@ the present. Nothing holds them on the way up; the giant's leave lets them pass.
 They come back to the Company face with whatever they took from the bottom — a
 prophecy that holds, what they learned of the region's whole history from the
 inside, and whatever they carried out of the conquest fight.
-
-## Connections
-
-- [The fallen gnome kingdom](../lore/the-fallen-gnome-kingdom.md) — the three
-  peoples, the buried giant, the dragonborn founder whose prophecy the giant
-  claims.
-- [The Haals runoff](the-haals-runoff.md) — the surface job at the same mine; the
-  runoff is the disturbed Firbolg graves, the old dead fouling the water where the
-  Company digs — a separate thing from Balor's time magic (`[settled with Will]`).
-- [The Copaa bestiary — *Time in the mountain*](../bestiary/copa-irish-beasts.md)
-  — Balor, the drift dangers, the returners and the piper the giant's eye makes.
-- [Sarric](../characters/sarric.md) — the Firbolg the giant spares; the scene is
-  built on him being a Firbolg, kin to the giant.
-- [The watch-stone vision at Aar](../handouts/locksley-hall-vision.md) — the
-  founder's cut-in prophecy, which the giant says is its own.
