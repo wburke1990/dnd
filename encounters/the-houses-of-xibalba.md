@@ -9,6 +9,15 @@ names to be found and carried back. Where the Valley was four tombs read in
 daylight, this is six houses read in the dark, one after another, with no way
 back up until they are finished.*
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > `[OPEN]` **Level.** Not yet leveled. The descent structure
 > (rivers, then a name-council, then six houses in a row, then the ballcourt)
 > wants a party that can take a beating and think under a timer — a mid-to-high
@@ -37,6 +46,56 @@ Four load-bearing pieces, in order:
 3. **The Six Houses** — the main trial. One room, one mechanic, one night each.
 4. **The Ballcourt** — the set-piece finish, and the only way the living have
    ever walked back out.
+
+---
+
+## The Descent — design note
+
+*(Design: this is the Egyptian obelisk-shadow beat rebuilt as a social
+approach — a wrong answer that isn't lethal, just costly. It sets up Room 2.)*
+
+---
+
+## The Council of Lords — background
+
+The heart of the Maya story, and the cleanest possible marriage to this
+campaign's names thesis: the way you survive the Lords of Xibalba is by
+**knowing their names before they tell you.**
+
+---
+
+## The Council of Lords — design note
+
+*(Design: this is the "collect names" hook made adversarial. In the Valley,
+names were lying on the walls to be transcribed. Here the names defend
+themselves, and taking them is the puzzle.)*
+
+---
+
+## The Ballcourt — why it exists
+
+The reason any of this exists. The Lords summon the living down to Xibalba to
+**play the ballgame** — and to lose it, and be killed. The party's forebears in
+this story went down, lost, and stayed. Winning the descent means turning the
+game around on the ones who run it.
+
+---
+
+# WHAT STILL NEEDS BUILDING
+
+- **Placement & level** — site the mouth of the descent in Nila; set the level.
+- **The ballgame ruleset** — the skill-challenge ladder for the court.
+- **Wall-scenes** — each house wants a read-aloud painting the way each tomb had
+  one, carrying the mythology on the walls. Six to write.
+- **Image prompts** — the council of manikins, the six houses, the ballcourt,
+  to sit in `prompts/` beside the tomb-room prompts.
+
+*End of Xibalba design note.*
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
 
 ---
 
@@ -71,16 +130,13 @@ walked. It leads to the Lords, and to being made a fool of on arrival.
 the seated council, in full view, with no chance to scout — and the room
 below runs against them from the first word.
 
-*(Design: this is the Egyptian obelisk-shadow beat rebuilt as a social
-approach — a wrong answer that isn't lethal, just costly. It sets up Room 2.)*
+*(Design note on the four-roads moment — see Background: "The Descent — design note".)*
 
 ---
 
 # 2. THE COUNCIL OF LORDS — Learning the Names
 
-The heart of the Maya story, and the cleanest possible marriage to this
-campaign's names thesis: the way you survive the Lords of Xibalba is by
-**knowing their names before they tell you.**
+*(Why knowing the names is the puzzle here — see Background: "The Council of Lords — background".)*
 
 ## Read Aloud
 
@@ -123,9 +179,7 @@ The answer is not to guess. It is to make the room give itself away.
 above. These are the marquee names of the whole descent — the ones worth
 carrying back.
 
-*(Design: this is the "collect names" hook made adversarial. In the Valley,
-names were lying on the walls to be transcribed. Here the names defend
-themselves, and taking them is the puzzle.)*
+*(Design note on the names puzzle — see Background: "The Council of Lords — design note".)*
 
 ---
 
@@ -214,10 +268,7 @@ ballcourt.
 
 # 4. THE BALLCOURT — The Finish
 
-The reason any of this exists. The Lords summon the living down to Xibalba to
-**play the ballgame** — and to lose it, and be killed. The party's forebears in
-this story went down, lost, and stayed. Winning the descent means turning the
-game around on the ones who run it.
+*(Why the finish exists — see Background: "The Ballcourt — why it exists".)*
 
 ## The Game
 
@@ -267,16 +318,3 @@ accord.
 | Sweepings Demon | Lord (sickness) | Council — bench |
 | Stabbing Demon | Lord (sickness) | Council — bench |
 | Camazotz | The death-bat | Bat House |
-
----
-
-# WHAT STILL NEEDS BUILDING
-
-- **Placement & level** — site the mouth of the descent in Nila; set the level.
-- **The ballgame ruleset** — the skill-challenge ladder for the court.
-- **Wall-scenes** — each house wants a read-aloud painting the way each tomb had
-  one, carrying the mythology on the walls. Six to write.
-- **Image prompts** — the council of manikins, the six houses, the ballcourt,
-  to sit in `prompts/` beside the tomb-room prompts.
-
-*End of Xibalba design note.*
