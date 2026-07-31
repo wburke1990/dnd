@@ -2,6 +2,18 @@
 
 ## Design-in-progress · the recruitment meeting after the mill
 
+> **How to use this doc.** Two parts. Part One is background — the why, the
+> math, the lore, the design still in progress (`[OPEN]` calls marked). Part
+> Two is the run sheet, in play order: how she robs them, the one roll, the
+> coffeehouse offer, her talking beats, the pay. Run the meeting from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. The why behind the meeting, and the design still in progress.*
+
+---
+
 > **Status: brainstorm, not a finished set-piece.** This captures the design so
 > far so it can be picked up in another session. Open decisions are marked
 > `[OPEN]`. Grounded in the played mill fight
@@ -55,6 +67,143 @@ orders have hunted each other for a **thousand years**, and exposure here means 
 not arrest** (see [the First Foundation](../lore/the-first-foundation.md)).
 `[OPEN]` who hears the rumor and what it costs.
 
+## Why the atlas lift is a natural 20, not a contest (for David)
+
+**For David — the actual math, and why this isn't the normal pickpocket rule.** By the
+book, picking a pocket is a contest: the thief's **Sleight of Hand** check against the
+mark's **passive Perception** (or an active Perception check if the mark is watching).
+Run those numbers here and the contest is already over:
+
+- **Her side — floor 18.** Sleight of Hand **+8** (Dex +4, proficiency +2 doubled by
+  Expertise to +4 → +8). **Reliable Talent** turns any d20 of 9 or lower into a 10, so
+  her die is **never below 10**: her result is **never below 10 + 8 = 18**, tops out at
+  20 + 8 = 28, and averages about **21**.
+- **Their side — ceiling ~15.** A level-2 PC's passive Perception is **10 + Wisdom mod +
+  proficiency (if any)**. Even the most perceptive PC at the table — Wis +3, proficient
+  (+2) — sits at **15**; most are **11–13**.
+- **So her worst roll (18) beats their best passive score (15) by three.** There is no
+  number on either die that lets them win the contest. Run it by the book and the map is
+  **simply gone** — no roll for the players, every time. That is the correct ruling, and
+  it feels bad: they lose their map on paper with nothing to do about it.
+
+So for this one lift we **drop the contest** and give the players the single out a thief
+this good still can't rule out: **a natural 20.** No DC, no modifiers — her mastery is the
+point, and no level-2 bonus should turn a long shot into a coin flip. The players still
+roll, still have a real (if slim) chance, and V. stays the level-10 professional she is.
+
+## Why she uses her hands, and why the invisibility holds
+
+**Rules note — the hour holds.** Invisibility (2nd level) lasts an hour and ends only
+if she **attacks or casts a spell.** Lifting the atlas and planting notes with her
+**own hands** — invisible and adjacent, Sleight of Hand +8 — is neither, so she does
+it by hand, **not** by recasting Mage Hand (a cantrip is a spell and would drop her).
+She casts nothing from the moment she turns invisible until she chooses to reappear,
+so the whole tail runs inside one Invisibility with no risk of it falling.
+
+She uses her hands over **Mage Hand Legerdemain** for a second reason: the ranged
+hand needs her **visible** (casting drops Invisibility), and a party that met her at
+the mill would watch her if she stood near them in the open. The check is the same
+either way — her Sleight of Hand against passive Perception — but making it **unseen
+and unsuspected** is her best odds (give her advantage on the lift), so that is where
+she takes it.
+
+## The location — a coffeehouse in an old mercenaries' hall `[settled: Merc Hall]`
+
+Not the **Tavern of the Twelve** — that's Preem's rival crews' room, with Calix's
+quasit ([the rival crews](tavern-name-hunter-crews.md)); a spy who fears the
+Second Foundation would not pick it. Not the Second Hand's inn (still Preem's
+crew), and not the docks (tomorrow's set-piece). A **coffeehouse** she names
+and controls, run in an **old Maalm mercenaries' hall** (the "Merc" is
+mercenaries) — a stone building that **predates Kuru and the Company** by a long
+way. The half-orcs never broke Maalm's defenses, so this is **old Maalm's own
+hall, not a captured one.**
+
+Why a coffeehouse: **coffee is the Second Foundation's own product** — slave-
+worked plantations on Musleheim's volcanic soil, shipped by the
+**[Company](../lore/the-company.md)** that is Preem's money. A coffeehouse is also
+a spies-and-rumor den. The building is old Maalm; the **coffee** is what carries
+Preem's colonial wealth into the room, so V. pitches them to betray Preem **over a
+cup grown on it** — the drink argues her case with no exposition, and seeds the
+Company thread the soft way. It keeps the drink-steal.
+
+**Map — Merc Hall `dc9743`** (in staging). A huge stone-floored hall with tables, rugs,
+boxes, hay, and trade goods — reads as an old mercenaries' hall now serving coffee. The
+other two candidates are out: **The Coins `4b489d`** failed to build (custom-token import
+errors) and was removed; **High Rise Market `b00f40`** turned out to be an epic dwarf
+city (monolithic dwarf statues, 60+ minis) — reserved for West Suartleheim, stashed out
+of staging. See `tts/one-world-maps-inventory.md` (Opened maps).
+
+## The mural — the true founding `[settled: honest version]`
+
+The hall predates the Company, so its founding art is the **honest one** — no
+gilding, no repaint (we dropped the Company-repaints-the-founding idea; the
+Company sells the coffee here, it did not build the room). On a wall: **Bedraageon
+and Ammit locked together in the dark**, the twelve placing the first stones above,
+the city rising over both — the founding as
+[the Twelve tells it](../lore/maalm-founding.md), in old paint.
+
+The party sees **Ammit** here hours after meeting her at the scales
+in the **[Dream Quest](the-dream-quest.md)** (Hall of Two Truths) the same night —
+the devourer from the dream is buried under this floor (true of anywhere in Maalm).
+The full story still gets **told later at the Twelve** (the bartender's telling);
+here they only see her, no narration.
+
+## What V. doesn't know yet
+
+*(DM — two things she does **not** know yet.
+**1. The name quest.** V. has no idea Preem has the party collecting **true names** (~17
+names for ~85 gp — [the tomb quest](../sessions/session-05.md)). She can't ask for what
+she doesn't know exists, so her offers stay general — report your errands, copy your
+maps, bring back what you can. She **learns about the names through the party's reports,**
+and that Preem is gathering ancient true names is a real discovery for the First
+Foundation.
+**2. The demon army.** She likewise doesn't know Preem is binding a **demon army** — his
+tower's servants, the endgame host, the volcano-demon that caps it
+([Preem's demons](../characters/preems-demons.md), [overview](../lore/campaign-overview.md)).
+Her "what is he building toward" brief is the paid thread that surfaces both, and the
+party discovering the demon army is a later reveal that lands hardest on **Aniess**
+([aniess.md](../characters/aniess.md)). Don't let V. name either; she is paying to find
+out what the party will one day find for her.)*
+
+## Sarric — why V. hesitates
+
+He **impressed her** at the mill: he bested her (disarm + crit), and strength is what
+she is hiring for. But he also **led Ratatat's maiming**, threw a severed finger and a
+curse down the shaft after her, and weighed torturing the millers. That is what she
+**can't use** — an agent who survives by leaving no trail cannot employ people who work
+that loud and that cruel. So she is **on the fence about him**, and about the
+party through him: impressive in a fight, maybe not people she can hire. See
+[Conversation ideas for David](#conversation-ideas-for-david).
+
+## Open threads
+
+- `[settled]` **Map** — **Merc Hall `dc9743`**, in staging (stone-floored trading
+  hall). The Coins failed to build and was removed; High Rise Market is a dwarf
+  city, stashed for West Suartleheim.
+- `[settled]` **Mural** — the **true founding** (honest version, old Maalm merc
+  hall predates the Company), see
+  [The mural](#the-mural--the-true-founding-settled-honest-version).
+- `[OPEN]` **Timeline** — where the meeting slots against the 9 AM docks
+  departure.
+- `[OPEN]` **Coffeehouse name and keeper** — every Nila tavern-keeper is a
+  **Letap satyr** ([satyr-taverns](../lore/satyr-taverns.md)); a coffee-house
+  keeper could be one too.
+- `[settled — draft]` **The offers** — jobs and platinum prices drafted in
+  [The offers — jobs and pay](#the-offers--jobs-and-pay-the-pocket-notes); tune the
+  numbers to taste.
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. How she robs them, the one roll, the coffeehouse offer, her talking
+beats, the pay — run the meeting from here.*
+
+**Where:** a coffeehouse run in an old Maalm mercenaries' hall (map **Merc Hall
+`dc9743`**). **When:** after the Dream Quest, the same night. *(Why a coffeehouse,
+and the map-selection history — see Background: "The location.")*
+
+---
+
 ## The staging (the fun part)
 
 `[settled — table]` **She robs them before she ever invites them.** The order she
@@ -86,19 +235,9 @@ runs it:
    severed finger and a *coward* down the shaft after her; walking him to a room blind
    and taking his beer is her answer, and she won the mill fight by leaving.
 
-**Rules note — the hour holds.** Invisibility (2nd level) lasts an hour and ends only
-if she **attacks or casts a spell.** Lifting the atlas and planting notes with her
-**own hands** — invisible and adjacent, Sleight of Hand +8 — is neither, so she does
-it by hand, **not** by recasting Mage Hand (a cantrip is a spell and would drop her).
-She casts nothing from the moment she turns invisible until she chooses to reappear,
-so the whole tail runs inside one Invisibility with no risk of it falling.
-
-She uses her hands over **Mage Hand Legerdemain** for a second reason: the ranged
-hand needs her **visible** (casting drops Invisibility), and a party that met her at
-the mill would watch her if she stood near them in the open. The check is the same
-either way — her Sleight of Hand against passive Perception — but making it **unseen
-and unsuspected** is her best odds (give her advantage on the lift), so that is where
-she takes it.
+*(How she runs the whole tail unseen in one Invisibility, and why she lifts by hand
+rather than Mage Hand — see Background: "Why she uses her hands, and why the
+invisibility holds.")*
 
 ## The legerdemain sequence — does she get the atlas?
 
@@ -109,27 +248,8 @@ it** — no bonus a level-2 PC could stack would reliably stop her, so **don't s
 and don't let her auto-win either.** Give them the one chance a master still leaves — a
 **natural 20.**
 
-**For David — the actual math, and why this isn't the normal pickpocket rule.** By the
-book, picking a pocket is a contest: the thief's **Sleight of Hand** check against the
-mark's **passive Perception** (or an active Perception check if the mark is watching).
-Run those numbers here and the contest is already over:
-
-- **Her side — floor 18.** Sleight of Hand **+8** (Dex +4, proficiency +2 doubled by
-  Expertise to +4 → +8). **Reliable Talent** turns any d20 of 9 or lower into a 10, so
-  her die is **never below 10**: her result is **never below 10 + 8 = 18**, tops out at
-  20 + 8 = 28, and averages about **21**.
-- **Their side — ceiling ~15.** A level-2 PC's passive Perception is **10 + Wisdom mod +
-  proficiency (if any)**. Even the most perceptive PC at the table — Wis +3, proficient
-  (+2) — sits at **15**; most are **11–13**.
-- **So her worst roll (18) beats their best passive score (15) by three.** There is no
-  number on either die that lets them win the contest. Run it by the book and the map is
-  **simply gone** — no roll for the players, every time. That is the correct ruling, and
-  it feels bad: they lose their map on paper with nothing to do about it.
-
-So for this one lift we **drop the contest** and give the players the single out a thief
-this good still can't rule out: **a natural 20.** No DC, no modifiers — her mastery is the
-point, and no level-2 bonus should turn a long shot into a coin flip. The players still
-roll, still have a real (if slim) chance, and V. stays the level-10 professional she is.
+*(Why this isn't the normal pickpocket contest, with the full math — see Background:
+"Why the atlas lift is a natural 20, not a contest.")*
 
 **1 — The atlas (before any invite).** On the approach, invisible and adjacent, she goes
 for the map first.
@@ -182,47 +302,6 @@ matter how the lift goes; only what she walks in holding changes.
   breaks off the lift, and depending on the room either talks fast (open the offer early,
   hands visible, no theft) or leaves and tries the meeting later on her terms. She does
   **not** press a lift she can't do unseen.
-
-## The location — a coffeehouse in an old mercenaries' hall `[settled: Merc Hall]`
-
-Not the **Tavern of the Twelve** — that's Preem's rival crews' room, with Calix's
-quasit ([the rival crews](tavern-name-hunter-crews.md)); a spy who fears the
-Second Foundation would not pick it. Not the Second Hand's inn (still Preem's
-crew), and not the docks (tomorrow's set-piece). A **coffeehouse** she names
-and controls, run in an **old Maalm mercenaries' hall** (the "Merc" is
-mercenaries) — a stone building that **predates Kuru and the Company** by a long
-way. The half-orcs never broke Maalm's defenses, so this is **old Maalm's own
-hall, not a captured one.**
-
-Why a coffeehouse: **coffee is the Second Foundation's own product** — slave-
-worked plantations on Musleheim's volcanic soil, shipped by the
-**[Company](../lore/the-company.md)** that is Preem's money. A coffeehouse is also
-a spies-and-rumor den. The building is old Maalm; the **coffee** is what carries
-Preem's colonial wealth into the room, so V. pitches them to betray Preem **over a
-cup grown on it** — the drink argues her case with no exposition, and seeds the
-Company thread the soft way. It keeps the drink-steal.
-
-**Map — Merc Hall `dc9743`** (in staging). A huge stone-floored hall with tables, rugs,
-boxes, hay, and trade goods — reads as an old mercenaries' hall now serving coffee. The
-other two candidates are out: **The Coins `4b489d`** failed to build (custom-token import
-errors) and was removed; **High Rise Market `b00f40`** turned out to be an epic dwarf
-city (monolithic dwarf statues, 60+ minis) — reserved for West Suartleheim, stashed out
-of staging. See `tts/one-world-maps-inventory.md` (Opened maps).
-
-## The mural — the true founding `[settled: honest version]`
-
-The hall predates the Company, so its founding art is the **honest one** — no
-gilding, no repaint (we dropped the Company-repaints-the-founding idea; the
-Company sells the coffee here, it did not build the room). On a wall: **Bedraageon
-and Ammit locked together in the dark**, the twelve placing the first stones above,
-the city rising over both — the founding as
-[the Twelve tells it](../lore/maalm-founding.md), in old paint.
-
-The party sees **Ammit** here hours after meeting her at the scales
-in the **[Dream Quest](the-dream-quest.md)** (Hall of Two Truths) the same night —
-the devourer from the dream is buried under this floor (true of anywhere in Maalm).
-The full story still gets **told later at the Twelve** (the bartender's telling);
-here they only see her, no narration.
 
 ## Conversation ideas for David
 
@@ -293,12 +372,12 @@ it. Beats to pull from:
   toward the Second Foundation, whose ground this is. This is a one-time offer; she
   cannot sit here long, and she says so.
 
+## The offers — jobs and pay (the pocket-notes)
+
 **The offer (platinum).** Pay her in **platinum** — a fair price for the map is heavy in
 gold (hundreds of coins) but a pocketful in platinum, which suits a spy who travels
 light. `[settled — table]` **50 pp (500 gp)** for the map — a real temptation for a level-2
 party without breaking the purse. The per-service jobs and prices are below.
-
-## The offers — jobs and pay (the pocket-notes)
 
 `[settled — table]` **She hires them as double agents.** They keep working for Preem —
 their cover — and feed the First Foundation what they see. She is a lone,
@@ -327,44 +406,5 @@ delivery** and the 50-pp map is the one windfall on the table. Numbers to tune:
 - **Active work** — obstruct or spoil a named Preem operation — **negotiated, ~25 gp and
   up** by risk.
 
-*(DM — two things she does **not** know yet.
-**1. The name quest.** V. has no idea Preem has the party collecting **true names** (~17
-names for ~85 gp — [the tomb quest](../sessions/session-05.md)). She can't ask for what
-she doesn't know exists, so her offers stay general — report your errands, copy your
-maps, bring back what you can. She **learns about the names through the party's reports,**
-and that Preem is gathering ancient true names is a real discovery for the First
-Foundation.
-**2. The demon army.** She likewise doesn't know Preem is binding a **demon army** — his
-tower's servants, the endgame host, the volcano-demon that caps it
-([Preem's demons](../characters/preems-demons.md), [overview](../lore/campaign-overview.md)).
-Her "what is he building toward" brief is the paid thread that surfaces both, and the
-party discovering the demon army is a later reveal that lands hardest on **Aniess**
-([aniess.md](../characters/aniess.md)). Don't let V. name either; she is paying to find
-out what the party will one day find for her.)*
-
-## Sarric — why V. hesitates
-
-He **impressed her** at the mill: he bested her (disarm + crit), and strength is what
-she is hiring for. But he also **led Ratatat's maiming**, threw a severed finger and a
-curse down the shaft after her, and weighed torturing the millers. That is what she
-**can't use** — an agent who survives by leaving no trail cannot employ people who work
-that loud and that cruel. So she is **on the fence about him**, and about the
-party through him: impressive in a fight, maybe not people she can hire. See
-[Conversation ideas for David](#conversation-ideas-for-david).
-
-## Open threads
-
-- `[settled]` **Map** — **Merc Hall `dc9743`**, in staging (stone-floored trading
-  hall). The Coins failed to build and was removed; High Rise Market is a dwarf
-  city, stashed for West Suartleheim.
-- `[settled]` **Mural** — the **true founding** (honest version, old Maalm merc
-  hall predates the Company), see
-  [The mural](#the-mural--the-true-founding-settled-honest-version).
-- `[OPEN]` **Timeline** — where the meeting slots against the 9 AM docks
-  departure.
-- `[OPEN]` **Coffeehouse name and keeper** — every Nila tavern-keeper is a
-  **Letap satyr** ([satyr-taverns](../lore/satyr-taverns.md)); a coffee-house
-  keeper could be one too.
-- `[settled — draft]` **The offers** — jobs and platinum prices drafted in
-  [The offers — jobs and pay](#the-offers--jobs-and-pay-the-pocket-notes); tune the
-  numbers to taste.
+*(Two things V. doesn't know yet — the name quest and the demon army — see Background:
+"What V. doesn't know yet." Don't let her name either.)*
