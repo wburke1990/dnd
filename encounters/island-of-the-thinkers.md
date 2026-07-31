@@ -1,39 +1,17 @@
 # The Island of the Thinkers
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
+## Premise
+
 After failing a sailing check, the group is blown off course and the mast of their vessel is broken. They wash up on a strange island covered in statues. They can see a single tree standing deep in the island.
-
----
-
-## The View from the Sea
-
-A small, battered boat drifts across a restless ocean, its mast cracked and sail hanging limp.
-
-The adventurers, exhausted and sunburnt, see the outline of land ahead.
-
-### First Impressions of the Island
-
-- **Silhouette of Giants:** On the coastal cliffs, the largest Thinker statues loom, hunched and brooding, their forms etched against the sky. From the sea, they look like silent titans slumped in thought, watching the horizon.
-- **Bare Hills:** Behind them, the island appears scarred and barren — ridges stripped of forest, slopes dotted with eroded soil. It feels both desolate and heavy with history.
-- **The Lone Tree:** At the very center of the island's skyline, far above everything, rises the silhouette of the last standing tree — small against the vast sky, but striking in its isolation.
-
-### Atmosphere
-
-The adventurers feel an uncanny mix of hope and dread.
-
-- Hope, because there is land, and perhaps food.
-- Dread, because the statues and the barren earth whisper of a fallen world — a civilization that once was mighty, now gone.
-
-The broken mast seems to mirror the broken grandeur of the island itself.
-
-### Symbolism
-
-To the adventurers, the island might look like:
-
-- A graveyard of giants, with its statues slumped in eternal mourning.
-- A warning, that even the greatest fall if they exhaust their world.
-- Or perhaps a sanctuary, if they can find the garden that sustains the Last Thinker.
-
----
 
 ## The Statues — A Petrified Evolutionary Chart
 
@@ -72,8 +50,6 @@ To the adventurers, the island might look like:
 
 **Impact:** Scholars would see some of the earliest hyperrealist monumental sculptures in history.
 
----
-
 ## The Tradition of the Thinkers
 
 - Each generation crowns a leader called The Thinker, whose role is political and spiritual — the embodiment of wisdom, patience, and survival.
@@ -110,6 +86,54 @@ Walking across the island, you'd pass through eras of scale:
 
 It would feel like a pilgrimage through the psychology of a people, shrinking in body but not in mind.
 
+## The island's symbolism from the sea
+
+### Symbolism
+
+To the adventurers, the island might look like:
+
+- A graveyard of giants, with its statues slumped in eternal mourning.
+- A warning, that even the greatest fall if they exhaust their world.
+- Or perhaps a sanctuary, if they can find the garden that sustains the Last Thinker.
+
+## The symbolism of the tree, the Thinker, and the garden
+
+### The Symbolism
+
+- The single tree represents the last breath of nature, a fragile green world clinging to life.
+- The Thinker embodies continuity — even in decline, he maintains the ritual of contemplation and stewardship.
+- The garden is both literal sustenance and symbolic resistance: a tiny act of creation against the void of collapse.
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
+
+## The View from the Sea
+
+A small, battered boat drifts across a restless ocean, its mast cracked and sail hanging limp.
+
+The adventurers, exhausted and sunburnt, see the outline of land ahead.
+
+### First Impressions of the Island
+
+- **Silhouette of Giants:** On the coastal cliffs, the largest Thinker statues loom, hunched and brooding, their forms etched against the sky. From the sea, they look like silent titans slumped in thought, watching the horizon.
+- **Bare Hills:** Behind them, the island appears scarred and barren — ridges stripped of forest, slopes dotted with eroded soil. It feels both desolate and heavy with history.
+- **The Lone Tree:** At the very center of the island's skyline, far above everything, rises the silhouette of the last standing tree — small against the vast sky, but striking in its isolation.
+
+### Atmosphere
+
+The adventurers feel an uncanny mix of hope and dread.
+
+- Hope, because there is land, and perhaps food.
+- Dread, because the statues and the barren earth whisper of a fallen world — a civilization that once was mighty, now gone.
+
+The broken mast seems to mirror the broken grandeur of the island itself.
+
+*(What the island might look like to the party — see Background: "The island's symbolism from the sea".)*
+
 ---
 
 ## The Last Thinker, sustained by the last tree
@@ -126,11 +150,7 @@ It would feel like a pilgrimage through the psychology of a people, shrinking in
 - He lives in a small cave carved into the hillside beneath the tree, emerging each day to tend the garden.
 - In keeping with the ancestral tradition, his statue (life-sized to him) sits quietly in the garden, brooding in thought as all Thinkers before him.
 
-### The Symbolism
-
-- The single tree represents the last breath of nature, a fragile green world clinging to life.
-- The Thinker embodies continuity — even in decline, he maintains the ritual of contemplation and stewardship.
-- The garden is both literal sustenance and symbolic resistance: a tiny act of creation against the void of collapse.
+*(What the tree, the Thinker, and the garden represent — see Background: "The symbolism of the tree, the Thinker, and the garden".)*
 
 ### Atmosphere
 
