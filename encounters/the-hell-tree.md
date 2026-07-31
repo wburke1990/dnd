@@ -42,14 +42,14 @@ A comet-stone normally grows into a god — a cosmic beast that a people descend
 (see [lineages & afterlives](../lore/lineages-and-afterlives.md)). This one never got
 the chance: the **True Giants** — the world's oldest people, who become mountains
 when they die — tore it apart before it could land and take root. (That is the killing in
-[Kronos and Uranus](../handouts/kronos-and-uranus.md): a sky-god struck down, a tree
+[Kronos and Uranus](../handouts/kronos-and-uranus.md): a sky-god killed, a tree
 grown from the wound.) A tree grew up where the torn body fell, and its mind stayed
 alive in the wood. Over thousands of years the roots grew down until they reached hell,
 and then the tree began to fruit.
 
 Because the giants killed the god, no god rose here, no new land was raised, and no
 [road of the dead](../lore/demons-and-the-hotspot.md) was ever kept. The tree fell in
-the first pass, so it is older than the gnomes, older than the Muspel empire, older
+the first pass, so it is older than the gnomes and the Muspel empire — older
 than almost everything here. `[OPEN]` exact date.
 
 ---
@@ -75,7 +75,7 @@ already saw:
 
 This adds one new thing to the world: **the giants killed a god.** Everywhere else the
 [True Giants](../lore/lineages-and-afterlives.md) are quiet — they become
-mountains when they die. Here, once, they killed. Keep that straight. `[OPEN]` why they killed this
+mountains when they die. Here they killed, once. Keep that straight. `[OPEN]` why they killed this
 god, and whether it happened more than once.
 
 ---
@@ -131,8 +131,7 @@ to itself — the window to name it (below, and the
 [Three Citrons](../handouts/the-three-citrons.md)).
 
 **The voice.** The muttering is a mind — the mind of the dead god the tree grew from
-(below). It can be spoken to (Speak with Plants, or anything like it). It lies, it
-grieves, and it calls the demons its children. The party can deal with it by talking
+(below). It can be spoken to (Speak with Plants, or anything like it). It lies and grieves, and it calls the demons its children. The party can deal with it by talking
 instead of fighting. `[OPEN]` its voice — what it wants, what it lies about, what it
 will trade.
 
@@ -145,12 +144,11 @@ foot of the stair (see the descent, below).
 
 No one lives here; the land is ancient and worn out, and the air near the tree is
 poison (see [Anchar](../handouts/anchar.md)). The poison is the tree's **alchemical
-sickness**, and it works on anything that stays in it — the animals here are what it
-made of them. `[for David]` pick the set of monsters the party meets on the hunt.
+sickness**, and it works on anything that stays in it — the animals here are what it mutated them into. `[for David]` pick the set of monsters the party meets on the hunt.
 
 `[proposed mechanic]` It works on the party too. The closer they get and the longer
 they stay, the more it mutates them — worst at the tree, worse still down the stair,
-where they are standing on the source. Fast in, fast out.
+where they are standing on the source. Get in and out quickly.
 
 `[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness
 his people were mutated by, so it strengthens him instead of changing him — more so the
@@ -162,13 +160,12 @@ closer he gets, more so again down the stair. See
 ## The descent — the stair to the stone
 
 At the base of the tree a **stair goes down**, following the roots into the earth, and
-ends far below at the **broken stone** — the comet the god fell as, all that is left of
+ends far below at the **broken stone** — the comet-stone the god was, all that is left of
 him.
 
 The party goes down it a level at a time. Each level carries one verse of the Qur'an's
 **[Zaqqum](../handouts/the-tree-of-zaqqum.md)** in Arberry's words — *a tree that comes
-forth in the root of Hell* — so they read the tree's own scripture as they climb down
-into its roots. `[proposed]` the As-Saffat run (37:62–68), one verse a level, ending on
+forth in the root of Hell*. `[proposed]` the As-Saffat run (37:62–68), one verse a level, ending on
 the stone.
 
 `[OPEN]` how many levels, and what is at the stone.

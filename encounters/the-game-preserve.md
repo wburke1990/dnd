@@ -24,7 +24,7 @@ where no hunter goes. The party joins the hunt to get past the fence, then break
 and crosses to the tree alone.
 
 Source for the approach: *Heart of Darkness* — the way in gets worse the closer it
-comes to the thing at the center.
+comes to the tree at the center.
 
 ## The hunt
 
@@ -60,10 +60,10 @@ go for the season and never reach it.
 ## Read aloud — the edge of the hunt
 
 > *A long fence runs off into the wild both ways. Past it the ground is bad — the
-> grass wrong-coloured and too tall, the trees knotted and low. Hunters are
+> grass grey-green and waist-high, the trees knotted and low. Hunters are
 > gathering: gnomes in hound-pelts, up on the backs of great hounds, with a loose pack
 > of more hounds circling them. Far out past all of it, too far to make out, a single
-> huge tree stands over everything.*
+> huge tree rises above everything.*
 
 `[OPEN]` the fence, the muster, the first sight of the far tree.
 
@@ -90,7 +90,7 @@ while the hunt runs on out in the wild, far from the tree.
 
 The way in gets worse the closer they come — the poison thicker, the mutated beasts
 worse (see [the hell-tree](the-hell-tree.md)), and the sickness starting to work on
-the party themselves. **Fast in, fast out.**
+the party themselves. **Get in and out quickly.**
 
 ### Read aloud — a shrine on the way
 
@@ -98,7 +98,7 @@ the party themselves. **Fast in, fast out.**
 > slab set on top. Words are cut into the slab. Nothing is built near it and no one
 > tends it. Further on there is another, and past that another.*
 
-Pilgrims left the shrines on their way in; nothing permanent holds in this ground. The
+Pilgrims left the shrines on their way in; nothing built here lasts. The
 slabs carry the **[Anchar](../handouts/anchar.md)** poem — the lone poison-tree, and
 the master who sends a man to gather from it and not come back. (The Qur'an's
 [Zaqqum](../handouts/the-tree-of-zaqqum.md) is down the stair at the tree itself — see
@@ -110,8 +110,7 @@ the master who sends a man to gather from it and not come back. (The Qur'an's
 > father he ate me…" It sings them plainly, waits, and sings them again.*
 
 It is a **mockingbird**, warped by the tree's poison, that repeats whatever it hears.
-It once heard the tree muttering to itself. So the party gets the tree's own words from
-a dumb bird, long before they reach it (see [the hell-tree](the-hell-tree.md)).
+It once heard the tree muttering to itself. So the party hears the tree's own words long before they reach it (see [the hell-tree](the-hell-tree.md)).
 
 `[OPEN]` the stages of the approach — how many shrines, and how the mutation is
 tracked.

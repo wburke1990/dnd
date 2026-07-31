@@ -20,7 +20,7 @@
 performers**, where the hunters and pilgrims gather and where the **priestesses of
 Artemis** keep their temple. The town was founded by the Momotarō peach-boy, and it is
 built around him: a peach grove rings it, the founder's statue stands in the square,
-and the gnomes act the fruit-birth stories out in the streets.
+and the gnomes act the stories of children born from fruit out in the streets.
 
 `[name]` Brauron `[settled]` — the real Artemis sanctuary where girls served as bears,
 the rite the town keeps. The name is Greek, not Norse: the Norse map-names (Raand, Aar,
@@ -33,7 +33,7 @@ word for word.
 ## The people
 
 Gnome artisans and performers, dragon-descended like [Raand](../lore/nila-atlas.md).
-They carve, build, and act. The fruit-birth is their holy story, and they keep it in
+They carve, build, and act. A child born from a fruit is their holy story, and they keep it in
 the grove, the statue, the fountain, and the plays.
 
 ---
@@ -51,16 +51,15 @@ they keep it and the bees do not. (For when a player asks.)
 ## The bee-priestesses and Sarric
 
 `[lands on Sarric]` Sarric carries his beehive everywhere
-([sheet](../characters/sarric.md)); a temple of **bee**-priestesses is a thing the
-world sets in front of him. What he makes of it is Jeremy's.
+([sheet](../characters/sarric.md)); here there is a temple of **bee**-priestesses. What he makes of it is Jeremy's.
 
 ---
 
 ## What still needs building
 
-- The **antlering** at the table — the sign-up, the two readings, the Longstrider
+- **Dressing the quarry as the stag** at the table — the sign-up, the two readings, the Longstrider
   blessing.
-- The **Attis walls** — how the mystery is laid out in the temple.
+- The **Attis paintings** — how the mystery is laid out in the temple.
 - Links out to [the game preserve](the-game-preserve.md) and
   [the hell-tree](the-hell-tree.md).
 
@@ -128,7 +127,7 @@ girls serve the goddess as **bears** before they marry (the real Brauron rite).
 
 ---
 
-## The hunt starts here — the antlering
+## The hunt starts here — dressing the quarry as the stag
 
 The cult runs the sacred hunt out in the wild — two strands, the beast-hunt and the
 Actaeon man-hunt (see [the game preserve](the-game-preserve.md)) — and it is set up
