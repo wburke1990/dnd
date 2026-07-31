@@ -1,6 +1,15 @@
 # The Second Hand Ambush
 ## A D&D Encounter — Maalm, the citadel district
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > The party comes upon **[The Second Hand](../characters/the-second-hand.md)** —
 > one of [Preem](../characters/preem.md)'s other name-hunting crews — **pinned
 > down and dying** outside the tower, ambushed by the **rat man** and a knot of
@@ -93,6 +102,39 @@ run.**
 
 ---
 
+# What the scene is meant to suggest
+
+The read the party is meant to take — and the read the campaign *wants* them to
+take — diverge, and that's the point:
+
+- **Correct:** the rat man hunts **all** of Preem's crews, not the PCs alone.
+- **Intended-but-wrong:** *Preem's people are being watched* → suspicion lands on
+  **Preem,** the patron, instead of the rat man, the real handler. (See the
+  [Session 1 DM notes](../sessions/session-01.md) — this is the same misdirection
+  the whole early campaign runs on.)
+
+---
+
+# LOOSE ENDS FOR PREP
+
+- [x] **Rat man + rats stat blocks recorded** in
+      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (Ratatat, CR ½
+      + 14 rat minions). Scale guard count / rats to your party.
+- [x] **Locked: the three guards are Marcellus (Veteran sergeant), Bernardo, and
+      Francisco** — the same trio from [Session 1](../sessions/session-01.md);
+      Cassia outranked Marcellus and was forced out for naming his racket.
+- [ ] **Decide the citadel staging** — alley vs. plaza vs. the tower steps
+      themselves (most pointed: ambushed on Preem's own doorstep).
+- [ ] **Pick the split-glyph's form and limit** — see the
+      [alliance rules](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
+
+---
+
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+
+---
+
 # WHAT THE PARTY SEES
 
 A crew of four backed against a wall in a citadel alley or plaza: a dwarf down in
@@ -103,14 +145,7 @@ shadow, and **rats boiling out of the gutters** with them. And at the edge of it
 half in a doorway, **a rat-headed figure the party will recognize** — already
 clawing at the scout's satchel of gifts.
 
-The read the party is meant to take — and the read the campaign *wants* them to
-take — diverge, and that's the point:
-
-- **Correct:** the rat man hunts **all** of Preem's crews, not the PCs alone.
-- **Intended-but-wrong:** *Preem's people are being watched* → suspicion lands on
-  **Preem,** the patron, instead of the rat man, the real handler. (See the
-  [Session 1 DM notes](../sessions/session-01.md) — this is the same misdirection
-  the whole early campaign runs on.)
+*(Why the scene is staged this way, and the misdirection it runs — see Background: "What the scene is meant to suggest".)*
 
 ---
 
@@ -186,18 +221,3 @@ is gone — but the party has now **seen** the rat man field corrupt guards, and
 "scattered remains of a rival crew" become a grim prop for the
 [Valley of the Kings](valley-of-the-kings.md), exactly as the
 [overview](../lore/campaign-overview.md) frames it.
-
----
-
-# LOOSE ENDS FOR PREP
-
-- [x] **Rat man + rats stat blocks recorded** in
-      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (Ratatat, CR ½
-      + 14 rat minions). Scale guard count / rats to your party.
-- [x] **Locked: the three guards are Marcellus (Veteran sergeant), Bernardo, and
-      Francisco** — the same trio from [Session 1](../sessions/session-01.md);
-      Cassia outranked Marcellus and was forced out for naming his racket.
-- [ ] **Decide the citadel staging** — alley vs. plaza vs. the tower steps
-      themselves (most pointed: ambushed on Preem's own doorstep).
-- [ ] **Pick the split-glyph's form and limit** — see the
-      [alliance rules](../characters/the-second-hand.md#the-alliance--and-the-anti-tpk-lever).
