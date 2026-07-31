@@ -236,7 +236,12 @@ macOS but isn't allowlisted, so it prompts too. `python`/`python3` *are*
 allowlisted, and a literal `-c` string has nothing for the analyzer to
 choke on:
 `python3 -c "import random; print(random.randint(1,20))"` (adjust bounds
-per die). Use it for any roll — encounters, attacks, saves.
+per die). Use it for any roll — encounters, attacks, saves. **But keep
+inline `-c` strings free of `#` comments** — a newline followed by `#`
+inside a quoted argument trips the analyzer's path-validation check and
+prompts (same bucket). Put no comments in inline Python; for anything
+beyond a one-liner, write a scratchpad `.py` file and run it with
+`uv --directory …/scripts run python <file>` instead.
 
 **Append to files with the `Write`/`Edit` tools, not shell redirection.**
 `printf … >> file` / `echo … >> file` route through the command analyzer,
