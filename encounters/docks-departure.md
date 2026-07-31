@@ -1,6 +1,15 @@
 # The Docks — Departure Under Fire
 ## A D&D Encounter — Maalm, the harbor, ~9 AM (the morning after the square)
 
+> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+
+---
+
+# PART ONE — BACKGROUND
+*Read in prep. Not needed at the table.*
+
+---
+
 > The party comes to the **docks at 9 AM** to see the
 > **[Second Hand](../characters/the-second-hand.md)** off. **Captain Cassia
 > Roan** is leaving Maalm by boat, one step ahead of the corrupt watch — and the
@@ -37,26 +46,24 @@ everyone is leaving.
 
 ---
 
-# THE TRIGGER — THE TRUMPED-UP ARREST
+# LOOSE ENDS FOR PREP
 
-The guards move in with a charge that fits what the party is actually
-carrying: **illegal export of organic material** — the **20 rats** they're
-hauling out of the city. (Any contraband framing works; the rats are the
-readymade one.)
+- [x] Guard stats and **wave counts** — done: [Maalm Watch](../bestiary/maalm-watch.md)
+      and the level-2/3 dials above.
+- [x] Second Hand combat stats — done:
+      [crew blocks](../characters/the-second-hand.md#combat-stats--running-the-crew-in-a-fight).
+- [ ] Lock whether the party is **level 2 or 3** at this point, and set the dial
+      to match.
+- [ ] Decide whether **Cassia** takes a farewell hit here (she's fleeing for
+      her life; a close call sells it) — keep her alive, per the anti-TPK
+      design.
+- [ ] Hand over the **split-rune** in the **aftermath** — earned by fighting
+      beside the crew, not offered before it (the crew hasn't raised it yet).
 
-The menace is personal. A guard hands over Ratatat's message:
+---
 
-*(Guard, quietly, as the irons come out:)*
-*"Ratatat sends his regards."*
-
-**If the party tries to bribe them**, the price is a joke with teeth — a
-callback to what they did to Ratatat:
-
-*(Guard:)*
-*"The price is two fingers."*
-
-They don't want coin. They want the party to bleed for it, or a reason to
-swing.
+# PART TWO — RUN SHEET
+*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
 
 ---
 
@@ -83,6 +90,29 @@ swing.
   out (a clean non-lethal way to clear bodies).
 - The **streets behind the dock** are where reinforcements come from. Keep an
   eye on that edge; it's the wave spawn.
+
+---
+
+# THE TRIGGER — THE TRUMPED-UP ARREST
+
+The guards move in with a charge that fits what the party is actually
+carrying: **illegal export of organic material** — the **20 rats** they're
+hauling out of the city. (Any contraband framing works; the rats are the
+readymade one.)
+
+The menace is personal. A guard hands over Ratatat's message:
+
+*(Guard, quietly, as the irons come out:)*
+*"Ratatat sends his regards."*
+
+**If the party tries to bribe them**, the price is a joke with teeth — a
+callback to what they did to Ratatat:
+
+*(Guard:)*
+*"The price is two fingers."*
+
+They don't want coin. They want the party to bleed for it, or a reason to
+swing.
 
 ---
 
@@ -165,19 +195,3 @@ Same fight, two dials. Party of 5 plus the four Second Hand allies either way.
 - The corrupt watch is now **openly the party's enemy**, and Ratatat has
   spent his guards to make the point — a reason to be careful at the gates
   from here on.
-
----
-
-# LOOSE ENDS FOR PREP
-
-- [x] Guard stats and **wave counts** — done: [Maalm Watch](../bestiary/maalm-watch.md)
-      and the level-2/3 dials above.
-- [x] Second Hand combat stats — done:
-      [crew blocks](../characters/the-second-hand.md#combat-stats--running-the-crew-in-a-fight).
-- [ ] Lock whether the party is **level 2 or 3** at this point, and set the dial
-      to match.
-- [ ] Decide whether **Cassia** takes a farewell hit here (she's fleeing for
-      her life; a close call sells it) — keep her alive, per the anti-TPK
-      design.
-- [ ] Hand over the **split-rune** in the **aftermath** — earned by fighting
-      beside the crew, not offered before it (the crew hasn't raised it yet).
