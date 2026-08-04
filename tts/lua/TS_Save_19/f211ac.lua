@@ -3018,8 +3018,10 @@ function rebuildUI()
                             attributes={
                                 id=figure.guidValue ..'_init_entry',
                                 alignment='MiddleCenter',
-                                preferredHeight=60,
-                                preferredWidth='70',
+                                minWidth='100',
+                                preferredWidth='100',
+                                minHeight='60',
+                                preferredHeight='60',
                                 flexibleWidth=0,
                                 fontSize='32',
                                 characterValidation='Integer',
