@@ -1954,7 +1954,8 @@ options = {
     initActive = false,
     initCurrentValue = 0,
     initCurrentRound = 1,
-    initCurrentGUID = ""
+    initCurrentGUID = "",
+    manualInits = {}
 }
 
 initFigures = {}
@@ -2631,6 +2632,12 @@ function handleInitMiniature(miniature)
             colorTint = colorTint,
             colorHex = tintToHex(colorTint)
         }
+        -- A number typed into the tracker's initiative box wins over the mini's
+        -- own roll/fixed value for this fight (cleared by Reset).
+        local manualInit = options.manualInits and options.manualInits[figure.guidValue]
+        if manualInit ~= nil then
+            figure.initValue = tonumber(manualInit)
+        end
         local initText = tostring(figure.initValue) .. ' ['
         if figure.initMod == 0 then
             initText = initText .. '0]'
@@ -2649,6 +2656,7 @@ function resetInitiative()
     options.initCurrentValue = 0
     options.initCurrentRound = 1
     options.initCurrentGUID = ""
+    options.manualInits = {}
     getInitiativeFigures()
     for i, figure in ipairs(initFigures) do
         figure.obj.call('resetInitiative')
@@ -2980,6 +2988,12 @@ function rebuildUI()
         end
         extraText = striptags(figure.name)..extraText
         local percMax = tonumber(perc * 100.0)
+        local initModStr = '[0]'
+        if figure.initMod > 0 then
+            initModStr = '[+' .. figure.initMod .. ']'
+        elseif figure.initMod < 0 then
+            initModStr = '[' .. figure.initMod .. ']'
+        end
         local miniui = {
             tag='verticallayout',
             attributes={
@@ -3000,15 +3014,32 @@ function rebuildUI()
                     },
                     children={
                         {
+                            tag='InputField',
+                            attributes={
+                                id=figure.guidValue ..'_init_entry',
+                                alignment='MiddleCenter',
+                                preferredHeight=60,
+                                preferredWidth='70',
+                                flexibleWidth=0,
+                                fontSize='32',
+                                characterValidation='Integer',
+                                onEndEdit='setInitEntry',
+                                color='rgb(0.3,0.3,0.3)',
+                                textColor='rgb(1,1,1)',
+                                fontStyle='Bold',
+                                text=figure.initValue
+                            }
+                        },
+                        {
                             tag='text',
                             attributes={
-                                id=figure.guidValue ..'_header_init',
+                                id=figure.guidValue ..'_init_mod',
                                 alignment='MiddleLeft',
                                 preferredHeight=60,
-                                fontSize='32',
+                                fontSize='24',
                                 resizeTextForBestFit=true,
-                                minWidth='113',
-                                text=figure.initText
+                                minWidth='45',
+                                text=initModStr
                             }
                         },
                         {
@@ -3264,6 +3295,26 @@ function barIncrease(player, value, id)
             token.call('increaseHP')
         else
             token.call('adjustHP', 10)
+        end
+    end
+end
+
+function setInitEntry(player, value, id)
+    local args = {}
+    for a in string.gmatch(id, '([^%_]+)') do
+        table.insert(args, a)
+    end
+    local guid = args[1]
+    if options.manualInits == nil then
+        options.manualInits = {}
+    end
+    if value == "" then
+        options.manualInits[guid] = nil
+    else
+        options.manualInits[guid] = tonumber(value)
+        local token = getObjectFromGUID(guid)
+        if token ~= nil then
+            broadcastToAll(token.getName() .. " initiative set to " .. value .. ".", {1, 1, 1})
         end
     end
 end
