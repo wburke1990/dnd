@@ -37,6 +37,13 @@ Each confessed:
   tent."*
 - **Jasper:** *"We burned down a village. They made a play about it."*
 
+## Asking Anubis about their own deaths
+
+- **Sarric asked Anubis whether this is what waits for him when he dies.** Anubis
+  answered: **no.**
+- **Pax asked the same.** Anubis: *"Pax, you may stand in this hall some day, or
+  you may not. I do not know the future. Your path is yours to walk."*
+
 ## Ghassan's confession and the weighing
 
 - Ghassan was brought forward. Anubis took his heart and set it on the scale
@@ -74,6 +81,15 @@ Each confessed:
   know, the party went and came back — they carry the loss, the family doesn't.
   `[OPEN]` whether that stays hidden, and whether it ever comes back on the
   party that they know and the children don't.
+- **Anubis's split answer is a lineage tell — mind what it commits us to.**
+  Sarric asked if the Hall is what waits for him and got a flat **no**; Pax asked
+  and got a **maybe** (*"you may stand in this hall some day, or you may not"*).
+  That's now canon from a god's mouth: **Sarric's soul does not go to the Duat**,
+  and **Pax's might.** It lines up with the campaign's lineages-and-afterlives
+  design — different peoples, different roads for the dead
+  ([lineages & afterlives](../lore/lineages-and-afterlives.md)). `[OPEN]` where
+  Sarric's soul *does* go, if we ever answer it, and why Pax is the open case —
+  worth a look at his and Sarric's backstories before committing to an answer.
 - **Aniess is the one who didn't finish.** She took fire damage at Gate Six and
   woke before the Hall — so **she made no confession** and **wasn't present for
   Ghassan's judgment.** The wound rule that Session 8 left `[OPEN]` got tested
