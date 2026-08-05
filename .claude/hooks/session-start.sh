@@ -6,14 +6,17 @@
 # device's pushes doesn't work off stale files (this repo is driven from several
 # machines).
 #
-# Cloud sessions only: also installs the optional system binaries the
-# pre-commit hook expects (gitleaks for secret scanning, shellcheck for
-# hook linting, luacheck for TTS Lua linting) and pre-warms the uv venv.
-# On local machines, install these yourself — `brew install gitleaks
-# shellcheck luarocks && luarocks install luacheck`.
+# Cloud sessions only: also installs the system binaries the pre-commit hook
+# expects (gitleaks for secret scanning, shellcheck for hook linting, luacheck
+# for TTS Lua linting) and pre-warms the uv venv. On local machines, install
+# these yourself — `brew install gitleaks shellcheck luarocks && luarocks
+# install luacheck`.
 #
 # Idempotent: skips installs that have already succeeded in this container.
-# Tolerant: install failures log a warning but do not block the session.
+# Tolerant of failure at the *session* level — a failed install warns and lets
+# the session start. But gitleaks is required at *commit* time, so if its
+# install fails here, commits will be refused until it is fixed rather than
+# proceeding unscanned. That is deliberate.
 
 set -u
 
@@ -52,17 +55,58 @@ if [[ "${CLAUDE_CODE_REMOTE:-}" != "true" ]]; then
 fi
 
 PROJECT_DIR="${CLAUDE_PROJECT_DIR:-$(pwd)}"
-GITLEAKS_VERSION="8.21.2"
 
+# Pinned to the version installed on the owner's Mac, so both machines run the
+# same scanner and the same rule set. Checksums are the official ones published
+# with the release (gitleaks_<ver>_checksums.txt); update both together when
+# bumping the version, and take the new values from that file, not from the
+# downloaded artifact — a hash computed from what you just downloaded proves
+# nothing.
+GITLEAKS_VERSION="8.30.1"
+GITLEAKS_SHA256_x64="551f6fc83ea457d62a0d98237cbad105af8d557003051f41f3e7ca7b3f2470eb"
+GITLEAKS_SHA256_arm64="e4a487ee7ccd7d3a7f7ec08657610aa3606637dab924210b3aee62570fb4b080"
+
+# Downloads the release tarball and verifies it against the pinned checksum
+# before anything from it is executed. A version pin alone only asserts which
+# artifact was requested; it says nothing about what the endpoint actually
+# served. This binary gates every commit (the pre-commit hook refuses to run
+# without it), so it is worth verifying rather than trusting.
 install_gitleaks() {
     if command -v gitleaks >/dev/null 2>&1; then
         return 0
     fi
+
+    local arch expected
+    case "$(uname -m)" in
+        x86_64 | amd64) arch="x64" expected="$GITLEAKS_SHA256_x64" ;;
+        aarch64 | arm64) arch="arm64" expected="$GITLEAKS_SHA256_arm64" ;;
+        *)
+            echo "session-start: unsupported arch $(uname -m) for gitleaks" >&2
+            return 1
+            ;;
+    esac
+
     local tarball=/tmp/gitleaks.tgz
-    if curl -sfL --max-time 30 \
-        "https://github.com/gitleaks/gitleaks/releases/download/v${GITLEAKS_VERSION}/gitleaks_${GITLEAKS_VERSION}_linux_x64.tar.gz" \
-        -o "$tarball" \
-        && tar -xzf "$tarball" -C /tmp gitleaks \
+    if ! curl -sfL --max-time 30 \
+        "https://github.com/gitleaks/gitleaks/releases/download/v${GITLEAKS_VERSION}/gitleaks_${GITLEAKS_VERSION}_linux_${arch}.tar.gz" \
+        -o "$tarball"; then
+        rm -f "$tarball"
+        return 1
+    fi
+
+    local actual
+    actual="$(sha256sum "$tarball" 2>/dev/null | cut -d' ' -f1)"
+    if [[ -z "$actual" ]]; then
+        actual="$(shasum -a 256 "$tarball" 2>/dev/null | cut -d' ' -f1)"
+    fi
+
+    if [[ "$actual" != "$expected" ]]; then
+        echo "session-start: gitleaks checksum mismatch — expected $expected, got ${actual:-<none>}; refusing to install" >&2
+        rm -f "$tarball"
+        return 1
+    fi
+
+    if tar -xzf "$tarball" -C /tmp gitleaks \
         && mv /tmp/gitleaks /usr/local/bin/gitleaks; then
         rm -f "$tarball"
         return 0
