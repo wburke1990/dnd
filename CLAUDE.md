@@ -195,6 +195,16 @@ can't statically analyze) trigger a prompt that blocks on mobile. So:
 `git -C /Users/wcb/personal/dnd commit -F /tmp/msg.txt`. A one-line
 `git commit -m "…"` is fine; the heredoc is what trips the analyzer.
 
+**Never prefix a git command with `cd … &&`.** The Bash cwd is already the
+project root for the whole session, so `git add …` / `git -C
+/Users/wcb/personal/dnd …` work bare. `cd /Users/wcb/personal/dnd && git
+add … && git commit …` double-trips the analyzer — both the `cd` and the
+`&&` chain past a `cd` are un-vettable — and prompts on mobile *and* fires
+the "changes directory before running git, can execute untrusted hooks"
+warning even on desktop. (Bitten 8/5: a `cd && git add && git commit`
+prompted.) Stage and commit as separate bare calls, or use `git -C
+<abs-path>`; never `cd` to reach the repo.
+
 **Permission patterns are prefix-anchored on the command string.**
 `Bash(find:*)` matches `find …` but NOT `/usr/bin/find …`. If a bare
 command behaves oddly (e.g. `find: unknown option '-S'`), do NOT reach
