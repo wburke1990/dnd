@@ -13,6 +13,10 @@
 # install luacheck`.
 #
 # Idempotent: skips installs that have already succeeded in this container.
+# gitleaks is matched by version, so an image's own older copy gets replaced by
+# the pinned one. If that replacement fails (no network), the older copy stays
+# and commits proceed scanned-but-unverified rather than blocked — a weaker
+# guarantee is worth more here than a session that cannot commit at all.
 # Tolerant of failure at the *session* level — a failed install warns and lets
 # the session start. But gitleaks is required at *commit* time, so if its
 # install fails here, commits will be refused until it is fixed rather than
@@ -72,7 +76,12 @@ GITLEAKS_SHA256_arm64="e4a487ee7ccd7d3a7f7ec08657610aa3606637dab924210b3aee62570
 # served. This binary gates every commit (the pre-commit hook refuses to run
 # without it), so it is worth verifying rather than trusting.
 install_gitleaks() {
-    if command -v gitleaks >/dev/null 2>&1; then
+    # Gate on the version, not on mere presence. Container images ship their own
+    # gitleaks (8.21.2 as of 8/5), so a presence check short-circuits and the
+    # pinned, checksum-verified build is never installed — leaving commits
+    # guarded by an older, unverified binary while the pin and the hash below
+    # protect a path that never runs. Verified by a container pass on 8/5.
+    if [[ "$(gitleaks version 2>/dev/null | tr -d '[:space:]')" == "$GITLEAKS_VERSION" ]]; then
         return 0
     fi
 
@@ -106,13 +115,23 @@ install_gitleaks() {
         return 1
     fi
 
-    if tar -xzf "$tarball" -C /tmp gitleaks \
-        && mv /tmp/gitleaks /usr/local/bin/gitleaks; then
+    if ! tar -xzf "$tarball" -C /tmp gitleaks \
+        || ! mv /tmp/gitleaks /usr/local/bin/gitleaks; then
         rm -f "$tarball"
-        return 0
+        return 1
     fi
     rm -f "$tarball"
-    return 1
+
+    # Confirm the binary we verified is the one that will actually run. An image
+    # copy earlier on PATH would otherwise keep winning, silently.
+    hash -r 2>/dev/null || true
+    local now
+    now="$(gitleaks version 2>/dev/null | tr -d '[:space:]')"
+    if [[ "$now" != "$GITLEAKS_VERSION" ]]; then
+        echo "session-start: installed gitleaks $GITLEAKS_VERSION to /usr/local/bin, but 'gitleaks' still resolves to ${now:-nothing} — another copy earlier on PATH is shadowing it" >&2
+        return 1
+    fi
+    return 0
 }
 
 install_shellcheck() {
