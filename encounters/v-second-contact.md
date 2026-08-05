@@ -150,7 +150,7 @@ here they only see her, no narration.
 
 ## What V. doesn't know yet
 
-*(DM — two things she does **not** know yet.
+*(DM — three things she does **not** know yet.
 **1. The name quest.** V. has no idea Preem has the party collecting **true names** (~17
 names for ~85 gp — [the tomb quest](../sessions/session-05.md)). She can't ask for what
 she doesn't know exists, so her offers stay general — report your errands, copy your
@@ -163,7 +163,13 @@ tower's servants, the endgame host, the volcano-demon that caps it
 Her "what is he building toward" brief is the paid thread that surfaces both, and the
 party discovering the demon army is a later reveal that lands hardest on **Aniess**
 ([aniess.md](../characters/aniess.md)). Don't let V. name either; she is paying to find
-out what the party will one day find for her.)*
+out what the party will one day find for her.
+**3. Batrick.** Jasper's psychic-bat familiar — **Batrick**, a quasit spy of Preem's
+(see [The Psychic Bat](../characters/the-psychic-bat.md)) — rides Jasper's shoulder
+through the whole offer and reports it to Preem. So the moment V. recruits the party,
+Preem hears it, and he lets her run anyway — the pivot that turns her double agents
+into his triple agents. See
+[Preem — the double-agent offer](../characters/preem.md#the-double-agent-offer--how-preem-plays-it).)*
 
 ## Sarric — why V. hesitates
 

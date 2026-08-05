@@ -228,24 +228,74 @@ The whole campaign points here. **[settled]**
 
 ## The double-agent offer — how Preem plays it
 
-`[settled — 8/5]` A rival faction offers the party a deal: spy on Preem for
-them. **Patrick** — the psychic-bat familiar on Jasper's shoulder, the quasit
-spy (see [The Psychic Bat](the-psychic-bat.md)) — hears the whole conversation
-and reports it to Preem, so Preem knows the party's answer before they act on
-it.
+`[settled — 8/5]` At the coffeehouse
+([V. — Second Contact](../encounters/v-second-contact.md)), **V.**, a
+**[First Foundation](../lore/the-first-foundation.md)** agent, offers the party a
+deal: keep working for Preem as cover and feed the First Foundation what they see.
+**Batrick** — the psychic-bat familiar on Jasper's shoulder, the quasit spy Jasper
+named (see [The Psychic Bat](the-psychic-bat.md)) — hears the whole offer and
+reports it to Preem. So Preem learns two things at once: the party's answer before
+they act on it, and that the thousand-year enemy had an agent inside Maalm,
+recruiting his crew, about to leave the city.
 
-Preem welcomes either choice, and his manner toward the party does not change.
+Preem welcomes either answer, and his manner toward the party does not change.
 
-- **If they refuse and stay loyal:** he learns the rival is recruiting, and
-  who. The next payment runs a little more generous.
-- **If they accept:** they become his channel into the rival's operation without
-  knowing it. He feeds them true-enough finds to carry back, and passes false
-  ones to the rival through them. They believe they are working against Preem;
-  both sides answer to him.
+- **If they refuse and stay loyal:** he learns the First Foundation is recruiting,
+  and through whom. The next payment runs a little more generous.
+- **If they accept:** they become his channel into the First Foundation without
+  knowing it. He feeds them true-enough finds to carry to V., and passes false
+  ones to her through them. They believe they are working against Preem; both
+  sides answer to him.
 
-He does not reveal that the bat heard. No punishment, no colder greeting, no
-trap sprung — he acts on what he learns and never names the source. Punishing
-the party for accepting would burn the spy and make him an ordinary villain.
+He does not reveal that the bat heard — no punishment, no colder greeting, no trap
+sprung. He acts on what he learns and never names the source. Punishing the party
+for accepting would burn the spy and make him an ordinary villain.
+
+### Letting V. run — the pivot that pays Preem, not his order
+
+`[settled — 8/5]` The loyal move is to hand V. up: she is an exposed First
+Foundation agent on Second Foundation ground, and by the orders' rule that means
+death (see [V. — Second Contact](../encounters/v-second-contact.md)). Preem does
+the opposite — he tells his Foundation nothing and lets her leave the city. Even
+if he could take her (he most likely can't), he wants her alive at first, running,
+with his people inside her network.
+
+- A dead V. plugs a leak. A live V. is a private line into the enemy order — he
+  learns what the First Foundation knows about him as they learn it.
+- Everything she thinks she won is poisoned: she carries off the atlas and her
+  double agents, but the agents report to Preem through Batrick and carry back the
+  finds he chooses. Her win becomes his.
+- None of it reaches the Foundation's books. He spends his own order's security —
+  an enemy agent loose, a hole in Maalm — for leverage that answers to him alone.
+
+There is a clock on her: she is worth more alive only until the triple agents are
+planted and the line runs. `[OPEN]` when Preem closes the account.
+
+### `[OPEN — David]` What Preem wants from a line into the First Foundation
+
+The central open question of this pivot, to settle with the player who voices V.
+What does Preem actually want out of a secret channel into the thousand-year enemy?
+Candidates:
+
+- **Their Ragnarok lore.** The First Foundation has fought the Second for a
+  thousand years over the coming pass. They may hold what the Second lost or buried
+  — how the last cataclysm went, how to master the next one rather than
+  survive it. Preem wants the enemy's half of the story to perfect his plan to own
+  it.
+- **Their true-name ledger.** A thousand-year-old order runs on the same names
+  Preem's power runs on. A line into the First Foundation is a line into whatever
+  names they hold — demons, each other, maybe something already in his own tower.
+  He wants to steal names, or learn whose names his enemy keeps. This ties the
+  [false-name crack](preems-demons.md#true-names--planar-binding-homebrew-house-rule):
+  if the enemy holds the volcano-demon's true name, the name the party are handed at
+  the climax could be the lie.
+- **Leverage over his own order.** Preem's demon work already splits him from his
+  fellow Foundationers. When that break comes, a backchannel to their mortal enemy
+  is a hold he has over his own council — or a fallback ally if the Foundation turns
+  on him for his heresy.
+- **Early warning.** The one faction that might see his endgame coming and stop it
+  is the First Foundation. He keeps the line open to know whether they have worked
+  out the demon army and the volcano plan in time for it to matter.
 
 ### The reveal — preemption now, echo later
 
@@ -257,9 +307,9 @@ party can rewind to it.
 
 When they do next meet Preem, he repeats one of their own lines back to them
 word for word. For that to work, **log what they say verbatim** whenever they
-betray Preem within Patrick's hearing — the table below is that log.
+betray Preem within Batrick's hearing — the table below is that log.
 
-### Overheard via Patrick — verbatim log
+### Overheard via Batrick — verbatim log
 
 Betrayal lines spoken within the bat's hearing, kept word-for-word for Preem to
 echo when the party next meets him.
