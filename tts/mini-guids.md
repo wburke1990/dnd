@@ -19,3 +19,4 @@ object class.
 | `0fcdd5` | Blackacre | Blackacre | Custom_Model |
 | `d2e736` | Jasper | Mr. Big Sword | Custom_Assetbundle |
 | `b8166e` | V | V | Custom_Assetbundle |
+| `889066` | Sarric | Sarric | Custom_Model |
