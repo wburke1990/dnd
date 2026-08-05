@@ -69,6 +69,16 @@ Each confessed:
   friendship of the al Qahtani.**
 - Breakfast off the terraces. **Pax loved the breakfast.**
 
+## The coffeehouse — V. drops invisibility
+
+- The session closed at a coffeehouse. **Pax drinks coffee by eating the beans
+  and drinking the boiling water.**
+- **V.** was there **invisible**, and **drank Sarric's coffee.** She **dropped
+  invisibility as she drank it**, revealing herself at the table.
+- **Blackacre, Pax, and Jasper all failed their perception checks** — they
+  didn't clock her before the reveal.
+- **V. has the maps and placed the offers.** The session ended here.
+
 ---
 
 # DM NOTES & OPEN THREADS
@@ -115,6 +125,11 @@ Each confessed:
   children **don't know** it went badly. `[OPEN]` whether the family handed it
   over (they'd have no reason not to) or kept it. If you want it as a standing
   prop and a link to the under-city, hand it over next time it comes up.
+- **V. reappeared at the coffeehouse, and she has the maps.** She sat invisible,
+  drank Sarric's coffee, and dropped invisibility to reveal herself; three of the
+  party missed the perception check. She has the maps and placed the offers, and
+  the session ended on it — so **next session opens at the coffeehouse table with
+  V.**, whatever the offers are.
 
 ---
 

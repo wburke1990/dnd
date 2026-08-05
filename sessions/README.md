@@ -15,7 +15,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [06](session-06.md) | The Second Hand, and the Rat Man's Two Fingers | Maalm's gate & main square | Ran the **Second Hand ambush**; saved the crew (alliance won); **captured Ratatat**, interrogated him (Sarric led, Jasper took two fingers), then let the corrupt watch walk him off; **Cassia** on the watch's rot |
 | [07](session-07.md) | The Bank, and First Contact at the Mill | Maalm — the bank & the under-mill tunnels | **David cancelled; William ran it solo.** Tea with **Lucrecia** at the bank (a classist tour of Maalm; the **al Qahtani** as its finest healers); **Daniel** guides them to **The Mill**; **first contact with V.** — tripwire sprung, Jasper taken hostage, combat, Sarric's crit drives her off, and she **escapes down the shaft into the deep** (Blackacre downed and healed). No maps changed hands |
 | [08](session-08.md) | The Dream Quest: The River, and the First Four Gates | The al Qahtani house → the dream / river of stars | Met **Muntadhir** and **Ali** (her full name given); the tour, then cast **Dream of the Blue Veil** and woke on the boat. **Gate 1** (serpent): Sarric & Jasper failed the save. **Gate 2** (Apep): passed, Blackacre captain, Pax made his Dex save on the one bad round. **Gate 3** (Thoth): Jasper knew almost every question, Aniess kept missing (David shook the boat each wrong answer). **Gate 4** (offering bowl): Aniess's dagger was hollow so she went last and gave the **memory of a night out — and lost it**; Pax a stick, Jasper a cornerstone shard, Sarric a beehive, Blackacre his charts. **Split session — resumes at Gate 5** |
-| [09](session-09.md) | The Dream Quest: The Fire, the Hall, and the Weighing | The dream → the al Qahtani house | **Gate 5** (Isis/Nephthys/Selket): argued Ghassan's love for his children, his grief for his lost people and faith, and his charity — passed. **Gate 6** (fire): **Aniess got burned and woke**, out for the rest. **Hall of Two Truths** confessions — Blackacre "betrayed a good captain," Pax "my sin is certainty," Sarric "I burned a kid to death," Jasper "we burned down a village." The party **lingered, so Ammit ate Ghassan's heart** — the rite failed. **Didn't tell the children;** each got **100 gp** and the **al Qahtani's friendship**; Pax loved the breakfast. **Dream Quest complete** |
+| [09](session-09.md) | The Dream Quest: The Fire, the Hall, and the Weighing | The dream → the al Qahtani house | **Gate 5** (Isis/Nephthys/Selket): argued Ghassan's love for his children, his grief for his lost people and faith, and his charity — passed. **Gate 6** (fire): **Aniess got burned and woke**, out for the rest. **Hall of Two Truths** confessions — Blackacre "betrayed a good captain," Pax "my sin is certainty," Sarric "I burned a kid to death," Jasper "we burned down a village." The party **lingered, so Ammit ate Ghassan's heart** — the rite failed. **Didn't tell the children;** each got **100 gp** and the **al Qahtani's friendship**; Pax loved the breakfast. **Dream Quest complete.** Closed at a **coffeehouse**: **V.** sat invisible, drank Sarric's coffee, dropped invisibility — **she has the maps and placed the offers** |
 
 ## Running threads
 
@@ -37,8 +37,10 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   fall-rock trap, but the **false lip collapsed** and V. **Misty Stepped the
   abyss, dropped Blackacre, and slid into the deep.** Party didn't pursue;
   healed Blackacre and left. First contact made — **V. is a face now, the
-  under-city is open.** **No maps ever changed hands** (Ratatat has failed
-  every theft).
+  under-city is open.** **S9:** V. reappeared at a coffeehouse — sat invisible,
+  drank Sarric's coffee, dropped invisibility to reveal herself (three of the
+  party failed the perception check). **She has the maps and placed the offers**;
+  the session ended there. Next session opens at that table.
 - **Misplaced suspicion** (S2) — the party thinks the city-gate guides
   answer to **Preem**. They actually answer to the **rat man**. When
   they untangle it: Preem looks innocent, the rat man looks dangerous.
