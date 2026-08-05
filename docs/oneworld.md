@@ -386,3 +386,44 @@ Spawner 2.5.0`, GUID `04638a` in `TS_Save_18`; script in
 
 So the backup fog-of-war workflow is map-independent: deploy any map →
 press **FoW** → reveal by exploring → **Remove All Fogs** to reset.
+
+### How you actually reveal fog (the part that isn't obvious)
+
+Fog in TTS is **not cleared by clicking it** — it's revealed by *moving an
+object through it*, and reveal is tracked **per player color**:
+
+- Right-click a mini → **Toggles** → check **Reveal Fog Of War**. That mini
+  now clears a circle of fog around itself as it moves, instead of being
+  hidden by the fog. Right-click again to set the **visibility range** and
+  **which color** the reveal is for.
+- **Black = All** for fog: a reveal set to Black is seen by *every* player —
+  what you want for a shared party map. A specific color reveals only for
+  players seated in (or teamed with) that color.
+- The **GM / Black seat sees through all fog automatically**.
+- A player who is a **spectator / not seated in a color**, or whose piece
+  isn't set to Reveal, sees only black with no way to clear it — the usual
+  "I can't make the fog go away" symptom.
+- The spawner leaves **ReHide Objects off**, so revealed areas stay revealed.
+  (Turning it on makes fog re-close wherever no revealer has line of sight —
+  true dynamic fog, more fiddly.)
+
+An object shows through fog for everyone if its **`IgnoreFoW`** flag is true.
+Only the PC minis should be flagged that way — see below.
+
+### Keeping imported maps fog-honest (`IgnoreFoW`)
+
+Donor maps occasionally ship pieces with `IgnoreFoW = true`, which leaves
+chunks of a supposedly-hidden map permanently visible. `import_ow_map` now
+forces **`IgnoreFoW = false` on every imported piece automatically** (it
+reports `Fog: N IgnoreFoW piece(s) cleared`), so going forward only the minis
+*we* mark by hand are ever fog-immune. To retrofit a map imported before this
+landed (or any OWx bag), run the `defog` op — same chain-through-`/tmp` shape
+as `prune`/`remove`:
+
+```
+uv --directory /Users/wcb/personal/dnd/scripts run python -m dnd_tools.clean_ow_map \
+  defog "<in save>" "/tmp/defog_1.json" --owx-guid <OWx GUID>
+```
+
+Idempotent; prints `fog_immune_cleared: N`. `mv` the final temp into
+`TS_Save_19.json` like the other clean ops.
