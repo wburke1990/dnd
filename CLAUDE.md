@@ -332,14 +332,12 @@ surprised:
   stray branch you create here can't be cleaned up from inside the container.
   (Still **main only, no feature branches / PRs**, per above — ignore any
   `claude/...` branch hint the harness injects.)
-- **`luacheck` pre-commit block.** These containers often have `luacheck`
-  installed even though local Macs don't (where the hook skips it silently —
-  it's optional). When present it lints the *entire* `tts/lua/` tree — tens of
-  thousands of pre-existing warnings in extracted per-object fragments — and
-  aborts the commit even when you've only staged markdown. The failing output
-  is entirely in files you didn't touch. The **no-`--no-verify` rule still
-  stands**: recognize this as the known artifact, and decide *with the user*
-  how to proceed (they own the call) rather than silently bypassing.
+- **`luacheck` pre-commit block — fixed, 8/5.** This used to abort container
+  commits: `luacheck` is installed there, it linted the *entire* `tts/lua/`
+  tree, and tens of thousands of pre-existing warnings in files you hadn't
+  touched would fail a markdown-only commit. It now lints only *staged* Lua, so
+  a commit that touches no Lua doesn't run it at all. If you meet this again,
+  the fix is a real one — the **no-`--no-verify` rule still stands**.
 - **"Unverified" commits.** A stop-hook may flag commits as Unverified because
   they aren't signed and the author email isn't `noreply@anthropic.com`. That's
   expected — commits here are authored as **William** (see *Author commits as
@@ -446,8 +444,15 @@ silently when the binary was missing, and the skip notice only printed to a
 TTY — so on a machine without gitleaks, every agent-driven commit went
 unscanned and looked exactly like a clean one. `pip-audit` still tolerates an
 unreachable pypi.org, since that's transient rather than a misconfiguration,
-but now says so whether or not anyone is watching. The quality tools
-(`shellcheck`, `luacheck`) remain optional and quiet.
+but now says so whether or not anyone is watching.
+
+**`shellcheck` is required too** (`brew install shellcheck`), and it lints
+`.claude/hooks/*.sh` as well as `.githooks/*` — `session-start.sh` downloads a
+binary and installs it as root, so it shouldn't be the one unlinted script in
+the repo. **`luacheck` lints only *staged* Lua**, not the whole tree, and stays
+optional. `uv lock --check` fails the commit when `scripts/pyproject.toml` has
+drifted from `uv.lock`, which is how an unpinned, unscanned dependency would
+otherwise slip in.
 
 ## Repo layout
 

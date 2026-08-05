@@ -95,11 +95,20 @@ fi
 
 # --- Lua linting on TTS scripts --------------------------------------------
 
+# Scoped to *staged* Lua only. Linting the whole tree meant a commit touching
+# nothing but markdown could be aborted by tens of thousands of pre-existing
+# warnings in extracted per-object fragments nobody had edited — which is what
+# happens in containers, where luacheck is present. You are responsible for the
+# Lua you are committing, not for the back catalogue.
 if command -v luacheck >/dev/null 2>&1; then
-    if compgen -G "$REPO_ROOT/tts/lua/**/*.lua" >/dev/null \
-        || compgen -G "$REPO_ROOT/tts/lua/*.lua" >/dev/null; then
-        run_check "luacheck (tts/lua)" \
-            luacheck "$REPO_ROOT/tts/lua" --config "$REPO_ROOT/.luacheckrc" --no-color \
+    staged_lua=()
+    while IFS= read -r f; do
+        [[ "$f" == *.lua ]] && staged_lua+=("$REPO_ROOT/$f")
+    done < <(git -C "$REPO_ROOT" diff --cached --name-only --diff-filter=ACM -- tts/lua)
+
+    if (( ${#staged_lua[@]} > 0 )); then
+        run_check "luacheck (staged tts/lua)" \
+            luacheck "${staged_lua[@]}" --config "$REPO_ROOT/.luacheckrc" --no-color \
             || failures=$((failures + 1))
     fi
 else
@@ -120,6 +129,14 @@ else
 Install it: brew install gitleaks  (or apt / https://github.com/gitleaks/gitleaks)' >&2
     failures=$((failures + 1))
 fi
+
+# The lockfile is what makes every other guarantee here hold: it pins all 50
+# packages by sha256, and pip-audit scans the environment built from it. A
+# dependency added to pyproject.toml without relocking would be unpinned and
+# unscanned, so fail when the two have drifted apart.
+run_check "uv lock --check (lockfile current)" \
+    uv --directory "$SCRIPTS_DIR" lock --check \
+    || failures=$((failures + 1))
 
 # Dependency CVE scan against the PyPI advisory database. Skip on network
 # failure so commits aren't blocked when offline.
@@ -144,18 +161,25 @@ run_check "pip-licenses (allowlist)" \
     || failures=$((failures + 1))
 
 # Lint the hooks themselves so we catch bugs in this file.
+# Covers .claude/hooks too, not just this directory. session-start.sh downloads
+# a binary and installs it to /usr/local/bin as root, which makes it the most
+# privileged script in the repo and, until now, the only unlinted one.
+# Required, like gitleaks: it is installed on every machine that commits here.
 if command -v shellcheck >/dev/null 2>&1; then
     hook_files=()
-    for f in "$REPO_ROOT"/.githooks/*; do
+    for f in "$REPO_ROOT"/.githooks/* "$REPO_ROOT"/.claude/hooks/*.sh; do
         [[ -f "$f" ]] && hook_files+=("$f")
     done
     if (( ${#hook_files[@]} > 0 )); then
-        run_check "shellcheck (.githooks)" \
+        run_check "shellcheck (hooks)" \
             shellcheck "${hook_files[@]}" \
             || failures=$((failures + 1))
     fi
 else
-    skip_notice "shellcheck" "binary not on PATH (brew install shellcheck or apt-get install shellcheck)"
+    printf '\n=== pre-commit: shellcheck MISSING ===\n%s\n' \
+        'The hook scripts cannot be linted, including the one that installs binaries as root.
+Install it: brew install shellcheck  (or apt-get install shellcheck)' >&2
+    failures=$((failures + 1))
 fi
 
 if [[ $failures -gt 0 ]]; then
