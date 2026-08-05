@@ -27,3 +27,4 @@ tts/floors/
 # for TTS use, not source of truth.
 maps/
 minis/
+scripts/.lua-build/
