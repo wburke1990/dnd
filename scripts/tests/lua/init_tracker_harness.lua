@@ -79,6 +79,7 @@ local function makeMini(spec)
         opt.initMockValue = 0
     end
     local o = {}
+    o._attached = spec.attached == true
     o.getGUID = function() return spec.guid end
     o.getName = function() return spec.name end
     o.getVar = function(k)
@@ -159,9 +160,13 @@ env.Color = setmetatable(
 )
 env.getObjectFromGUID = function(g) return MINIS[g] end
 env.getAllObjects = function()
-    -- Insertion order, so a "bad object first" scenario is deterministic.
+    -- Insertion order, so a "bad object first" scenario is deterministic. Minis
+    -- flagged attached are hidden here (getAllObjects cannot see attached
+    -- objects), though a Physics cast still finds them.
     local t = {}
-    for _, m in ipairs(MINI_LIST) do t[#t + 1] = m end
+    for _, m in ipairs(MINI_LIST) do
+        if not m._attached then t[#t + 1] = m end
+    end
     return t
 end
 env.getMapBounds = function() return { x = 100, y = 40, z = 100 } end
@@ -335,6 +340,37 @@ do
     check(pax.getTable("options").initSettingsValue == 100, "Pax value must scrub to 100")
     check(blackacre.getTable("options").initRealActive == false,
         "Blackacre must reset even though a bad token comes first in the sweep")
+end
+
+------------------------- focused: reset reaches attached minis (Physics path)
+-- The real save runs initTableOnly=true, so minis are found by a Physics cast,
+-- not getAllObjects. A mini attached to another object is invisible to
+-- getAllObjects but the cast still finds it -- this is what left Pax, Blackacre,
+-- and Jasper stuck (the tracker showed them via the cast, but the old reset
+-- swept getAllObjects and never reached them). Reset must use the same
+-- cast-based discovery and clear it.
+do
+    env.initTableOnly = true
+    env.Physics = { cast = function()
+        local h = {}
+        for _, m in ipairs(MINI_LIST) do h[#h + 1] = { hit_object = m } end
+        return h
+    end }
+    local pax = makeMini({
+        guid = "d33651", name = "Pax", player = true, rolling = true, mod = 0,
+        rolls = { 5 }, attached = true, health = { value = 10, max = 10 },
+    })
+    pax.getTable("options").initRealActive = true
+    pax.getTable("options").initRealValue = 24
+    registerMinis({ pax })
+    check(#env.getAllObjects() == 0, "attached mini is invisible to getAllObjects (sim)")
+    env.resetInitiative()
+    check(pax.getTable("options").initRealActive == false,
+        "attached mini found via Physics cast must reset")
+    check(pax.getTable("options").initRealValue == 0, "attached mini cached value must clear")
+    check(pax.getTable("options").initSettingsValue == 100, "attached mini value scrubs to 100")
+    env.initTableOnly = false
+    env.Physics = { cast = function() return {} end }
 end
 
 --------------------------------------------------- focused: empty clears entry

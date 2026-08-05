@@ -2536,9 +2536,16 @@ function getMapBounds(debug)
     return defaultBounds
 end
 
-function getInitiativeFigures()
-    figures = {}
-        if initTableOnly then
+-- Discover every mini / measurement token on the table. When initTableOnly is
+-- set (it is, in this save) that means a Physics cast over the map, which finds
+-- minis that getAllObjects misses -- e.g. ones attached to another object. Both
+-- the initiative display and Reset go through this, so Reset clears exactly the
+-- minis the tracker can see. No initiative-included filter here; that lives in
+-- handleInitMiniature, so display hides off-list minis while Reset still resets
+-- them.
+function getInitiativeMinis()
+    local minis = {}
+    if initTableOnly then
         -- Only gather minis from the center of the table.
         local checkBounds = getMapBounds(false)
         checkBounds.y = 40
@@ -2555,15 +2562,23 @@ function getInitiativeFigures()
                and hitTable.hit_object ~= nil
                and (hitTable.hit_object.getVar("className") == "MeasurementToken"
                     or hitTable.hit_object.getVar("className") == "DNDMiniInjector_Mini") then
-                handleInitMiniature(hitTable.hit_object)
+                table.insert(minis, hitTable.hit_object)
             end
         end
     else
-        for k, v in pairs(getAllObjects()) do
+        for _, v in pairs(getAllObjects()) do
             if v.getVar("className") == "MeasurementToken" or v.getVar("className") == "DNDMiniInjector_Mini" then
-                handleInitMiniature(v)
+                table.insert(minis, v)
             end
         end
+    end
+    return minis
+end
+
+function getInitiativeFigures()
+    figures = {}
+    for _, mini in ipairs(getInitiativeMinis()) do
+        handleInitMiniature(mini)
     end
     local figureSorter = function(figA, figB)
         -- Sort by initiative value
@@ -2657,21 +2672,16 @@ function resetInitiative()
     options.initCurrentRound = 1
     options.initCurrentGUID = ""
     options.manualInits = {}
-    -- Clean slate: reset EVERY mini on the table, not just the ones currently
-    -- in the initiative list, so a number typed on a mini that has since left
-    -- the list (0 HP, include toggled off) can't linger into the next combat.
-    -- Each mini's resetInitiative only clears its initiative value (back to 100)
-    -- and cached roll; it leaves initSettingsRolling and the player flag alone,
-    -- so auto-rolled vs player-entered minis keep their distinction.
-    for _, obj in pairs(getAllObjects()) do
-        local cn = obj.getVar("className")
-        if cn == "MeasurementToken" or cn == "DNDMiniInjector_Mini" then
-            -- Guard each reset: an object that matches the mini type but has no
-            -- resetInitiative (e.g. a plain measurement token) throws when
-            -- called, which would abort the sweep and leave every mini after it
-            -- in the iteration un-reset. pcall keeps the sweep going.
-            pcall(function() obj.call('resetInitiative') end)
-        end
+    -- Clean slate: reset EVERY mini the tracker can see (via getInitiativeMinis,
+    -- the same discovery the display uses), not just the ones currently in the
+    -- list. Using that shared discovery -- a Physics cast here, not getAllObjects
+    -- -- is what lets Reset reach minis attached to another object, which
+    -- getAllObjects misses. Each mini's resetInitiative only clears its value
+    -- (back to 100) and cached roll; it leaves initSettingsRolling and the player
+    -- flag alone, so auto-rolled vs player-entered minis keep their distinction.
+    for _, obj in ipairs(getInitiativeMinis()) do
+        -- pcall so an object with no resetInitiative can't abort the sweep.
+        pcall(function() obj.call('resetInitiative') end)
     end
     initFigures = {}
     rebuildUI()
