@@ -8,10 +8,19 @@
 # so it doesn't bloat automated commit transcripts; prints captured output
 # for any check that fails.
 #
-# System tools (gitleaks, shellcheck, luacheck) are optional — if not on
-# PATH the check is skipped with a one-line notice (interactive shells
-# only). pip-audit is skipped when pypi.org is unreachable so transient
-# network issues don't block commits.
+# Security checks fail closed. gitleaks is REQUIRED: if it isn't on PATH the
+# commit aborts, because a scanner that never ran is indistinguishable from a
+# scanner that passed, and this repo commits mostly from automated flows where
+# nobody is watching the terminal. (It was missing on the owner's Mac for
+# months, silently, and every commit from that machine went unscanned.)
+# pip-audit still tolerates an unreachable pypi.org — that's transient, not a
+# misconfiguration — but says so unconditionally instead of only on a TTY.
+#
+# The quality tools (shellcheck, luacheck) stay optional and quiet: they lint,
+# they don't guard.
+#
+# Silence on success is deliberate and preserved — these hooks run in agent
+# transcripts, so a passing commit must stay clean. Loud means broken.
 #
 # Install: `git config core.hooksPath .githooks` (run once per clone).
 
@@ -99,13 +108,17 @@ fi
 
 # --- Security & compliance --------------------------------------------------
 
-# Secret scanning on staged content only — fast, no network.
+# Secret scanning on staged content only — fast, no network. Required: absence
+# aborts the commit rather than passing quietly.
 if command -v gitleaks >/dev/null 2>&1; then
     run_check "gitleaks (secrets)" \
         gitleaks git --staged --no-banner --redact "$REPO_ROOT" \
         || failures=$((failures + 1))
 else
-    skip_notice "gitleaks" "binary not on PATH (https://github.com/gitleaks/gitleaks)"
+    printf '\n=== pre-commit: gitleaks MISSING ===\n%s\n' \
+        'Secret scanning cannot run, so this commit is unscanned and is being refused.
+Install it: brew install gitleaks  (or apt / https://github.com/gitleaks/gitleaks)' >&2
+    failures=$((failures + 1))
 fi
 
 # Dependency CVE scan against the PyPI advisory database. Skip on network
@@ -115,7 +128,11 @@ if curl -sfI --max-time 4 https://pypi.org/simple/ >/dev/null 2>&1; then
         uv --directory "$SCRIPTS_DIR" run --quiet pip-audit --progress-spinner off \
         || failures=$((failures + 1))
 else
-    skip_notice "pip-audit" "pypi.org unreachable"
+    # Unconditional, not TTY-gated: an unscanned commit must never look like a
+    # clean one. Non-blocking, because unreachable pypi.org is transient and
+    # the dependency set is hash-pinned in uv.lock between changes.
+    printf '\n=== pre-commit: pip-audit SKIPPED ===\n%s\n' \
+        'pypi.org unreachable — dependencies were NOT scanned for CVEs on this commit.' >&2
 fi
 
 # License compliance — fails if any installed dependency declares a license

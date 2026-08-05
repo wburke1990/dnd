@@ -440,6 +440,15 @@ gitleaks / pip-audit / pip-licenses / shellcheck. Silent on pass; on
 fail, only the failing tool's output is printed and the commit is
 aborted.
 
+**gitleaks is required, and its absence aborts the commit** (`brew install
+gitleaks`). The security checks fail closed on purpose: they used to skip
+silently when the binary was missing, and the skip notice only printed to a
+TTY — so on a machine without gitleaks, every agent-driven commit went
+unscanned and looked exactly like a clean one. `pip-audit` still tolerates an
+unreachable pypi.org, since that's transient rather than a misconfiguration,
+but now says so whether or not anyone is watching. The quality tools
+(`shellcheck`, `luacheck`) remain optional and quiet.
+
 ## Repo layout
 
 - `bestiary/` — creature stat blocks & encounter tables (markdown)
