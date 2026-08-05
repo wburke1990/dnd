@@ -178,7 +178,27 @@ env.os = os
 env.math = math
 
 ----------------------------------------------------------- load the real code
-local chunk = assert(loadfile(target, "t", env))
+-- Read the injector source and drop its two long-bracket COMMENT blocks: the
+-- mini Lua template (--[[LUAStart .. LUAStop--lua]]) and the XML UI template
+-- (--[[XMLStart .. XMLStop--xml]]). Both are inert here -- the tracker code the
+-- harness drives lives after them, and the per-mini template functions inside
+-- them are stood in for by the mock minis above. Both blocks nest --[[ .. ]],
+-- which PUC Lua 5.1 rejects ("nesting of [[...]] is deprecated"); stripping
+-- them lets the harness run under 5.1 as well as 5.2+/LuaJIT, leaving the
+-- executable injector code untouched.
+local srcFile = assert(io.open(target, "r"))
+local src = srcFile:read("*a")
+srcFile:close()
+src = src:gsub("%-%-%[%[LUAStart.-LUAStop%-%-lua%]%]", "")
+src = src:gsub("%-%-%[%[XMLStart.-XMLStop%-%-xml%]%]", "")
+
+local chunk
+if setfenv then -- Lua 5.1 / LuaJIT: load() takes no env arg; sandbox via setfenv.
+    chunk = assert(loadstring(src, "@" .. target))
+    setfenv(chunk, env)
+else -- Lua 5.2+: pass the sandbox as the _ENV upvalue.
+    chunk = assert(load(src, "@" .. target, "t", env))
+end
 chunk()
 env.initTableOnly = false -- use getAllObjects() path, not Physics.cast
 
