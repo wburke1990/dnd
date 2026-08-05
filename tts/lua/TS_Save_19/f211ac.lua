@@ -2666,7 +2666,11 @@ function resetInitiative()
     for _, obj in pairs(getAllObjects()) do
         local cn = obj.getVar("className")
         if cn == "MeasurementToken" or cn == "DNDMiniInjector_Mini" then
-            obj.call('resetInitiative')
+            -- Guard each reset: an object that matches the mini type but has no
+            -- resetInitiative (e.g. a plain measurement token) throws when
+            -- called, which would abort the sweep and leave every mini after it
+            -- in the iteration un-reset. pcall keeps the sweep going.
+            pcall(function() obj.call('resetInitiative') end)
         end
     end
     initFigures = {}

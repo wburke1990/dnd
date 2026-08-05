@@ -103,10 +103,29 @@ local function makeMini(spec)
 end
 
 ----------------------------------------------------------------- TTS API mocks
+-- An object that matches the mini className filter but has no working
+-- resetInitiative (like a plain measurement ruler). Calling it throws.
+local function makeBadToken(guid)
+    local o = {}
+    o.getGUID = function() return guid end
+    o.getName = function() return "Ruler" end
+    o.getVar = function(k)
+        if k == "className" then return "MeasurementToken" end
+        return nil
+    end
+    o.call = function(fn) error("no such function on this object: " .. tostring(fn)) end
+    return o
+end
+
 local MINIS = {}
+local MINI_LIST = {}
 local function registerMinis(list)
     MINIS = {}
-    for _, m in ipairs(list) do MINIS[m.getGUID()] = m end
+    MINI_LIST = {}
+    for _, m in ipairs(list) do
+        MINIS[m.getGUID()] = m
+        MINI_LIST[#MINI_LIST + 1] = m
+    end
 end
 
 local env = setmetatable({}, { __index = _G })
@@ -140,8 +159,9 @@ env.Color = setmetatable(
 )
 env.getObjectFromGUID = function(g) return MINIS[g] end
 env.getAllObjects = function()
+    -- Insertion order, so a "bad object first" scenario is deterministic.
     local t = {}
-    for _, m in pairs(MINIS) do t[#t + 1] = m end
+    for _, m in ipairs(MINI_LIST) do t[#t + 1] = m end
     return t
 end
 env.getMapBounds = function() return { x = 100, y = 40, z = 100 } end
@@ -284,6 +304,37 @@ do
     check(m.initSettingsValue == 100, "off-list monster value must scrub to 100 on reset")
     check(m.initRealActive == false, "off-list monster cached roll must clear on reset")
     check(m.initSettingsRolling == true, "monster stays auto-rolled after reset")
+end
+
+------------------------------ focused: a bad object can't abort the reset sweep
+-- Regression for the four PC minis (Pax/Blackacre/Jasper) that stayed stale: an
+-- object matching the mini className but with no resetInitiative (a plain
+-- measurement token) was aborting the sweep, so every mini after it in the
+-- iteration kept last fight's value. The bad token is placed FIRST here, so an
+-- unguarded sweep would throw before ever reaching the minis.
+do
+    local pax = makeMini({
+        guid = "d33651", name = "Pax", player = true, rolling = false,
+        health = { value = 10, max = 10 },
+    })
+    local blackacre = makeMini({
+        guid = "0fcdd5", name = "Blackacre", player = true, rolling = false,
+        health = { value = 10, max = 10 },
+    })
+    registerMinis({ makeBadToken("bad001"), pax, blackacre })
+    -- Leftover on-table state, like Pax=24 / Blackacre=18 before the reset.
+    pax.getTable("options").initRealActive = true
+    pax.getTable("options").initRealValue = 24
+    blackacre.getTable("options").initRealActive = true
+    blackacre.getTable("options").initRealValue = 18
+
+    env.resetInitiative()
+
+    check(pax.getTable("options").initRealActive == false,
+        "Pax must reset even though a bad token comes first in the sweep")
+    check(pax.getTable("options").initSettingsValue == 100, "Pax value must scrub to 100")
+    check(blackacre.getTable("options").initRealActive == false,
+        "Blackacre must reset even though a bad token comes first in the sweep")
 end
 
 --------------------------------------------------- focused: empty clears entry
