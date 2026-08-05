@@ -88,6 +88,8 @@
       "Bash(sqlite3:*)",
       "Bash(luacheck:*)",
       "Bash(stylua:*)",
+      "Bash(lua:*)",
+      "Bash(/opt/homebrew/bin/lua:*)",
       "Bash(gitleaks:*)",
       "Bash(shellcheck:*)",
       "Bash(pip-audit:*)",
