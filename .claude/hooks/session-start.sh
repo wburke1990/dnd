@@ -58,7 +58,12 @@ if [[ "${CLAUDE_CODE_REMOTE:-}" != "true" ]]; then
     exit 0
 fi
 
-PROJECT_DIR="${CLAUDE_PROJECT_DIR:-$(pwd)}"
+# CLAUDE_PROJECT_DIR is set when the harness runs this at session start. Falling
+# back to the repo root rather than the current directory keeps a manual run
+# working from anywhere — running it from $HOME otherwise sent warm_uv at
+# ~/scripts and reported a failure that was purely an artifact of where it was
+# invoked from.
+PROJECT_DIR="${CLAUDE_PROJECT_DIR:-$(git rev-parse --show-toplevel 2>/dev/null || pwd)}"
 
 # Pinned to the version installed on the owner's Mac, so both machines run the
 # same scanner and the same rule set. Checksums are the official ones published
