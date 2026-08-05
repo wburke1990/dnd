@@ -72,6 +72,7 @@ local function makeMini(spec)
         return opt.initMockValue
     end
     local function resetInitiative()
+        if spec.brokenReset then return end -- simulate a mini whose own reset no-ops
         opt.initSettingsValue = 100
         opt.initRealActive = false
         opt.initRealValue = 0
@@ -99,6 +100,9 @@ local function makeMini(spec)
         if fn == "getInitiative" then return getInitiative(arg) end
         if fn == "resetInitiative" then return resetInitiative() end
         error("mini.call unexpected: " .. tostring(fn))
+    end
+    o.setTable = function(name, t)
+        if name == "options" then opt = t end
     end
     return o
 end
@@ -371,6 +375,27 @@ do
     check(pax.getTable("options").initSettingsValue == 100, "attached mini value scrubs to 100")
     env.initTableOnly = false
     env.Physics = { cast = function() return {} end }
+end
+
+------------------------ focused: reset clears a mini whose own reset is broken
+-- The stuck PC minis reset their banner (initSettingsValue -> 100) but left
+-- initRealActive/initRealValue set, so the tracker list kept showing last
+-- fight's number. Reset now zeroes that cache directly (getTable/setTable),
+-- not trusting the mini's own reset. Simulate a mini whose resetInitiative
+-- no-ops and assert the cache is cleared anyway.
+do
+    local pax = makeMini({
+        guid = "d33651", name = "Pax", player = true, rolling = true, mod = 0,
+        rolls = { 5 }, brokenReset = true, health = { value = 10, max = 10 },
+    })
+    pax.getTable("options").initRealActive = true
+    pax.getTable("options").initRealValue = 24
+    registerMinis({ pax })
+    env.resetInitiative()
+    check(pax.getTable("options").initRealActive == false,
+        "broken-reset mini: cache active flag cleared directly")
+    check(pax.getTable("options").initRealValue == 0,
+        "broken-reset mini: cached value (24) zeroed directly")
 end
 
 --------------------------------------------------- focused: empty clears entry

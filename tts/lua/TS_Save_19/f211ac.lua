@@ -2680,8 +2680,22 @@ function resetInitiative()
     -- (back to 100) and cached roll; it leaves initSettingsRolling and the player
     -- flag alone, so auto-rolled vs player-entered minis keep their distinction.
     for _, obj in ipairs(getInitiativeMinis()) do
-        -- pcall so an object with no resetInitiative can't abort the sweep.
+        -- Call the mini's own reset (updates its banner / UI); pcall so an
+        -- object with no resetInitiative can't abort the sweep.
         pcall(function() obj.call('resetInitiative') end)
+        -- Then zero the initiative cache directly. Some minis' own reset leaves
+        -- initRealActive/initRealValue set, which keeps the tracker list showing
+        -- last fight's number even though the mini's banner reads 100 (a
+        -- different field). Clearing it here makes the list agree with the minis.
+        local ok, opt = pcall(function() return obj.getTable("options") end)
+        if ok and type(opt) == "table" and opt.initSettingsIncluded ~= nil then
+            opt.initRealActive = false
+            opt.initRealValue = 0
+            opt.initMockActive = false
+            opt.initMockValue = 0
+            opt.initSettingsValue = 100
+            pcall(function() obj.setTable("options", opt) end)
+        end
     end
     initFigures = {}
     rebuildUI()
