@@ -547,6 +547,34 @@ prose-lint                # house-style linter for content markdown; flags
                           # PATHS = those files. Report-only, never edits.
 ```
 
+## Applying & debugging a live-save Lua fix
+
+Two lessons from a long initiative-tracker debugging session, to skip the
+repeat:
+
+- **To apply an edited object script, pack only that object.** Copy the one
+  edited `tts/lua/<save>/<guid>.lua` into a scratch dir and
+  `tts pack <save> --from <scratch-dir> --out "<live install save>"` (back the
+  save up first). Packing the whole `tts/lua/<save>/` dir would re-inject every
+  object; the single-file `--from` dir touches only that GUID (`Injected 1 Lua`).
+
+- **TTS must be fully quit and relaunched to load an injected Lua change.** A
+  mid-session reload — and a Resume/autosave load — silently keeps the *old*
+  script in memory, so a correct fix looks like it failed. This was the actual
+  cause of a multi-hour loop where each new "fix" appeared not to work; the code
+  had been right for a while and the session was stale. When a packed fix seems
+  to do nothing, rule this out *first*: fully quit TTS, relaunch, Load the named
+  save (not autosave).
+
+- **When a TTS Lua fix "doesn't work," don't trust a mock-based test.** A harness
+  built on hand-written mocks encodes your assumptions and passes while the game
+  fails. Load the *real* object scripts with their *real* `LuaScriptState` and run
+  the actual code offline — see `scripts/tests/lua/real_reset_runtime.lua`
+  (loads real `DNDMiniInjector_Mini` fixtures + the injector, runs the real
+  reset). Extract an object's script/state from the save with a small Python
+  walker over `GUID` (a mini can appear several times — a table copy plus bagged
+  and stale copies; the table copy is the live one).
+
 ## Reference docs
 
 Detailed references for specific subsystems live under `docs/`. CLAUDE.md

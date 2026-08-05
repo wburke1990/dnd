@@ -19,6 +19,8 @@ import pytest
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 HARNESS = REPO_ROOT / "scripts" / "tests" / "lua" / "init_tracker_harness.lua"
+REAL_HARNESS = REPO_ROOT / "scripts" / "tests" / "lua" / "real_reset_runtime.lua"
+FIXTURES = REPO_ROOT / "scripts" / "tests" / "lua" / "fixtures"
 INJECTOR = REPO_ROOT / "tts" / "lua" / "TS_Save_19" / "f211ac.lua"
 
 
@@ -45,4 +47,28 @@ def test_initiative_tracker_three_combats() -> None:
     )
     combined = result.stdout + result.stderr
     assert result.returncode == 0, f"harness failed:\n{combined}"
+    assert "ALL CHECKS PASSED" in result.stdout, combined
+
+
+def test_real_reset_against_real_scripts() -> None:
+    """Run the real injector reset against the real mini scripts + saved state.
+
+    Unlike the mock harness, this loads the actual DNDMiniInjector_Mini scripts
+    (fixtures pulled from the save) so the minis' own reset runs for real -- it
+    catches script-logic regressions the mocks would miss.
+    """
+    lua = _lua_binary()
+    if lua is None:
+        pytest.skip("no lua interpreter installed")
+    if not INJECTOR.exists():
+        pytest.skip(f"injector script not present: {INJECTOR}")
+
+    result = subprocess.run(
+        [lua, str(REAL_HARNESS), str(INJECTOR), str(FIXTURES)],
+        capture_output=True,
+        text=True,
+        timeout=30,
+    )
+    combined = result.stdout + result.stderr
+    assert result.returncode == 0, f"real-script harness failed:\n{combined}"
     assert "ALL CHECKS PASSED" in result.stdout, combined
