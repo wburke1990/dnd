@@ -8,16 +8,14 @@ every override so minis re-roll next fight. This test just shells out to `lua`
 and fails if the harness reports any failed check.
 
 The interpreter comes from `ensure_lua()`, which reuses any installed Lua 5.2+
-and otherwise builds one (see `dnd_tools._lua_build`). Skipped only when no
-suitable interpreter exists and none can be built.
+and otherwise builds one (see `dnd_tools._lua_build`). It raises rather than
+skips when none can be obtained, so the check always runs.
 """
 
 from __future__ import annotations
 
 import subprocess
 from pathlib import Path
-
-import pytest
 
 from dnd_tools._lua_build import ensure_lua
 
@@ -27,15 +25,10 @@ REAL_HARNESS = REPO_ROOT / "scripts" / "tests" / "lua" / "real_reset_runtime.lua
 FIXTURES = REPO_ROOT / "scripts" / "tests" / "lua" / "fixtures"
 INJECTOR = REPO_ROOT / "tts" / "lua" / "TS_Save_19" / "f211ac.lua"
 
-_NO_LUA = "no Lua 5.2+ interpreter available and none could be built"
-
 
 def test_initiative_tracker_three_combats() -> None:
     lua = ensure_lua()
-    if lua is None:
-        pytest.skip(_NO_LUA)
-    if not INJECTOR.exists():
-        pytest.skip(f"injector script not present: {INJECTOR}")
+    assert INJECTOR.exists(), f"injector script not present: {INJECTOR}"
 
     result = subprocess.run(
         [lua, str(HARNESS), str(INJECTOR)],
@@ -56,10 +49,7 @@ def test_real_reset_against_real_scripts() -> None:
     catches script-logic regressions the mocks would miss.
     """
     lua = ensure_lua()
-    if lua is None:
-        pytest.skip(_NO_LUA)
-    if not INJECTOR.exists():
-        pytest.skip(f"injector script not present: {INJECTOR}")
+    assert INJECTOR.exists(), f"injector script not present: {INJECTOR}"
 
     result = subprocess.run(
         [lua, str(REAL_HARNESS), str(INJECTOR), str(FIXTURES)],

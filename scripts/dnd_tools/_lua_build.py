@@ -118,12 +118,13 @@ def _build() -> str | None:
     return str(_CACHED_BIN)
 
 
-def ensure_lua() -> str | None:
+def ensure_lua() -> str:
     """Return the path to a Lua >= 5.2 interpreter, building one if needed.
 
-    Returns None only when no suitable interpreter is installed and none can be
-    built (no C compiler, or the pinned source cannot be fetched); the caller
-    then skips the real-script test.
+    Reuses any installed Lua 5.2+, else a previously built cached binary, else
+    compiles one. Raises RuntimeError when none can be obtained (no C compiler,
+    or the pinned source cannot be fetched) -- the real-script test then fails
+    rather than skipping, so a broken setup is never mistaken for a pass.
     """
     installed = _find_installed()
     if installed is not None:
@@ -132,4 +133,10 @@ def ensure_lua() -> str | None:
         version = _version_of(str(_CACHED_BIN))
         if version is not None and version >= MIN_VERSION:
             return str(_CACHED_BIN)
-    return _build()
+    built = _build()
+    if built is not None:
+        return built
+    raise RuntimeError(
+        "no Lua 5.2+ interpreter is installed and none could be built; "
+        "install Lua 5.2+ or provide a C compiler and access to PyPI"
+    )
