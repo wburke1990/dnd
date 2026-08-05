@@ -553,9 +553,10 @@ Two lessons from a long initiative-tracker debugging session, to skip the
 repeat:
 
 - **To apply an edited object script, pack only that object.** Copy the one
-  edited `tts/lua/<save>/<guid>.lua` into a scratch dir and
-  `tts pack <save> --from <scratch-dir> --out "<live install save>"` (back the
-  save up first). Packing the whole `tts/lua/<save>/` dir would re-inject every
+  edited `tts/lua/<save>/<guid>.lua` into a scratch dir and (per the CLI rule
+  above, always via uv) `uv --directory /Users/wcb/personal/dnd/scripts run tts
+  pack <save> --from <scratch-dir> --out "<live install save>"` (back the save
+  up first). Packing the whole `tts/lua/<save>/` dir would re-inject every
   object; the single-file `--from` dir touches only that GUID (`Injected 1 Lua`).
 
 - **TTS must be fully quit and relaunched to load an injected Lua change.** A
