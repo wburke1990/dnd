@@ -48,6 +48,7 @@ Akhilleus = "Akhilleus"
 # Phonetic respelling in the Copaa bestiary's "Say it" column (how to say
 # the Gaelic names at the table). typos reads "muh" as "much".
 muh = "muh"  # murúch = muh-ROOKH
+thar = "thar"  # Pax's true name Auralith Vael'Tharos = ...VAYL-THAR-ohs (characters/pax.md)
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.

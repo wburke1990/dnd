@@ -8,6 +8,7 @@
 **Race:** Aasimar (blue-green skin, faint gold-green lines beneath the surface)
 **Class:** Monk (Warrior of the Elements path likely)
 **Player:** Andrew
+**True name:** Auralith Vael'Tharos (OR-uh-lith VAYL-THAR-ohs)
 **Affiliation:** [PLACEHOLDER — ecoterrorist organization name], alongside Sarric and Jasper
 
 Pax is a blue-green Aasimar monk who believes he has been chosen by the living world itself. Trained in a remote wilderness monastery, exiled after a series of escalating incidents, he now wanders as a guide, healer, survivalist, and extremely unstable prophet of ecological correction.
