@@ -493,30 +493,22 @@ Until one of these is in place, **don't `git add` anything under
 
 ## CLI quick reference
 
-**Installing the CLIs (once per clone).** `tts`, `pad-maps`, and `prose-lint`
-are entry points of the `scripts/` package; a fresh clone has none of them on
-PATH, and calling them bare exits 127. Install them once, from the repo root:
+**Always invoke the CLIs through uv — there is nothing to install.** `tts`,
+`pad-maps`, and `prose-lint` are entry points of the `scripts/` package, not
+binaries on PATH. Calling them bare exits 127 on every machine. Run them as:
 
 ```
-uv tool install --editable scripts
+uv --directory /Users/wcb/personal/dnd/scripts run <cmd> [args]
 ```
 
-That builds an isolated venv under `~/.local/share/uv/tools/dnd-tools` — **never
-install this package into a global Python.** `--editable` means the commands
-track the working tree, so a `git pull` that changes `scripts/dnd_tools/` needs
-no reinstall; only a dependency change in `scripts/pyproject.toml` does (rerun
-the same command).
+This is deliberate, and it is the *only* supported form — local and cloud alike.
+It resolves the command inside `scripts/.venv`, the environment pinned by
+`scripts/uv.lock` and used by the pre-commit hook, so what you run by hand and
+what the hook runs are the same program. `uv tool install` would work, but it
+builds a *second*, unlocked venv that silently drifts from the locked one; we
+tried it and the two disagreed on a dependency version within a day. Don't.
 
-uv drops the executables in `~/.local/bin`. If that isn't on your PATH, either
-`uv tool update-shell`, or copy the three entry points into a bin dir that is
-(on this Mac they live in `/opt/homebrew/bin`).
-
-In a cloud/mobile container, where nothing is installed, each of the three also
-runs as:
-
-```
-uv --directory scripts run <cmd> [args]
-```
+`uv` itself is broadly allowlisted, so the prefixed form never prompts.
 
 ```
 tts pull-saves            # rsync local TTS install into tts/saves-mirror
