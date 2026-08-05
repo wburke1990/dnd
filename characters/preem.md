@@ -226,6 +226,48 @@ The whole campaign points here. **[settled]**
   person, the choice to do it to a world-breaking demon plays
   differently. See [the Second Foundation](../lore/the-second-foundation.md).
 
+## The double-agent offer — how Preem plays it
+
+`[settled — 8/5]` A rival faction offers the party a deal: spy on Preem for
+them. **Patrick** — the psychic-bat familiar on Jasper's shoulder, the quasit
+spy (see [The Psychic Bat](the-psychic-bat.md)) — hears the whole conversation
+and reports it to Preem, so Preem knows the party's answer before they act on
+it.
+
+Preem welcomes either choice, and his manner toward the party does not change.
+
+- **If they refuse and stay loyal:** he learns the rival is recruiting, and
+  who. The next payment runs a little more generous.
+- **If they accept:** they become his channel into the rival's operation without
+  knowing it. He feeds them true-enough finds to carry back, and passes false
+  ones to the rival through them. They believe they are working against Preem;
+  both sides answer to him.
+
+He does not reveal that the bat heard. No punishment, no colder greeting, no
+trap sprung — he acts on what he learns and never names the source. Punishing
+the party for accepting would burn the spy and make him an ordinary villain.
+
+### The reveal — preemption now, echo later
+
+The party has met Preem once and won't sit with him again for a while, so for
+now the tell is a **preemption**: Preem acts on something the party discussed
+only in this private conversation and never carried out — blocks it, rewards it,
+or steps around it — so it reads as coincidence now and as proof later, once the
+party can rewind to it.
+
+When they do next meet Preem, he repeats one of their own lines back to them
+word for word. For that to work, **log what they say verbatim** whenever they
+betray Preem within Patrick's hearing — the table below is that log.
+
+### Overheard via Patrick — verbatim log
+
+Betrayal lines spoken within the bat's hearing, kept word-for-word for Preem to
+echo when the party next meets him.
+
+| Date | Who | Exact words |
+|------|-----|-------------|
+| _(add as they happen)_ | | |
+
 ## Voice & table notes
 
 - sankaku plays Preem directly. Treat the DM-side material here as scaffolding;
