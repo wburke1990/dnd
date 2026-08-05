@@ -36,7 +36,7 @@ end
 -- per mini instead of math.random, so results are deterministic.
 local function makeMini(spec)
     local opt = {
-        initSettingsIncluded = true,
+        initSettingsIncluded = spec.included ~= false,
         initSettingsMod = spec.mod or 0,
         initSettingsRolling = spec.rolling and true or false,
         initSettingsValue = spec.fixedValue or 100,
@@ -249,6 +249,41 @@ do
     env.getInitiativeFigures()
     check(env.initFigures[1].initValue ~= 99,
         "after reset the mini must not still read the typed 99")
+end
+
+------------------------------------- focused: reset scrubs even off-list minis
+-- A mini that has dropped out of the initiative list (initSettingsIncluded =
+-- false, e.g. 0 HP or include toggled off) with a leftover value must STILL be
+-- cleared by Reset (the whole point of the clean-slate reset), and its roll/
+-- fixed flag must survive so auto-rolled vs player-entered stays distinct. With
+-- the old reset (which only touched minis in the list) the off-list value would
+-- persist -- this asserts it no longer does.
+do
+    local stalePlayer = makeMini({
+        guid = "ee0005", name = "StalePC", player = true, rolling = false,
+        fixedValue = 13, included = false, health = { value = 5, max = 5 },
+    })
+    local staleMonster = makeMini({
+        guid = "ff0006", name = "StaleGob", player = false, rolling = true, mod = 2,
+        rolls = { 10 }, included = false, health = { value = 0, max = 7 },
+    })
+    registerMinis({ stalePlayer, staleMonster })
+    -- Leftover combat state, as if a fight had happened before the reset.
+    stalePlayer.getTable("options").initRealActive = true
+    stalePlayer.getTable("options").initRealValue = 13
+    staleMonster.getTable("options").initRealActive = true
+    staleMonster.getTable("options").initRealValue = 12
+
+    env.resetInitiative()
+
+    local p = stalePlayer.getTable("options")
+    local m = staleMonster.getTable("options")
+    check(p.initSettingsValue == 100, "off-list player value must scrub to 100 on reset")
+    check(p.initRealActive == false, "off-list player cached roll must clear on reset")
+    check(p.initSettingsRolling == false, "player stays fixed/player-rolled after reset")
+    check(m.initSettingsValue == 100, "off-list monster value must scrub to 100 on reset")
+    check(m.initRealActive == false, "off-list monster cached roll must clear on reset")
+    check(m.initSettingsRolling == true, "monster stays auto-rolled after reset")
 end
 
 --------------------------------------------------- focused: empty clears entry

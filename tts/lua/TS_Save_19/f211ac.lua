@@ -2657,9 +2657,17 @@ function resetInitiative()
     options.initCurrentRound = 1
     options.initCurrentGUID = ""
     options.manualInits = {}
-    getInitiativeFigures()
-    for i, figure in ipairs(initFigures) do
-        figure.obj.call('resetInitiative')
+    -- Clean slate: reset EVERY mini on the table, not just the ones currently
+    -- in the initiative list, so a number typed on a mini that has since left
+    -- the list (0 HP, include toggled off) can't linger into the next combat.
+    -- Each mini's resetInitiative only clears its initiative value (back to 100)
+    -- and cached roll; it leaves initSettingsRolling and the player flag alone,
+    -- so auto-rolled vs player-entered minis keep their distinction.
+    for _, obj in pairs(getAllObjects()) do
+        local cn = obj.getVar("className")
+        if cn == "MeasurementToken" or cn == "DNDMiniInjector_Mini" then
+            obj.call('resetInitiative')
+        end
     end
     initFigures = {}
     rebuildUI()
