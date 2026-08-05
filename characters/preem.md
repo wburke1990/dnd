@@ -277,18 +277,22 @@ The central open question of this pivot, to settle with the player who voices V.
 What does Preem actually want out of a secret channel into the thousand-year enemy?
 Candidates:
 
-- **Their Ragnarok lore.** The First Foundation has fought the Second for a
-  thousand years over the coming pass. They may hold what the Second lost or buried
-  — how the last cataclysm went, how to master the next one rather than
-  survive it. Preem wants the enemy's half of the story to perfect his plan to own
-  it.
-- **Their true-name ledger.** A thousand-year-old order runs on the same names
-  Preem's power runs on. A line into the First Foundation is a line into whatever
-  names they hold — demons, each other, maybe something already in his own tower.
-  He wants to steal names, or learn whose names his enemy keeps. This ties the
-  [false-name crack](preems-demons.md#true-names--planar-binding-homebrew-house-rule):
-  if the enemy holds the volcano-demon's true name, the name the party are handed at
-  the climax could be the lie.
+- **Their craft of control.** The First Foundation's whole craft is steering a pass
+  — channeling its volcanism into new land instead of catastrophe (they raised
+  Musleheim this way). Preem means to control the cataclysm's outcome: the bound
+  volcano-demon gives him the raw power, but the First Foundation holds the craft of
+  aiming it. A line into them reaches the one half his plan is missing — the control
+  he is otherwise forcing with a demon — and a hedge if the demon ever slips its
+  name (the
+  [false-name crack](preems-demons.md#true-names--planar-binding-homebrew-house-rule)).
+- **The base, and the end of the hunt.** A thousand years his order has hunted the
+  First Foundation and never found its center — the present headquarters is unlocated
+  (`[OPEN]` in [the First Foundation](../lore/the-first-foundation.md)), and the craft
+  survives in copies at Jotunheim. In Maalm the trail runs guard → Ratatat → V. and
+  stops at V. Killing V. ends it there; keeping her alive with his people inside her
+  network is how Preem traces past V. for the first time — to the remnant and its
+  copies, to seize the craft or burn it and finish the war. Of the candidates this one
+  most directly explains why letting V. run is worth the risk.
 - **Leverage over his own order.** Preem's demon work already splits him from his
   fellow Foundationers. When that break comes, a backchannel to their mortal enemy
   is a hold he has over his own council — or a fallback ally if the Foundation turns
