@@ -14,6 +14,7 @@
       "Bash(GIT_EDITOR=true git:*)",
       "Bash(gh:*)",
       "Bash(uv:*)",
+      "Bash(/opt/homebrew/bin/uv:*)",
       "Bash(python:*)",
       "Bash(python3:*)",
       "Bash(pytest:*)",
