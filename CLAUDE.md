@@ -487,10 +487,36 @@ time:
 
 Until one of these is in place, **don't `git add` anything under
 `tts/saves/`**. Flag this to the user and let them choose.
-- `scripts/` — uv-managed Python: the `tts` and `pad-maps` CLIs + tests
+- `scripts/` — uv-managed Python: the `tts`, `pad-maps`, and `prose-lint` CLIs
+  + tests
 - `.githooks/pre-commit` — silent-on-success quality + security checks
 
 ## CLI quick reference
+
+**Installing the CLIs (once per clone).** `tts`, `pad-maps`, and `prose-lint`
+are entry points of the `scripts/` package; a fresh clone has none of them on
+PATH, and calling them bare exits 127. Install them once, from the repo root:
+
+```
+uv tool install --editable scripts
+```
+
+That builds an isolated venv under `~/.local/share/uv/tools/dnd-tools` — **never
+install this package into a global Python.** `--editable` means the commands
+track the working tree, so a `git pull` that changes `scripts/dnd_tools/` needs
+no reinstall; only a dependency change in `scripts/pyproject.toml` does (rerun
+the same command).
+
+uv drops the executables in `~/.local/bin`. If that isn't on your PATH, either
+`uv tool update-shell`, or copy the three entry points into a bin dir that is
+(on this Mac they live in `/opt/homebrew/bin`).
+
+In a cloud/mobile container, where nothing is installed, each of the three also
+runs as:
+
+```
+uv --directory scripts run <cmd> [args]
+```
 
 ```
 tts pull-saves            # rsync local TTS install into tts/saves-mirror
