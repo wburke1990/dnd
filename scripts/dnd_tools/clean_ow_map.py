@@ -1,7 +1,7 @@
-"""Remove or dead-asset-prune OneWorld maps in a save.
+"""Remove, dead-asset-prune, or defog OneWorld maps in a save.
 
-The inverse/companion of :mod:`dnd_tools.import_ow_map`. Two operations,
-both mutate a save in place and both are idempotent:
+The inverse/companion of :mod:`dnd_tools.import_ow_map`. Three operations,
+all mutate a save in place and all are idempotent:
 
 ``remove_ow_map``
     Fully un-register a map: delete its ``OWx_<Name>`` bag from ``mBag``,
@@ -33,6 +33,12 @@ both mutate a save in place and both are idempotent:
     Net effect: every dead-URL fetch is eliminated, so the load is quiet,
     while every piece that can still render is kept.
 
+``defog_map``
+    Set ``IgnoreFoW = False`` on every piece in the map's ``OWx`` subtree,
+    so no imported map object is ever immune to a Fog of War zone. The
+    importer now does this automatically; this op retrofits maps imported
+    before that landed.
+
 Asset URLs live in nested sub-dicts (``CustomMesh``, ``CustomImage``,
 ``CustomDeck`` entries, ``States`` …), never as top-level object keys, so
 the walkers descend into a piece's own structure but stop at
@@ -52,7 +58,7 @@ from pathlib import Path
 from typing import Any
 
 from dnd_tools.fix_oneworld import ABAG_GUID, delete_contained, delete_jotbase_lines, find_object
-from dnd_tools.import_ow_map import MBAG_GUID
+from dnd_tools.import_ow_map import MBAG_GUID, clear_ignore_fow
 
 # Same canonical asset-URL field set the asset tooling uses
 # (``ASSET_FIELDS`` in tts_assets.py). These are the only fields whose
@@ -376,6 +382,29 @@ def remove_ow_map(
 
 
 # --------------------------------------------------------------------------
+# Fog-of-war normalization (pure, no network)
+# --------------------------------------------------------------------------
+def defog_map(
+    save: dict[str, Any],
+    owx_guid: str,
+) -> dict[str, Any]:
+    """Force every piece in one OWx map to obey Fog of War.
+
+    Sets ``IgnoreFoW = False`` throughout the map's ``OWx`` subtree, so no
+    imported map piece is ever immune to a Fog of War zone — only the PC
+    minis we mark by hand should show through the fog. ``import_ow_map`` now
+    does this automatically on every import; this op retrofits maps imported
+    before that, and is safe to re-run (idempotent).
+    """
+    states = save.get("ObjectStates") or []
+    bag = find_object(states, owx_guid)
+    if bag is None:
+        raise CleanError(f"OWx bag {owx_guid!r} not found in save")
+    freed = clear_ignore_fow(bag)
+    return {"status": "defogged", "owx_guid": owx_guid, "fog_immune_cleared": freed}
+
+
+# --------------------------------------------------------------------------
 # CLI
 # --------------------------------------------------------------------------
 def _load(p: Path) -> dict[str, Any]:
@@ -414,6 +443,13 @@ def main(argv: list[str] | None = None) -> int:
         "the map is GET-probed and dead ones are auto-detected.",
     )
 
+    d = sub.add_parser(
+        "defog", help="Force every piece in a map to obey Fog of War (IgnoreFoW=False)"
+    )
+    d.add_argument("save", type=Path)
+    d.add_argument("output", type=Path)
+    d.add_argument("--owx-guid", required=True)
+
     args = parser.parse_args(argv)
     if not args.save.exists():
         print(f"error: {args.save} does not exist", file=sys.stderr)
@@ -423,6 +459,8 @@ def main(argv: list[str] | None = None) -> int:
     try:
         if args.cmd == "remove":
             result = remove_ow_map(save, sbx_guid=args.sbx_guid, owx_guid=args.owx_guid)
+        elif args.cmd == "defog":
+            result = defog_map(save, args.owx_guid)
         else:
             if args.dead_url:
                 result = prune_dead_assets(save, args.owx_guid, set(args.dead_url))

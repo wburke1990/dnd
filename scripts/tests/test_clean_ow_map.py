@@ -11,6 +11,7 @@ import pytest
 from dnd_tools.clean_ow_map import (
     CleanError,
     collect_map_urls,
+    defog_map,
     iter_own_assets,
     main,
     plan_prune,
@@ -301,8 +302,53 @@ def test_remove_requires_a_guid() -> None:
 
 
 # ---------------------------------------------------------------------------
+# defog_map
+# ---------------------------------------------------------------------------
+def test_defog_clears_ignore_fow_in_owx_subtree() -> None:
+    pieces = [
+        _model("aa0001", LIVE_MESH, LIVE_TEX),
+        _model("bb0002", LIVE_MESH, LIVE_TEX),
+    ]
+    pieces[0]["IgnoreFoW"] = True  # a fog-immune piece to fix
+    save = _save([_mbag(contained=[_owx("Cliffs", "c00001", pieces)])])
+    result = defog_map(save, "c00001")
+    assert result["status"] == "defogged"
+    assert result["fog_immune_cleared"] == 1
+    owx = _get(save, "c00001")
+    for p in owx["ContainedObjects"]:
+        assert p["IgnoreFoW"] is False
+
+
+def test_defog_missing_bag_raises() -> None:
+    with pytest.raises(CleanError):
+        defog_map(_fixture(), "nope99")
+
+
+def test_defog_is_idempotent() -> None:
+    pieces = [_model("aa0001", LIVE_MESH, LIVE_TEX)]
+    pieces[0]["IgnoreFoW"] = True
+    save = _save([_mbag(contained=[_owx("Cliffs", "c00001", pieces)])])
+    assert defog_map(save, "c00001")["fog_immune_cleared"] == 1
+    assert defog_map(save, "c00001")["fog_immune_cleared"] == 0
+
+
+# ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
+def test_cli_defog_writes_output(tmp_path: Path) -> None:
+    pieces = [_model("aa0001", LIVE_MESH, LIVE_TEX)]
+    pieces[0]["IgnoreFoW"] = True
+    save = _save([_mbag(contained=[_owx("Cliffs", "c00001", pieces)])])
+    src = tmp_path / "in.json"
+    out = tmp_path / "out.json"
+    src.write_text(json.dumps(save))
+    rc = main(["defog", str(src), str(out), "--owx-guid", "c00001"])
+    assert rc == 0
+    written = json.loads(out.read_text())
+    owx = _get(written, "c00001")
+    assert owx["ContainedObjects"][0]["IgnoreFoW"] is False
+
+
 def test_cli_remove_writes_output(tmp_path: Path) -> None:
     src = tmp_path / "in.json"
     out = tmp_path / "out.json"

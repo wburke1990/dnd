@@ -15,6 +15,7 @@ from dnd_tools.import_ow_map import (
     ImportError_,
     build_sbx_manifest,
     build_sbx_token,
+    clear_ignore_fow,
     collect_save_guids,
     collect_subtree_guids,
     detect_floor_plate,
@@ -268,8 +269,71 @@ def test_remap_empty_mapping_is_noop() -> None:
 
 
 # -----------------------------------------------------------------------------
+# clear_ignore_fow
+# -----------------------------------------------------------------------------
+
+
+def test_clear_ignore_fow_flips_true_and_counts_only_those() -> None:
+    bag = _owx_bag(
+        contained=[
+            {"GUID": "imm1", "IgnoreFoW": True},
+            {"GUID": "ok1", "IgnoreFoW": False},
+            {"GUID": "ok2"},  # field absent — TTS default False
+            {
+                "GUID": "imm2",
+                "IgnoreFoW": True,
+                "ContainedObjects": [{"GUID": "imm3", "IgnoreFoW": True}],
+            },
+        ]
+    )
+    freed = clear_ignore_fow(bag)
+    # imm1, imm2, imm3 were immune; nested child counted too.
+    assert freed == 3
+    # Every object — including the bag itself and the absent-field one — is
+    # now explicitly False.
+    assert bag["IgnoreFoW"] is False
+    for piece in bag["ContainedObjects"]:
+        assert piece["IgnoreFoW"] is False
+    assert bag["ContainedObjects"][3]["ContainedObjects"][0]["IgnoreFoW"] is False
+
+
+def test_clear_ignore_fow_is_idempotent() -> None:
+    bag = _owx_bag(contained=[{"GUID": "imm1", "IgnoreFoW": True}])
+    assert clear_ignore_fow(bag) == 1
+    assert clear_ignore_fow(bag) == 0  # nothing left immune
+
+
+# -----------------------------------------------------------------------------
 # Full import flow
 # -----------------------------------------------------------------------------
+
+
+def test_import_clears_ignore_fow_on_all_pieces() -> None:
+    source = _save(
+        [
+            _wbase(),
+            _owx_bag(
+                "Fogged",
+                guid="bbbbbb",
+                contained=[
+                    {"GUID": "immune", "IgnoreFoW": True, "Transform": {"posX": 0.0}},
+                    {"GUID": "normal", "Transform": {"posX": 0.0}},
+                ],
+            ),
+        ]
+    )
+    target = _save([_abag(), _mbag()])
+
+    result = import_ow_map(source, target)
+    assert result["fog_immune_cleared"] == 1
+
+    mbag = next(o for o in target["ObjectStates"] if o.get("GUID") == MBAG_GUID)
+    bag = next(o for o in mbag["ContainedObjects"] if o.get("Nickname") == "OWx_Fogged")
+    for piece in bag["ContainedObjects"]:
+        assert piece["IgnoreFoW"] is False
+    # Source untouched — the flip happens on the deep-copied bag only.
+    src_bag = next(o for o in source["ObjectStates"] if o.get("GUID") == "bbbbbb")
+    assert src_bag["ContainedObjects"][0]["IgnoreFoW"] is True
 
 
 def test_import_basic_no_collisions() -> None:

@@ -132,6 +132,29 @@ def collect_save_guids(save: dict[str, Any]) -> set[str]:
     return guids
 
 
+def clear_ignore_fow(root: dict[str, Any]) -> int:
+    """Set ``IgnoreFoW = False`` on ``root`` and every contained piece.
+
+    A TTS object with ``IgnoreFoW = True`` is never hidden by a Fog of War
+    zone — it shows through the fog for every player. Donor maps occasionally
+    ship pieces flagged that way, which would leave chunks of a supposedly
+    hidden map permanently visible. Forcing every imported piece to ``False``
+    means only the objects WE mark by hand (the player-character minis) are
+    ever fog-immune.
+
+    Returns the count of pieces that were previously immune
+    (``IgnoreFoW == True``) — the ones this actually re-hides. Pieces already
+    ``False`` (or missing the field, which is TTS's default) are set
+    explicitly to ``False`` too, but not counted.
+    """
+    freed = 0
+    for obj in _walk_subtree(root):
+        if obj.get("IgnoreFoW") is True:
+            freed += 1
+        obj["IgnoreFoW"] = False
+    return freed
+
+
 def mint_guid(used: set[str]) -> str:
     """Return a 6-hex-char GUID not in `used`, and add it to `used`."""
     while True:
@@ -486,6 +509,10 @@ def import_ow_map(
     else:
         vbase_scale = DEFAULT_VBASE
 
+    # Force every imported piece to obey Fog of War (only PC minis we mark
+    # by hand should ever be immune). See clear_ignore_fow.
+    fog_immune_cleared = clear_ignore_fow(bag_copy)
+
     sbx = build_sbx_token(sbx_guid, final_name, sbx_image_url, bag_copy["GUID"])
     # The Hub's Build button is gated by `aBase.getLuaScript() != ""` —
     # without this manifest the SBx is registered but the map can't be
@@ -519,6 +546,7 @@ def import_ow_map(
         "remapped_guids": mapping,
         "vbase_scale": round(vbase_scale, 2),
         "floor_plate_fitted": plate is not None,
+        "fog_immune_cleared": fog_immune_cleared,
     }
 
 
@@ -589,6 +617,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"  Floor:        fitted to plate, vBase {result['vbase_scale']}")
         else:
             print(f"  Floor:        no plate detected, vBase {result['vbase_scale']} (default)")
+        print(f"  Fog:          {result['fog_immune_cleared']} IgnoreFoW piece(s) cleared")
         print(f"  Collisions:   {result['collisions_remapped']} GUID(s) remapped")
         if result["remapped_guids"]:
             for old, new in result["remapped_guids"].items():
