@@ -293,10 +293,12 @@ Candidates:
   network is how Preem traces past V. for the first time — to the remnant and its
   copies, to seize the craft or burn it and finish the war. Of the candidates this one
   most directly explains why letting V. run is worth the risk.
-- **Leverage over his own order.** Preem's demon work already splits him from his
-  fellow Foundationers. When that break comes, a backchannel to their mortal enemy
-  is a hold he has over his own council — or a fallback ally if the Foundation turns
-  on him for his heresy.
+- **Standing in his own order.** His demon work already sets him apart from his
+  fellow Foundationers, so he needs cover. The line into the First Foundation lets
+  him hand the Second a few spectacular wins against the thousand-year enemy — agents
+  found, the remnant hurt — that no one else can deliver. A First Chair scoring
+  against the First Foundation stands above suspicion, and no one looks hard at what
+  he keeps in his tower.
 - **Early warning.** The one faction that might see his endgame coming and stop it
   is the First Foundation. He keeps the line open to know whether they have worked
   out the demon army and the volcano plan in time for it to matter.
