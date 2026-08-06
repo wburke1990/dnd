@@ -93,6 +93,25 @@ if [[ -n "$prose_out" && "$prose_out" != "clean"* ]]; then
     printf '\n=== pre-commit: prose-lint (advisory, not blocking) ===\n%s\n' "$prose_out" >&2
 fi
 
+# --- Prose-critic reminder (advisory — never blocks) -----------------------
+# prose-lint is the cheap regex gate; the prose-critic subagent is the smart
+# pass that catches novel coinages regex can't (see CLAUDE.md, "House style").
+# The critic is an LLM pass a shell hook cannot run or verify, so this only
+# REMINDS: when staged changes touch content markdown, it lists those files so
+# whoever is committing runs the critic on them first. Deliberately not
+# TTY-gated — the automated flows are exactly the ones that skip the step.
+staged_md=()
+while IFS= read -r f; do
+    [[ "$f" == *.md ]] && staged_md+=("$f")
+done < <(git -C "$REPO_ROOT" diff --cached --name-only --diff-filter=ACM -- \
+    lore characters encounters sessions bestiary handouts prompts docs)
+
+if (( ${#staged_md[@]} > 0 )); then
+    printf '\n=== pre-commit: prose-critic reminder (advisory, not blocking) ===\n' >&2
+    printf 'Content prose is staged. Run the prose-critic subagent on each of these before committing:\n' >&2
+    printf '  %s\n' "${staged_md[@]}" >&2
+fi
+
 # --- Lua linting on TTS scripts --------------------------------------------
 
 # Scoped to *staged* Lua only. Linting the whole tree meant a commit touching
