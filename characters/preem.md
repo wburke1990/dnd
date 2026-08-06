@@ -235,8 +235,8 @@ deal: keep working for Preem as cover and feed the First Foundation what they se
 **Batrick** — the psychic-bat familiar on Jasper's shoulder, the quasit spy Jasper
 named (see [The Psychic Bat](the-psychic-bat.md)) — hears the whole offer and
 reports it to Preem. So Preem learns two things at once: the party's answer before
-they act on it, and that the thousand-year enemy had an agent inside Maalm,
-recruiting his crew, about to leave the city.
+they act on it, and that the First Foundation, his order's thousand-year enemy, had
+an agent inside Maalm, recruiting his crew, about to leave the city.
 
 Preem welcomes either answer, and his manner toward the party does not change.
 
@@ -247,8 +247,8 @@ Preem welcomes either answer, and his manner toward the party does not change.
   ones to her through them. They believe they are working against Preem; both
   sides answer to him.
 
-He does not reveal that the bat heard — no punishment, no colder greeting, no trap
-sprung. He acts on what he learns and never names the source. Punishing the party
+He does not reveal that the bat heard: he does not punish them, greet them more
+coldly, or spring a trap. He acts on what he learns and never names the source. Punishing the party
 for accepting would burn the spy and make him an ordinary villain.
 
 ### Letting V. run — what it gets Preem
@@ -261,8 +261,8 @@ if he could take her (he most likely can't), he wants her alive at first, runnin
 with his people inside her network.
 
 - Killing V. ends what she can send the First Foundation; keeping her alive makes
-  her a channel into the enemy order — Preem learns what they learn about him, as
-  they learn it.
+  her a channel into the enemy order — Preem learns what they learn about him, at the
+  same time they do.
 - Everything she thinks she won still answers to Preem: she carries off the atlas
   and her double agents, but the agents report to Preem through Batrick and carry
   back the finds he chooses.
@@ -285,10 +285,10 @@ priority:
   stops at V. Killing V. ends it there; keeping her alive with his people inside her
   network is how Preem traces past V. for the first time — to the remnant and its
   copies, to seize the craft or burn it and finish the war. This is the most direct
-  reason to let V. run, and it sets up the next motive.
+  reason to let V. run.
 - **Standing in his own order.** His demon work already sets him apart from his
   fellow Foundationers, so he needs cover. The wins the hunt yields — agents found,
-  the remnant hurt, blows no one else can land on the thousand-year enemy — raise a
+  the remnant hurt, damage no one else can do to the First Foundation — raise a
   First Chair above suspicion, and no one looks hard at what he keeps in his tower.
 
 The last two are further off: both need the party — and through them Preem — to reach
