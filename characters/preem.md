@@ -275,8 +275,28 @@ planted and the line runs. `[OPEN]` when Preem closes the account.
 
 The central open question of this pivot, to settle with the player who voices V.
 What does Preem actually want out of a secret channel into the thousand-year enemy?
-Candidates:
+Candidates, in Preem's order of priority:
 
+- **The base, and the end of the hunt.** A thousand years his order has hunted the
+  First Foundation and never found its center — the present headquarters is unlocated
+  (`[OPEN]` in [the First Foundation](../lore/the-first-foundation.md)), and the craft
+  survives in copies at Jotunheim. In Maalm the trail runs guard → Ratatat → V. and
+  stops at V. Killing V. ends it there; keeping her alive with his people inside her
+  network is how Preem traces past V. for the first time — to the remnant and its
+  copies, to seize the craft or burn it and finish the war. This is what most directly
+  explains why letting V. run is worth the risk, and it feeds the next.
+- **Standing in his own order.** His demon work already sets him apart from his
+  fellow Foundationers, so he needs cover. The wins the hunt yields — agents found,
+  the remnant hurt, blows no one else can land on the thousand-year enemy — raise a
+  First Chair above suspicion, and no one looks hard at what he keeps in his tower.
+
+The last two are further off: both need the party — and through them Preem — to reach
+deeper into the First Foundation than V. alone, so treat them as later possibilities,
+not his near-term motive.
+
+- **Early warning.** The one faction that might see his endgame coming and stop it
+  is the First Foundation. He keeps the line open to know whether they have worked
+  out the demon army and the volcano plan in time for it to matter.
 - **Their craft of control.** The First Foundation's whole craft is steering a pass
   — channeling its volcanism into new land instead of catastrophe (they raised
   Musleheim this way). Preem means to control the cataclysm's outcome: the bound
@@ -285,23 +305,6 @@ Candidates:
   he is otherwise forcing with a demon — and a hedge if the demon ever slips its
   name (the
   [false-name crack](preems-demons.md#true-names--planar-binding-homebrew-house-rule)).
-- **The base, and the end of the hunt.** A thousand years his order has hunted the
-  First Foundation and never found its center — the present headquarters is unlocated
-  (`[OPEN]` in [the First Foundation](../lore/the-first-foundation.md)), and the craft
-  survives in copies at Jotunheim. In Maalm the trail runs guard → Ratatat → V. and
-  stops at V. Killing V. ends it there; keeping her alive with his people inside her
-  network is how Preem traces past V. for the first time — to the remnant and its
-  copies, to seize the craft or burn it and finish the war. Of the candidates this one
-  most directly explains why letting V. run is worth the risk.
-- **Standing in his own order.** His demon work already sets him apart from his
-  fellow Foundationers, so he needs cover. The line into the First Foundation lets
-  him hand the Second a few spectacular wins against the thousand-year enemy — agents
-  found, the remnant hurt — that no one else can deliver. A First Chair scoring
-  against the First Foundation stands above suspicion, and no one looks hard at what
-  he keeps in his tower.
-- **Early warning.** The one faction that might see his endgame coming and stop it
-  is the First Foundation. He keeps the line open to know whether they have worked
-  out the demon army and the volcano plan in time for it to matter.
 
 ### The reveal — preemption now, echo later
 
