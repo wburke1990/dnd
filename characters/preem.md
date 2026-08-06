@@ -251,7 +251,7 @@ He does not reveal that the bat heard — no punishment, no colder greeting, no 
 sprung. He acts on what he learns and never names the source. Punishing the party
 for accepting would burn the spy and make him an ordinary villain.
 
-### Letting V. run — the pivot that pays Preem, not his order
+### Letting V. run — what it gets Preem
 
 `[settled — 8/5]` The loyal move is to hand V. up: she is an exposed First
 Foundation agent on Second Foundation ground, and by the orders' rule that means
@@ -260,22 +260,23 @@ the opposite — he tells his Foundation nothing and lets her leave the city. Ev
 if he could take her (he most likely can't), he wants her alive at first, running,
 with his people inside her network.
 
-- A dead V. plugs a leak. A live V. is a private line into the enemy order — he
-  learns what the First Foundation knows about him as they learn it.
-- Everything she thinks she won is poisoned: she carries off the atlas and her
-  double agents, but the agents report to Preem through Batrick and carry back the
-  finds he chooses. Her win becomes his.
-- None of it reaches the Foundation's books. He spends his own order's security —
-  an enemy agent loose, a hole in Maalm — for leverage that answers to him alone.
+- Killing V. ends what she can send the First Foundation; keeping her alive makes
+  her a channel into the enemy order — Preem learns what they learn about him, as
+  they learn it.
+- Everything she thinks she won still answers to Preem: she carries off the atlas
+  and her double agents, but the agents report to Preem through Batrick and carry
+  back the finds he chooses.
+- None of it reaches the Foundation's books. He accepts a cost to his own order —
+  an enemy agent loose, a hole in Maalm — for a source he alone controls.
 
-There is a clock on her: she is worth more alive only until the triple agents are
-planted and the line runs. `[OPEN]` when Preem closes the account.
+She is worth more alive only until the triple agents are planted and the line runs.
+`[OPEN]` when Preem moves against her.
 
 ### `[OPEN — David]` What Preem wants from a line into the First Foundation
 
-The central open question of this pivot, to settle with the player who voices V.
-What does Preem actually want out of a secret channel into the thousand-year enemy?
-Candidates, in Preem's order of priority:
+The open question here, to settle with the player who voices V.: what Preem wants
+out of a secret channel into the First Foundation. Candidates, in Preem's order of
+priority:
 
 - **The base, and the end of the hunt.** A thousand years his order has hunted the
   First Foundation and never found its center — the present headquarters is unlocated
@@ -283,8 +284,8 @@ Candidates, in Preem's order of priority:
   survives in copies at Jotunheim. In Maalm the trail runs guard → Ratatat → V. and
   stops at V. Killing V. ends it there; keeping her alive with his people inside her
   network is how Preem traces past V. for the first time — to the remnant and its
-  copies, to seize the craft or burn it and finish the war. This is what most directly
-  explains why letting V. run is worth the risk, and it feeds the next.
+  copies, to seize the craft or burn it and finish the war. This is the most direct
+  reason to let V. run, and it sets up the next motive.
 - **Standing in his own order.** His demon work already sets him apart from his
   fellow Foundationers, so he needs cover. The wins the hunt yields — agents found,
   the remnant hurt, blows no one else can land on the thousand-year enemy — raise a
@@ -302,17 +303,17 @@ not his near-term motive.
   Musleheim this way). Preem means to control the cataclysm's outcome: the bound
   volcano-demon gives him the raw power, but the First Foundation holds the craft of
   aiming it. A line into them reaches the one half his plan is missing — the control
-  he is otherwise forcing with a demon — and a hedge if the demon ever slips its
-  name (the
+  he is otherwise forcing with a demon — and a fallback if the demon ever breaks
+  its true-name binding (the
   [false-name crack](preems-demons.md#true-names--planar-binding-homebrew-house-rule)).
 
-### The reveal — preemption now, echo later
+### The reveal — acting on it now, repeating it later
 
 The party has met Preem once and won't sit with him again for a while, so for
-now the tell is a **preemption**: Preem acts on something the party discussed
+now the tell is something Preem does: he acts on something the party discussed
 only in this private conversation and never carried out — blocks it, rewards it,
-or steps around it — so it reads as coincidence now and as proof later, once the
-party can rewind to it.
+or steps around it — so it seems a coincidence now and, later, shows the party he
+was listening when they think back to it.
 
 When they do next meet Preem, he repeats one of their own lines back to them
 word for word. For that to work, **log what they say verbatim** whenever they
