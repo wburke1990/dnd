@@ -98,11 +98,13 @@ Kuru's undying phoenix** (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 
 - **The sibling fall — the phoenix.** `[settled]` In the same first pass a second great
   stone falls and becomes **Kuru.** Where Taniyn became an island and one day *ended*,
-  Kuru's beast is a **phoenix that dies and rises with every pass** — so the **god of
+  Kuru's beast is a **phoenix that dies and rises again rather than ending** — so the **god of
   Kuru outlives every other god,** at the price of its own mind. Its worshippers chase
   the same immortality, replacing their flesh with god-stone until they become the
   near-immortal **warforged** who lead the Church of Sunne. The phoenix is now going
-  mad, and the **coming pass (§VIII) is its next, most dangerous rebirth.** Full arc:
+  mad; the **coming pass (§VIII) may bring its next, most dangerous rebirth** — its
+  rebirth timing is `[OPEN]` (see [Kuru & the phoenix §7](kuru-and-the-phoenix.md)),
+  so no dated event is pegged to a phoenix rebirth. Full arc:
   [Kuru & the phoenix](kuru-and-the-phoenix.md).
 
 *Sources: [Taniyn & Lonka](taniyn-and-lonka.md), [Kuru & the phoenix](kuru-and-the-phoenix.md), [campaign overview §5](campaign-overview.md).*
@@ -408,8 +410,9 @@ half-forgotten.
   **dragon-vs-demon contest** will be fought *there*, on the newest land — demons are
   already surfacing, with rumors of dragons. Moku is Kuru's client-state, and secretly the
   **Second Foundation's** finale ground.
-- 🔒 **Kuru's private apocalypse.** The **phoenix is about to die and be reborn** more
-  degraded than ever — it may not return as itself. Its **forgotten true name** is a prime
+- 🔒 **Kuru's private apocalypse.** The **phoenix may again die and be reborn** more
+  degraded than ever — it may not return as itself (its rebirth timing is
+  `[OPEN]`; see [Kuru & the phoenix §7](kuru-and-the-phoenix.md)). Its **forgotten true name** is a prime
   candidate for the "most dangerous name" the party could be handed: to **bind**,
   **restore**, or **claim** an undying god (see [Kuru & the phoenix §6](kuru-and-the-phoenix.md)).
 

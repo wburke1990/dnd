@@ -257,7 +257,7 @@ names, strongly suggestive but unconfirmed]`:
 | Suartleheim (Weet / Eet = West / East) | **Weet:** dwarves (Norse Svartalfheim). **Eet:** a [fallen gnome kingdom](the-fallen-gnome-kingdom.md) — Maalm's SE corner, remnant gnomes at Raand. To the south, off-map: [the giants](the-southern-land.md) |
 | Lonka (now **Jotunheim**) | Dragonborn holy origin & Phoenician **Tyre**, *fused on purpose* with Ramayana **Lanka** — Golden Lonka, Mt Trikuta, the Ravana-seizure rhyme (see [Lonka / Jotunheim](lonka-jotunheim.md)) |
 | Kalikhat | South Asian — Kali / Hindu?; **cradle of the Underdark peoples** — drow & deep gnomes who fled underground after the Bleeding Star and first dealt with demons `[OPEN — reconcile with Suartleheim/Svartalfheim]` |
-| Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? Its god is a comet-born **phoenix** that dies and is reborn each pass; its warforged clergy remake themselves in god-stone (see [Kuru & the phoenix](kuru-and-the-phoenix.md)) |
+| Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? Its god is a comet-born **phoenix** that dies and is reborn rather than ending (rebirth timing `[OPEN]`); its warforged clergy remake themselves in god-stone (see [Kuru & the phoenix](kuru-and-the-phoenix.md)) |
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |
 | Mukka | ? — source of the **mercenary pirate ships** Kuru & Noku rely on to supply the Musleheim war (no navy of their own); see [Kuru & the phoenix §5](kuru-and-the-phoenix.md) |
 

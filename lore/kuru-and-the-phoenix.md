@@ -29,10 +29,16 @@ leaving only [heart-stone shards](lonka-jotunheim.md)), the god is simply *gone.
 
 **Kuru's god is the exception.** Its beast is a **giant phoenix**, and the
 phoenix does not become an island and sleep — it **dies and is reborn,**
-cycle after cycle, rising from its own ash. So while every rival god has lived
-once and ended, **the god of Kuru has lived through every pass since the world
-began.** That undying continuity is the root of everything Kuru believes about
+rising from its own ash. So while every rival god has lived
+once and ended, **the god of Kuru has outlived them all.** That undying
+continuity is the root of everything Kuru believes about
 itself: that it is *chosen,* that its sun cannot set, that it is owed the world.
+
+> `[OPEN]` **The rebirth's timing is not established.** How often the
+> phoenix dies and returns — whether strictly once per comet pass, or on some
+> other rhythm — which passes it has risen on, and whether the coming pass is one
+> of its rebirths, are all undecided (§7). Do not peg any dated event to a
+> phoenix rebirth on a fixed schedule.
 
 But **each rebirth has a price** — and the bill is finally coming due (§4).
 
@@ -477,9 +483,9 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
 
 - **The Fall (~6,000 ya).** `[settled]` Phoenix-stone falls at the first drop, alongside
   Taniyn; becomes the island of Kuru. Sibling-land to Taniyn's [Lonka](taniyn-and-lonka.md). §2.
-- **The undying ages.** Pass after pass, the phoenix dies into the comet and rises
+- **The undying ages.** Age after age, the phoenix dies and rises
   from its ash while rival gods fall once and end. Kuru's self-image as **chosen**
-  and **eternal** sets here.
+  and **eternal** sets here. (`[OPEN]` its rebirth timing — §7.)
 - **The Muspel colony (~1,800 → ~1,600 ya).** Before this, Kuru-island was **sparsely and
   democratically settled** — a thin, leaderless people scattered on the phoenix-god's shore.
   Then the First-Foundation-led **[Muspel empire](the-muspel-empire.md)** spread outward and
@@ -541,8 +547,8 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
   makes fertile land — playing out again on newer islands.)*
 - **Now (~1 year to the next pass).** Kuru is the **dominant power** but **weak at sea**
   ([overview §5](campaign-overview.md)) — the gap [Sam's floating fleet](floating-fleet.md)
-  will exploit. The phoenix is openly faltering. And the next pass is its **next
-  death-and-rebirth** (§6).
+  will exploit. The phoenix is openly faltering. And the coming pass may be its **next
+  death-and-rebirth** (§6; timing `[OPEN]`, §7).
 - **The Musleheim front — the shaky alliance (now).** `[settled]` The orc war (above) is
   currently prosecuted by an **alliance of Kuru and [Noku Kurunatuka](campaign-overview.md)**
   against the **tribes of [Musleheim](musleheim.md)** — and it is **strained near
@@ -592,8 +598,9 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](world-histor
 ## 6. The coming pass — the phoenix's next death 🔒
 
 The campaign opens **~1 year before the next comet pass** ([overview §5](campaign-overview.md))
-— which for Kuru means **the phoenix is about to die and be reborn again,** more
-degraded than it has ever been. The stakes:
+— which for Kuru may mean **another of the phoenix's deaths and rebirths,** more
+degraded than ever. Its rebirth **timing is not established** (§7),
+so whether this pass brings one is `[OPEN]`. The stakes:
 
 - **A rebirth that fails.** 🔒 If the god dies into this pass too far gone, it may
   **not come back as itself** — or not come back at all. A sun that does not rise is
@@ -640,6 +647,11 @@ degraded than it has ever been. The stakes:
   enemies or merely puppets of the phoenix godstone (§3).
 - `[OPEN]` **The phoenix's true name** as a recoverable, campaign-significant name (§6),
   and which ending it feeds.
+- `[OPEN]` **The rebirth's timing is not established.** How often the
+  phoenix dies and returns — whether strictly once per comet pass — which passes it
+  has risen on, and whether the coming pass is one of its rebirths, are all
+  undecided. The phoenix is the god that does not stay dead; the *schedule* of that
+  return is not fixed, so no dated event should be pegged to a phoenix rebirth.
 
 ---
 
