@@ -1,6 +1,6 @@
 # The Pale Horse (Player Handout)
 
-*Musa's final vision, cut into the massebah at the landing port beside [The Second Coming](the-second-coming.md) and his [Vision of the Future](locksley-hall-vision.md). The Second Coming is his prophecy already come true — the desert beast that woke and was ended. This one is not yet fulfilled: the coming comet-pass, the Ragnarok still ahead. An abridged selection; the elisions are ours.*
+*Musa's final vision, cut into the massebah at the landing port beside [The Second Coming](the-second-coming.md) and his [Vision of the Future](locksley-hall-vision.md). The Second Coming is his prophecy already come true — the desert beast that woke and was ended. This one is not yet fulfilled: the coming comet-pass, the Ragnarok still ahead. An abridged selection; the elisions are ours. The party may find a longer version later in the campaign, with the missing lines — the red and black riders, war and famine — restored.*
 
 *Real-world source: Revelation 6 (King James Version, 1611) — the opening of the seals and the four horsemen, ending on the pale horse, Death.*
 

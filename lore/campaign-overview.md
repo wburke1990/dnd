@@ -300,6 +300,11 @@ colonists an open question (`[draft — endgame]`; see [lonka-jotunheim.md §6](
 The cycle that opened with Taniyn *choosing* to
 become an island closes on the party *choosing* what to do with a name.
 
+**The comet at the end is pale.** `[idea]` The concluding comet fall is a white
+comet, and the beast it drops is white — a giant pegasus or a white dragon. It
+fulfills Musa's [Pale Horse](../handouts/revelation-6-pale-horse.md) prophecy: the
+pale rider arriving as a white winged beast, falling at the last pass.
+
 **The closing poem (planned).** `[idea]` Walter de la Mare's **"Nod"** — the old shepherd
 folding his flock at nightfall — read over the very end: **the dragons returning, the
 islands sinking back into the sea,** the age folded up to sleep until the next pass. (See
