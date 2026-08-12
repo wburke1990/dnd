@@ -110,6 +110,14 @@ Two flavors, many kin within each:
 - **Giant-kin — the beautiful relatives (Firbolgs, Sarric)** are the smaller
   earth-branch: they disperse into the mountain's life — the meadow, the
   treeline, the bees.
+- **The forest-people — Pax's mother's kin** are the earth-branch of the low
+  woods, where the giant-kin are the branch of the peaks. A dying forest-person
+  lies down and becomes a tree, then the leaf-litter and roots and rot that feed
+  the next growth. **The old trees of a wood are its dead.** They leave no hand
+  on any rock; they leave a standing tree. Their country is **northwest
+  Musleheim** (§6, Pax). Two of their dead — an ash and an elm — were carried off
+  to Jotunheim and renamed there (see [Lonka / Jotunheim](lonka-jotunheim.md) §5;
+  the zealots' Askr and Embla).
 - **The hand on the wall** is the earth-kin mark: before a giant lies down to
   become stone it presses a hand to the rock. There is no true name to leave,
   so they leave a hand. This is where **cave paintings** come from (§8).
@@ -198,13 +206,14 @@ A child of two lineages carries both, and **at death chooses which one claims
 them.** The choice is the redemptive, *chosen* transformation the campaign is
 built around (Theme B) — set against the *inflicted* kind (Aniess, §10).
 
-**Pax is the child of a Celestial and a nameless earth-person** — half
-true-named, half nameless. At death he chooses:
+**Pax is the child of a Celestial and a nameless forest-person** — half
+true-named, half nameless; his mother's people are the forest-branch of the
+earth-nameless in northwest Musleheim (§5). At death he chooses:
 
 - **Celestial** — he was heaven's all along; he accepts a **name, a heaven, a
   leash.**
 - **Earth / nameless** — the Green Revelation was true, he **dissolves into the
-  land, unowned,** belonging to the living world.
+  forest, unowned,** belonging to the living world.
 
 This resolves the mystery on his sheet — *delusional or chosen?* — because
 those two afterlives **are** those two readings, and his own choice answers it.
@@ -265,7 +274,7 @@ chosen vs. inflicted:**
 [Jasper](../handouts/creation-jasper.md) · [Sam](../handouts/creation-sam.md).
 
 - **Sarric** (Firbolg → nameless, earth) — the giants-become-land / Ymir story.
-- **Pax** (Celestial × nameless-earth) — raised on the bridge-of-spirit-and-soil
+- **Pax** (Celestial × forest-nameless) — raised on the bridge-of-spirit-and-soil
   faith; **he chooses** his death, celestial or earth (§6). The *chosen* pole.
 - **Aniess** — born a street-urchin **elf** in Suartleheim (dragon-people), then
   **snake-remade** by the Order via the Punt rite. She is the one PC who
@@ -413,7 +422,8 @@ does, because he is dragon-people (§7).
 
 - `[OPEN]` The exact shape of the celestial "afterlife" (§3) — eternal-but-owned.
 - `[OPEN]` Where the nameless live on the map — Sarric's cold country; the
-  earth-kin among the giants' peaks, the weather-people somewhere of their own?
+  earth-kin among the giants' peaks; the weather-people somewhere of their own?
+  (The **forest-people** are in **northwest Musleheim** — §5–6, Pax.)
 - `[OPEN]` Cave-painting home (Suartleheim) and reconciling it with the
   earth-kin origin (§8).
 - `[OPEN]` Reconcile Ymir with [Lonka / Jotunheim](lonka-jotunheim.md) (§5).

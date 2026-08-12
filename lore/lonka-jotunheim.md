@@ -181,10 +181,29 @@ guarded channel.
   note of gods who abandon their faithful** (and a quiet rhyme with Kuru's own god failing,
   [Kuru & the phoenix §4](kuru-and-the-phoenix.md)). `[OPEN]` what they do about it — seek
   the vanished dragons, blame usurpers, or try to call them back.
-- **The two trees.** At the highest point of the ring-wall stand **two trees — one Ash,
-  one Elm —** which the zealots hold to be the **children of the primordial dragon.**
-  (Our **Ask & Embla**, the first man and woman shaped from ash and elm; here, Taniyn's
-  children — Norse myth bent onto the dragon cosmology.)
+- **The two trees — Askr and Embla.** At the highest point of the ring-wall stand **two
+  trees, one ash, one elm,** which the zealots hold to be the **children of the primordial
+  dragon** — the first man and woman, Askr and Embla (Norse myth adapted to the dragon
+  cosmology). `[settled]` **The truth is they are stolen, and the names are the zealots'.**
+  They are two dead of the **forest-nameless of northwest Musleheim** —
+  [Pax's mother's people](lineages-and-afterlives.md) (§5–6) — two who lay down and became
+  an ash and an elm. On the march to retake Lonka (~1,900 ya) the zealots came up through
+  those forests to reach the tunnels (§4), took the two trees as cuttings, carried them
+  under the sea, and rooted them here. The forest-nameless have no names and no first pair;
+  "Askr and Embla, the children of the dragon" is a creation and two names the
+  zealots supplied.
+- **The trees hold the story too.** The nameless carry the memory they are given
+  ([lineages & afterlives](lineages-and-afterlives.md) §5, §11). Uprooted and carried
+  across the sea, these two were cut off from the forest's common stock — the memory they
+  were drawn from — and had only the zealots' voices, and took the dragon-story as their
+  own past. The zealots teach each new generation the creation at the trees; the trees,
+  asked, give it back. Neither side holds the origin any more: the story passes between the
+  zealots and the trees, each retelling treated as more certain, and the true forest-memory
+  is lost. `[hook]` The one forest-nameless still joined to the living forest and its common
+  stock is **Pax**, who carries the memory these two lost. What happens when he stands at
+  them — they hand him their false past, or his true lineage-memory meets theirs — is Pax's
+  way into Jotunheim (Sam's quest). Embla is an elm, and it was an elm's roots that gave Pax
+  the mushroom.
 - **The buried first city.** The **actual ruins of the first dragonborn civilization lie
   underground**, beneath the caldera floor. With **sea level high right now**, their
   entrances may be **drowned** — reachable only by going *under* the water of the bay.
