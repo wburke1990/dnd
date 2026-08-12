@@ -33,3 +33,7 @@ to do. Play him as the table's reality check: the one who remembers the pigs.
 ## How he sees Pax
 
 A good man who should absolutely not be allowed near municipal infrastructure.
+
+## The four-day vision
+
+He was there for the four-day mushroom vision (Pax's account is on [his sheet](pax.md), told in [Session 10](../sessions/session-10.md)). While Pax convulsed and shouted at the sky, Reedhand kept him from choking, carried him water, and stopped him from burying his own left hand — Pax had declared it "too political." Reedhand calls the whole thing "the mushroom incident."

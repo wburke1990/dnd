@@ -1,6 +1,8 @@
 # Pax Verdant
 ## Aasimar Monk — played by Andrew
 
+> **DM notes:** [`pax-dm-notes.md`](pax-dm-notes.md) — our readings and campaign ties, kept out of Andrew's sheet.
+
 ---
 
 ## Basic Information
@@ -71,6 +73,18 @@ He is also a problem for anyone exploiting the natural world too aggressively. H
 
 He later fell in with Sarric and Jasper, becoming the third member of their organization.
 
+### The Four-Day Vision
+
+*Written by Andrew — kept verbatim. Pax told it aloud to Jogo during [Session 10](../sessions/session-10.md).*
+
+Pax maintains that the mushroom was not discovered. It was given. He had been traveling with Brother Reedhand when they stopped beneath an old elm, enormous and half-hollow, with roots that had broken through the earth like the backs of buried animals. Pax sat against the trunk for some time and, as he tells it, entered into a conversation with the tree. Brother Reedhand remembers Pax sitting silently with his forehead pressed against the bark for nearly three hours. Pax remembers a lengthy discussion. The elm told him that men spend their lives looking upward for revelation when the oldest truths are buried beneath their feet. It instructed him to dig between two of its largest roots, where he would find a gift. So Pax dug.
+
+Several feet down, tangled into the root structure, he found a single pale mushroom. It was almost completely white, except for small blue flecks across the cap that Pax insists moved when he wasn't looking directly at them. Brother Reedhand told him not to eat it. Pax ate it immediately. What happened next depends somewhat on whom you ask. According to Brother Reedhand, Pax collapsed within minutes and began violently convulsing. He drifted in and out of consciousness for four days, occasionally sitting upright, shouting incomprehensible things at the sky, and then collapsing again. Reedhand kept him from choking, carried water to him, and at one point had to stop Pax from attempting to bury his own left hand because Pax insisted "it had become too political." Pax's recollection is considerably different. He remembers falling upward. The ground disappeared beneath him, then the clouds, then the sky itself. He rose until the world became small below him and he was standing, somehow, among the stars. But the stars were not distant lights. They were enormous. Some burned. Some moved. Some seemed to be watching him.
+
+Below him he could see the world entire, not as a map or a sphere, but as something alive. He could see rivers glowing like veins. Forests breathed. Mountain ranges shifted like the spine of a sleeping animal. Every living thing seemed connected by thin threads of light running across the surface of the earth. And then he noticed that some of the threads continued upward. Into the stars. Pax says he wandered there for what felt like years. At some point he became aware that something else was moving among the stars with him. He could never see it directly. Whenever he turned toward it there was only darkness and distant light, but he knew with absolute certainty that it was enormous and that it had known him long before he had been born. Eventually it spoke. Not in words exactly. It called him by a name. Pax cannot remember the name. This remains one of the few things that genuinely bothers him. He remembers hearing it and thinking, Of course. That is my name. How could I ever have forgotten? He also remembers that when the name was spoken, every star around him seemed to move. Then he was falling. He fell through the stars, through darkness, through clouds, through branches, through roots, and finally deep beneath the earth. For one brief moment he saw something beneath the roots of the world: a vast network stretching farther than he could comprehend, connecting forests, graves, mountains, animals, people, and things that had no names. Then he woke up. Brother Reedhand was kneeling over him. Four days had passed. Pax was bleeding from the mouth, badly dehydrated, and had apparently suffered repeated seizures. Reedhand explained this to him carefully. Pax listened.
+
+Then he looked at the empty place beneath the elm where the mushroom had grown and said: "Yes. The journey was physically demanding." To this day Pax considers the incident an important spiritual experience. Brother Reedhand refers to it as "the mushroom incident."
+
 ---
 
 ## Personality and Beliefs
@@ -117,18 +131,4 @@ As Pax grows in power — especially if he becomes a **Warrior of the Elements**
 
 ---
 
-## DM Note
-
-Pax's three readings of himself — delusional, chosen, both — should stay live as long as possible. Give the world enough ambiguous evidence that neither the table nor Pax can settle it: plants that *might* lean toward him, healing that *might* be the moss, elemental power that *might* be celestial. Resist confirming or debunking the Green Revelation.
-
-His confession in the Hall of Two Truths during the dream quest is a rich seam: a man who has reframed exile as purpose and sincerely believes he is the world's appointed hand. The scales don't weigh sincerity any more than they weigh context (cf. Sarric's confession). What does Pax confess when the world he speaks for is finally listening back?
-
-The organization has three founding members. Their dynamic — who leads, who follows, who holds the others back or pushes them further — is worth establishing now that all three backstories are in hand. Pax is the one most likely to escalate, and the one least able to tell a sign from a symptom.
-
----
-
-## Campaign Connections
-
-- The ecoterrorist organization connects directly to the campaign's land destruction and volcanism themes; Pax's "wounded living world" vision dovetails with the geological and volcanic mythology of the setting.
-- His belief that civilization is on probation will put him in direct conflict with the wizard's operation once it is understood.
-- The Compost Staff and the green-gold glow are recurring visuals that distinguish him at the table and in any scene description.
+*(DM notes and campaign connections moved to [`pax-dm-notes.md`](pax-dm-notes.md).)*

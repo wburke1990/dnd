@@ -1,5 +1,5 @@
 # Session 10 — Paid for the Names; Pax's Four-Day Vision
-## Working log — still being dictated; more to come
+## The names paid to Mul; Pax tells Jogo his four-day vision
 
 > Live table notes, still being recorded. Picks up after
 > [Session 9](session-09.md), which closed at the coffeehouse with **V.**
@@ -19,10 +19,18 @@
 
 ## Pax's four-day vision
 
-- Talking with **Jogo**, **Pax** told a story about a four-day vision. He
-  tripped on mushrooms and stayed under for four days, until one of his
-  brothers woke him — he had been having an epileptic seizure.
-- **To fill in:** Andrew to add the details. Recording the rest when he replies.
+- Talking with **Jogo**, **Pax** told the full story of his four-day vision.
+  Andrew's written account is on [Pax's sheet](../characters/pax.md) under
+  *The Four-Day Vision* — kept verbatim.
+- The short of it: an old elm told Pax to dig between its roots for a gift; he
+  found a single pale mushroom and ate it against **Brother Reedhand's**
+  warning. Reedhand watched over him through four days of seizures. Pax
+  remembers falling upward, standing among the stars, seeing the world strung
+  with threads of light, being called by a name he can't remember by something
+  vast that had known him before his birth, then falling back down through the
+  roots.
+- DM ties (the stars, the names theme, the network he saw beneath the roots)
+  are in [`pax-dm-notes.md`](../characters/pax-dm-notes.md).
 
 ---
 
@@ -30,4 +38,3 @@
 
 - Who **Jogo** is, and how Pax came to be talking with him — new NPC, not yet
   in the files.
-- The rest of Pax's four-day vision (player to supply).
