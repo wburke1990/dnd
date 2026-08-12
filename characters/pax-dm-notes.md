@@ -33,12 +33,37 @@ Jogo. What it hands us:
 
 Ties to what's already on the table:
 
-- **Names.** Mul delivered his line — "a name is only a name, until someone says it aloud, in the right room, in the right order; then it is a key" — the same session Pax described being named by something enormous and then losing the name. The sheet already lists a **True name: Auralith Vael'Tharos**; whether the forgotten star-name is that name or another is open.
-- **The stars.** The Dream Quest (S8–S9) sailed the party up a river of stars. Pax's vision puts him among stars too. Sam connected the two at the table.
-- **The threads, above and below.** The threads of light and the thing beneath the roots repeat the imagery of Pax's earlier Green Revelation (the roots, the beetles, the river under the mountain, the living world) at a larger scale.
+- **It is his two lineages, shown in one crossing.** Per
+  [lineages & afterlives](../lore/lineages-and-afterlives.md) §6, Pax is the
+  child of a Celestial and a nameless earth-person — half true-named (a name, a
+  heaven, the pole above), half nameless (dissolves into the land, unowned). His
+  vision runs both roads: he rose to the star/celestial side and was named, then
+  fell back down through the roots into the network and the common stock — the
+  earth side. At death he chooses which claims him; the vision is him having
+  already seen both ends.
+- **The celestial half receives dreams as address.** §11 already says it: on his
+  celestial nights "something speaks to him, and he wakes instructed," and he
+  chalks it up to the Green Revelation. The four-day vision is that same crossing
+  at full depth — the mushroom carried him all the way over, the way
+  *Dream of the Blue Veil* does. Andrew wrote the deep version of a dream Pax has
+  been having his whole life.
+- **Who named him (settled with Will).** A Celestial of his home heaven. The
+  Verdant Fist sits in **northwestern Musleheim** (Norse register), so the namer
+  is that region's sky-power — his celestial parent's side. It holds his true
+  name, so he can be claimed or called. That makes "chosen" literal, and keeps
+  "or just delusional?" alive, because the earth half still hears the ground.
+- **Names.** Mul's "a name… is a key" line landed the same session Pax described
+  being named and then losing the name. The sheet lists a **True name: Auralith
+  Vael'Tharos**; whether the forgotten star-name is that or the Celestial's name
+  for him is open.
 
 Open:
 
-- What named Pax, and whether it is the power behind the Green Revelation or something else.
-- Whether the forgotten name is Auralith Vael'Tharos or a name he has never been told.
-- Whether any of it is real, per the standing rule that his three readings stay unresolved.
+- Which Celestial, and its name — a Norse-register sky-power to coin.
+- Pax's earth parent's people: giant-kin / earth-nameless of the Musleheim
+  mountains (keeps him local), or an emigrant Firbolg (the Firbolg homeland is
+  the southern land, §5).
+- Whether the forgotten name is Auralith Vael'Tharos or the Celestial's name
+  for him.
+- Whether any of it is real, per the standing rule that his three readings stay
+  unresolved.
