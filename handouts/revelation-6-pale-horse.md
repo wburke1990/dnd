@@ -15,3 +15,14 @@ And I looked, and behold a pale horse:
 And his name that sat on him was Death
 And Hell followed with him
 ```
+
+---
+
+**DM notes.** `[reference]`
+
+*Translation.* King James, not a modern version. The archaic register suits an ancient scroll, and its **"four beasts"** — where modern translations read "living creatures" — lands in this cosmology, where the beasts are the comet-gods.
+
+*The longer version (for the party to find later).* The scroll above cuts straight from the white horse to the pale one. The fuller Revelation 6 restores the two middle riders, KJV:
+
+- **Red horse — war:** "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
+- **Black horse — famine:** "And lo a black horse; and he that sat on him had a pair of balances in his hand. […] A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine."
