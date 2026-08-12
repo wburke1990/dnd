@@ -77,7 +77,7 @@ he spends his words *fishing*.
 
 **"What does he actually want the names for?"** *(the central evasion — bound, self-interested, never the whole truth)*
 - "For his studies. He collects the old dead — kings, gods, whatever the sand kept. It is very dull. You have done the interesting part; the rest is a man at a desk."
-- *(if they push)* "A name is only a name — until someone says it aloud, in the right room, in the right order. Then it is a door." *(a thin smile)* "He likes doors. ...Mind the step."
+- *(if they push)* "A name is only a name — until someone says it aloud, in the right room, in the right order. Then it is a key." *(a thin smile)* "He likes doors. ...Mind the step."
 - *(if they push harder)* "You are asking above my station. I carry, I do not ask. I stopped asking a very long time ago." *(and there — for one line — the nasal warmth is just gone)* "It is better. Truly. Not asking is better."
 
 **"There was a man who died in the tombs — well-dressed, two guards, a year ago."** *(the lepers' story, Tomb 1)*
