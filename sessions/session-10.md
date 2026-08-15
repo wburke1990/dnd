@@ -73,6 +73,10 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   them for not taking an interest in the lives of the downtrodden.** The **only known
   treatment is bandages and dry desert air**, which is **why the lepers live at the
   tombs.**
+- **He won't hire them — but he wants a taste.** They offered to find the tomato for him;
+  he declined — he **can't serve it**, and **there's nothing they can offer that he can't
+  buy at the docks.** He **does want to taste it** (every other Company product is
+  delicious) and **laments he's not a younger man**, free to travel and explore.
 - **DM note — the tombs tie.** The party have **already been to those tombs** (Valley of
   the Kings, S2–S5) and **met the lepers there** (the lepers' story, Tomb 1); **Jogo
   doesn't know that.** The new hook loops straight back onto ground they've walked — the
