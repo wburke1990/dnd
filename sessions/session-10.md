@@ -59,6 +59,17 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   *"Don't even get me started about the company. It makes me cry thinking about those
   plantations, but the coffee is so good I can't stop."* This is the conversation
   **Pax's four-day vision** came out of (below).
+- **Jogo on the Company.** Blackacre asked him — *"What do you know about the company?
+  Is it like the sugar cane plantations?"* — and Jogo reeled off its crops: **coffee
+  plantations in Jasper's home town**, **sugar cane elsewhere**, and the **legendary
+  tomatoes of leprosy from [Copaa](../lore/copaa.md).**
+- **DM note — Jogo's rundown, two threads.** **Jasper's home town is a Company
+  coffee-plantation town** — the Company now touches a third PC (Sarric's Eet, and now
+  Jasper), though Jasper's origin otherwise stays open
+  ([lineages §7](../lore/lineages-and-afterlives.md)); worth a line in
+  [jasper-dm-notes](../characters/jasper-dm-notes.md) if kept. The **"tomatoes of
+  leprosy" from Copaa** is a local legend to develop (Copaa's fouled river and lepers —
+  [Copaa](../lore/copaa.md)).
 - **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
   The thousand-year hunt is the First-vs-[Second
   Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
@@ -110,9 +121,10 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 
 ## [OPEN]
 
-- **Jogo** — a coffeehouse patron at the merc hall, met over the Company coffee after
-  V. left (how the Pax conversation started). `[OPEN]` whether he's a bit part or
-  recurs, and whether he's a patron or the keeper (cf. the keeper thread in the
+- **Jogo** — a chatty coffeehouse local at the merc hall, met over the Company coffee
+  after V. left; he reeled off the Company's crops (coffee in Jasper's home town, sugar,
+  the Copaa leprosy tomatoes) — a useful gossip/info-source. `[OPEN]` whether he recurs,
+  and whether he's a patron or the keeper (cf. the keeper thread in the
   [V. prep](../encounters/v-second-contact.md)).
 - **V.'s coffeehouse loose ends:** did she leave with the atlas, and what were the
   per-PC offer notes and pay? (The deal itself: **accepted** — see above.)
