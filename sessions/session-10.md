@@ -65,13 +65,26 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   tomatoes of leprosy from [Copaa](../lore/copaa.md).**
 - **The party latched onto the leprosy tomatoes.** They couldn't stop asking questions
   about them — a live hook now, more than the coffee or the sugar.
+- **Jogo's reveal — the leprosy tomato.** Under a barrage of questions Jogo explained
+  he's a **restaurateur** (his place, **Zarta**) who buys the finest foods off the ships
+  that dock in Maalm. He's heard tale of **a tomato the Company makes that gives leprosy
+  to whoever eats it**, and the **only known source is [Copaa](../lore/copaa.md) — where
+  the lepers come from.** The party: *"The lepers come from Copaa?"* — and Jogo **teased
+  them for not taking an interest in the lives of the downtrodden.** The **only known
+  treatment is bandages and dry desert air**, which is **why the lepers live at the
+  tombs.**
+- **DM note — the tombs tie.** The party have **already been to those tombs** (Valley of
+  the Kings, S2–S5) and **met the lepers there** (the lepers' story, Tomb 1); **Jogo
+  doesn't know that.** The new hook loops straight back onto ground they've walked — the
+  tomb lepers are Copaa leprosy-tomato victims taking the dry-air cure.
 - **DM note — Jogo's rundown, two threads.** **Jasper's home town is a Company
   coffee-plantation town** — the Company now touches a third PC (Sarric's Eet, and now
   Jasper), though Jasper's origin otherwise stays open
   ([lineages §7](../lore/lineages-and-afterlives.md)); worth a line in
   [jasper-dm-notes](../characters/jasper-dm-notes.md) if kept. The **"tomatoes of
-  leprosy" from Copaa** are now a **live hook the players are chasing** — Copaa's fouled
-  river and its lepers give it a home ([Copaa](../lore/copaa.md)); it needs an answer.
+  leprosy" from Copaa** — Jogo answered under questioning (above): a Company-made tomato
+  that gives leprosy, its only source Copaa, home of the lepers. Worth canonizing into
+  [Copaa](../lore/copaa.md).
 - **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
   The thousand-year hunt is the First-vs-[Second
   Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
@@ -123,10 +136,9 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 
 ## [OPEN]
 
-- **Jogo** — a chatty coffeehouse local at the merc hall, met over the Company coffee
-  after V. left; he reeled off the Company's crops (coffee in Jasper's home town, sugar,
-  the Copaa leprosy tomatoes) — a useful gossip/info-source. `[OPEN]` whether he recurs,
-  and whether he's a patron or the keeper (cf. the keeper thread in the
-  [V. prep](../encounters/v-second-contact.md)).
+- **Jogo** — a Maalm **restaurateur** (his place, **Zarta**) who buys the finest foods
+  off the docking ships; met at the coffeehouse after V. left, a chatty Company
+  gossip/info-source (coffee in Jasper's home town, sugar, the Copaa leprosy tomatoes).
+  `[OPEN]` whether he recurs; confirm **Zarta** is the restaurant's name (assumed).
 - **V.'s coffeehouse loose ends:** did she leave with the atlas, and what were the
   per-PC offer notes and pay? (The deal itself: **accepted** — see above.)
