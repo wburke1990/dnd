@@ -167,7 +167,7 @@ person present whose soul is kept after death.
   nature. To you alone is the gift of eternal salvation granted. Live well and our
   fathers will paint your deeds across the skies. You and I will meet in the halls of
   our ancestors, but only if you live like a mighty dragon. Fly free of this world
-  and live like a mighty dragon."*
+  and fulfil your destiny."*
 - If Blackacre takes Sarric's side: *"Do not mourn him. He does not mourn himself.
   Ask him."* — and Sarric can confirm it. His people know what they are and raise
   children expecting it
@@ -179,9 +179,9 @@ person present whose soul is kept after death.
   Musa is a man on his way to do it. Run it as a challenge for Sam to answer, not a
   fact about the character.
 - Pressed on that, he goes to his prophecies rather than argue:
-  - *"Perhaps you shall slay the beast that rises in the eastern desert to eat the
+  - *"Perhaps you shall slay the beast that rises in the western desert to eat the
     hearts of the damned."* — [Ammit, in the deep tunnels under
-    Maalm](../lore/maalm-the-elven-stronghold.md).
+    Maalm](../lore/maalm-the-elven-stronghold.md), west of Haals.
   - *"Perhaps you shall meet the pale horse at her coming with sword in
     hand."* — [the Pale Horse](../handouts/revelation-6-pale-horse.md), the vision
     cut into his own massebah, and the campaign's endgame.
