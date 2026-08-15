@@ -34,11 +34,22 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 - **They took the deal.** Sarric whispered to Pax and Jasper — *"Fuck everybody,
   let's do it"* — and they agreed to be V.'s double agents. After she left they
   **talked like they weren't sure**, but **V. left believing they accepted.**
-- **DM note — the triple-agent pivot.** Per the prep, **Batrick** (Jasper's psychic
-  bat, secretly Preem's quasit spy) rides Jasper's shoulder through the offer, so
-  **Preem hears the acceptance** and lets V. run anyway — her double agents become
-  his triple agents ([V. prep](../encounters/v-second-contact.md),
-  [Preem](../characters/preem.md)). Confirm Batrick was on-scene.
+- **"Who are we working for?" Pax asked about her organization.** V. **couldn't tell
+  them much**: her order has been **hunted by Preem's people for as long as they have
+  records — maybe a thousand years**, and she has had chances to kill the party and
+  didn't, because her order **has a code.** Jasper: *"Is there a creed?"* — *"Yes,
+  there is a creed."* Blackacre: *"What does it say?"* — *"Do a few missions for me
+  and gain my trust and I will initiate you into my order. You will learn more then."*
+- **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
+  The thousand-year hunt is the First-vs-[Second
+  Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
+  She didn't name it: the initiation is the gate, and the creed stays withheld until
+  they've earned it.
+- **DM note — Batrick, pivot pending.** **Batrick** (Jasper's psychic bat, secretly
+  Preem's quasit spy) **was there** and saw it all — but **had no time to report
+  before the party's coming visit to Preem.** So Preem doesn't know yet; the report,
+  and the double-into-triple-agent turn, land **when they see Preem**
+  ([V. prep](../encounters/v-second-contact.md), [Preem](../characters/preem.md)).
 - **Still open:** whether she lifted the party's atlas, and the per-PC offer notes
   and pay.
 

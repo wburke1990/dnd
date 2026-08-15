@@ -435,6 +435,15 @@ ended. What landed at the table:
   the cup arguing the case, as prepped, and pointed at Sarric.
 - **Outcome — they accepted.** Sarric whispered to Pax and Jasper *"fuck everybody,
   let's do it"*; the party agreed to be her double agents, wavered privately after she
-  left, and **V. left believing they'd accepted.** Per the Batrick note above, Preem
-  hears it — the double-into-triple-agent pivot is now live.
+  left, and **V. left believing they'd accepted.**
+- **The order, as she gave it.** Asked who they'd be working for, V. said little: her
+  order has been **hunted by Preem's people for maybe a thousand years** (the First-vs-
+  [Second Foundation](../lore/the-second-foundation.md) war — she didn't name it), and
+  she spared the party because the order **has a code.** There **is a creed**, withheld:
+  *"do a few missions, gain my trust, and I will initiate you into my order — you will
+  learn more then."* The order is the **[First Foundation](../lore/the-first-foundation.md)**,
+  entered by initiation once they prove out.
+- **Batrick — pivot pending.** Batrick was on Jasper's shoulder and saw it all, but **had
+  no time to report before the party's coming visit to Preem.** The report, and the
+  double-into-triple-agent turn, land at that visit — not here.
 - `[OPEN]` still not recorded: the **atlas lift** and the **per-PC offer notes and pay**.
