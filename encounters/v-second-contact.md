@@ -424,6 +424,10 @@ ended. What landed at the table:
 
 - She dropped invisibility **over Sarric's coffee**, admonished them for the mill, and
   asked **"have you ever considered switching sides?"** — the recruit pitch.
+- She named **the code as the condition of hire** (as prepped): to work for her they
+  must **stop the mutilations** (chopping parts off people) and **stop becoming local
+  celebrities** — a spy leaves no trail, and their notoriety is what gets an agent
+  caught.
 - Asked about Preem, she gave a duration: **three years** spying on him, cover now blown
   by the party's run-ins with her.
 - She named **Preem's controlling interest in the "Eet Suartleheim company"** (the

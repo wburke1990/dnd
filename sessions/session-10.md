@@ -17,6 +17,10 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   invisibility — the reveal landed on the one who bested her at the mill.
 - She **admonished them for the mill** (their violent first meeting, S7) and asked:
   **"Have you ever considered switching sides?"**
+- **The deal has a condition.** To act as her double agents they'd have to **stop
+  chopping parts off people** (Jasper's fingers off Ratatat, Sarric's maiming) and
+  **stop becoming local celebrities.** A spy survives by leaving no trail; their
+  loud, notorious work is what gets an agent caught — and what blew her.
 - They **asked about Preem.** She's **spied on him for three years**; the party's
   loud run-ins with her have now **blown her cover**, and she's leaving.
 - **Preem's organization holds a controlling interest in the Eet Suartleheim
