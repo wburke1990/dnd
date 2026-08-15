@@ -140,6 +140,55 @@ dragon, the ash and the elm, the first man and the first woman.
 
 ---
 
+## Where else the foreshadowing goes
+
+The seven above are encounters to build. These are places already in the world where
+blood and trees can be put in front of the party at no cost.
+
+- **The warforged who became a grove** `[Will 8/15]` — the first statement of the rule,
+  and it comes from something that chose to become a tree. Verbatim, as written:
+  *"Trees live a long time, perhaps forever if you consecrate them with blood. Bring me
+  a sip and I will tell you more, I am thirsty."* It states the rule and asks to be
+  paid for the rest of it. See [great-tree sites](great-tree-sites.md).
+- **Brauron's temple wall** — already written into
+  [the peach town](the-peach-town.md): *a young man is gored by a boar and mourned, and
+  a tree grows where his blood falls.* Painted on the wall of the temple of Artemis,
+  where the party is standing anyway. Read it aloud.
+- **The hell-tree** — a tree kept in power by the deaths around it, and a cult that
+  runs the killing every season without going near it
+  ([the hell-tree](the-hell-tree.md), [the game preserve](the-game-preserve.md)).
+- **Mímir's well** — a head in the water under the world-tree that names its price
+  before it will speak, and takes an eye, a memory, or a year off the end of a life
+  ([temple sites](temple-sites.md)). The same trade the warforged ask for.
+- **The Iliad battles** — read Homer over the kills. The ground flowing with blood, and
+  men going down the way felled trees do, in
+  [the Iliad, blood on the ground](../handouts/iliad-blood-on-the-ground.md).
+- **Jasper** — Doug is the one at the table who can read the book, and Jasper is the
+  one the hell-tree's poison strengthens instead of changing
+  ([Jasper — DM notes](../characters/jasper-dm-notes.md)). The Latin thread has a
+  reader in the party already.
+
+---
+
+## Where it starts
+
+`[Will 8/15]` The conflict is ~1,900 years old and it begins on Musleheim. The
+dragonborn zealots left the Muspel empire on foot, came up through the forests of the
+northwest to reach the demon-tunnels, and took two of the forest's dead as cuttings on
+the way past ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §4–5). Then they walked
+under the sea and massacred the Maalm colonists on the caldera and called it a
+reconsecration.
+
+So one march did all of it: the theft from Pax's mother's people, the blood the two
+trees were consecrated with, and the human–dragonborn rupture that opened the Time of
+Troubles. The endgame is the same people doing it again — the zealot fleet sailing for
+Moku ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6).
+
+`[OPEN]` whether the forest-nameless know they were robbed, and whether a people with
+no names and no records can hold a grievance for 1,900 years at all.
+
+---
+
 ## `[OPEN]`
 
 - **Who teaches him the rite.** Everything above is his father's church — the book, the
@@ -148,7 +197,7 @@ dragon, the ash and the elm, the first man and the first woman.
   the two trees the ending his mother's people would give them. Whether that is the
   point, or whether the forest has a wordless version of its own, is the decision the
   rest of this depends on.
-- Which rungs sit before the hell-tree and which after.
+- Which of the seven sit before the hell-tree and which after.
 - Whether the zealots' book (stage: the pontifical) comes out of Kuru, the false-relic
   town, or Jotunheim itself.
 - Level and placement for each.

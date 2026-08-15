@@ -171,9 +171,10 @@ Pax opens his own arm at the roots. It costs him, and it does not make the trees
 [Mímir's well](temple-sites.md) model — the price is named first and the thing will
 not speak until it is paid — applies here.
 
-### 7. The name struck, and no other laid on
+### 7. The name struck, and no other laid on `[settled — Will]`
 
-A name could be struck from the list read at the altar, and nothing put in its place.
+**The trees end nameless.** A name could be struck from the list read at the altar,
+and nothing put in its place.
 
 > *Deleatur nomen, nec aliud imponatur.*
 
@@ -182,7 +183,8 @@ they were and what their people are: part of the common stock, no one's. They go
 into the land and are not held by anyone. Pax gives them no name.
 
 If he names them, he has done what the zealots did, and the rite has only moved them
-from the zealots to him. Andrew should be allowed to do it. See the `[OPEN]` below.
+from the zealots to him. Andrew should be allowed to do it at the table — the ending
+is settled as what the rite is for, not as what he is made to choose.
 
 ---
 
@@ -212,10 +214,9 @@ whether the cult of Artemis or the Megabyzoi will explain any of it.
 
 ## `[OPEN]`
 
-- **Nameless or newly named at the end.** Struck-and-left-nameless is the version
-  written above, and the one that fits the campaign's names-and-ownership thesis. The
-  alternative — Pax gives them true names out of the forest — makes him their owner,
-  which is a real option. **Andrew's call at the table.**
+- ~~Nameless or newly named at the end.~~ `[settled — Will]` **Nameless.** The names
+  are struck and nothing is laid on in their place. Andrew can still name them at the
+  table; the rite is written for the other ending.
 - Whether the ash and the elm answer differently at stage 3.
 - What the zealots do while it happens, and whether the rite has to be finished in
   one night.

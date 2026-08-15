@@ -9,6 +9,10 @@
 > sacrifices given at length. No detail yet — a frame to build out.
 > From the **7/14 brainstorm**. Legend: `[settled]` · `[loose]` ·
 > `[OPEN]` · 🔒 secret.
+>
+> **Lines to read over the kills:**
+> [the Iliad, blood on the ground](../handouts/iliad-blood-on-the-ground.md) — Homer's
+> own, in Murray's translation.
 
 ---
 

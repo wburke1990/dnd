@@ -70,3 +70,15 @@ becoming a grove. A chosen-transformation thread, the redemptive counterweight t
 the transformations done *to* people (the Order, the bound demons). On hold until
 Greg is back (it runs through Aniess, the Order, and Shepard). See
 [Kuru & the phoenix](../lore/kuru-and-the-phoenix.md).
+
+**They state the rule, and ask to be paid for it.** `[Will 8/15]` This is the first
+place blood consecration is said out loud, and it comes from something that chose to
+become a tree. Verbatim, to be said as written:
+
+> *"Trees live a long time, perhaps forever if you consecrate them with blood. Bring
+> me a sip and I will tell you more, I am thirsty."*
+
+The party is told the rule and immediately asked for blood in exchange for the rest of
+it. Same shape as [Mímir's well](temple-sites.md), which names its price before it
+speaks. See [encounters before the Jotunheim rite](before-jotunheim.md) and
+[the rite at the Jotunheim trees](jotunheim-trees-rite.md).
