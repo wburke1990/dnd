@@ -299,11 +299,22 @@ is descended from the giant; Pax is off the brother line.
   [Bad Pass](../lore/world-history-timeline.md) mutations, a thousand years old.
 - To [Aniess](../characters/aniess.md): *"You are not what you were born. Nor will
   anything be, at the end."*
-- To [Blackacre](../characters/blackacre.md): *"You were cut out of what I made and
-  given a name to be held by."* The
+- To [Blackacre](../characters/blackacre.md): *"You have a name. I have never had one.
+  Neither of us was asked."* If he presses: *"You will be judged in the sky. I will
+  not. Both of us end."* The
   [transformation that made the dragon people](../lore/lineages-and-afterlives.md)
   out of earth stock gave them names that hold, which is what
-  [Preem](../characters/preem.md) trades in. The giant watched it happen.
+  [Preem](../characters/preem.md) trades in. The giant watched it happen and does not
+  rank the two afterlives. Musa, one level up, ranks them absolutely.
+
+### He does not blame anyone
+
+**He sees the doing and the seeing as one thing**, so no one in the mountain is at
+fault for anything — not the gnomes who killed his kin, not the Company cutting up
+the mountain now. He is not angry and not aggrieved, and he is not forgiving either;
+none of the three apply. When the party brings him an accusation he treats it as a
+question about facts and answers with facts. Play him with no reproach in the voice,
+and no approval either.
 
 ### What it will and will not answer
 
@@ -331,13 +342,13 @@ is descended from the giant; Pax is off the brother line.
   him."*
 - *"The dragonborn who dipt into the future dipt into me. The land he promised your
   enemies, I showed him. The stone over the harbour at Aar wears my eye."*
-- Accused of arming the conquest of its own kin: *"I showed him what is there. He did
-  the rest."*
+- Accused of arming the conquest of its own kin: *"I showed him what is there. What he
+  did with it, I had already seen him do."*
 - Pressed harder — his kin were killed for it: *"They came back to me. They are
   here."* The [earth-nameless return to the earth](../lore/lineages-and-afterlives.md);
   the Firbolg dead are in the stone the party is standing in.
-- On the Company: *"The mountains are my brothers lying down. Men are carrying them
-  away in baskets."*
+- On the Company: *"They are carrying the mountain away. In time I will carry them
+  away. I do not weigh the two."*
 - To Sarric, on the same: *"Your dead are in this stone. So are the ones not yet
   born. It is the same stone."* The mountain is
   [the stock new Firbolgs are drawn from](../lore/lineages-and-afterlives.md).
