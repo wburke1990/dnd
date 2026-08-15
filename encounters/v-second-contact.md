@@ -457,6 +457,7 @@ ended. What landed at the table:
   **Sarric a sending stone** (the contact channel), and said **she can wait** — then
   slipped the **50 pp into the money bag unnoticed.** Her code: she pays whether or not
   they commit (as prepped).
+- **Her exit:** she winks at Blackacre as she leaves.
 - `[OPEN]` the deferred **map exchange** and whether she'd already lifted the atlas or
   waits for the handover; and the full **per-PC offer/pay** beyond the "what is Preem
   up to" brief.

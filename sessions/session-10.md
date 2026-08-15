@@ -50,6 +50,7 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   giving up the map, close to backing out — and she cut in that **she can wait for their
   answer.** What they don't know: **the money bag she handed them already holds the
   50 pp for the map.**
+- **She winks at Blackacre on her way out.**
 - **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
   The thousand-year hunt is the First-vs-[Second
   Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
