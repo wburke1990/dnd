@@ -414,3 +414,20 @@ delivery** and the 50-pp map is the one windfall on the table. Numbers to tune:
 
 *(Two things V. doesn't know yet — the name quest and the demon army — see Background:
 "What V. doesn't know yet." Don't let her name either.)*
+
+---
+
+# AS PLAYED (S10)
+
+Run at the top of [Session 10](../sessions/session-10.md), the coffeehouse where S9
+ended. What landed at the table:
+
+- She dropped invisibility **over Sarric's coffee**, admonished them for the mill, and
+  asked **"have you ever considered switching sides?"** — the recruit pitch.
+- Asked about Preem, she gave a duration: **three years** spying on him, cover now blown
+  by the party's run-ins with her.
+- She named **Preem's controlling interest in the "Eet Suartleheim company"** (the
+  [Company](../lore/the-company.md)) and that **the coffee is not ethically sourced** —
+  the cup arguing the case, as prepped, and pointed at Sarric.
+- `[OPEN]` not yet recorded from the table: the **atlas lift**, the **per-PC offer notes
+  and pay**, and whether the party **took the deal**.

@@ -1,13 +1,34 @@
-# Session 10 — Paid for the Names; Pax's Four-Day Vision
-## The names paid to Mul; Pax tells Jogo his four-day vision
+# Session 10 — V.'s Offer, the Names Paid, and Pax's Vision
+## The coffeehouse with V.; the names paid to Mul; Pax tells Jogo his four-day vision
 
-> Live table notes, still being recorded. Picks up after
-> [Session 9](session-09.md), which closed at the coffeehouse with **V.**
-> revealing she has the maps.
+> Live table notes, still being recorded. Opens at the coffeehouse where
+> [Session 9](session-09.md) ended — **V.** at the table.
 
 ---
 
 # WHAT HAPPENED
+
+## The coffeehouse — V.'s second contact
+
+Opens where [Session 9](session-09.md) ended: **V.** at the table, having tailed
+them in invisible ([her prep](../encounters/v-second-contact.md)).
+
+- She **got the drop on them** and **sipped Sarric's coffee** as she dropped
+  invisibility — the reveal landed on the one who bested her at the mill.
+- She **admonished them for the mill** (their violent first meeting, S7) and asked:
+  **"Have you ever considered switching sides?"**
+- They **asked about Preem.** She's **spied on him for three years**; the party's
+  loud run-ins with her have now **blown her cover**, and she's leaving.
+- **Preem's organization holds a controlling interest in the Eet Suartleheim
+  company** — the [Company](../lore/the-company.md) — and **the coffee in their cups
+  is not ethically sourced.**
+- **DM note:** the company she named is the Company (Preem's money, the Second
+  Foundation's). Its coffee is slave-grown, and it strips
+  [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) — **Sarric's people's
+  homeland** — so V. sipping *Sarric's* cup and naming that company points the
+  Company's crimes straight at him.
+- **Still to come:** whether she lifted the party's atlas, her per-PC offers, and
+  whether the party took the switch-sides deal.
 
 ## The names, delivered — Mul at the tower
 
@@ -38,3 +59,5 @@
 
 - Who **Jogo** is, and how Pax came to be talking with him — new NPC, not yet
   in the files.
+- **V.'s coffeehouse outcome:** did she leave with the atlas, what were the per-PC
+  offers, and did the party take the switch-sides / double-agent deal?
