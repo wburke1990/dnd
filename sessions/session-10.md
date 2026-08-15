@@ -40,6 +40,9 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   didn't, because her order **has a code.** Jasper: *"Is there a creed?"* — *"Yes,
   there is a creed."* Blackacre: *"What does it say?"* — *"Do a few missions for me
   and gain my trust and I will initiate you into my order. You will learn more then."*
+- **What is Preem up to? Pax pressed on why he wants the names.** V. **said she
+  doesn't know**, and pointed them to the **written offers in Jasper's pocket**, which
+  include a paid job: **find out what Preem is up to.**
 - **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
   The thousand-year hunt is the First-vs-[Second
   Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
@@ -50,8 +53,14 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   before the party's coming visit to Preem.** So Preem doesn't know yet; the report,
   and the double-into-triple-agent turn, land **when they see Preem**
   ([V. prep](../encounters/v-second-contact.md), [Preem](../characters/preem.md)).
-- **Still open:** whether she lifted the party's atlas, and the per-PC offer notes
-  and pay.
+- **DM note.** Played as prepped: V. genuinely doesn't know about the name quest or
+  the demon army — her standing brief pays the party to discover Preem's aims, so
+  they'd be paid by the First Foundation to report the very work they do for Preem.
+  (Prep planted the offer notes on **Aniess and Pax**; played as **Jasper's pocket** —
+  reconcile who holds them.)
+- **Still open:** whether she lifted the party's atlas; the **offer notes are in play**
+  (Jasper's pocket, including the "find out what Preem's up to" job), but the full
+  per-PC breakdown and pay aren't recorded.
 
 ## The names, delivered — Mul at the tower
 

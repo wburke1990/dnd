@@ -443,7 +443,13 @@ ended. What landed at the table:
   *"do a few missions, gain my trust, and I will initiate you into my order — you will
   learn more then."* The order is the **[First Foundation](../lore/the-first-foundation.md)**,
   entered by initiation once they prove out.
+- **Preem's aims — she doesn't know.** Pax asked what Preem wants the names for; V.
+  **said she doesn't know**, and pointed to the **written offers** (played as Jasper's
+  pocket; prep planted on Aniess and Pax), which carry the **standing brief — find out
+  what Preem is building toward.** Played exactly as designed: she can't name the name
+  quest or the demon army, because she doesn't know them.
 - **Batrick — pivot pending.** Batrick was on Jasper's shoulder and saw it all, but **had
   no time to report before the party's coming visit to Preem.** The report, and the
   double-into-triple-agent turn, land at that visit — not here.
-- `[OPEN]` still not recorded: the **atlas lift** and the **per-PC offer notes and pay**.
+- `[OPEN]` still not recorded: the **atlas lift**, and the full **per-PC offer notes and
+  pay** (the "what is Preem up to" brief is confirmed in play; the rest is not).
