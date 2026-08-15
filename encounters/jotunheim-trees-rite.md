@@ -9,7 +9,9 @@
 > [lineages & afterlives](../lore/lineages-and-afterlives.md) §5–6, §11 (the
 > forest-nameless and what the nameless remember),
 > [Pax — DM notes](../characters/pax-dm-notes.md) (his tie into Jotunheim),
-> [the hell-tree](the-hell-tree.md) (a working consecration).
+> [the hell-tree](the-hell-tree.md) (a working consecration), and
+> [encounters before the Jotunheim rite](before-jotunheim.md) (the run-up — where the
+> trees are foreshadowed and each stage below is taught).
 
 ---
 
