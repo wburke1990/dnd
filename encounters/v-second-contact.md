@@ -433,5 +433,8 @@ ended. What landed at the table:
 - She named **Preem's controlling interest in the "Eet Suartleheim company"** (the
   [Company](../lore/the-company.md)) and that **the coffee is not ethically sourced** —
   the cup arguing the case, as prepped, and pointed at Sarric.
-- `[OPEN]` not yet recorded from the table: the **atlas lift**, the **per-PC offer notes
-  and pay**, and whether the party **took the deal**.
+- **Outcome — they accepted.** Sarric whispered to Pax and Jasper *"fuck everybody,
+  let's do it"*; the party agreed to be her double agents, wavered privately after she
+  left, and **V. left believing they'd accepted.** Per the Batrick note above, Preem
+  hears it — the double-into-triple-agent pivot is now live.
+- `[OPEN]` still not recorded: the **atlas lift** and the **per-PC offer notes and pay**.

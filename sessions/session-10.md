@@ -31,8 +31,16 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) — **Sarric's people's
   homeland** — so V. sipping *Sarric's* cup and naming that company points the
   Company's crimes straight at him.
-- **Still to come:** whether she lifted the party's atlas, her per-PC offers, and
-  whether the party took the switch-sides deal.
+- **They took the deal.** Sarric whispered to Pax and Jasper — *"Fuck everybody,
+  let's do it"* — and they agreed to be V.'s double agents. After she left they
+  **talked like they weren't sure**, but **V. left believing they accepted.**
+- **DM note — the triple-agent pivot.** Per the prep, **Batrick** (Jasper's psychic
+  bat, secretly Preem's quasit spy) rides Jasper's shoulder through the offer, so
+  **Preem hears the acceptance** and lets V. run anyway — her double agents become
+  his triple agents ([V. prep](../encounters/v-second-contact.md),
+  [Preem](../characters/preem.md)). Confirm Batrick was on-scene.
+- **Still open:** whether she lifted the party's atlas, and the per-PC offer notes
+  and pay.
 
 ## The names, delivered — Mul at the tower
 
@@ -63,5 +71,5 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 
 - Who **Jogo** is, and how Pax came to be talking with him — new NPC, not yet
   in the files.
-- **V.'s coffeehouse outcome:** did she leave with the atlas, what were the per-PC
-  offers, and did the party take the switch-sides / double-agent deal?
+- **V.'s coffeehouse loose ends:** did she leave with the atlas, and what were the
+  per-PC offer notes and pay? (The deal itself: **accepted** — see above.)
