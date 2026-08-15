@@ -43,6 +43,13 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 - **What is Preem up to? Pax pressed on why he wants the names.** V. **said she
   doesn't know**, and pointed them to the **written offers in Jasper's pocket**, which
   include a paid job: **find out what Preem is up to.**
+- **The map — 50 pp, and a sending stone.** They circled back to her opening offer and
+  first said **yes** to selling Preem's atlas for **50 pp.** She told them **replacing
+  the map is their problem**, that she'd **set the exchange up later**, and gave
+  **Sarric a sending stone** to reach her. Then they **wavered** — suddenly unsure about
+  giving up the map, close to backing out — and she cut in that **she can wait for their
+  answer.** What they don't know: **the money bag she handed them already holds the
+  50 pp for the map.**
 - **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
   The thousand-year hunt is the First-vs-[Second
   Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
@@ -58,9 +65,14 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   they'd be paid by the First Foundation to report the very work they do for Preem.
   (Prep planted the offer notes on **Aniess and Pax**; played as **Jasper's pocket** —
   reconcile who holds them.)
-- **Still open:** whether she lifted the party's atlas; the **offer notes are in play**
-  (Jasper's pocket, including the "find out what Preem's up to" job), but the full
-  per-PC breakdown and pay aren't recorded.
+- **DM note — the pre-pay is her code.** She's already paid for the map (the 50 pp
+  hidden in the money bag) whether they commit or not — the thief who insists on paying
+  even when she doesn't have to. When they find the extra coin, the map is effectively
+  sold; the deferred exchange and their wavering are theirs to resolve.
+- **Still open:** the deferred **map exchange** — she's pre-paid the 50 pp, the party are
+  wavering, and whether she'd already lifted the atlas or waits for the handover isn't
+  pinned — plus the full **per-PC offer/pay** beyond the confirmed "find out what Preem's
+  up to" brief.
 
 ## The names, delivered — Mul at the tower
 

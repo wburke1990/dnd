@@ -451,5 +451,12 @@ ended. What landed at the table:
 - **Batrick — pivot pending.** Batrick was on Jasper's shoulder and saw it all, but **had
   no time to report before the party's coming visit to Preem.** The report, and the
   double-into-triple-agent turn, land at that visit — not here.
-- `[OPEN]` still not recorded: the **atlas lift**, and the full **per-PC offer notes and
-  pay** (the "what is Preem up to" brief is confirmed in play; the rest is not).
+- **The map — bought, pre-paid, exchange deferred.** She circled back to her opening
+  **50 pp** offer; the party said yes, then wavered close to backing out. She said
+  **replacing the map is their problem**, she'd **set the exchange up later**, gave
+  **Sarric a sending stone** (the contact channel), and said **she can wait** — then
+  slipped the **50 pp into the money bag unnoticed.** Her code: she pays whether or not
+  they commit (as prepped).
+- `[OPEN]` the deferred **map exchange** and whether she'd already lifted the atlas or
+  waits for the handover; and the full **per-PC offer/pay** beyond the "what is Preem
+  up to" brief.
