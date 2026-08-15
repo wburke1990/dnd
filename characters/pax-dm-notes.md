@@ -67,6 +67,8 @@ Ties to what's already on the table:
   the false creation now passes back and forth between trees and zealots. Pax is the
   one forest-nameless still joined to the living forest and its common stock — his tie
   into Jotunheim (Sam's quest); the elm is the tree whose roots gave him the mushroom.
+  The rite he performs there is
+  [the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md).
 - **Names.** Mul's "a name… is a key" line landed the same session Pax described
   being named and then losing the name. The sheet lists a **True name: Auralith
   Vael'Tharos**; whether the forgotten star-name is that or the Celestial's name
