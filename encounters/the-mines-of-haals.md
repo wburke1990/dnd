@@ -192,7 +192,11 @@ person present whose soul is kept after death.
 each of them.
 
 - To [Pax](../characters/pax.md): *"Your father's people are in the sky already. What
-  did they send you down for?"*
+  did they send you down for?"* This and the "eternal hunger" line above are the two
+  halves of what Pax is, said in one conversation — the ground that eats what is given
+  to it, and the sky that keeps a name. Both come back at
+  [the Jotunheim trees](jotunheim-trees-rite.md); see
+  [encounters before the Jotunheim rite](before-jotunheim.md).
 - To [Jasper](../characters/jasper.md): *"I do not know what you are."* Earth genasi
   are [Bad Pass](../lore/world-history-timeline.md) mutations, four thousand years
   after Musa. He has seen nothing like Jasper and says so.

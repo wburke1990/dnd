@@ -150,6 +150,14 @@ blood and trees can be put in front of the party at no cost.
   *"Trees live a long time, perhaps forever if you consecrate them with blood. Bring me
   a sip and I will tell you more, I am thirsty."* It states the rule and asks to be
   paid for the rest of it. See [great-tree sites](great-tree-sites.md).
+- **Musa in the cave** `[Will 8/15]` — already written into
+  [the mines of Haals](the-mines-of-haals.md), and said by a man who holds the whole
+  arrangement in contempt. Of Sarric: *"His fate is to return to the earth and lose his
+  soul and all he ever was to its eternal hunger."* The ground eats what is given to
+  it — the rule the rite runs on, spoken four thousand years before anyone carries a
+  tree across the sea. To Pax in the same conversation: *"Your father's people are in
+  the sky already. What did they send you down for?"* Both halves of what Pax is, out
+  of one mouth, in one scene.
 - **Brauron's temple wall** — already written into
   [the peach town](the-peach-town.md): *a young man is gored by a boar and mourned, and
   a tree grows where his blood falls.* Painted on the wall of the temple of Artemis,
