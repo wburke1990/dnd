@@ -42,11 +42,18 @@
 > the mountains by war, seizing a weakened realm; the Company's conquest draws on **both the Bengal
 > (1770) and Irish (1845) famines;** and the Bad Pass's **mini ice age** (a volcanic winter, the
 > Year Without a Summer) is what sets off the southern wars that send the Mughals north.
-- **A kingdom that fell — the blight from the graves.** `[Will 7/29; refined w/ Will]` The gnome
-  kingdom rose after the conquest and, at its height, broke the **Haals taboo and dug too deep,
-  breaking into the Firbolg graves.** The disturbed dead poisoned the ground: a slow famine, harvests
-  failing over generations, until the kingdom emptied — no battle; the digging starts it and the
-  famine finishes it. (Under the same mountain sleeps **[Balor](../encounters/the-mines-of-haals.md)**,
+- **A kingdom that fell — the blight from the graves.** `[Will 7/29; refined w/ Will; dated 8/15]`
+  The gnome kingdom rose after the conquest and prospered for **ten generations — about a thousand
+  years, ~5,000 → ~4,000 ya**, a gnome generation running about a century. That is the span
+  [Musa's vision covered](../encounters/the-mines-of-haals.md), and it is the whole of the
+  **Dark Age** when the kingdom was alone (below). At the end of it, ~4,000 ya, they broke the
+  **Haals taboo and dug too deep, breaking into the Firbolg graves.** The disturbed dead poisoned
+  the ground: a slow famine, harvests failing over generations, until the kingdom emptied — no
+  battle; the digging starts it and the famine finishes it. From ~4,000 ya the kingdom is a
+  withering neighbour on poisoned ground while
+  [Maalm](maalm-the-elven-stronghold.md) next door grows rich — three thousand years of decline,
+  not a late collapse. By the time the Mughals cross the mountains there is little left to take.
+  (Under the same mountain sleeps **[Balor](../encounters/the-mines-of-haals.md)**,
   a **Fomorian** kin to the Firbolg — the source of the mountain's **time magic**, a separate thing
   from the graves' poison.) Then **~1,000 ya the [Bad Pass](world-history-timeline.md) caused a mini
   ice age** across the world, and its cold set off **wars in the south** that drove the **Mughals**
@@ -102,17 +109,20 @@ people they took it from.
 ## The ancient kingdom's neighbours `[Will 7/29]`
 
 The gnome kingdom was **alone** for its first ~900 years — the Dark Age, no trading partners,
-agriculture only slowly recovering on tired ground. The neighbours below matter from Maalm's
-founding on.
+agriculture only slowly recovering on tired ground. That solitary stretch is also the kingdom's
+whole prosperity: the ten generations Musa was shown, ending in the digging at ~4,000 ya (above).
+The neighbours below meet a kingdom already going down.
 
 - **The wandering dragonborn — the one outside tie.** Their **founder's own people** ([the
   prophet](../handouts/locksley-hall-vision.md) was one), and through the Dark Age the **only sailors
   afloat** — so the lone wandering dragonborn were the gnomes' **single link to the world,** bringing
   goods no one else could. Welcome here as everywhere (see [the traders](wandering-dragonborn.md)).
 - **[Maalm](maalm-the-elven-stronghold.md), the rich neighbour.** From ~4,100 ya the desert
-  waystation caught the water and the coastal trade and grew rich; the gnomes, with their own
-  watershed but poor exhausted soil and no trade position, stayed the **poorer neighbour** — modest
-  provisions and craft into Maalm's stop, never an equal and never a target.
+  waystation caught the water and the coastal trade and grew rich — within a century of the gnomes
+  breaking into the graves. The two run opposite from there: Maalm rising, the gnomes with their own
+  watershed but poisoned exhausted soil and no trade position, the **poorer neighbour** — modest
+  provisions and craft into Maalm's stop, never an equal and never a target. For Maalm's whole
+  history the gnomes have been a declining country.
 - **The dwarves of [Weet](../handouts/the-ruin.md) — kin in the giants' land.** The other half of
   Suartleheim, two small stone-folk living among the withdrawn giants' works; real trade came
   **late,** once commerce revived — dwarf metal and stone for gnome craft.
@@ -136,10 +146,12 @@ founding on.
   different now — while these fled by sea with the prophet-founder to take Suartleheim Eet from the
   Firbolgs (above). This also settles reconciling Suartleheim / Svartalfheim with Kalikhat as the
   Underdark origin ([campaign overview](campaign-overview.md)).
-- `[settled 7/29; blight refined with Will]` **What felled the kingdom — the blight from the graves.**
-  The gnomes **broke the Haals taboo and dug too deep, breaking into the
+- `[settled 7/29; blight refined with Will; dated 8/15]` **What felled the kingdom — the blight from
+  the graves, and when.** The gnomes prospered ten generations (~5,000 → ~4,000 ya, a gnome
+  generation ≈ 100 years), then **broke the Haals taboo and dug too deep, breaking into the
   [Firbolg graves](../encounters/the-mines-of-haals.md).** The disturbed dead poisoned the ground — a
   slow famine over generations, no battle and no rampage (the [Copaa Lament](../handouts/copaa-lament.md)).
+  The kingdom falls **early**, at ~4,000 ya, and spends the next three thousand years going down.
   **[Balor](../encounters/the-mines-of-haals.md)**, a Fomorian kin to the Firbolg asleep under the
   same mountain, is the mountain's **time magic** — a separate thing from the graves' poison. Then
   ~1,000 ya the **Mughals**, driven north by the wars of the [Bad Pass's mini ice

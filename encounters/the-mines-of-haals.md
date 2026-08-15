@@ -86,14 +86,16 @@ as the session wants; the order is fixed by depth.
    ruin, and a sealed door with offerings left at it that no one of that age would
    open. They kept the taboo. The party can read what the Mughals knew was down
    there and would not touch.
-3. **The gnome kingdom, and its fall.** Gnome miners driving a gallery downward at
-   the height of the kingdom; the picks reach too deep and break into the Firbolg
-   graves, and the first harvest fails. The fall is slow — a famine over generations
-   as the disturbed dead foul the ground — but this level is the break itself, the
-   Haals taboo broken.
-4. **The long war.** The gnomes' war on the Firbolg — generations of it, not a single
-   conquest, Musa's descendants prosecuting it through the dark ages. The
-   scene the party is attacked in (below).
+3. **The gnome kingdom, and its fall (~4,000 ya).** Gnome miners driving a gallery
+   downward ten generations after the landing; the picks break into the Firbolg
+   graves, and the first harvest fails. The famine runs for generations after this,
+   and the kingdom spends three thousand years going down
+   ([dates](../lore/the-fallen-gnome-kingdom.md)).
+4. **The long war (~5,000 → ~4,000 ya).** The gnomes' war on the Firbolg — generations
+   of it, not a single conquest, Musa's descendants prosecuting it through the dark
+   ages. The scene the party is attacked in (below). Levels 3 and 4 are close together
+   in time: the kingdom digs into the graves at the end of the same thousand years it
+   spent taking the land.
 5. **The Firbolg age — La Cava.** The first people, [Sarric's kin](../characters/sarric.md),
    the earth-kin alive. This deep level **is [La Cava](temple-sites.md)** — the
    handprints in the Haals dig are here, being pressed into the wall now, and the
@@ -236,15 +238,13 @@ they tell him here changes what he does, and so changes the present. (The
 sea** — Musa carried five gnomes in his boat, and their descendants grew the
 kingdom.)
 
-`[OPEN — the ten generations].` The kingdom stands from Musa's landing (~5,000 ya)
-until the Mughals take it (~1,000 ya) — around four thousand years, well over a
-hundred gnome generations, not ten
-([timeline](../lore/world-history-timeline.md)). Kept as written, on the reading
-that **the vision showed him ten generations and no further** — which is why he gives
-a number for the prospering and only a fear for the little ones. The party then knows
-something he does not: his people got four thousand years, and then broke into the
-graves. Swap the line to *"a hundred generations"* instead if you would rather he saw
-it whole.
+`[settled 8/15 — the ten generations].` A gnome generation runs about a century, so
+Musa's ten generations are **a thousand years, ~5,000 → ~4,000 ya** — and the
+[gnome kingdom's fall now sits there](../lore/the-fallen-gnome-kingdom.md), not late.
+The gnomes prosper exactly as long as he was shown, alone through the Dark Age, and
+then dig into the Firbolg graves at ~4,000 ya and spend three thousand years going
+down before the Mughals arrive. Musa has the ten generations right. He does not know
+there is no eleventh.
 
 `[draft]` **On Ragnarok #1 as Musa's notebook.** The handout is a ship's-log account
 of the Bleeding Star by a captain who sailed past it. Musa is a dragonborn sailor
