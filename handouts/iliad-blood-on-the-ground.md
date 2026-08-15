@@ -33,7 +33,9 @@ and of the Danaans; for these too fought not without shedding of blood,
 howbeit fewer of them by far were falling.
 ```
 
-**13.653–655** — Harpalion, shot by Meriones, dies in his companions' arms.
+**13.653–655** — Harpalion, shot by Meriones, dies in his companions' arms. Compared
+across translators in
+[Iliad 13.650–655 across translations](../references/iliad-harpalion-translations.md).
 
 ```
 and the black blood flowed forth and wetted the ground.
