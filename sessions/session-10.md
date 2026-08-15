@@ -26,6 +26,9 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 - **Preem's organization holds a controlling interest in the Eet Suartleheim
   company** — the [Company](../lore/the-company.md) — and **the coffee in their cups
   is not ethically sourced.**
+- **Pax spat out his beans.** At the reveal that the coffee was slave-made, **Pax spat
+  out all his coffee beans and started retching** (he eats the beans and drinks the
+  boiling water).
 - **DM note:** the company she named is the Company (Preem's money, the Second
   Foundation's). Its coffee is slave-grown, and it strips
   [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) — **Sarric's people's
