@@ -51,6 +51,11 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   answer.** What they don't know: **the money bag she handed them already holds the
   50 pp for the map.**
 - **She winks at Blackacre on her way out.**
+- **After she left, Pax met Jogo over the coffee.** Pax started loudly complaining —
+  *"the company, am I right?"* — and **Jogo**, coming up to the coffee bar, answered:
+  *"Don't even get me started about the company. It makes me cry thinking about those
+  plantations, but the coffee is so good I can't stop."* This is the conversation
+  **Pax's four-day vision** came out of (below).
 - **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
   The thousand-year hunt is the First-vs-[Second
   Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
@@ -85,9 +90,9 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 
 ## Pax's four-day vision
 
-- Talking with **Jogo**, **Pax** told the full story of his four-day vision.
-  Andrew's written account is on [Pax's sheet](../characters/pax.md) under
-  *The Four-Day Vision* — kept verbatim.
+- Talking with **Jogo** (the coffeehouse patron he'd just met, above), **Pax** told
+  the full story of his four-day vision. Andrew's written account is on
+  [Pax's sheet](../characters/pax.md) under *The Four-Day Vision* — kept verbatim.
 - The short of it: an old elm told Pax to dig between its roots for a gift; he
   found a single pale mushroom and ate it against **Brother Reedhand's**
   warning. Reedhand watched over him through four days of seizures. Pax
@@ -102,7 +107,9 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 
 ## [OPEN]
 
-- Who **Jogo** is, and how Pax came to be talking with him — new NPC, not yet
-  in the files.
+- **Jogo** — a coffeehouse patron at the merc hall, met over the Company coffee after
+  V. left (how the Pax conversation started). `[OPEN]` whether he's a bit part or
+  recurs, and whether he's a patron or the keeper (cf. the keeper thread in the
+  [V. prep](../encounters/v-second-contact.md)).
 - **V.'s coffeehouse loose ends:** did she leave with the atlas, and what were the
   per-PC offer notes and pay? (The deal itself: **accepted** — see above.)
