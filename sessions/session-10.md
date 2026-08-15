@@ -63,13 +63,15 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   Is it like the sugar cane plantations?"* — and Jogo reeled off its crops: **coffee
   plantations in Jasper's home town**, **sugar cane elsewhere**, and the **legendary
   tomatoes of leprosy from [Copaa](../lore/copaa.md).**
+- **The party latched onto the leprosy tomatoes.** They couldn't stop asking questions
+  about them — a live hook now, more than the coffee or the sugar.
 - **DM note — Jogo's rundown, two threads.** **Jasper's home town is a Company
   coffee-plantation town** — the Company now touches a third PC (Sarric's Eet, and now
   Jasper), though Jasper's origin otherwise stays open
   ([lineages §7](../lore/lineages-and-afterlives.md)); worth a line in
   [jasper-dm-notes](../characters/jasper-dm-notes.md) if kept. The **"tomatoes of
-  leprosy" from Copaa** is a local legend to develop (Copaa's fouled river and lepers —
-  [Copaa](../lore/copaa.md)).
+  leprosy" from Copaa** are now a **live hook the players are chasing** — Copaa's fouled
+  river and its lepers give it a home ([Copaa](../lore/copaa.md)); it needs an answer.
 - **DM note — the order is the [First Foundation](../lore/the-first-foundation.md).**
   The thousand-year hunt is the First-vs-[Second
   Foundation](../lore/the-second-foundation.md) war, and Preem is Second Foundation.
