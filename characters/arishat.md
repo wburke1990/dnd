@@ -4,7 +4,7 @@
 reconciliation.** `[draft — Will 8/16]` Dragonborn, devout, and has argued the same
 position for most of her life; the caldera keeps rejecting it. **Arishat** is a
 Phoenician name, which is the zealots' register: Lonka is their Tyre, and they kept the
-mother-city's names unchanged for five thousand years while the wandering branch picked
+mother-city's names unchanged for four thousand years while the wandering branch picked
 up new ones on every coast ([the Wandering](../lore/wandering-dragonborn.md)). To
 Blackacre her name will sound like something cut into an old stone. Keeping the books is
 her office and she has no other title.

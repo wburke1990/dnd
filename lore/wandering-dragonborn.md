@@ -131,22 +131,24 @@ So each side is wrong about the same thing from opposite ends:
   growing; arguing the "true" telling over drinks *is* the devotion.
   **[settled — per chat]**
 
-## The two naming registers, and the 5,000-year split
+## The two naming registers, and the 4,000-year split
 
 `[settled — Will 8/16]` The wandering saints carry Berber and Arabic-flavoured names —
 Idris, Tariq, Anzar, Wazzan, Musa — and the Lonka Zealots carry Phoenician ones
-([Arishat](../characters/arishat.md)). **The two name sets diverged five thousand years
+([Arishat](../characters/arishat.md)). **The two name sets diverged four thousand years
 ago.**
 
-The **Bleeding Star** destroyed the mother-city and killed everyone on it
-([Lonka / Jotunheim](lonka-jotunheim.md) §2). The dragonborn who lived were the ones
-already out on the sea-roads, and from that day they were two peoples:
+The **Bleeding Star** destroyed the mother-city and killed everyone on it ~5,000 ya
+([Lonka / Jotunheim](lonka-jotunheim.md) §2), and what survived was one scattered
+seafaring people. They became two a thousand years later, when the comet **raised
+Musleheim (~4,000 ya)** and some of them settled it
+([Lonka / Jotunheim](lonka-jotunheim.md) §4):
 
-- **The ones who kept roaming** spent five thousand years living among other peoples,
-  a season at a time, on every coast in the world. Their names came from those coasts.
-- **The ones who eventually stopped** — settled Musleheim with the men, built the
-  empire, and walked back to take the holy island ~1,900 ya — kept the mother-city's
-  names and did not change them.
+- **The ones who kept roaming** spent four thousand years living among other peoples, a
+  season at a time, on every coast in the world. Their names came from those coasts.
+- **The ones who stopped** — settled Musleheim with the men, built the empire, and
+  walked back to take the holy island ~1,900 ya — kept the mother-city's names and did
+  not change them.
 
 **So the zealots' names are archaic.** A zealot saying his own name uses word-forms a
 wanderer only meets in old inscriptions.
@@ -157,13 +159,18 @@ whose names are of the same form as the zealots'
 ([Blackacre — DM notes](../characters/blackacre-dm-notes.md)). Those graveyards are
 places he has already been, so this can come up in play as description.
 
-**Not the same as the doctrinal split.** The people divided 5,000 years ago at the
-Bleeding Star. The *creed* divided far later — over the 1,000+ years the settled
-dragonborn ran Muspelheim, ending in the reconquest ~1,900 ya
-([Lonka / Jotunheim](lonka-jotunheim.md) §4). The two splits are separate.
+**Not the same as the doctrinal split.** The people divided ~4,000 ya, when some of them
+settled Musleheim. The *creed* divided over the 1,000+ years they then spent running it,
+ending in the reconquest ~1,900 ya ([Lonka / Jotunheim](lonka-jotunheim.md) §4). The two
+splits are separate.
 
-`[OPEN]` whether **Bedraageon** predates the split, which would make the oldest name in
-the faith a Phoenician one.
+**Bedraageon predates it.** `[settled — Will 8/16]` The Eldest belongs to the
+generation just before the division — his grave is under Maalm, founded ~4,100 ya
+([maalm-founding.md](maalm-founding.md)) — so **the oldest name in the wandering faith
+is in the zealots' register.** Both branches can claim him and both do. He is the one
+saint [Arishat](../characters/arishat.md) and
+[Blackacre](../characters/blackacre.md) already share, and neither of them has ever had
+occasion to notice.
 
 ## The Eldest — Bedraageon
 

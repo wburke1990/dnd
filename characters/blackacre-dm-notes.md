@@ -31,11 +31,13 @@ each side holds something the other lacks:
 - **The nomads have the creed.** Follow the dragon; do not hold ground and demand the
   dragon come to it. It answers the zealots' problem: the dragons have moved.
 
-**And there is physical evidence he has already walked past.** The two branches split at
-the Bleeding Star 5,000 years ago and their names went different ways, so **the oldest
-watch-stones carry names of the zealots' form**, cut before the change
-([the Wandering](../lore/wandering-dragonborn.md)). Blackacre has kept the watch at those
-graves his whole life. Describe one; do not explain it.
+**And there is physical evidence he has already walked past.** The two branches split
+~4,000 years ago when some of them settled Musleheim, and their names went different
+ways, so **the oldest watch-stones carry names of the zealots' form**, cut before the
+change ([the Wandering](../lore/wandering-dragonborn.md)). Blackacre has kept the watch
+at those graves his whole life. **Bedraageon** himself predates the split, so the Eldest
+— the template for every saint Blackacre reveres — carries a name of Arishat's kind.
+Describe one; do not explain it.
 
 **At Moku both sides can act on this together.** The zealots mean to stop again,
 permanently, on the dragons' new seat. The nomad answer is that you stop, you found, and
