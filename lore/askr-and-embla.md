@@ -172,12 +172,12 @@ else.
 
 ## `[OPEN]`
 
-- **Fabricated or grown — mostly answered.** `[Will 8/16]` The **rakshasas** were
-  present when the two trees were named and have been venerated advisers to the faith
-  ever since, so the creation did not have to be invented in one stroke by one priest.
-  It was shaped over 1,900 years by the only parties in the room who never died
-  ([Jotunheim as guests](../encounters/jotunheim-as-guests.md)). `[OPEN]` whether there
-  was also a named priest at the start.
+- **Fabricated or grown — mostly answered.** `[Will 8/16]` **Grown**, with help. The
+  **rakshasas** were present when the two trees were named and have been consulted
+  about the old rites ever since, so nobody had to invent the creation in one stroke.
+  It accumulated over 1,900 years, in answers given by the only parties present who
+  never died ([Jotunheim as guests](../encounters/jotunheim-as-guests.md)). `[OPEN]`
+  whether there was also a named priest at the start.
 - Whether anyone in Jotunheim believes the party when they prove it, and what the
   zealots do with a proof.
 - Whether the zealot leadership already knows.

@@ -35,11 +35,11 @@ For the first thousand years of history, **Lonka was the center of the world.** 
   that became the Bleeding Star (§2) was fought on this very island** ([overview §5](campaign-overview.md):
   *dragons and demons follow the hot spot*). As the hot spot later **drifted southeast**
   — building Musleheim, and now surfacing the [Kurunatukas](the-muspel-empire.md) — that
-  **locus of dragon-and-demon power moved with it,** leaving Lonka a spent, holy ruin.
+  **locus of dragon-and-demon power moved with it,** leaving Lonka a ruin, still holy.
 
 ---
 
-## 2. BOOM — the Bleeding Star wrecks it (~5,000 ya)
+## 2. The Bleeding Star wrecks it (~5,000 ya)
 
 The **Krakatoa-analog eruption** that ended the Amseh golden age (see
 [Amseh dynasty](amseh-dynasty.md)) **obliterated Lonka outright.** The round island and
@@ -49,15 +49,15 @@ level.** Rafts of **skeletons and pumice** washed up on every shore for years.
 
 - **Lonka was 100% depopulated.** The center of the world became an empty, smoking ruin.
 - *Map note (the maps aren't in-repo, but for the record):* the island goes from a
-  round, mountained landmass to a **caldera** — the silhouette the present day inherits.
+  round, mountained landmass to a **caldera** — the shape it still has.
 
 ### The Kalikhat fork — the world goes underground
 
 The same disaster's **alchemical sickness** reached neighbouring **Kalikhat**.
 Civilization collapsed there too, but it was not wholly emptied: **survivors fled
-underground**, and in the dark they **mutated fast** (as everything does on Nila) into
+underground**, and underground they **mutated fast** (as everything does on Nila) into
 the subterranean peoples — **dark elves, deep gnomes, and their kin** — and, down there,
-**made friends with demons**, perhaps for the very first time. The poisoned **surface**,
+**allied with demons**, perhaps for the very first time. The poisoned **surface**,
 meanwhile, lay a dead waste for **the better part of three thousand years** (a pass's
 sickness kills a land for a millennium at least) — long enough that when **Kuru's
 crusader-colonists landed (~2,000 ya)** they had no notion a whole people still lived
@@ -100,62 +100,62 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
 - **A land empire changed their faith.** Across **1,000+ years** running Muspelheim, their
   dragon-religion **drifted** — from the nomad's creed (*honor the flight, keep roaming*) toward
   something **place-bound, insular, zealous** (*guard the holy ground*). This is the origin of
-  the **zealot strain** that divides them from the wandering saints (see
+  the **zealots**, who are divided from the wandering saints (see
   [Taniyn & Lonka](taniyn-and-lonka.md)).
 - **Then they left — and it shows on the map.** The empire founds **Kuru only *after* they're
   gone** (~1,800 ya) — which is exactly why that colony is **nearly all human** (and why Muspel
   and Kuru both read as *man*-dominated). Where did the dragonborn go? **Home.** The **hot
   spot's drift southeast** had cooled the **northwest coast of Muspelheim** enough to enter — the
-  tunnels nearest the hot spot run molten — so the road under the sea had stood open for
+  tunnels nearest the hot spot are full of molten rock — so the road under the sea had stood open for
   centuries. But the zealots did not move until **Maalm planted a colony on the holy island
   (~2,000 ya):** *that* desecration is what finally sent them, **~1,900 ya,** walking the Abyss
   tunnels to the one island in range: **Jotunheim / Lonka,** Taniyn's first perch. (Still *before*
   Kuru's founding ~1,800 — so Kuru stays all-human.)
-- **The break was a falling-out, not the calling it's remembered as.** `[settled — Will]` The zealots meant to
+- **The zealots remember the break as a calling. It was a falling-out.** `[settled — Will]` They meant to
   retake the holy island by **massacring the colonists,** and the empire's **own humans would not
-  put their name to a religious slaughter** (little love for the Maalm colony, but butchering it
-  crossed a line). Rebuffed, the dragonborn **broke away and went alone** — a clean dragonborn–human rupture, and the **first crack of the Time of
+  put their name to a religious slaughter** (little love for the Maalm colony, but killing them
+  all crossed a line). Rebuffed, the dragonborn **broke away and went alone** — a clean dragonborn–human rupture, and the **start of the Time of
   Troubles** (see [world-history timeline §VI](world-history-timeline.md)).
 - **You can't storm a fortress-caldera from the open sea** (sheer cliffs, one guarded channel,
   §5) — so they **didn't.** They came **up from underneath,** out of the tunnels into the bay,
   and **massacred the Maalm colonists (elves and men)** who had held the island barely a century
   (§3). To them it was not conquest but **reconsecration** — the dragon's first perch taken back
   from usurpers (the on-file analogy: *the Crusaders retaking Jerusalem*).
-- **What they thought the killing was for.** `[Will 8/16]` Cleaning the ground was the smaller
-  half of it. **The dragons had already stopped coming** (§6), and the zealots meant to
+- **What they thought the killing was for.** `[Will 8/16]` Clearing the ground was part of it,
+  and not the main reason. **The dragons had already stopped coming** (§6), and the zealots meant to
   **bring them back** — to cut
   the [covenant](../encounters/the-covenant-rite.md) again, at scale, and pledge themselves anew in
   the true religion. A covenant is cut in blood, with the offering divided and the parties passing
   between the halves; this was that rite performed on a colony, with **the colonists in the place
-  of the heifer and the goat and the ram.** They paid the largest price anyone in this world has
-  paid.
-- **Nothing came.** No dragon passed between the pieces. It is the strongest evidence in the
-  campaign for the way the covenant actually runs — [only the dragon can pass](../encounters/the-covenant-rite.md),
+  of the heifer and the goat and the ram.** (Genesis 15:9 word for word — a quotation, doing
+  work here on purpose. Leave it alone.)
+- **Nothing came.** No dragon passed between the pieces. This is how the covenant
+  runs — [only the dragon can pass](../encounters/the-covenant-rite.md),
   the obligation was never the pledger's to discharge, and so **there was nothing the zealots could
   have paid that would have worked.** They have held the island 1,900 years without an explanation.
-- **And they have the cause and the effect the wrong way round.** The dragons left because
+- **The zealots have it backwards.** The dragons left because
   [the hot spot drifted](#6-the-dragons-no-longer-come) — the same drift that cooled the
   northwest coast and opened the tunnel road they walked in on. The holy island stood empty of
   dragons for generations, **which is the only reason Maalm could plant a colony on it at all.**
-  The zealots read the settlers as the cause of the desolation when the settlers were a symptom of
-  it, and killed them for it. Keep this straight and do not let the motive soften what happened:
-  they were chosen because they were outsiders standing on the ground, and it was a slaughter.
+  The settlers arrived because the dragons had already gone; the zealots killed them for the
+  dragons' going. They were chosen because they were outsiders standing on the ground, and it
+  was a slaughter.
 
 These are the **Lonka Zealots** of the lost-tribes / reclamation thread (*Sam's quest*; see
 [Blackacre](../characters/blackacre.md), the wandering nomad whose arc is to **mend the
 zealot/nomad rift** — his own falling-out with Sayid was the [Floating Fleet](floating-fleet.md)
 ship-seizure he lost his nerve for, not anything at Lonka). They hold the caldera still: **insular, mistrusted by the rest of the archipelago,
-but safe** behind their cliffs amid all the chaos of the centuries since.
+but safe** behind their cliffs through the centuries since.
 
-### The Ravana rhyme — handles to pull
+### What the Ramayana gives us
 
-This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready texture:
+This **follows Ravana seizing Lanka**, and the Ramayana hands us ready texture:
 
 - **Rakshasas.** Seed the island and its legends with **shape-shifting, man-eating
   rakshasas** — a fit for dragon-holy ground gone strange, and for the zealots' own
   monstrous guardians.
 - **An Ashoka Vatika.** Add the **walled grove** where Ravana held Sita — somewhere in
-  the caldera, beautiful and wrong.
+  the caldera, walled, planted, and kept up.
 - **Hanuman's leap = the avenging return.** The **Maalm colonists who settled the wasteland
   are the usurpers**, and the returning dragonborn the **avengers** — though here they cross
   *under* the sea, not over it (§4).
@@ -169,8 +169,8 @@ This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready textu
   alliance has never cost the zealots anything, and demons took part in the killing
   whose blood the two trees were consecrated in. See
   [Jotunheim as guests](../encounters/jotunheim-as-guests.md).
-- **Rama's vanara army (don't lose this — too cool).** The **monkey-folk host** that
-  built the causeway and stormed Lanka is too good to drop: a **vanara people** as the
+- **Rama's vanara army.** The **monkey-folk host** that built the causeway and stormed
+  Lanka: a **vanara people** as the
   avenging army or its allies, and the natural **bridge-builders** if the crossing is a
   built causeway/tunnel (in the Ramayana the vanaras *raise the Setu*). `[OPEN]` who the
   vanaras are in Nila — a distinct people, or a face the dragonborn host wore.
@@ -179,9 +179,8 @@ This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready textu
 
 ## 5. Present-Day Jotunheim — the dungeon (David's design)
 
-The caldera as it stands now reads like **Moorcock's Melniboné by way of a drowned
-volcano:** an ancient, cruel, insular island-people in a fortress reached by a single
-guarded channel.
+The caldera as it stands now: an ancient, cruel, insular island-people in a fortress
+reached by a single guarded channel (the model is **Moorcock's Melniboné**).
 
 - **Sheer cliffs** ring the outside of the caldera; the only way in is a **narrow,
   heavily defended passageway** into the inner **bay.**
@@ -193,30 +192,29 @@ guarded channel.
 - **The rakshasas are still here.** `[settled — Will 8/16]` The demons who opened the
   road under the sea for the reconquest (§4) hold a **temple inside the caldera**
   1,900 years later. They were on the march, they watched the two trees planted and
-  named, and they say very little about it.
+  named, and they do not discuss it.
 - **The Dragon Turtle** *(David's note, verbatim):* *"In the bay of Jotunheim there is a
   Dragon Turtle. The last vestige of the dragons that inhabited the island. The
   dragonborn control it and it is a last defense for those that might enter the bay
-  without permission."* — and a **cosmological clue:** a dragon-beast surviving in the
-  *blast*-caldera fits the **sky dragon having won** Lonka's Ragnarok (see the Manichean
-  note below).
+  without permission."* A dragon-beast surviving in the *blast*-caldera also fits the
+  **sky dragon having won** Lonka's Ragnarok (see the Manichean note below).
 - **The dragons no longer come — and the Zealots don't know why.** `[settled]` The
   Dragon Turtle is the **only** one left: **no living dragons visit Lonka any more.** The
   Zealots bled to reconsecrate the dragon's first perch (§4), yet their gods have
   **abandoned the holiest ground in the world,** leaving just the turtle in the bay.
-  **The order matters:** `[Will 8/16]` the dragons were **already gone before the
+  `[Will 8/16]` The dragons were **already gone before the
   massacre** — gone for generations, which is what let Maalm settle the island in the
   first place — so the killing was never a reprisal for a desecration that drove them
   off. It was an attempt to **call them back** (§4), and it failed. 🔒 The
   reason is cosmological — **dragons follow the hot spot, and the hot spot has drifted
   southeast off Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas — but
-  to the zealots it is an **unexplained desolation,** a wound to their faith and a spur to
-  **dread, doubt, and ever more dangerous zeal.** The same thing happens in
+  to the zealots it is an **unexplained desolation**, and they grow more dangerous about
+  it. The same thing happens in
   **[Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
   to you; you did not come; we did everything right and it meant nothing*
-  ([the gods who do not answer](egyptian-afterlife-mythology.md)) — a **recurring campaign
-  note of gods who abandon their faithful** (and a quiet rhyme with Kuru's own god failing,
-  [Kuru & the phoenix §4](kuru-and-the-phoenix.md)). `[OPEN]` what they do about it — seek
+  ([the gods who do not answer](egyptian-afterlife-mythology.md)). Gods who abandon
+  their faithful comes up elsewhere too, including Kuru's own god failing
+  ([Kuru & the phoenix §4](kuru-and-the-phoenix.md)). `[OPEN]` what they do about it — seek
   the vanished dragons, blame usurpers, or try to call them back.
 - **The two trees — Askr and Embla.** At the highest point of the ring-wall stand **two
   trees, one ash, one elm,** which the zealots hold to be the **children of the primordial
@@ -233,10 +231,10 @@ guarded channel.
   ([lineages & afterlives](lineages-and-afterlives.md) §5, §11). Uprooted and carried
   across the sea, these two were cut off from the forest's common stock — the memory they
   were drawn from — and had only the zealots' voices, and took the dragon-story as their
-  own past. The zealots teach each new generation the creation at the trees; the trees,
-  asked, give it back. Neither side holds the origin any more: the story passes between the
+  own past. The zealots teach each new generation the creation at the trees, and if asked,
+  the trees repeat it. Neither the zealots nor the trees know where the story started: it passes between the
   zealots and the trees, each retelling treated as more certain, and the true forest-memory
-  is lost. `[hook]` The one forest-nameless still joined to the living forest and its common
+  is gone. `[hook]` The one forest-nameless still joined to the living forest and its common
   stock is **Pax**, who carries the memory these two lost. What happens when he stands at
   them — they hand him their false past, or his true lineage-memory meets theirs — is Pax's
   way into Jotunheim (Sam's quest). Embla is an elm, and it was an elm's roots that gave Pax
@@ -246,7 +244,7 @@ guarded channel.
 - **The buried first city.** The **actual ruins of the first dragonborn civilization lie
   underground**, beneath the caldera floor. With **sea level high right now**, their
   entrances may be **drowned** — reachable only by going *under* the water of the bay.
-- **The heart-stone shards.** Deep in those ruins wait **shards of the heart-stone of the
+- **The heart-stone shards.** Deep in those ruins are **shards of the heart-stone of the
   primordial dragon** — Taniyn's own heart, broken in the cataclysm. `[OPEN]` what they
   are, what they do, and what finding them means.
 
@@ -268,20 +266,19 @@ was previously open. **Whether it happens is still
 
 - **The rakshasas sail with them.** The demons who joined the massacre 1,900 years ago
   took no price and are still in the caldera (§4–5). Nothing holds them there and
-  nobody owes them anything; what they have been waiting for is the zealots doing it
-  again.
+  nobody owes them anything. If the zealots sail, they sail.
 - **The blood will not work.** `[settled — Will 8/16]` **Killing the people of Moku
   will not bring the zealots back into the dragon's grace.** Blood consecrates ground
   and it feeds trees ([the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md)),
   and it does none of what they want here. The dragons follow the hot spot; they are
   not withheld for want of blood and cannot be bought with it. So the fleet sails to
-  empty an island for something that will not happen, and the whole plan is a mistake
-  1,900 years in the making. This does not touch the **god-stone**, which is a separate
-  mechanism (below) — it rules out the killing.
+  empty an island for something that will not happen. They made the same mistake 1,900
+  years ago. This does not touch the **god-stone**, which is a separate mechanism
+  (below) — it rules out the killing.
   - **They already have the evidence.** The reconquest was itself a reconsecration in
     blood, they have held the holy ground ever since, and **the dragons never came back
-    to Lonka** (§5). The answer has been in front of them for 1,900 years. They read it
-    as not enough blood, or the wrong ground.
+    to Lonka** (§5). They have had that evidence for 1,900 years. They read it as not
+    enough blood, or the wrong ground.
 - **`[proposed]` They take cuttings.** Last time they carried two trees under the sea
   and planted them on the new holy ground (§5). There is no reason they would not do it
   again — cuttings off the ash and the elm, carried to Moku, rooted, and named. Unless
@@ -289,9 +286,8 @@ was previously open. **Whether it happens is still
   freeing the two trees at Jotunheim is what prevents the second planting.
 - **The zealots can still put to sea.** They hold a fortress now, but the dragonborn were
   once **the only people on Nila with ships** (§4) and built the Muspel fleets. The fleet
-  is theirs to raise. `[draft]` How large it is, and how far the rest of the archipelago
-  has forgotten the dragonborn can field one, is open — the surprise is greater if
-  everyone had written them off as a land-bound remnant.
+  is theirs to raise. `[draft]` How large it is is open, and so is whether the rest of
+  the archipelago knows the dragonborn can still field a fleet.
 
 - **Why they sail.** §5's wound — the dragons abandoned Lonka and the zealots don't know
   why — has an answer the zealots don't have: dragons follow the **hot spot**, and it has
@@ -308,24 +304,28 @@ was previously open. **Whether it happens is still
   the world reads nothing in it — they know a reconsecration is due, and roughly when.
 
 - **What the fleet does at Moku.** They come to take the island and get their gods back.
-  Two separate questions, both open — and **not** either/or; they can do both:
-  - **Reclaiming the dragons — god-stone.** Carry a shard of **Taniyn's heart-stone** (§5),
-    or catch falling comet-stone at the pass the way
-    [Kuru re-forges its phoenix](kuru-and-the-phoenix.md), and re-seat the dragons on Moku.
-    This is close to what Preem does with the magma demon
-    ([the Second Foundation](the-second-foundation.md)) — taking hold of a power rather than
-    following it, the island-bound zealot instinct.
-  - **The colonists — sword or not.** Whether they also kill everyone living on Moku, the
-    way they emptied Lonka (§4) — a second Lonka — or take the island and leave its people
-    standing. This is separate from the god-stone; a fleet that reclaims the dragons may
-    slaughter the colonists too.
+  They do two things there, and they will do both:
+  - **The god-stone.** They mean to carry a shard of **Taniyn's heart-stone** (§5), or
+    catch falling comet-stone at the pass the way
+    [Kuru re-forges its phoenix](kuru-and-the-phoenix.md), and re-seat the dragons on
+    Moku. It is what Preem does with the magma demon
+    ([the Second Foundation](the-second-foundation.md)): take hold of a power instead of
+    following it. `[proposed — Claude 8/16]` **It does nothing.** The dragons are
+    already going to Moku because the hot spot is there, and no stone brings them or
+    holds them. The fleet would be taking credit for a migration that was happening
+    without it. Taken up, this **removes the line on
+    [Blackacre's sheet](../characters/blackacre.md)** that the god-stone reclaims the
+    dragons either way — a line which, left standing, gives every choice at his finale
+    the same result.
+  - **The colonists.** Whether they also kill everyone living on Moku, the way they
+    emptied Lonka (§4), or take the island and leave its people standing.
   - Both are Blackacre's to settle at the finale (see
     [Blackacre](../characters/blackacre.md)).
 
 - **What the archipelago sees.** The last time dragonborn came by sea in numbers they
   **killed everyone on the ground** — Jotunheim's colonists to the last, a slaughter the
-  Muspel empire's own humans would not put their name to (§4). Dragonborn sails on the
-  horizon are that memory come back. And the Kurunatukas cannot answer a fleet: **Kuru has
+  Muspel empire's own humans would not put their name to (§4). Anyone who sees dragonborn
+  sails remembers that. And the Kurunatukas cannot answer a fleet: **Kuru has
   almost no navy** and rents Mukka bottoms and dwarf hulls, the Kurunatukas the same
   ([overview](campaign-overview.md)), and [Sam's halfling floating fleet](floating-fleet.md)
   is already inbound for ships and timber. A dragonborn fleet on top of that settles the
@@ -334,13 +334,13 @@ was previously open. **Whether it happens is still
 - **`[OPEN — deferred]` A second reason to sail: stopping the pass.** A darker version has
   the zealots sail to prevent another forced Ragnarok — they, of all people, know what one
   does. This needs a **First Foundation presence inside Jotunheim's leadership**, and David
-  has not decided, so keep it as a possibility, not the working version. Taken up, it makes
-  the fleet a would-be rescuer of the world rather than its avenger.
+  has not decided, so keep it as a possibility, not the working version. Taken up, they
+  would be trying to stop the pass instead of avenging Lonka.
 
-- **`[OPEN]` The dragonborn as the first break.** The zealot reconquest is already "**the
-  first crack of the Time of Troubles**" and the end of the human–dragonborn partnership
+- **`[OPEN]` The dragonborn as the first break.** The zealot reconquest is already the
+  **start of the Time of Troubles** and the end of the human–dragonborn partnership
   that built the [First Foundation](the-first-foundation.md) (§4). Taken further, the
-  dragonborn are the danger the Foundations first formed against. Whether to also make them
+  Foundations formed to defend against the dragonborn. Whether to also make them
   the cause of the last bad pass (~1,000 ya, written as sabotaged) is a **new claim** —
   take it or leave it.
 
@@ -351,20 +351,20 @@ was previously open. **Whether it happens is still
 - **`[draft]` Manichean Ragnarok — magma demon vs. sky dragon.** A working frame for the
   whole comet cycle, with **pace** as the hidden variable: a **slow** contest lets magma
   **flow out and build land** (Hawaii); a **fast** one **blows the world open**
-  (Krakatoa). So the **magma demon is the slow, land-making pole; the sky dragon the
-  fast, world-ending one** — the *bleeding star*, the **sky as destroyer**. Demons are
+  (Krakatoa). So the **magma demon builds land slowly and the sky dragon destroys
+  fast** — the *bleeding star*. Demons are
   thus **a power apart from the dragon-descended** (the great exception to the
   [common-ancestor rule](campaign-overview.md) — almost everyone else descends from
   Taniyn; demons do not). **The Dragon Turtle still in this caldera implies the sky
   dragon won Lonka's Ragnarok** — a fast blast that shattered the holy island. And it
   re-reads Preem: he **binds the magma demon and forces it to erupt all at once**,
-  enslaving a slow land-maker into a bomb (see [the Second Foundation](the-second-foundation.md)).
+  forcing a slow eruption to happen all at once (see [the Second Foundation](the-second-foundation.md)).
   `[OPEN]` the exact mechanism (force the magma fast, or remove it so the dragon wins).
 - **`[OPEN]` Demon first contact** — when mortals first allied with demons; Kalikhat
   ~5,000 ya is the leading candidate (§2).
 - **`[settled — Will 8/16]` The causeway** — a **demon-opened tunnel**, not a sea
   crossing (§4). The rakshasas held the road, and are still in the caldera.
-- **`[OPEN]` Lonka = Lanka, resolved-ish** — the Ramayana tag is now *used on purpose*
+- **`[OPEN]` Lonka = Lanka, partly settled** — the Ramayana tag is now *used on purpose*
   (Golden Lonka, Trikuta, the Ravana rhyme), not a homophone. Still worth deciding how
   much literal Lanka geography Lonka keeps vs. just its texture.
 - **`[settled — Will 8/16]` Rakshasas** — they hold a **temple in the present caldera**

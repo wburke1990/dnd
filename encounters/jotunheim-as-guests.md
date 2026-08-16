@@ -77,17 +77,25 @@ true-named and do not age or die of old age
 descended from Taniyn. The zealots' claim to this island rests on an alliance with
 demons, who are not their god's kin.
 
-**They are venerated, and they have shaped the faith.** `[settled — Will 8/16]` The
-zealots honour them as the ancient allies of the reconquest, and they have been present
-for every generation of it. The priests who taught the creation at the trees are all
-dead. The rakshasas are alive, and they are the only surviving witnesses to the
-reconquest. They have changed the faith over 1,900 years, and what they have added to
-it is blood: more of the rites take it, and the ones that take it matter most.
+**They are venerated, and the faith has changed around them.** `[settled — Will 8/16]`
+The zealots honour them as the ancient allies of the reconquest, and they have been
+present for every generation of it. The priests who taught the creation at the trees
+are all dead. The rakshasas are alive, and they are the only surviving witnesses to
+what was done here.
 
-They are here to run the zealots' religion. That also answers the open question of who
-supplied the creation at the trees ([Askr and Embla](../lore/askr-and-embla.md)): they
-did not have to invent it all at once. They were present when the two trees were named
-and they have had 1,900 years to change what is said over them.
+**They do not direct anything, and never have.** No demon has ever stood up in the
+caldera and told the zealots what to believe. They are asked — how was it done before,
+what did the old rite say, was there more to it — and they answer, and the answer is a
+little more than was asked for. A generation later that answer is the practice, and the
+one who gave it is still there to be asked about the next thing. Over 1,900 years the
+rites have taken more blood, each addition small enough that nobody living saw a change.
+`[for the table]` Never let a rakshasa argue for anything. They remember, and they are
+asked, and that is the whole of what they do.
+
+That also answers the open question of who supplied the creation at the trees
+([Askr and Embla](../lore/askr-and-embla.md)): nobody had to invent it all at once.
+They were present when the two trees were named and they have been consulted about it
+ever since.
 
 `[for the table]` The party cannot expose them. The zealots love them.
 
