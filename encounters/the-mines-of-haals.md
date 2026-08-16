@@ -81,12 +81,24 @@ the same giant, asleep at the bottom of the mine.
 Run it as a walk down, each level a scene the party passes through. Place as many
 as the session wants; the order is fixed by depth.
 
-**The custom of the tunnels.** `[Will 8/16]` Everyone down here is locked in a different
-age, so the one thing any of them has that is worth anything to a stranger is **word of
-what is coming.** People who meet in these tunnels trade prophecy: you tell what you
-know of the future, and you expect as much back. It is why anyone the party meets talks
-to them instead of walking on, and it is the etiquette
-[Musa](#musas-lines) is invoking when he stops them on his way out.
+**The custom of the tunnels — travellers share their present.** `[Will 8/16]` Everyone
+down here is standing in a different year, so one person's ordinary news of home lands
+on the other as **prophecy or as history, depending which way the gap runs.** That is
+the whole etiquette: you say how things are where you come from, they say how things are
+where they come from, and both of you get something you could not have got anywhere
+else. It is why anyone the party meets stops to talk instead of walking on.
+
+**The party are from the latest age in the mountain**, so to every single person they
+meet down here, their plain present is the future. They are prophets by accident, all
+the way down. And everything they get back is eyewitness account of an age nobody alive
+has seen.
+
+**Work out which way each exchange runs before you play the level** — it is different at
+every one, and that is where the interest is. The gnome soldiers of the long war would
+be hearing how their holy war turns out. The Mughals at the sealed door would be hearing
+who takes their empire from them. The Firbolg at La Cava would be hearing that their
+country is taken and their graves dug up, from a Firbolg. None of those is the same
+scene.
 
 1. **The Company face (now).** Dwarf crews, the ore going up, the runoff coming
    down — the mine as it is ([the Haals runoff](the-haals-runoff.md)).
@@ -162,20 +174,20 @@ to the fall, the Mughals, and the Company. Let the party tell him, or hold it ba
 
 ### Musa's lines
 
-**Down here, prophecy is what people trade.** `[Will 8/16]` Everyone in the tunnels is
-locked in a different age, and what they have that is worth anything to each other is
-**word of the future.** So that is the custom: you meet a stranger out of another time,
-you tell them what you know of what is coming, and you expect the same back. It is what
-makes Musa talk to a band of strangers at all, and it is what he means by *"for such is
-the way of this place."*
+**Musa is trading, and he is the one man down here with both currencies.**
+`[Will 8/16]` Travellers in the tunnels share their present, and it reaches the other
+party as prophecy or as history ([the custom](#the-descent--the-ages-deepest-is-oldest)).
+Musa's present is the party's deep past — the crossing, the five gnomes, what Kalikhat
+was before the star. But he has *just* come out of Balor carrying visions of what is
+still to come for the party as well. So he can pay in either direction, and does: the
+two *perhaps* lines are the future half, passed along secondhand an hour after he was
+given them. That is what he means by *"for such is the way of this place."*
 
-It also governs the shape of his scene. **The two *perhaps* prophecies he gives
-Blackacre are him putting something on the table** — and note they are not even his own,
-since he took them off Balor an hour ago and is passing them along. **His parting
-question is him collecting.** He has paid in; he wants paying back. What he asks for is
-not prophecy but news — whether the little ones he left are still alive — because the
-one thing the vision never covered is the people behind him. Run the last exchange as a
-debt being called, not as an old man worrying aloud.
+**His parting question is him asking the party to prophesy.** *Do the little people
+still live in Kalikhat?* is a question about his own future — five thousand years of it —
+and the party are the only people who could answer. He has paid in; he wants paying
+back; and what he wants is the one thing his vision never covered, which is the people
+behind him. Run it as a debt being called, not as an old man worrying aloud.
 
 **To [Blackacre](../characters/blackacre.md), his own kinsman.** Musa is a wandering
 dragonborn thousands of years before [the Wandering](../lore/wandering-dragonborn.md)
@@ -218,8 +230,8 @@ to be asked to.
 | Pressed on the Firbolg rather than on Blackacre | [His lines on what the mountain keeps](#the-same-two-passages-in-our-world--as-lines) — the same facts Balor states flat, with a verdict on them. |
 | The party tells him the kingdom falls | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
 
-**When he parts.** He collects. He gave two prophecies; now he asks for his, and the
-one thing his vision never covered is the people he left behind.
+**When he parts.** He collects — and what he is asking them for is a prophecy about his
+own future, which they happen to be standing five thousand years downstream of.
 
 | When | He says |
 |---|---|
@@ -369,11 +381,12 @@ answer is a fate spoken that holds, the same shape as a
 [geis](../lore/house-rules-and-world-mechanics.md): once they have it, they cannot set
 it down. They can ask, or refuse and take nothing.
 
-He is the one exception to [the custom above](#the-descent--the-ages-deepest-is-oldest).
-Everyone else in the tunnels trades prophecy because they each hold a piece of it; Balor
-holds all of it and wants nothing back. Musa's two *perhaps* lines came off him an hour
-earlier and are being passed along secondhand — the party is getting theirs from the
-source.
+He is the one exception to
+[the custom above](#the-descent--the-ages-deepest-is-oldest). Everyone else trades
+because each of them is standing in one year and wants to know about the others; every
+year is Balor's present, so there is nothing the party can tell him. He gives and takes
+nothing back. Musa's two *perhaps* lines came off him an hour earlier — the party get
+theirs from the source.
 
 | When | He says |
 |---|---|
