@@ -452,6 +452,7 @@ when he is pressed on the Firbolg rather than on Blackacre.
 - *"A mountain knows water, and the weight above, and the cold. It does not know days or
   years."*
 - *"For you time is a river. It carries you one way. I stand in it."*
+- *"The child is the mountain and the mountain is the child."*
 - *"A thousand of your years is one moment to me. You have been walking through that
   moment since you left the light."*
 
