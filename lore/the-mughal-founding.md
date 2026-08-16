@@ -123,6 +123,44 @@ His scene, his lines, and the dying-questions the party can put to him are writt
 as a run-ready encounter in
 [**The Returner and the Stone**](../bestiary/copa-irish-beasts.md).
 
+## The realm on the map — the ruins
+
+The middle empire left its marks across [Suartleheim Eet](nila-atlas.md), and the
+[Company](the-company.md) that took the land ~200 years ago built over most of them.
+What the party can read on the ground:
+
+**Haagen — the old capital.** The Mughals' seat was [Haagen](nila-atlas.md), set across
+the river from the coast, so reaching it means a river crossing — which is why the
+capital sat there. The town is still lived in, built among the ruins of the old capital: the
+citadel, the great mosque, and the founder's garden-tomb, all in ruin among the streets.
+It shrank when the Company moved the center to the coast.
+
+**The bridge, and the house of the dead.** The road from [Copaa](nila-atlas.md) to
+[Haals](../encounters/the-mines-of-haals.md) crosses the river at a Mughal bridge, built
+over the ford where **Siyavash** drowned in the crossing (above) so no one after him
+would. At the bridgehead is the Mughal **necropolis**, where the
+dynasty carried its dead to lie beside the first of them. The Company's ore carts cross
+the bridge now, past the tombs, coming down from the mine.
+
+**The two ports.** Aal is the Mughals', Aar the Company's:
+
+- **[Aal](nila-atlas.md)** was the capital's port, busy in the Mughal age, and it has
+  faded with the capital.
+- **[Aar](nila-atlas.md)** was nothing under the Mughals, who kept the
+  [Haals taboo](../encounters/the-mines-of-haals.md) and the mines shut. It is a Company
+  boomtown now, its ore-money made on the taboo the Mughals held.
+
+**The Aal quarter — the Sultan's half-orcs.** In the raiding age the Norse
+[orc raiders](the-muspel-empire.md) struck this coast, and a Sultan bought them off with
+land: he granted them a quarter at **Aal** and set them to guard the sea-gate to his
+capital. They took the grant, settled, and over the generations became locals — Norse blood
+and old sea-names, and the Mughals' tongue and faith, with a small **mosque**
+among the boat-sheds. They hold the Sultan's grant still, cut in stone at the quarter's
+edge, and the port has gone quiet around them. They are **not** the recent refugees of
+[Annibel's war](../characters/annibel.md) — those are a separate, later people; the Aal
+half-orcs are old settled blood, at home here for centuries. *(Rollo and Normandy:
+raiders granted land to stop the raids, who settle, convert, and go native.)*
+
 ## Connections
 
 - [The fallen gnome kingdom](the-fallen-gnome-kingdom.md) — the three peoples and
