@@ -185,16 +185,20 @@ half-orcs are old settled blood, at home here for centuries. *(Rollo and Normand
 raiders granted land to stop the raids, who settle, convert, and go native.)*
 
 **The road to Raand — the frontier.** The Mughals took every lowland túath but were
-**held at the river south of [Raand](nila-atlas.md)**, and never forced the crossing into
-the hills beyond. So the two peoples divided the land: the Mughals kept the lowland and the
-coast, the gnomes kept **Raand and the hills**. The road from the capital
-**[Haagen](nila-atlas.md)** up to Raand runs along that old border. On the south bank of
-Raand's river stand the ruins of a **Mughal fort**, built to watch the hills they could
-not take; above it, a **customs post** where Raand's craft was weighed on the way down to
-the court; past that, **ward-stones** at the edge of Raand, where the Mughals stopped. The
-Company runs the same road now — Raand still sends its craft down to Haagen over it.
-*(The medieval **Pale**, and the Milesian and Tuatha Dé division of Ireland into the
-surface and the sídhe: the lowland power holds the plain, the fair folk keep the hills.)*
+**stopped at the mountain road up to [Raand](nila-atlas.md)** — the gnomes held the pass,
+and the Mughals never forced it into the hills beyond. So the two peoples divided the land:
+the Mughals kept the lowland and the coast, the gnomes kept **Raand and the hills**. The
+road from the capital **[Haagen](nila-atlas.md)** up to Raand **crosses the border** at the
+pass. There stand the ruins of a **Mughal fort**, built to watch the mountain road they
+could not force; below it a **customs post** where Raand's craft was weighed on the way
+down to the court; at the pass itself, **ward-stones** marking the edge of Raand. The
+**[Company](the-company.md)** never took Raand either — there is **no river route up into
+the hills, and no money in a place it cannot ship from by water** — so Raand is the one town
+neither Mughal nor Company ever held. It still sends its craft down the road to Haagen to
+trade. *(The medieval **Pale**, and the Milesian and Tuatha Dé division of Ireland into the
+surface and the sídhe: the lowland power holds the plain, the fair folk keep the hills. Raand
+itself is the **Basques** — never conquered in their mountains, keeping their own tongue and
+law.)*
 
 ## Connections
 

@@ -96,12 +96,16 @@
   "Suartleheim" is an outsiders' exonym, not the Mughals' own name for the realm.
 - **Raand — the remnant.** `[Will 7/29]` The **artisan gnomes at [Raand](nila-atlas.md)** are the
   **one túath that survived all of it** — the fall of the rest, the middle civilization, and into the
-  Company's age. It survived because it **held the Mughals at the river to its south** and they never
-  took the hills beyond; the two peoples then divided the land — the Mughals the lowland and coast, the
-  gnomes Raand and the hills. The road between the capital [Haagen](nila-atlas.md) and Raand is that old
-  border (see [the Mughal founding](the-mughal-founding.md)). The surviving heirs, reduced to a single
-  trade village, half cut off by the currents, run goods overland to Haagen. The gnome country is now
-  one village of craftsmen.
+  Company's age. It survived because it **stopped the Mughals at the mountain road** up into the hills,
+  and they never took the country beyond; the two peoples then divided the land — the Mughals the lowland
+  and coast, the gnomes Raand and the hills. The road between the capital [Haagen](nila-atlas.md) and
+  Raand **crosses that old border** (see [the Mughal founding](the-mughal-founding.md)). The
+  **[Company](the-company.md) never came up here either** — no river route into the hills, and no money
+  in a place it cannot ship from by water — so Raand is still gnome and still its own, a single trade
+  village cut off from the water routes, running its craft down to Haagen by road. It keeps the old gnome
+  tongue and craft the lowland lost. The gnome country is now one village of craftsmen.
+  *(The **Basques** — the old mountain people never conquered by any wave of invaders, who kept their
+  own language and law in the hills while the lowlands changed hands.)*
 - **Sker — the stranded port.** `[Will 8/16]` A gnome **túath** in its own right — the
   **river-mouth port-city**, where the river met the sea and the country's trade went out. It
   was the **last of the túatha to fall**: the Mughals took it by **diverting the river during
