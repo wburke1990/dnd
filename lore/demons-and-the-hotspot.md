@@ -23,7 +23,7 @@ to spend all at once, it blows the world open.
 
 **The demon-people** are persons — shapechangers and others — who live in the
 Abyss-tunnels and draw their life from the hotspot's heat. Manizheh
-([the dream-quest demon-wife](../characters/demon-wife.md)) and Mul (Preem's
+([the dream-quest demon-wife](../characters/manizheh.md)) and Mul (Preem's
 right hand) are of this kind; both are Yochlols. They are not the force. They
 live off it, the way a people live around a sea or beneath a volcano. The
 oldest of them are older than the oldest elves.
@@ -114,7 +114,7 @@ death and have it surrender its name for its life — for a demon, true death is
 final, no return, which is what makes the threat absolute. Either way, once a name
 is had it can be copied and handed on and **never recalled;** a bound demon's only
 escape is to change its own name, which unmakes it (see
-[Manizheh](../characters/demon-wife.md)).
+[Manizheh](../characters/manizheh.md)).
 
 ### Where the names come from — and why the party hunts them
 
