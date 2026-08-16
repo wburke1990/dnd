@@ -471,25 +471,40 @@ The last two are people who went into the hill and came out to a changed world.
 The time in the mound does not fall on the party — it fell on them, and the party
 meets what it did.
 
-**The Returner and the Stone — the broken stirrup.** A **[Mughal](../lore/the-fallen-gnome-kingdom.md)
-prince** comes down the Aar road on a fine horse, dressed in the fashion of a court
-no one has seen in an age, asking after people and an empire hundreds of years gone.
-He went under the hill — or over the sea to the Land of Youth — with a woman of the
-mound, for what he counts as a short while, and he is coming home to an empire that
-fell long before he returned. He was told one thing: do not set foot on this ground,
-or the years you skipped find you at once. On the
-road he comes on men straining to shift a great stone they cannot move — clearing
-the road, or a fallen [Firbolg standing-stone](../lore/the-fallen-gnome-kingdom.md)
-— and, still in the saddle, he leans down to lift it for them, because the men of
-his day would have done it one-handed. The stirrup-leather breaks. He falls, and
-the moment he touches the earth every year he was away lands on him in a breath:
-a withered ancient, then dust, and the horse bolts back the way it came. **The
-party's moment is before he touches ground.** Move the stone for him so he never
-reaches down, catch him as the leather goes (STR/Athletics or DEX), or keep him
-talking from the saddle — he is a witness who names what the region was, and what
-he says is true where the maps are blank. The telling keeps its ending: touch the
-ground and he ages. What the party changes is what they learn from him, and
-whether he dies a stranger or with his questions answered.
+**The Returner and the Stone — the broken stirrup.** **[Prince Farhad](../lore/the-mughal-founding.md)**
+comes down the Aar road on a fine horse, dressed in the fashion of a court no one
+has seen in an age. He is a son of Sultan Mihran, the Mughal founder, and he has
+been gone eight hundred years: a **[woman of the Land of Youth](../lore/the-mughal-founding.md)**
+— out over the sea, not a gnome of the mounds; his people called her a peri — carried
+him off for what he counts as a short while, and he lost the whole Mughal age. He was
+told one thing: do not set foot on this ground, or the years you skipped find you at
+once. On the road he comes on men straining to shift a great stone they cannot move —
+clearing the road, or a fallen [Firbolg standing-stone](../lore/the-fallen-gnome-kingdom.md)
+— and, still in the saddle, he leans down to lift it for them, because the men of his
+day would have done it one-handed. The stirrup-leather breaks. He falls, and the
+moment he touches the earth every year he was away lands on him in a breath: a
+withered ancient, then dust, and the horse bolts back the way it came. **The party's
+moment is before he touches ground.** Move the stone for him so he never reaches down,
+catch him as the leather goes (STR/Athletics or DEX), or keep him talking from the
+saddle — he is a witness who names what the region was, and what he says is true where
+the maps are blank. The telling keeps its ending: touch the ground and he ages. What
+the party changes is what they learn from him, and whether he dies a stranger or with
+his questions answered.
+
+*His lines, riding up (Oisín's return, the names swapped for Mughal ones):*
+
+- *"You — do you serve the Sultan? I am Farhad, son of Mihran the Tiger. Point me the road to his court."*
+- *"Where is my father, who crossed the mountains and took this land? Where is my brother Khusrau, who gave us our law and our songs? Where are Bahram and Hormuz, who split the kingdom between them?"*
+- *(told they are all centuries dead)* *"You are lying. I rode out from my father's gate a season ago."* Then, quieter: *"How long?"*
+
+*As he dies — he is on the ground and dying, with a breath or two left.* Let the
+party put what they like to him; he answers plainly while he can. A few worth asking:
+
+- **"How long?"** — *"Eight hundred years."* He works out the years against the people in front of him.
+- **His mother.** *"My mother was Ratna, a drow of Kali's country. My father rode north and carried her out of the goddess's own temple. Her brother never forgave it — Vetal is down there still."* (The [founding](../lore/the-mughal-founding.md).)
+- **His brother Siyavash / the dead.** *"Siyavash drowned at the ford in the crossing. Our dead go to his house. Am I to go there now, or is it too late for that too?"*
+- **The peri / the Land of Youth.** *"She warned me. Do not touch the ground. I never asked her name."*
+- **Who rules now.** Tell him the Company holds the land and he stops resisting. *"Then there is nothing to ride home to."*
 
 **The Piper out of the Mound.** The [Company's digging](../encounters/the-haals-runoff.md),
 or a collapse, opens a mound, and a piper walks out of it still playing. A spell of

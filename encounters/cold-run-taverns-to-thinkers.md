@@ -226,11 +226,11 @@ is a source of time magic, and it shows along the road in people who fell out of
 own time. Run these two out on the road; the full write-ups (read-aloud and all) are
 in [the Copaa bestiary](../bestiary/copa-irish-beasts.md):
 
-- **The Returner and the Stone** — a **Mughal prince** comes down the Aar road asking
-  after people and an empire centuries gone. He went under the hill with a fey woman
-  and was warned never to touch the ground; he stops to help men lift a stone, his
-  stirrup breaks, and every year he skipped lands at once. The party can act before he
-  hits the ground.
+- **The Returner and the Stone** — **Prince Farhad**, a son of the Mughal founder,
+  comes down the Aar road asking after a father and an empire centuries gone. A woman
+  of the Land of Youth (a peri, out over the sea) carried him off and warned him never
+  to touch the ground; he stops to help men lift a stone, his stirrup breaks, and every
+  year he skipped lands at once. The party can act before he hits the ground.
 - **The Piper out of the Mound** — the Company's digging opens a mound and a piper
   walks out still playing. A fairy spell held him under, made to pipe without stopping
   for a year while they danced, and he came out of that year a **master piper.** He

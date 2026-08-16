@@ -65,8 +65,9 @@
   party finds poor towns on worn-out soil, a poisoned watershed, and a people no longer ruling
   themselves.
 - **The middle empire — the Mughals.** `[Will 7/29]` **Babur's people:** driven from their southern
-  homeland by the wars the [Bad Pass's mini ice age](world-history-timeline.md) set off (~1,000 ya),
-  they crossed the southern mountains and conquered the famine-weakened gnome kingdom —
+  homeland by the wars the [Bad Pass's mini ice age](world-history-timeline.md) set off (~1,000 ya).
+  Those wars took generations to run, so the crossing itself falls a little later, **~900 ya** — they
+  crossed the southern mountains and conquered the famine-weakened gnome kingdom —
   refugee-conquerors, the same story as the gnomes one wave before. They built the **Mughals** —
   Persianate, Islamic, Timurid splendour of courts, gardens, and artisans (the exact historical name,
   as with the [East India Company](the-company.md) that undoes them). They kept the Haals taboo and
@@ -74,8 +75,9 @@
   them — puppet rulers, extraction, famine — and left the poor Company towns of the present. The
   gnomes of **[Raand](nila-atlas.md)** held onto their craft through it all as a protected artisan
   caste — the Tuatha Dé gone into the hills.
-  `[OPEN]` a fuller writeup of the Mughal period (and note the Norse "Suartleheim" is an outsiders'
-  exonym, not the Mughals' own name for the realm).
+  The fuller writeup — the founder Sultan Mihran, his drow queen Ratna carried out of Kalikhat, and
+  his sons — is in [**The Mughal Founding**](the-mughal-founding.md). `[OPEN]` note that the Norse
+  "Suartleheim" is an outsiders' exonym, not the Mughals' own name for the realm.
 - **Raand — the remnant.** `[Will 7/29]` The **artisan gnomes at [Raand](nila-atlas.md)** are the
   **one gnome city that survived all of it** — their own kingdom's fall, the middle civilization, and
   into the Company's age: the surviving heirs, reduced to a single trade village, half cut off by the
