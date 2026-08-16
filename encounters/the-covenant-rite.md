@@ -1,5 +1,13 @@
 # The Covenant Rite — pledging yourself to a dragon court `[draft]`
 
+> ⚠️ **Unresolved — the blood is probably wrong here.** `[8/16]` This draft uses divided
+> animals (Gen 15) and blood in basins (Ex 24). But
+> [the trees rite](jotunheim-trees-rite.md) ranks blood three ways — other people's
+> spilled, a martyr's deposited, the celebrant's own offered — and only the third is a
+> bargain rather than a taking. If the covenant is an exchange between two parties, it
+> should be **the celebrant's own blood**, and the animal sacrifice below comes out.
+> Do not treat the stages as settled until this is decided.
+
 > **DM design note.** The rite behind
 > [the covenant with the dragons](../lore/lineages-and-afterlives.md): what a person
 > actually does to pledge themselves to one of the dragon religions and be judged by
