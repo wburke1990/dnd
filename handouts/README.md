@@ -30,6 +30,7 @@
 | [the-wanderer-lament](the-wanderer-lament.md) | Musleheim elegy; recited by [Annibel/Hannibal](../lore/the-muspel-empire.md) in her cups |
 | [recessional](recessional.md) | Over the drowned [Lonka / Jotunheim](../lore/lonka-jotunheim.md) caldera (the aftermath) |
 | [seafarer-grave-gold](seafarer-grave-gold.md) | Tomb-warning / corpse-as-treasure ([Valley of the Kings](../encounters/valley-of-the-kings.md)) |
+| [voluspa-ask-and-embla](voluspa-ask-and-embla.md) | The creation the Lonka zealots teach at the two trees ([Askr and Embla](../lore/askr-and-embla.md)); stanza 65 is the manuscript that disagrees with itself |
 | [iliad-blood-on-the-ground](iliad-blood-on-the-ground.md) | Death-lines read over kills in [the Iliad battles](../encounters/the-iliad-battles.md); source material for [blood consecration](../encounters/jotunheim-trees-rite.md) |
 
 ## Saved, placement open

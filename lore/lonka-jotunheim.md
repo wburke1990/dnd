@@ -203,7 +203,8 @@ guarded channel.
   stock is **Pax**, who carries the memory these two lost. What happens when he stands at
   them — they hand him their false past, or his true lineage-memory meets theirs — is Pax's
   way into Jotunheim (Sam's quest). Embla is an elm, and it was an elm's roots that gave Pax
-  the mushroom. The rite by which he frees them is
+  the mushroom. Why the zealots' creation does not hold up, and the real-world sources
+  behind it, is [Askr and Embla](askr-and-embla.md); the rite by which he frees them is
   [the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md).
 - **The buried first city.** The **actual ruins of the first dragonborn civilization lie
   underground**, beneath the caldera floor. With **sea level high right now**, their

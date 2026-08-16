@@ -5,7 +5,9 @@
 > century Latin liturgy and canon law, which is Doug's field of study. Every stage is
 > a real rite of that period, cited below.
 >
-> Companions: [Lonka / Jotunheim](../lore/lonka-jotunheim.md) §5 (the two trees),
+> Companions: [Askr and Embla](../lore/askr-and-embla.md) (the story the zealots
+> supplied, and why it is false),
+> [Lonka / Jotunheim](../lore/lonka-jotunheim.md) §5 (the two trees),
 > [lineages & afterlives](../lore/lineages-and-afterlives.md) §5–6, §11 (the
 > forest-nameless and what the nameless remember),
 > [Pax — DM notes](../characters/pax-dm-notes.md) (his tie into Jotunheim),

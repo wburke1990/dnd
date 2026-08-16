@@ -130,7 +130,9 @@ Before the party ever sees the ring-wall, someone tells them about the two trees
 zealot pilgrim, a captured zealot, a trader who has been inside. The children of the
 dragon, the ash and the elm, the first man and the first woman.
 
-- **Teaches:** nothing. This is where the party first hears about the two trees.
+- **Teaches:** nothing. This is where the party first hears about the two trees. The
+  creation itself, and the case against it, is
+  [Askr and Embla](../lore/askr-and-embla.md).
 - **Better with two tellers.** A wandering dragonborn tells the same creation and
   leaves the trees out of it entirely, because the nomads never had them
   ([Blackacre](../characters/blackacre.md), and Sam's quest runs through the same

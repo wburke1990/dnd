@@ -50,6 +50,8 @@ Akhilleus = "Akhilleus"
 # the Gaelic names at the table). typos reads "muh" as "much".
 muh = "muh"  # murúch = muh-ROOKH
 thar = "thar"  # Pax's true name Auralith Vael'Tharos = ...VAYL-THAR-ohs (characters/pax.md)
+Gude = "Gude"  # Danish "gods" in Sophus Bugge's title, "Studier over de nordiske
+               # Gude- og Heltesagns Oprindelse" (1881-89) — lore/askr-and-embla.md
 ende = "ende"  # Old Saxon "and", quoted verbatim from the Old Saxon Baptismal Vow
                # (c. 800): "Thunaer ende Woden ende Saxnote" —
                # encounters/jotunheim-trees-rite.md
