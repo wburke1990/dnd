@@ -232,9 +232,9 @@ descendant of humanoids"* with *"a soul, organs, a heart"*
 mutation** of the Muspel folk, who were dragon-people ([the mutation](the-muspel-empire.md)
 §2). The stone is what the comet-sickness did to the body; the lineage under it never
 changed — so "the rock is superficial" is the plain fact of it. `[settled — play, S10]`
-Jasper's line runs back to **Musleheim:** his hometown is a Company coffee-plantation town
-there (Jogo named it, [S10](../sessions/session-10.md); see
-[jasper-dm-notes](../characters/jasper-dm-notes.md)).
+Jasper's line runs back to **Musleheim:** his hometown is **[Zarta](nila-atlas.md)**, a
+Company coffee-plantation town there (Jogo named the plantations, [S10](../sessions/session-10.md);
+see [jasper-dm-notes](../characters/jasper-dm-notes.md)).
 
 The reveal: the eco-warrior who *looks* most like living stone, standing beside
 friends who will dissolve into the land (Sarric) or choose it (Pax), is the

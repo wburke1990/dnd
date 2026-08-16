@@ -71,7 +71,7 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 - **The party latched onto the leprosy tomatoes.** They couldn't stop asking questions
   about them — a live hook now, more than the coffee or the sugar.
 - **Jogo's reveal — the leprosy tomato.** Under a barrage of questions Jogo explained
-  he's a **restaurateur** (his place, **Zarta**) who buys the finest foods off the ships
+  he's a **restaurateur** who buys the finest foods off the ships
   that dock in Maalm. He's heard tale of **a tomato the Company makes that gives leprosy
   to whoever eats it**, and the **only known source is [Copaa](../lore/copaa.md) — where
   the lepers come from.** The party: *"The lepers come from Copaa?"* — and Jogo **teased
@@ -240,7 +240,7 @@ sailed yet** — next session opens on the departure.
 
 ## [OPEN]
 
-- **Jogo** — a Maalm **restaurateur** (his place, **Zarta**) who buys the finest foods
+- **Jogo** — a Maalm **restaurateur** who buys the finest foods
   off the docking ships; met at the coffeehouse after V. left, a chatty Company
   gossip/info-source (coffee in Jasper's home town, sugar, the Copaa leprosy tomatoes).
   `[OPEN]` whether he recurs.
@@ -250,9 +250,9 @@ sailed yet** — next session opens on the departure.
   - **Aniess** — **Ekkek** (Greg's guess; "Ellen" earlier was an autocorrect of Ekkek — one
     town, hers). Reconcile with her established **Suartleheim** origin
     ([lineages §10](../lore/lineages-and-afterlives.md)).
-  - **Jasper** — **settled: a Company coffee-plantation town in Musleheim** (Jogo named the
-    plantations in his hometown, above; fits his Earth-Genasi / Muspel origin, and answers
-    the Musleheim question in [lineages §7](../lore/lineages-and-afterlives.md)). `[OPEN]` a
-    name for the town.
+  - **Jasper** — **[Zarta](../lore/nila-atlas.md)**, a Company coffee-plantation town in
+    **Musleheim** (already in the atlas; Jogo named the plantations in his hometown, above).
+    Fits his Earth-Genasi / Muspel origin and answers the Musleheim question in
+    [lineages §7](../lore/lineages-and-afterlives.md).
   - The rest couldn't recall. To place in [party-roster](../characters/party-roster.md) / PC
     dm-notes once settled.

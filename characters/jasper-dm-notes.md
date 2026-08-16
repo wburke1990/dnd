@@ -47,13 +47,14 @@ Jasper may not know about the camp. If he doesn't, hearing Sarric's confession i
 
 ---
 
-## His hometown — a Company coffee town in Musleheim `[settled — play, S10]`
+## His hometown — Zarta, a Company coffee town in Musleheim `[settled — play, S10]`
 
-Settled in play: Jasper's home town is a **[Company](../lore/the-company.md) coffee-plantation
-town in Musleheim** — Jogo named the plantations in his hometown at the coffeehouse
-([Session 10](../sessions/session-10.md)). That places his line in **Musleheim**, answering
-the open question in [lineages & afterlives §7](../lore/lineages-and-afterlives.md) (earth
-genasi are the Bad-Pass mutation of the Muspel folk).
+Settled in play: Jasper's home town is **[Zarta](../lore/nila-atlas.md)** — a
+**[Company](../lore/the-company.md) coffee-plantation town in Musleheim** (Zarta is already
+in the atlas; Jogo named the plantations in his hometown at the coffeehouse,
+[Session 10](../sessions/session-10.md)). That places his line in **Musleheim**, answering the
+open question in [lineages & afterlives §7](../lore/lineages-and-afterlives.md) (earth genasi
+are the Bad-Pass mutation of the Muspel folk).
 
 - **The Company is the oligarch Doug wrote.** Doug's backstory has oligarchs and an
   environmental disaster wreck Jasper's community; the Company's plantation clearances in
@@ -62,8 +63,8 @@ genasi are the Bad-Pass mutation of the Muspel folk).
   coffee V. served is the one that cleared his home ground.
 - **Same wound as Sarric's Eet.** The Company now sits on two PCs' homelands — Sarric's Eet
   and Jasper's Musleheim town — so V.'s "the coffee isn't clean" cup points at both.
-- `[OPEN]` a name for the town; and whether his community's destruction is the recent Company
-  clearance, the lingering Bad-Pass sickness (above), or both.
+- `[OPEN]` whether his community's destruction is the recent Company clearance, the lingering
+  Bad-Pass sickness (above), or both.
 
 ---
 
