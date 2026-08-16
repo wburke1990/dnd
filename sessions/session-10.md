@@ -176,9 +176,14 @@ The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md
   this arc, and the reason to commit to it now. `[OPEN]` "put every ninja team on this" —
   whether that means the **party goes all-in**, or Preem's **rival name-hunter crews all
   converge** on the once-a-year hunt (the window pulling every crew to the one spot).
-- `[OPEN]` **the voyage** — aboard the Second Hand's chartered transport, bound for the
-  Sacred Hunt; the sailing ambush set off Blackacre's traded charts is still ahead
-  ([Departure Under Fire](../encounters/docks-departure.md)).
+- **The docks / sailing ambush was skipped** — the party's agreeing to work for V. took
+  it off the table; [Departure Under Fire](../encounters/docks-departure.md) went unused.
+  They sail on the Second Hand's chartered transport toward the Sacred Hunt.
+- **Next session (V.'s sending-stone message).** V. will reach Sarric through the stone she
+  gave him: she got out of Maalm alive, wants Sarric to **apologize to Blackacre on her
+  behalf**, and reveals she **didn't kill Fester after all** — he's sore about the missing
+  fingers. (Fester reads as **Ratatat**, the rat man Jasper de-fingered in S6 — confirm.)
+  See [V. prep](../encounters/v-second-contact.md).
 
 ---
 

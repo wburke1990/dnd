@@ -463,3 +463,14 @@ ended. What landed at the table:
 - **Her exit:** she winks at Blackacre as she leaves.
 - `[OPEN]` the full **per-PC offer/pay** beyond the "what is Preem up to" brief. (The
   atlas: **lifted** — found gone at the docks.)
+- **The docks ambush was skipped** once the party signed on with her ([Departure Under
+  Fire](docks-departure.md) went unused).
+
+## Next session — V.'s message (via Sarric's sending stone)
+
+She reaches Sarric through the stone she gave him:
+
+- She **got out of Maalm alive.**
+- She has Sarric **apologize to Blackacre on her behalf** (for lifting his map).
+- She reveals she **didn't kill Fester after all** — he's sore about the missing fingers.
+  `[OPEN]` confirm **Fester = Ratatat** (the rat man Jasper de-fingered, [S6](../sessions/session-06.md)) or a distinct NPC.
