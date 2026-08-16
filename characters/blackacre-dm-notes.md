@@ -41,8 +41,13 @@ generation leave.
 It also gives them a way to survive being proved wrong about the two trees, which
 otherwise leaves them with nothing to do about it.
 
-`[OPEN]` whether the zealots would accept this from a nomad, and who inside the caldera
-would argue for it.
+**Who carries it inside the caldera.** `[Will 8/16]`
+**[Duha al-Warraq](duha-al-warraq.md)**, who keeps the zealots' books and has been
+making a version of this argument out of the creed for most of her life, and losing.
+She has never met a nomad. When Blackacre says her own argument back to her in the
+nomads' words, that is the scene the reconciliation turns on.
+
+`[OPEN]` whether the zealots would accept it from a nomad even with her behind it.
 
 ---
 
