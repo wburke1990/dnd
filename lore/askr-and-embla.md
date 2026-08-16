@@ -110,27 +110,52 @@ forest-nameless and expect to be judged in the sky.
 
 ---
 
-## How the party finds out
+## What the party sees
 
-Six ways, in rough order of how cheap they are to run.
+Nothing above gets explained to them. No priest or scholar lays it out, and no roll
+produces the answer. Each of these is something that happens in front of the party, and
+the party draws its own conclusions.
 
-1. **The nomads have never heard of it.** The wandering dragonborn kept the older faith
-   and have no first pair at all ([Blackacre](../characters/blackacre.md)). The trees
-   appear only in the zealots' telling.
-2. **Nothing else is named for them.** Ask the party to look: no ship, no child, no
-   shrine, no oath, nowhere on the island or anywhere in the dragonborn diaspora. Do
-   not point it out.
-3. **Two copies of the book that disagree.** Give them the zealots' creation in two
-   hands, and let one have a passage the other does not — the passage naming the trees.
-   `[OPEN]` where the second copy comes from.
-4. **The leaves are in a different hand and ink.** The pages carrying the creation do
-   not match the book they sit in.
-5. **The trees remember nothing earlier.** The nameless carry the memory they are given
-   ([lineages & afterlives](lineages-and-afterlives.md) §5, §11). Ask the ash and the
-   elm what happened before the gods found them and there is nothing there, because
-   nothing was supplied. A real first pair would remember the early world.
-6. **Pax carries the true memory.** The forest's common stock still holds what these two
-   were ([the rite](../encounters/jotunheim-trees-rite.md), stage 2).
+**The ash under the roots.** The eruption blew the island apart and buried what was
+left ([Lonka / Jotunheim](lonka-jotunheim.md) §2). Dig at the foot of either tree — or
+find a root the weather has opened at the cliff edge — and the ash layer is *under*
+them. The trees are rooted above the ash. The zealots say the trees were made at the
+world's beginning.
+
+**Two accounts from the same priest.** Stand the party through the teaching at the trees. The story
+the priest recites says three came and *found* the two lying on the ground, without
+fate, empty of might, and gave them breath. The doctrine the same priest states in the
+same hour is that the two are the children of the dragon. Say both lines at the table,
+in the priest's own voice, and stop there. The priest states both without comment.
+
+**What the trees can and cannot answer.** Ask the ash what was there before the gods
+came, who else was on the ground, what the weather was — anything the story does not
+cover — and there is nothing. Ask either of them something a forest-person would know:
+how their people lie down, or what the litter smells of at the end of the year. They
+answer without hesitating, and cannot say how they know it.
+
+**Two recitations that do not match.** The zealots teach the creation at the trees, and
+the trees give it back when asked. The trees keep a line the priests have dropped.
+Neither the zealots nor the trees have heard the other's version. The party has heard
+both. `[OPEN]` which line.
+
+**A name nobody carries.** Let them look at the places where names are written down or
+called out — the muster, the tomb-slabs, the door-lintels, the ships in the bay, a
+square full of children being called in for supper. Taniyn is everywhere. In 1,900
+years on this island nobody has named a son Askr. Do not point it out.
+
+**Leaves that do not match the book.** Three leaves in the zealots' book, cut a little
+short, a different white, a different hand, sewn into a gathering that did not have
+them. Hold it up to a lamp. Describe the stitching.
+
+**The nomad who takes it for a foreign religion.** Tell it to one of Blackacre's people
+and he asks, politely, which people it belongs to
+([Blackacre](../characters/blackacre.md)).
+
+**Pax answers for them.** He carries what the forest's common stock still holds about
+these two ([the rite](../encounters/jotunheim-trees-rite.md), stage 2). Play it as him
+being able to answer questions about the ash and the elm that the ash and the elm
+cannot answer about themselves.
 
 ---
 
