@@ -149,13 +149,21 @@ keep it light.
 
 - **A day in port** clears the hull boxes and **refills stores** — the practical
   reason to stop.
-- **The watch-stone — hand out the vision.** At whichever port they land, the first
-  thing ashore is **Musa's watch-stone** over the harbour — the tomb of the dragonborn
-  prophet who led the gnomes out of poisoned Kalikhat to found
-  [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md). Give the players
-  **[the Locksley Hall vision handout](../handouts/locksley-hall-vision.md)** to read;
-  no check, no scene needed. (The stone "wears the eye" of the buried giant Balor in
-  the Haals mine — that's the vision's true source, but David doesn't need to say so.)
+- **The watch-stone — four poems to hand out.** At whichever port they land, the first
+  thing ashore is **Musa's watch-stone (the massebah)** over the harbour — the tomb of
+  the dragonborn prophet who led the gnomes out of poisoned Kalikhat to found
+  [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md). It carries **four
+  inscriptions**; hand them over as printed handouts, no check, no scene:
+  - **[Vision of the Future](../handouts/locksley-hall-vision.md)** (Tennyson) — Musa's
+    founding prophecy.
+  - **[the lament for Kalikhat](../handouts/into-my-heart-an-air-that-kills.md)**
+    (Housman) — the gnomes' grief for the home they lost.
+  - **[The Second Coming](../handouts/the-second-coming.md)** (Yeats) — a prophecy of
+    his already come true: the desert beast that woke and was ended.
+  - **[The Pale Horse](../handouts/revelation-6-pale-horse.md)** (Revelation) — his last
+    vision, still ahead: the coming comet-pass.
+  - (The stone "wears the eye" of the buried giant Balor in the Haals mine — the
+    vision's true source, but David doesn't need to say so.)
 - **Aar** is the **[Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) ore-port** —
   the Company ships the Haals mine's ore out through it, downstream of **Copaa** (the
   poisoned river, the leprosy tomatoes, the tomb-lepers' home from S10). So Aar is

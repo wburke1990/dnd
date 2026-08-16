@@ -47,7 +47,8 @@ Firbolg among strangers.
 **The reveal.** The giant is the source of the gnomes' founding prophecy.
 [Musa, the wandering dragonborn seer who "dipt into the future"](../lore/the-fallen-gnome-kingdom.md)
 and carried the gnomes here to take this land — Musa dipt into the **giant.**
-The vision cut into his [watch-stone over Aar](../handouts/locksley-hall-vision.md)
+The vision cut into his
+[watch-stone over the port where the party land — Aar or Aal](../handouts/locksley-hall-vision.md)
 is the giant's. The prophecy that built the gnome kingdom and sanctified taking
 the land from the Firbolg came out of the same mountain the gnomes later broke
 open, and the breaking destroyed them. The founding prophecy and the fall came from
@@ -65,7 +66,7 @@ the same giant, asleep at the bottom of the mine.
   — Balor, the drift dangers, the returners and the piper the giant's eye makes.
 - [Sarric](../characters/sarric.md) — the Firbolg the giant spares; the scene is
   built on him being a Firbolg, kin to the giant.
-- [The watch-stone vision at Aar](../handouts/locksley-hall-vision.md) — the
+- [The watch-stone vision at the port](../handouts/locksley-hall-vision.md) — the
   founder's cut-in prophecy, which the giant says is its own.
 
 ---
@@ -126,7 +127,7 @@ moment, thousands of years back: **Musa**, the wandering dragonborn seer who
 carried the gnomes out of [Kalikhat](../lore/lonka-jotunheim.md) by sea, has gone
 in to the giant, been shown the future, and come out with it — the vision that
 drives the conquest and ends up cut into his
-[watch-stone over Aar](../handouts/locksley-hall-vision.md). He has not taken the
+[watch-stone over the port](../handouts/locksley-hall-vision.md). He has not taken the
 land yet. He is about to.
 
 He came with **five gnomes** — all his boat would carry. Musa founds; the long war
@@ -142,11 +143,11 @@ the future he was given — and he will talk.
 He is a **wandering dragonborn**, [Blackacre's own people](../characters/blackacre.md)
 — the kind of solitary wandering saint
 [Blackacre's faith venerates](../lore/wandering-dragonborn.md), met alive; the
-watch-stone over Aar is his grave.
+watch-stone over the port is his grave.
 
 **He wants to know if what he saw is true.** He has the vision fresh and
 half-formed, and the party is standing proof of how it comes out. He asks what the
-land becomes, who holds Aar, what he founds — and the answer runs past his kingdom
+land becomes, who holds the port, what he founds — and the answer runs past his kingdom
 to the fall, the Mughals, and the Company. Let the party tell him, or hold it back.
 
 - *"I have seen it. We take this land and hold it. Tell me I am right."*
@@ -210,7 +211,7 @@ they are different from the gnomes he left, and Kuru later
 [crusaded against them](../lore/world-history-timeline.md).
 
 `[OPEN — discuss with David]` whether the party is **in** the vision Musa was just
-given — whether the prophecy on the Aar stone includes them — and whether anything
+given — whether the prophecy on the harbour stone includes them — and whether anything
 they tell him here changes what he does, and so changes the present. (The
 [gnome-kingdom doc](../lore/the-fallen-gnome-kingdom.md) is now settled to **by
 sea** — Musa carried five gnomes in his boat, and their descendants grew the
@@ -323,7 +324,7 @@ descended from him; Pax is off the brother line.
 | When | He says |
 |---|---|
 | Asked about Musa, or if they mention meeting him above | *"The dragonborn came in at that mouth. He is going out at it now. You passed him."* |
-| Asked where the founding prophecy came from | *"The dragonborn who dipt into the future dipt into me. The land he promised your enemies, I showed him. My eye is cut into the stone over the harbour at Aar."* |
+| Asked where the founding prophecy came from | *"The dragonborn who dipt into the future dipt into me. The land he promised your enemies, I showed him. My eye is cut into the stone over the harbour."* |
 | Accused of arming the conquest of his own kin | *"I showed him what is there. What he did with it, I had already seen him do."* |
 | Pressed — his own kin were killed for it | *"They came back to me. They are here."* The [earth-nameless return to the earth](../lore/lineages-and-afterlives.md); the Firbolg dead are in the stone the party is standing in. |
 | Asked whether he was awake when the gnomes broke into the graves | *"I am asleep the day the gnomes break the wall, and I am speaking to you now, and both are now."* |
@@ -513,7 +514,7 @@ Firbolg fate as the absence of the only thing that lasts.
 **Deuteronomy 34 — Moses on Pisgah.** Shown the whole land, told he will not go over
 into it, buried in a grave no one knows. Musa is
 [Moses and Joshua at once](../handouts/locksley-hall-vision.md), and his watch-stone over
-Aar is that grave.
+the port is that grave.
 
 **Numbers 13 — the spies.** *We are well able to overcome it.* Scripture instead of
 argument.
