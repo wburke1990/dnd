@@ -16,7 +16,7 @@
   (Tennyson), and beside it the gnomes'
   [lament for lost Kalikhat](../handouts/into-my-heart-an-air-that-kills.md) (Housman) — a people
   grieving the home they fled, on the ground they took. `[run]` For the party it stands over
-  whichever port they land at (the port writeup is [Aar](copaa.md)'s; if they land at Aal, swap it
+  whichever port they land at (the port writeup is [Aar](aar.md)'s; if they land at Aal, swap it
   wholesale into Aar's role, only ever the one).
 - **The Firbolgs were here first.** The [handprints in La Cava](../encounters/temple-sites.md) at
   Haals are **theirs**, older than the gnomes — [Sarric's people](../characters/sarric.md), the
