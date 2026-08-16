@@ -88,63 +88,60 @@ came for it almost as soon as they'd settled (§4).
 
 ## 4. The Zealot Reconquest — the dragonborn walk home (~1,900 ya)
 
-`[settled 6/22]` The dragonborn who took Jotunheim back did not come *from parts unknown* —
-they came **from Muspelheim, on foot, under the sea.** The chain:
+`[settled 6/22]` The dragonborn who took Jotunheim back came **from Muspelheim, on foot,
+under the sea.** In order:
 
-- **The dragonborn built the iron north.** When the comet raised **Musleheim** (~4,000 ya), the
+- **The dragonborn built Musleheim.** When the comet raised it (~4,000 ya), the
   dragonborn were **the only people on Nila with ships** (the master-mariner lashed tradition).
   So they were **founding members of the [First Foundation](the-first-foundation.md)** ("men
   *and* dragonborn") and of the **[Muspel empire](the-muspel-empire.md)** — and, settled on a
-  rich land empire for the first time in their history, they **multiplied** as a wandering
-  sea-people never could.
+  rich land empire for the first time in their history, their numbers grew far past anything
+  they had reached at sea.
 - **A land empire changed their faith.** Across **1,000+ years** running Muspelheim, their
-  dragon-religion **drifted** — from the nomad's creed (*honor the flight, keep roaming*) toward
-  something **place-bound, insular, zealous** (*guard the holy ground*). This is the origin of
-  the **zealots**, who are divided from the wandering saints (see
-  [Taniyn & Lonka](taniyn-and-lonka.md)).
-- **Then they left — and it shows on the map.** The empire founds **Kuru only *after* they're
-  gone** (~1,800 ya) — which is exactly why that colony is **nearly all human** (and why Muspel
-  and Kuru both read as *man*-dominated). Where did the dragonborn go? **Home.** The **hot
-  spot's drift southeast** had cooled the **northwest coast of Muspelheim** enough to enter — the
-  tunnels nearest the hot spot are full of molten rock — so the road under the sea had stood open for
-  centuries. But the zealots did not move until **Maalm planted a colony on the holy island
-  (~2,000 ya):** *that* desecration is what finally sent them, **~1,900 ya,** walking the Abyss
-  tunnels to the one island in range: **Jotunheim / Lonka,** Taniyn's first perch. (Still *before*
-  Kuru's founding ~1,800 — so Kuru stays all-human.)
-- **The zealots remember the break as a calling. It was a falling-out.** `[settled — Will]` They meant to
+  dragon-religion **changed** — from the nomad's creed (*honor the flight, keep roaming*) to a
+  **place-bound** one (*guard the holy ground*). This is the origin of the **zealots**, who are
+  divided from the wandering saints (see [Taniyn & Lonka](taniyn-and-lonka.md)).
+- **Then they left.** The empire founds **Kuru only *after* they're gone** (~1,800 ya), which is
+  why that colony is **nearly all human** (and why Muspel and Kuru both read as
+  *man*-dominated). They went back to Lonka. The **hot spot's drift southeast** had cooled the
+  **northwest coast of Muspelheim** enough to enter — the tunnels nearest the hot spot are full
+  of molten rock — so the tunnels had been passable for centuries. But the zealots did not move
+  until **Maalm planted a colony on the holy island (~2,000 ya):** the colony is what sent them,
+  **~1,900 ya,** walking the Abyss tunnels to the one island in range: **Jotunheim / Lonka,**
+  Taniyn's first perch. (Still *before* Kuru's founding ~1,800 — so Kuru stays all-human.)
+- **The zealots call the break a calling; it was a falling-out.** `[settled — Will]` They meant to
   retake the holy island by **massacring the colonists,** and the empire's **own humans would not
-  put their name to a religious slaughter** (little love for the Maalm colony, but killing them
-  all crossed a line). Rebuffed, the dragonborn **broke away and went alone** — a clean dragonborn–human rupture, and the **start of the Time of
-  Troubles** (see [world-history timeline §VI](world-history-timeline.md)).
-- **You can't storm a fortress-caldera from the open sea** (sheer cliffs, one guarded channel,
-  §5) — so they **didn't.** They came **up from underneath,** out of the tunnels into the bay,
-  and **massacred the Maalm colonists (elves and men)** who had held the island barely a century
-  (§3). To them it was not conquest but **reconsecration** — the dragon's first perch taken back
-  from usurpers (the on-file analogy: *the Crusaders retaking Jerusalem*).
+  put their name to a religious slaughter** (little love for the Maalm colony, but they would not
+  kill them all). Rebuffed, the dragonborn **broke away and went alone** — the dragonborn and the
+  humans split, and the **start of the Time of Troubles** (see
+  [world-history timeline §VI](world-history-timeline.md)).
+- **The caldera cannot be taken from the open sea** (sheer cliffs, one guarded channel, §5), so
+  they came **up from underneath,** out of the tunnels into the bay, and **massacred the Maalm
+  colonists (elves and men)** who had held the island barely a century (§3). They called it
+  **reconsecration** — the dragon's first perch taken back from usurpers (the on-file analogy:
+  *the Crusaders retaking Jerusalem*).
 - **What they thought the killing was for.** `[Will 8/16]` Clearing the ground was part of it,
-  and not the main reason. **The dragons had already stopped coming** (§6), and the zealots meant to
-  **bring them back** — to cut
-  the [covenant](../encounters/the-covenant-rite.md) again, at scale, and pledge themselves anew in
-  the true religion. A covenant is cut in blood, so this was that rite performed on a colony, with
-  **the colonists in the place of the heifer and the goat and the ram.** (Genesis 15:9 word for
-  word — a quotation, doing work here on purpose. Leave it alone.)
-- **Nothing came, and the reason is the flattest one available.** There was nobody on the other
-  side of it. The dragons had followed the hot spot southeast (§6) and were not in the world to
-  hear it, so the blood did not fail on a technicality or on the zealots being unworthy of it —
-  **it was an offer made to an empty room.** They have held the island 1,900 years without that
-  explanation, because the one thing they cannot entertain is that their gods are simply not
-  there.
+  and not the main reason. **The dragons had already stopped coming** (§6), and the zealots meant
+  to **bring them back** — to cut the [covenant](../encounters/the-covenant-rite.md) again, at
+  scale, and pledge themselves anew in the true religion. A covenant is cut in blood, so this was
+  that rite performed on a colony, with **the colonists in the place of the heifer and the goat
+  and the ram.** (Genesis 15:9 word for word — a quotation, doing work here on purpose. Leave it
+  alone.)
+- **Nothing came. There was nobody on the other side of it.** The dragons had followed the hot
+  spot southeast (§6) and were not there, so the blood did not fail on a technicality or on the
+  zealots being unworthy of it. They have held the island 1,900 years without that explanation,
+  and they do not entertain that their gods are not there.
 - **The zealots have it backwards.** The dragons left because
   [the hot spot drifted](#6-the-dragons-no-longer-come) — the same drift that cooled the
-  northwest coast and opened the tunnel road they walked in on. The holy island stood empty of
+  northwest coast and opened the tunnels they walked in through. The holy island stood empty of
   dragons for generations, **which is the only reason Maalm could plant a colony on it at all.**
-  The settlers arrived because the dragons had already gone; the zealots killed them for the
-  dragons' going. They were chosen because they were outsiders standing on the ground, and it
-  was a slaughter.
+  The settlers arrived after the dragons had gone, and the zealots killed them for the dragons'
+  going. They were chosen because they were outsiders standing on the ground, and it was a
+  slaughter.
 
 These are the **Lonka Zealots** of the lost-tribes / reclamation thread (*Sam's quest*; see
-[Blackacre](../characters/blackacre.md), the wandering nomad whose arc is to **mend the
-zealot/nomad rift** — his own falling-out with Sayid was the [Floating Fleet](floating-fleet.md)
+[Blackacre](../characters/blackacre.md), the wandering nomad whose arc is to **reconcile the
+zealots and the nomads** — his own falling-out with Sayid was the [Floating Fleet](floating-fleet.md)
 ship-seizure he lost his nerve for, not anything at Lonka). They hold the caldera still: **insular, mistrusted by the rest of the archipelago,
 but safe** behind their cliffs through the centuries since.
 
@@ -201,15 +198,15 @@ reached by a single guarded channel (the model is **Moorcock's Melniboné**).
   **sky dragon having won** Lonka's Ragnarok (see the Manichean note below).
 - **The dragons no longer come — and the Zealots don't know why.** `[settled]` The
   Dragon Turtle is the **only** one left: **no living dragons visit Lonka any more.** The
-  Zealots bled to reconsecrate the dragon's first perch (§4), yet their gods have
-  **abandoned the holiest ground in the world,** leaving just the turtle in the bay.
+  Zealots bled to reconsecrate the dragon's first perch (§4), and their gods **no longer
+  come to Lonka,** leaving just the turtle in the bay.
   `[Will 8/16]` The dragons were **already gone before the
   massacre** — gone for generations, which is what let Maalm settle the island in the
   first place — so the killing was never a reprisal for a desecration that drove them
   off. It was an attempt to **call them back** (§4), and it failed. 🔒 The
   reason is cosmological — **dragons follow the hot spot, and the hot spot has drifted
   southeast off Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas — but
-  to the zealots it is an **unexplained desolation**, and they grow more dangerous about
+  the zealots do not know why the dragons are gone, and they grow more dangerous about
   it. The same thing happens in
   **[Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
   to you; you did not come; we did everything right and it meant nothing*
@@ -290,8 +287,9 @@ was previously open. **Whether it happens is still
   is theirs to raise. `[draft]` How large it is is open, and so is whether the rest of
   the archipelago knows the dragonborn can still field a fleet.
 
-- **Why they sail.** §5's wound — the dragons abandoned Lonka and the zealots don't know
-  why — has an answer the zealots don't have: dragons follow the **hot spot**, and it has
+- **Why they sail.** §5's open question — the dragons no longer come to Lonka and the
+  zealots do not know why — has an answer they do not have: dragons follow the **hot
+  spot**, and it has
   **drifted southeast off Lonka to Moku Kurunatuka** ([overview §5](campaign-overview.md)),
   where dragons and demons are now gathering for the coming pass. Once the zealots learn
   where their gods went, Moku becomes **the new holy ground**, and the colonists living
@@ -331,7 +329,7 @@ was previously open. **Whether it happens is still
   is already inbound for ships and timber. A dragonborn fleet on top of that settles the
   war for the islands.
 
-- **`[OPEN — deferred]` A second reason to sail: stopping the pass.** A darker version has
+- **`[OPEN — deferred]` A second reason to sail: stopping the pass.** Another version has
   the zealots sail to prevent another forced Ragnarok — they, of all people, know what one
   does. This needs a **First Foundation presence inside Jotunheim's leadership**, and David
   has not decided, so keep it as a possibility, not the working version. Taken up, they

@@ -11,38 +11,34 @@
 > Companions: [lineages & afterlives](../lore/lineages-and-afterlives.md) (the two
 > agreements, and the rites that move you between cosmologies),
 > [Musa in the Haals mine](the-mines-of-haals.md) (who offers it, and to whom),
-> [the Jotunheim trees rite](jotunheim-trees-rite.md) (the same rite run backwards),
+> [the Jotunheim trees rite](jotunheim-trees-rite.md) (the reverse of this rite),
 > [house rules](../lore/house-rules-and-world-mechanics.md) (true names, geis).
 
 ---
 
-## The two rites are the same rite, in opposite directions
+## How the two rites correspond
 
-Worth seeing before anything else. **[The Jotunheim rite](jotunheim-trees-rite.md)
-ends by striking a name and laying none on.** This one ends by laying a name on.
-Every other stage lines up: a threshold, terms read out, a renunciation the subject
-must speak alone, blood, and a name at the end. Pax's rite takes two of the nameless
-out of a court and hands them back to the stock. This one takes one of the nameless
-out of the stock and hands them to a court.
+[The Jotunheim rite](jotunheim-trees-rite.md) ends by striking a name and laying none
+on. This one ends by laying a name on. Every other stage lines up: a threshold, terms
+read out, a renunciation the subject must speak alone, blood, and a name at the end.
+Pax's rite takes two of the nameless out of a court and hands them back to the stock.
+This one takes one of the nameless out of the stock and hands them to a court.
 
-Both are real. Both work performed coldly. The campaign has one of each, pointed at
-two different players.
+Both are real and both work performed coldly. One rite is performed by Pax; the other
+is offered to Sarric.
 
 ---
 
-## What the rite is, and what it is not
+## What the rite does
 
-It is **not** a conversion in the sense of changing your mind. Belief is not a term.
-The rite establishes **jurisdiction** — after it, a named court has the authority to
-weigh you and to keep you. You have agreed to be held to account, which is the same
-act as agreeing to be *held*.
+The rite does not require belief. It establishes **jurisdiction** — after it, a named
+court has the authority to weigh the pledger and to keep him, and he has agreed to
+that authority.
 
-And it does not add. **A pledge moves you.** Whatever claimed you before does not
-claim you afterwards. For a dragon-person changing religions this is a transfer
-between courts. For one of the nameless it is an emigration out of the earth: they
-stop returning to the land, which means they stop being part of the stock their
-people are drawn from. Say that at the table in those words before anyone agrees to
-anything.
+A pledge also **replaces whatever claimed you before**. For a dragon-person changing
+religions that is a transfer between courts. For one of the nameless, they stop
+returning to the land, which means they stop being part of the stock their people are
+drawn from. Say that at the table in those words before anyone agrees to anything.
 
 ---
 
@@ -54,8 +50,8 @@ meant to be read aloud, verbatim — see the standing rule on
 
 ### 1. The stone raised — *matzevah*
 
-The pledger sets up a standing stone and pours oil on the top of it. It is his, he
-raises it himself, and it stays where it is raised.
+The pledger sets up a standing stone and pours oil on the top of it. He raises it
+himself, and it stays where it is raised.
 
 > *And took the stone that he had put for his pillows, and set it up for a pillar,
 > and poured oil upon the top of it.* — Gen 28:18
@@ -75,13 +71,13 @@ speak until the price is named.
 > *And he took the book of the covenant, and read in the audience of the people.*
 > — Ex 24:7
 
-`[OPEN]` whether a court may lie here. If the reading is always honest, the rite is
-cruel but clean, and everyone who took it knew. If a court can shade the terms, the
-covenant is a swindle and the party can prove it.
+`[OPEN]` whether a court may lie here. Either the terms are always stated in full and
+everyone who took the covenant knew them, or a court can misstate them and the party
+can prove it.
 
 ### 3. The consent, spoken alone — and the renunciation
 
-Nobody may say it for you. This is the same doctrine that governs
+Nobody may say it for the pledger. This is the same doctrine that governs
 [stage 3 at Jotunheim](jotunheim-trees-rite.md): nothing is taken off anyone without
 their consent, and the subject speaks it in their own voice or it does not happen.
 
@@ -90,19 +86,20 @@ their consent, and the subject speaks it in their own voice or it does not happe
 > *Ye are witnesses against yourselves that ye have chosen you the LORD, to serve
 > him.* — Josh 24:22
 
-**Witnesses against yourselves** is the whole of it and should be read slowly. The
-pledger's consent is the thing that will be produced against him at judgment.
+Read that second verse aloud. The pledger's consent is what will be produced against
+him at judgment.
 
-**And there is a renunciation**, because a pledge moves you and the thing it moves
-you out of has to be let go of aloud. For one of the nameless that means saying, in
-his own voice, that he gives up his return to the earth. **Nobody can say this part
-for Sarric**, and there is no wording that makes it sound like less than it is.
+**And there is a renunciation**, because a pledge replaces what claimed you before,
+and the thing being replaced must be renounced aloud. For one of the nameless that
+means saying, in his own voice, that he gives up his return to the earth. **Nobody
+can say this part for Sarric**, and he would be giving up his place in the stock his
+people are drawn from.
 
 ### 4. The cutting — *karat brit*
 
-A covenant is not made, it is **cut**. The animals are divided down the middle and
-the halves laid opposite each other with a path between, and the birds of prey that
-come down at the carcasses have to be driven off by hand.
+The Hebrew for making a covenant is *karat brit*, to **cut** one. The animals are
+divided down the middle and the halves laid opposite each other, and the birds of
+prey that come down at the carcasses have to be driven off by hand.
 
 > *Take me an heifer of three years old, and a she goat of three years old, and a ram
 > of three years old, and a turtledove, and a young pigeon.*
@@ -115,8 +112,8 @@ come down at the carcasses have to be driven off by hand.
 
 ### 5. The blood divided, and the name laid on
 
-Half the blood goes on the stone, half goes on the person. The two parties are
-marked out of the same basin.
+Half the blood goes on the stone, half goes on the person. The two parties are marked
+out of the same basin.
 
 > *And Moses took half of the blood, and put it in basons; and half of the blood he
 > sprinkled on the altar.*
@@ -125,9 +122,9 @@ marked out of the same basin.
 > these words.* — Ex 24:6, 8
 
 Then the name is spoken over him and written into the record the court reads at
-judgment. **This is the moment the thing that can be owned is made** — a soul that
-persists as itself is a soul with a name, and a name is a key
-([house rules](../lore/house-rules-and-world-mechanics.md)). Everything
+judgment. **At this stage the soul becomes something that can be owned**: it now
+persists as itself, it has a name, and a true name gives whoever holds it power over
+the named ([house rules](../lore/house-rules-and-world-mechanics.md)). Everything
 [Preem](../characters/preem.md) sells traces back to this stage of this rite,
 performed on somebody's ancestors and consented to.
 
@@ -144,9 +141,8 @@ spilled, a martyr's deposited, the celebrant's own offered. **The covenant uses 
 fourth: a substitute's, divided.** The animal dies in the place of whoever breaks the
 agreement, and half of its blood goes on the person it stands in for.
 
-It is the only one of the four where **the blood is split between two parties rather
-than given by one to the other.** Keep that straight; it is what makes this a bargain
-and not an offering.
+In the other three, the blood is given by one party to the other. Here it is split
+between both.
 
 ---
 
@@ -159,18 +155,18 @@ the rite lives in **a book** the party has to obtain; the equivalent here is tha
 terms have to be read out in stage 2, and Musa would have to have them.
 
 **If he can do it in the mine**, Jeremy has a decision in front of him that session.
-**If he cannot**, the offer follows the party out of the mountain and can be taken up
-much later, by anyone, which is probably the better game.
+**If he cannot**, the offer stands after the party leave the mountain and can be taken
+up much later, by anyone.
 
 ---
 
 ## `[OPEN]`
 
 - **Does a dragon have to be present, or even aware?** The rites work performed coldly
-  ([lineages](../lore/lineages-and-afterlives.md)), so probably the rite binds the
+  ([lineages](../lore/lineages-and-afterlives.md)), so the rite probably binds the
   pledger whatever the court is doing — which would mean people have gone on pledging
-  themselves to courts that stopped listening. [Jotunheim](../lore/lonka-jotunheim.md)
-  is the case that turns on this.
+  themselves to courts that no longer answer.
+  [Jotunheim](../lore/lonka-jotunheim.md) is the case that turns on this.
 - Whether a court may misstate the terms at stage 2.
 - Whether Musa can perform it in the tunnel, or only offer.
 - What a **broken** covenant looks like from the inside — whether a court can strike
@@ -185,12 +181,12 @@ much later, by anyone, which is probably the better game.
 ## Sources
 
 Genesis 15:9–11 (the animals divided; *karat berit*, to cut a covenant). The theophany
-that follows at 15:12–17 is deliberately **not** used — a fire passing between the halves
-is a one-time event with Abram, and making it a repeatable stage put a dragon physically
-walking down a corridor of bisected livestock, which is not what any of this is.
-Genesis 28:18–22 (the pillar, the oil, and Jacob's vow). Exodus 24:4–8 (the twelve
-pillars, the book of the covenant read aloud, the blood divided between altar and
-people). Joshua 24:22, 27 (witnesses against yourselves; the stone that has heard).
+that follows at 15:12–17 is deliberately **not** used: a fire passing between the halves
+happens once, to Abram, and making it a repeatable stage of the rite required a dragon
+to walk the corridor between the divided animals, which does not fit the rite or the
+dragons. Genesis 28:18–22 (the pillar, the oil, and Jacob's vow). Exodus 24:4–8 (the
+twelve pillars, the book of the covenant read aloud, the blood divided between altar
+and people). Joshua 24:22, 27 (witnesses against yourselves; the stone as witness).
 All King James.
 
 ---
