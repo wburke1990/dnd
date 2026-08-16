@@ -176,9 +176,9 @@ keep it light.
   ahead (once a year, the only way into the preserve — the crews are converging), and
   a Company/leper thread if the party pull on Jogo's story. Don't force a scene.
   - **What David sees:** a new boomtown — raw timber wharves, Company sheds, ore-dust
-    on everything, more work than buildings. A **canal runs dead straight inland** from
+    on everything, more work than buildings. A **canal runs straight inland** from
     the basin (below). Loud, cheap, thrown up in the last two hundred years.
-- **Aal** — the **old Mughal port**, up the coast to the northwest. Where Aar is new, Aal
+- **Aal** — the **old Mughal port**, up the coast due north of Aar. Where Aar is new, Aal
   is **old and going quiet**: cut stone, a silting harbour, half the berths empty since
   the Company took the ore-trade to Aar. Its own **canal runs inland** too, older and
   weed-grown. Resupply + a rumor; a chance to rest.
@@ -191,8 +191,8 @@ keep it light.
     [the Mughal founding](../lore/the-mughal-founding.md).)
 
 **The canals — describe them at either port.** The **river no longer reaches the
-sea** (the coast rose long ago and the water drew back), so the last miles are cut by
-**canal** — dead straight, a **paved towpath down one bank.** Loaded barges ride the
+sea** (the Mughals diverted it in the old wars, and the capital's fields drink the rest),
+so the last miles are cut by **canal** — straight, a **paved towpath down one bank.** Loaded barges ride the
 current down to the sea; on the towpath, **donkey-teams haul the empty ones back up,**
 one string after another. The Mughals dug the canal to Aal; the Company dug its own to
 Aar.
@@ -250,7 +250,8 @@ whole way in; full lore in [the Mughal founding](../lore/the-mughal-founding.md)
 - **Sker — the stranded port.** Where the canal meets the old river channel stand
   **dry stone quays and a breakwater, well short of any water**, standing in reeds.
   Gnome stonework, older than anything Mughal or Company — this was the **river's mouth**
-  once, before the sea drew back and left it inland.
+  once, a gnome port-city the Mughals took by **diverting the river in the siege**; it
+  never reached the sea again, and Sker was left inland.
 - **Copaa — the ore-town on the lake.** An **old-west ore town**: a landing where the
   Haals ore comes down the river, a tavern, an inn. The river runs fouled and the fields
   carry the leprosy (S10). The party can follow Jogo's story here.
