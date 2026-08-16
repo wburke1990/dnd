@@ -59,6 +59,30 @@ and (per established canon) **mutated the empire's own people into orcs and
 half-orcs.** So the orc-origin atrocity was the Second Foundation's doing, from
 *inside* the First. **Moku Kurunatuka is a satellite state of the Second Foundation.**
 
+## The fleets — how the order's people survived
+
+`[settled — chat]` The Muspel empire was a sea power, and when the sabotaged pass
+drowned **Cartaga** and turned the people on land into orcs (above), the **fleets that
+were out on the water came through it.** Those ships carried the surviving members of
+the First Foundation: the inner circle who were aboard, and the crews who took them in,
+were what remained of the order — scattered across the sea, with no capital to return
+to, hunted by the Second Foundation.
+
+The fleets are a second way the order survived, separate from the Jotunheim copies, and
+they do a different job. The **Jotunheim zealots** (above) kept the craft in **copies**
+— the knowledge, safe at the edge of the world. The **fleets** kept the order's
+**people.** The knowledge survived in Jotunheim; the people survived on the ships. The
+diminished remnant running counter-espionage in Maalm now —
+**[V.](#a-remnant-still-operates--in-maalm-now)** and her handlers — descends from those
+fleets.
+
+`[settled — chat]` It is also why the Second has spent a thousand years hunting them
+**across the sea** rather than sacking one hall: there was never a single place to burn.
+The fleets scattered, and a scattered order is hard to destroy — part of why the First
+Foundation still exists. `[OPEN]` whether the
+[Muspel "missing fleet" that sailed north toward the lost colonies](wandering-dragonborn.md)
+is one of these, or a separate thread.
+
 ## Round 2 — the campaign's stakes
 
 The **next pass is ~1 year out** (the comet already in the sky; see
