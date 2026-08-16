@@ -78,30 +78,43 @@ descended from Taniyn. The zealots' claim to this island rests on an alliance wi
 demons, who are not their god's kin.
 
 **What they know.** They travelled with the zealots. They saw two trees carried under
-the sea, planted on the wall, and named. They know what the ash and the elm are, they
-know who wrote the creation, and they know when.
+the sea, planted on the wall, and named. They know what the ash and the elm are, and
+who wrote the creation, and when.
 
-**Why they say very little.** Three reasons, and all of them hold at once:
+**Why they say very little.** Reasons:
 
-- They answer the question asked, not the question underneath it. Ask exactly and get
-  an answer; ask loosely and get a true, useless one.
+- They answer only what is literally asked. A vague question gets a true answer that
+  tells the asker nothing.
 - Nobody would believe them anyway. A demon's word against the zealot priesthood is
-  worth nothing inside the caldera, and the rakshasas know it. They cannot use the
-  truth against the zealots; they can only sell it.
-- They would rather sell it. `[proposed]` the price is a name — the same economy Preem
-  works in ([the name quest](../lore/demons-and-the-hotspot.md)), with the demons as
-  buyers rather than sellers. These are old demons and their own names are guarded;
-  what they buy is other people's.
+  worth nothing inside the caldera, and the rakshasas know it. They can sell what they
+  know, but cannot use it against the zealots.
+- The zealots' doctrine is nothing to them. Whether the two trees are dragon-children
+  or stolen forest-dead does not matter to a demon.
+- They would rather sell it. `[proposed]` the price is a name — the same trade in names
+  Preem deals in ([the name quest](../lore/demons-and-the-hotspot.md)), with the demons
+  as buyers rather than sellers. These are old demons: they guard their own names and
+  buy other people's.
 
 **What the party can get from them.** The one living account of the two trees being
-planted, from witnesses. Useless as proof to the zealots. Conclusive to the party.
+planted, from witnesses. The zealots would not accept it as proof.
 
-`[OPEN — the big one]` **What the rakshasas took for the road, and whether they are
-still being paid.** A single payment 1,900 years ago leads nowhere. A tribute the
-zealots have kept up ever since gives the party something to find.
+**What they took for the road.** `[settled — Will 8/16]` **Nothing.** They opened the
+road and then came through it with the zealots and joined the massacre, and that was
+the payment — they wanted to be in it. Nothing was owed before and nothing has been
+owed since. The party will find no ongoing payment or debt.
+
+So the alliance has never cost the zealots anything, and they have never had to answer
+for it. Demons took part in the killing whose blood the two trees were consecrated in.
+
+`[proposed]` **Why they are still here 1,900 years later.** Because there will be
+another one. They are not garrisoned or owed anything; they are waiting for the next
+massacre — and the zealots are building a fleet and talking about spreading the creed
+([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6). The rakshasas have been patient
+about it. This gives them a part in Blackacre's final arc using what is already
+established.
 
 `[OPEN]` whether any of them is wearing a dragonborn face in the caldera now. They are
-shape-shifters, so it is available.
+shape-shifters, so any of them could be doing it.
 
 ---
 

@@ -163,8 +163,12 @@ This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready textu
   **walked the Abyss tunnels from Muspelheim** under the sea (the Abyss *is* the
   tunnel-network; see [house rules](house-rules-and-world-mechanics.md)). `[settled —
   Will 8/16]` They **did** need **demon allies** to open and hold the road — the
-  **rakshasas**, who are still in the caldera today (§5). What the demons took for it
-  is open; see [Jotunheim as guests](../encounters/jotunheim-as-guests.md).
+  **rakshasas**, who are still in the caldera today (§5). **They took no price.** They
+  opened the road, came through it with the zealots, and **joined the massacre**, which
+  is what they came for. Nothing was owed then and nothing is owed now — so the
+  alliance has never cost the zealots anything, and demons took part in the killing
+  whose blood the two trees were consecrated in. See
+  [Jotunheim as guests](../encounters/jotunheim-as-guests.md).
 - **Rama's vanara army (don't lose this — too cool).** The **monkey-folk host** that
   built the causeway and stormed Lanka is too good to drop: a **vanara people** as the
   avenging army or its allies, and the natural **bridge-builders** if the crossing is a
@@ -257,6 +261,10 @@ is undecided, and turns on **[Blackacre](../characters/blackacre.md)**. Either w
 fleet reaches the [Moku finale](campaign-overview.md) as a third naval power beside the two
 Foundations.
 
+- **`[proposed]` The rakshasas are waiting for it.** The demons who joined the massacre
+  1,900 years ago took no price and are still in the caldera (§4–5). Nothing holds them
+  there and nobody owes them anything; what they are waiting for is the zealots doing it
+  again. A fleet that may empty Moku is the thing they have been patient about.
 - **The zealots can still put to sea.** They hold a fortress now, but the dragonborn were
   once **the only people on Nila with ships** (§4) and built the Muspel fleets. The fleet
   is theirs to raise. `[draft]` How large it is, and how far the rest of the archipelago
