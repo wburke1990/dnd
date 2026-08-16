@@ -120,11 +120,13 @@ the party themselves. **Get in and out quickly.**
 > slab set on top. Words are cut into the slab. Nothing is built near it and no one
 > tends it. Further on there is another, and past that another.*
 
-Pilgrims left the shrines on their way in; nothing built here lasts. The
-slabs carry the **[Anchar](../handouts/anchar.md)** poem — the lone poison-tree, and
-the master who sends a man to gather from it and not come back. (The Qur'an's
-[Zaqqum](../handouts/the-tree-of-zaqqum.md) is down the stair at the tree itself — see
-[the hell-tree](the-hell-tree.md).)
+The shrines are **[Brauron](the-peach-town.md)'s** — cut long ago by the town's gnome
+artisans for the [cult of Artemis](the-peach-town.md), who run the hunt and the rite of
+the tree — and untended now, worn by the poison ground. The slabs carry the
+**[Anchar](../handouts/anchar.md)** poem — the lone poison-tree, and the master who
+sends a man to gather from it and not come back, which is the cult's own rite. (The
+Qur'an's [Zaqqum](../handouts/the-tree-of-zaqqum.md) is down the stair at the tree
+itself — see [the hell-tree](the-hell-tree.md).)
 
 ### Read aloud — the bird
 
