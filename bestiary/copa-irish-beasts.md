@@ -491,9 +491,25 @@ the maps are blank. The telling keeps its ending: touch the ground and he ages. 
 the party changes is what they learn from him, and whether he dies a stranger or with
 his questions answered.
 
+**What he looks like.** A young man in his early twenties, and he shows no age or wear
+at all — not a line on his face, not a speck of the road's dust on him. His **skin is
+ash-grey, his hair white,** worn long and oiled; his **eyes are pale.** He is tall,
+and he sits the horse straight-backed and unhurried. Rings on his hands; a single
+pearl in one ear. `[DM: nothing on him is worn or aged, because no time passed where
+he was.]`
+
+**What he wears.** Court dress of the Mughal founding, eight hundred years out of
+fashion and not faded a shade — an antiquarian would place it at a glance. A long
+riding coat over trousers, a patterned sash at the waist, soft boots (the
+stirrup-leather is one of these — fine work, and old past counting). Deep jewel colors,
+the collar and buttons worked with small **pearls and a coiled serpent** — the serpent
+is the emblem of Patala, his mother's country. Everything on him is clean and
+uncreased.
+
 *His lines, riding up (Oisín's return, the names swapped for Mughal ones):*
 
 - *"You — do you serve the Sultan? I am Farhad, son of Mihran the Tiger. Point me the road to his court."*
+- *(looking at the poor towns and the Company's marks on them)* *"Whose land is this now? The road was kept in my father's day. Who let it go to ruin?"*
 - *"Where is my father, who crossed the mountains and took this land? Where is my brother Khusrau, who gave us our law and our songs? Where are Bahram and Hormuz, who split the kingdom between them?"*
 - *(told they are all centuries dead)* *"You are lying. I rode out from my father's gate a season ago."* Then, quieter: *"How long?"*
 
@@ -503,7 +519,7 @@ party put what they like to him; he answers plainly while he can. A few worth as
 - **"How long?"** — *"Eight hundred years."* He works out the years against the people in front of him.
 - **His mother.** *"My mother was Ratna, a drow of Kali's country. My father rode north and carried her out of the goddess's own temple. Her brother never forgave it — Vetal is down there still."* (The [founding](../lore/the-mughal-founding.md).)
 - **His brother Siyavash / the dead.** *"Siyavash drowned at the ford in the crossing. Our dead go to his house. Am I to go there now, or is it too late for that too?"*
-- **The peri / the Land of Youth.** *"She warned me. Do not touch the ground. I never asked her name."*
+- **The peri / the Land of Youth.** *"She warned me. Do not touch the ground. I never asked her name."* Pressed on whether she will come: *"She will not come for me here. I stepped down — that is the whole of the bargain."*
 - **Who rules now.** Tell him the Company holds the land and he stops resisting. *"Then there is nothing to ride home to."*
 
 **The Piper out of the Mound.** The [Company's digging](../encounters/the-haals-runoff.md),
