@@ -27,7 +27,7 @@ Rebuild this by hand when a thread is run. It is not generated.
 | Sea lore is his to invent; sailing and storms run off his boat | [floating fleet](../world/the-sea/lore/floating-fleet.md), [sailing and storms](../world/the-sea/lore/sailing-and-storms.md) | `reference`, standing |
 | First dragonborn-to-dragonborn meeting on the Maalm docks | [blackacre](blackacre.md) hook 3 | **unwritten** |
 | Watch-stones on the sea-roads, and finishing Idris's labor | [wandering dragonborn](../world/the-sea/lore/wandering-dragonborn.md) | `reference`, no scene written |
-| Musa at Haals — his own kinsman; the covenant cut into his scales; *"power never used is power no longer"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
+| Musa at Haals — his own kinsman, who tells him the dragon people are kept after death and the Firbolg are not; *"power never used is power no longer"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
 | Sayid, the fleet revolt, and the recognition rule | [blackacre](blackacre.md) | **unwritten** |
 | Jotunheim — the zealot/nomad rift, Arishat, the bride and the trials | [jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md), [lonka jotunheim](../world/lonka/lore/lonka-jotunheim.md) | `draft` |
 | The fleet offer at ~level 20, and what happens to Moku | [blackacre dm notes](blackacre-dm-notes.md) | `draft`, endgame |

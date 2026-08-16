@@ -14,7 +14,7 @@ and campaign ties live here so the sheet stays the player's.
 
 Pax's three readings of himself — delusional, chosen, both — should stay unresolved as long as possible. Give the world enough ambiguous evidence that neither the table nor Pax can settle it: plants that *might* lean toward him, healing that *might* be the moss, elemental power that *might* be celestial. Resist confirming or debunking the Green Revelation.
 
-His confession in the Hall of Two Truths during the dream quest gives us a lot to work with: a man who has reframed exile as purpose and sincerely believes he is the world's appointed hand. The scales don't weigh sincerity any more than they weigh context (cf. Sarric's confession). Decide what Pax confesses if the power he claims to speak for answers him.
+His confession in the Hall of Two Truths during the dream quest gives us a lot to work with: a man who has reframed exile as purpose and sincerely believes he is the world's appointed hand. Meaning it does not change what is weighed, the same way Sarric's reasons do not. Decide what Pax confesses if the power he claims to speak for answers him.
 
 The organization has three founding members. Their dynamic — who leads, who follows, who holds the others back or pushes them further — is worth establishing now that all three backstories are in hand. Pax is the one most likely to escalate, and the one most likely to read ordinary events as messages meant for him.
 
