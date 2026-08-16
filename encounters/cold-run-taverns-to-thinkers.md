@@ -21,7 +21,7 @@ depth, not required.
 ## 1 · The Maalm taverns — the rival crews  `→` [tavern-name-hunter-crews.md](tavern-name-hunter-crews.md)
 
 A **talk scene, not a fight.** Let the party drink and mingle; each PC has a
-counterpart in the crews; they leave with the names they missed.
+counterpart in the crews.
 
 - **Where.** The **Tavern of the Twelve**, run by a **Letap satyr** bartender (calm,
   polishing a glass). On the wall, the **founding mural** — Bedraageon and Ammit dead
@@ -38,12 +38,6 @@ counterpart in the crews; they leave with the names they missed.
   one of his sea-tales (full text in the doc); the party overhear the whole naval
   backstory (the drowned orc fleets, the dwarves, Hjörungavágr) for free, no
   exposition.
-- **The missing-names handoff.** The party fumbled names in tombs 1–3; the Writ
-  didn't. A name is knowledge, not a consumable, so the Writ lose nothing by sharing
-  the ones the party missed, and they share to show they're better at the work. Stage
-  it member-to-counterpart (Doruk slides Sarric the camp-tomb names, Issa gives Aniess
-  hers). The party leave with the names they overlooked — every one another name they
-  owe to Preem. Play it as kindness.
 - **The counterparts** — each crew member is paired with a PC; let each drift to their
   counterpart in conversation, never a lecture:
   - **Setha Renk** (Writ leader) ↔ **Blackacre** · **Doruk Pell** (Writ) ↔ **Sarric**
@@ -58,7 +52,7 @@ counterpart in the crews; they leave with the names they missed.
   familiars. Don't explain it; leave the two signs unremarked.
 
 **Run it in ~30–45 min:** the walk-in saga, a round of mingling (each PC to their
-mirror), the names handed over, and out. No dice needed unless they push someone.
+counterpart), and out. No dice needed unless they push someone.
 
 ---
 
