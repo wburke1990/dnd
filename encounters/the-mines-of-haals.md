@@ -288,7 +288,7 @@ descended from him; Pax is off the brother line.
 | [Pax](../characters/pax.md) | *"Welcome nephew."* |
 | [Jasper](../characters/jasper.md) | *"You have my skin and none of my blood. Something made you in a hurry."* Earth genasi are [Bad Pass](../lore/world-history-timeline.md) mutations, a thousand years old. |
 | [Aniess](../characters/aniess.md) | *"Something changed you after you were born. Everything changes before the end."* |
-| [Blackacre](../characters/blackacre.md) | *"You have a name. I have none. Neither of us chose."* If he asks which of the two fates is the better one, Balor has no answer to give — he does not rank them, and has no view to be drawn out. Musa, one level up, ranks them absolutely. |
+| [Blackacre](../characters/blackacre.md) | **No line — he has nothing to say to him.** `[OPEN]` Balor greets his own (child, nephew) and remarks on Jasper and Aniess; the dragonborn gets nothing. Leave it silent, or write him one. And if Blackacre asks which of the two fates is the better one, there is still no answer: Balor does not rank them and has no view to be drawn out. Musa, one level up, ranks them absolutely. |
 
 ### Himself — what he is, and how long
 
@@ -328,7 +328,7 @@ descended from him; Pax is off the brother line.
 | Accused of arming the conquest of his own kin | *"I showed him what is there. What he did with it, I had already seen him do."* |
 | Pressed — his own kin were killed for it | *"They came back to me. They are here."* The [earth-nameless return to the earth](../lore/lineages-and-afterlives.md); the Firbolg dead are in the stone the party is standing in. |
 | Asked whether he was awake when the gnomes broke into the graves | *"I am asleep the day the gnomes break the wall, and I am speaking to you now, and both are now."* |
-| Asked about the Company, or the mine above | *"They are carrying the mountain away. In time I will carry them away. Both are the same to me."* |
+| Asked about the Company, or the mine above | *"They are carrying the mountain away. In time I will carry them away."* |
 | Asked about the land outside, or the mountains generally | *"The hills are my brothers' bones. You have walked on them since you came ashore."* |
 | Sarric asks what becomes of his dead | *"Your dead are in this stone. So are the ones not yet born. It is the same stone."* The mountain is [the stock new Firbolgs are drawn from](../lore/lineages-and-afterlives.md). |
 | Sarric presses on that | *"This stone is your grandmother. It is also your grandchild. It is both, always."* |
