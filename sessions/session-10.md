@@ -100,10 +100,10 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   She didn't name it: the initiation is the gate, and the creed stays withheld until
   they've earned it.
 - **DM note — Batrick, pivot pending.** **Batrick** (Jasper's psychic bat, secretly
-  Preem's quasit spy) **was there** and saw it all — but **had no time to report
-  before the party's coming visit to Preem.** So Preem doesn't know yet; the report,
-  and the double-into-triple-agent turn, land **when they see Preem**
-  ([V. prep](../encounters/v-second-contact.md), [Preem](../characters/preem.md)).
+  Preem's quasit spy) **was there** and saw it all — but has **no private daytime moment**
+  on Jasper's shoulder. So Preem doesn't know yet; the report, and the double-into-triple-
+  agent turn, land at the **next long rest** (Batrick's one private window, via his sending
+  stone) ([V. prep](../encounters/v-second-contact.md), [Preem](../characters/preem.md)).
 - **DM note.** Played as prepped: V. genuinely doesn't know about the name quest or
   the demon army — her standing brief pays the party to discover Preem's aims, so
   they'd be paid by the First Foundation to report the very work they do for Preem.
@@ -170,9 +170,9 @@ The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md
   at its dead center. The played beats match the prep.
 - **Note — a hard once-a-year window.** The Sacred Hunt is the **only** annual way into
   the preserve (the spot on the map), so it's **now or a year's wait** — a real clock on
-  this arc, and the reason to commit to it now. `[OPEN]` "put every ninja team on this" —
-  whether that means the **party goes all-in**, or Preem's **rival name-hunter crews all
-  converge** on the once-a-year hunt (the window pulling every crew to the one spot).
+  this arc. **"Every ninja team" = Preem's rival name-hunter crews:** the once-a-year window
+  pulls **every crew to the one spot**, so the hunt becomes a crowded, competitive scene —
+  the "race with no rules" ([overview §3.C](../lore/campaign-overview.md)) at a chokepoint.
 ## Preem's tower — a new map, and the Dream Quest
 
 Their atlas gone (V. lifted it), the party went to **Preem's tower for a replacement.** They
@@ -195,12 +195,11 @@ fetch a new map**, and they talked in a **ground-floor study** while it was foun
   answer, but the **insight (23!)** read him — he **resents both the party and Preem, and
   he's lying.** Pushed, he fell back to the line and **clammed up:** *"…It is better. Truly.
   Not asking is better."*
-- **Batrick's report landed here — the pivot fires.** Batrick is a quasit, telepathically
-  bonded only to **Jasper** (not Preem), with no private daytime moment on Jasper's shoulder
-  to use a sending stone — so he **reported in person to Mul at the tower** (two of Preem's
-  demons, together). Preem's side now **knows the party turned for V.**, and handed them a
-  new map and "high hopes" anyway: the double-into-**triple**-agent turn is live, Mul
-  resentfully playing along ([the psychic bat](../characters/the-psychic-bat.md)).
+- **Batrick's report — at the next long rest.** Batrick is a quasit, telepathically bonded
+  only to **Jasper** (not Preem), with **no private daytime moment** on Jasper's shoulder —
+  so he'll report **during the next long rest, via his sending stone** (his one private
+  window). Preem's side **doesn't know yet**; the double-into-**triple**-agent turn fires at
+  that rest, not here ([the psychic bat](../characters/the-psychic-bat.md)).
 - **DM note — Mul cracked (23).** On record now: Mul **resents both the party and Preem** and
   **lies about the names** — the bound demon-servant's resentment
   ([mul.md](../characters/mul.md)) made explicit. The **second party's name-sheet** is
@@ -212,8 +211,10 @@ fetch a new map**, and they talked in a **ground-floor study** while it was foun
   Yochlol](../lore/demons-and-the-hotspot.md)) hanging on every detail of a mortal's real
   crossing of the river of stars is worth playing — Preem's interest in the dead's road,
   surfacing quietly.
-- **New NPC — Bellington**, the gnome who runs the tower **library** and fetches maps.
-  (Cassia had just ribbed Blackacre about the library — Preem's tower has one.)
+- **New NPC — Bellington**, the gnome who runs the tower **library** and fetches maps
+  (Cassia had just ribbed Blackacre about the library — Preem's tower has one). He lives in
+  [Mul's file](../characters/mul.md) for now. `[OPEN]` whether he's a **bound demon** in
+  disguise like the rest of Preem's tower staff (Mul, Batrick) — and if so, what kind.
 
 ## Departure & next session
 
@@ -236,3 +237,7 @@ fetch a new map**, and they talked in a **ground-floor study** while it was foun
   `[OPEN]` whether he recurs; confirm **Zarta** is the restaurant's name (assumed).
 - **V.'s coffeehouse loose ends:** did she leave with the atlas, and what were the
   per-PC offer notes and pay? (The deal itself: **accepted** — see above.)
+- **PC hometowns (asked at the table; not all remembered).** **Aniess** — *Ellen* (Greg's
+  guess). *Ekkek* — `[OPEN]` which PC it belongs to (unattributed; possibly Jasper's, the
+  coffee-plantation town Jogo named). The rest couldn't recall. To place in
+  [party-roster](../characters/party-roster.md) / PC dm-notes once settled.

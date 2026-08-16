@@ -88,9 +88,10 @@ recurring comedy — it keeps dying and reforming in the Abyss:
   other DM floated playing "the bat" too. **[loose]**
 - **Named — Batrick.** `[settled — play]`
 - **How it reports to Preem.** `[settled — play, S10]` Its telepathy binds only to
-  **Jasper** (the familiar bond), not Preem, and it has no private daytime moment on
-  Jasper's shoulder to work a sending stone — so it **reports in person to Mul when the
-  party visits the tower** (two of Preem's demons, together).
-- **How much it has told Preem.** `[S10]` It reported the party's **double-agent deal with
-  V.** to Mul at the tower — so Preem's side knows they turned, and plays them as triple
-  agents (see [V. — Second Contact](../encounters/v-second-contact.md)).
+  **Jasper** (the familiar bond), not Preem, and it has **no private daytime moment** on
+  Jasper's shoulder — so it reports **during a long rest, via its own sending stone** (its
+  one private window).
+- **How much it has told Preem.** `[S10]` It has **not yet** reported the party's
+  **double-agent deal with V.** — that goes up at the **next long rest** (via the stone),
+  and only then does Preem's side learn they turned and start playing them as triple agents
+  (see [V. — Second Contact](../encounters/v-second-contact.md)).
