@@ -475,8 +475,8 @@ meets what it did.
 comes down the Aar road on a fine horse, dressed in the fashion of a court no one
 has seen in an age. He is a son of Sultan Mihran, the Mughal founder, and he has
 been gone eight hundred years: a **[woman of the Land of Youth](../lore/the-mughal-founding.md)**
-— out over the sea, not a gnome of the mounds; his people called her a peri — carried
-him off for what he counts as a short while, and he lost the whole Mughal age. He was
+named **Shirin** — out over the sea, not a gnome of the mounds; his people called her a
+peri — carried him off, and he lived a year with her while eight hundred years passed. He was
 told one thing: do not set foot on this ground, or the years you skipped find you at
 once. On the road he comes on men straining to shift a great stone they cannot move —
 clearing the road, or a fallen [Firbolg standing-stone](../lore/the-fallen-gnome-kingdom.md)
@@ -519,7 +519,7 @@ party put what they like to him; he answers plainly while he can. A few worth as
 - **"How long?"** — *"Eight hundred years."* He works out the years against the people in front of him.
 - **His mother.** *"My mother was Ratna, a drow of Kali's country. My father rode north and carried her out of the goddess's own temple. Her brother never forgave it — Vetal is down there still."* (The [founding](../lore/the-mughal-founding.md).)
 - **His brother Siyavash / the dead.** *"Siyavash drowned at the ford in the crossing. Our dead go to his house. Am I to go there now, or is it too late for that too?"*
-- **The peri / the Land of Youth.** *"She warned me. Do not touch the ground. I never asked her name."*
+- **The peri / the Land of Youth.** *"Shirin. A year I was with her, and her one warning was the ground."*
 - **Who rules now.** Tell him the Company holds the land and he stops resisting. *"Then there is nothing to ride home to."*
 
 **The Piper out of the Mound.** The [Company's digging](../encounters/the-haals-runoff.md),

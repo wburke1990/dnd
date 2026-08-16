@@ -114,10 +114,11 @@ down to bare slabs.
 ## Farhad — Ratna's son, and the Returner
 
 Farhad is Ratna's son, the one drow-blooded prince of the house — the rest of the
-line held human. A **woman of the Land of Youth**, out over the western sea — not
-one of the gnome fair folk of the mounds; the Mughals' songs call such a one a
-**peri** — carried him off for what he counted as a short while, and he lost the
-whole Mughal age. He is the **Returner** the party can meet on the Aar road: he asks
+line held human. A **woman of the Land of Youth** named **Shirin**, out over the
+western sea — not one of the gnome fair folk of the mounds; the Mughals' songs call
+such a one a **peri** — carried him off, and he lived a year with her while eight
+hundred passed in the world. He is the **Returner** the party can meet on the Aar road:
+he asks
 after his father and brothers, all centuries dead, and ages to dust the moment he sets
 foot on the ground.
 
