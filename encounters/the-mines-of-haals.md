@@ -191,6 +191,8 @@ to be asked to.
 | **The party points out he was a refugee himself** | **Nothing.** This is the one thing put to him he has no answer for — *you shall not oppress a stranger, for you were strangers in the land of Egypt*. Let him go quiet and change the subject. Do not write him a rebuttal; the silence does more. |
 | Asked who he brought, or about the gnomes with him | *"Five. That is what the boat held. I chose them by lots, and I have not slept since."* |
 | Asked what he saw, or who he is | *"I was shown the land and the length of it. I will not see the end of what I begin."* Moses on Pisgah — shown all of it, and it is his descendants who go over. |
+| Asked what a vision is, how he knows, or why he will not explain one | [His lines on the river](#the-same-two-passages-in-our-world--as-lines) — he was lifted out of the flow for one moment and put back, and *"I saw it. I was not told it."* |
+| Pressed on the Firbolg rather than on Blackacre | [His lines on what the mountain keeps](#the-same-two-passages-in-our-world--as-lines) — the same facts Balor states flat, with a verdict on them. |
 | The party tells him the kingdom falls | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
 
 **When he parts.** He asks the one thing the vision did not cover.
@@ -292,7 +294,7 @@ descended from him; Pax is off the brother line.
 
 | When | He says |
 |---|---|
-| Asked who or where he is | *"Time is a river to me. I am sleeping now and I am now a child playing on its banks, and I am now opening my eye at the end of all things. I am the tree in the water. Though it flows about me, my roots are deep and I am not moved."* Asked a second time, go to [the long form](#the-same-two-passages-in-our-world--balors-long-form). |
+| Asked who or where he is | *"Time is a river to me. I am sleeping now and I am now a child playing on its banks, and I am now opening my eye at the end of all things. I am the tree in the water. Though it flows about me, my roots are deep and I am not moved."* Asked a second time, go to [the long lines](#the-same-two-passages-in-our-world--as-lines). |
 | Asked what he is | *"I am time, come to its full growth, and I am here to take the world back."* |
 | Asked how long he has been here | *"I have lain here for ages and I will lie here. When the last fire heats the deep I will rise, and be seen once, and die on the surface."* |
 | Pressed on the same | *"I have not begun. I have already finished."* |
@@ -330,7 +332,7 @@ descended from him; Pax is off the brother line.
 | Asked about the land outside, or the mountains generally | *"The hills are my brothers' bones. You have walked on them since you came ashore."* |
 | Sarric asks what becomes of his dead | *"Your dead are in this stone. So are the ones not yet born. It is the same stone."* The mountain is [the stock new Firbolgs are drawn from](../lore/lineages-and-afterlives.md). |
 | Sarric presses on that | *"This stone is your grandmother. It is also your grandchild. There is no moment when it is not both."* |
-| Sarric asks whether anything of his people is kept, or asks about [the La Cava handprints](temple-sites.md) | *"Your people never wrote anything down. They came in here instead. I have their songs and there is no one to sing them."* If there is room for the whole answer, use [the long form](#the-same-two-passages-in-our-world--balors-long-form) instead. |
+| Sarric asks whether anything of his people is kept, or asks about [the La Cava handprints](temple-sites.md) | *"Your people never wrote anything down. They came in here instead. I have their songs and there is no one to sing them."* If there is room for the whole answer, use [the long lines](#the-same-two-passages-in-our-world--as-lines) instead. |
 
 ### The offer
 
@@ -413,34 +415,60 @@ it — and the singers do not worship the old gods, they become them, which is h
 answers being called one); and **a thousand years are a moment, and through such gates
 the past can be looked into**, which is the descent itself.
 
-#### The same two passages, in our world — Balor's long form
+#### The same two passages, in our world — as lines
 
-Both reworked into the mountain and the earth-kin, for when the short lines in the
-tables are not enough and he is talking at length. Trees become the stone, the singers
-become the Firbolg, and the tree in the water stays as written.
+Trees become the stone and the singers become the earth-kin. Both passages go to Balor,
+and **the first one goes to Musa as well**: the same facts about Sarric's people, stated
+flat by the one who is made of them and ranked by the one who thinks they are damned.
+Run any run of these together as a continuous speech if the moment allows it.
 
-**Said to Sarric, if he asks whether anything of his people is kept.** (Replaces the
-short version — *"Your people never wrote anything down"* — when there is room for it.)
+**Balor, on what the mountain keeps.** Sarric asks whether anything of his people
+survives, or asks about [the La Cava handprints](temple-sites.md).
 
-> Your people had no books. No ink, no skins, no letters — nothing that holds a word
-> after the mouth stops. They had the stone, and this mountain above all. When they
-> died they came into it, into the grain and the seam and the water in the rock, and
-> the mountain kept what they had been: their songs, their dead, everything they knew
-> about the world and how to live in it. The people who came after say the mountain is
-> where the old gods are. Your people never said there were gods here. They said they
-> were what a god is made out of. Every one of them that dies becomes some of it.
+- *"Your people had no books. No ink, no skins, no letters — nothing that holds a word
+  after the mouth stops. They had the stone, and this mountain above all."*
+- *"When they died they came into it. Into the grain and the seam and the water in the
+  rock."*
+- *"The mountain kept what they had been. Their songs. Their dead. What they knew about
+  the world and how to live in it."*
+- Asked whether he is a god, or whether the old gods are here: *"The people who came
+  after say the mountain is where the old gods are. Your people never said there were
+  gods here. They said they were what a god is made out of."*
+- *"Every one of them that dies becomes some of it."*
 
-**Said to anyone who asks who and where he is.** (The long form of the tree in the
-water. Keep the short version for a first answer and hold this for the second asking.)
+**Musa, on the same people.** The identical facts, with a verdict on them. Use these
+when he is pressed on the Firbolg rather than on Blackacre.
 
-> Time is not to a mountain what it is to a man. Water, and the weight above, and the
-> cold — a mountain knows those. Days and years and hundreds of years it does not know.
-> For you time is a river. You are in the flow of it and it carries you one way and you
-> cannot stand up in it. I am not carried. I am the tree in the water. Though it flows
-> about me, my roots are deep and I am not moved. I am sleeping now and I am now a child
-> playing on its banks, and I am now opening my eye at the end of all things. The child
-> is the mountain and the mountain is the child. A thousand of your years is one moment
-> to me — and you have been walking through that moment since you left the light.
+- *"They have no books. No letters. Nothing at all that holds a word after the mouth
+  stops."*
+- *"Ask him what his grandmother was called."* Sarric cannot answer — the nameless carry
+  no name — and Musa knows it before he asks.
+- *"The mountain keeps their songs and there is nobody in it. Call that what you like. I
+  do not call it living."*
+- Told the Firbolg become the god themselves: *"They say they are what a god is made
+  from. A thing you are made from is a thing that gets used."* Musa arriving at
+  [the names and ownership thesis](../lore/campaign-overview.md) from the wrong end.
+
+**Balor, on time.** Asked who and where he is, after the short answer in the table.
+
+- *"Time is not to a mountain what it is to a man. Water, and the weight above, and the
+  cold — a mountain knows those. Days and years and hundreds of years it does not
+  know."*
+- *"For you time is a river. You are in the flow of it, it carries you one way, and you
+  cannot stand up in it. I am not carried."*
+- *"The child is the mountain and the mountain is the child."*
+- *"A thousand of your years is one moment to me. You have been walking through that
+  moment since you left the light."*
+
+**Musa, on the same river.** He is the man in the flow who was lifted out of it once,
+which is the whole difference between them — and it is why everything he offers is a
+*perhaps*.
+
+- Asked what a vision is, or how he knows: *"I was in the river as you are. For one
+  moment I was lifted out of it and shown the length of the water. Then I was put
+  back."*
+- *"I have seen where it goes. I still have to swim it like a man."*
+- Asked why he will not explain a prophecy: *"I saw it. I was not told it."*
 
 **Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md). A thing
 that has lain in the dark since before record, sleeping a *dreamless, uninvaded* sleep,
