@@ -136,6 +136,22 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
 - DM ties (the stars, the names theme, the network he saw beneath the roots)
   are in [`pax-dm-notes.md`](../characters/pax-dm-notes.md).
 
+## The docks — leaving Maalm, 20 minutes late
+
+The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md).)
+
+- **They'd forgotten the Second Hand meeting.** The party realized they'd missed the
+  docks meeting with the **Second Hand**, ran for it, and **made the docks 20 minutes
+  late.**
+- **Blackacre sailed through customs.** He **knows the customs officials**, cleared
+  security easily, and **picked up the port of Maalm's colors to fly on his ship** —
+  **Preem's influence smoothed the way.**
+- **Pax got stopped.** Customs eyed his cargo: *"Is that rat meat? It looks like you
+  have 40 lbs of rat jerky. That is a serious customs violation."*
+- `[OPEN]` **the Second Hand / the departure** — 20 minutes late; whether they caught the
+  Second Hand, and how the sailing goes, is still unfolding
+  ([Departure Under Fire](../encounters/docks-departure.md)).
+
 ---
 
 ## [OPEN]
