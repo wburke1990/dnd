@@ -221,49 +221,46 @@ of them.
 `[Will 8/16]` Both players are Jewish, and Musa is already a Moses: a prophet who led
 refugees out of a poisoned country toward a promised one, and who leaves a **massebah**
 with four prophecies cut into it. So the register belongs to him by right. The lines
-below are built to be recognised at the table by the two people who will catch them —
-**play them straight and never explain them.** The recognition is the whole of it, and a
-gloss kills it.
+below are for the two people at the table who will catch them — **play them straight and
+never explain them.** The recognition is the whole of it, and a gloss kills it. They are
+all **verbatim King James**; nothing here is a paraphrase, and nothing here should
+become one ([why](../CLAUDE.md)).
+
+**Everything below is King James, word for word.** He recites rather than retells — a
+prophet quoting the text at you, not describing his week. Say the verse and stop; do not
+put a gloss on the end of it. Any paraphrase is a worse line than the verse it came from.
 
 **To [Pax](../characters/pax.md) — Jacob at Bethel (Genesis 28).** Musa slept at the
 mouth of the cave, was shown what was coming, and afterwards set up a standing stone over
-a harbour. That is Jacob's story move for move: a stone for a pillow, a stair with its
-top in heaven and figures going up and coming down it, and a pillar raised in the
-morning. **The massebah has Bethel underneath it** — and the ladder is Pax's father's
-people.
+a harbour. That is Jacob's story move for move, so **the massebah has Bethel underneath
+it** — and the thing on the ladder is Pax's father's people.
 
-- *"I slept on a stone in that doorway. I saw a stair standing on the ground with its top
-  in the sky, and there were people going up it and coming down it. Yours, I think."*
-- *"Surely there was something in that place, and I did not know it."*
-- *"The stone I slept on, I set up. It is the one that will stand over your harbour."*
+- *"And he dreamed, and behold a ladder set up on the earth, and the top of it reached to
+  heaven: and behold the angels of God ascending and descending on it."*
+- *"Surely the LORD is in this place; and I knew it not."*
+- *"How dreadful is this place! this is none other but the house of God, and this is the
+  gate of heaven."*
+- On the stone: *"And took the stone that he had put for his pillows, and set it up for a
+  pillar, and poured oil upon the top of it."*
 
-**To Pax — Jacob at the ford (Genesis 32).** A man holds a divine thing all night, will
-not let it go until it blesses him, is lamed in the hip for it, and comes away with a new
-name.
+**To Pax — Jacob at the ford (Genesis 32).** Held all night, lamed in the hip, and given
+a new name for it.
 
-- *"One of your father's kind was held all night by a man who would not let go until he
-  was blessed. The man was lamed for it, and he was given a new name. That is the only
-  way anyone has ever got anything out of them."*
+- *"I will not let thee go, except thou bless me."*
 
-**To [Sarric](../characters/sarric.md) — the half of the verse he does not get.** Genesis
-3:19, and then Ecclesiastes 12:7, which splits the dead in two exactly the way this
-world does: the dust goes down and the spirit goes up. Musa quotes the whole verse and
-then tells him he is only the first clause.
+**To [Sarric](../characters/sarric.md) — Genesis 3:19, then Ecclesiastes 12:7.** The
+second verse splits the dead exactly the way this world does: the dust goes down and the
+spirit goes up. Musa says it whole and leaves it there. Sarric only gets the first
+clause, and the table can do that arithmetic without help.
 
-- *"Dust you are, and to dust you will return."*
-- Pressed: *"The dust returns to the earth as it was, and the spirit returns to the one
-  who gave it. You have the first half of that. There is no second half in you."*
+- *"Dust thou art, and unto dust shalt thou return."*
+- Pressed: *"Then shall the dust return to the earth as it was: and the spirit shall
+  return unto God who gave it."*
 
-**Asked his god's name.** He will not say it — which in this world is not piety but
-prudence, and it makes his god the one thing in the setting that
-[cannot be owned](../lore/campaign-overview.md).
+**On the stone itself (Joshua 24:27).**
 
-- *"I will not say it. A name is a handle. He will not be carried."*
-
-**On the stone itself (Joshua 24:27).** The massebah as witness — it heard the words, and
-it outlasts the mouth that said them.
-
-- *"The stone heard me say it. When I am dead the stone will still be saying it."*
+- *"Behold, this stone shall be a witness unto us; for it hath heard all the words of the
+  LORD which he spake unto us."*
 
 **On the conquest he has not committed yet.** He does not apologize and does not expect
 to be asked to.
