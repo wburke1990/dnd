@@ -294,9 +294,11 @@ hot spot there** (see §5). The comet overhead, a volcano about to be forced, th
 **refuse and free it**, or **do something else entirely**, while the
 [First](the-first-foundation.md) and [Second](the-second-foundation.md) Foundations each
 fight to control the pass their own way. A third power may arrive by sea — the
-**[Jotunheim dragonborn fleet](lonka-jotunheim.md)**, sailing to Moku to reclaim the
-dragons gathering there with god-stone and take the island, with the massacre of its
-colonists an open question (`[draft — endgame]`; see [lonka-jotunheim.md §6](lonka-jotunheim.md)).
+**[Jotunheim dragonborn fleet](lonka-jotunheim.md)**, sailing to Moku to take the island
+and reclaim the dragons gathering there with god-stone — which will not work, because
+the dragons are there for the hot spot and no stone or killing brings them
+(`[draft — endgame]`; see [lonka-jotunheim.md §6](lonka-jotunheim.md)). Whether they
+also massacre the colonists is [Blackacre's](../characters/blackacre-dm-notes.md).
 The cycle that opened with Taniyn *choosing* to
 become an island closes on the party *choosing* what to do with a name.
 

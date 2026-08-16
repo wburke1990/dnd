@@ -310,13 +310,12 @@ was previously open. **Whether it happens is still
     [Kuru re-forges its phoenix](kuru-and-the-phoenix.md), and re-seat the dragons on
     Moku. It is what Preem does with the magma demon
     ([the Second Foundation](the-second-foundation.md)): take hold of a power instead of
-    following it. `[proposed — Claude 8/16]` **It does nothing.** The dragons are
-    already going to Moku because the hot spot is there, and no stone brings them or
-    holds them. The fleet would be taking credit for a migration that was happening
-    without it. Taken up, this **removes the line on
-    [Blackacre's sheet](../characters/blackacre.md)** that the god-stone reclaims the
-    dragons either way — a line which, left standing, gives every choice at his finale
-    the same result.
+    following it. `[settled — Will 8/16]` **It does nothing.** The dragons are already
+    going to Moku because the hot spot is there, and no stone brings them or holds them.
+    The fleet takes credit for a migration that was happening without it. The old line
+    saying the god-stone reclaimed the dragons either way is **cut**; what Blackacre's
+    answer actually decides is in
+    [Blackacre — DM notes](../characters/blackacre-dm-notes.md).
   - **The colonists.** Whether they also kill everyone living on Moku, the way they
     emptied Lonka (§4), or take the island and leave its people standing.
   - Both are Blackacre's to settle at the finale (see
