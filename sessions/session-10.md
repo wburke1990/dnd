@@ -159,8 +159,20 @@ The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md
   lifted it invisibly at the coffeehouse; the legerdemain landed and no one caught it. So
   she **paid and took it** — the 50 pp in the bag and the "exchange later" talk were cover
   for a map she already had.
-- `[OPEN]` **the departure** — they caught the Second Hand's ship (Cassia); how the sailing
-  goes, and the ambush set off Blackacre's traded charts, is still ahead
+- **Where they're headed — the Sacred Hunt.** Cassia laid out the plan: they've
+  **chartered passage on a merchant transport** carrying **wealthy Maalm hunters** to the
+  **Temple of Artemis** for the **annual Sacred Hunt.** Blackacre asked for more; she
+  pointed to **rumors of human hunting on top of the publicized beast hunt** and **ribbed
+  him for not researching his destination at the library.** Don't take too long, she said:
+  the hunt runs **once a year** and is **the only way into the game preserve.**
+- **DM note — this is the Brauron quest.** The destination is the prepped
+  [game preserve](../encounters/the-game-preserve.md) /
+  [Brauron](../encounters/the-peach-town.md) arc — the cult of Artemis's hunt (the
+  Calydonian **beast-hunt** and the Actaeon **man-hunt**, the "human hunting" rumor), the
+  hunt as the only way past the fence, and the [hell-tree](../encounters/the-hell-tree.md)
+  at its dead center. The played beats match the prep.
+- `[OPEN]` **the voyage** — aboard the Second Hand's chartered transport, bound for the
+  Sacred Hunt; the sailing ambush set off Blackacre's traded charts is still ahead
   ([Departure Under Fire](../encounters/docks-departure.md)).
 
 ---
