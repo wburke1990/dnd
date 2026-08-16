@@ -46,7 +46,7 @@ anything.
 
 ---
 
-## The rite — six stages
+## The rite — five stages
 
 Each stage is real Israelite covenant ceremony. The verses are King James and are
 meant to be read aloud, verbatim — see the standing rule on
@@ -113,37 +113,7 @@ come down at the carcasses have to be driven off by hand.
 > *And when the fowls came down upon the carcases, Abram drove them away.*
 > — Gen 15:9–11
 
-### 5. Passing between the pieces
-
-The parties walk the path between the halves. What passing means is: *let this be
-done to me if I break it.*
-
-> *And, lo, an horror of great darkness fell upon him.*
->
-> *Behold a smoking furnace, and a burning lamp that passed between those pieces.*
-> — Gen 15:12, 17
-
-**In Genesis only the fire passes.** Abram does not walk; the obligation is taken by
-one side alone. `[OPEN]` and this is the load-bearing question of the whole rite:
-**does the pledger walk, or only the dragon?**
-
-- If **only the dragon passes**, the covenant is one-sided in the pledger's favour,
-  the promise is unconditional, and the dragons have staked themselves on it. Which
-  raises what happens to a court that fails to keep its side — and the comet keeps
-  coming back.
-- If **both pass**, the pledger has named the penalty for his own default, and every
-  bound soul in the campaign is technically in breach of something.
-
-**[Jotunheim is the evidence](../lore/lonka-jotunheim.md).** The zealots believed both
-parties walk — that a default could be cured from their side — so when the dragons
-stopped coming they cut the covenant again at scale, with a colony of Maalm settlers in
-the place of the heifer and the goat and the ram. **Nothing passed between the pieces.**
-The largest blood price anyone in this world has paid bought nothing at all, which is
-what it looks like when a party tries to discharge an obligation that was never theirs.
-Read that way, the massacre is the campaign's answer to this question, and the answer is
-that only the dragon walks.
-
-### 6. The blood divided, and the name laid on
+### 5. The blood divided, and the name laid on
 
 Half the blood goes on the stone, half goes on the person. The two parties are
 marked out of the same basin.
@@ -171,14 +141,12 @@ performed on somebody's ancestors and consented to.
 
 [The Jotunheim rite names three kinds](jotunheim-trees-rite.md) — other people's
 spilled, a martyr's deposited, the celebrant's own offered. **The covenant uses a
-fourth: a substitute's, divided.** The animal goes between the parties in the place
-of whoever breaks the agreement, and half of its blood is put on the person it stands
-in for. That is why the halves are laid with a path between them and why anybody
-walks it.
+fourth: a substitute's, divided.** The animal dies in the place of whoever breaks the
+agreement, and half of its blood goes on the person it stands in for.
 
 It is the only one of the four where **the blood is split between two parties rather
-than given by one to the other.** Keep that straight; it is what makes this a
-bargain and not an offering.
+than given by one to the other.** Keep that straight; it is what makes this a bargain
+and not an offering.
 
 ---
 
@@ -198,8 +166,11 @@ much later, by anyone, which is probably the better game.
 
 ## `[OPEN]`
 
-- Whether the pledger walks between the pieces, or only the dragon (stage 5). The
-  biggest one; it decides whether the covenant is a gift or a mutual bond.
+- **Does a dragon have to be present, or even aware?** The rites work performed coldly
+  ([lineages](../lore/lineages-and-afterlives.md)), so probably the rite binds the
+  pledger whatever the court is doing — which would mean people have gone on pledging
+  themselves to courts that stopped listening. [Jotunheim](../lore/lonka-jotunheim.md)
+  is the case that turns on this.
 - Whether a court may misstate the terms at stage 2.
 - Whether Musa can perform it in the tunnel, or only offer.
 - What a **broken** covenant looks like from the inside — whether a court can strike
@@ -213,7 +184,10 @@ much later, by anyone, which is probably the better game.
 
 ## Sources
 
-Genesis 15:9–17 (the covenant between the pieces; *karat berit*, to cut a covenant).
+Genesis 15:9–11 (the animals divided; *karat berit*, to cut a covenant). The theophany
+that follows at 15:12–17 is deliberately **not** used — a fire passing between the halves
+is a one-time event with Abram, and making it a repeatable stage put a dragon physically
+walking down a corridor of bisected livestock, which is not what any of this is.
 Genesis 28:18–22 (the pillar, the oil, and Jacob's vow). Exodus 24:4–8 (the twelve
 pillars, the book of the covenant read aloud, the blood divided between altar and
 people). Joshua 24:22, 27 (witnesses against yourselves; the stone that has heard).

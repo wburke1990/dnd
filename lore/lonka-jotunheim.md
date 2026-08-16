@@ -125,14 +125,15 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
   and not the main reason. **The dragons had already stopped coming** (§6), and the zealots meant to
   **bring them back** — to cut
   the [covenant](../encounters/the-covenant-rite.md) again, at scale, and pledge themselves anew in
-  the true religion. A covenant is cut in blood, with the offering divided and the parties passing
-  between the halves; this was that rite performed on a colony, with **the colonists in the place
-  of the heifer and the goat and the ram.** (Genesis 15:9 word for word — a quotation, doing
-  work here on purpose. Leave it alone.)
-- **Nothing came.** No dragon passed between the pieces. This is how the covenant
-  runs — [only the dragon can pass](../encounters/the-covenant-rite.md),
-  the obligation was never the pledger's to discharge, and so **there was nothing the zealots could
-  have paid that would have worked.** They have held the island 1,900 years without an explanation.
+  the true religion. A covenant is cut in blood, so this was that rite performed on a colony, with
+  **the colonists in the place of the heifer and the goat and the ram.** (Genesis 15:9 word for
+  word — a quotation, doing work here on purpose. Leave it alone.)
+- **Nothing came, and the reason is the flattest one available.** There was nobody on the other
+  side of it. The dragons had followed the hot spot southeast (§6) and were not in the world to
+  hear it, so the blood did not fail on a technicality or on the zealots being unworthy of it —
+  **it was an offer made to an empty room.** They have held the island 1,900 years without that
+  explanation, because the one thing they cannot entertain is that their gods are simply not
+  there.
 - **The zealots have it backwards.** The dragons left because
   [the hot spot drifted](#6-the-dragons-no-longer-come) — the same drift that cooled the
   northwest coast and opened the tunnel road they walked in on. The holy island stood empty of
