@@ -95,17 +95,26 @@ has seen.
 
 **Work out which way each exchange runs before you play the level** — it is different at
 every one, and that is where the interest is. The gnome soldiers of the long war would
-be hearing how their holy war turns out. The Mughals at the sealed door would be hearing
-who takes their empire from them. The Firbolg at La Cava would be hearing that their
+be hearing how their holy war turns out. The Mughals at the sealed door are the
+exception — the founder's own family, who refuse the exchange rather than hear how
+their empire ends (level 2). The Firbolg at La Cava would be hearing that their
 country is taken and their graves dug up, from a Firbolg. None of those is the same
 scene.
 
 1. **The Company face (now).** Dwarf crews, the ore going up, the runoff coming
    down — the mine as it is ([the Haals runoff](the-haals-runoff.md)).
-2. **The Mughal workings.** The middle empire's galleries, well-cut and gone to
-   ruin, and a sealed door with offerings left at it that no one of that age would
-   open. They kept the taboo. The party can read what the Mughals knew was down
-   there and would not touch.
+2. **The Mughal workings, and the founder's family.** The middle empire's galleries,
+   well-cut and gone to ruin, and a sealed door with offerings left at it that no one
+   of that age would open. Here the party can meet **descendants of Sultan Mihran** —
+   his children or grandchildren, the early dynasty
+   ([the founding](../lore/the-mughal-founding.md)). Alone of everyone in the mountain,
+   they **refuse the custom and will not trade a word.** Two fears keep them silent:
+   that hearing their own future might change what they do and cost them the children
+   they have not yet had — their line, and the party's own road down here — and that
+   disturbing the sealed graves again would let the poison back out. They kept the
+   Haals taboo in life and revered the mountain that prophesied their founder's queen;
+   they keep the taboo here as silence. Play them courteous and afraid: they bow, they
+   will not answer, and they stand between the party and the door.
 3. **The gnome kingdom, and its fall (~4,000 ya).** Gnome miners driving a gallery
    downward ten generations after the landing; the picks break into the Firbolg
    graves, and the first harvest fails. The famine runs for generations after this,
