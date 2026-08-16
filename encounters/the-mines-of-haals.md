@@ -191,7 +191,7 @@ to be asked to.
 | **The party points out he was a refugee himself** | **Nothing.** This is the one thing put to him he has no answer for — *you shall not oppress a stranger, for you were strangers in the land of Egypt*. Let him go quiet and change the subject. Do not write him a rebuttal; the silence does more. |
 | Asked who he brought, or about the gnomes with him | *"Five. That is what the boat held. I chose them by lots, and I have not slept since."* |
 | Asked what he saw, or who he is | *"I was shown the land and the whole length of it. My descendants will see the end of what I begin."* Moses on Pisgah — shown all of it, and it is his descendants who go over. |
-| Asked what a vision is, how he knows, or why he will not explain one | [His lines on the river](#the-same-two-passages-in-our-world--as-lines) — he was lifted out of the flow for one moment and put back, and *"I was shown it. The reasons stayed down there."* |
+| Asked what a vision is, how he knows, or why he will not explain one | [His lines on having been shown it](#the-same-two-passages-in-our-world--as-lines) — lifted up for one moment and set down again, and *"I was shown it. The reasons stayed down there."* |
 | Pressed on the Firbolg rather than on Blackacre | [His lines on what the mountain keeps](#the-same-two-passages-in-our-world--as-lines) — the same facts Balor states flat, with a verdict on them. |
 | The party tells him the kingdom falls | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
 
@@ -272,22 +272,6 @@ and no approval either.
 to ask next: *"Would you know more?"* (the Völuspá's repeated line). It puts the asking
 back on them and costs nothing.
 
-**Keep the strangeness; cut the tics.** `[Will 8/15]` This scene leans hard on its
-sources and the register is deliberately heightened — a plain-prose pass is the wrong
-instrument here. A repeated sentence-shape is a tic and gets cut. A metaphor drawn from
-the speaker's own cosmology, or a phrase lifted from scripture, stays.
-
-**Keep the negatives rare.** A style pass on 8/15 found about half the spoken lines in
-this scene resolving on a negation — *I am not carried, I do not weigh the two, there is
-no god here* — often enough that the shape became predictable before the content did.
-**The worst of it was one shape used three times:** *I will wake. Not for you.* · *You
-are the hand. You are not the cause.* · *I saw it. I was not told it.* Each read well
-alone and they cancelled each other out; all three are now positive. What still stands
-is where the negation is the only way to say the thing: *"The mountain does not take from
-its own."* · *"I have never known what a year is."* · *"You have my skin and none of my
-blood."* Write new lines positively, and **never twice in the same scene** land a short
-sentence on a bare *not*.
-
 ### Greetings — one per PC
 
 He calls Sarric **child** and Pax **nephew**.
@@ -362,7 +346,6 @@ it down. They can ask, or refuse and take nothing.
 | When | He says |
 |---|---|
 | He makes the offer, unprompted | *"You may ask me one question and I will answer truly. I know what you will ask, and it is your destiny that you should ask it, and that I shall listen and reveal."* |
-| They hesitate, or ask what he is offering | *"You want to know what comes. I will give you a piece of the river. You will not be able to set it down."* The river is his own cosmology rather than ornament, and the second sentence is the geis. |
 | They ask a second question | *"You have had your question."* |
 | They refuse the offer | *"Then you will ask it somewhere else, and be answered by something that lies."* |
 | They ask what they ought to ask | *"That was your question."* Only if the table will take it as a good joke — it costs them the prophecy, and he does not reverse himself. |
@@ -436,7 +419,8 @@ the past can be looked into**, which is the descent itself.
 Trees become the stone and the singers become the earth-kin. Both passages go to Balor,
 and **the first one goes to Musa as well**: the same facts about Sarric's people, stated
 flat by the one who is made of them and ranked by the one who thinks they are damned.
-Run any run of these together as a continuous speech if the moment allows it.
+The second stays Balor's alone — **the river is his and Musa never touches it.** Run any
+run of these together as a continuous speech if the moment allows it.
 
 **Balor, on what the mountain keeps.** Sarric asks whether anything of his people
 survives, or asks about [the La Cava handprints](temple-sites.md).
@@ -473,14 +457,13 @@ when he is pressed on the Firbolg rather than on Blackacre.
 - *"A thousand of your years is one moment to me. You have been walking through that
   moment since you left the light."*
 
-**Musa, on the same river.** He is the man in the flow who was lifted out of it once,
-which is the whole difference between them — and it is why everything he offers is a
-*perhaps*.
+**Musa, on having been shown it.** **The river is Balor's and Musa never uses it** — not
+once, not as an echo. Musa's image is Pisgah: he was taken up to a high place, shown the
+land, and set down again. Keep him on height and sight.
 
-- Asked what a vision is, or how he knows: *"I was in the river as you are. For one
-  moment I was lifted out of it and shown the whole of the water. Then I was put
-  back."*
-- *"I have seen where it goes. I still have to swim it."*
+- Asked what a vision is, or how he knows: *"I was down in the dark with the rest of you.
+  For one moment I was lifted up and shown the whole of it. Then I was set down again."*
+- *"I have seen where it ends. I still have to walk there like anyone."*
 - Asked why he will not explain a prophecy: *"I was shown it. The reasons stayed down
   there."*
 

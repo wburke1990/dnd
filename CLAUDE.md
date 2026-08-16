@@ -94,6 +94,21 @@ If you learn something worth remembering across sessions, add it here.
   suspected transcription typos rather than silently fixing. Copyright
   isn't a concern (TTS Workshop is free-to-download).
 
+- **Never "fix" a verbatim quotation.** Real text quoted from a real
+  source — scripture, a poem, an epic, a novel — is **off limits to the
+  style pass**, wherever it appears: a `handouts/` file, a block quote in
+  prose, or a line of NPC dialogue built out of it. The house style
+  governs *our* sentences, not quoted ones. This has been got wrong: the
+  giant's *"Have you walked in the search of the depth?"* is **King James
+  Job 38:16 word for word**, and a style pass flagged it as "unparsable
+  as spoken English" and flattened it into *"Have you been to the bottom
+  of the sea?"* Scripture reads as scripture *because* it is scripture,
+  and that strangeness is the whole reason it was reached for.
+  **When a line looks odd, check whether it is a quotation before
+  touching it**, and when a quotation is doing work in a scene, say so in
+  a note next to it so the next pass leaves it alone. Same for a phrase
+  deliberately built to sound like a source — mark it and leave it.
+
 #### House style for prose
 
 All prose we write or edit in the content markdown (`encounters/`,
