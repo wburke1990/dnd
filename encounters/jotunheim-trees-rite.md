@@ -169,6 +169,15 @@ of blood are available:
 
 Pax opens his own arm at the roots. It costs him, and it does not make the trees his.
 
+`[for Doug]` **Consecration is not grace.** The rite works; it compels nobody. Blood
+consecrates ground and feeds trees, and it does not buy the favour of a god — which is
+why the zealots' plan at Moku fails no matter how many they kill
+([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6). The psalm sung while a violated
+church is reconciled says it outright: *"The sacrifices of God are a broken spirit: a
+broken and a contrite heart, O God, thou wilt not despise"* (Psalm 51:17, KJV — the
+*Miserere*, whose seventh verse is the *Asperges*, "Purge me with hyssop, and I shall
+be clean"). Same in Hosea 6:6 and 1 Samuel 15:22.
+
 `[OPEN]` the price, and whether the trees ask for it or he offers first. The
 [Mímir's well](temple-sites.md) model — the price is named first and the thing will
 not speak until it is paid — applies here.

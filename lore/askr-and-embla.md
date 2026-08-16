@@ -172,10 +172,12 @@ else.
 
 ## `[OPEN]`
 
-- **Fabricated or grown.** Whether a named zealot priest invented the creation on the
-  march to justify what they had just done, or whether it accumulated over generations
-  out of two trees nobody could explain. The first puts a named priest in the book; the
-  second does not.
+- **Fabricated or grown — mostly answered.** `[Will 8/16]` The **rakshasas** were
+  present when the two trees were named and have been venerated advisers to the faith
+  ever since, so the creation did not have to be invented in one stroke by one priest.
+  It was shaped over 1,900 years by the only parties in the room who never died
+  ([Jotunheim as guests](../encounters/jotunheim-as-guests.md)). `[OPEN]` whether there
+  was also a named priest at the start.
 - Whether anyone in Jotunheim believes the party when they prove it, and what the
   zealots do with a proof.
 - Whether the zealot leadership already knows.

@@ -77,6 +77,20 @@ true-named and do not age or die of old age
 descended from Taniyn. The zealots' claim to this island rests on an alliance with
 demons, who are not their god's kin.
 
+**They are venerated, and they have shaped the faith.** `[settled — Will 8/16]` The
+zealots honour them as the ancient allies of the reconquest, and they have been present
+for every generation of it. The priests who taught the creation at the trees are all
+dead. The rakshasas are alive, and they are the only surviving witnesses to the
+reconquest. They have changed the faith over 1,900 years, and what they have added to
+it is blood: more of the rites take it, and the ones that take it matter most.
+
+They are here to run the zealots' religion. That also answers the open question of who
+supplied the creation at the trees ([Askr and Embla](../lore/askr-and-embla.md)): they
+did not have to invent it all at once. They were present when the two trees were named
+and they have had 1,900 years to change what is said over them.
+
+`[for the table]` The party cannot expose them. The zealots love them.
+
 **What they know.** They travelled with the zealots. They saw two trees carried under
 the sea, planted on the wall, and named. They know what the ash and the elm are, and
 who wrote the creation, and when.

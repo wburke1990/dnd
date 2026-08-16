@@ -270,15 +270,18 @@ was previously open. **Whether it happens is still
   took no price and are still in the caldera (§4–5). Nothing holds them there and
   nobody owes them anything; what they have been waiting for is the zealots doing it
   again.
-- **`[proposed — contradicts a settled line, take it or leave it]` The massacre is the
-  mechanism.** Holy ground takes power from blood, which is the world's rule
-  ([the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md)). If that
-  holds at Moku, then re-seating the dragons is a consecration and a consecration needs
-  blood, so the killing is not an atrocity carried out alongside the god-stone work —
-  it is how the god-stone work is done. This **contradicts** the current line on
-  [Blackacre's sheet](../characters/blackacre.md) that the god-stone reclaims the
-  dragons either way. Taken up, his option of taking Moku and sparing its people costs
-  him the dragons, and his choice stops being the easy one.
+- **The blood will not work.** `[settled — Will 8/16]` **Killing the people of Moku
+  will not bring the zealots back into the dragon's grace.** Blood consecrates ground
+  and it feeds trees ([the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md)),
+  and it does none of what they want here. The dragons follow the hot spot; they are
+  not withheld for want of blood and cannot be bought with it. So the fleet sails to
+  empty an island for something that will not happen, and the whole plan is a mistake
+  1,900 years in the making. This does not touch the **god-stone**, which is a separate
+  mechanism (below) — it rules out the killing.
+  - **They already have the evidence.** The reconquest was itself a reconsecration in
+    blood, they have held the holy ground ever since, and **the dragons never came back
+    to Lonka** (§5). The answer has been in front of them for 1,900 years. They read it
+    as not enough blood, or the wrong ground.
 - **`[proposed]` They take cuttings.** Last time they carried two trees under the sea
   and planted them on the new holy ground (§5). There is no reason they would not do it
   again — cuttings off the ash and the elm, carried to Moku, rooted, and named. Unless
