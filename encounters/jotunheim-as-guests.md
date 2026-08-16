@@ -100,7 +100,7 @@ ever since.
 `[for the table]` The party cannot expose them. The zealots love them.
 
 **Who they are actually up against.** Not the party.
-**[Duha al-Warraq](../characters/duha-al-warraq.md)** keeps the books here and has spent
+**[Arishat](../characters/arishat.md)** keeps the books here and has spent
 her life arguing that the fleet should sail to the dragons rather than against the
 island. Every time she puts it, someone asks the rakshasas, and the answer comes back a
 little longer than the question and ends in blood. She has lost that argument a dozen
@@ -163,7 +163,7 @@ Guests get offers. One each:
 - **Pax** — the trees. He is walked up to them like everyone else and taught the
   creation. See [the rite](jotunheim-trees-rite.md).
 - **Jasper** — the books. The zealots' own liturgical book is in a library here, and
-  **[Duha al-Warraq](../characters/duha-al-warraq.md)**, who keeps it, is glad of a
+  **[Arishat](../characters/arishat.md)**, who keeps it, is glad of a
   guest who can read. Nearly everything the party needs comes through her hands.
 - **Aniess** — `[OPEN]`.
 - **Sarric** — `[OPEN]`.

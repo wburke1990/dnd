@@ -1,10 +1,11 @@
-# Duha al-Warraq — character reference
+# Arishat — character reference
 
 **A Lonka Zealot at Jotunheim, and the one inside the caldera who argues for the
 reconciliation.** `[draft — Will 8/16]` Dragonborn, devout, and has argued the same
-position for most of her life; the caldera keeps rejecting it. *Warraq* is the old
-dragonborn word for the one who keeps and copies the books; it is her office, not her
-family.
+position for most of her life; the caldera keeps rejecting it. **Arishat** is a
+Phoenician woman's name, which is the dragonborn register — Lonka is their Tyre
+([campaign overview](../lore/campaign-overview.md)). Keeping the books is her office and
+she has no other title.
 
 > Companions: [Jotunheim as guests](../encounters/jotunheim-as-guests.md) (where the
 > party meets her), [Blackacre — DM notes](blackacre-dm-notes.md) (the reconciliation
