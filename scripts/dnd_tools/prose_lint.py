@@ -24,15 +24,15 @@ import click
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
-# Directories whose markdown is prose held to the house style.
+# Directories whose markdown is prose held to the house style. ``world``
+# covers the per-region lore, encounters, bestiary and prompts; the rest are
+# the flat directories that are not keyed to a place.
 CONTENT_DIRS = (
-    "lore",
-    "encounters",
+    "world",
     "characters",
     "sessions",
-    "bestiary",
     "handouts",
-    "prompts",
+    "references",
     "docs",
 )
 
