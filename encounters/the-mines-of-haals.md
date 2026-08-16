@@ -292,7 +292,7 @@ descended from him; Pax is off the brother line.
 
 | When | He says |
 |---|---|
-| Asked who or where he is | *"Time is a river to me. I am sleeping now and I am now a child playing on its banks, and I am now opening my eye at the end of all things. I am the tree in the water. Though it flows about me, my roots are deep and I am not moved."* |
+| Asked who or where he is | *"Time is a river to me. I am sleeping now and I am now a child playing on its banks, and I am now opening my eye at the end of all things. I am the tree in the water. Though it flows about me, my roots are deep and I am not moved."* Asked a second time, go to [the long form](#the-same-two-passages-in-our-world--balors-long-form). |
 | Asked what he is | *"I am time, come to its full growth, and I am here to take the world back."* |
 | Asked how long he has been here | *"I have lain here for ages and I will lie here. When the last fire heats the deep I will rise, and be seen once, and die on the surface."* |
 | Pressed on the same | *"I have not begun. I have already finished."* |
@@ -330,7 +330,7 @@ descended from him; Pax is off the brother line.
 | Asked about the land outside, or the mountains generally | *"The hills are my brothers' bones. You have walked on them since you came ashore."* |
 | Sarric asks what becomes of his dead | *"Your dead are in this stone. So are the ones not yet born. It is the same stone."* The mountain is [the stock new Firbolgs are drawn from](../lore/lineages-and-afterlives.md). |
 | Sarric presses on that | *"This stone is your grandmother. It is also your grandchild. There is no moment when it is not both."* |
-| Sarric asks whether anything of his people is kept, or asks about [the La Cava handprints](temple-sites.md) | *"Your people never wrote anything down. They came in here instead. I have their songs and there is no one to sing them."* |
+| Sarric asks whether anything of his people is kept, or asks about [the La Cava handprints](temple-sites.md) | *"Your people never wrote anything down. They came in here instead. I have their songs and there is no one to sing them."* If there is room for the whole answer, use [the long form](#the-same-two-passages-in-our-world--balors-long-form) instead. |
 
 ### The offer
 
@@ -404,14 +404,43 @@ moment to a weirwood, and through such gates you and I may gaze into the past.
 
 *(George R. R. Martin,* A Dance with Dragons *— Bran's chapters.)*
 
-Four things it supplies, each now a line above: **sun and soil, not years** (why some
-questions get no answer — incapacity, not refusal); **the oak is the acorn** (the
-[earth-nameless cycle](../lore/lineages-and-afterlives.md) said exactly, so the stone is
-Sarric's grandmother and his grandchild at once); **the trees remembered** (the Firbolg
-leave no writing, so the mountain holds what they knew with no one left to know it — and
-the singers do not worship the old gods, they become them, which is how he answers being
-called one); and **a thousand years are a moment, and through such gates the past can be
-looked into**, which is the descent itself.
+Four things it supplies, each a line in the tables above: **sun and soil, not years**
+(why some questions get no answer — incapacity, not refusal); **the oak is the acorn**
+(the [earth-nameless cycle](../lore/lineages-and-afterlives.md) said exactly, so the
+stone is Sarric's grandmother and his grandchild at once); **the trees remembered** (the
+Firbolg leave no writing, so the mountain holds what they knew with no one left to know
+it — and the singers do not worship the old gods, they become them, which is how he
+answers being called one); and **a thousand years are a moment, and through such gates
+the past can be looked into**, which is the descent itself.
+
+#### The same two passages, in our world — Balor's long form
+
+Both reworked into the mountain and the earth-kin, for when the short lines in the
+tables are not enough and he is talking at length. Trees become the stone, the singers
+become the Firbolg, and the tree in the water stays as written.
+
+**Said to Sarric, if he asks whether anything of his people is kept.** (Replaces the
+short version — *"Your people never wrote anything down"* — when there is room for it.)
+
+> Your people had no books. No ink, no skins, no letters — nothing that holds a word
+> after the mouth stops. They had the stone, and this mountain above all. When they
+> died they came into it, into the grain and the seam and the water in the rock, and
+> the mountain kept what they had been: their songs, their dead, everything they knew
+> about the world and how to live in it. The people who came after say the mountain is
+> where the old gods are. Your people never said there were gods here. They said they
+> were what a god is made out of. Every one of them that dies becomes some of it.
+
+**Said to anyone who asks who and where he is.** (The long form of the tree in the
+water. Keep the short version for a first answer and hold this for the second asking.)
+
+> Time is not to a mountain what it is to a man. Water, and the weight above, and the
+> cold — a mountain knows those. Days and years and hundreds of years it does not know.
+> For you time is a river. You are in the flow of it and it carries you one way and you
+> cannot stand up in it. I am not carried. I am the tree in the water. Though it flows
+> about me, my roots are deep and I am not moved. I am sleeping now and I am now a child
+> playing on its banks, and I am now opening my eye at the end of all things. The child
+> is the mountain and the mountain is the child. A thousand of your years is one moment
+> to me — and you have been walking through that moment since you left the light.
 
 **Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md). A thing
 that has lain in the dark since before record, sleeping a *dreamless, uninvaded* sleep,
