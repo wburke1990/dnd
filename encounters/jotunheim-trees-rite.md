@@ -188,6 +188,11 @@ If he names them, he has done what the zealots did, and the rite has only moved 
 from the zealots to him. Andrew should be allowed to do it at the table — the ending
 is settled as what the rite is for, not as what he is made to choose.
 
+`[proposed]` **This is also what stops the second planting.** The zealots mean to sail
+to Moku and do at that island what they did here, and cuttings off these two would go
+with the fleet ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6). Two trees with no
+names are two trees there is nothing to carry.
+
 ---
 
 ## What it costs Pax

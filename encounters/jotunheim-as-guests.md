@@ -108,9 +108,9 @@ for it. Demons took part in the killing whose blood the two trees were consecrat
 
 `[proposed]` **Why they are still here 1,900 years later.** Because there will be
 another one. They are not garrisoned or owed anything; they are waiting for the next
-massacre — and the zealots are building a fleet and talking about spreading the creed
-([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6). The rakshasas have been patient
-about it. This gives them a part in Blackacre's final arc using what is already
+massacre. The zealots mean to sail to Moku and do at that island what they did here
+([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6), so the rakshasas sail with the
+fleet. This gives them a part in Blackacre's final arc using what is already
 established.
 
 `[OPEN]` whether any of them is wearing a dragonborn face in the caldera now. They are

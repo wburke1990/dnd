@@ -256,15 +256,34 @@ guarded channel.
 
 An endgame thread. The Lonka Zealots raise a fleet at Jotunheim and sail to **Moku
 Kurunatuka** to take the island where the dragons are now gathering and reclaim them with
-**god-stone**. Whether they **also kill everyone already living there** — a second Lonka —
-is undecided, and turns on **[Blackacre](../characters/blackacre.md)**. Either way the
-fleet reaches the [Moku finale](campaign-overview.md) as a third naval power beside the two
-Foundations.
+**god-stone**. The fleet reaches the [Moku finale](campaign-overview.md) as a third naval
+power beside the two Foundations.
 
-- **`[proposed]` The rakshasas are waiting for it.** The demons who joined the massacre
-  1,900 years ago took no price and are still in the caldera (§4–5). Nothing holds them
-  there and nobody owes them anything; what they are waiting for is the zealots doing it
-  again. A fleet that may empty Moku is the thing they have been patient about.
+**They mean to do at Moku what they did here.** `[settled — Will 8/16]` The plan is a
+second Lonka: usurpers living on the dragons' seat, the island taken back, everyone
+living there killed, and the ground reconsecrated in their blood — the same act and the
+same reasoning, 1,900 years on. This settles the zealots' **intent**, which
+was previously open. **Whether it happens is still
+[Blackacre's](../characters/blackacre.md) at the finale** and is not decided in advance.
+
+- **The rakshasas sail with them.** The demons who joined the massacre 1,900 years ago
+  took no price and are still in the caldera (§4–5). Nothing holds them there and
+  nobody owes them anything; what they have been waiting for is the zealots doing it
+  again.
+- **`[proposed — contradicts a settled line, take it or leave it]` The massacre is the
+  mechanism.** Holy ground takes power from blood, which is the world's rule
+  ([the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md)). If that
+  holds at Moku, then re-seating the dragons is a consecration and a consecration needs
+  blood, so the killing is not an atrocity carried out alongside the god-stone work —
+  it is how the god-stone work is done. This **contradicts** the current line on
+  [Blackacre's sheet](../characters/blackacre.md) that the god-stone reclaims the
+  dragons either way. Taken up, his option of taking Moku and sparing its people costs
+  him the dragons, and his choice stops being the easy one.
+- **`[proposed]` They take cuttings.** Last time they carried two trees under the sea
+  and planted them on the new holy ground (§5). There is no reason they would not do it
+  again — cuttings off the ash and the elm, carried to Moku, rooted, and named. Unless
+  Pax has already struck the names, in which case there is nothing to carry, and
+  freeing the two trees at Jotunheim is what prevents the second planting.
 - **The zealots can still put to sea.** They hold a fortress now, but the dragonborn were
   once **the only people on Nila with ships** (§4) and built the Muspel fleets. The fleet
   is theirs to raise. `[draft]` How large it is, and how far the rest of the archipelago
