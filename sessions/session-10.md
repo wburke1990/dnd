@@ -246,7 +246,8 @@ sailed yet** — next session opens on the departure.
   `[OPEN]` whether he recurs; confirm **Zarta** is the restaurant's name (assumed).
 - **V.'s coffeehouse loose ends:** did she leave with the atlas, and what were the
   per-PC offer notes and pay? (The deal itself: **accepted** — see above.)
-- **PC hometowns (asked at the table; not all remembered).** **Aniess** — *Ellen* (Greg's
-  guess). *Ekkek* — `[OPEN]` which PC it belongs to (unattributed; possibly Jasper's, the
-  coffee-plantation town Jogo named). The rest couldn't recall. To place in
-  [party-roster](../characters/party-roster.md) / PC dm-notes once settled.
+- **PC hometowns (asked at the table; not all remembered).** **Aniess** — **Ekkek** (Greg's
+  guess; "Ellen" earlier was an autocorrect of Ekkek — one town, hers). Reconcile with her
+  established **Suartleheim** origin ([lineages §10](../lore/lineages-and-afterlives.md)).
+  The rest couldn't recall. To place in [party-roster](../characters/party-roster.md) / PC
+  dm-notes once settled.
