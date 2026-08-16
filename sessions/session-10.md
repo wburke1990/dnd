@@ -108,10 +108,11 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   hidden in the money bag) whether they commit or not — the thief who insists on paying
   even when she doesn't have to. When they find the extra coin, the map is effectively
   sold; the deferred exchange and their wavering are theirs to resolve.
-- **Still open:** the deferred **map exchange** — she's pre-paid the 50 pp, the party are
-  wavering, and whether she'd already lifted the atlas or waits for the handover isn't
-  pinned — plus the full **per-PC offer/pay** beyond the confirmed "find out what Preem's
-  up to" brief.
+- **The map — resolved at the docks (below).** She'd **already lifted the atlas** invisibly
+  here; Blackacre only finds it gone aboard the ship. So she **paid and took it** — the 50 pp
+  in the bag and the "exchange later" talk were cover for a map already in her pocket.
+  **Still open:** the full **per-PC offer/pay** beyond the "find out what Preem's up to"
+  brief.
 
 ## The names, delivered — Mul at the tower
 
@@ -153,6 +154,11 @@ The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md
   The guards **apologized for being insensitive to diverse humanoids.**
 - **They reached the Second Hand's ship — Cassia was waiting.**
   [Cassia](session-06.md) yelled at Blackacre: *"You're 20 minutes late, we almost left."*
+- **The atlas is gone.** Blackacre asked Cassia where they were headed; she pulled out her
+  map, and when **Blackacre reached for his own — Preem's atlas — it was gone.** V. had
+  lifted it invisibly at the coffeehouse; the legerdemain landed and no one caught it. So
+  she **paid and took it** — the 50 pp in the bag and the "exchange later" talk were cover
+  for a map she already had.
 - `[OPEN]` **the departure** — they caught the Second Hand's ship (Cassia); how the sailing
   goes, and the ambush set off Blackacre's traded charts, is still ahead
   ([Departure Under Fire](../encounters/docks-departure.md)).

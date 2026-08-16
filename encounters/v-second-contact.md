@@ -456,8 +456,10 @@ ended. What landed at the table:
   **replacing the map is their problem**, she'd **set the exchange up later**, gave
   **Sarric a sending stone** (the contact channel), and said **she can wait** — then
   slipped the **50 pp into the money bag unnoticed.** Her code: she pays whether or not
-  they commit (as prepped).
+  they commit (as prepped). And she'd **already lifted the atlas** invisibly (the prep
+  default — no natural 20): Blackacre finds it gone aboard the Second Hand's ship the next
+  morning. So she **paid and took it**; the "exchange later" was cover for a map already
+  in her pocket.
 - **Her exit:** she winks at Blackacre as she leaves.
-- `[OPEN]` the deferred **map exchange** and whether she'd already lifted the atlas or
-  waits for the handover; and the full **per-PC offer/pay** beyond the "what is Preem
-  up to" brief.
+- `[OPEN]` the full **per-PC offer/pay** beyond the "what is Preem up to" brief. (The
+  atlas: **lifted** — found gone at the docks.)
