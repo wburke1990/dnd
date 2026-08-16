@@ -194,23 +194,54 @@ tomb with them is what they are being paid.
 > the dragons' system run without the dragons and without paying. The party have
 > been robbing the payment and carrying home the names that make the theft work.
 
+### The trees take people. The dragons do not. `[Will 8/16]`
+
+The afterlives divide between earth and sky, and so does what each side will accept as
+an offering.
+
+**The trees take people.** [The hell-tree](../encounters/the-hell-tree.md) is a
+working consecration kept in power by the deaths around it, and the
+[trees rite](../encounters/jotunheim-trees-rite.md) cites the grove at Uppsala, where
+the trees are divine from the blood of what is hung in them. A great tree comes into
+power by blood, and any blood will do.
+
+**The dragons refuse them.** The covenant takes **an animal in the stead of a person**,
+and that substitution is the dragons' rule rather than a detail of the ceremony. The
+verse is Genesis 22, where the knife is stopped:
+
+> *Lay not thine hand upon the lad, neither do thou any thing unto him.*
+>
+> *And behold behind him a ram caught in a thicket by his horns: and Abraham went and
+> took the ram, and offered him up for a burnt offering in the stead of his son.*
+
+Three things follow. **The Lonka zealots broke the rule: they used people instead of
+animals**, dropping the substitution the rite requires, and the dragons left them
+([Lonka / Jotunheim §4](lonka-jotunheim.md)). The massacre a century later used people
+the same way, to call the dragons back. **[Amseh](amseh-dynasty.md) does the same thing
+next door:** kings sacrificing their own children, calling and not being answered, with
+[Ammit](maalm-the-elven-stronghold.md) underneath gorged on the hearts — the dragons do
+not answer, and Ammit takes what is put out. And **[Preem](../characters/preem.md)
+takes people, not animals.**
+
+`[OPEN]` Whether the dragons ever *said* so, or whether people worked it out from
+being abandoned. If it is written in the terms read out at
+[stage 2 of the rite](../encounters/the-covenant-rite.md), then the zealots had it in
+a book and did it anyway.
+
 **The token in the sky (Genesis 9).** *"I do set my bow in the cloud, and it shall
-be a token of a covenant."* Here the thing set in the sky is **the comet**, so the
-sign of the promise and the destroyer of the world are one object, and it comes
-back.
+be a token of a covenant."* Here the thing set in the sky is **the comet**: it is both
+the covenant sign and what destroys the world, and it comes back.
 
-**Why this is worth having.** The [campaign's thesis](campaign-overview.md) is
-that transformation is a violation because it is done *to* people without consent.
-This is the one that was **consented to**, and it is still the source of
-everything the party is fighting. The easy question is whether you may remake
-someone who did not agree. The hard one underneath is what agreeing was worth,
-given what was on the other side of it.
+**How this connects to the campaign thesis.** The
+[thesis](campaign-overview.md) is that transformation is a violation because it is done
+*to* people without consent. This one was **consented to**, and it is still the source
+of what the party is fighting.
 
-**What it changes at the table.** Musa stops being a man with opinions about death
-and becomes a man with **terms**. [Blackacre](../characters/blackacre.md) is a
-covenant-holder not keeping his side, which is what *"power never used is power no
-longer"* has been reaching for. And because the pledge is a choice and not a
-birthright, **Musa can offer it to [Sarric](../characters/sarric.md)** — the
+**What it changes at the table.** Musa now holds specific covenant terms rather than
+opinions about death. [Blackacre](../characters/blackacre.md) is a covenant-holder not
+keeping his side, which fits his line about power never used. And because the pledge is
+a choice and not a birthright, **Musa can offer it to
+[Sarric](../characters/sarric.md)** — the
 conqueror-prophet offering salvation to a man of the people he is on his way to
 destroy.
 

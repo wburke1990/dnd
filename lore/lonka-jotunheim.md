@@ -127,24 +127,28 @@ under the sea.** In order:
   that rite performed on a colony, with **the colonists in the place of the heifer and the goat
   and the ram.** (Genesis 15:9 word for word — a quotation, doing work here on purpose. Leave it
   alone.)
-- **The rite was performed correctly.** `[Will 8/16]` The
-  [covenant](../encounters/the-covenant-rite.md) is cut with **someone else's** blood — never the
-  pledger's own — so the zealots were doing what the rite requires, at a scale nobody had tried.
-  The difference between a pledge and this massacre is the number of people killed. Their religion
-  does not contain the objection.
-- **Nothing came. No dragon answered.** The dragons had followed the hot spot southeast (§6) and
-  were not there, so the blood produced no result. They have held the island 1,900 years without
-  that explanation, and they do not consider that their gods are not there.
-- **When the dragons left — after the 5th pass, ~2,000 ya.** `[Will 8/16]` The
-  [3rd–5th passes build Musleheim](world-history-timeline.md), so the 5th finishes it; the
-  eruptions there stop, the hot spot moves on toward the Kurunatukas, and the dragons go with it.
-  The dragonborn had lived alongside them for two thousand years, and the dragons were gone
-  within one lifetime. The faith turns zealous after this. **The dragonborn leave Muspelheim
-  ~1,900 ya, a century after the dragons left.** They left Muspelheim because the dragons had
-  already left it.
-- **Why the zealots blamed the colonists.** Maalm plants the colony on Lonka ~2,000 ya and the
-  dragons go ~2,000 ya. The two happen together, so the zealots treated the colony as the cause.
-  The grievance is a hundred years old when they march, not two thousand.
+- **They broke the rule: they used people instead of animals.** `[Will 8/16]` The
+  [covenant](../encounters/the-covenant-rite.md) is cut with **someone else's** blood, never the
+  pledger's own — but the someone else is **an animal in the stead of a person**, and that
+  substitution is the dragons' rule ([lineages §4](lineages-and-afterlives.md), Genesis 22). The
+  massacre is the rite with the substitute removed, offered to call back the dragons, who had
+  left over the sacrifices.
+- **No dragon came.** They had left the island long before, so the blood produced no result. The
+  zealots have held Jotunheim 1,900 years without that explanation, and they do not connect the
+  sacrifices to the dragons leaving.
+- **Two separate departures, and only the first was caused by the hot spot moving.** `[Will 8/16]`
+  The dragons left **Lonka** around 4,000 ya because the hot spot moved to Musleheim and they
+  followed it (§1, §6). They left **Muspelheim** after the 5th pass, ~2,000 ya, for a different
+  reason: the dragonborn there had started **sacrificing people**, and the dragons refuse people
+  as offerings ([lineages §4](lineages-and-afterlives.md)). The second time they did not follow
+  the hot spot onward — they stopped attending, and **no dragon attends the 6th pass or the 7th.**
+- **The zealots caused it.** The sacrifices start *before* the dragons go. The dragonborn had
+  lived alongside them for two thousand years and lost them within one lifetime, and the
+  sacrifices grow larger and more frequent after this. **They leave Muspelheim ~1,900 ya, a
+  century after the dragons left.**
+- **Why they blamed the colonists.** Maalm plants the colony on Lonka ~2,000 ya and the dragons go
+  ~2,000 ya. The two happen together, so the zealots treated the colony as the cause. The
+  grievance was a hundred years old when they marched.
 - **Why the dragons left.** They went because
   [the hot spot drifted](#6-the-dragons-no-longer-come) — the same drift that cooled the
   northwest coast and opened the tunnels they walked in through. The holy island stood empty of
@@ -213,15 +217,16 @@ reached by a single guarded channel (the model is **Moorcock's Melniboné**).
   Dragon Turtle is the **only** one left: **no living dragons visit Lonka any more.** The
   Zealots bled to reconsecrate the dragon's first perch (§4), and their gods **no longer
   come to Lonka,** leaving just the turtle in the bay.
-  `[Will 8/16]` **The dragons left after the 5th pass, ~2,000 ya** — the pass that
-  finishes building Musleheim, after which the hot spot moves on toward the Kurunatukas
-  and they follow it. That is a century before the massacre, and it happens at the same
-  time as Maalm's colony, which is why the zealots blamed the settlers (§4). The killing
-  was an attempt to **call them back**, and it failed. 🔒 The
-  reason is cosmological — **dragons follow the hot spot, and the hot spot has drifted
-  southeast off Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas — but
-  the zealots do not know why the dragons are gone, and each generation of them takes
-  harder measures about it. The same thing happens in
+  `[Will 8/16]` **Two departures, with different causes.** 🔒 The dragons left **Lonka**
+  ~4,000 ya for the cosmological reason — **dragons follow the hot spot, and the hot spot
+  drifted southeast off Lonka** ([overview §5](campaign-overview.md)) toward the
+  Kurunatukas. They left **Muspelheim** after the 5th pass, ~2,000 ya, because the
+  dragonborn there had begun sacrificing people (§4). The second time they did not follow
+  the hot spot onward, so they are not at the Kurunatukas either, and no dragon attends
+  the 6th pass or the 7th. That departure falls a century before the massacre and in the
+  same years as Maalm's colony, which is why the zealots blamed the settlers (§4). The
+  killing was an attempt to **call them back**, and it failed. The zealots do not know why
+  the dragons are gone, and each generation sacrifices more. The same thing happens in
   **[Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
   to you; you did not come; we did everything right and it meant nothing*
   ([the gods who do not answer](egyptian-afterlife-mythology.md)). Gods who abandon
