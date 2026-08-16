@@ -184,6 +184,18 @@ They are **not** the recent refugees of
 half-orcs are old settled blood, at home here for centuries. *(Rollo and Normandy:
 raiders granted land to stop the raids, who settle, convert, and go native.)*
 
+**The road to Raand — the frontier.** The Mughals took every lowland túath but were
+**held at the river south of [Raand](nila-atlas.md)**, and never forced the crossing into
+the hills beyond. So the two peoples divided the land: the Mughals kept the lowland and the
+coast, the gnomes kept **Raand and the hills**. The road from the capital
+**[Haagen](nila-atlas.md)** up to Raand runs along that old border. On the south bank of
+Raand's river stand the ruins of a **Mughal fort**, built to watch the hills they could
+not take; above it, a **customs post** where Raand's craft was weighed on the way down to
+the court; past that, **ward-stones** at the edge of Raand, where the Mughals stopped. The
+Company runs the same road now — Raand still sends its craft down to Haagen over it.
+*(The medieval **Pale**, and the Milesian and Tuatha Dé division of Ireland into the
+surface and the sídhe: the lowland power holds the plain, the fair folk keep the hills.)*
+
 ## Connections
 
 - [The fallen gnome kingdom](the-fallen-gnome-kingdom.md) — the three peoples and
