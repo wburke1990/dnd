@@ -45,7 +45,7 @@ this way. **`[DM ruling — Will, 6/26]`**
   Kuru rents everything that floats — Mukka bottoms, dwarf hulls — and its whole
   Musleheim war hangs on a **hired, disloyal supply line.** `[Will, 6/26 — this
   is the reason behind Kuru's long-noted "thin navy."]`
-- **Not naval powers:** **Khalikhat** (a land of demons and wonders, not ships),
+- **Not naval powers:** **Kalikhat** (a land of demons and wonders, not ships),
   **Maalm** and **Jotunheim** (natural fortresses, little timber, no need for
   big fleets), and the **open-water Floating Fleets** (over the horizon,
   archipelago-irrelevant — [floating-fleet](floating-fleet.md)).
@@ -60,7 +60,7 @@ hard crew are worth more than any letter of law. (Kuru's **land-rush** wealth
 and the Musleheim war-supply line are the *richest* targets, but they ride the
 same hired, under-protected bottoms as everyone else.)
 
-**Where traders *won't* go:** Khalikhat (demons), Jotunheim (the Zealots and the
+**Where traders *won't* go:** Kalikhat (demons), Jotunheim (the Zealots and the
 Dragon Turtle), and the **orc-held heart of Muspelheim**. Two stretches of that
 island *are* reachable: the Kuru-held **war-coast** (traders supply the war
 there), and parts of the **southern coast** — the **mutant lands** the orcs

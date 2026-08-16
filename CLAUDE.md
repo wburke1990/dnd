@@ -109,6 +109,15 @@ If you learn something worth remembering across sessions, add it here.
   a note next to it so the next pass leaves it alone. Same for a phrase
   deliberately built to sound like a source — mark it and leave it.
 
+- **Always fix a misspelled proper noun, everywhere, without asking.**
+  Place and people names drift across a campaign written over months
+  (*Khalikhat* for **Kalikhat**, and the like). When you notice one, `rg`
+  the whole repo for the wrong form and correct every instance in the same
+  commit — don't fix only the file you happened to be in, and don't raise
+  it as a question. The canonical spelling is whichever the bulk of the
+  repo and the [nila atlas](lore/nila-atlas.md) use; if genuinely split
+  down the middle, pick the more common and say which you picked.
+
 #### House style for prose
 
 All prose we write or edit in the content markdown (`encounters/`,

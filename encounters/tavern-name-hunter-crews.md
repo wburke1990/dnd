@@ -82,7 +82,7 @@ for hire). The great **Floating Fleets** don't count here at all: a separate
 only every couple years on a timber-run. So for a name-hunting crew the options are thin: **own a boat (few can), nurse a
 crappy one, or buy passage from the small independent traders** who work the
 safer lanes. That last is how most crews get around — and it has teeth: **no
-trader will run them to Khalikhat (a land of demons), Jotunheim (the Zealots and
+trader will run them to Kalikhat (a land of demons), Jotunheim (the Zealots and
 the Dragon Turtle), or into the orc-held heart of Muspelheim.** (Traders *do* reach the Kuru-held
 **war-coast**, supplying the war, and a few dicey ports on the southern **mutant**
 coast like **Tripoca** — but the orc interior stays shut.) So those corners are
@@ -102,14 +102,14 @@ clean read on what it is.
   he is will want him. It also makes every port a backstory minefield: those are
   Mukka waters and the Lonka sea-lanes, where Sayid's co-opted tribes range. The
 flip side of owning their hull: the party can push into the corners that strand
-the rivals — Khalikhat, Jotunheim, the orc-held heart of Muspelheim — where no hired trader sails.
+the rivals — Kalikhat, Jotunheim, the orc-held heart of Muspelheim — where no hired trader sails.
 
 - **The Lapis Writ — they buy the best seat.** Founder-blood Maalm elves are
   *desert* aristocrats, not sailors; they don't crew a boat, they **pay for
   passage** — and their money buys the *reliable* traders, the faster lanes, and
   the odd fat bribe to make a nervous skipper risk a rougher crossing. It's part
   of *why they finished the Valley first*. The catch: passage only goes where
-  traders go. When the map points at Khalikhat, Jotunheim, or the orc-held heart of Muspelheim, all
+  traders go. When the map points at Kalikhat, Jotunheim, or the orc-held heart of Muspelheim, all
   their coin buys is a captain shaking his head — the no-go corners stall them as
   hard as anyone.
 

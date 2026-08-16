@@ -164,7 +164,7 @@ person present whose soul is kept after death.
 | When | He says |
 |---|---|
 | He notices Sarric in the party, and turns to Blackacre | *"Why do you travel with one of the ones who die? Were you not made for finer things?"* |
-| Blackacre asks what he means | *"This man is a firbolg, kin to the sleeper. His fate is to return to the earth and lose his soul and all he ever was to its eternal hunger. His is the fate of the animals and the fish who crawl on their bellies. To fulfil the cycle of nature. To you alone is the gift of eternal salvation granted. Live well and our fathers will paint your deeds across the skies. You and I will meet in the halls of our ancestors, but only if you live like a mighty dragon. Fly free of this world and fulfil your destiny."* |
+| Blackacre asks what he means | *"This man is a firbolg, kin to the sleeper. His fate is to return to the earth and lose his soul and all he ever was to its eternal hunger. His is the fate of the beasts of the field, and of every thing that goeth upon the belly. To fulfil the cycle of nature. To you alone is the gift of eternal salvation granted. Live well and our fathers will paint your deeds across the skies. You and I will meet in the halls of our ancestors, but only if you live like a mighty dragon. Fly free of this world and fulfil your destiny."* |
 | Blackacre takes Sarric's side | *"Keep your grief for yourself. Ask him — he will tell you the same."* Sarric can confirm it: his people know what they are and raise children expecting it ([lineages](../lore/lineages-and-afterlives.md)). The mechanism is as Musa describes; that doc sets the two afterlives side by side and picks neither. |
 | Blackacre asks why the difference should matter to him | *"Cattle die. Kinsmen die. You will die. What does not die is the account of a man. Your friend will not have one. You will."* |
 | At any lull — he does not need to be asked | *"You have great power in you, but you fear to use it. Power never used is power no longer."* [Blackacre bailed when his own plan turned violent](../characters/blackacre.md); Musa is a man on his way to do it. Run it as a challenge for Sam to answer, not a fact about the character. |
@@ -199,7 +199,7 @@ to be asked to.
 
 | When | He says |
 |---|---|
-| Leaving, at the mouth of the cavern | *"Tell me sailors, for such is the way of this place: Do the little people still live in Khalikhat? Dragon boats have space for 5. I rescued those I could, and for 10 generations they will prosper in this land, but I fear for the little ones I left behind."* |
+| Leaving, at the mouth of the cavern | *"Tell me sailors, for such is the way of this place: Do the little people still live in Kalikhat? Dragon boats have space for 5. I rescued those I could, and for 10 generations they will prosper in this land, but I fear for the little ones I left behind."* |
 | The party asks what happened at Kalikhat | He has it written down. Read him out of [On Ragnarok #1](../handouts/on-ragnarok-1.md), the Sunda Strait log of the Bleeding Star, and hand it over as **his notebook.** |
 
 **The answer to his last question**, if the party has it: the ones he left **went
@@ -346,7 +346,6 @@ it down. They can ask, or refuse and take nothing.
 |---|---|
 | He makes the offer, unprompted | *"You may ask me one question and I will answer truly. I know what you will ask, and it is your destiny that you should ask it, and that I shall listen and reveal."* |
 | They ask a second question | *"You have had your question."* |
-| They refuse the offer | *"Then you will ask it somewhere else, and be answered by something that lies."* |
 | They ask what they ought to ask | *"That was your question."* Only if the table will take it as a good joke — it costs them the prophecy, and he does not reverse himself. |
 
 ## The prophecy — `[OPEN]`
