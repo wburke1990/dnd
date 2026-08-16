@@ -159,7 +159,7 @@ Then, as they reach the stairs, quiet, and meaning it more than they can know:
 
 A **gnome** who runs the tower **library** and fetches the party their maps. Introduced when the party came to Preem's tower for a **replacement map** after V. lifted the one Preem gave them ([Session 10](../sessions/session-10.md)); Mul sent him to the library while he kept the party in a ground-floor study.
 
-`[OPEN — is he a demon?]` Preem staffs his tower with **bound demons in disguise** — Mul (a Yochlol as an elf), [Batrick](the-psychic-bat.md) (a quasit as Jasper's bat), and the paymaster quasit ([preems-demons.md](preems-demons.md)). A hidden demon-person behind the library gnome would fit the pattern. If so, pick a type from [the demon roster](../bestiary/available-demons.md) suited to a keeper of the names-archive — a small, clever one (another quasit, or a scholarly demon-person in the Yochlol mold). Left open; he stays a gnome clerk until decided.
+`[settled — Maurezhi]` Like the rest of Preem's tower staff (Mul, [Batrick](the-psychic-bat.md), the paymaster quasit), Bellington is a **bound demon in disguise** — a **Maurezhi** (CR 7; [demon roster](../bestiary/available-demons.md)). A maurezhi devours the dead and takes their memory, knowledge, and shape, which is the nature that fits **the keeper of Preem's archive of the names of the dead:** he eats the cataloged dead to hold what they knew, and wears a borrowed gnome to mind the library. To the party he is only a mild gnome librarian who fetches maps. `[OPEN]` how much of the maurezhi ever shows through, and when.
 
 ---
 
