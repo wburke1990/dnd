@@ -87,11 +87,15 @@ recurring comedy — it keeps dying and reforming in the Abyss:
 - Lock **who voices it** — offered to sankaku ("the voice of the summon"); the
   other DM floated playing "the bat" too. **[loose]**
 - **Named — Batrick.** `[settled — play]`
-- **How it reports to Preem.** `[settled — play, S10]` The familiar bond speaks only into
-  **Jasper's** mind — no one else hears it (as with Calix's toad and Pim's centipede), so it
-  has no telepathic line to Preem — and it has **no private daytime moment** on Jasper's
-  shoulder either. It reports **during a long rest, via its own sending stone** (its one
-  private window).
+- **How it reports to Preem.** `[settled — play, S10]` A **quasit has no innate telepathy** —
+  its kit is Magic Resistance, Invisibility, Scare, Shape-Shift, Rend, and languages Abyssal
+  and Common. Its only telepathic channel is the **find-familiar bond with its caster
+  (Jasper)**, which is no use for reaching Preem, and Jasper isn't in on it. So Batrick can't
+  ping Mul or Preem mind-to-mind; he has to **speak** (invisibility hides sight, not sound),
+  which he can't do safely with the party right there. His channel is **his own sending
+  stone**, used at the **next long rest** — his one private window. *(Note: "only Jasper
+  hears it" is Batrick hiding his voice from the party, not a telepathy limit — those are
+  separate.)*
 - **How much it has told Preem.** `[S10]` It has **not yet** reported the party's
   **double-agent deal with V.** — that goes up at the **next long rest** (via the stone),
   and only then does Preem's side learn they turned and start playing them as triple agents
