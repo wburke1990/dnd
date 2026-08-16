@@ -86,6 +86,11 @@ recurring comedy — it keeps dying and reforming in the Abyss:
 
 - Lock **who voices it** — offered to sankaku ("the voice of the summon"); the
   other DM floated playing "the bat" too. **[loose]**
-- **Name it**, the way Mul is named, once it becomes a recurring character.
-- Decide **how much it has already told Preem** by the time the party uncovers
-  it.
+- **Named — Batrick.** `[settled — play]`
+- **How it reports to Preem.** `[settled — play, S10]` Its telepathy binds only to
+  **Jasper** (the familiar bond), not Preem, and it has no private daytime moment on
+  Jasper's shoulder to work a sending stone — so it **reports in person to Mul when the
+  party visits the tower** (two of Preem's demons, together).
+- **How much it has told Preem.** `[S10]` It reported the party's **double-agent deal with
+  V.** to Mul at the tower — so Preem's side knows they turned, and plays them as triple
+  agents (see [V. — Second Contact](../encounters/v-second-contact.md)).

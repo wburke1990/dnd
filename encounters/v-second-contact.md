@@ -473,4 +473,4 @@ She reaches Sarric through the stone she gave him:
 - She **got out of Maalm alive.**
 - She has Sarric **apologize to Blackacre on her behalf** (for lifting his map).
 - She reveals she **didn't kill Fester after all** — he's sore about the missing fingers.
-  `[OPEN]` confirm **Fester = Ratatat** (the rat man Jasper de-fingered, [S6](../sessions/session-06.md)) or a distinct NPC.
+  **Fester = Ratatat** (the rat man Jasper de-fingered, [S6](../sessions/session-06.md)).

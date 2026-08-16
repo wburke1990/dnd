@@ -13,6 +13,11 @@
 Opens where [Session 9](session-09.md) ended: **V.** at the table, having tailed
 them in invisible ([her prep](../encounters/v-second-contact.md)).
 
+- **The venue.** A coffeehouse in a pavilion by the **north docks**; on the wall, the
+  **Bedraageon triptych** — the founding [as the Twelve tell it](../lore/maalm-founding.md):
+  Bedraageon and Ammit locked together in the dark, the twelve setting the first stones
+  above, the city rising over both. The party saw **Ammit** here, hours after meeting her at
+  the scales in the dream.
 - She **got the drop on them** and **sipped Sarric's coffee** as she dropped
   invisibility — the reveal landed on the one who bested her at the mill.
 - She **admonished them for the mill** (their violent first meeting, S7) and asked:
@@ -181,6 +186,27 @@ fetch a new map**, and they talked in a **ground-floor study** while it was foun
 - **Pax revealed the Dream Quest** to Mul, who was **extremely interested and interrogated
   him about every detail** — but **never asked who the sponsors were.** He already knows it
   was the **al Qahtani.**
+- **Mul asks for the names.** He closed the interrogation by asking for the dream's names.
+  He pulled their **report**, frowned, and drew a **second sheet — another party's, with
+  more names** — asking whether the dream held any **not on that list.** **There were
+  none.** He said **attention to detail pays more per mission**, and that he has **high
+  hopes for them after the Dream Quest.**
+- **They pressed him on the names; a 23 insight cracked him.** He gave his prepped evasive
+  answer, but the **insight (23!)** read him — he **resents both the party and Preem, and
+  he's lying.** Pushed, he fell back to the line and **clammed up:** *"…It is better. Truly.
+  Not asking is better."*
+- **Batrick's report landed here — the pivot fires.** Batrick is a quasit, telepathically
+  bonded only to **Jasper** (not Preem), with no private daytime moment on Jasper's shoulder
+  to use a sending stone — so he **reported in person to Mul at the tower** (two of Preem's
+  demons, together). Preem's side now **knows the party turned for V.**, and handed them a
+  new map and "high hopes" anyway: the double-into-**triple**-agent turn is live, Mul
+  resentfully playing along ([the psychic bat](../characters/the-psychic-bat.md)).
+- **DM note — Mul cracked (23).** On record now: Mul **resents both the party and Preem** and
+  **lies about the names** — the bound demon-servant's resentment
+  ([mul.md](../characters/mul.md)) made explicit. The **second party's name-sheet** is
+  Preem's other crews at work (the "many crews hunting names at once,"
+  [overview §3.C](../lore/campaign-overview.md)); the attention-to-detail pay is Mul grading
+  crews against each other.
 - **DM note.** The not-asking is the tell: Preem's people already know the al Qahtani hosted
   the rite. And a demon who stands on both planes ([Mul is a
   Yochlol](../lore/demons-and-the-hotspot.md)) hanging on every detail of a mortal's real
@@ -197,7 +223,7 @@ fetch a new map**, and they talked in a **ground-floor study** while it was foun
 - **Next session (V.'s sending-stone message).** V. will reach Sarric through the stone she
   gave him: she got out of Maalm alive, wants Sarric to **apologize to Blackacre on her
   behalf**, and reveals she **didn't kill Fester after all** — he's sore about the missing
-  fingers. (Fester reads as **Ratatat**, the rat man Jasper de-fingered in S6 — confirm.)
+  fingers. (Fester = **Ratatat**, the rat man Jasper de-fingered in S6.)
   See [V. prep](../encounters/v-second-contact.md).
 
 ---
