@@ -148,8 +148,13 @@ The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md
   **Preem's influence smoothed the way.**
 - **Pax got stopped.** Customs eyed his cargo: *"Is that rat meat? It looks like you
   have 40 lbs of rat jerky. That is a serious customs violation."*
-- `[OPEN]` **the Second Hand / the departure** — 20 minutes late; whether they caught the
-  Second Hand, and how the sailing goes, is still unfolding
+- **Blackacre talked it through.** He explained the jerky is just **three days of food
+  for Aniess** — different biology, she needs large meals — and **aced the persuasion.**
+  The guards **apologized for being insensitive to diverse humanoids.**
+- **They reached the Second Hand's ship — Cassia was waiting.**
+  [Cassia](session-06.md) yelled at Blackacre: *"You're 20 minutes late, we almost left."*
+- `[OPEN]` **the departure** — they caught the Second Hand's ship (Cassia); how the sailing
+  goes, and the ambush set off Blackacre's traded charts, is still ahead
   ([Departure Under Fire](../encounters/docks-departure.md)).
 
 ---
