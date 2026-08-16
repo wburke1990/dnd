@@ -279,7 +279,8 @@ Balor's one thing is **time.** The graves hold the poison and Balor holds the ti
 *(The giant is the source of Musa's prophecy — see Background: "The giant is the source of the gnomes' founding prophecy".)*
 
 **Its voice.** It sees every year of the mountain at once and speaks from all of
-them — the register of the weirwoods and the three-eyed raven. It is not surprised
+them (the weirwoods and Brynden Rivers — full passages under
+[*Where the language comes from*](#where-the-language-comes-from)). It is not surprised
 by the party; it has already met them here, and it has not yet begun to. Three rules
 hold for everything below: **it never explains, it never bargains, and it never says
 a thing twice.**
@@ -404,6 +405,37 @@ gives the text, what it supplies, and a line already turned into voice. Adapt ra
 than quote — except the Kraken, which is a handout.
 
 ### For the giant
+
+**The weirwoods — Jojen Reed and Brynden Rivers to Bran Stark.** The source of the
+tree in the water, and the closest thing to a statement of how the giant thinks.
+Rivers: *"For men, time is a river. We are trapped in its flow, hurtling from past to
+present, always in the same direction. The lives of trees are different. They root and
+grow and die in one place, and that river does not move them. The oak is the acorn, the
+acorn is the oak."* And Jojen, on the singers: they had no books, so *"when they died,
+they went into the wood, into leaf and limb and root, and the trees remembered."* They
+do not worship the old gods; they become them.
+
+Three things in there the scene was not yet using:
+
+- **What he understands, and does not.** A weirwood knows sun and soil and water, not
+  days and years and centuries. This is why some questions get no answer — not refusal,
+  incapacity. *"I know the weight of water and the pressure of stone. I have never
+  known what a year is."*
+- **The acorn and the oak, applied to Sarric.** The
+  [earth-nameless cycle](../lore/lineages-and-afterlives.md) is this literally: a
+  Firbolg goes into the mountain and new Firbolgs are drawn out of it. To Sarric:
+  *"This stone is your grandmother. It is also your grandchild. There is no moment when
+  it is not both."*
+- **The trees remembered.** Sarric's people leave no writing and no name — a hand on
+  the wall, and then the stone. So the mountain holds what they knew with no one left
+  to know it. To Sarric: *"Your people never wrote anything down. They came in here
+  instead. I have their songs and there is no one to sing them."* And, asked whether he
+  is a god: *"Your grandmother is in me. So will you be. There is no god here."*
+- **The gate.** A thousand human years are a moment to a weirwood, and through such
+  gates the past can be looked into. That is the descent: the party is walking through
+  one moment of his, which is why the ages are open to them at all. *"A thousand of
+  your years is a moment to me. You have been standing in it since you left the
+  light."*
 
 **Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md), and its
 placement was open. It is Balor's: a thing that has lain in the dark since before
