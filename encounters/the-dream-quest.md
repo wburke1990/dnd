@@ -904,7 +904,7 @@ Take your time with this gate. It is not a puzzle to be solved quickly. It is th
 
 ## Read Aloud
 
-*"The river runs level and slow. Along both banks, doors stand open in the dark — stone doorways, tomb doorways, hundreds of them, in rows receding up the banks. In each doorway the dead stand holding small lights. They do not speak and they do not follow. They watch the boat pass. Some of them raise their lights as the old man's boat goes by."*
+*"The river runs level and slow. Along both banks, doors stand open in the dark — stone doorways, tomb doorways, hundreds of them, in rows receding up the banks. In each doorway the silent dead stand holding small lights. They watch the boat pass. Some of them raise their lights as the old man's boat goes by."*
 
 The dead man looks back at the doors for a long time. If anyone asks him about it:
 
