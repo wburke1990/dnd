@@ -275,10 +275,11 @@ back on them and costs nothing.
 
 ### Greetings — one per PC
 
-He calls Sarric **child** and Pax **nephew**.
+He calls Sarric **child** and Pax **nephew**, and says nothing to the other three.
 [The earth-nameless](../lore/lineages-and-afterlives.md) run in two lines: Sarric's
 Firbolgs in the mountains, and Pax's mother's forest-people in the low woods. Sarric is
-descended from him; Pax is off the brother line.
+descended from him; Pax is off the brother line. **Two of the party are his and three
+are not**, and the party can watch him work out which is which.
 
 | When | He says |
 |---|---|
@@ -286,9 +287,11 @@ descended from him; Pax is off the brother line.
 | Sarric asks what that means | *"You are the fruit of my loins. When I spread my seed upon Mother Earth, I made you. In time I will unmake you and all of my creation, for such is the destiny of all things."* |
 | Sarric or anyone asks whether they are safe here | *"You are of the first people. The mountain does not take from its own. Walk where you like."* |
 | [Pax](../characters/pax.md) | *"Welcome nephew."* |
-| [Jasper](../characters/jasper.md) | *"You have my skin and none of my blood. Something made you in a hurry."* Earth genasi are [Bad Pass](../lore/world-history-timeline.md) mutations, a thousand years old. |
-| [Aniess](../characters/aniess.md) | *"Something changed you after you were born. Everything changes before the end."* |
-| [Blackacre](../characters/blackacre.md) | **No line — he has nothing to say to him.** `[OPEN]` Balor greets his own (child, nephew) and remarks on Jasper and Aniess; the dragonborn gets nothing. Leave it silent, or write him one. And if Blackacre asks which of the two fates is the better one, there is still no answer: Balor does not rank them and has no view to be drawn out. Musa, one level up, ranks them absolutely. |
+| [Blackacre](../characters/blackacre.md), [Aniess](../characters/aniess.md), [Jasper](../characters/jasper.md) | **Nothing. He does not speak to the sky people.** `[settled 8/16]` All three are [dragon-people](../lore/lineages-and-afterlives.md), judged in the sky — Aniess between two sky-courts, Jasper an earth genasi off the same line. He has already said what the sky is to him (*"I know little of such beasts, for they will come and go from this world while I sleep"*), and that indifference covers their people too. He addresses his own blood and no one else. |
+
+If Blackacre asks anyway which of the two fates is the better one, there is still no
+answer: Balor does not rank them and has no view to be drawn out. Musa, one level up,
+ranks them absolutely.
 
 ### Himself — what he is, and how long
 
