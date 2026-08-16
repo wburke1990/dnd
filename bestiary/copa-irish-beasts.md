@@ -519,7 +519,7 @@ party put what they like to him; he answers plainly while he can. A few worth as
 - **"How long?"** — *"Eight hundred years."* He works out the years against the people in front of him.
 - **His mother.** *"My mother was Ratna, a drow of Kali's country. My father rode north and carried her out of the goddess's own temple. Her brother never forgave it — Vetal is down there still."* (The [founding](../lore/the-mughal-founding.md).)
 - **His brother Siyavash / the dead.** *"Siyavash drowned at the ford in the crossing. Our dead go to his house. Am I to go there now, or is it too late for that too?"*
-- **The peri / the Land of Youth.** *"She warned me. Do not touch the ground. I never asked her name."* Pressed on whether she will come: *"She will not come for me here. I stepped down — that is the whole of the bargain."*
+- **The peri / the Land of Youth.** *"She warned me. Do not touch the ground. I never asked her name."*
 - **Who rules now.** Tell him the Company holds the land and he stops resisting. *"Then there is nothing to ride home to."*
 
 **The Piper out of the Mound.** The [Company's digging](../encounters/the-haals-runoff.md),
