@@ -5,6 +5,47 @@ so the sheet stays the player's. Moved out of the sheet 8/16.
 
 ---
 
+## How the reconciliation works — nobody converts
+
+`[settled — Will 8/16]` His stated goal is to mend the rift between the zealots and the
+wandering nomads. Written the obvious way, that only resolves if the zealots give up
+being zealots, which means one side simply loses and the zealots contribute nothing.
+
+They are not a heresy. **The wandering dragonborn founded nearly every settlement in
+this world, and the zealots are wanderers who stopped** — the same thing every founder
+did, done on ground the dragonborn hold sacred
+([the Wandering, *The founders*](../lore/wandering-dragonborn.md)). Taniyn stopped at
+Lonka and became the island. Every port Blackacre has ever put into was founded by
+someone who did what the zealots did.
+
+So the rift is between the ones who stopped and the ones who have not stopped yet, and
+each side holds something the other lacks:
+
+- **The zealots have the memory of the pass.** They alone know a reconsecration is due
+  and roughly when, because it happened on their ground and they stayed to remember it
+  ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6). Nomads keep the creed, but no
+  one among them keeps the record.
+- **They have the fleet.** Solitary roamers cannot assemble one.
+- **They have numbers**, such as they are. The nomads are thinning out, slowly, because
+  nomads leave to found towns and do not come back.
+- **The nomads have the creed.** Follow the dragon; do not hold ground and demand the
+  dragon come to it. It answers the zealots' problem: the dragons have moved.
+
+**At Moku both sides can act on this together.** The zealots mean to stop again,
+permanently, on the dragons' new seat. The nomad answer is that you stop, you found, and
+your children go out again — and the dragons have moved, so following them means moving
+on again. Blackacre does not have to ask them to stop being zealots. He asks them to do
+what every founder in the world's history did: arrive, settle, and let the next
+generation leave.
+
+It also gives them a way to survive being proved wrong about the two trees, which
+otherwise leaves them with nothing to do about it.
+
+`[OPEN]` whether the zealots would accept this from a nomad, and who inside the caldera
+would argue for it.
+
+---
+
 ## The endgame — the fleet offer (~level 20) `[draft]`
 
 His goal of mending the rift leads here. **However he's been played,** once Blackacre

@@ -44,6 +44,38 @@ points straight at this seam. **[loose — offered, not locked]**
 > [the Muspel empire §5](the-muspel-empire.md)). Carthage's mercantile,
 > mercenary-hiring, Sicily-obsessed side carries over to neither.
 
+## The founders — and why there are fewer of them every age
+
+`[settled — Will 8/16]` **The wandering dragonborn founded nearly every settlement in
+this world.** A wanderer stops, and where he stops there is a town. That is what the
+wandering produces, and it has been producing it for five thousand years.
+
+It is also why there are fewer of them. The life spends itself: every generation some of
+them stop, what they found stays, and the ones still going are fewer than they were.
+**They are not close to gone** — the world is large and the decline is slow enough that
+nobody inside it can watch it happen. The town whose founder was a wandering dragonborn
+was founded three thousand years ago and nobody living there knows it.
+
+**This settles how the two faiths relate** (the standing open thread below). The **Lonka
+Zealots are wanderers who stopped.** So is every other settlement on the map; the
+zealots are only the extreme case, because they stopped on the holiest ground there is
+and then made a doctrine out of never moving again
+([Lonka / Jotunheim](lonka-jotunheim.md)).
+
+**Taniyn did it first.** She wandered, and she stopped at Lonka, and she became the
+island ([Taniyn & Lonka](taniyn-and-lonka.md)). The nomads' own god is the first
+wanderer who stopped, and the ground the zealots guard is the place she did it. Stopping
+is not apostasy. It is what the creed is for.
+
+So each side is wrong about the same thing from opposite ends:
+
+- **The zealots** think stopping is the end of the road, and that ground once stopped on
+  can be held and made to produce the dragon again. Taniyn did not guard Lonka; she
+  became it, and then the holy thing moved on southeast and left them standing there.
+- **The nomads** treat the ones who stopped as apostates, while living in a world their
+  stoppers built. Blackacre cannot disown the zealots without disowning every port he
+  has ever put into.
+
 ## The traders — ruling the sea-roads, and losing the welcome
 
 `[Will 7/29]` The dragonborn's trade history, and how the archipelago's love for them turned.
@@ -261,9 +293,10 @@ growing to associate with them.** How to run it:
   on Blackacre's road) and Tariq's strait.
 - **Decide Wazzan's status** — dead, undead-by-trick, or still
   out there.
-- Resolve how this faith relates (if at all) to the **zealots'** religion
-  and to the broader **Ragnarok / Second Foundation** mythology the
-  dragonborn Bedraageon is tied into
+- ~~Resolve how this faith relates to the **zealots'** religion.~~ `[settled — Will
+  8/16]` The zealots are wanderers who stopped, like every other settlement in the
+  world; see *The founders* above. Still open: how either faith relates to the broader
+  **Ragnarok / Second Foundation** mythology the dragonborn Bedraageon is tied into
   ([the-second-foundation.md](the-second-foundation.md)).
 
 ## See also
