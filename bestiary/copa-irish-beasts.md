@@ -471,13 +471,13 @@ The last two are people who went into the hill and came out to a changed world.
 The time in the mound does not fall on the party — it fell on them, and the party
 meets what it did.
 
-**The Returner and the Stone — the broken stirrup.** A rider comes down the Aar
-road on a fine horse, dressed in a fashion no one has worn in an age, asking
-after people and a kingdom hundreds of years gone. He went under the hill — or
-over the sea to the Land of Youth — with a woman of the mound, for what he counts
-as a short while, and he is coming home to a home that fell before the
-[Mughals](../lore/the-fallen-gnome-kingdom.md) came. He was told one thing: do
-not set foot on this ground, or the years you skipped find you at once. On the
+**The Returner and the Stone — the broken stirrup.** A **[Mughal](../lore/the-fallen-gnome-kingdom.md)
+prince** comes down the Aar road on a fine horse, dressed in the fashion of a court
+no one has seen in an age, asking after people and an empire hundreds of years gone.
+He went under the hill — or over the sea to the Land of Youth — with a woman of the
+mound, for what he counts as a short while, and he is coming home to an empire that
+fell long before he returned. He was told one thing: do not set foot on this ground,
+or the years you skipped find you at once. On the
 road he comes on men straining to shift a great stone they cannot move — clearing
 the road, or a fallen [Firbolg standing-stone](../lore/the-fallen-gnome-kingdom.md)
 — and, still in the saddle, he leans down to lift it for them, because the men of

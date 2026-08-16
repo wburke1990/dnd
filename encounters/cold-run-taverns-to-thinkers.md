@@ -223,27 +223,28 @@ can follow Jogo's story here.
 
 **As they walk, show the time-travel myths.** The buried giant **Balor** under Haals
 is a source of time magic, and it shows along the road in people who fell out of their
-own time. Run one or two on the walk in; the full write-ups (read-aloud and all) are
+own time. Run these two out on the road; the full write-ups (read-aloud and all) are
 in [the Copaa bestiary](../bestiary/copa-irish-beasts.md):
 
-- **The Returner and the Stone** — a richly-dressed rider comes down the Aar road
-  asking after people and a kingdom centuries gone. He went under the hill with a fey
-  woman and was warned never to touch the ground; he stops to help men lift a stone,
-  his stirrup breaks, and every year he skipped lands at once. The party can act
-  before he hits the ground.
+- **The Returner and the Stone** — a **Mughal prince** comes down the Aar road asking
+  after people and an empire centuries gone. He went under the hill with a fey woman
+  and was warned never to touch the ground; he stops to help men lift a stone, his
+  stirrup breaks, and every year he skipped lands at once. The party can act before he
+  hits the ground.
 - **The Piper out of the Mound** — the Company's digging opens a mound and a master
   piper walks out mid-tune, expecting the feast he left "a night ago." Hundreds of
   years have passed. Told the truth, he ages where he stands or walks back into the
   hill.
-- **Time in the mountain** — what happens to anyone who goes underground at Copaa or
-  Haals: time runs slower the deeper you go, stopped pockets freeze whoever steps in,
-  and in the deepest parts the past repeats and draws in anyone watching.
+
+**The final leg — as they approach the mountain.** Save **Time in the mountain** for
+the last stretch toward Haals: the closer they get, the more the time magic bites.
+Time runs slower the nearer they come, stopped pockets freeze whoever steps in, and in
+the deepest ground the past repeats and draws in anyone watching. This is the doorstep
+of the [Mines of Haals descent](the-mines-of-haals.md) — a session of its own, so let
+it build as they arrive and stop at the mouth.
 
 These do the same job inland that the Thinkers do at sea — the party meet the
-comet/transformation cycle in play, long before it's ever named. Don't explain it. (If they go
-all the way into the mountain at Haals, that's the full
-[Mines of Haals descent](the-mines-of-haals.md) — a session of its own, not this
-packet.)
+comet/transformation cycle in play, long before it's ever named. Don't explain it.
 
 ---
 
