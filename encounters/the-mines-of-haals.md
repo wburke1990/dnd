@@ -287,8 +287,7 @@ descended from him; Pax is off the brother line.
 | [Pax](../characters/pax.md) | *"Welcome nephew."* |
 | [Jasper](../characters/jasper.md) | *"You have my skin and none of my blood. Something made you in a hurry."* Earth genasi are [Bad Pass](../lore/world-history-timeline.md) mutations, a thousand years old. |
 | [Aniess](../characters/aniess.md) | *"Something changed you after you were born. Everything changes before the end."* |
-| [Blackacre](../characters/blackacre.md) | *"You have a name. I have none. Neither of us chose."* |
-| Blackacre asks which of the two fates is better | *"You will be judged in the sky. I will go into the stone. Both of us end."* He does not rank them. Musa, one level up, ranks them absolutely. |
+| [Blackacre](../characters/blackacre.md) | *"You have a name. I have none. Neither of us chose."* If he asks which of the two fates is the better one, Balor has no answer to give — he does not rank them, and has no view to be drawn out. Musa, one level up, ranks them absolutely. |
 
 ### Himself — what he is, and how long
 
@@ -453,7 +452,6 @@ when he is pressed on the Firbolg rather than on Blackacre.
 - *"A mountain knows water, and the weight above, and the cold. It does not know days or
   years."*
 - *"For you time is a river. It carries you one way. I stand in it."*
-- *"The child becomes the mountain. The mountain becomes the child."*
 - *"A thousand of your years is one moment to me. You have been walking through that
   moment since you left the light."*
 
