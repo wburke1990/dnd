@@ -243,7 +243,7 @@ sailed yet** — next session opens on the departure.
 - **Jogo** — a Maalm **restaurateur** (his place, **Zarta**) who buys the finest foods
   off the docking ships; met at the coffeehouse after V. left, a chatty Company
   gossip/info-source (coffee in Jasper's home town, sugar, the Copaa leprosy tomatoes).
-  `[OPEN]` whether he recurs; confirm **Zarta** is the restaurant's name (assumed).
+  `[OPEN]` whether he recurs.
 - **V.'s coffeehouse loose ends:** did she leave with the atlas, and what were the
   per-PC offer notes and pay? (The deal itself: **accepted** — see above.)
 - **PC hometowns (asked at the table; not all remembered).**

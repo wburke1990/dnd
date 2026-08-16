@@ -43,6 +43,28 @@ The hunt stays out in the wild and **never goes near the tree.** The tree is hol
 ground, and no hunter enters it — which is what keeps it alone. The hunters come and
 go for the season and never reach it.
 
+## The rival crews at the hunt `[S10]`
+
+The hunt is the **only annual way into the preserve**, so it is the one window all of Preem's
+[name-hunter crews](tavern-name-hunter-crews.md) get at this spot — and they take it. The hunt
+is crowded with rivals, the race-with-no-rules ([overview §3.C](../lore/campaign-overview.md))
+funneled to one chokepoint.
+
+- **The [Lapis Writ](tavern-name-hunter-crews.md) come as paying hunters.** Founder-blood
+  Maalm aristocrats who buy the best seat — the sort of "wealthy Maalm hunters" who charter
+  the transport. The crew that won the Valley, out hunting.
+- **The party come as the quarry** — the one entry they can afford (put a name down as the
+  stag, below) — or they slip in. So the Writ hunt and the party are hunted. The mirror is
+  sharpest at **Calix and Pax:** Calix rides with the hunters; **Pax is run as the stag** in
+  the Actaeon man-hunt.
+- **The other crews** turn up as their means allow ([how each crew moves](tavern-name-hunter-crews.md)):
+  the funded reach the hunt; the broke [Brass Jackals](tavern-name-hunter-crews.md) if their
+  rotting tub survives the crossing. Rival crews — and the bodies of the ones who lost — are
+  the danger lever out in the wild.
+- `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at
+  the party in [Session 10](../sessions/session-10.md) — they finished the Valley without
+  missing a name, so it fits.
+
 ## What still needs building
 
 - The **rules of the hunt** at the table — the two strands.
