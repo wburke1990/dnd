@@ -216,6 +216,55 @@ of them.
 | [Aniess](../characters/aniess.md) | *"You have been changed. Who holds the name you had before?"* |
 | [Sarric](../characters/sarric.md) addresses him directly | *"Among my people a man is his name. You have none."* He is not hostile. To Musa the Firbolg are **the ones who die** — the people his gnomes take the land from, who carry no name and hold no title to the ground. `[OPEN — discuss with David]` "the ones who die" (and the alternative, "the nameless ones") before it goes into canon. |
 
+### Musa's scripture — for Jeremy and Andrew
+
+`[Will 8/16]` Both players are Jewish, and Musa is already a Moses: a prophet who led
+refugees out of a poisoned country toward a promised one, and who leaves a **massebah**
+with four prophecies cut into it. So the register belongs to him by right. The lines
+below are built to be recognised at the table by the two people who will catch them —
+**play them straight and never explain them.** The recognition is the whole of it, and a
+gloss kills it.
+
+**To [Pax](../characters/pax.md) — Jacob at Bethel (Genesis 28).** Musa slept at the
+mouth of the cave, was shown what was coming, and afterwards set up a standing stone over
+a harbour. That is Jacob's story move for move: a stone for a pillow, a stair with its
+top in heaven and figures going up and coming down it, and a pillar raised in the
+morning. **The massebah has Bethel underneath it** — and the ladder is Pax's father's
+people.
+
+- *"I slept on a stone in that doorway. I saw a stair standing on the ground with its top
+  in the sky, and there were people going up it and coming down it. Yours, I think."*
+- *"Surely there was something in that place, and I did not know it."*
+- *"The stone I slept on, I set up. It is the one that will stand over your harbour."*
+
+**To Pax — Jacob at the ford (Genesis 32).** A man holds a divine thing all night, will
+not let it go until it blesses him, is lamed in the hip for it, and comes away with a new
+name.
+
+- *"One of your father's kind was held all night by a man who would not let go until he
+  was blessed. The man was lamed for it, and he was given a new name. That is the only
+  way anyone has ever got anything out of them."*
+
+**To [Sarric](../characters/sarric.md) — the half of the verse he does not get.** Genesis
+3:19, and then Ecclesiastes 12:7, which splits the dead in two exactly the way this
+world does: the dust goes down and the spirit goes up. Musa quotes the whole verse and
+then tells him he is only the first clause.
+
+- *"Dust you are, and to dust you will return."*
+- Pressed: *"The dust returns to the earth as it was, and the spirit returns to the one
+  who gave it. You have the first half of that. There is no second half in you."*
+
+**Asked his god's name.** He will not say it — which in this world is not piety but
+prudence, and it makes his god the one thing in the setting that
+[cannot be owned](../lore/campaign-overview.md).
+
+- *"I will not say it. A name is a handle. He will not be carried."*
+
+**On the stone itself (Joshua 24:27).** The massebah as witness — it heard the words, and
+it outlasts the mouth that said them.
+
+- *"The stone heard me say it. When I am dead the stone will still be saying it."*
+
 **On the conquest he has not committed yet.** He does not apologize and does not expect
 to be asked to.
 
@@ -555,6 +604,12 @@ argument that a prophecy causes itself.
 **Hávamál 76–77.** Cattle die, kinsmen die, you die; what never dies is the account of a
 man and what he did. His speech to Blackacre in its oldest form, and it states the
 Firbolg fate as the absence of the only thing that lasts.
+
+**Genesis 28 and 32, Ecclesiastes 12:7, Joshua 24:27.** Musa's Torah register, in
+[his scripture lines](#musas-scripture--for-jeremy-and-andrew) — Jacob's stone and stair
+at Bethel (which is where the massebah comes from), Jacob lamed at the ford and renamed,
+the dust that goes down while the spirit goes up, and the standing stone that heard the
+words and outlives the speaker. Written for two players who will recognise them.
 
 **Deuteronomy 34 — Moses on Pisgah.** Shown the whole land, told he will not go over
 into it, buried in a grave no one knows. Musa is
