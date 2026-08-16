@@ -149,6 +149,13 @@ keep it light.
 
 - **A day in port** clears the hull boxes and **refills stores** — the practical
   reason to stop.
+- **The watch-stone — hand out the vision.** At whichever port they land, the first
+  thing ashore is **Musa's watch-stone** over the harbour — the tomb of the dragonborn
+  prophet who led the gnomes out of poisoned Kalikhat to found
+  [Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md). Give the players
+  **[the Locksley Hall vision handout](../handouts/locksley-hall-vision.md)** to read;
+  no check, no scene needed. (The stone "wears the eye" of the buried giant Balor in
+  the Haals mine — that's the vision's true source, but David doesn't need to say so.)
 - **Aar** is the **[Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) ore-port** —
   the Company ships the Haals mine's ore out through it, downstream of **Copaa** (the
   poisoned river, the leprosy tomatoes, the tomb-lepers' home from S10). So Aar is
