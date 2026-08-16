@@ -98,6 +98,16 @@ Ulupi). All Hindu; nothing is borrowed from another pantheon.)*
   Sultan. *(Éber and Érimón — the founding fratricide.)*
 - **Farhad.** Ratna's son (below).
 
+## The dynasty and Brauron
+
+The Mughals were **Muslim** — Persianate and Islamic. As the region's rulers they
+**patronized [Brauron](../encounters/the-peach-town.md)**, the old Artemis temple and
+its Sacred Hunt out past the settled land: they kept it up and endowed the hunt, though
+they did not build it — it is far older than they are. `[OPEN]` what their patronage
+left on the ground there (the Qur'an's [Zaqqum](../handouts/the-tree-of-zaqqum.md) at
+the hell-tree is currently no one's inscription — a Mughal hand there is one option, if
+we want it later).
+
 ## Farhad — Ratna's son, and the Returner
 
 Farhad is Ratna's son, the one drow-blooded prince of the house — the rest of the
