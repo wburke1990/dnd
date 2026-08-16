@@ -1,3 +1,8 @@
+---
+summary: V.'s offer at the coffeehouse, the docks, and the lost map at Preem's tower
+status: played
+---
+
 # Session 10 — V. Turns the Party, and the Road to the Sacred Hunt
 ## The coffeehouse (V.'s offer, Jogo's leprosy tomato, Pax's vision); the docks; the tower — the lost map and the Dream Quest
 

@@ -1,3 +1,8 @@
+---
+summary: Verified Heimskringla passages to read aloud as storm and fleet omens
+status: reference
+---
+
 # Saga weather-omens — real passages for the mage-wind foreshadowing
 
 Verified public-domain saga lines to seed the two fleet engagements (see

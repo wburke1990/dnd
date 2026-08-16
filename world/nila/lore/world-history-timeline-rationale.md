@@ -1,3 +1,8 @@
+---
+summary: Why the timeline's dates fall where they do
+status: reference
+---
+
 # Why the Timeline Is Dated the Way It Is
 
 > Companion to [the world-history timeline](world-history-timeline.md) — a short note on the

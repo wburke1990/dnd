@@ -1,3 +1,8 @@
+---
+summary: 5e price tables for shops, taverns, gear, mounts, and spellcasting services
+status: reference
+---
+
 # Shop & Price Reference
 
 A quick at-the-table price list for when the party walks into a store,

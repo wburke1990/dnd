@@ -120,9 +120,10 @@ If you learn something worth remembering across sessions, add it here.
 
 #### House style for prose
 
-All prose we write or edit in the content markdown (`encounters/`,
-`lore/`, `sessions/`, `bestiary/`, `characters/`, `handouts/`,
-`prompts/`, `docs/`) follows the user's two principles: **bare, simple
+All prose we write or edit in the content markdown (`world/` — its per-region
+`lore/`, `encounters/`, `bestiary/` and `prompts/` — plus `characters/`,
+`sessions/`, `handouts/`, `references/`, `docs/`, and the `summary:` line of
+every file's frontmatter) follows the user's two principles: **bare, simple
 prose** and **show, don't tell**. Let the world stand on its own — give
 detailed, concrete description, and let the reader (and the players) draw
 their own conclusions.
@@ -410,8 +411,12 @@ to "should I delegate this?" is **yes**.
   two are complements, not substitutes.
 
 For campaign **content** questions (NPCs, bestiary, lore, encounters,
-sessions) there is no dedicated agent — it's all markdown now, so use
-`Explore` to grep `bestiary/`, `characters/`, `lore/`, `sessions/`, etc.
+sessions) there is no dedicated agent — it's all markdown now. **Read
+[`INDEX.md`](INDEX.md) first**: it lists every content file with a one-line
+summary and a status, so it usually answers "which file holds this?" outright
+and turns what used to be a fan-out search into a single `Read`. Fall back to
+`Explore` over `world/`, `characters/`, `sessions/` only when the index doesn't
+settle it.
 
 **But when we're about to *brainstorm, write, or edit* content together,
 subagents locate — *you* read.** This is the one place the "delegate
@@ -501,19 +506,68 @@ otherwise slip in.
 
 ## Repo layout
 
-- `bestiary/` — creature stat blocks & encounter tables (markdown)
-- `encounters/` — prepared set-piece encounters & scenes (markdown)
-- `characters/` — PC backstories & references (markdown + portraits)
-- `lore/` — worldbuilding (markdown). **Entry point: [`lore/campaign-overview.md`](world/nila/lore/campaign-overview.md)**
-  — the top-level campaign design doc + index (goals, themes, the names-&-ownership
-  thesis, DMing principles, and the running `[OPEN]` decisions). **Read it first for
-  any campaign-content, worldbuilding, or brainstorming work.** Its companion
-  [`lore/world-history-timeline.md`](world/nila/lore/world-history-timeline.md) is the full
-  chronology.
+**Start at [`INDEX.md`](INDEX.md).** It is generated from every content file's
+frontmatter and lists the whole campaign — each region, each file, one line of
+what it is and whether it has been played. Reading it costs one `Read` and
+saves the five greps it used to take to learn what exists. It is rebuilt by the
+pre-commit hook, so it is never stale.
+
+Content is filed **by place**, because that is how the campaign moves:
+
+- `world/<region>/` — one directory per landmass, each holding `lore/`,
+  `encounters/`, `bestiary/` and `prompts/` as they apply, plus a generated
+  `README.md` indexing that region.
+  - `suartleheim-eet/` — the SE landmass and the campaign's home ground. It
+    subdivides by locality because its arcs are at different stages:
+    `maalm/` (played out, sessions 1–10), `brauron/` (the arc being prepped
+    now; off the map, on the coast north of Raand), and `raand-copaa/`.
+  - `musleheim/`, `kuru/`, `lonka/`, `kalikhat/`, `the-sea/` — not yet visited.
+  - `nila/` — everything not tied to a place: the campaign overview, the
+    atlas, the world history timeline, house rules, the races, the Company,
+    the two Foundations, and the unsited encounters.
+- **Entry point for worldbuilding:**
+  [`world/nila/lore/campaign-overview.md`](world/nila/lore/campaign-overview.md)
+  — the campaign design doc (goals, themes, the names-&-ownership thesis, DMing
+  principles, and the running `[OPEN]` decisions). **Read it first for any
+  campaign-content, worldbuilding, or brainstorming work.** Its companion
+  [`world/nila/lore/world-history-timeline.md`](world/nila/lore/world-history-timeline.md)
+  is the full chronology, and
+  [`world/nila/lore/nila-atlas.md`](world/nila/lore/nila-atlas.md) is the
+  gazetteer.
+
+These stay flat, because they are not keyed to a place:
+
+- `characters/` — PC sheets, DM-notes companions, and NPCs. Portraits and other
+  images go in `characters/portraits/`, never loose in `characters/`.
 - `handouts/` — player-facing handout texts, kept verbatim (markdown)
-- `prompts/` — AI image-generation prompts, kept verbatim (markdown)
-- `sessions/` — session notes, recaps, encounters & scenes (markdown)
+- `sessions/` — session notes and recaps, numbered
+- `references/` — real-world source material for read-aloud (epithets,
+  translations, narration lines)
 - `maps/` — map images (`pad-maps` letterboxes them into `maps/padded/`)
+
+### Frontmatter is required on content files
+
+Every markdown file under `world/`, `characters/`, `handouts/`, `sessions/`
+and `references/` opens with:
+
+```
+---
+summary: One plain sentence, under 100 characters, no trailing period
+status: next | ready | draft | idea | played | reference
+---
+```
+
+Region and kind are **not** stored — they are read off the path, so they cannot
+drift from where the file actually sits. `status` is what the file is to the
+table: `played` (run at the table), `next` (the arc being prepped now), `ready`
+(written and runnable), `draft`/`idea` (unfinished — a file marked `[stub]` or
+`[draft]` in its own text gets `idea`, whatever else it looks like), and
+`reference` (lore, bestiary, handouts — looked up, not run).
+
+**When you add a content file, add the frontmatter.** The pre-commit hook fails
+the commit without it, because a file missing from the index is a file the next
+session will not find. Summaries follow the house style below — bare and
+literal, no editorializing.
 - `tts/` — Tabletop Simulator content
   - `saves/` — canonical, edited save bundles ⚠️ **not yet committed,
     decision pending** — see below
@@ -546,8 +600,8 @@ time:
 
 Until one of these is in place, **don't `git add` anything under
 `tts/saves/`**. Flag this to the user and let them choose.
-- `scripts/` — uv-managed Python: the `tts`, `pad-maps`, and `prose-lint` CLIs
-  + tests
+- `scripts/` — uv-managed Python: the `tts`, `pad-maps`, `prose-lint` and
+  `build-index` CLIs + tests
 - `.githooks/pre-commit` — silent-on-success quality + security checks
 
 ## CLI quick reference
@@ -584,6 +638,12 @@ pad-maps                  # letterbox maps/*.{jpg,png} → maps/padded/
                           # find what needs padding — do NOT write
                           # for-loops probing maps/ vs maps/padded/
                           # (they hit a shell-syntax permission prompt).
+
+build-index               # regenerate INDEX.md and the per-directory README
+                          # index tables from each content file's frontmatter.
+                          # --check reports staleness instead of writing (this
+                          # is what the pre-commit hook runs). Never edits
+                          # anything but the generated blocks.
 
 prose-lint                # house-style linter for content markdown; flags
                           # coined labels, significance-flags, similes, etc.

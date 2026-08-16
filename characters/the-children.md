@@ -1,3 +1,8 @@
+---
+summary: Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul
+status: reference
+---
+
 # The Children of Ghassan al Qahtani
 
 ## Role in the Campaign

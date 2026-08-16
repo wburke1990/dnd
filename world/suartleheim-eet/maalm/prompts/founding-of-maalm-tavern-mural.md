@@ -1,3 +1,8 @@
+---
+summary: The mural in The Twelve showing Bedraageon's arrival, Ammit, and the founding
+status: reference
+---
+
 # The Founding of Maalm — Tavern Mural
 
 *Image-generation prompt, kept verbatim.*

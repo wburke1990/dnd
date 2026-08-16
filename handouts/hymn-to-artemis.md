@@ -1,3 +1,8 @@
+---
+summary: Homeric Hymn 27, "To Artemis," trans. Evelyn-White — the shooter of stags and her hounds
+status: reference
+---
+
 # Homeric Hymn 27 — To Artemis
 
 > **Handout — hymn.** Homeric Hymn 27, "To Artemis," trans. Hugh G. Evelyn-White

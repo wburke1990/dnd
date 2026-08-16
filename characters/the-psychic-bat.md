@@ -1,3 +1,8 @@
+---
+summary: Jasper's familiar, in fact a quasit Preem planted as a spy
+status: reference
+---
+
 # The Psychic Bat — Jasper's familiar (secretly a quasit)
 
 The DM-character familiar gifted to **Jasper** — a PC whose player is

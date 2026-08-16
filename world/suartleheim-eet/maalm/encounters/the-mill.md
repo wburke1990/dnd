@@ -1,3 +1,8 @@
+---
+summary: First contact with V. in the water-tunnels under the mill
+status: played
+---
+
 # The Mill
 
 ## A D&D Encounter — Maalm, the under-mill tunnels

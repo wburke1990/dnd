@@ -1,3 +1,8 @@
+---
+summary: A river with no source or mouth that reaches lost places
+status: reference
+---
+
 # The River With No Downstream
 
 > A wonder taken from a poem, per [myth & poem as literal truth](myth-and-poem-as-literal-truth.md).

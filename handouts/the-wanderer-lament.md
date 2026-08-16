@@ -1,3 +1,8 @@
+---
+summary: Old English "The Wanderer" — Musleheim elegy, recited by Annibel in her cups
+status: reference
+---
+
 # The Wanderer — Lament of Vanished Glory (Player Handout)
 
 *The "Where is the horse, where the rider" passage from the Old English "The Wanderer" — used **twice** in play:*

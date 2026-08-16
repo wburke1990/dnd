@@ -1,3 +1,8 @@
+---
+summary: Lament of Amseh IV, the last king — given in the Tomb 4 inner chamber over the little coffins
+status: reference
+---
+
 # The Last King's Lament — Player Handout
 
 *The poem given to players in the Tomb 4 inner chamber (Amseh IV, the last king's unfinished tomb), set above the little coffins. A Mesopotamian-style lament. Verbatim, canonical (matches [encounters/valley-of-the-kings.md](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md)). This is the edited-down version; the longer draft used to generate the image is recorded in [prompts/tomb-4-inner-chamber-lament.md](../world/suartleheim-eet/maalm/prompts/tomb-4-inner-chamber-lament.md).*

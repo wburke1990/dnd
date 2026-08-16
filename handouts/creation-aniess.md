@@ -1,3 +1,8 @@
+---
+summary: Aniess's creation story — the faith of Sunne, the religion of Kuru she was raised in
+status: reference
+---
+
 # The Sunne That Falls and Rises (Aniess's creation story)
 
 *The story Aniess recites — the faith of **Sunne**, the religion of Kuru and

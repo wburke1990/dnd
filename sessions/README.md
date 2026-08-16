@@ -1,8 +1,8 @@
 # Sessions
 
 Session notes & recaps for the Maalm/Nila campaign — what actually
-happened *at the table*. These cross-reference the prep in `encounters/`,
-`bestiary/`, and `lore/`, and flag anything still to be written up (e.g.
+happened *at the table*. These cross-reference the prep under
+`world/<region>/`, and flag anything still to be written up (e.g.
 the **rat man**, who's a real recurring antagonist but not yet statted).
 
 | # | Title | Where | Highlights |
@@ -97,3 +97,21 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   quarters** for a short rest. She **gossips**, so Daniel's retelling of the
   mill fight will likely spread among Maalm's elite. `[OPEN]` her tie to the
   **Second Foundation**.
+
+<!-- BEGIN GENERATED INDEX -->
+
+| File | Status | What it is |
+|---|---|---|
+| [session 01](session-01.md) | `played` | Meet Preem, take the names commission, and the rat man escapes |
+| [session 02](session-02.md) | `played` | The road to the Valley of the Kings, the Set-beast, and Tomb I cleared |
+| [session 03](session-03.md) | `played` | Tombs II and III — the cave lions and the mummy Kethara |
+| [session 04](session-04.md) | `played` | Insight checks at Maalm's gates catch a guard who knows the rat man |
+| [session 05](session-05.md) | `played` | Tomb IV cleared, and the akhekh on the road home is talked down |
+| [session 06](session-06.md) | `played` | The square ambush wins the Second Hand, and Ratatat loses two fingers |
+| [session 07](session-07.md) | `played` | Tea with Lucrecia at the bank, then first contact with V. at the mill |
+| [session 08](session-08.md) | `played` | The Dream Quest begins — the river of stars and the first four gates |
+| [session 09](session-09.md) | `played` | Gates Five and Six, the Hall of Two Truths, and Ammit eats Ghassan's heart |
+| [session 10](session-10.md) | `played` | V.'s offer at the coffeehouse, the docks, and the lost map at Preem's tower |
+| [player messages earth dreams](player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
+
+<!-- END GENERATED INDEX -->

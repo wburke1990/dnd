@@ -1,3 +1,8 @@
+---
+summary: The pre-cataclysm world map painted on the Tomb 1 inner chamber wall
+status: reference
+---
+
 # Tomb 1 Inner Chamber Reveal — Ancient Map
 
 *Image-generation prompt, kept verbatim. (The ancient pre-cataclysm world map shown at the valley floor and again in the Tomb 1 inner chamber, from the Valley of the Kings encounter.) The surrounding agent-to-user commentary in the original paste was trimmed; the Master Prompt and lore note below are word-for-word.*

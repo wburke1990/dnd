@@ -1,3 +1,8 @@
+---
+summary: Six gates and the Hall of Two Truths, shepherding Ghassan al Qahtani's soul
+status: played
+---
+
 # The Dream Quest
 ## A D&D Encounter for 5 Players, Level 2
 

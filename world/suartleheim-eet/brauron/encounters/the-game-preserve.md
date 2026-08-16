@@ -1,3 +1,8 @@
+---
+summary: The cult of Artemis hunt in the poison wild outside Brauron
+status: draft
+---
+
 # The Game Preserve
 
 ## A D&D Encounter — Design Note `[draft]`

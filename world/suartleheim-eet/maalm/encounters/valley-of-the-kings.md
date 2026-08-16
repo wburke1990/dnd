@@ -1,3 +1,8 @@
+---
+summary: The four Amseh tombs, their puzzle rooms, the lepers, the lions and the mummy Kethara
+status: played
+---
+
 # The Valley of the Kings
 ## A D&D Encounter for 5 Players, Level 1
 

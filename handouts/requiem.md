@@ -1,3 +1,8 @@
+---
+summary: R. L. Stevenson, "Requiem" — the inscription on Idris the Tide-Strong's watch-stone
+status: reference
+---
+
 # Requiem — Grave Inscription (Player Handout)
 
 *An in-world grave inscription for a wandering dragonborn's grave — the watch-stone of **Idris the Tide-Strong**, the monster-hunter saint (*"the hunter home from the hill"*). Verbatim, line breaks and indentation preserved. (A parallel to the [Bedraageon grave in Maalm](../world/suartleheim-eet/maalm/lore/maalm-founding.md); see [The Wandering](../world/the-sea/lore/wandering-dragonborn.md).)*

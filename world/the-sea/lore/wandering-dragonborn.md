@@ -1,3 +1,8 @@
+---
+summary: The solitary dragonborn saints of the sea and the watch-stones raised for them
+status: reference
+---
+
 # The Wandering — Dragonborn Saints of the Sea
 
 The seafaring dragonborn religion: a veneration of solitary wandering

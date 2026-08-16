@@ -1,3 +1,8 @@
+---
+summary: The dragonborn diaspora read as the Ten Lost Tribes
+status: reference
+---
+
 # The Returning Tribes — DM Reference (developing thread)
 
 > A proposed thread, not yet hard canon. Ties the [Clay Tablet of Baruch](../../../handouts/clay-tablet-of-baruch.md)

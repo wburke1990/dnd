@@ -1,3 +1,8 @@
+---
+summary: Read-aloud quotes for the table, grouped by when to say them
+status: reference
+---
+
 # Narration Lines — Read-Aloud by Trigger
 
 *Real-world quotes collected for use at the table (not in-world canon, not

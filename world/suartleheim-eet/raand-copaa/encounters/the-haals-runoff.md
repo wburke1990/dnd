@@ -1,3 +1,8 @@
+---
+summary: A Company mine poisoning the watershed below Haals
+status: ready
+---
+
 # The Haals Runoff — the first eco-terror job
 
 > **A side quest / investigation.** Two neighbouring towns in

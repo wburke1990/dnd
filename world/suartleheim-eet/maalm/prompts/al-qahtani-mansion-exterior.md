@@ -1,3 +1,8 @@
+---
+summary: Establishing shot of the al Qahtani merchant house and its gardens
+status: reference
+---
+
 # The al Qahtani Mansion — Exterior
 
 *Image-generation prompt, kept verbatim. Establishing shot of the al Qahtani

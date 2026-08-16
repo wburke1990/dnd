@@ -1,3 +1,8 @@
+---
+summary: Run-up scenes where Pax learns the rite and makes smaller versions of the choice
+status: draft
+---
+
 # Encounters Before the Jotunheim Rite `[draft]`
 
 > **DM design note.** The run-up to

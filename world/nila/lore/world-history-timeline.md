@@ -1,3 +1,8 @@
+---
+summary: Six thousand years of world history, as the DMs know it
+status: reference
+---
+
 # A History of Nila — Timeline (DM's eyes)
 
 > **Full-disclosure timeline for David.** This stitches the lore in `lore/`,

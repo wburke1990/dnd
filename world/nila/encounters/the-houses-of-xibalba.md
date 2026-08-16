@@ -1,3 +1,8 @@
+---
+summary: A descent through six trial houses of the Maya underworld
+status: ready
+---
+
 # The Houses of Xibalba
 
 ## A D&D Encounter — Design Note

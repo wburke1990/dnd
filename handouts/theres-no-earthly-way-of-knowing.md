@@ -1,3 +1,8 @@
+---
+summary: Roald Dahl, "There's no earthly way of knowing" — the text behind the river with no downstream
+status: reference
+---
+
 # There's No Earthly Way of Knowing (Player Handout)
 
 *The text behind [the river with no downstream](../world/nila/lore/the-river-with-no-downstream.md) — a river with no direction, taken from the line "there's no knowing which way the river's flowing." Verbatim, line breaks preserved.*

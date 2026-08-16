@@ -1,3 +1,8 @@
+---
+summary: The rat man and bought guards pin Cassia Roan's crew outside Preem's tower
+status: played
+---
+
 # The Second Hand Ambush
 ## A D&D Encounter — Maalm, the citadel district
 

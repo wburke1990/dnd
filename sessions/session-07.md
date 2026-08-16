@@ -1,3 +1,8 @@
+---
+summary: Tea with Lucrecia at the bank, then first contact with V. at the mill
+status: played
+---
+
 # Session 07 — The Bank, and First Contact at the Mill
 ## David cancelled; William ran the table solo and played every character — including V. from David's script
 

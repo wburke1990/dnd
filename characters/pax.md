@@ -1,3 +1,8 @@
+---
+summary: Player character (Andrew) — an aasimar monk who believes the living world chose him
+status: reference
+---
+
 # Pax Verdant
 ## Aasimar Monk — played by Andrew
 

@@ -1,3 +1,8 @@
+---
+summary: The giants' land off the south edge of the map, and the Firbolg homeland
+status: idea
+---
+
 # The Southern Land of Giants — `[loose / placeholder]`
 
 > **Stub — DM (Will) owns this plot.** An **ancient land of giants** off the **south** edge of

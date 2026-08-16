@@ -1,3 +1,8 @@
+---
+summary: Alan Gould, "Krakatoa" — an ancient scroll, Musa's ship's log of the night the star fell
+status: reference
+---
+
 # On Ragnarok #1 — Player Handout
 
 *An in-world scroll, to be presented to players as "translated from an ancient scroll." A ship's-log account of the catastrophe (the bleeding star / Krakatoa eruption) that underlies the campaign. The "#1" implies a series. Verbatim, line breaks and indentation preserved.*

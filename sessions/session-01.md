@@ -1,3 +1,8 @@
+---
+summary: Meet Preem, take the names commission, and the rat man escapes
+status: played
+---
+
 # Session 01 — The Tower and the Rat Man
 ## Maalm · the party takes Preem's commission
 

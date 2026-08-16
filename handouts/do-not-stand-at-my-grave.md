@@ -1,3 +1,8 @@
+---
+summary: Mary Elizabeth Frye, "Do Not Stand at My Grave and Weep" — carved over the Verdant Fist graves
+status: reference
+---
+
 # Do Not Stand at My Grave and Weep (Player Handout)
 
 *A grave inscription in the grave-elegy vein — the dead speaking, denying the grave holds them ("I am not there; I did not die"). Verbatim; the poem circulated in variants, this is the standard Frye text.*

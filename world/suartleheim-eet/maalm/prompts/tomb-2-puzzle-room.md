@@ -1,3 +1,8 @@
+---
+summary: Wall painting in the Tomb 2 puzzle room — the solar barque on the river of stars
+status: reference
+---
+
 # Tomb 2 Puzzle Room — Wall Painting
 
 *Image-generation prompt, kept verbatim. (Tomb 2 / Ra, from the Valley of the Kings encounter.)*

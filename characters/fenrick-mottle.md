@@ -1,3 +1,8 @@
+---
+summary: The swamp herbalist who found Pax after his exile and taught him alchemy
+status: reference
+---
+
 # Old Fenrick Mottle — mentor NPC (post-exile alchemy)
 
 The swamp hermit who found [Pax](pax.md) half-starved and ranting at a pond after

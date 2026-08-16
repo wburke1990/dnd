@@ -1,3 +1,8 @@
+---
+summary: Preem's elven cabal in Maalm and the Ragnarok they prepare for
+status: reference
+---
+
 # The Second Foundation
 
 The elven cabal seated in the citadel of Maalm, preparing for the next turn of

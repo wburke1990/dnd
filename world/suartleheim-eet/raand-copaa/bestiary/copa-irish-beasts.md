@@ -1,3 +1,8 @@
+---
+summary: Wandering beasts of the Copaa firbolg country
+status: reference
+---
+
 # The Copaa Bestiary — the Firbolg country `[draft / new]`
 
 > **DM reference.** The wandering bestiary for the **[Copaa](../lore/copaa.md)**

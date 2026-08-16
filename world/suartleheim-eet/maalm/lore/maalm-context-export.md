@@ -1,3 +1,8 @@
+---
+summary: Portable summary of everything settled about Maalm, for picking the city up cold
+status: reference
+---
+
 # Maalm — Context Export / Session Handoff
 
 > **Working brief, not new canon.** A portable snapshot of everything settled about

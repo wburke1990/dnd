@@ -1,3 +1,8 @@
+---
+summary: The demons Preem has bound, who staff his tower and pay the party for names
+status: reference
+---
+
 # Preem's Demons — the bound cast
 
 Preem's "army of demons" — the servants who staff his tower, run his errands,

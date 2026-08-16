@@ -1,3 +1,8 @@
+---
+summary: The Lapis Writ's copy of every name in the Valley of the Kings, handed over in the Maalm tavern
+status: reference
+---
+
 # The Lapis Writ's Ledger — the Valley, Complete
 
 > **DM note.** The fair copy the [Lapis Writ](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)

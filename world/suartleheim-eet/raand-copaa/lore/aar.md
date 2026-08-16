@@ -1,3 +1,8 @@
+---
+summary: The Company ore-port where the gnomes first came ashore
+status: reference
+---
+
 # Aar — the ore-port `[draft / new — Will 8/16]`
 
 > **DM reference.** [Aar](../../../nila/lore/nila-atlas.md), the **[Company](../../../nila/lore/the-company.md)** ore-port on

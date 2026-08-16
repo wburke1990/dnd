@@ -1,3 +1,8 @@
+---
+summary: The half-orc general who reversed Kuru's reconquest and was defeated at Ilka Mak
+status: reference
+---
+
 # Annibel / Hannibal — the Half-Orc General
 
 > **NPC.** David's **Hannibal**, recast as a **half-orc warlord** (she/her) in

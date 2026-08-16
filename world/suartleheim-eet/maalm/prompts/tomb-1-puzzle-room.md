@@ -1,3 +1,8 @@
+---
+summary: Wall painting in the Tomb 1 puzzle room — Khepri, the Opening of the Mouth, canopic jars
+status: reference
+---
+
 # Tomb 1 Puzzle Room — Wall Painting
 
 *Image-generation prompt, kept verbatim. (Tomb 1 / Khepri, from the Valley of the Kings encounter.)*

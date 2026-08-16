@@ -1,3 +1,8 @@
+---
+summary: Longfellow, "The Tide Rises, the Tide Falls" — grave inscription, placement open
+status: reference
+---
+
 # The Tide Rises, the Tide Falls (Player Handout)
 
 *A candidate grave inscription / handout in the sea-and-homecoming vein of [Requiem](requiem.md) and [Crossing the Bar](crossing-the-bar.md). A traveller does not return; the tide keeps its rhythm. Verbatim, line breaks preserved — placement not yet assigned.*

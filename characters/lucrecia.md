@@ -1,3 +1,8 @@
+---
+summary: A wealthy human of House Vettia in Maalm who gave the party their way into the mill
+status: reference
+---
+
 # Lucrecia — of House Vettia
 
 > **Wealthy new-money NPC**, improvised at the table in

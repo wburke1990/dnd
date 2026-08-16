@@ -1,3 +1,8 @@
+---
+summary: Kuru's history and its comet-born phoenix, the one god that does not stay dead
+status: reference
+---
+
 # Kuru & the Phoenix — the Undying God of the Sunne
 
 > **DM reference / living document.** The history of **Kuru** — the man-heavy

@@ -1,3 +1,8 @@
+---
+summary: The demon bound to the dead man for thirty-one years, and mother of his two children
+status: reference
+---
+
 # Manizheh
 
 ## Role in the Campaign

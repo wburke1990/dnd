@@ -1,3 +1,8 @@
+---
+summary: Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory
+status: reference
+---
+
 # Shepard (SH3P4RD) — Preem's Butler, the Warforged Who Forgot
 
 > **NPC.** An **old-guard Kuru warforged** (one of the first hundred) who **died on

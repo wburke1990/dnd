@@ -1,3 +1,8 @@
+---
+summary: Plot seeds for Preem's rival name-hunter crews after the Valley
+status: idea
+---
+
 # Rival name-hunter crews — plots past the Valley
 
 These carry the rival crews past the tomb race and into the rest of the

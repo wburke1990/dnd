@@ -1,3 +1,8 @@
+---
+summary: DM notes on Blackacre — the zealots and the nomads, and how the world plays off him
+status: reference
+---
+
 # Blackacre — DM notes
 
 Companion to [`blackacre.md`](blackacre.md) (Ahms's sheet). Our design notes live here

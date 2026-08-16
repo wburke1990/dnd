@@ -1,3 +1,8 @@
+---
+summary: Bedraageon and the Twelve, Ammit under the ruins, and how the founding is revealed
+status: reference
+---
+
 # Maalm: The Founding Story
 
 > **Founder renamed — Beowulf → Bedraageon `[6/30, final]`.** The city's founder,

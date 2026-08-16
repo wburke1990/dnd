@@ -1,3 +1,8 @@
+---
+summary: Canyon-wall reliefs on the carved staircase up to the Akhekh's lair
+status: reference
+---
+
 # The Akhekh Staircase — Canyon-Wall Reliefs
 
 *Image-generation prompt, kept verbatim. The approach to the Akhekh's lair

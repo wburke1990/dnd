@@ -1,3 +1,8 @@
+---
+summary: Tomb IV cleared, and the akhekh on the road home is talked down
+status: played
+---
+
 # Session 05 — The Fourth Tomb, and the Akhekh on the Road
 ## Valley of the Kings capstone cleared · ambushed on the road home to Maalm
 

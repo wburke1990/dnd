@@ -1,3 +1,8 @@
+---
+summary: The last town before the poison deadland, and its Artemis temple
+status: draft
+---
+
 # Brauron — the Peach Town
 
 ## A D&D Encounter / Site — Design Note `[draft]`

@@ -1,3 +1,8 @@
+---
+summary: Housman, "To an Athlete Dying Young" — grave inscription, placement open
+status: reference
+---
+
 # To an Athlete Dying Young (Player Handout)
 
 *A candidate grave inscription / handout in the endurance-and-early-death vein of [Invictus](invictus.md) and [Ulysses](ulysses.md). Verbatim, line breaks preserved — placement not yet assigned.*

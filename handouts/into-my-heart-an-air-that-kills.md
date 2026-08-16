@@ -1,3 +1,8 @@
+---
+summary: Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat
+status: reference
+---
+
 # Into My Heart an Air That Kills (Player Handout)
 
 *The [Suartleheim Eet](../world/suartleheim-eet/raand-copaa/lore/the-fallen-gnome-kingdom.md) gnomes' lament for lost **Kalikhat** — the green surface the Bleeding Star's air killed, the home their [prophet-founder](locksley-hall-vision.md) led them out of, "the land of lost content" they cannot come again. Found at whichever port the party makes landfall (**Aar or Aal**), beside his watch-stone — a people mourning the home they fled while holding the home they took from the [Firbolgs](../characters/sarric.md). Verbatim, line breaks preserved.*

@@ -1,3 +1,8 @@
+---
+summary: Gates Five and Six, the Hall of Two Truths, and Ammit eats Ghassan's heart
+status: played
+---
+
 # Session 09 — The Dream Quest: The Fire, the Hall, and the Weighing
 ## Gate Five through waking — the party's confessions, Ghassan's confession, and Ammit at the scales
 

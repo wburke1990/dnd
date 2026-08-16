@@ -1,3 +1,8 @@
+---
+summary: Insight checks at Maalm's gates catch a guard who knows the rat man
+status: played
+---
+
 # Session 04 — The Guard Who Knew the Rat Man
 ## Maalm's gates · the party catches one of the rat man's informants
 

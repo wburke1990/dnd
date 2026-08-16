@@ -1,3 +1,8 @@
+---
+summary: V. robs the party and makes her recruitment offer at a coffeehouse
+status: played
+---
+
 # V. — Second Contact (the Coffeehouse Offer)
 
 ## Design-in-progress · the recruitment meeting after the mill

@@ -1,3 +1,8 @@
+---
+summary: Tennyson, "Crossing the Bar" — grave inscription for a dragonborn lost to the sea
+status: reference
+---
+
 # Crossing the Bar — Grave Inscription (Player Handout)
 
 *An in-world grave inscription / memorial — a seafarer's death poem, fitting for a dragonborn lost to the sea. Verbatim, line breaks and indentation preserved. (A companion to [Requiem](requiem.md) and [Invictus](invictus.md); see [The Wandering](../world/the-sea/lore/wandering-dragonborn.md).)*

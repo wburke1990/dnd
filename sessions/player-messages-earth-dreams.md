@@ -1,3 +1,8 @@
+---
+summary: Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams
+status: reference
+---
+
 # Player messages — earth dreams, and the Maalm valley
 
 Chat messages to **Jeremy (Sarric)** and **Andrew (Pax)**, floating the

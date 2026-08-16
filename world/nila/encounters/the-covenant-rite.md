@@ -1,3 +1,8 @@
+---
+summary: The rite for pledging yourself to a dragon court
+status: draft
+---
+
 # The Covenant Rite — pledging yourself to a dragon court `[draft]`
 
 > **DM design note.** The rite behind

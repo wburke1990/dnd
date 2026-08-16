@@ -1,3 +1,8 @@
+---
+summary: Player character (Jeremy) — a firbolg ranger who left home to fight for the weak
+status: reference
+---
+
 # Sarric
 ## Firbolg Ranger — played by Jeremy
 

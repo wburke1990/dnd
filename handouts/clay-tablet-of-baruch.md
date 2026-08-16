@@ -1,3 +1,8 @@
+---
+summary: 2 Baruch, the letter to the scattered tribes — a clay tablet Blackacre found on Kuru
+status: reference
+---
+
 # The Clay Tablet of Baruch — Player Handout
 
 *Found by Blackacre (Sam's character) on an **ancient clay tablet (~5,000 years

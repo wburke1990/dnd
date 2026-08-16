@@ -1,3 +1,8 @@
+---
+summary: The chartered merchant power seated in Noku Kurunatuka
+status: reference
+---
+
 # The Company — the Merchant Arm of the Conquest
 
 > **DM reference / living doc.** Nila's **East India Company** — a chartered

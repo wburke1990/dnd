@@ -1,3 +1,8 @@
+---
+summary: Andersen, "Thumbelina," trans. Paull — a planted barleycorn opens and a girl sits inside
+status: reference
+---
+
 # Thumbelina
 
 > **Handout — fairy tale.** Hans Christian Andersen, "Thumbelina" ("Tommelise"),

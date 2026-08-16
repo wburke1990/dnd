@@ -1,3 +1,8 @@
+---
+summary: The workings under the Company mine, where each level down is an older time
+status: draft
+---
+
 # The Mines of Haals — the walk down through time `[draft / new]`
 
 > **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.

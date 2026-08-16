@@ -1,3 +1,8 @@
+---
+summary: Jasper's creation story — one dragon, one people, and the colonial wound after
+status: reference
+---
+
 # One People (Jasper's creation story)
 
 *The story Jasper was raised on — a common-descent origin turned to a colonial

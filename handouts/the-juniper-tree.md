@@ -1,3 +1,8 @@
+---
+summary: The Brothers Grimm, "The Juniper-Tree," trans. Hunt — the buried boy who rises as a bird
+status: reference
+---
+
 # The Juniper-Tree
 
 > **Handout — fairy tale.** The Brothers Grimm, "The Juniper-Tree," from *Grimm's

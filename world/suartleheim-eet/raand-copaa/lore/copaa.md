@@ -1,3 +1,8 @@
+---
+summary: The poisoned ore town downstream of the Haals mine
+status: reference
+---
+
 # Copaa — the ore town `[draft / new — David 7/28]`
 
 > **DM reference.** [Copaa](../../../nila/lore/nila-atlas.md), a town in **Suartleheim Eet**

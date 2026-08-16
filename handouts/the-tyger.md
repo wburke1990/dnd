@@ -1,3 +1,8 @@
+---
+summary: Blake, "The Tyger" — for a Rakshasa temple in Jotunheim or northeastern Muspelheim
+status: reference
+---
+
 # The Tyger (Player Handout)
 
 *Loose placement: a Rakshasa temple in Jotunheim or northeastern Muspelheim. The questions a maker asks over a made beast.*

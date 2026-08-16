@@ -1,3 +1,8 @@
+---
+summary: The monk who trained Pax at the Verdant Fist and voted to exile him
+status: reference
+---
+
 # Master Ilyra Mosswake — mentor NPC (the Verdant Fist)
 
 The monk who **trained [Pax](pax.md)** at the **Verdant Fist** — and then **voted

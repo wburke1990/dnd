@@ -1,3 +1,8 @@
+---
+summary: The Akhekh ambush on the road back from the Valley, and how the fight de-escalated
+status: played
+---
+
 # The Akhekh on the Road Home
 ## Ambush between the Valley of the Kings and Maalm — Session 5
 

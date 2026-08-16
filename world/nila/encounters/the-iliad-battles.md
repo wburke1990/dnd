@@ -1,3 +1,8 @@
+---
+summary: A frame for pitched battle fought as Homeric duels
+status: draft
+---
+
 # The Iliad Battles — pitched war in the Homeric style
 
 > **A planned battle module.** Mass combat run in the style of the

@@ -1,3 +1,8 @@
+---
+summary: A riddle contest with a fire giant, in the Norse style
+status: ready
+---
+
 # The Wisdom Duel
 
 ## A D&D Encounter — Design Note

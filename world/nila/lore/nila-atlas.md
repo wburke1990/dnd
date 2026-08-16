@@ -1,3 +1,8 @@
+---
+summary: Settlement gazetteer with map coordinates for every landmass
+status: reference
+---
+
 # Nila Atlas — Settlement Gazetteer & Coordinates
 
 *A text transcription of David's labelled world map of the **Archipelago of

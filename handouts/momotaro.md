@@ -1,3 +1,8 @@
+---
+summary: Momotaro, from Ozaki's "Japanese Fairy Tales" — a child steps out of a peach
+status: reference
+---
+
 # Momotaro — the Son of a Peach
 
 > **Handout — fairy tale.** "Momotaro, or the Story of the Son of a Peach," from

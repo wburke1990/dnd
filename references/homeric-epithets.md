@@ -1,3 +1,8 @@
+---
+summary: Homeric epithets across translations, as a pattern for recurring phrasing
+status: reference
+---
+
 # Homeric Epithets Across Translations — Inspiration Reference
 
 *Real-world reference / inspiration (not in-world canon). Homer's* Iliad *and*

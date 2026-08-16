@@ -1,3 +1,8 @@
+---
+summary: Crewing the boat, hull damage, weather, and getting lost between islands
+status: reference
+---
+
 # Sailing the Archipelago — crewing, weather, and storms
 
 How the party gets from island to island. Nila is mostly water and the

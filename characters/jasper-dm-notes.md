@@ -1,3 +1,8 @@
+---
+summary: DM notes on Jasper — his connections and how the world plays off him
+status: reference
+---
+
 # Jasper — DM Notes
 
 DM-facing notes about Jasper. Doug's own sheet is [jasper.md](jasper.md) —

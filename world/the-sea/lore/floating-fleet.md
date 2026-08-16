@@ -1,3 +1,8 @@
+---
+summary: The halfling civilization that lives on the open ocean and never settles
+status: reference
+---
+
 # The Floating Fleets — the open-water sea-civilization
 
 A whole civilization that lives on the **open ocean**, never settling — and,

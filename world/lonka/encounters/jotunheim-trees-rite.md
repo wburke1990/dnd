@@ -1,3 +1,8 @@
+---
+summary: Pax frees the two trees from their names, built from medieval Latin liturgy
+status: draft
+---
+
 # The Rite at the Jotunheim Trees `[draft]`
 
 > **DM design note.** How Pax frees the ash and the elm on the Jotunheim ring-wall

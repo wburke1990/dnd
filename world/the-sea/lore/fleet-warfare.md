@@ -1,3 +1,8 @@
+---
+summary: How the two great fleets fight, and the mage winds that go before them
+status: reference
+---
+
 # Fleet warfare — the mage winds and the two engagements
 
 How the two great fleets fight, and the weather-omen that goes before each: the

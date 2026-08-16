@@ -1,3 +1,8 @@
+---
+summary: Ships, metals, and the turn from the Bronze Age to the Iron
+status: reference
+---
+
 # Technology & Trade — Ships, Metals, and the Ages of Nila
 
 > **DM reference / living doc.** How people cross the water, what their tools are made of,

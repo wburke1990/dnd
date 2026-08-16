@@ -1,3 +1,8 @@
+---
+summary: Which peoples live in which region of the archipelago
+status: reference
+---
+
 # Races of Nila — Distribution by Region
 
 *Where the peoples of Nila live. Region names normalized to the **map spellings**

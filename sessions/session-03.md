@@ -1,3 +1,8 @@
+---
+summary: Tombs II and III — the cave lions and the mummy Kethara
+status: played
+---
+
 # Session 03 — Tombs II & III: The Lions and the Mummy
 ## The Valley of the Kings · two more tombs cleared
 

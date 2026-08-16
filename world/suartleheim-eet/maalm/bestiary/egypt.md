@@ -1,3 +1,8 @@
+---
+summary: d20 wandering encounter table for the Egypt region, beasts and mythological creatures
+status: reference
+---
+
 # Egypt — Wandering Encounter Bestiary
 
 Sun-blasted river kingdom for the upcoming Egypt-themed quest. Wandering

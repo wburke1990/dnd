@@ -1,3 +1,8 @@
+---
+summary: Who builds the ships, who controls the water, and the battles that decided it
+status: reference
+---
+
 # Ships & Sea-Power in Nila
 
 How the archipelago's boats get built, who controls the water, and how it got

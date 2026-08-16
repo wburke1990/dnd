@@ -1,3 +1,8 @@
+---
+summary: Hesiod, "Theogony," trans. Evelyn-White — the sickle, the blood, and the ash-tree nymphs
+status: reference
+---
+
 # Kronos and Uranus — the sickle, the blood, the Meliae
 
 > **Handout — myth.** Hesiod, *Theogony*, lines ~178–187, trans. Hugh G.

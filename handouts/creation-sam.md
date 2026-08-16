@@ -1,3 +1,8 @@
+---
+summary: Blackacre's creation story — the first dragon fell from the star and became the first island
+status: reference
+---
+
 # The First Island (Sam / Blackacre's creation story)
 
 *The peg for Sam's story. Blackacre is Dragonborn — closest to the root of all

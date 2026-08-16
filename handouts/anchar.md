@@ -1,3 +1,8 @@
+---
+summary: Pushkin, "Anchar" (The Upas Tree) — a poison tree in the desert, in two English translations
+status: reference
+---
+
 # The Upas Tree (Anchar)
 
 > **Handout — poem.** Alexander Pushkin (1799–1837), "Анчар" ("Anchar" / "The

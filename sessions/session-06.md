@@ -1,3 +1,8 @@
+---
+summary: The square ambush wins the Second Hand, and Ratatat loses two fingers
+status: played
+---
+
 # Session 06 — The Second Hand, and the Rat Man's Two Fingers
 ## Back in Maalm · the square ambush, an alliance won, and Ratatat interrogated then walked off by the watch
 

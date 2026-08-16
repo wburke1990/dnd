@@ -1,3 +1,8 @@
+---
+summary: An island of shrinking statues where a storm wrecks the party
+status: next
+---
+
 # The Island of the Thinkers
 
 > **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.

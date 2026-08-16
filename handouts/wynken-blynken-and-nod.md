@@ -1,3 +1,8 @@
+---
+summary: Eugene Field, "Wynken, Blynken, and Nod" — incantation for Dream of the Blue Veil
+status: reference
+---
+
 # Wynken, Blynken, and Nod — Spell Incantation (Player Handout)
 
 *The poem used by the **Dream of the Blue Veil** spell — the lullaby that sends the party off down the river of stars into the dream quest. Verbatim, line breaks and indentation preserved. (See [encounters/the-dream-quest.md](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md).)*

@@ -1,3 +1,8 @@
+---
+summary: Stat block, parley rules and mythology for the Akhekh, entry 20 on the Egypt table
+status: reference
+---
+
 # The Akhekh
 
 Full write-up for entry **d20:20** on the [Egypt encounter table](egypt.md) —

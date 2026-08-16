@@ -1,3 +1,8 @@
+---
+summary: The Egyptian Tale of the Shipwrecked Sailor — the Tomb 2 inner chamber text
+status: reference
+---
+
 # The Tale of the Shipwrecked Sailor — Player Handout
 
 *The text given to players in the Tomb 2 inner chamber. Verbatim. (Source request and image prompt: [prompts/tomb-2-inner-chamber-shipwrecked-sailor.md](../world/suartleheim-eet/maalm/prompts/tomb-2-inner-chamber-shipwrecked-sailor.md).)*

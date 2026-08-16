@@ -1,3 +1,8 @@
+---
+summary: The road to the Valley of the Kings, the Set-beast, and Tomb I cleared
+status: played
+---
+
 # Session 02 — The Road to the Valley, and the First Tomb
 ## Maalm → the Valley of the Kings · Tomb I cleared
 

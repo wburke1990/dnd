@@ -1,3 +1,8 @@
+---
+summary: The design pillar of running real myth and poetry as literal fact
+status: reference
+---
+
 # Myth & Poem as Literal Truth — a design pillar
 
 > **The generative question:** *What if this were literally true?* Take a

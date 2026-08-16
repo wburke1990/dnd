@@ -1,3 +1,8 @@
+---
+summary: Demon stat blocks available to run, sorted by challenge rating
+status: reference
+---
+
 # Available Demons — Stat-Block Roster
 
 The demons we have access to as stat blocks, for casting NPCs and encounters.

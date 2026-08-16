@@ -1,3 +1,8 @@
+---
+summary: Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles
+status: reference
+---
+
 # The Iliad — blood on the ground, and deaths compared to felled trees
 
 > **Real-world source text, kept verbatim.** Homer, *Iliad*, translated by **A. T.

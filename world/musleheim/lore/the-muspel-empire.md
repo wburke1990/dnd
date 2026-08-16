@@ -1,3 +1,8 @@
+---
+summary: The fire-realm empire, the comet pass that made the orcs, and the wars since
+status: reference
+---
+
 # The Muspel Empire & the Orc Wars
 
 > **DM reference.** The fire-realm empire of Musleheim, the comet-mutation that

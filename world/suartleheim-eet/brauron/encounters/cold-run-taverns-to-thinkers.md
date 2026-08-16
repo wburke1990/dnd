@@ -1,3 +1,8 @@
+---
+summary: A run-cold packet: the Maalm taverns, the sail to Brauron, and the Thinkers
+status: next
+---
+
 # Cold-Run Packet — Maalm Taverns → the Coast to Brauron → the Thinkers
 
 > `[prep — run cold]` Written so **David can run the session with no prep** if

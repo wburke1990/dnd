@@ -1,3 +1,8 @@
+---
+summary: Maalm's main plaza, its public buildings, and Bedraageon's grave-plaque by the fountain
+status: reference
+---
+
 # Bedraageon Square — Maalm's Civic Heart
 
 > **DM reference / living doc.** The central plaza of **[Maalm](maalm-founding.md)**:

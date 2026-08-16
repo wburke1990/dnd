@@ -1,3 +1,8 @@
+---
+summary: The Qur'an on Zaqqum, the tree that grows in Hell — Arberry and Sahih translations
+status: reference
+---
+
 # The Tree of Zaqqum — the Qur'an
 
 > **Handout — scripture.** The Qur'an's verses on **Zaqqum**, the tree that

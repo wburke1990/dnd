@@ -1,3 +1,8 @@
+---
+summary: The three lineages and what death is for each of them
+status: reference
+---
+
 # Lineages & Afterlives — three deaths, many peoples
 
 > **Principle:** death is not the same for everyone. There are **three great

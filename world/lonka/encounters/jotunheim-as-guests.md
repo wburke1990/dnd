@@ -1,3 +1,8 @@
+---
+summary: The party welcomed into the caldera, the trials offered, and the rakshasas
+status: draft
+---
+
 # Jotunheim — the party arrives as guests
 
 ## A D&D Encounter / Site — Design Note `[draft]`

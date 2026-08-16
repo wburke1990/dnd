@@ -1,3 +1,8 @@
+---
+summary: Dylan Thomas, "Do Not Go Gentle Into That Good Night" — grave inscription, placement open
+status: reference
+---
+
 # Do Not Go Gentle Into That Good Night (Player Handout)
 
 *A candidate grave inscription / handout in the endurance-against-death vein of [Invictus](invictus.md). A villanelle. Verbatim, line breaks preserved — placement not yet assigned.*

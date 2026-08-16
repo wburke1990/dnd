@@ -1,3 +1,8 @@
+---
+summary: Golden Lonka, its destruction, and the caldera the zealots now hold as Jotunheim
+status: reference
+---
+
 # Lonka / Jotunheim — Golden Lonka, the Caldera, and the Zealots
 
 > **DM reference.** The full life of the holy island — from **Golden Lonka**, the

@@ -1,3 +1,8 @@
+---
+summary: Ovid, "Metamorphoses" Bk 3, trans. Golding — Diana turns Actaeon to a stag; his hounds kill him
+status: reference
+---
+
 # Actaeon — the Stag Torn by His Hounds
 
 > **Handout — myth.** Ovid, *Metamorphoses* Book 3, trans. Arthur Golding (1567) —

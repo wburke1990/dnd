@@ -1,3 +1,8 @@
+---
+summary: Old English "The Ruin," trans. Fahey — a lay over the giants' abandoned halls in Weet
+status: reference
+---
+
 # The Ruin — the Work of Giants (Player Handout)
 
 *A bard's lay / inscription over the giants' abandoned halls in [Suartleheim Weet](../world/nila/lore/nila-atlas.md) — the great empty stonework the dwarves live among, built by the [giants of antiquity](../world/suartleheim-eet/lore/the-southern-land.md) before they withdrew south. The poem names them outright: "the work of giants," broken and weathered. The full poem is longer; this is the opening.*

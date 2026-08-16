@@ -1,3 +1,8 @@
+---
+summary: Player character (Doug) — an Earth Genasi fighter from a community destroyed by disaster
+status: reference
+---
+
 # Jasper
 ## Earth Genasi Fighter — played by Doug
 

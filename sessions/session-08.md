@@ -1,3 +1,8 @@
+---
+summary: The Dream Quest begins — the river of stars and the first four gates
+status: played
+---
+
 # Session 08 — The Dream Quest: The River, and the First Four Gates
 ## The al Qahtani house, the Blue Veil cast, and the crossing as far as the offering bowl
 

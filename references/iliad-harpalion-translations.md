@@ -1,3 +1,8 @@
+---
+summary: The death of Harpalion, Iliad 13.650-655, compared across translations
+status: reference
+---
+
 # Iliad 13.650–655 — the death of Harpalion, across translations
 
 *Real-world reference (not in-world canon). A translation comparison for the line we

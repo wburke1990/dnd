@@ -1,3 +1,8 @@
+---
+summary: Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard
+status: reference
+---
+
 # Dragon's Hoard — Warning Inscription (Player Handout)
 
 *An in-world warning inscribed above a dragon's hoard. Verbatim. Paired with a planned Eustace-style transformation (greed turning a character into a dragon, as in C.S. Lewis's* The Voyage of the Dawn Treader*): the warning names the true danger — losing one's self so quietly that no one notices.*

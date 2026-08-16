@@ -1,3 +1,8 @@
+---
+summary: A d20 hunting and foraging table built from Irish myth
+status: reference
+---
+
 # Musleheim — Hunting & Foraging Table (Irish Myth)
 
 20 hunts in Muspelheim that could go wrong or right, based on Irish myths. The

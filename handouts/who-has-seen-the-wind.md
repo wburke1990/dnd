@@ -1,3 +1,8 @@
+---
+summary: Christina Rossetti, "Who Has Seen the Wind?" — inscription for a temple with unseen guardians
+status: reference
+---
+
 # Who Has Seen the Wind? — Temple Inscription (Player Handout)
 
 *An in-world inscription for a temple guarded by invisible guardians — the unseen presence known only by what it moves. Verbatim, line breaks preserved.*

@@ -1,3 +1,8 @@
+---
+summary: The underworld gates at Kala and the level-20 sentries standing outside them
+status: idea
+---
+
 # The Gates of Kala — the Silent Sentries of the Underworld
 
 > **A set-piece / threshold encounter.** At **[Kala](../../nila/lore/nila-atlas.md)** (a

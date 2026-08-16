@@ -1,3 +1,8 @@
+---
+summary: The dragonborn creation myth — the first dragon and the raising of Lonka
+status: reference
+---
+
 # Taniyn and the Raising of Lonka — the Dragonborn Creation Myth
 
 The shared cosmology of **all** dragonborn in Nila, nomad and zealot

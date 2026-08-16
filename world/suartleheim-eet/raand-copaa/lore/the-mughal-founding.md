@@ -1,3 +1,8 @@
+---
+summary: The Mughal founder, his queen, and the sons who took the gnome country
+status: reference
+---
+
 # The Mughal Founding — the House of Mihran `[draft / new]`
 
 The fuller writeup of the Mughal period flagged open in

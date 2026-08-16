@@ -1,3 +1,8 @@
+---
+summary: Pax's friend from the Verdant Fist monastery, a monk who misses him
+status: reference
+---
+
 # Brother Tovin Reedhand — friend NPC (the Verdant Fist)
 
 [Pax](pax.md)'s former monastery friend and the straight man to his prophet:

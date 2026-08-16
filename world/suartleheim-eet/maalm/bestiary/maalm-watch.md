@@ -1,3 +1,8 @@
+---
+summary: Stat block for the bought Maalm city watch, the mooks in the square and docks fights
+status: reference
+---
+
 # The Maalm Watch — Corrupt City Guards
 
 > **Enemy mook block.** The bought city watch that does

@@ -1,3 +1,8 @@
+---
+summary: Geography of the Norse fire-island — iron west, farming east, poisoned southwest
+status: draft
+---
+
 # Musleheim — Region Gazetteer
 
 *Geography and locales of **Musleheim**, the Norse fire-realm island. The comet

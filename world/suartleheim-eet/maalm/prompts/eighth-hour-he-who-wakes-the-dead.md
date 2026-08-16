@@ -1,3 +1,8 @@
+---
+summary: The Eighth Hour of the Duat, the tomb-cliff necropolis along the river of stars
+status: reference
+---
+
 # The Eighth Hour — He Who Wakes the Dead
 
 *Image-generation prompt (with a closing art-director note), kept verbatim. (The Eighth Hour of the Duat — the necropolis where the dead keep their vigil.)*

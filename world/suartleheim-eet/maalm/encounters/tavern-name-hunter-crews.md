@@ -1,3 +1,8 @@
+---
+summary: Tavern scene with two of Preem's other crews, the Lapis Writ and the Brass Jackals
+status: ready
+---
+
 # Tavern Scene — Rival Name-Hunter Crews
 
 > **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.

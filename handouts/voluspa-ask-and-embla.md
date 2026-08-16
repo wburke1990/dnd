@@ -1,3 +1,8 @@
+---
+summary: Völuspá 17–18 and 65, trans. Bellows — the creation the Lonka zealots teach at the two trees
+status: reference
+---
+
 # Völuspá 17–18 — Ask and Embla; and stanza 65
 
 > **Real-world source text, kept verbatim.** *Völuspá* ("The Wise-Woman's

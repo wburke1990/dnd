@@ -1,3 +1,8 @@
+---
+summary: The Sumerian myth run straight in the emptied demon city under Musleheim
+status: ready
+---
+
 # The Descent of Inanna
 
 ## A D&D Quest — Design Note

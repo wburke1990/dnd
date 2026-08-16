@@ -1,3 +1,8 @@
+---
+summary: Maalm's three-tier society, the gated founders' quarter, and the elven council
+status: reference
+---
+
 # Maalm — the elven stronghold
 
 Maalm's society and politics: an elvish stronghold built over the ruins of the

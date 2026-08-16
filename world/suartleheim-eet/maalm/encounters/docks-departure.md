@@ -1,3 +1,8 @@
+---
+summary: The watch ambushes the party at the harbor as the Second Hand sails
+status: ready
+---
+
 # The Docks — Departure Under Fire
 ## A D&D Encounter — Maalm, the harbor, ~9 AM (the morning after the square)
 

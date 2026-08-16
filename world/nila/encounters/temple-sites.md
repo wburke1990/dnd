@@ -1,3 +1,8 @@
+---
+summary: Stubs for sacred-site visits, one mythology each
+status: idea
+---
+
 # Temple Sites — sacred-site visits
 
 Stubs for temple visits in the Avatar mold: the party sails to a sacred

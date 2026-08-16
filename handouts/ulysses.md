@@ -1,3 +1,8 @@
+---
+summary: Tennyson, "Ulysses" — grave inscription for a wandering dragonborn who will not rest
+status: reference
+---
+
 # Ulysses — Grave Inscription (Player Handout)
 
 *An in-world grave inscription / memorial for a wandering dragonborn — the restless voyager who will not pause "to rust unburnish'd." Verbatim, line breaks and indentation preserved. (A companion to [Requiem](requiem.md), [Invictus](invictus.md), and [Crossing the Bar](crossing-the-bar.md); see [The Wandering](../world/the-sea/lore/wandering-dragonborn.md).)*

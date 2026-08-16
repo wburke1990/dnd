@@ -1,3 +1,8 @@
+---
+summary: Old English "The Seafarer," trans. Pound — a tomb warning that grave-gold is no use to the dead
+status: reference
+---
+
 # The Seafarer — Grave-Gold (Player Handout)
 
 *The closing passage of Ezra Pound's "The Seafarer" — a candidate tomb inscription / grave-robber's warning. The Old English point is the futility of grave-gold: buried treasure is no use to the dead ("though he strew the grave with gold... their buried bodies / Be an unlikely treasure hoard"). Two homes in canon: (1) an inscription in the [Valley of the Kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md) over the plundered royal tombs and the mummy-queen Kethara/Farseh-ti — grief made undead — and her curse on those who violate the graves; (2) the same line reads onto the corpse-as-treasure economy — the tomb-cracking crews stripping the dead kings, and Kuru's warforged dead reclaimed for godstone. Verbatim, line breaks preserved — placement not yet assigned.*

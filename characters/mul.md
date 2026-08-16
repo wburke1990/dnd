@@ -1,3 +1,8 @@
+---
+summary: The yochlol disguised as an elf who carries Preem's messages to the party
+status: reference
+---
+
 # Mul
 ## Yochlol — the wizard's intermediary (disguised as an elf)
 

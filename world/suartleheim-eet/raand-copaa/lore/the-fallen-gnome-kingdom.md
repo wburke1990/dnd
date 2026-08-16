@@ -1,3 +1,8 @@
+---
+summary: The gnome túatha of Suartleheim Eet, their conquest and their fall
+status: idea
+---
+
 # The Fallen Gnome Kingdoms — Suartleheim Eet `[stub / new]`
 
 > **DM reference — new area.** The mythology for **[Suartleheim Eet](../../../nila/lore/nila-atlas.md)**,

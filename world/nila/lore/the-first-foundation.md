@@ -1,3 +1,8 @@
+---
+summary: The order that channels comet volcanism into new land
+status: reference
+---
+
 # The First Foundation — DM Reference
 
 > **Placeholder name.** The counterpart to [the Second Foundation](the-second-foundation.md).

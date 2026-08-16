@@ -1,3 +1,8 @@
+---
+summary: DM read-aloud — the walk north down the dead riverbed to the first sight of Maalm
+status: reference
+---
+
 # The Dry River to Maalm
 
 > DM read-aloud (player-facing). The descent from the **Valley of the Kings**,

@@ -1,3 +1,8 @@
+---
+summary: Ratatat the rat caller — his stat block, his rats, and who pays him
+status: reference
+---
+
 # The Rat Man — Ratatat, the Rat Caller
 
 > **Recurring antagonist.** The rat-headed humanoid who has been ambushing

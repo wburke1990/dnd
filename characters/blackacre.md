@@ -1,3 +1,8 @@
+---
+summary: Player character (Sam) — a solitary wandering dragonborn druid and pirate
+status: reference
+---
+
 # Blackacre — character reference
 
 Player: **Ahms**. Distilled from the 5/27–6/19/26 backstory chat. This is a

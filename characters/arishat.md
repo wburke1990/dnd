@@ -1,3 +1,8 @@
+---
+summary: A dragonborn zealot at Jotunheim who keeps the caldera's books
+status: reference
+---
+
 # Arishat — character reference
 
 **A Lonka Zealot at Jotunheim, and the one inside the caldera who argues for the

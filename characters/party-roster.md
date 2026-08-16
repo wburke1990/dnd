@@ -1,3 +1,8 @@
+---
+summary: Player-submitted character concepts and the mechanics each player gets to drive
+status: reference
+---
+
 # Party Roster — Session-Zero Concepts & Player Mechanics
 
 > Raw player-submitted character concepts, quest motivations, and the per-player

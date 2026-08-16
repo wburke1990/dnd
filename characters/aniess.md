@@ -1,3 +1,8 @@
+---
+summary: Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order
+status: reference
+---
+
 # Aniess
 ## Yuan-ti Rogue/Cleric — played by Greg
 

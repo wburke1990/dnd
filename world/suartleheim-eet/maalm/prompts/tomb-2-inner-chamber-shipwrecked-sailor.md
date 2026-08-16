@@ -1,3 +1,8 @@
+---
+summary: The Tale of the Shipwrecked Sailor and the Tomb 2 inner chamber wall image
+status: reference
+---
+
 # Tomb 2 Inner Chamber Reveal — Tale of the Shipwrecked Sailor
 
 *Image-generation prompt + player-handout text, kept verbatim. The embedded tale is the adapted text intended to be given to the players (note the deliberate addition of Pharaoh as the sailor's father, so the tale belongs in a pharaoh's tomb).*

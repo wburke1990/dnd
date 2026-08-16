@@ -1,3 +1,8 @@
+---
+summary: The elven wizard in Maalm who pays the party to collect true names
+status: reference
+---
+
 # Preem — character reference
 
 The patron / quest-giver NPC, voiced by the player **sankaku** ("the wizard

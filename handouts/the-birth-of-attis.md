@@ -1,3 +1,8 @@
+---
+summary: Pausanias 7.17.11, trans. Jones — an almond tree from a god's severed parts, and Attis born
+status: reference
+---
+
 # The Birth of Attis
 
 > **Handout — myth.** Pausanias, *Description of Greece* 7.17.11, trans. W. H. S.

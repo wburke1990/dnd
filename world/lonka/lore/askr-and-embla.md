@@ -1,3 +1,8 @@
+---
+summary: The creation the Lonka zealots teach at the two trees, and how it comes apart
+status: reference
+---
+
 # Askr and Embla — the story the zealots supplied
 
 > **DM reference.** The creation the Lonka Zealots teach at the two trees on the

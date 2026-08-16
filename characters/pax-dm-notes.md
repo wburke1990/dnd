@@ -1,3 +1,8 @@
+---
+summary: DM notes on Pax — his campaign connections and how to keep the Green Revelation unsettled
+status: reference
+---
+
 # Pax — DM notes
 
 Companion to [`pax.md`](pax.md) (Andrew's sheet). Our readings, connections,

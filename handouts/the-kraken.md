@@ -1,3 +1,8 @@
+---
+summary: Tennyson, "The Kraken" — the sleeper who rises once and dies; it describes Balor under Haals
+status: reference
+---
+
 # The Kraken (Player Handout)
 
 *A beast asleep in the deep sea that rises once, at the end of the world, and dies on the surface.*

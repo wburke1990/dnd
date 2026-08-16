@@ -1,3 +1,8 @@
+---
+summary: Another of Preem's name-hunting crews, met pinned down in the citadel district
+status: reference
+---
+
 # The Second Hand — Preem's other crew, and the party's mirror
 
 > **NPC adventuring party.** One of [Preem](preem.md)'s **many name-hunting

@@ -1,3 +1,8 @@
+---
+summary: Wall painting in the Tomb 3 puzzle room — the gates, the Lake of Fire, and Thoth
+status: reference
+---
+
 # Tomb 3 Puzzle Room — Wall Painting
 
 *Image-generation prompt, kept verbatim. (Tomb 3 / Hapi, from the Valley of the Kings encounter.)*

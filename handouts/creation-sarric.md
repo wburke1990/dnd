@@ -1,3 +1,8 @@
+---
+summary: Sarric's creation story — the Firbolg version of Ymir, the world built from a giant's body
+status: reference
+---
+
 # The First Giant (Sarric's creation story)
 
 *The story Sarric's people — the Firbolgs, the small kin of the giants — tell

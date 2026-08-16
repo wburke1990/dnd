@@ -1,3 +1,8 @@
+---
+summary: The campaign design doc — goals, themes, the arc, and the open questions
+status: reference
+---
+
 # Maalm / Nila — Campaign Overview & Design Doc
 
 > **Living document & top-level index.** This captures the *why* of the campaign —

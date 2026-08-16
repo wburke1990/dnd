@@ -1,3 +1,8 @@
+---
+summary: The magma demon, the demon-people, and the deep cities of the Abyss
+status: reference
+---
+
 # Demons, the Hotspot, and the Deep Cities
 
 How the world's "demons" actually work: the difference between the magma

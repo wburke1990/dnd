@@ -1,3 +1,8 @@
+---
+summary: Basile, "The Three Citrons," trans. Burton — a maiden bursts from a cut citron
+status: reference
+---
+
 # The Three Citrons
 
 > **Handout — fairy tale.** Giambattista Basile, "The Three Citrons," from *The

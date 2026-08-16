@@ -1,3 +1,8 @@
+---
+summary: Passages from Voyage of the Dawn Treader, for the transformation theme
+status: reference
+---
+
 # The Voyage of the Dawn Treader — Inspiration Reference
 
 *Real-world reference / inspiration (not in-world canon). C.S. Lewis, sequel to

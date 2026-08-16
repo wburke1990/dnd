@@ -1,3 +1,8 @@
+---
+summary: True names, planar binding, and the tunnels that are the Abyss
+status: reference
+---
+
 # House Rules and World Mechanics
 ## DM Reference — Full Spoilers
 

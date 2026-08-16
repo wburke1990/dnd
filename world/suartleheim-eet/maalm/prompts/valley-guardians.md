@@ -1,3 +1,8 @@
+---
+summary: The two colossal statues at the entrance to the Valley of the Kings
+status: reference
+---
+
 # Valley Guardians — The Colossal Entrance Statues
 
 *Image-generation prompt (with lore preamble), kept verbatim. (The Valley Entrance statues from the Valley of the Kings encounter.)*

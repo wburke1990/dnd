@@ -1,3 +1,8 @@
+---
+summary: A d20 table of sea creatures from world mythology, rolled per day at sea
+status: reference
+---
+
 # Sea-Beasts — the water's wandering bestiary
 
 The water is universal. Every people on Nila descends from one seafaring

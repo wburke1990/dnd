@@ -1,3 +1,8 @@
+---
+summary: A working list of spells to cast by reciting a poem
+status: reference
+---
+
 # Spells as Poems
 
 A brainstorming list for reflavoring spells as recited poems, the way the

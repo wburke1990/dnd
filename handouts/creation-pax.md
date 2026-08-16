@@ -1,3 +1,8 @@
+---
+summary: Pax's creation story — the Verdant Fist's teaching that the body bridges spirit and soil
+status: reference
+---
+
 # Spirit and Soil (Pax's creation story)
 
 *The creation teaching of the Verdant Fist, the monastery that raised Pax —

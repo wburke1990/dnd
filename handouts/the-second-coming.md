@@ -1,3 +1,8 @@
+---
+summary: Yeats, "The Second Coming" — cut into Musa's watch-stone; incantation for a portent spell
+status: reference
+---
+
 # The Second Coming — (Player Handout)
 
 *A saved poem for the campaign. One of the four inscriptions cut into [Musa's watch-stone (the massebah)](revelation-6-pale-horse.md) over the harbour at the landing port (Aar or Aal) — his prophecy already come true, the desert beast that woke and was ended, beside his [Vision of the Future](locksley-hall-vision.md) and the still-unfulfilled [Pale Horse](revelation-6-pale-horse.md). Also a candidate incantation for a portent spell — **Foresight**, **Contact Other Plane**, or **Augury** — see [docs/spells-as-poems.md](../world/nila/lore/spells-as-poems.md). The desert shape with a lion's body and a man's head, and the "twenty centuries of stony sleep" that wake to nightmare, line up with the Amseh gods on the tomb walls and the old gods underground beneath Maalm ([the deep](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md)). Verbatim, line breaks preserved.*

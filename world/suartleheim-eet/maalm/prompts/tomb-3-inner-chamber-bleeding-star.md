@@ -1,3 +1,8 @@
+---
+summary: The bleeding star and Ramses III's victory inscription in the Tomb 3 inner chamber
+status: reference
+---
+
 # Tomb 3 Inner Chamber Reveal — The Bleeding Star (Ramses' Victory at Dijay)
 
 *Image-generation prompt + player-handout text, kept verbatim. The embedded tomb text is the adapted Ramses III victory inscription the players find; the opening "bleeding star" lines are an original addition seeding the campaign's catastrophe (intended to read later as the Krakatoa eruption / Bronze Age collapse).*
