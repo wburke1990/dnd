@@ -252,7 +252,7 @@ comet/transformation cycle in play, long before it's ever named. Don't explain i
 ## If they go another way
 
 It's a sandbox. If they skip a tavern, sail a different way, or chase Aar's Company
-thread instead of pressing on — fine. **The sailing loop (§2) and the sea table (§3)
+thread instead of pressing on — fine. **The sailing rules (§2) and the sea table (§3)
 carry any crossing they pick**; the inland road (§6) covers a walk to Copaa; and the
 set-pieces to reach for are the **tavern scene** (Maalm), the **Thinkers** (a storm
 off any coast), and the **road myths** (the walk to Copaa). Brauron and the Sacred

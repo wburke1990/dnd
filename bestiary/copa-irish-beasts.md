@@ -539,6 +539,6 @@ the same history from two mouths.
 - [House rules — the geis](../lore/house-rules-and-world-mechanics.md) — the little
   people set it as the price of a boon, sworn freely.
 - [Sea-beasts](sea-beasts.md) — the sister table (the each-uisce is shared);
-  the 2d6 reaction and three-beat run carry over.
+  the 2d6 reaction and the run in three steps carry over.
 - [Sarric](../characters/sarric.md) — the living Firbolg; the dead in the graves
   are his people, and Balor their Fomorian kin under Haals.

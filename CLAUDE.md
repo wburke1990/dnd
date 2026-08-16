@@ -212,6 +212,17 @@ Concretely, do not write:
 This governs both new writing and edits to existing files. When cleaning
 up old text, prefer the plainer rewrite over deleting content outright.
 
+**Fix writing issues in any file you touch — we are bringing the whole
+codebase into this style one commit at a time.** So whenever you edit a
+file, also clear the `prose-lint` flags and style problems you run into on
+lines you did *not* write, not only your own new lines. Run
+`prose-lint --files` (whole changed files, not just changed lines) before
+committing and fix what it reports. Don't detour into untouched files
+hunting for issues — fix what is in front of you in the files you are
+already editing, and over many small commits the whole repo comes into
+style. (The linter also dislikes hyphenated compound coinages; prefer the
+plain unhyphenated phrasing.)
+
 **Write commit messages to a temp file and use `git commit -F`, not a
 `<<EOF` heredoc.** Heredocs (and other constructs the permission engine
 can't statically analyze) trigger a prompt that blocks on mobile. So:
