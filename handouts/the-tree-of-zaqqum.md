@@ -8,12 +8,6 @@
 > (Al-Isra 17:60) names "the tree cursed in the Koran," traditionally read as
 > Zaqqum.
 >
-> **In play.** The verses stand in the **little shrines along the approach** to the
-> [hell-tree](../encounters/the-hell-tree.md), one to a shrine — the
-> [Mughal dynasty's](../lore/the-mughal-founding.md) markers, set when the Muslim
-> empire patronized this temple ground and named the poison demon-tree with the
-> Qur'an's own Tree of Hell.
->
 > **The contrast.** In 37:62 the "or" sets Paradise against Hell — the surah has
 > just described the garden and welcome of the faithful, then asks whether that
 > is the better hospitality, or the Tree of Zaqqum. Arberry throws the same word

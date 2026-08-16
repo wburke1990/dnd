@@ -120,14 +120,11 @@ the party themselves. **Get in and out quickly.**
 > slab set on top. Words are cut into the slab. Nothing is built near it and no one
 > tends it. Further on there is another, and past that another.*
 
-The shrines are the **[Mughal dynasty's](../lore/the-mughal-founding.md)** — set along
-the pilgrim road down to the tree when the Muslim empire patronized this temple ground,
-and long untended since, worn to bare slabs by the poison ground. Each slab carries one
-verse of the Qur'an's **[Zaqqum](../handouts/the-tree-of-zaqqum.md)**, the tree that
-grows in Hell: the As-Saffat run (37:62–68), **one verse a shrine, seven of them** along
-the road to the tree. (The
-[Anchar](../handouts/anchar.md) poem was the earlier text on these slabs —
-`[OPEN]` keep it, move it to the tree, or let the Qur'an have the approach.)
+Pilgrims left the shrines on their way in; nothing built here lasts. The
+slabs carry the **[Anchar](../handouts/anchar.md)** poem — the lone poison-tree, and
+the master who sends a man to gather from it and not come back. (The Qur'an's
+[Zaqqum](../handouts/the-tree-of-zaqqum.md) is down the stair at the tree itself — see
+[the hell-tree](the-hell-tree.md).)
 
 ### Read aloud — the bird
 
@@ -137,8 +134,8 @@ the road to the tree. (The
 It is a **mockingbird**, warped by the tree's poison, that repeats whatever it hears.
 It once heard the tree muttering to itself. So the party hears the tree's own words long before they reach it (see [the hell-tree](the-hell-tree.md)).
 
-`[OPEN]` how the mutation is tracked along the approach (the shrines are the seven
-As-Saffat verses, above).
+`[OPEN]` the stages of the approach — how many shrines, and how the mutation is
+tracked.
 
 ---
 
