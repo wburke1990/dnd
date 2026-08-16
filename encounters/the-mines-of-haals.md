@@ -272,6 +272,11 @@ and no approval either.
 to ask next: *"Would you know more?"* (the Völuspá's repeated line). It puts the asking
 back on them and costs nothing.
 
+**Keep the strangeness; cut the tics.** `[Will 8/15]` This scene leans hard on its
+sources and the register is deliberately heightened — a plain-prose pass is the wrong
+instrument here. A repeated sentence-shape is a tic and gets cut. A metaphor drawn from
+the speaker's own cosmology, or a phrase lifted from scripture, stays.
+
 **Keep the negatives rare.** A style pass on 8/15 found about half the spoken lines in
 this scene resolving on a negation — *I am not carried, I do not weigh the two, there is
 no god here* — often enough that the shape became predictable before the content did.
@@ -319,7 +324,7 @@ descended from him; Pax is off the brother line.
 | When | He says |
 |---|---|
 | Asked to explain a prophecy | *"There are many rivers in the flow of time, and though I choose to shape them with my words, to explain my prophecy is to undo the doing. I remain silent that my words may shape the world."* |
-| Pressed to explain a second time | *"Have you been to the bottom of the sea? Then do not ask me to explain."* |
+| Pressed to explain a second time | *"Have you walked in the search of the depth? Then do not ask me to explain."* Verbatim [KJV Job 38:16](#for-the-giant) — leave it alone; it is meant to sound like scripture. |
 | Asked how he knows, or by what right he says any of it | *"Where were you when the foundations of this country were laid?"* Job's form, without Job's God being aggrieved about it. |
 | Told the party will change what he foretells | *"You will try. I have watched you try."* |
 | Asked whether a prophecy can be escaped at all | *"It was said my daughter's son would kill me. I put her in a tower on an island. That is how he came to be. Now I let it come."* His own myth is the argument. |
@@ -355,7 +360,7 @@ it down. They can ask, or refuse and take nothing.
 | When | He says |
 |---|---|
 | He makes the offer, unprompted | *"You may ask me one question and I will answer truly. I know what you will ask, and it is your destiny that you should ask it, and that I shall listen and reveal."* |
-| They hesitate, or ask what he is offering | *"You want to know what comes. I will tell you one thing that comes. You will carry it after that."* |
+| They hesitate, or ask what he is offering | *"You want to know what comes. I will give you a piece of the river. You will not be able to set it down."* The river is his own cosmology rather than ornament, and the second sentence is the geis. |
 | They ask a second question | *"You have had your question."* |
 | They refuse the offer | *"Then you will ask it somewhere else, and be answered by something that lies."* |
 | They ask what they ought to ask | *"That was your question."* Only if the table will take it as a good joke — it costs them the prophecy, and he does not reverse himself. |
@@ -492,7 +497,12 @@ the eye: mortals cannot look at the true form and live.
 
 **Job 38–41 — the voice out of the whirlwind.** Answers a demand for explanation with
 questions instead of reasons. Take the form and drop the rebuke; Job's God is aggrieved
-and Balor is not.
+and Balor is not. *"Have you walked in the search of the depth"* is Job 38:16 word for
+word, and reads as scripture because it is.
+
+**Psalm 1:3 — *"like a tree planted by the rivers of water."*** The ancestor of the tree
+in the water. Worth knowing the line has one, so nothing edits the psalm out of it by
+accident.
 
 **Ecclesiastes.** One generation goes, another comes, the earth stays; what has been is
 what will be; there is no remembrance of former things. The flat counter to Musa's creed
