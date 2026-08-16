@@ -135,12 +135,22 @@ under the sea.** In order:
 - **Nothing came. No dragon answered.** The dragons had followed the hot spot southeast (§6) and
   were not there, so the blood produced no result. They have held the island 1,900 years without
   that explanation, and they do not consider that their gods are not there.
+- **When the dragons left — after the 5th pass, ~2,000 ya.** `[Will 8/16]` The
+  [3rd–5th passes build Musleheim](world-history-timeline.md), so the 5th finishes it; the
+  eruptions there stop, the hot spot moves on toward the Kurunatukas, and the dragons go with it.
+  The dragonborn had lived alongside them for two thousand years, and the dragons were gone
+  within one lifetime. The faith turns zealous after this. **The dragonborn leave Muspelheim
+  ~1,900 ya, a century after the dragons left.** They left Muspelheim because the dragons had
+  already left it.
+- **Why the zealots blamed the colonists.** Maalm plants the colony on Lonka ~2,000 ya and the
+  dragons go ~2,000 ya. The two happen together, so the zealots treated the colony as the cause.
+  The grievance is a hundred years old when they march, not two thousand.
 - **Why the dragons left.** They went because
   [the hot spot drifted](#6-the-dragons-no-longer-come) — the same drift that cooled the
   northwest coast and opened the tunnels they walked in through. The holy island stood empty of
   dragons for generations, **which is the only reason Maalm could plant a colony on it at all.**
   The settlers arrived after the dragons had gone, and the zealots killed them because the
-  dragons had gone. They were chosen because they were outsiders standing on the ground.
+  dragons had gone. They were killed because they were outsiders living on the island.
 
 These are the **Lonka Zealots** of the lost-tribes / reclamation thread (*Sam's quest*; see
 [Blackacre](../characters/blackacre.md), the wandering nomad whose arc is to **reconcile the
@@ -203,14 +213,15 @@ reached by a single guarded channel (the model is **Moorcock's Melniboné**).
   Dragon Turtle is the **only** one left: **no living dragons visit Lonka any more.** The
   Zealots bled to reconsecrate the dragon's first perch (§4), and their gods **no longer
   come to Lonka,** leaving just the turtle in the bay.
-  `[Will 8/16]` The dragons were **already gone before the
-  massacre** — gone for generations, which is what let Maalm settle the island in the
-  first place — so the killing was never a reprisal for a desecration that drove them
-  off. It was an attempt to **call them back** (§4), and it failed. 🔒 The
+  `[Will 8/16]` **The dragons left after the 5th pass, ~2,000 ya** — the pass that
+  finishes building Musleheim, after which the hot spot moves on toward the Kurunatukas
+  and they follow it. That is a century before the massacre, and it happens at the same
+  time as Maalm's colony, which is why the zealots blamed the settlers (§4). The killing
+  was an attempt to **call them back**, and it failed. 🔒 The
   reason is cosmological — **dragons follow the hot spot, and the hot spot has drifted
   southeast off Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas — but
-  the zealots do not know why the dragons are gone, and they grow more dangerous about
-  it. The same thing happens in
+  the zealots do not know why the dragons are gone, and each generation of them takes
+  harder measures about it. The same thing happens in
   **[Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
   to you; you did not come; we did everything right and it meant nothing*
   ([the gods who do not answer](egyptian-afterlife-mythology.md)). Gods who abandon
