@@ -11,7 +11,9 @@ they **sail the coast toward Brauron** (the Sacred Hunt / [game
 preserve](the-game-preserve.md)), likely putting in at **Aar or Aal** (David has
 both TTS maps). If they get near Brauron, a **storm blows them off course** to the
 **[Island of the Thinkers](island-of-the-thinkers.md)** — a full set-piece that
-runs off its own read-aloud sheet.
+runs off its own read-aloud sheet. **They may instead head inland from the port to
+Copaa** (§6) — that works too, and the road there has its own time-travel myths to
+show.
 
 Each section below runs from the summary alone; the `→ full doc` link is there for
 depth, not required.
@@ -211,11 +213,46 @@ become a dragon before the cycle is ever explained to them.
 
 ---
 
+## 6 · If they head inland instead — the Aar road to Copaa  `→` [copa-irish-beasts.md](../bestiary/copa-irish-beasts.md)
+
+The party said they might go **inland to Copaa** instead of sailing on to Brauron —
+**both work.** Don't push them to the boat. From the port, the inland road is the
+**Aar road**: Aar → **Copaa** (on the lake) → **Haals** beyond it, up the river. Copaa
+is the poisoned river, the leprosy tomatoes, and the tomb-lepers from S10 — the party
+can follow Jogo's story here.
+
+**As they walk, show the time-travel myths.** The buried giant **Balor** under Haals
+is a source of time magic, and it shows along the road in people who fell out of their
+own time. Run one or two on the walk in; the full write-ups (read-aloud and all) are
+in [the Copaa bestiary](../bestiary/copa-irish-beasts.md):
+
+- **The Returner and the Stone** — a richly-dressed rider comes down the Aar road
+  asking after people and a kingdom centuries gone. He went under the hill with a fey
+  woman and was warned never to touch the ground; he stops to help men lift a stone,
+  his stirrup breaks, and every year he skipped lands at once. The party can act
+  before he hits the ground.
+- **The Piper out of the Mound** — the Company's digging opens a mound and a master
+  piper walks out mid-tune, expecting the feast he left "a night ago." Hundreds of
+  years have passed. Told the truth, he ages where he stands or walks back into the
+  hill.
+- **Time in the mountain** — what happens to anyone who goes underground at Copaa or
+  Haals: time runs slower the deeper you go, stopped pockets freeze whoever steps in,
+  and in the deepest parts the past repeats and draws in anyone watching.
+
+These do the same job inland that the Thinkers do at sea — the party meet the
+comet/transformation cycle in play, long before it's ever named. Don't explain it. (If they go
+all the way into the mountain at Haals, that's the full
+[Mines of Haals descent](the-mines-of-haals.md) — a session of its own, not this
+packet.)
+
+---
+
 ## If they go another way
 
 It's a sandbox. If they skip a tavern, sail a different way, or chase Aar's Company
 thread instead of pressing on — fine. **The sailing loop (§2) and the sea table (§3)
-carry any crossing they pick**, and the two set-pieces to reach for are the **tavern
-scene** (Maalm) and the **Thinkers** (a storm off any coast). Brauron and the Sacred
+carry any crossing they pick**; the inland road (§6) covers a walk to Copaa; and the
+set-pieces to reach for are the **tavern scene** (Maalm), the **Thinkers** (a storm
+off any coast), and the **road myths** (the walk to Copaa). Brauron and the Sacred
 Hunt ([game preserve](the-game-preserve.md)) are the destination whenever they arrive
 — no need to force the pace this session.
