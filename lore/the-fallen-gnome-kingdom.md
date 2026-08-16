@@ -82,6 +82,12 @@
   **one gnome city that survived all of it** — their own kingdom's fall, the middle civilization, and
   into the Company's age: the surviving heirs, reduced to a single trade village, half cut off by the
   currents, running goods overland to Haagen. The kingdom is now one village of craftsmen.
+- **Sker — the stranded port.** `[Will 8/16]` The gnome kingdom's **river-mouth port**, where the
+  river once met the sea. The **river no longer reaches the sea** — the coast rose at a comet-pass and
+  the water drew back — so **[Sker](nila-atlas.md)** stands stranded inland now, its quays and
+  breakwater dry, well short of the water. The Mughals and the Company after them cut **canals** the
+  last miles to the coast rather than dredge the old channel (the [Mughal ports Aal and
+  Aar](the-mughal-founding.md)). Gnome stonework under Mughal and Company patching.
 - **Copaa — the poisoned town.** The [Company's mine runoff at Haals](../encounters/the-haals-runoff.md)
   poisons **[Copaa](nila-atlas.md)'s** river and fields, and its people are driven out — the
   [lepers in the tombs](../encounters/valley-of-the-kings.md), **later settlers of the Mughal and

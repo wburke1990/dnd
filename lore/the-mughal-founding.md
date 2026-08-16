@@ -135,17 +135,21 @@ capital sat there. The town is still lived in, built among the ruins of the old 
 citadel, the great mosque, and the founder's garden-tomb, all in ruin among the streets.
 It shrank when the Company moved the center to the coast.
 
-**The bridge, and the house of the dead.** The road from [Copaa](nila-atlas.md) to
+**The bridge, and the necropolis.** The road from [Copaa](nila-atlas.md) to
 [Haals](../encounters/the-mines-of-haals.md) crosses the river at a Mughal bridge, built
 over the ford where **Siyavash** drowned in the crossing (above) so no one after him
 would. At the bridgehead is the Mughal **necropolis**, where the
 dynasty carried its dead to lie beside the first of them. The Company's road up to the
 mine crosses the bridge now, past the tombs; the ore goes down by water.
 
-**The two ports, and the two canals.** The river's own mouth is **[Sker](nila-atlas.md)**,
-the ruined port of the old [gnome kingdom](the-fallen-gnome-kingdom.md); neither the
-Mughals nor the Company raised the dead city, so each cut a **canal** west from the river
-to a port of its own — one old, one new.
+**The two ports, and the two canals.** The **river no longer reaches the sea** — the
+coast rose at a comet-pass and the water drew back, leaving the river to peter out inland
+in silt and marsh. `[proposed]` Its old mouth is **[Sker](nila-atlas.md)**, the ruined
+port of the [gnome kingdom](the-fallen-gnome-kingdom.md), stranded now well short of the
+water. So the last miles to the coast are cut by **canal** — the Mughals dug one to
+**Aal**, the Company later dug its own to **Aar**. Both run **dead straight, with a paved
+towpath down one bank**: the current carries the loaded barges down, and teams of
+**donkeys on the towpath haul the empty ones back up.**
 
 - **[Aal](nila-atlas.md)** — the old capital's port, reached by a **Mughal canal** cut
   from the river. Busy in the empire's day; the canal silts now, and the port has
