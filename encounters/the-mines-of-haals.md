@@ -169,8 +169,10 @@ half-formed, and the party is standing proof of how it comes out. He asks what t
 land becomes, who holds the port, what he founds — and the answer runs past his kingdom
 to the fall, the Mughals, and the Company. Let the party tell him, or hold it back.
 
-- *"I have seen it. We take this land and hold it. Tell me I am right."*
-- *"You are from the far end of it. What did we make?"*
+| When | He says |
+|---|---|
+| First contact, once he has worked out they are from ahead of him | *"You are from the far end of it. What did we make?"* |
+| They are slow to answer, or he does not like the answer | *"I have seen it. We take this land and hold it. Tell me I am right."* |
 
 ### Musa's lines
 
@@ -230,37 +232,21 @@ become one ([why](../CLAUDE.md)).
 prophet quoting the text at you, not describing his week. Say the verse and stop; do not
 put a gloss on the end of it. Any paraphrase is a worse line than the verse it came from.
 
-**To [Pax](../characters/pax.md) — Jacob at Bethel (Genesis 28).** Musa slept at the
-mouth of the cave, was shown what was coming, and afterwards set up a standing stone over
-a harbour. That is Jacob's story move for move, so **the massebah has Bethel underneath
-it** — and the thing on the ladder is Pax's father's people.
+**Jacob at Bethel (Genesis 28)** is the seam worth knowing before you run it. Musa slept
+at the mouth of the cave, was shown what was coming, and afterwards set up a standing
+stone over a harbour — Jacob's story move for move. **The massebah has Bethel underneath
+it**, and the thing on the ladder is [Pax's](../characters/pax.md) father's people.
 
-- *"And he dreamed, and behold a ladder set up on the earth, and the top of it reached to
-  heaven: and behold the angels of God ascending and descending on it."*
-- *"Surely the LORD is in this place; and I knew it not."*
-- *"How dreadful is this place! this is none other but the house of God, and this is the
-  gate of heaven."*
-- On the stone: *"And took the stone that he had put for his pillows, and set it up for a
-  pillar, and poured oil upon the top of it."*
-
-**To Pax — Jacob at the ford (Genesis 32).** Held all night, lamed in the hip, and given
-a new name for it.
-
-- *"I will not let thee go, except thou bless me."*
-
-**To [Sarric](../characters/sarric.md) — Genesis 3:19, then Ecclesiastes 12:7.** The
-second verse splits the dead exactly the way this world does: the dust goes down and the
-spirit goes up. Musa says it whole and leaves it there. Sarric only gets the first
-clause, and the table can do that arithmetic without help.
-
-- *"Dust thou art, and unto dust shalt thou return."*
-- Pressed: *"Then shall the dust return to the earth as it was: and the spirit shall
-  return unto God who gave it."*
-
-**On the stone itself (Joshua 24:27).**
-
-- *"Behold, this stone shall be a witness unto us; for it hath heard all the words of the
-  LORD which he spake unto us."*
+| When | He says |
+|---|---|
+| The party ask what is further down, or whether they should go in | *"How dreadful is this place! this is none other but the house of God, and this is the gate of heaven."* Gen 28:17. They are about to walk down to Balor, and this is the last thing said to them before they do. |
+| Asked whether he knew what was down there before he went in | *"Surely the LORD is in this place; and I knew it not."* Gen 28:16. |
+| [Pax](../characters/pax.md) asks what he saw, or the talk turns to Pax's father's people | *"And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it."* Gen 28:12. |
+| Pax asks how anyone gets anything out of the celestials, or Musa is asked how he got a vision out of the sleeper | *"I will not let thee go, except thou bless me."* Gen 32:26 — held all night, lamed in the hip, and given a new name for it. |
+| The party mention the standing stone at the harbour, which he has not raised yet | *"And took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it."* Gen 28:18. |
+| They tell him the stone is still standing in their own age | *"Behold, this stone shall be a witness unto us; for it hath heard all the words of the LORD which he spake unto us."* Josh 24:27. |
+| [Sarric](../characters/sarric.md) is addressed, or someone asks what becomes of him | *"Dust thou art, and unto dust shalt thou return."* Gen 3:19. |
+| Someone objects that this is true of all of them | *"Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."* Eccl 12:7 — which splits the dead exactly the way this world does. Say it whole and stop. Sarric gets the first clause only, and the table can do that arithmetic without help. |
 
 **On the conquest he has not committed yet.** He does not apologize and does not expect
 to be asked to.
