@@ -219,17 +219,22 @@ cosmology claims you is something the world has **rituals** for, and they are al
 the same kind of act. [Aniess](../characters/aniess.md) has been through one — the
 Punt rite pledged her to the Serpent — and [Pax](../characters/pax.md) has to
 perform one to make his choice (§6). The covenant pledge is another of that
-family. Two consequences, both already established by Aniess: because the rites
-are **real, they work even performed coldly**, without belief and without
-kindness; and pledging does not erase what you were, so a person can end up
-**standing under two courts at once**.
+family. Two consequences. Because the rites are **real, they work even performed
+coldly**, without belief and without kindness (this is what happened to Aniess).
+And **you stand under one court** — a pledge moves you, it does not add. Aniess
+caught **between two** is the damage her rite did, not how a rite is supposed to
+work.
 
 **So yes — one of the nameless can pledge**, and Musa's offer to
-[Sarric](../characters/sarric.md) is a live one with a rite behind it. What Sarric
-would be buying is a court where he had none: he would go from a man nothing can
-fasten to, into a man who can be named and therefore held. **The whole thesis
-inside one character's decision** — and the offer comes from the man on his way
-to destroy his people.
+[Sarric](../characters/sarric.md) is a live one with a rite behind it. And because
+a pledge moves you rather than adding to you, **it would take him out of the
+earth.** He would not gain a second ending; he would lose the one he has. He stops
+returning to the mountain — which means he stops being part of **the stock his own
+people are drawn from** (§5). Sarric's dead and Sarric's unborn are the same
+stone, and pledging removes him from the supply. He would be saved out of his
+people rather than with them, and he would go from a man nothing can fasten to
+into a man who can be named and held. **The whole thesis inside one character's
+decision**, offered by the man on his way to destroy his people.
 
 **That is a third position on the consent axis**, which had two. Aniess had it
 **done to her**; Pax **chooses** freely; Sarric would be **offered** it, on the
