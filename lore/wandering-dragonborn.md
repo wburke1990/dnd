@@ -131,6 +131,40 @@ So each side is wrong about the same thing from opposite ends:
   growing; arguing the "true" telling over drinks *is* the devotion.
   **[settled — per chat]**
 
+## The two naming registers, and the 5,000-year split
+
+`[settled — Will 8/16]` The wandering saints carry Berber and Arabic-flavoured names —
+Idris, Tariq, Anzar, Wazzan, Musa — and the Lonka Zealots carry Phoenician ones
+([Arishat](../characters/arishat.md)). **The two name sets diverged five thousand years
+ago.**
+
+The **Bleeding Star** destroyed the mother-city and killed everyone on it
+([Lonka / Jotunheim](lonka-jotunheim.md) §2). The dragonborn who lived were the ones
+already out on the sea-roads, and from that day they were two peoples:
+
+- **The ones who kept roaming** spent five thousand years living among other peoples,
+  a season at a time, on every coast in the world. Their names came from those coasts.
+- **The ones who eventually stopped** — settled Musleheim with the men, built the
+  empire, and walked back to take the holy island ~1,900 ya — kept the mother-city's
+  names and did not change them.
+
+**So the zealots' names are archaic.** A zealot saying his own name uses word-forms a
+wanderer only meets in old inscriptions.
+
+`[for the table]` **The oldest watch-stones carry zealot-sounding names**, because they
+were cut before the names changed. Blackacre has kept the watch his whole life at graves
+whose names are of the same form as the zealots'
+([Blackacre — DM notes](../characters/blackacre-dm-notes.md)). Those graveyards are
+places he has already been, so this can come up in play as description.
+
+**Not the same as the doctrinal split.** The people divided 5,000 years ago at the
+Bleeding Star. The *creed* divided far later — over the 1,000+ years the settled
+dragonborn ran Muspelheim, ending in the reconquest ~1,900 ya
+([Lonka / Jotunheim](lonka-jotunheim.md) §4). The two splits are separate.
+
+`[OPEN]` whether **Bedraageon** predates the split, which would make the oldest name in
+the faith a Phoenician one.
+
 ## The Eldest — Bedraageon
 
 The progenitor and the template: a dragonborn who crossed the water alone
@@ -144,8 +178,9 @@ sense, a retelling of him. **[settled — existing canon]**
 
 ## The Roster of the Wandering
 
-Four named saints, one per archetype Ahms named. Names are **[draft]** —
-Berber/Arabic flavor, free to rename. Each gets feats the songs sing, the
+Four named saints, one per archetype Ahms named. The **Berber/Arabic flavour is
+deliberate** — see *The two naming registers* above; it marks them as the branch that
+kept roaming, against the zealots' unchanged Phoenician. Each gets feats the songs sing, the
 island where the watch-stone stands, and a grave inscription (the firm
 ones reuse poems already in the repo; the rest are flagged).
 
