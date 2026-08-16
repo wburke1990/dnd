@@ -225,18 +225,20 @@ mainland, not Mukka.)*
 
 > **Copaa `[David 7/28]`.** An **old-west ore town.** The Haals ore comes **down the
 > river** to Copaa, is weighed on the Company scales at the landing, and goes on
-> overland to the port at **Aar.** The town has a **tavern (the Ore Scale)** and an
+> down the Company's canal to the port at **Aar.** The town has a **tavern (the Ore Scale)** and an
 > **inn (the Aar Road Inn).** See [Copaa](copaa.md) for the full writeup.
 
 > **The Mughal layer (SE) `[brainstorm]`.** The [middle empire](the-mughal-founding.md)
 > held this region ~900–200 ya; its ruins lie under the Company's. **Haagen** was the
 > **old capital** — river-defended, reached over the crossing. The **Copaa–Haals bridge**
 > is a Mughal work over the ford where the founder's son drowned, with the dynasty's
-> **necropolis** at the bridgehead; the ore-road crosses it now. **Aal** was the
-> **capital's port**, and holds an old **half-orc quarter** — Norse raiders a Sultan
-> settled to guard the sea-gate, gone local over centuries — faded now with the capital,
-> while **Aar** (dead under the Mughals, mines shut) is the Company's ore boomtown. Full
-> writeup: [The Mughal Founding](the-mughal-founding.md).
+> **necropolis** at the bridgehead; the road up to the mine crosses it now. Neither port
+> sits on the river — each is reached by a **canal.** **Aal** was the **capital's port**,
+> reached by an old **Mughal canal**, and holds a **half-orc quarter** (Norse raiders a
+> Sultan settled to guard the sea-gate, gone local); it faded once the **Company** bought
+> empty **Aar**, cut its own **new canal**, reopened the mine, and moved the ore-trade
+> there — Aar the engineered boomtown, Aal the bypassed old port. Full writeup:
+> [The Mughal Founding](the-mughal-founding.md).
 
 ---
 

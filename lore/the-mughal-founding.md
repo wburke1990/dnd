@@ -139,16 +139,20 @@ It shrank when the Company moved the center to the coast.
 [Haals](../encounters/the-mines-of-haals.md) crosses the river at a Mughal bridge, built
 over the ford where **Siyavash** drowned in the crossing (above) so no one after him
 would. At the bridgehead is the Mughal **necropolis**, where the
-dynasty carried its dead to lie beside the first of them. The Company's ore carts cross
-the bridge now, past the tombs, coming down from the mine.
+dynasty carried its dead to lie beside the first of them. The Company's road up to the
+mine crosses the bridge now, past the tombs; the ore goes down by water.
 
-**The two ports.** Aal is the Mughals', Aar the Company's:
+**The two ports, and the two canals.** Neither port sits on the river; each was reached
+by a canal dug to it — one old, one new.
 
-- **[Aal](nila-atlas.md)** was the capital's port, busy in the Mughal age, and it has
-  faded with the capital.
-- **[Aar](nila-atlas.md)** was nothing under the Mughals, who kept the
-  [Haals taboo](../encounters/the-mines-of-haals.md) and the mines shut. It is a Company
-  boomtown now, its ore-money made on the taboo the Mughals held.
+- **[Aal](nila-atlas.md)** — the old capital's port, reached by a **Mughal canal** cut
+  from the river. Busy in the empire's day; the canal silts now, and the port has
+  declined with the capital.
+- **[Aar](nila-atlas.md)** — nothing under the Mughals, who kept the
+  [Haals taboo](../encounters/the-mines-of-haals.md) and left the mines shut. The
+  **[Company](the-company.md)** bought the empty coast for little, cut a **new canal** to
+  it, reopened the mine, and built its own port and boomtown there. It bypassed the old
+  Mughal port at Aal and left it to silt.
 
 **The Aal quarter — the Sultan's half-orcs.** In the raiding age the Norse
 [orc raiders](the-muspel-empire.md) struck this coast, and a Sultan bought them off with
@@ -156,7 +160,8 @@ land: he granted them a quarter at **Aal** and set them to guard the sea-gate to
 capital. They took the grant, settled, and over the generations became locals — Norse blood
 and old sea-names, and the Mughals' tongue and faith, with a small **mosque**
 among the boat-sheds. They hold the Sultan's grant still, cut in stone at the quarter's
-edge, and the port has gone quiet around them. They are **not** the recent refugees of
+edge, and the port has gone quiet around them since the Company took the trade to Aar.
+They are **not** the recent refugees of
 [Annibel's war](../characters/annibel.md) — those are a separate, later people; the Aal
 half-orcs are old settled blood, at home here for centuries. *(Rollo and Normandy:
 raiders granted land to stop the raids, who settle, convert, and go native.)*
