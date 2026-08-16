@@ -219,8 +219,12 @@ cosmology claims you is something the world has **rituals** for, and they are al
 the same kind of act. [Aniess](../characters/aniess.md) has been through one — the
 Punt rite pledged her to the Serpent — and [Pax](../characters/pax.md) has to
 perform one to make his choice (§6). The covenant pledge is another of that
-family. Two consequences. Because the rites are **real, they work even performed
-coldly**, without belief and without kindness (this is what happened to Aniess).
+family, and it is written up in full at
+[the covenant rite](../encounters/the-covenant-rite.md) — six stages of Israelite
+covenant ceremony, ending where
+[the Jotunheim rite](../encounters/jotunheim-trees-rite.md) begins. Two
+consequences. Because the rites are **real, they work even performed coldly**,
+without belief and without kindness (this is what happened to Aniess).
 And **you stand under one court** — a pledge moves you, it does not add. Aniess
 caught **between two** is the damage her rite did, not how a rite is supposed to
 work.
