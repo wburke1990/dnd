@@ -171,6 +171,11 @@ The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md
   Calydonian **beast-hunt** and the Actaeon **man-hunt**, the "human hunting" rumor), the
   hunt as the only way past the fence, and the [hell-tree](../encounters/the-hell-tree.md)
   at its dead center. The played beats match the prep.
+- **Note — a hard once-a-year window.** The Sacred Hunt is the **only** annual way into
+  the preserve (the spot on the map), so it's **now or a year's wait** — a real clock on
+  this arc, and the reason to commit to it now. `[OPEN]` "put every ninja team on this" —
+  whether that means the **party goes all-in**, or Preem's **rival name-hunter crews all
+  converge** on the once-a-year hunt (the window pulling every crew to the one spot).
 - `[OPEN]` **the voyage** — aboard the Second Hand's chartered transport, bound for the
   Sacred Hunt; the sailing ambush set off Blackacre's traded charts is still ahead
   ([Departure Under Fire](../encounters/docks-departure.md)).
