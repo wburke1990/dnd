@@ -88,6 +88,27 @@ dwarves never worked (see [the Company §3](../../../nila/lore/the-company.md)).
 
 ---
 
+### The dreams on the road in `[Will 8/16]`
+
+[Sarric](../../../../characters/sarric.md) and [Pax](../../../../characters/pax.md) dream
+the mountain as they get closer to it, and no one else in the party does. Both are
+earth-kin — Sarric a firbolg, Pax half forest-nameless
+([lineages & afterlives](../../../nila/lore/lineages-and-afterlives.md) §5–6) — and the
+Haals mountain is firbolg dead.
+
+Start a few days out and give them more each night. An ordinary day on the mountainside
+first, the kind they already got in the tombs
+([player messages — earth dreams](../../../../sessions/player-messages-earth-dreams.md)).
+Then the same day with the digging audible under it. Then the body the mountain is. By
+the time they reach the workings they are getting it awake — a few seconds at a time, in
+daylight, standing up.
+
+Sarric has a word for this and Pax does not. Sarric's people call it normal. Pax will read
+it as the Green Revelation answering him, and it is his mother's people instead. Do not
+correct him (see [Pax — DM notes](../../../../characters/pax-dm-notes.md)).
+
+---
+
 ## 3. The job — and why it's "eco-terror" `[loose]`
 
 The villain is the **Company** (its mine), so this is the party's **first clean swing at

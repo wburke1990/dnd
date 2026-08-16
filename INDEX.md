@@ -274,8 +274,10 @@ Sailing, weather, fleets and what lives in the water.
 | [party roster](characters/party-roster.md) | `reference` | Player-submitted character concepts and the mechanics each player gets to drive |
 | [pax dm notes](characters/pax-dm-notes.md) | `reference` | DM notes on Pax — his campaign connections and how to keep the Green Revelation unsettled |
 | [pax](characters/pax.md) | `reference` | Player character (Andrew) — an aasimar monk who believes the living world chose him |
+| [plot balance](characters/plot-balance.md) | `reference` | Every written thread listed under the PC it belongs to, with what has been run |
 | [preem](characters/preem.md) | `reference` | The elven wizard in Maalm who pays the party to collect true names |
 | [preems demons](characters/preems-demons.md) | `reference` | The demons Preem has bound, who staff his tower and pay the party for names |
+| [sarric dm notes](characters/sarric-dm-notes.md) | `reference` | DM notes on Sarric — the camp, the wanted posters, and the dreams out of the ground |
 | [sarric](characters/sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
 | [shepard](characters/shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
 | [the children](characters/the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |

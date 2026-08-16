@@ -19,8 +19,10 @@
 | [party roster](party-roster.md) | `reference` | Player-submitted character concepts and the mechanics each player gets to drive |
 | [pax dm notes](pax-dm-notes.md) | `reference` | DM notes on Pax — his campaign connections and how to keep the Green Revelation unsettled |
 | [pax](pax.md) | `reference` | Player character (Andrew) — an aasimar monk who believes the living world chose him |
+| [plot balance](plot-balance.md) | `reference` | Every written thread listed under the PC it belongs to, with what has been run |
 | [preem](preem.md) | `reference` | The elven wizard in Maalm who pays the party to collect true names |
 | [preems demons](preems-demons.md) | `reference` | The demons Preem has bound, who staff his tower and pay the party for names |
+| [sarric dm notes](sarric-dm-notes.md) | `reference` | DM notes on Sarric — the camp, the wanted posters, and the dreams out of the ground |
 | [sarric](sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
 | [shepard](shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
 | [the children](the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |

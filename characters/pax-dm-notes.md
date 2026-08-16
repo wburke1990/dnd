@@ -20,6 +20,34 @@ The organization has three founding members. Their dynamic — who leads, who fo
 
 ---
 
+## Evidence that points the wrong way `[Will 8/16]`
+
+The rule above says give him ambiguous evidence. Go further: give him evidence that
+reads as confirmation and comes from somewhere else.
+
+He has two supernatural inputs and no account tying them together — the earth dreams
+from his mother's forest-nameless side, and the instructed nights from the Celestial
+that named him (see the four-day vision below, and
+[player messages — earth dreams](../../sessions/player-messages-earth-dreams.md)). Pax
+attributes both to the Green Revelation. Neither is.
+
+So every time one of them fires, he gets a fact he can point at. The first is at
+**[Haals](../world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md)**: he and
+Sarric dream the buried giant harder the closer they get to the mine, and Pax will take
+that as the wounded world naming its wound to him. It is the firbolg dead in the
+mountain, and Sarric is having the same dreams and calls them ordinary.
+
+Two things to hold to:
+
+- **Do not confirm and do not debunk.** Nobody in the scene knows enough to say. Sarric
+  has his people's word for it and offers it flatly; the Green Revelation is Pax's word
+  for the same nights.
+- **Let it work.** He acts on the reading and the reading gets him to the right place —
+  the mountain is being desecrated and something is wrong with it. Being right about what
+  to do is what makes being wrong about why hard to see.
+
+---
+
 ## Campaign Connections
 
 - The ecoterrorist organization connects directly to the campaign's land destruction and volcanism themes; Pax's "wounded living world" vision matches the geological and volcanic mythology of the setting.

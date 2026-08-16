@@ -6,6 +6,9 @@ status: reference
 # Sarric
 ## Firbolg Ranger — played by Jeremy
 
+> Jeremy's sheet. DM-facing notes (prep, connections, how the world plays off
+> it) live in [sarric-dm-notes.md](sarric-dm-notes.md).
+
 ---
 
 ## Basic Information
@@ -69,21 +72,4 @@ He later met Jasper and Pax, who shared enough of his beliefs to work alongside.
 
 ---
 
-## DM Note — The Camp
-
-The camp is Sarric's central wound. He committed an act of violence that killed people beyond his intended targets, and he ran from it. He has continued doing good work since, and the good work is real — but it is also partly a way of not thinking about the screams.
-
-His confession in the Hall of Two Truths will almost certainly be about the camp. He will want to contextualize it — the lord, the village, the injustice that came before. Let him. Then let the silence do the rest. The scales don't weigh context.
-
-The confession in its simplest form: *"I set a fire and I heard screaming and I didn't go back."*
-
-Whether he arrives at that simplicity on his own is up to Jeremy.
-
----
-
-## Campaign Connections
-
-- The ecoterrorist organization connects directly to the campaign's land destruction and volcanism themes
-- His hatred of the wealthy who destroy land for profit will put him in direct conflict with the wizard once that operation is understood
-- His belief that the world feels pain when hurt connects to the volcanic and geological mythology of the setting
-- The beehive is a recurring visual that distinguishes him at the table and in any scene description
+*(DM notes and campaign connections moved to [`sarric-dm-notes.md`](sarric-dm-notes.md).)*
