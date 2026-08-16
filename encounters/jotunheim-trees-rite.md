@@ -48,6 +48,41 @@ and take them — is what the zealots did, and Pax could do the same thing.
 
 ---
 
+## What the trees say when the party arrives
+
+They are not in distress and they do not want rescuing. They are certain, they are
+content, and they speak to visitors readily, because visitors are what happens before a
+telling. They have been taught the same thing at the same time of year for 1,900 years.
+
+**Two voices, and they differ.** When they recite they speak **together**, word for word,
+because they were taught together. Off the catechism they come apart — the ash answers
+and the elm trails off, or says something that does not fit. Do not explain this at the
+table. Let Andrew notice.
+
+**What they were taught.** The zealots gave them Askr and Embla: the first two people,
+made out of an ash and an elm and given breath. **They are trees. They were told they
+are the first two people, made out of an ash and an elm.** The story is false, and
+nothing they were taught would show them that.
+
+| When | They say |
+|---|---|
+| The party come up onto the ring-wall | *"You have come for the telling. Stand where the others stand."* |
+| Nobody says anything, or the party ask what they are | Together: *"We are the first two. Everything that walks came out of us."* |
+| Asked to tell it properly — this is the catechism, and they give it whole | Together: *"We were made at the beginning, of the ash and of the elm. The dragon gave us breath and the dragon gave us names. There was nothing before us."* |
+| Asked what they remember before that | The ash, flatly: *"There is nothing before. We are the beginning."* Then the elm, off-script: *"Sometimes there is a smell of rain on rot."* Then the ash again: *"That is nothing."* |
+| Asked who named them | *"The dragon named us."* They have no way to know it was the zealots, and the zealots are the only ones who have ever told them anything. |
+| Asked about the zealots | *"They come at the turning of the year and tell us what we are. They are good to us."* |
+| Asked whether they want anything | *"We have what we were given."* |
+| [Pax](../characters/pax.md) comes near — he is the one forest-nameless still joined to the stock, and he carries the memory they lost | The elm: *"You smell of somewhere."* |
+| Pax presses on that | *"We have never seen you and we know you. Say the rest of it."* The rite works on this, and it happens before the rite begins. |
+| Asked about the sea, or the weather on the wall | The elm: *"The rain here is salt."* They have been taught they have always been here. |
+| Someone tells them plainly that they are stolen | *"That is not the telling."* They are not angry, and they do not argue. The account they have is the only account they have, and they hand it back the way they always do. |
+
+`[OPEN]` Whether the elm renounces and the ash refuses, or the reverse. The
+[renunciation at stage 3](#3-the-renunciation--abrenuntiatio) turns on the two being able
+to answer differently, and these lines make the elm the one that says things off the
+catechism. Swap them freely; keep one of the two noticing and one of them certain.
+
 ## The book
 
 The zealots keep the rite in writing, in the manner of the period: one book holding
