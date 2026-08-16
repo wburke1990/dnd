@@ -1,0 +1,209 @@
+# Cold-Run Packet — Maalm Taverns → the Coast to Brauron → the Thinkers
+
+> `[prep — run cold]` Written so **David can run the session with no prep** if
+> William's throat keeps him out (newborn in the house — no reading assumed).
+> Everything is inline or one click away. It's a **sandbox** — the party choose —
+> but this is the likely path, and the sailing rules + sea table carry any
+> crossing they pick.
+
+**The shape:** the last Maalm thing they haven't seen — **the taverns** — then
+they **sail the coast toward Brauron** (the Sacred Hunt / [game
+preserve](the-game-preserve.md)), likely putting in at **Aar or Aal** (David has
+both TTS maps). If they get near Brauron, a **storm blows them off course** to the
+**[Island of the Thinkers](island-of-the-thinkers.md)** — a full set-piece that
+runs off its own read-aloud sheet.
+
+Each section below runs from the summary alone; the `→ full doc` link is there for
+depth, not required.
+
+---
+
+## 1 · The Maalm taverns — the rival crews  `→` [tavern-name-hunter-crews.md](tavern-name-hunter-crews.md)
+
+A **talk scene, not a fight.** Let the party drink and mingle; each PC has a
+counterpart in the crews; they leave with the names they missed.
+
+- **Where.** The **Tavern of the Twelve**, run by a **Letap satyr** bartender (calm,
+  polishing a glass). On the wall, the **founding mural** — Bedraageon and Ammit dead
+  in each other's grip, the city raised over both (same founding the party saw at the
+  coffeehouse in S10). *First drink's free if you've got scales* — Bedraageon's rule
+  (so Blackacre drinks free).
+- **Who's in.** Two of Preem's other name-hunter crews, a half-step from a brawl:
+  - **The Lapis Writ** — funded Maalm aristocrats who **finished the whole Valley
+    without missing a name.** Smug, buy a round, needle the party for being sloppy.
+    They sit *above* the party.
+  - **The Brass Jackals** — broke freelancers from Kuru, loud, a member or two down.
+    They sit *below* everyone and know it.
+- **Walk-in.** The party come in on **Mogg** (Jackals' half-orc) **mid-saga** — pick
+  one of his sea-tales (full text in the doc); the party overhear the whole naval
+  backstory (the drowned orc fleets, the dwarves, Hjörungavágr) for free, no
+  exposition.
+- **The missing-names handoff.** The party fumbled names in tombs 1–3; the Writ
+  didn't. A name is knowledge, not a consumable, so the Writ lose nothing by sharing
+  the ones the party missed, and they share to show they're better at the work. Stage
+  it member-to-counterpart (Doruk slides Sarric the camp-tomb names, Issa gives Aniess
+  hers). The party leave with the names they overlooked — every one another name they
+  owe to Preem. Play it as kindness.
+- **The counterparts** — each crew member is paired with a PC; let each drift to their
+  counterpart in conversation, never a lecture:
+  - **Setha Renk** (Writ leader) ↔ **Blackacre** · **Doruk Pell** (Writ) ↔ **Sarric**
+    · **Issa Quib** (Writ) ↔ **Aniess** · **Bram Hale** (Writ) ↔ **Jasper** ·
+    **Calix Vire** (Writ) ↔ **Pax**.
+  - Short version of each: they made the choice a PC flinched from and are proud of it
+    (the Writ = "who you become if you win"); the Jackals = "what it costs." Deep
+    hook-lines per member are in the full doc if a conversation goes long.
+- **Two signs of Preem; use each once.** **Calix's pet toad is a quasit** — Preem's,
+  exactly like Batrick — and it murmurs "God" only into Calix's head. And the **coffee
+  is Company coffee** (V. already named that in S10). Preem watches through the
+  familiars. Don't explain it; leave the two signs unremarked.
+
+**Run it in ~30–45 min:** the walk-in saga, a round of mingling (each PC to their
+mirror), the names handed over, and out. No dice needed unless they push someone.
+
+---
+
+## 2 · Leaving Maalm — sailing the coast  `→` [sailing-and-storms.md](../lore/sailing-and-storms.md)
+
+They're bound for **Brauron** with the Second Hand's convoy of wealthy hunters.
+Blackacre's **sloop** sails with it (small, fast, **6 hull boxes**). *(If you'd
+rather they ride aboard the transport, fine — but keep the sloop in company so the
+storm below can blow it off with a broken mast.)*
+
+**The loop each leg:**
+1. **Leg length** — a coastal hop is **1 watch**; an open stretch **3–5**.
+2. **Watch** — in ordinary weather **one hand keeps her**; everyone else rests. Each
+   watch, the hand on duty makes **one check vs the weather DC** (read + handle,
+   usually WIS/Perception or the ability that fits).
+   | Sea | DC |
+   |---|---:|
+   | Calm | 8 |
+   | Fresh | 10 |
+   | **Rising** (the warning) | 13 |
+   | Gale | 16 |
+   - **Success** = clean watch, and they see trouble coming early. **Fail** = pick
+     one: lose ground (add a watch), **strike a hull box**, or drift off course.
+   - Set the weather, or roll **1d6** each watch: 1–2 worse, 3–4 same, 5–6 better
+     (lean it worse near Brauron / in storm season).
+3. **Rising sea = the choice.** When it builds, offer four ways to meet it:
+   **run before it** (safe on the hull, blows them off course), **heave to** (saves the
+   leg, risks the hull), **make for shelter** (a chase to an island/lee), or **drive
+   through** (fastest, hardest). *(Run before it / a bad drive-through leads to the
+   Thinkers, §5.)*
+4. **The storm set-piece.** All hands to **three stations** — **Helm** (DEX/WIS),
+   **Sails** (STR/DEX), **Deck** (STR/CON, or Blackacre's magic). Three phases —
+   **rising / peak / breaking** — each round everyone names what they're doing and
+   rolls their station **vs storm DC 15** (17 driving through).
+   - **Most succeed** → weather the round, next phase. **Half or fewer** → trouble:
+     **hull box**, gear blows (a station at disadvantage), or **overboard**.
+   - **Overboard:** the PC makes **DC 13 STR (Athletics)** or goes
+     in; each round in the water = one exhaustion and the boat draws ahead; another PC
+     can throw a line (DC 12 DEX). Two rounds unreached = under.
+   - **Three clean rounds** and the storm passes. Total the hull boxes, then a
+     navigation check for where it left them.
+5. **Repair & rest.** A **day in port clears every hull box**; Blackacre's **Shape
+   Water / Mending** keep her alive at sea. Off-watch crew **rest freely except in a
+   storm** (a storm night = short rest at best).
+
+At ~L3 the only threats are the weather and the beasts — a gale should be survivable
+but close, and a real monster is a thing to flee, not kill.
+
+---
+
+## 3 · What's in the water — the sea table  `→` [bestiary/sea-beasts.md](../bestiary/sea-beasts.md)
+
+**Roll once per day of open water** (anywhere on the map). Rolls **1–6** are mundane
+sea life; **7–20** are myth — most offer a **boon** for the right dealing and a
+**curse** for killing/robbing them, and several are a **parley or a puzzle with no
+fight**, answered straight out of their own myth.
+
+| d20 | Creature | Myth | Note |
+|----:|----------|------|------|
+| 1 | Dolphin Pod | — | good omen; nudges a swimmer to a line |
+| 2 | Sounding Whale | — | peaceful if left; hull threat if provoked |
+| 3 | Shark Pack | — | follows blood; overboard hazard |
+| 4 | Giant Squid | — | night; grapples crew off the deck |
+| 5 | Giant Sea Turtle | — | harmless (the honest island-whale) |
+| 6 | Baitball & Seabirds | — | net a stores box; draws predators |
+| 7 | **Sirens** | Greek | **puzzle** — wax in the ears, lash the listener to the mast |
+| 8 | Hippocampi & a Nereid | Greek | benign; grants a fair course; don't offend |
+| 9 | Each-uisge | Celtic | shapeshifter; lures aboard and drowns |
+| 10 | **Umibōzu** | Japanese | **puzzle** — a bottomless barrel, or say nothing |
+| 11 | Rusalka | Slavic | lure & drown; can be laid to rest |
+| 12 | Makara | Hindu | gatekeeper — answer for your purpose |
+| 13 | **Bakunawa** | Filipino | **drive off with noise** (drums, shouting; group DC 15) |
+| 14 | Inkanyamba | Zulu | the storm *is* the beast; killing it ends the storm |
+| 15 | **Sedna's Tribute** | Inuit | **no fight** — comb her hair, right a wrong; empty sea until then |
+| 16 | Hafgufa & the Lyngbakr | Norse | the island that dives — don't light a fire on it |
+| 17 | The Ketos | Greek | open-water predator (optional Andromeda coastal scene) |
+| 18 | Sea-Serpent | Norse | crushes & capsizes — break free and run |
+| 19 | The Kun | Chinese | a **wonder**, not a fight — a fish that becomes a world-bird |
+| 20 | Kraken | Norse | apex — drags the hull under; break free and run |
+
+**Run any beast in three beats:** (1) **the watch read** decides if it's a warning or
+it rises first; (2) **roll 2d6 reaction** — most want a toll, a meal, or to be left
+alone; (3) **pass/parley, run, or (rarely) fight.** At L3, the monsters are **hazards
+to escape** — run them as the storm set-piece with a beast instead of weather (hull
+boxes + overboard), break contact, and the boat lives. Beasts 7, 10, 13, and 15 are parley or puzzle —
+answered out of the myth, no fight.
+
+---
+
+## 4 · Putting in — Aar or Aal (David's maps)
+
+A waypoint down the coast; **David has both loaded in TTS**, so lean on the map and
+keep it light.
+
+- **A day in port** clears the hull boxes and **refills stores** — the practical
+  reason to stop.
+- **Aar** is the **[Suartleheim Eet](../lore/the-fallen-gnome-kingdom.md) ore-port** —
+  the Company ships the Haals mine's ore out through it, downstream of **Copaa** (the
+  poisoned river, the leprosy tomatoes, the tomb-lepers' home from S10). So Aar is
+  **Company ground**, good for: resupply, dockside rumor about the **Sacred Hunt**
+  ahead (once a year, the only way into the preserve — the crews are converging), and
+  a Company/leper thread if the party pull on Jogo's story. Don't force a scene.
+- **Aal** — treat as an ordinary coastal port off David's map (resupply + a rumor);
+  no fixed prep, so run it as flavor and a chance to rest.
+
+Keep this short — it's a breath between the tavern and the storm, not a set-piece.
+
+---
+
+## 5 · The storm → the Island of the Thinkers  `→` [island-of-the-thinkers.md](island-of-the-thinkers.md)
+
+As they close on **Brauron**, bring the weather up to **Rising**, then a **storm.**
+If the read fails, or they **run before it / drive through** and it goes bad, the
+storm **blows the sloop off course and breaks the mast** — and they wash up on the
+**Island of the Thinkers.** *(That's the premise the full run sheet opens on: a
+battered boat, a cracked mast, a strange island of statues.)*
+
+**Then run it straight from [its Part Two run sheet](island-of-the-thinkers.md) —
+read-aloud is written out.** The shape, so you know where it goes:
+
+1. **The island of shrinking statues.** Colossal giant "Thinkers" on the cliffs;
+   inland, the seated statues get smaller each generation, down to child-sized halfling
+   Thinkers at the center. A dead, deforested island with **one last tree** at the
+   summit.
+2. **The Last Thinker** — a lone halfling under the last tree, tending a small garden.
+   He gives them a broken-mast fix and provisions, and with his last words **asks them
+   to ring the bell beneath the earth.**
+3. **Under the hill** — a giant's hall, a great black **bell** and a hammer it takes
+   three of them to lift, a mural of **dragons over a once-forested island**, and a
+   tremor below.
+4. **They ring the bell → the island sinks.** Statues topple, ridges slide into the
+   sea; they run for the boat and row out as the island folds under. Then, from where
+   it stood, **a dragon slips from the waves and rises into the sky.**
+
+**What it is (don't explain it):** the **comet/transformation cycle** shown once,
+early — stone → dragon → beast → island → and back. The party see the Thinkers' island
+become a dragon before the cycle is ever explained to them.
+
+---
+
+## If they go another way
+
+It's a sandbox. If they skip a tavern, sail a different way, or chase Aar's Company
+thread instead of pressing on — fine. **The sailing loop (§2) and the sea table (§3)
+carry any crossing they pick**, and the two set-pieces to reach for are the **tavern
+scene** (Maalm) and the **Thinkers** (a storm off any coast). Brauron and the Sacred
+Hunt ([game preserve](the-game-preserve.md)) are the destination whenever they arrive
+— no need to force the pace this session.
