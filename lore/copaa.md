@@ -46,6 +46,21 @@ One street runs along the landing. The Company office and store, the ore scales,
 tavern, and the inn stand on it. Emptied houses sit at the edge of town, their
 doors open.
 
+## Before the Company — the town that emptied first `[Will 8/16]`
+
+Copaa was a gnome **túath** — a town on the lake, one of the scattered
+[gnome kingdoms](the-fallen-gnome-kingdom.md). It sits **directly downstream of
+[Haals](nila-atlas.md)** on the river that drains the mountain. So when the gnomes broke
+the Haals taboo and dug into the [Firbolg graves](../encounters/the-mines-of-haals.md)
+(~4,000 ya), the poison came down that river, and Copaa was **among the first towns to
+empty.** The lake and fields fouled and the town emptied; the survivors went up into the
+hills to [Raand](nila-atlas.md). It stood empty through the Mughal conquest — the
+[Mughals](the-mughal-founding.md) came down and found no one here — and
+was resettled only later, in the Mughal and Company ages, by the newcomers whose
+descendants hold it now (above). The [Company's mine](../encounters/the-haals-runoff.md)
+poisons the same river again: Copaa is the town the Haals poison kills twice, four
+thousand years apart.
+
 ## The river and the ore `[settling]`
 
 The ore comes down the river from Haals on barges. Copaa is the landing where the

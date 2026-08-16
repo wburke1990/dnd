@@ -107,8 +107,10 @@
   water. The Mughals and the Company after them cut **canals** the last miles to the coast rather
   than restore the old channel (the [Mughal ports Aal and Aar](the-mughal-founding.md)). Gnome
   stonework under Mughal and Company patching.
-- **Copaa — the poisoned town.** The [Company's mine runoff at Haals](../encounters/the-haals-runoff.md)
-  poisons **[Copaa](nila-atlas.md)'s** river and fields, and its people are driven out — the
+- **Copaa — the poisoned town.** A gnome túath that **emptied first**: it sits directly downstream
+  of Haals, so the graves' poison came down the river to it before anywhere else (~4,000 ya), and
+  it stood empty through the Mughal conquest. The [Company's mine runoff at Haals](../encounters/the-haals-runoff.md)
+  poisons **[Copaa](nila-atlas.md)'s** river and fields a second time now, and its people are driven out — the
   [lepers in the tombs](../encounters/valley-of-the-kings.md), **later settlers of the Mughal and
   Company ages, not the old gnomes** (those survive only at Raand, above). The
   [Copaa lament](../handouts/copaa-lament.md) is the region's lament, for a land whose river was fouled. `[David 7/28]` Copaa is now an

@@ -31,6 +31,16 @@ other records give it. They came into the gnome country of
 [Suartleheim Eet](the-fallen-gnome-kingdom.md), three thousand years into its
 decline, and took what was left.
 
+By then the inland country was all but empty. Three thousand years of the
+[blight from the graves](the-fallen-gnome-kingdom.md) had emptied the
+[túatha](the-fallen-gnome-kingdom.md) one by one, and [Copaa](nila-atlas.md) — the
+lake-town directly downstream of the poisoned mountain — had emptied first, and longest
+ago. The Mughals came down through empty towns and met **no resistance until the river
+crossing**, where **Siyavash**, the founder's eldest son, drowned in a flood at the ford
+(below). The gnomes who still held were on the water: the river line, and
+**[Sker](nila-atlas.md)** at the mouth, the last túath to fall — taken when the Mughals
+diverted the river to break the siege (the realm on the map, below).
+
 ## Sultan Mihran, called the Tiger
 
 The founder. He led the people over the mountains and took the gnome country by
