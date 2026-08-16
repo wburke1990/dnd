@@ -142,14 +142,16 @@ would. At the bridgehead is the Mughal **necropolis**, where the
 dynasty carried its dead to lie beside the first of them. The Company's road up to the
 mine crosses the bridge now, past the tombs; the ore goes down by water.
 
-**The two ports, and the two canals.** The **river no longer reaches the sea** — the
-coast rose at a comet-pass and the water drew back, leaving the river to peter out inland
-in silt and marsh. `[proposed]` Its old mouth is **[Sker](nila-atlas.md)**, the ruined
-port of the [gnome kingdom](the-fallen-gnome-kingdom.md), stranded now well short of the
-water. So the last miles to the coast are cut by **canal** — the Mughals dug one to
-**Aal**, the Company later dug its own to **Aar**. Both run **dead straight, with a paved
-towpath down one bank**: the current carries the loaded barges down, and teams of
-**donkeys on the towpath haul the empty ones back up.**
+**The two ports, and the two canals.** The **river no longer reaches the sea.** The
+Mughals **diverted it during their siege of [Sker](nila-atlas.md)** — the gnome river-mouth
+port-city, the last of the [gnome túatha](the-fallen-gnome-kingdom.md) to hold out — cutting off its water to take it,
+and it never ran to the sea again: the capital **[Haagen](nila-atlas.md)'s fields draw
+down what is left**, so the river peters out inland in silt and marsh. Sker stands
+stranded well short of the water now, its quays dry. So the last miles to the coast are
+cut by **canal** — the Mughals dug one to **Aal**, the Company later dug its own to
+**Aar**. Both run **straight, with a paved towpath down one bank**: the current carries
+the loaded barges down, and teams of **donkeys on the towpath haul the empty ones back
+up.**
 
 - **[Aal](nila-atlas.md)** — the old capital's port, reached by a **Mughal canal** cut
   from the river. Busy in the empire's day; the canal silts now, and the port has

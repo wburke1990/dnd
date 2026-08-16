@@ -228,11 +228,12 @@ mainland, not Mukka.)*
 > down the Company's canal to the port at **Aar.** The town has a **tavern (the Ore Scale)** and an
 > **inn (the Aar Road Inn).** See [Copaa](copaa.md) for the full writeup.
 
-> **Sker `[new]`.** The river's **old** mouth. The river no longer reaches the sea — the
-> coast rose at a comet-pass and the water drew back `[proposed]` — so Sker, the ruined
-> port of the [gnome kingdom](the-fallen-gnome-kingdom.md), stands stranded inland. The
-> last miles to the coast are cut by canal instead (the Mughal layer, below).
-> `[coord — David: the old river mouth, now inland]`
+> **Sker `[new]`.** The river's **old** mouth. A gnome **túath** — the river-mouth
+> port-city, the last to fall to the Mughals, taken when they **diverted the river during
+> the siege.** The river never reached the sea again (Haagen's fields draw down what is
+> left), so Sker, the ruined port of the [gnome túatha](the-fallen-gnome-kingdom.md),
+> stands stranded inland. The last miles to the coast are cut by canal instead (the Mughal
+> layer, below). `[coord — David: the old river mouth, now inland]`
 
 > **The Mughal layer (SE) `[brainstorm]`.** The [middle empire](the-mughal-founding.md)
 > held this region ~900–200 ya; its ruins lie under the Company's. **Haagen** was the

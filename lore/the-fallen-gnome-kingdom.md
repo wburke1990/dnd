@@ -24,6 +24,14 @@
   [Sarric's](../characters/sarric.md) living people are the southern body. The same
   ground at Haals was taken twice: the gnome conquest, then the [Company's mine](../encounters/the-haals-runoff.md)
   cutting back into the Firbolg graves — his people killed, then dug up.
+- **The túatha — many small kingdoms.** `[Will 8/16]` The gnomes never built an empire. After
+  the conquest they settled as **many small city-kingdoms — túatha — each under its own
+  petty king**, scattered across [Suartleheim Eet](nila-atlas.md), sharing the one
+  founding prophet and faith but no crown over them all. That is the Little People in
+  scattered kingdoms, not a great power — and it is why the Mughals could take them **one
+  at a time** rather than in a single war. [Raand](nila-atlas.md) was one such city and
+  the only one still standing; [Sker](nila-atlas.md), the river-mouth port, was the last
+  to fall (below).
 
 > **Inspirations (real-world anchors — keep for reference).** The **Fir Bolg** of the Irish
 > *Book of Invasions* (an earlier people displaced by later waves); **Neanderthal replacement**
@@ -37,19 +45,25 @@
 > the giants' emptied halls — inheritance where Eet is conquest.
 >
 > **The full Book-of-Invasions mapping:** **Fir Bolg → Firbolgs, Tuatha Dé
-> Danann → gnomes, Milesians → Mughals, the English → the Company.** The gnomes' slow ruin is the
+> Danann → gnomes, Milesians → Mughals, the English → the Company.** The gnomes take the
+> Tuatha Dé's *later* folk identity, not the epic one — in the medieval texts the Tuatha
+> are tall god-warriors, but after their defeat by the Milesians they withdraw into the **sídhe**
+> (the fairy mounds — our [Raand](nila-atlas.md)) and dwindle over centuries into the
+> **aos sí**, the fairies, the Little People of the hills. Their political form is the
+> Irish **túath**: pre-conquest Ireland was ~150 small kingdoms, each a petty king, never
+> one realm — which is why the gnomes are scattered city-kingdoms, not an empire. The gnomes' slow ruin is the
 > **Fomorian blight** (famine out of the earth); the Mughals' coming is **Babur** — driven across
 > the mountains by war, seizing a weakened realm; the Company's conquest draws on **both the Bengal
 > (1770) and Irish (1845) famines;** and the Bad Pass's **mini ice age** (a volcanic winter, the
 > Year Without a Summer) is what sets off the southern wars that send the Mughals north.
-- **A kingdom that fell — the blight from the graves.** `[Will 7/29; refined w/ Will; dated 8/15]`
-  The gnome kingdom rose after the conquest and prospered for **ten generations — about a thousand
+- **The túatha that fell — the blight from the graves.** `[Will 7/29; refined w/ Will; dated 8/15]`
+  The gnome túatha rose after the conquest and prospered together for **ten generations — about a thousand
   years, ~5,000 → ~4,000 ya**, a gnome generation running about a century. That is the span
   [Musa's vision covered](../encounters/the-mines-of-haals.md), and it is the whole of the
-  **Dark Age** when the kingdom was alone (below). At the end of it, ~4,000 ya, they broke the
+  **Dark Age** when the gnomes were alone (below). At the end of it, ~4,000 ya, they broke the
   **Haals taboo and dug too deep, breaking into the Firbolg graves.** The disturbed dead poisoned
-  the ground: a slow famine, harvests failing over generations, until the kingdom emptied — no
-  battle; the digging starts it and the famine finishes it. From ~4,000 ya the kingdom is a
+  the ground: a slow famine, harvests failing over generations, until the towns emptied — no
+  battle; the digging starts it and the famine finishes it. From ~4,000 ya the gnome country is a
   withering neighbour on poisoned ground while
   [Maalm](maalm-the-elven-stronghold.md) next door grows rich — three thousand years of decline,
   not a late collapse. By the time the Mughals cross the mountains there is little left to take.
@@ -57,9 +71,9 @@
   a **Fomorian** kin to the Firbolg — the source of the mountain's **time magic**, a separate thing
   from the graves' poison.) Then **~1,000 ya the [Bad Pass](world-history-timeline.md) caused a mini
   ice age** across the world, and its cold set off **wars in the south** that drove the **Mughals**
-  north across the mountains; they took the famine-weakened kingdom (the Milesian conquest of the
-  exhausted Tuatha Dé), and the surviving gnomes fell back into the hills, to
-  **[Raand](nila-atlas.md)** (the sidhe). The Mughals held the kingdom through the **long middle age (~1,000 → ~200 ya)**
+  north across the mountains; they took the famine-weakened túatha **one at a time** (the Milesian
+  conquest of the exhausted Tuatha Dé), and the surviving gnomes fell back into the hills, to
+  **[Raand](nila-atlas.md)** (the sidhe). The Mughals held the country through the **long middle age (~1,000 → ~200 ya)**
   until the **[Company](the-company.md)** took it ~200 ya — a trading power that made itself the ruler
   and caused famine. The [Company's mine](../encounters/the-haals-runoff.md) cuts back into the same graves. So the
   party finds poor towns on worn-out soil, a poisoned watershed, and a people no longer ruling
@@ -67,7 +81,7 @@
 - **The middle empire — the Mughals.** `[Will 7/29]` **Babur's people:** driven from their southern
   homeland by the wars the [Bad Pass's mini ice age](world-history-timeline.md) set off (~1,000 ya).
   Those wars took generations to run, so the crossing itself falls a little later, **~900 ya** — they
-  crossed the southern mountains and conquered the famine-weakened gnome kingdom —
+  crossed the southern mountains and conquered the famine-weakened gnome túatha one at a time —
   refugee-conquerors, the same story as the gnomes one wave before. They built the **Mughals** —
   Persianate, Islamic, Timurid splendour of courts, gardens, and artisans (the exact historical name,
   as with the [East India Company](the-company.md) that undoes them). They kept the Haals taboo and
@@ -79,15 +93,18 @@
   his sons — is in [**The Mughal Founding**](the-mughal-founding.md). `[OPEN]` note that the Norse
   "Suartleheim" is an outsiders' exonym, not the Mughals' own name for the realm.
 - **Raand — the remnant.** `[Will 7/29]` The **artisan gnomes at [Raand](nila-atlas.md)** are the
-  **one gnome city that survived all of it** — their own kingdom's fall, the middle civilization, and
+  **one túath that survived all of it** — the fall of the rest, the middle civilization, and
   into the Company's age: the surviving heirs, reduced to a single trade village, half cut off by the
-  currents, running goods overland to Haagen. The kingdom is now one village of craftsmen.
-- **Sker — the stranded port.** `[Will 8/16]` The gnome kingdom's **river-mouth port**, where the
-  river once met the sea. The **river no longer reaches the sea** — the coast rose at a comet-pass and
-  the water drew back — so **[Sker](nila-atlas.md)** stands stranded inland now, its quays and
-  breakwater dry, well short of the water. The Mughals and the Company after them cut **canals** the
-  last miles to the coast rather than dredge the old channel (the [Mughal ports Aal and
-  Aar](the-mughal-founding.md)). Gnome stonework under Mughal and Company patching.
+  currents, running goods overland to Haagen. The gnome country is now one village of craftsmen.
+- **Sker — the stranded port.** `[Will 8/16]` A gnome **túath** in its own right — the
+  **river-mouth port-city**, where the river met the sea and the country's trade went out. It
+  was the **last of the túatha to fall**: the Mughals took it by **diverting the river during
+  the siege**, cutting off its harbour water. The river never reached the sea again — the Mughal
+  capital [Haagen](nila-atlas.md)'s fields draw down what is left, so it peters out inland.
+  **[Sker](nila-atlas.md)** stands stranded now, its quays and breakwater dry, well short of the
+  water. The Mughals and the Company after them cut **canals** the last miles to the coast rather
+  than restore the old channel (the [Mughal ports Aal and Aar](the-mughal-founding.md)). Gnome
+  stonework under Mughal and Company patching.
 - **Copaa — the poisoned town.** The [Company's mine runoff at Haals](../encounters/the-haals-runoff.md)
   poisons **[Copaa](nila-atlas.md)'s** river and fields, and its people are driven out — the
   [lepers in the tombs](../encounters/valley-of-the-kings.md), **later settlers of the Mughal and
