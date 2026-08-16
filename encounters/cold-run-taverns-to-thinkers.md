@@ -175,10 +175,29 @@ keep it light.
   **Company ground**, good for: resupply, dockside rumor about the **Sacred Hunt**
   ahead (once a year, the only way into the preserve — the crews are converging), and
   a Company/leper thread if the party pull on Jogo's story. Don't force a scene.
-- **Aal** — treat as an ordinary coastal port off David's map (resupply + a rumor);
-  no fixed prep, so run it as flavor and a chance to rest.
+  - **What David sees:** a new boomtown — raw timber wharves, Company sheds, ore-dust
+    on everything, more work than buildings. A **canal runs dead straight inland** from
+    the basin (below). Loud, cheap, thrown up in the last two hundred years.
+- **Aal** — the **old Mughal port**, up the coast to the northwest. Where Aar is new, Aal
+  is **old and going quiet**: cut stone, a silting harbour, half the berths empty since
+  the Company took the ore-trade to Aar. Its own **canal runs inland** too, older and
+  weed-grown. Resupply + a rumor; a chance to rest.
+  - **The half-orc quarter.** Aal has a quarter of **half-orcs** — Norse blood and old
+    sea-names, the Mughals' tongue and faith, a small **mosque** among the boat-sheds.
+    They are the descendants of Norse raiders a Sultan bought off with land in the
+    raiding age and set to guard the harbour mouth; they settled and became locals. The
+    **Sultan's grant** is cut in stone at the quarter's edge. **Not** the recent
+    refugees of Annibel's war — old settled blood. (Full history:
+    [the Mughal founding](../lore/the-mughal-founding.md).)
 
-Keep this short — it's a breath between the tavern and the storm, not a set-piece.
+**The canals — describe them at either port.** The **river no longer reaches the
+sea** (the coast rose long ago and the water drew back), so the last miles are cut by
+**canal** — dead straight, a **paved towpath down one bank.** Loaded barges ride the
+current down to the sea; on the towpath, **donkey-teams haul the empty ones back up,**
+one string after another. The Mughals dug the canal to Aal; the Company dug its own to
+Aar.
+
+Keep this short — it's a short stop between the tavern and the storm, not a set-piece.
 
 ---
 
@@ -220,6 +239,30 @@ The party said they might go **inland to Copaa** instead of sailing on to Brauro
 **Aar road**: Aar → **Copaa** (on the lake) → **Haals** beyond it, up the river. Copaa
 is the poisoned river, the leprosy tomatoes, and the tomb-lepers from S10 — the party
 can follow Jogo's story here.
+
+**What each site looks like, in travel order** (older stonework sits under newer the
+whole way in; full lore in [the Mughal founding](../lore/the-mughal-founding.md)):
+
+- **Up the canal from Aar.** They leave the boomtown along the **canal** — dead
+  straight, a **paved towpath down one bank**, loaded barges riding the current down to
+  the port while **donkey-teams haul the empty ones back up** the towpath. The Company
+  cut it two hundred years ago.
+- **Sker — the stranded port.** Where the canal meets the old river channel stand
+  **dry stone quays and a breakwater, well short of any water**, standing in reeds.
+  Gnome stonework, older than anything Mughal or Company — this was the **river's mouth**
+  once, before the sea drew back and left it inland.
+- **Copaa — the ore-town on the lake.** An **old-west ore town**: a landing where the
+  Haals ore comes down the river, a tavern, an inn. The river runs fouled and the fields
+  carry the leprosy (S10). The party can follow Jogo's story here.
+- **The bridge and the necropolis.** The **Copaa → Haals** road crosses the river at a
+  **Mughal bridge**, built over the ford where the founder's eldest son drowned in the
+  crossing. At the bridgehead stand the **Mughal tombs**, the dynasty's dead carried here
+  to lie by the first of them. The Company's ore-road runs over the bridge and past the
+  tombs now.
+- **Haagen — the old capital, across the river.** Off to the northwest, over the water,
+  the **old Mughal capital**: a ruined citadel, a great mosque, and the founder's
+  garden-tomb, all in ruin among a town still lived in. A river crossing to reach it —
+  which is why the capital sat there. A glimpse from the road, or a side-trip.
 
 **As they walk, show the time-travel myths.** The buried giant **Balor** under Haals
 is a source of time magic, and it shows along the road in people who fell out of their
