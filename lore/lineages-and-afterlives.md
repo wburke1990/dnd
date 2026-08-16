@@ -166,47 +166,63 @@ thousand years ago.
 
 ### The covenant with the dragons `[loose — Will 8/16, proposed]`
 
-**What if that operation was agreed to?** The dragon people tell it as a
-**covenant** — a bargain struck between the primordial dragon-ancestor and the
-earth stock it remade, in the Genesis register that
-[Musa](../encounters/the-mines-of-haals.md) already speaks.
+`[Will 8/16]` The dragons run **two agreements**. Between them they explain where
+sky-judgment comes from, what the demons are doing, and why every tomb in the
+campaign has something in it.
 
-- **The promise.** You will be kept. Judged in the sky, your deeds recorded,
-  your name spoken in the halls of your ancestors — you persist as *yourself*,
-  forever, instead of dissolving back into the common stock.
-- **The sign in the flesh.** The scales. Being dragon-people **is** the mark of
-  the covenant, cut into the body, in the shape of Genesis 17: *"and my covenant
-  shall be in your flesh for an everlasting covenant."* Every dragonborn,
-  every one of Preem's stock, carries the token of it without ever having been
-  asked.
-- **The price, which is not written down anywhere.** A thing that persists as
-  itself is a thing with a name, and a name is a key. **The covenant is the
-  origin of every leash in the world.** Preem's business, the Order's rites, the
-  whole name-hunt — all of it is downstream of one bargain.
-- **The token in the sky (Genesis 9).** *"I do set my bow in the cloud, and it
-  shall be a token of a covenant."* Here that is the **comet.** The sign of the
-  promise and the destroyer of the world are the same object, and it comes back.
+**1. With mortals — eternal life, for submitting to judgment.** Pledge yourself
+to one of the dragon religions and **agree to be judged by it**, and your soul is
+kept forever. That is §4's sky-judgment restated as a bargain, and two things
+follow from it. It is **not inherited** — it is pledged, by each person, so it can
+be declined, and it can be offered to someone outside. And **the price is
+jurisdiction**: you accept a court's authority over your soul. Agreeing to be held
+to account is agreeing to be *held*. **This is where a soul that can be owned
+comes from, and so the origin of every leash in the world.**
+
+**2. With the demons — service, for grave goods and life.** The eternity the first
+agreement promises has to be *run* by someone, and the demons do the labour. Their
+wages are the **grave goods buried with the dead**, and the service is what keeps
+them in existence. The [Egyptian material](egyptian-afterlife-mythology.md) has
+been sitting there waiting to be read this way: **the ushabti** — figurines put in
+the tomb to perform labour for the dead — are the demons, and everything in the
+tomb with them is what they are being paid.
+
+> **So every tomb the party opens is a demon's unpaid wages.** And
+> [Preem](../characters/preem.md) is doing something worse than slaving. He takes
+> demon service by name-binding, which cuts the dragons out of their own
+> arrangement and takes the labour without the goods that were meant to buy it —
+> the dragons' system run without the dragons and without paying. The party have
+> been robbing the payment and carrying home the names that make the theft work.
+
+**The token in the sky (Genesis 9).** *"I do set my bow in the cloud, and it shall
+be a token of a covenant."* Here the thing set in the sky is **the comet**, so the
+sign of the promise and the destroyer of the world are one object, and it comes
+back.
 
 **Why this is worth having.** The [campaign's thesis](campaign-overview.md) is
-that transformation is a violation because it is done *to* people without
-consent. The covenant is the one transformation that was **consented to** — and
-it is still the source of everything the party is fighting. So it puts the
-harder question underneath the easy one: consent was given once, by people five
-thousand years dead, and the mark is cut into everyone born since. That is
-[Aniess's situation](../characters/aniess.md) — a rite done to her, the reroute
-without the belonging — pushed back to the beginning and made into scripture.
+that transformation is a violation because it is done *to* people without consent.
+This is the one that was **consented to**, and it is still the source of
+everything the party is fighting. The easy question is whether you may remake
+someone who did not agree. The hard one underneath is what agreeing was worth,
+given what was on the other side of it.
 
-**What it changes at the table.** Musa stops being a man with opinions about
-death and becomes a man with **terms**. [Blackacre](../characters/blackacre.md)
-is a covenant-holder not keeping his side, which is what *"power never used is
-power no longer"* has been reaching for all along.
-And [Sarric](../characters/sarric.md) is not damned — he is simply **not party to
-it**, which Musa cannot tell apart from damnation.
+**What it changes at the table.** Musa stops being a man with opinions about death
+and becomes a man with **terms**. [Blackacre](../characters/blackacre.md) is a
+covenant-holder not keeping his side, which is what *"power never used is power no
+longer"* has been reaching for. And because the pledge is a choice and not a
+birthright, **Musa can offer it to [Sarric](../characters/sarric.md)** — the
+conqueror-prophet offering salvation to a man of the people he is on his way to
+destroy.
 
-`[OPEN]` Whether the covenant is **true** (a bargain that happened) or **a story
-the dragon people tell about a thing that was done to them**. Both play; the
-second is crueller and fits the campaign better, and means the sign in the flesh
-is a scar someone later called a signature.
+`[OPEN]` **Can one of the nameless pledge at all?** Either there is nothing
+persistent in him for a court to keep, so the offer is empty and Musa does not
+know it — or it works, and a Firbolg can buy eternity at the price of becoming the
+kind of thing that can be owned. The second is a real and terrible choice to put
+in front of Jeremy; the first is a quieter and sadder scene. Settle it before
+running the mine, because Musa makes the offer either way.
+
+`[OPEN]` Whether the covenant **happened**, or is a story the dragon people tell
+about a thing that was done to them. The second is crueller and fits better.
 
 **What survives is memory, not the person.** A soul cut from cloth that was
 other people carries their residue — scraps of lives reaching back thousands
