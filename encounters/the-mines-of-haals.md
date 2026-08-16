@@ -413,11 +413,14 @@ the singers do not worship the old gods, they become them, which is how he answe
 called one); and **a thousand years are a moment, and through such gates the past can be
 looked into**, which is the descent itself.
 
-**Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md), placement
-now assigned to him. A thing that has lain in the dark since before record, sleeping a
-*dreamless, uninvaded* sleep, rising once at the end of the world to be seen and to die.
-Supplies his sleep, his single waking, and the fact that his own unmaking sits inside
-the unmaking of everything.
+**Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md). A thing
+that has lain in the dark since before record, sleeping a *dreamless, uninvaded* sleep,
+rising once at the end of the world to be seen and to die. It supplies his sleep, his
+single waking, and the fact that his own unmaking sits inside the unmaking of
+everything. **The poem is not read in the mine** — nothing there would prompt it. He
+says the two lines above in his own words, and the party finds the poem somewhere else
+entirely, before or after, and can make of it what they like. It also still works as a
+literal sea-beast; the handout keeps both open.
 
 **The Bhagavad Gita XI — Krishna's theophany.** The god who is time, come to take the
 world back, telling Arjuna the men opposite are dead already and he is only the hand.
@@ -439,11 +442,6 @@ answers.
 **Grímnismál, on Ymir.** Of the first giant's flesh the earth, of his bones the hills —
 canon already has the mountains as the giant dead
 ([lineages](../lore/lineages-and-afterlives.md)).
-
-**Vafthrúdnismál.** A giant answers every question put to him until the last, which he
-cannot answer, and losing kills him. If the party ever wants leverage, the myth says the
-winning question is the one only the asker could know the answer to. `[unused — no line
-written for this; it is something the party could do, not something he says.]`
 
 **Balor's own myth — *Cath Maige Tuired*.** Told his daughter's son would kill him, he
 locked her in a tower, and that is how the grandson came to be. His biography is the

@@ -2,7 +2,9 @@
 
 *A beast asleep in the deep sea that rises once, at the end of the world, and dies on the surface.*
 
-*`[draft 8/15]` **Placed — this is [Balor](../encounters/the-mines-of-haals.md)**, the Fomorian asleep under Haals. The poem gives him his dreamless and uninvaded sleep, the ages he has already lain there and will go on lying there, and the single waking at the latter fire in which he rises, is seen once, and dies. That last part settles something the scene needed: when he says he will unmake all of his creation, his own end is inside it. Read it out at the bottom of the mine, or leave it as a text the party finds elsewhere and only recognises later.*
+*`[loose 8/15]` **It describes [Balor](../encounters/the-mines-of-haals.md)** — the Fomorian asleep under Haals: the dreamless and uninvaded sleep, the ages already lain there and still to lie there, and the single waking at the latter fire in which he rises, is seen once, and dies. Balor says as much in his own words at the bottom of the mine, so a party that has met him can recognise him here.*
+
+*But this is **not read out in the mine** — there is nothing down there to prompt it. It stays a text found somewhere else, before or after, and the party makes of it what they like. **Placement stays open**, and a literal kraken remains available; the description fitting Balor does not spend the poem on him.*
 
 *Real-world source: Alfred, Lord Tennyson (1809–1892), "The Kraken" (1830). Verbatim, line breaks preserved.*
 
