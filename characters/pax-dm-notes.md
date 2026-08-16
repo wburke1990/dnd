@@ -43,8 +43,8 @@ Two things to hold to:
   has his people's word for it and offers it flatly; the Green Revelation is Pax's word
   for the same nights.
 - **Let it work.** He acts on the reading and the reading gets him to the right place —
-  the mountain is being desecrated and something is wrong with it. Being right about what
-  to do is what makes being wrong about why hard to see.
+  the mountain is being dug into and something is wrong with it. He is right about what to
+  do, which makes it harder to notice he is wrong about why.
 
 ---
 

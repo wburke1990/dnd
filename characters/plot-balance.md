@@ -13,7 +13,7 @@ Status uses the frontmatter vocabulary — `played`, `ready`, `draft`, `idea` �
 **unwritten** for a thread that exists in a character file and has no scene written for
 it anywhere.
 
-Rebuild this by hand when a thread lands. It is not generated.
+Rebuild this by hand when a thread is run. It is not generated.
 
 ---
 
@@ -27,7 +27,7 @@ Rebuild this by hand when a thread lands. It is not generated.
 | Sea lore is his to invent; sailing and storms run off his boat | [floating fleet](../world/the-sea/lore/floating-fleet.md), [sailing and storms](../world/the-sea/lore/sailing-and-storms.md) | `reference`, standing |
 | First dragonborn-to-dragonborn meeting on the Maalm docks | [blackacre](blackacre.md) hook 3 | **unwritten** |
 | Watch-stones on the sea-roads, and finishing Idris's labor | [wandering dragonborn](../world/the-sea/lore/wandering-dragonborn.md) | `reference`, no scene written |
-| Musa at Haals — his own kinsman, the covenant in the flesh, *"power never used is power no longer"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
+| Musa at Haals — his own kinsman; the covenant cut into his scales; *"power never used is power no longer"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
 | Sayid, the fleet revolt, and the recognition rule | [blackacre](blackacre.md) | **unwritten** |
 | Jotunheim — the zealot/nomad rift, Arishat, the bride and the trials | [jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md), [lonka jotunheim](../world/lonka/lore/lonka-jotunheim.md) | `draft` |
 | The fleet offer at ~level 20, and what happens to Moku | [blackacre dm notes](blackacre-dm-notes.md) | `draft`, endgame |
@@ -61,10 +61,10 @@ Rebuild this by hand when a thread lands. It is not generated.
 | The dreams at Haals, which he reads as the Green Revelation | [pax dm notes](pax-dm-notes.md), [the haals runoff](../world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) §2 | `ready` |
 | Balor calls him nephew; Musa asks what his father's people sent him down for | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
 | He is run as the stag in the man-hunt | [the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md) | `draft` |
-| Dumuzi played as an echo of him | [the descent of inanna](../world/musleheim/encounters/the-descent-of-inanna.md) | `ready` |
+| Dumuzi played with Pax's traits | [the descent of inanna](../world/musleheim/encounters/the-descent-of-inanna.md) | `ready` |
 | Learning the rite, and smaller versions of the choice | [before jotunheim](../world/lonka/encounters/before-jotunheim.md) | `draft` |
 | Freeing the ash and the elm from their names — Andrew speaks the rite | [jotunheim trees rite](../world/lonka/encounters/jotunheim-trees-rite.md), [askr and embla](../world/lonka/lore/askr-and-embla.md) | `draft` |
-| Vael as his late-game mirror | [the second foundation](../world/nila/lore/the-second-foundation.md) | `reference` |
+| Vael, written against Pax for late in the campaign | [the second foundation](../world/nila/lore/the-second-foundation.md) | `reference` |
 | Ilyra, Tovin and Fenrick, from the monastery | [ilyra mosswake](ilyra-mosswake.md), [tovin reedhand](tovin-reedhand.md), [fenrick mottle](fenrick-mottle.md) | `reference`, no scene written |
 
 ## Jasper (Doug)
@@ -87,7 +87,7 @@ Rebuild this by hand when a thread lands. It is not generated.
 |---|---|---|
 | The bowl takes the memory of a night with her friends | [aniess](aniess.md), [session 08](../sessions/session-08.md) | `played` |
 | Confession in the Hall of Two Truths | [session 09](../sessions/session-09.md) | `played` |
-| Default capture target of the akhekh, whose remaking rhymes with hers | [akhekh road ambush](../world/suartleheim-eet/maalm/encounters/akhekh-road-ambush.md) | `played` |
+| Default capture target of the akhekh, which was remade as she was | [akhekh road ambush](../world/suartleheim-eet/maalm/encounters/akhekh-road-ambush.md) | `played` |
 | V. plants a note on her | [v second contact](../world/suartleheim-eet/maalm/encounters/v-second-contact.md) | `played` |
 | Musa: *"You have been changed. Who holds the name you had before?"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft`, one line |
 | Intercepting Shepard and delivering him to Kuru | [shepard](shepard.md), [aniess](aniess.md) | **unwritten** as a scene |
@@ -127,8 +127,8 @@ Own threads only, ensemble scenes excluded.
 
 - **Jasper and Aniess have nothing of their own coming up.** Every Jasper and Aniess
   entry above that is not `played` is either a single line inside somebody else's scene
-  or a fact nobody has staged yet. Sarric, Pax and Blackacre each carry a region:
-  Sarric and Pax carry Haals, Pax and Blackacre carry Jotunheim.
+  or a fact nobody has staged yet. Sarric and Pax both have threads at Haals; Pax and
+  Blackacre both have threads at Jotunheim.
 - **Aniess's stated goal has no scene.** Intercepting Shepard is why Greg's character is
   in the party at all, and there is no encounter file for it anywhere. Preem's other crew
   is escorting Shepard right now.
@@ -136,7 +136,7 @@ Own threads only, ensemble scenes excluded.
   Company town, and no encounter goes there.
 - **Two of Aniess's backstory NPCs still have `[PLACEHOLDER NAME]`** — the warforged
   trainer and the handler, the two figures she has known longest.
-- **Blackacre's antagonist has never appeared.** Sayid is the emotional center of that
-  arc and exists only on the sheet.
+- **Blackacre's antagonist has never appeared.** Sayid drives that arc and exists only on
+  the sheet.
 - The Brauron arc that is `next` gives Pax the stag hunt, Sarric the bee-priestesses and
   Jasper the hell-tree ruling; it gives Aniess and Blackacre nothing keyed to them.
