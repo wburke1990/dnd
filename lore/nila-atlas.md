@@ -50,6 +50,10 @@ both axes. Use the numbers for bearings; don't treat them as distances-to-scale.
 | **Suartleheim Weet** | 25, 93 | SW (bottom-left) |
 | **Suartleheim Eet** | 85, 94 | SE (bottom-right) — **Maalm's region** |
 
+> **Note — Moku and Noku Kurunatuka are two different islands, not a spelling drift.**
+> Moku (47, 82) is the center-south island chain; Noku (63, 77) sits SE of Musleheim
+> across the strait. Both spellings are correct — do **not** "fix" one to the other.
+
 ---
 
 ## Settlements by landmass
