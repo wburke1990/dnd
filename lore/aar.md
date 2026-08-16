@@ -40,11 +40,20 @@ them here by sea; they made landfall on this harbour and took the country from t
 [Firbolgs](../encounters/the-mines-of-haals.md) by holy war, the land promised them by their
 god. Musa set a **watch-stone** — a *massebah* — over the harbour. It still stands.
 
-Two things are cut into it. One face carries what the prophet saw of the country to come —
-his **[vision of the land](../handouts/locksley-hall-vision.md)** (Tennyson). Beside it is
-the **[lament for Kalikhat](../handouts/into-my-heart-an-air-that-kills.md)** (Housman), the
-home they left to come here. The Company built its wharves around the stone and works past
-it.
+Four inscriptions are cut into it — three of Musa's prophecies and the gnomes' lament. Hand
+them over as printed handouts, no check, no scene (the
+[cold-run packet](../encounters/cold-run-taverns-to-thinkers.md) §5):
+
+- **[The vision of the land to come](../handouts/locksley-hall-vision.md)** (Tennyson) —
+  Musa's founding prophecy, the country the gnomes would take.
+- **[A prophecy already come true](../handouts/the-second-coming.md)** (Yeats) — the desert
+  beast that woke and was ended.
+- **[His last vision, still ahead](../handouts/revelation-6-pale-horse.md)** (Revelation) —
+  the coming comet-pass.
+- **[The lament for Kalikhat](../handouts/into-my-heart-an-air-that-kills.md)** (Housman) —
+  the gnomes' grief for the home they fled.
+
+The Company built its wharves around the stone and works past it.
 
 `[run]` The watch-stone stands over whichever port the party lands at. If they put in at
 Aal instead of Aar, it stands there — only ever the one.
@@ -57,15 +66,6 @@ pilgrims working up the coast toward Brauron — and many pass through Aar and d
 waterfront while they wait on a boat north. Rival crews, boasts, the odd fight; a party can
 pick up here where the Hunt stands and how to sign on. The Hunt itself is
 [the game preserve](../encounters/the-game-preserve.md).
-
-## The lepers at the water `[loose]`
-
-Aar is below [Copaa](copaa.md), and it is where the sick are kept off the boats. The
-[tomb-lepers](../encounters/valley-of-the-kings.md) came from the poisoned river up at Copaa
-— the ones the bad water and the boxed tomatoes drove out (S10). The ones who reach the
-coast find the Company turns them back at the water: a leper does not board an outbound
-barge. A party on the docks can meet one trying to get out by sea, or stopped at it — a
-thread into the tomb-lepers' story and the [Company](the-company.md).
 
 ## Aal — the old port to the north `[loose]`
 

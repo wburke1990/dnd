@@ -12,12 +12,14 @@
   war**, the land promised them by their god and its people killed — the region's founding faith, and
   the killing it sanctified. His **watch-stone** — a *massebah* — stands over the harbour where the
   gnomes first came ashore: the coast that is now **[Aar](nila-atlas.md) and [Aal](nila-atlas.md)**,
-  two small túatha of their own. It carries his [Vision of the Future](../handouts/locksley-hall-vision.md)
-  (Tennyson), and beside it the gnomes'
-  [lament for lost Kalikhat](../handouts/into-my-heart-an-air-that-kills.md) (Housman) — a people
-  grieving the home they fled, on the ground they took. `[run]` For the party it stands over
-  whichever port they land at (the port writeup is [Aar](aar.md)'s; if they land at Aal, swap it
-  wholesale into Aar's role, only ever the one).
+  two small túatha of their own. It carries **four inscriptions** — three of Musa's prophecies
+  and the gnomes' lament: his [Vision of the Future](../handouts/locksley-hall-vision.md)
+  (Tennyson), the founding prophecy; [a prophecy already come true](../handouts/the-second-coming.md)
+  (Yeats), the desert beast that woke and was ended; his [last vision, still ahead](../handouts/revelation-6-pale-horse.md)
+  (Revelation), the coming comet-pass; and the [lament for lost Kalikhat](../handouts/into-my-heart-an-air-that-kills.md)
+  (Housman), a people grieving the home they fled, on the ground they took. `[run]` For the party
+  it stands over whichever port they land at (the port writeup is [Aar](aar.md)'s; if they land at
+  Aal, swap it wholesale into Aar's role, only ever the one).
 - **The Firbolgs were here first.** The [handprints in La Cava](../encounters/temple-sites.md) at
   Haals are **theirs**, older than the gnomes — [Sarric's people](../characters/sarric.md), the
   earth-kin, the older race the gnomes replaced. Survivors were killed, absorbed, or driven
