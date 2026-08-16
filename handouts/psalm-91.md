@@ -1,6 +1,6 @@
 # Psalm 91 — (Player Handout)
 
-*A saved scripture for the campaign. Candidate incantation for **Forbiddance** — a warded sanctuary — see [docs/spells-as-poems.md](../docs/spells-as-poems.md). The images are the ward: refuge and fortress, shield and buckler, the terror by night and the arrow by day passing over, angels set to guard the ground. Verse 13's "tread upon the lion and adder: the young lion and the dragon shalt thou trample" rhymes with the Gate One serpent and Ammit ([the Dream Quest](../encounters/the-dream-quest.md)); "he hath known my name" touches the names thread — protection through a name, the inverse of binding by one. Verbatim (King James Version); line breaks set for reading.*
+*A saved scripture for the campaign. Candidate incantation for **Forbiddance** — a warded sanctuary — see [docs/spells-as-poems.md](../world/nila/lore/spells-as-poems.md). The images are the ward: refuge and fortress, shield and buckler, the terror by night and the arrow by day passing over, angels set to guard the ground. Verse 13's "tread upon the lion and adder: the young lion and the dragon shalt thou trample" rhymes with the Gate One serpent and Ammit ([the Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)); "he hath known my name" touches the names thread — protection through a name, the inverse of binding by one. Verbatim (King James Version); line breaks set for reading.*
 
 *Real-world source: Psalm 91, "He that dwelleth in the secret place of the most High" (King James Version).*
 

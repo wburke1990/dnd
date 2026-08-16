@@ -2,7 +2,7 @@
 ## The al Qahtani house, the Blue Veil cast, and the crossing as far as the offering bowl
 
 > Logged from a table recap. Ran close to the prep —
-> [The Dream Quest](../encounters/the-dream-quest.md). **David was back
+> [The Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md). **David was back
 > co-DMing** (he'd cancelled for [Session 7](session-07.md)). The dream is
 > **split across two sessions**: it stops at the offering bowl and picks up
 > next session at **Gate Five.**
@@ -88,7 +88,7 @@ The dream stopped here. **Next session picks up at Gate Five.**
 - **Blackacre gave up his charts — his "freedom of the seas."** Prep hook off
   that offering: **the next time the party sails, they get attacked** — pirates
   or a patrol. Ties into the **docks departure tomorrow 9 AM**
-  ([Departure Under Fire](../encounters/docks-departure.md)).
+  ([Departure Under Fire](../world/suartleheim-eet/maalm/encounters/docks-departure.md)).
 - **Sarric and Jasper failed the Gate One save.** The serpent flagged something
   in each of them that didn't belong. **It already paid off at Gate Three —
   Thoth greeted the two of them by name.** Per the prep, **Anubis notes those
@@ -103,7 +103,7 @@ The dream stopped here. **Next session picks up at Gate Five.**
   real wound on waking**, and to **turn back at the blue veil.** The prep's
   built rule is that taking damage **ends the spell and the sleeper wakes**,
   regaining consciousness with no wound
-  ([the Dream Quest](../encounters/the-dream-quest.md#overview)), and it keeps
+  ([the Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md#overview)), and it keeps
   the father's two sayings opaque. The table made the sayings explicit and made
   wounds **carry.** Nobody took damage this session (Pax passed his Gate Two
   save), so it wasn't tested — but **Gate Six (the fire) runs on it** next
@@ -121,7 +121,7 @@ The dream stopped here. **Next session picks up at Gate Five.**
       and components at cost, and the **small Anubis** if the rite lands).
 - [ ] **Sailing ambush armed.** Blackacre traded away his charts, so the next
       voyage gets jumped — pirates or a patrol. First chance is the
-      **docks at 9 AM tomorrow** ([Departure Under Fire](../encounters/docks-departure.md)).
+      **docks at 9 AM tomorrow** ([Departure Under Fire](../world/suartleheim-eet/maalm/encounters/docks-departure.md)).
 - [ ] **Aniess's lost memory** — recorded here; `[OPEN]` whether it goes on her
       sheet.
 - [ ] **Gate One flags** — Sarric and Jasper drew the serpent's attention; land

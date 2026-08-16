@@ -3,7 +3,7 @@
 *The creation teaching of the Verdant Fist, the monastery that raised Pax —
 "the body is a bridge between spirit and soil." In this world it is literal:
 Pax is a child of two lineages and will choose his own end. This is what he was
-raised on. See [lineages & afterlives](../lore/lineages-and-afterlives.md) §6.*
+raised on. See [lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §6.*
 
 ---
 

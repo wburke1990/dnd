@@ -4,7 +4,7 @@
 old!), still in the kiln** in a destroyed dragonborn temple on **Kuru**. A letter
 to the scattered tribes across the sea — "the twelve tribes… descended from a
 single father" reads, in this world, as the dragonborn diaspora descended from
-**Taniyn**, with **Lonka** as the homeland (see [world-history timeline](../lore/world-history-timeline.md)). Verbatim.*
+**Taniyn**, with **Lonka** as the homeland (see [world-history timeline](../world/nila/lore/world-history-timeline.md)). Verbatim.*
 
 *Real-world source: 2 Baruch (the Syriac Apocalypse of Baruch), the Epistle of
 Baruch to the Nine and a Half Tribes (chs. 77–78), with "Lonka" woven in.*

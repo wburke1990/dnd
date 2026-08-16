@@ -115,7 +115,7 @@ If you learn something worth remembering across sessions, add it here.
   the whole repo for the wrong form and correct every instance in the same
   commit — don't fix only the file you happened to be in, and don't raise
   it as a question. The canonical spelling is whichever the bulk of the
-  repo and the [nila atlas](lore/nila-atlas.md) use; if genuinely split
+  repo and the [nila atlas](world/nila/lore/nila-atlas.md) use; if genuinely split
   down the middle, pick the more common and say which you picked.
 
 #### House style for prose
@@ -504,11 +504,11 @@ otherwise slip in.
 - `bestiary/` — creature stat blocks & encounter tables (markdown)
 - `encounters/` — prepared set-piece encounters & scenes (markdown)
 - `characters/` — PC backstories & references (markdown + portraits)
-- `lore/` — worldbuilding (markdown). **Entry point: [`lore/campaign-overview.md`](lore/campaign-overview.md)**
+- `lore/` — worldbuilding (markdown). **Entry point: [`lore/campaign-overview.md`](world/nila/lore/campaign-overview.md)**
   — the top-level campaign design doc + index (goals, themes, the names-&-ownership
   thesis, DMing principles, and the running `[OPEN]` decisions). **Read it first for
   any campaign-content, worldbuilding, or brainstorming work.** Its companion
-  [`lore/world-history-timeline.md`](lore/world-history-timeline.md) is the full
+  [`lore/world-history-timeline.md`](world/nila/lore/world-history-timeline.md) is the full
   chronology.
 - `handouts/` — player-facing handout texts, kept verbatim (markdown)
 - `prompts/` — AI image-generation prompts, kept verbatim (markdown)

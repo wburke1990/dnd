@@ -4,8 +4,8 @@ The patron / quest-giver NPC, voiced by the player **sankaku** ("the wizard
 is all you"). Distilled from the 6/8–6/17/26 Discord brainstorm. This is the
 working reference for running Preem and the schemes that hang off him — see
 **Encounter hooks** at the bottom, and the companion files
-[the Second Foundation](../lore/the-second-foundation.md),
-[Maalm — the elven stronghold](../lore/maalm-the-elven-stronghold.md), and
+[the Second Foundation](../world/nila/lore/the-second-foundation.md),
+[Maalm — the elven stronghold](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md), and
 [Preem's demons](preems-demons.md).
 
 > Legend: **[settled]** = agreed in chat · **[loose]** = floated, not locked
@@ -42,7 +42,7 @@ working reference for running Preem and the schemes that hang off him — see
 
 ## The names quest — why he sends the party to the tombs
 
-Preem sends the party into the [Valley of the Kings](../encounters/valley-of-the-kings.md)
+Preem sends the party into the [Valley of the Kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md)
 to *"search the tombs, get into the inner burial chambers, find what names you
 can and relay them to my associates using the sending stone."* He pays well for
 any **jewels** they recover and tells them not to expect any.
@@ -66,7 +66,7 @@ In the opening study scene, Preem outfits each party member for the quest.
 
 | Recipient | Gift |
 |-----------|------|
-| [Blackacre](blackacre.md) | The **maps**, the **message stone** (the paired [sending stone](../encounters/valley-of-the-kings.md#the-map-mechanic) for relaying names), and a **boat** |
+| [Blackacre](blackacre.md) | The **maps**, the **message stone** (the paired [sending stone](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md#the-map-mechanic) for relaying names), and a **boat** |
 | **Jasper** | **Amulet of Find Familiar** — one free summon/day; the "psychic bat" that is really a quasit spy (see [The Psychic Bat](the-psychic-bat.md)) |
 | **Aniess** | **Timebiter** |
 | **Pax** | **Glasses of Detect Magic** |
@@ -118,7 +118,7 @@ are exactly where he sends the party.
 
 ## The Second Foundation & Ragnarok
 
-Full treatment in [the Second Foundation](../lore/the-second-foundation.md).
+Full treatment in [the Second Foundation](../world/nila/lore/the-second-foundation.md).
 In brief:
 
 - The **Second Foundation** is the elven cabal that settled Maalm after the
@@ -135,12 +135,12 @@ In brief:
 
 `[settled — 6/28 brainstorm]` Preem's wealth is not wizardly mystery — it is
 **trade.** As First Chair, he sits atop the Second Foundation's worldly arm, the
-**[Company](../lore/the-company.md)** (Nila's East India Company, out of
-[Noku Kurunatuka](../lore/nila-atlas.md)). So the **pay and
+**[Company](../world/nila/lore/the-company.md)** (Nila's East India Company, out of
+[Noku Kurunatuka](../world/nila/lore/nila-atlas.md)). So the **pay and
 [gifts](#preems-gifts--bestowed-in-the-first-scene)** he hands the party are
-**Company blood-money:** slave-grown coffee off [Musleheim](../lore/musleheim.md),
-ore stripped from [Suartleheim Eet](../lore/nila-atlas.md) and
-[Kalikhat](../lore/campaign-overview.md), ruined half-orc trader families.
+**Company blood-money:** slave-grown coffee off [Musleheim](../world/musleheim/lore/musleheim.md),
+ore stripped from [Suartleheim Eet](../world/nila/lore/nila-atlas.md) and
+[Kalikhat](../world/nila/lore/campaign-overview.md), ruined half-orc trader families.
 
 - **The reveal line.** When the party traces the money, Preem doesn't flinch — he
   is **amused:** *"Where did you think your money was coming from?"* They took the
@@ -154,7 +154,7 @@ ore stripped from [Suartleheim Eet](../lore/nila-atlas.md) and
   *the profit is fine, but I want to control demons too* — binding a volcano-demon to
   **force the coming pass to fall as a catastrophe he controls** (its timing is fixed; its
   outcome is not). The party's wages come from the people planning the
-  apocalypse (see [the Second Foundation §6](../lore/the-second-foundation.md)).
+  apocalypse (see [the Second Foundation §6](../world/nila/lore/the-second-foundation.md)).
 
 ## The demon scheme — his private heresy
 
@@ -173,14 +173,14 @@ This is where Preem diverges from his fellow Foundationers. **[settled]**
   Ragnarok; he means to **own** it. (This squares with the world's cosmology: the last Ragnarok was a
   **volcanic winter** that buried the Egyptian empire and raised the volcanic
   islands missing from the ancient tomb-map. See
-  [the Second Foundation](../lore/the-second-foundation.md).)
+  [the Second Foundation](../world/nila/lore/the-second-foundation.md).)
 
 ## Preem and the dream-quest merchant
 
 The party's first brush with Preem's true nature — long before they know it's
 him. **[settled]**
 
-The dead merchant of [the dream quest](../encounters/the-dream-quest.md) is **a
+The dead merchant of [the dream quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md) is **a
 small-scale Preem.** He bound a single demon — his wife — to himself with her
 true name, renewing Planar Binding every year until he died, telling himself it
 was love. He is *"a small-scale version of the wizard. He just had the decency
@@ -221,16 +221,16 @@ The whole campaign points here. **[settled]**
   ancient empire (the last Ragnarok) raised the volcanic islands missing from
   the tomb-map; volcanism makes land and unmakes it. Preem wants his hand on
   that lever.
-- The [dream quest](../encounters/the-dream-quest.md) **rehearses the
+- The [dream quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md) **rehearses the
   choice**. If the party has already felt what true-name binding does to one
   person, the choice to do it to a world-breaking demon plays
-  differently. See [the Second Foundation](../lore/the-second-foundation.md).
+  differently. See [the Second Foundation](../world/nila/lore/the-second-foundation.md).
 
 ## The double-agent offer — how Preem plays it
 
 `[settled — 8/5]` At the coffeehouse
-([V. — Second Contact](../encounters/v-second-contact.md)), **V.**, a
-**[First Foundation](../lore/the-first-foundation.md)** agent, offers the party a
+([V. — Second Contact](../world/suartleheim-eet/maalm/encounters/v-second-contact.md)), **V.**, a
+**[First Foundation](../world/nila/lore/the-first-foundation.md)** agent, offers the party a
 deal: keep working for Preem as cover and feed the First Foundation what they see.
 **Batrick** — the psychic-bat familiar on Jasper's shoulder, the quasit spy Jasper
 named (see [The Psychic Bat](the-psychic-bat.md)) — hears the whole offer and
@@ -255,7 +255,7 @@ for accepting would burn the spy and make him an ordinary villain.
 
 `[settled — 8/5]` The loyal move is to hand V. up: she is an exposed First
 Foundation agent on Second Foundation ground, and by the orders' rule that means
-death (see [V. — Second Contact](../encounters/v-second-contact.md)). Preem does
+death (see [V. — Second Contact](../world/suartleheim-eet/maalm/encounters/v-second-contact.md)). Preem does
 the opposite — he tells his Foundation nothing and lets her leave the city. Even
 if he could take her (he most likely can't), he wants her alive at first, running,
 with his people inside her network.
@@ -280,7 +280,7 @@ priority:
 
 - **The base, and the end of the hunt.** A thousand years his order has hunted the
   First Foundation and never found its center — the present headquarters is unlocated
-  (`[OPEN]` in [the First Foundation](../lore/the-first-foundation.md)), and the craft
+  (`[OPEN]` in [the First Foundation](../world/nila/lore/the-first-foundation.md)), and the craft
   survives in copies at Jotunheim. In Maalm the trail runs guard → Ratatat → V. and
   stops at V. Killing V. ends it there; keeping her alive with his people inside her
   network is how Preem traces past V. for the first time — to the remnant and its
@@ -347,7 +347,7 @@ echo when the party next meets him.
 
 1. **The opening scene — Preem's study.** The campaign *opens* here: the party
    meets Preem in his office. He briefs them on the names quest and hands over
-   the [sending stone](../encounters/valley-of-the-kings.md#the-map-mechanic).
+   the [sending stone](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md#the-map-mechanic).
    In the same scene he gifts **Jasper** a "psychic bat" familiar — really a
    quasit spy (see [The Psychic Bat](the-psychic-bat.md)). His associate **Mul**
    (a Yochlol in elf form) does the greeting on later visits, and every servant
@@ -367,7 +367,7 @@ echo when the party next meets him.
 6. **The other crews** — Preem runs [many name-hunting groups](#after-the-first-two-sessions--whats-canon-at-the-table)
    at once. One of them, [The Second Hand](the-second-hand.md), the party meets
    being ambushed by the rat man just as they were
-   ([the ambush](../encounters/the-second-hand-ambush.md)); saved, the crew
+   ([the ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md)); saved, the crew
    becomes a standing ally — and, because Preem runs them too, a lever he can
    turn against the party at the climax.
 

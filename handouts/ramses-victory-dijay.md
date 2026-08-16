@@ -1,6 +1,6 @@
 # Ramses' Victory at Dijay — Player Handout
 
-*The text given to players in the Tomb 3 inner chamber. Verbatim. The opening "bleeding star" passage is an original addition (the campaign's catastrophe, later revealed as the Krakatoa eruption); the remainder adapts a translation of the Ramses III monuments. (Source request and image prompt: [prompts/tomb-3-inner-chamber-bleeding-star.md](../prompts/tomb-3-inner-chamber-bleeding-star.md).)*
+*The text given to players in the Tomb 3 inner chamber. Verbatim. The opening "bleeding star" passage is an original addition (the campaign's catastrophe, later revealed as the Krakatoa eruption); the remainder adapts a translation of the Ramses III monuments. (Source request and image prompt: [prompts/tomb-3-inner-chamber-bleeding-star.md](../world/suartleheim-eet/maalm/prompts/tomb-3-inner-chamber-bleeding-star.md).)*
 
 ---
 

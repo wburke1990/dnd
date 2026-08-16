@@ -34,7 +34,7 @@ Jogo. What it hands us:
 Ties to what's already on the table:
 
 - **It is his two lineages, shown in one crossing.** Per
-  [lineages & afterlives](../lore/lineages-and-afterlives.md) §6, Pax is the
+  [lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §6, Pax is the
   child of a Celestial and a nameless earth-person — half true-named (a name, a
   heaven, the pole above), half nameless (dissolves into the land, unowned). His
   vision runs both roads: he rose to the star/celestial side and was named, then
@@ -54,7 +54,7 @@ Ties to what's already on the table:
   "or just delusional?" alive, because the earth half still hears the ground.
 - **His earth half — the forest-nameless (settled).** His mother's people are the
   forest-branch of the earth-nameless
-  ([lineages & afterlives](../lore/lineages-and-afterlives.md) §5–6): their dead
+  ([lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §5–6): their dead
   become the woods — tree, then leaf-litter, root, and rot, the common stock new
   forest-nameless are drawn from. The Verdant Fist creed (the body a bridge between spirit and soil;
   the Compost Staff) is that doctrine. Their country is northwest Musleheim; the
@@ -62,13 +62,13 @@ Ties to what's already on the table:
 - **The stolen trees at Jotunheim.** Two of his people's holy dead — an ash and an
   elm — were carried through the tunnels by the Lonka zealots ~1,900 ya and rooted on
   the caldera ring-wall, where the zealots named them Askr and Embla and hold them to
-  be the dragon's children ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §5). Cut
+  be the dragon's children ([Lonka / Jotunheim](../world/lonka/lore/lonka-jotunheim.md) §5). Cut
   off from the common stock of the forest-dead, the two trees came to believe it, and
   the false creation now passes back and forth between trees and zealots. Pax is the
   one forest-nameless still joined to the living forest and its common stock — his tie
   into Jotunheim (Sam's quest); the elm is the tree whose roots gave him the mushroom.
   The rite he performs there is
-  [the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md).
+  [the rite at the Jotunheim trees](../world/lonka/encounters/jotunheim-trees-rite.md).
 - **Names.** Mul's "a name… is a key" line landed the same session Pax described
   being named and then losing the name. The sheet lists a **True name: Auralith
   Vael'Tharos**; whether the forgotten star-name is that or the Celestial's name

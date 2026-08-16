@@ -40,7 +40,7 @@ Do not over-describe. The wrongness should be felt rather than catalogued.
 - That the binding made the question of her own feelings permanently unanswerable
 - That she loves her children completely and without reservation
 - That she stayed after her husband died longer than she had to
-- The whole history of her people — the old alliance that built Muspelheim, its collapse, the binders who came after (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)). She lived it. She is one of the few living witnesses to any of it.
+- The whole history of her people — the old alliance that built Muspelheim, its collapse, the binders who came after (see [Demons, the Hotspot, and the Deep Cities](../world/nila/lore/demons-and-the-hotspot.md)). She lived it. She is one of the few living witnesses to any of it.
 
 ## What She Doesn't Know
 
@@ -72,7 +72,7 @@ The material plane causes demons pain — the longer they remain unbound, the mo
 ## DM NOTE — PRIVATE
 
 **On her demon type:**
-She is a **Yochlol**, run off that stat block but reflavored away from Lolth — exactly as Mul is (see [Preem's demons](preems-demons.md)). In this world the Yochlol is simply the demon that can wear a person: Change Shape into a beautiful human woman, Dominate Person, Detect Thoughts, Magic Resistance. CR 10 reads as formidable, which suits a being thousands of years old. She is one of the **demon-people of the deep** (see [Demons, the Hotspot, and the Deep Cities](../lore/demons-and-the-hotspot.md)), having followed the hotspot across the buried cities since before the elves. That she and Mul are the same kind is deliberate: the shapeshifter-demon is Preem's standard instrument, so she is not unusual as a kind. She is unusual as a person.
+She is a **Yochlol**, run off that stat block but reflavored away from Lolth — exactly as Mul is (see [Preem's demons](preems-demons.md)). In this world the Yochlol is simply the demon that can wear a person: Change Shape into a beautiful human woman, Dominate Person, Detect Thoughts, Magic Resistance. CR 10 reads as formidable, which suits a being thousands of years old. She is one of the **demon-people of the deep** (see [Demons, the Hotspot, and the Deep Cities](../world/nila/lore/demons-and-the-hotspot.md)), having followed the hotspot across the buried cities since before the elves. That she and Mul are the same kind is deliberate: the shapeshifter-demon is Preem's standard instrument, so she is not unusual as a kind. She is unusual as a person.
 
 **On her true name:**
 Her true name is held by [Preem](preem.md) and, through him, by the Second

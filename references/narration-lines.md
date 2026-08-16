@@ -146,7 +146,7 @@ wants stillness.
 
 The Byron is the one for a shore that has swallowed fleets before — it says the
 sea does not care, which is the note the
-[drying of the valley](../lore/the-drying-of-the-valley.md) material keeps
+[drying of the valley](../world/suartleheim-eet/maalm/lore/the-drying-of-the-valley.md) material keeps
 reaching for.
 
 ### Putting out to sea
@@ -168,7 +168,7 @@ them without being told.
   what's missing is a short line for the moment itself.
 - **Battle joined.**
 - **An omen or a god noticed** — ties to
-  [myth and poem as literal truth](../lore/myth-and-poem-as-literal-truth.md).
+  [myth and poem as literal truth](../world/nila/lore/myth-and-poem-as-literal-truth.md).
 - **Entering a ruin or a tomb** — the tomb sequence in [prompts/](../prompts/)
   runs long enough to want four distinct openers.
 

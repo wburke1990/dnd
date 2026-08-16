@@ -3,7 +3,7 @@
 
 > Logged from a table recap. Picks up mid-dream from
 > [Session 8](session-08.md), which stopped at the offering bowl. Ran close to
-> the prep — [The Dream Quest](../encounters/the-dream-quest.md), resuming at
+> the prep — [The Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md), resuming at
 > **Gate Five.** This closes the rite.
 
 ---
@@ -86,7 +86,7 @@ Each confessed:
 - **The rite failed — Ammit took the heart.** Ghassan did not pass the weighing;
   his heart was devoured because the party lingered rather than leaving before
   the verdict. Per the prep the living turn back before any verdict is visible
-  ([the Hall](../encounters/the-dream-quest.md#the-exit)); here the table saw the
+  ([the Hall](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md#the-exit)); here the table saw the
   outcome. **The children were not told**, so as far as Muntadhir and Alizayd
   know, the party went and came back — they carry the loss, the family doesn't.
   `[OPEN]` whether that stays hidden, and whether it ever comes back on the
@@ -97,7 +97,7 @@ Each confessed:
   That's now canon from a god's mouth: **Sarric's soul does not go to the Duat**,
   and **Pax's might.** It lines up with the campaign's lineages-and-afterlives
   design — different peoples, different roads for the dead
-  ([lineages & afterlives](../lore/lineages-and-afterlives.md)). `[OPEN]` where
+  ([lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md)). `[OPEN]` where
   Sarric's soul *does* go, if we ever answer it, and why Pax is the open case —
   worth a look at his and Sarric's backstories before committing to an answer.
 - **Aniess is the one who didn't finish.** She took fire damage at Gate Six and
@@ -115,7 +115,7 @@ Each confessed:
   serpent named at Gate One.
 - **The reward, as played, differed from the prep.** The built reward is
   potions and components at cost, a safe house, and each sibling's personal
-  assistance once ([The Reward](../encounters/the-dream-quest.md#the-reward)).
+  assistance once ([The Reward](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md#the-reward)).
   The table gave **100 gp each plus the al Qahtani's friendship.** The
   standing goods-at-cost bargain and the personal debts may still be in force —
   they were the pitch at the shop — so treat the shop-at-cost and the one-time
@@ -143,7 +143,7 @@ Each confessed:
 - [ ] **The four confessions** — recorded here; `[OPEN]` whether any go on the
       PC sheets (players' call).
 - [ ] Carried from [Session 8](session-08.md): the **docks at 9 AM**
-      ([Departure Under Fire](../encounters/docks-departure.md)) with the
+      ([Departure Under Fire](../world/suartleheim-eet/maalm/encounters/docks-departure.md)) with the
       **sailing ambush set up** off Blackacre's traded charts, and **Sarric's
       owed potion** (the 50 gp he pocketed).
 </content>

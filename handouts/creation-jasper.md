@@ -4,7 +4,7 @@
 wound, drawn from his own character concept ([roster](../characters/party-roster.md)).
 Lineage: dragon-people, judged in the sky — which he does not yet know sets him
 apart from Sarric and Pax (see
-[lineages & afterlives](../lore/lineages-and-afterlives.md) §7).*
+[lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §7).*
 
 ---
 

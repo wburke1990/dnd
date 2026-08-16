@@ -3,10 +3,10 @@
 > **NPC.** David's **Hannibal**, recast as a **half-orc warlord** (she/her) in
 > Viking / barbarian-herdsman dress. She rallied the orcs and half-orcs, reversed
 > Kuru's reconquest, ravaged Kuru's ground for a generation, and was broken by
-> **[Noku](../lore/nila-atlas.md)** at the Zama at **Ilka Mak**. At campaign start
+> **[Noku](../world/nila/lore/nila-atlas.md)** at the Zama at **Ilka Mak**. At campaign start
 > she is **dead, or freshly and finally defeated** — and if she lives, she is a
 > hunted drifter selling tactics for coin. Home lore:
-> [the Muspel empire §5](../lore/the-muspel-empire.md). Legend: `[settled]` ·
+> [the Muspel empire §5](../world/musleheim/lore/the-muspel-empire.md). Legend: `[settled]` ·
 > `[loose]` · `[OPEN]` · `[draft]` · 🔒 DM secret.
 
 ---
@@ -14,16 +14,16 @@
 ## Who she is
 
 - `[settled]` A **half-orc**, born of the diaspora the comet-sickness scattered a
-  thousand years ago ([the Muspel empire](../lore/the-muspel-empire.md)). A
+  thousand years ago ([the Muspel empire](../world/musleheim/lore/the-muspel-empire.md)). A
   generational military mind — the one commander who beat the colonizer powers at
   their own war.
 - `[settled]` **Herdsman-raider, not merchant.** Her people fight for **land and
   survival**, a whole people in arms, with no hired mercenary armies and no
   merchant oligarchy behind them. (The mercantile Punic side lives with the
-  dragonborn — Lonka as Tyre; see [the Muspel empire §5](../lore/the-muspel-empire.md).)
+  dragonborn — Lonka as Tyre; see [the Muspel empire §5](../world/musleheim/lore/the-muspel-empire.md).)
 - `[OPEN]` **Name and register.** Slash notation **Annibel/Hannibal** for now;
   whether her culture reads Norse (like Musleheim) or Punic (like the analog) is
-  unsettled ([muspel §5](../lore/the-muspel-empire.md)).
+  unsettled ([muspel §5](../world/musleheim/lore/the-muspel-empire.md)).
 
 ## Her war — mapped to Hannibal's
 
@@ -44,7 +44,7 @@ middle victories are drafts to name.
 `[settled]` **The war-oliphaunts.** Her host fights behind a corps of **giant
 war-elephants** — grown to the scale of Tolkien's oliphaunts (the mûmakil), far
 past any real elephant, raised huge the way Nila's fast mutation and island
-gigantism grow beasts ([lineages & afterlives §9](../lore/lineages-and-afterlives.md)).
+gigantism grow beasts ([lineages & afterlives §9](../world/nila/lore/lineages-and-afterlives.md)).
 Her fleet ships them across to the Kuru mainland for the land war. `[draft — where
 the giants are bred, and a stat block]`
 
@@ -61,14 +61,14 @@ the giants are bred, and a stat block]`
   *"Where is the horse gone? Where the rider?"* on a cavalry commander with no
   cavalry left. Play it as a reveal, not a reunion.
 - `[draft — 7/26]` **First staged meeting: the Haals mine.** The party first meets
-  her at a tavern near [Copaa](../lore/nila-atlas.md), where she offers help against
-  the Company's mine — see [the Haals runoff §4](../encounters/the-haals-runoff.md).
+  her at a tavern near [Copaa](../world/nila/lore/nila-atlas.md), where she offers help against
+  the Company's mine — see [the Haals runoff §4](../world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md).
 
 ## The missing fleet
 
 - `[settled]` **Her fleet was never beaten.** It dropped her on the Kuru mainland
   for the land war, then **sailed north and vanished** — bound for the **lost
-  colonies** ([muspel §7](../lore/the-muspel-empire.md)), a Vinland waiting for any
+  colonies** ([muspel §7](../world/musleheim/lore/the-muspel-empire.md)), a Vinland waiting for any
   party that sails after it. A thread to pull if she wants word of it.
 
 ## Enemies and motive
@@ -86,12 +86,12 @@ the giants are bred, and a stat block]`
   the ground — she does not stand in the front line. A recurring advisor the party
   can return to, though she is hunted and keeps moving.
 - Her counsel runs to the ruthless — drop the dam, fire the works, workers and all
-  ([Haals §4](../encounters/the-haals-runoff.md)). Sound, and other people's lives
+  ([Haals §4](../world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md)). Sound, and other people's lives
   don't enter the sum. Taking it whole is the party's to decide.
 
 ## Open threads
 
-- `[OPEN]` Her **name and cultural register** (Norse vs. Punic) — [muspel §5](../lore/the-muspel-empire.md).
+- `[OPEN]` Her **name and cultural register** (Norse vs. Punic) — [muspel §5](../world/musleheim/lore/the-muspel-empire.md).
 - `[OPEN]` Her **fate at campaign start** — killed at Ilka Mak, hunted down after, or
   vanished into the tavern life.
 - `[draft]` The **war-oliphaunts** — where the giants are bred, and a stat block.
@@ -99,8 +99,8 @@ the giants are bred, and a stat block]`
 
 ---
 
-*Companions: [the Muspel empire](../lore/the-muspel-empire.md) (her home entry and
-the orc wars), [Kuru & the phoenix](../lore/kuru-and-the-phoenix.md) (the enemy she
-humiliated), [the Haals runoff](../encounters/the-haals-runoff.md) (the tavern
+*Companions: [the Muspel empire](../world/musleheim/lore/the-muspel-empire.md) (her home entry and
+the orc wars), [Kuru & the phoenix](../world/kuru/lore/kuru-and-the-phoenix.md) (the enemy she
+humiliated), [the Haals runoff](../world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) (the tavern
 meeting), [the Wanderer lament](../handouts/the-wanderer-lament.md) (what she
 recites).*

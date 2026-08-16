@@ -11,11 +11,11 @@
 - **`[planned]` Walter de la Mare, "Nod"** — the **campaign's closing poem.**
   The old shepherd folds his flock at nightfall; read over the very end —
   **the dragons returning, the islands sinking back into the sea,** the age
-  folded up to sleep until the next pass ([campaign arc §6](../lore/campaign-overview.md)).
+  folded up to sleep until the next pass ([campaign arc §6](../world/nila/lore/campaign-overview.md)).
   *(Distinct from Eugene Field's [Wynken, Blynken, and Nod](wynken-blynken-and-nod.md),
   already in play as a spell incantation.)* Handout to write.
 - **`[planned]` Walter de la Mare, "The Listeners"** — at the **gates of the
-  underworld on [Kalikhat](../lore/lonka-jotunheim.md).** A traveller knocks;
+  underworld on [Kalikhat](../world/lonka/lore/lonka-jotunheim.md).** A traveller knocks;
   only the dead listen. Handout to write.
 - **`[pending]` Christina Rossetti — "Remember" and "Song" ("When I am dead,
   my dearest")** — grave-elegies in the spoken-by-the-dead vein. **Need new
@@ -25,13 +25,13 @@
 
 | Handout | In-world placement |
 |---|---|
-| [the-ruin](the-ruin.md) | Bard's lay / inscription over the [giants' abandoned northern halls](../lore/the-southern-land.md) |
-| [copaa-lament](copaa-lament.md) | Scroll / elders' dirge for poisoned [Copaa](../lore/the-fallen-gnome-kingdom.md) (Admonitions of Ipuwer) |
-| [the-wanderer-lament](the-wanderer-lament.md) | Musleheim elegy; recited by [Annibel/Hannibal](../lore/the-muspel-empire.md) in her cups |
-| [recessional](recessional.md) | Over the drowned [Lonka / Jotunheim](../lore/lonka-jotunheim.md) caldera (the aftermath) |
-| [seafarer-grave-gold](seafarer-grave-gold.md) | Tomb-warning / corpse-as-treasure ([Valley of the Kings](../encounters/valley-of-the-kings.md)) |
-| [voluspa-ask-and-embla](voluspa-ask-and-embla.md) | The creation the Lonka zealots teach at the two trees ([Askr and Embla](../lore/askr-and-embla.md)); stanza 65 is the manuscript that disagrees with itself |
-| [iliad-blood-on-the-ground](iliad-blood-on-the-ground.md) | Death-lines read over kills in [the Iliad battles](../encounters/the-iliad-battles.md); source material for [blood consecration](../encounters/jotunheim-trees-rite.md) |
+| [the-ruin](the-ruin.md) | Bard's lay / inscription over the [giants' abandoned northern halls](../world/suartleheim-eet/lore/the-southern-land.md) |
+| [copaa-lament](copaa-lament.md) | Scroll / elders' dirge for poisoned [Copaa](../world/suartleheim-eet/raand-copaa/lore/the-fallen-gnome-kingdom.md) (Admonitions of Ipuwer) |
+| [the-wanderer-lament](the-wanderer-lament.md) | Musleheim elegy; recited by [Annibel/Hannibal](../world/musleheim/lore/the-muspel-empire.md) in her cups |
+| [recessional](recessional.md) | Over the drowned [Lonka / Jotunheim](../world/lonka/lore/lonka-jotunheim.md) caldera (the aftermath) |
+| [seafarer-grave-gold](seafarer-grave-gold.md) | Tomb-warning / corpse-as-treasure ([Valley of the Kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md)) |
+| [voluspa-ask-and-embla](voluspa-ask-and-embla.md) | The creation the Lonka zealots teach at the two trees ([Askr and Embla](../world/lonka/lore/askr-and-embla.md)); stanza 65 is the manuscript that disagrees with itself |
+| [iliad-blood-on-the-ground](iliad-blood-on-the-ground.md) | Death-lines read over kills in [the Iliad battles](../world/nila/encounters/the-iliad-battles.md); source material for [blood consecration](../world/lonka/encounters/jotunheim-trees-rite.md) |
 
 ## Saved, placement open
 

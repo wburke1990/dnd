@@ -1,6 +1,6 @@
 # The Clod and the Pebble — (Player Handout)
 
-*A saved poem for the campaign. Candidate incantation for **Planar Binding** — see [docs/spells-as-poems.md](../docs/spells-as-poems.md). Two stanzas name two loves: the Clod's love frees, the Pebble's love binds another to its delight. Reciting the Pebble is the binding — the free-or-own choice the campaign's true-name thread turns on, and the choice Ghassan made ([the Dream Quest](../encounters/the-dream-quest.md)). Verbatim, line breaks preserved.*
+*A saved poem for the campaign. Candidate incantation for **Planar Binding** — see [docs/spells-as-poems.md](../world/nila/lore/spells-as-poems.md). Two stanzas name two loves: the Clod's love frees, the Pebble's love binds another to its delight. Reciting the Pebble is the binding — the free-or-own choice the campaign's true-name thread turns on, and the choice Ghassan made ([the Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)). Verbatim, line breaks preserved.*
 
 *Real-world source: William Blake (1757–1827), "The Clod and the Pebble" (Songs of Experience, 1794).*
 

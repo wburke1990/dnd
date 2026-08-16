@@ -4,10 +4,10 @@
 > [Session 6](../sessions/session-06.md) and drawn out in
 > [Session 7](../sessions/session-07.md). A wealthy **human** of **House Vettia** — new-money in the good
 > merchant district southwest of the star fort, the [al Qahtani](the-children.md)'s
-> neighbor — who became the party's way into [the mill](../encounters/the-mill.md)
+> neighbor — who became the party's way into [the mill](../world/suartleheim-eet/maalm/encounters/the-mill.md)
 > — she has her garden grain milled there, and lent her servant Daniel to guide
 > them. A patron of the [al Qahtani](the-children.md) healers, and a gossip.
-> `[OPEN]` any tie to the [Second Foundation](../lore/the-second-foundation.md).
+> `[OPEN]` any tie to the [Second Foundation](../world/nila/lore/the-second-foundation.md).
 >
 > Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
 
@@ -19,14 +19,14 @@
   **good merchant district just outside the gated old-elf quarter, a little
   southwest of the star fort** — the same comfortable street as the
   [al Qahtani](the-children.md), the merely rich rather than the old families
-  behind the gates (see [the elven stronghold](../lore/maalm-the-elven-stronghold.md)).
+  behind the gates (see [the elven stronghold](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md)).
   She takes the **elven old families** for the true elite, and holds the lower
   city in contempt.
 - `[settled]` **Wealthy, with a mansion and servants.** The party rested in
   her **servants' quarters** while she finished errands in the city (S7). Her
   man **Daniel** runs her household errands, the grain among them.
 - `[settled]` She grows **grain in her garden** and has it milled at the
-  founder houses' [garden-grain grinder](../encounters/the-mill.md) for her
+  founder houses' [garden-grain grinder](../world/suartleheim-eet/maalm/encounters/the-mill.md) for her
   bread — which is how she knows the mill.
 - `[settled]` Keeps up **skin treatments** with the [al Qahtani](the-children.md),
   Maalm's finest healers, and complains about how expensive her skin is to
@@ -34,10 +34,10 @@
 - `[settled]` **No cistern of her own — and it grates.** Like every rich house
   she keeps gardens, but her water rides on the **shared allotment**, while the
   al Qahtani next door have **their own cistern cut beneath the house**
-  ([their house](../encounters/the-dream-quest.md)). She is **jealous of it**,
+  ([their house](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)). She is **jealous of it**,
   and pointedly **did not mention it** when she named them Maalm's finest
   healers.
-- `[OPEN]` Any tie to the [Second Foundation](../lore/the-second-foundation.md),
+- `[OPEN]` Any tie to the [Second Foundation](../world/nila/lore/the-second-foundation.md),
   the founders'-quarter elite's inner faction.
 
 ## Heritage — which she denies
@@ -48,8 +48,8 @@
   from the **ancient Maalm-empire people who survived the Dark Age
   underground**, in the **tunnels the city was later built over** — the same
   underground-survival heritage the [al Qahtani](the-children.md) carry (see the
-  legend in [the Dream Quest](../encounters/the-dream-quest.md), and
-  [the deep / under-city](../lore/maalm-the-elven-stronghold.md)).
+  legend in [the Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md), and
+  [the deep / under-city](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md)).
 - `[settled — table]` **She rejects it.** Where **Ghassan al Qahtani** was
   Maalm's last old-gods believer and **embraced** that descent and faith,
   Lucrecia **buries hers** — she climbs into respectable merchant society and
@@ -59,8 +59,8 @@
   survive the Dark Age underground and **came up and settled** — the
   [al Qahtani](the-children.md) still hold the proof, the **small Anubis**
   heirloom, in truth a piece of **godstone** — the sentient comet-fall
-  god-matter ([Kuru & the phoenix](../lore/kuru-and-the-phoenix.md),
-  [the Dream Quest](../encounters/the-dream-quest.md#the-small-anubis--what-the-rite-requires)).
+  god-matter ([Kuru & the phoenix](../world/kuru/lore/kuru-and-the-phoenix.md),
+  [the Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md#the-small-anubis--what-the-rite-requires)).
   This does not contradict the deep being **forbidden and lethal now** —
   Ammit's tomb and the death of the dark tunnels (the Abyss); the survivors came
   up long ago and no one lives down there.
@@ -91,7 +91,7 @@
 
 - **The way to the mill** — her servant **Daniel** guided them in on his
   afternoon grain run, clean cover behind a delivery
-  ([the mill](../encounters/the-mill.md)).
+  ([the mill](../world/suartleheim-eet/maalm/encounters/the-mill.md)).
 - **A short rest** in her mansion's servants' quarters (S7).
 - **50 gp** (S6) meant for a **healing potion** — offered first to Aniess, who
   ignored her, then to **Sarric**, who **pocketed it** and bought nothing. He
@@ -108,7 +108,7 @@
 ## Open threads
 
 - `[OPEN]` **Second Foundation tie** — does this founders'-quarter noble
-  answer to [Preem's order](../lore/the-second-foundation.md)? Her being the
+  answer to [Preem's order](../world/nila/lore/the-second-foundation.md)? Her being the
   party's route to a First Foundation agent (V.) is either coincidence or not.
 - `[OPEN]` **Reputation** — her gossip spreads the mill fight through the
   elite; who hears it, and whether it costs or buys the party anything.

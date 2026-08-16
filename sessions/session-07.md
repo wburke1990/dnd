@@ -2,7 +2,7 @@
 ## David cancelled; William ran the table solo and played every character — including V. from David's script
 
 > Logged from a table recap. The mill ran close to how it's built —
-> [The Mill](../encounters/the-mill.md).
+> [The Mill](../world/suartleheim-eet/maalm/encounters/the-mill.md).
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Picking up from the [Session 6](session-06.md) Ratatat interrogation, the
   party **followed Lucrecia to the bank** (the
-  [bank house](../lore/bedraageon-square.md) on Bedraageon Square). She took
+  [bank house](../world/suartleheim-eet/maalm/lore/bedraageon-square.md) on Bedraageon Square). She took
   a **meeting** there, then **bought them tea** in the waiting room's
   tearoom.
 - Over tea she laid out Maalm by caste: the **walled interior of the star
@@ -31,9 +31,9 @@
 - She complained about a **neighbor's flowers** and asked whether the party
   would **go beat up the neighbors** until they changed them.
 - They **showed her the *"Bring more to the mill. — V."* note**
-  ([the rat man](../bestiary/the-rat-man.md)). She **knew the mill** — it
+  ([the rat man](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md)). She **knew the mill** — it
   grinds the **grain she grows in her garden** into her bread, the founder
-  houses' [garden-grain grinder](../encounters/the-mill.md). She offered to
+  houses' [garden-grain grinder](../world/suartleheim-eet/maalm/encounters/the-mill.md). She offered to
   send her **servant, Daniel**, to **show them the way on his next grain run
   there, that afternoon.**
 
@@ -45,7 +45,7 @@
   which **alerted V.** — so V. had the drop on them.
 - As **Jasper** stepped through a doorway, **V. put a knife to his throat.**
   She gave **David's speech almost word for word** (the *"kindly FUCK OFF"*
-  line, quoted in full in [the Mill](../encounters/the-mill.md)) and started
+  line, quoted in full in [the Mill](../world/suartleheim-eet/maalm/encounters/the-mill.md)) and started
   **marching the party out**, keeping Jasper between herself and them,
   herding them toward the exit.
 - Instead of going along, **Aniess cast a spell**, which **broke into
@@ -98,7 +98,7 @@
 # DM NOTES & OPEN THREADS
 
 - **First contact with the First Foundation is made — and V. escaped into
-  the deep.** The party ran [The Mill](../encounters/the-mill.md) close to
+  the deep.** The party ran [The Mill](../world/suartleheim-eet/maalm/encounters/the-mill.md) close to
   how it's built: Aniess sprang the tripwire (handing V. the drop), V. took
   Jasper hostage and gave her speech, Aniess's spell turned it to a fight,
   and **Sarric disarmed her and then crit, driving her to run** (the party's
@@ -118,27 +118,27 @@
   play**: he **failed to steal the party's map** ([S1](session-01.md)) and
   **failed to steal the Second Hand's**, both times. So V.'s buy-the-maps
   operation has bought no maps, and the mill meeting had nothing to exchange.
-  The [mill](../encounters/the-mill.md) / [First Foundation](../lore/the-first-foundation.md)
+  The [mill](../world/suartleheim-eet/maalm/encounters/the-mill.md) / [First Foundation](../world/nila/lore/the-first-foundation.md)
   prep assumes successful thefts — reconcile that with what actually
   happened: **V. has no intelligence out of Ratatat**, and Ratatat is a
   failure as an asset.
 - **Lucrecia is the party's road to the mill — and tied to it.** At the bank
   she turned into the way in: she has her **garden grain milled at the mill**
-  (the founder-house garden grain the [mill writeup](../encounters/the-mill.md)
+  (the founder-house garden grain the [mill writeup](../world/suartleheim-eet/maalm/encounters/the-mill.md)
   runs on), knows the place, and lent her servant **Daniel** to guide the
   party in on his afternoon grain run — clean cover behind a grain delivery.
   Her classism carried the scene (the caste map, the **al Qahtani** skin
   treatments and "how expensive her skin is," the disdain for their
   lower-city charity). The **flowers errand** — send the party to rough up a
   neighbor over their flowers — is a petty-tyrant hook to pull on if wanted.
-  `[OPEN]` her tie to the [Second Foundation](../lore/the-second-foundation.md).
+  `[OPEN]` her tie to the [Second Foundation](../world/nila/lore/the-second-foundation.md).
 - **The "finest healers" are the al Qahtani — the Dream Quest family.**
   Lucrecia's healers are the same [al Qahtani](../characters/the-children.md)
   the party already works for. New canon (folded into their writeup): they do
   **elite skin treatments** and run **charity in the lower city** the elite
   look down on — a healer house serving both the noble quarter and the poor.
   It links two live threads: the noble who is the party's road to the mill
-  patronizes the half-demon family running the [Dream Quest](../encounters/the-dream-quest.md).
+  patronizes the half-demon family running the [Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md).
 - **Daniel** — Lucrecia's servant, new NPC, who makes her grain runs to the
   mill and guided the party there. He put the party up in the **servants'
   quarters of Lucrecia's mansion** for a short rest, and is eager to relay
@@ -151,7 +151,7 @@
 - **The millers confirmed the under-city is everywhere.** Sarric's telling-off
   landed flat because **there are tunnels under all of Maalm** — the deep
   isn't a secret under one mill, it's the ground the whole city stands on
-  ([the deep](../lore/maalm-the-elven-stronghold.md)). Feeds the under-city
+  ([the deep](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md)). Feeds the under-city
   thread.
 - **Sarric's turn is darkening** He led Ratatat's maiming
   ([S6](session-06.md)), wrote *we've got your guy* on one of the severed
@@ -161,9 +161,9 @@
   wound his backstory turns on (the burned camp, the screams that were "not
   only men," [sarric.md](../characters/sarric.md)). That line is the whole gap
   between him and his built mirror **Doruk Pell**
-  ([the rival crews](../encounters/tavern-name-hunter-crews.md)), who has none
+  ([the rival crews](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)), who has none
   of it and sleeps fine. Tonight's **Hall of Two Truths**
-  ([Dream Quest](../encounters/the-dream-quest.md)) — his confession, the
+  ([Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)) — his confession, the
   scales that don't weigh context — lands straight on it.
 
 ---
@@ -173,8 +173,8 @@
 - [ ] **The deep is open.** The party watched V. go **down the shaft into
       the abyss** and chose not to follow. They now know a way down toward
       the deep — Ammit's tomb, the Abyss — and that V. uses it
-      ([the deep](../lore/maalm-the-elven-stronghold.md)). Seeds the
-      under-city thread the [Dream Quest](../encounters/the-dream-quest.md)
+      ([the deep](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md)). Seeds the
+      under-city thread the [Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)
       also touches.
 - [ ] **Find V. again.** First contact is made and she got clean away into
       the deep. She did not read the party as Preem's until after the encounter 
@@ -192,16 +192,16 @@
       **Sarric took 50 gp to buy a healing potion, pocketed the cash, and
       never bought one** — `[settled: he never intends to]`
       ([Session 6](session-06.md)); `[OPEN]` her tie to the
-      [Second Foundation](../lore/the-second-foundation.md), and what her
+      [Second Foundation](../world/nila/lore/the-second-foundation.md), and what her
       **gossip** does to the party's standing.
 - [ ] **Next: the al Qahtani mansion.** After Lucrecia's, the party means to
       head to the [al Qahtani](../characters/the-children.md) house — their
-      employers, and the [Dream Quest](../encounters/the-dream-quest.md)
+      employers, and the [Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)
       tonight. Likely the lead-in to the rite.
 - [x] **al Qahtani standing** — folded into
       [the children](../characters/the-children.md): finest healers in Maalm,
       elite skin treatments, disdained lower-city charity.
 - [ ] Carried from [Session 6](session-06.md): the **Dream Quest** tonight,
       the **docks at 9 AM tomorrow**
-      ([Departure Under Fire](../encounters/docks-departure.md)), and
+      ([Departure Under Fire](../world/suartleheim-eet/maalm/encounters/docks-departure.md)), and
       **Sarric's owed potion.**

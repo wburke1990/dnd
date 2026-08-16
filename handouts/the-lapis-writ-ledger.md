@@ -1,14 +1,14 @@
 # The Lapis Writ's Ledger — the Valley, Complete
 
-> **DM note.** The fair copy the [Lapis Writ](../encounters/tavern-name-hunter-crews.md)
+> **DM note.** The fair copy the [Lapis Writ](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)
 > hand the party in the Maalm tavern — every name in the Valley of the Kings,
 > including everything the party missed. Stage it member-to-counterpart per the
 > tavern scene; Issa Quib's hand wrote the body, Setha Renk's the postscript. A
 > name is knowledge, not a consumable, so the Writ lose nothing by sharing —
 > and every name the party relays to [Mul](../characters/mul.md) off this page
 > deepens their complicity. The load-bearing entries are the twelve keepers
-> (see [the Roll of the Hours](../encounters/valley-of-the-kings.md) and
-> [the covenant](../lore/demons-and-the-hotspot.md)); the rest is the heap
+> (see [the Roll of the Hours](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md) and
+> [the covenant](../world/nila/lore/demons-and-the-hotspot.md)); the rest is the heap
 > they are buried in. Hand the players everything below the line.
 
 ---

@@ -31,7 +31,7 @@ restocking his pantry.)
   table, one of Preem's **quasit** spies (full treatment:
   [The Psychic Bat](../characters/the-psychic-bat.md)).
 - **Outside Preem's tower**, the party was attacked by a **rat man** —
-  [Ratatat](../bestiary/the-rat-man.md), a rat-headed humanoid — who ambushed
+  [Ratatat](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md), a rat-headed humanoid — who ambushed
   them in the citadel district.
 - The **rats went for the map** — Preem's freshly-given atlas, not the party's
   throats. That's the tell: this was a **robbery aimed at the gift,** not a kill.
@@ -62,10 +62,10 @@ restocking his pantry.)
   and the rat man knows it — so he waits outside the tower and **ambushes crews the
   moment they leave,** freshly loaded. The **map is the prize** (the rats lunged
   for it here); he pays the square's guards to fight and grabs for it. Replayed
-  in full as [The Second Hand Ambush](../encounters/the-second-hand-ambush.md).
+  in full as [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md).
 - 🔒 **And he's a useful idiot, not a freelancer.** Ratatat is paid to steal the maps for a
   buyer he knows only as **"V."** — and has **no idea** V. is an agent of the
-  [First Foundation](../lore/the-first-foundation.md), Preem's ancient rivals, or
+  [First Foundation](../world/nila/lore/the-first-foundation.md), Preem's ancient rivals, or
   that the maps are **espionage** (telling them *where Preem is sending crews and
   what he's collecting* for the comet pass). So the doorstep ambush isn't Preem
   watching the party — it's **Preem's enemy watching Preem,** through a thief who
@@ -75,7 +75,7 @@ restocking his pantry.)
   it, and the lame excuse one of them gave is the tell.** (Named for the sentries
   who open *Hamlet*.) These are the guards Ratatat **already owns** (bought into
   silence as witnesses to his racket — see the
-  [ambush writeup](../encounters/the-second-hand-ambush.md)). In *this* fight,
+  [ambush writeup](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md)). In *this* fight,
   though, they were posted in the square and **didn't lift a finger** while the
   rat man attacked; afterward, questioned, one of them stammered a bad explanation
   for why they hadn't helped. That excuse is *true-by-being-false* — the real plan
@@ -85,7 +85,7 @@ restocking his pantry.)
   instead of being robbed — so the staged rescue never came, the guards were
   caught flat-footed, and they **panicked when questioned.** Hence the terrible
   excuse. It pays off directly in
-  [The Second Hand Ambush](../encounters/the-second-hand-ambush.md): the same
+  [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md): the same
   three guards, done with the charade after the embarrassment, **fight openly for
   the rat man** — and the party sees what the excuse was hiding.
 - The party walked away from the fight with **rat meat** harvested from
@@ -100,7 +100,7 @@ restocking his pantry.)
   party out of Preem's office, is a **quasit** — one of Preem's planted
   spy-familiars, the **same trick as the "psychic bat"** that had just led the party
   *up* those stairs. It rides with the
-  [**Brass Jackals**](../encounters/tavern-name-hunter-crews.md), a foreign
+  [**Brass Jackals**](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md), a foreign
   name-hunter crew Preem hired but doesn't trust; its host, the crew's drug-addled
   alchemist **Pim,** believes it's his own lab-familiar. Canonizing it means the
   party **first crossed the Jackals here, in session one** — five faces they'll meet
@@ -113,18 +113,18 @@ restocking his pantry.)
   his centipede for his own drug-addled brain;** probe the toad or the bug and it
   plays mute. They watch and answer to Preem alone. See
   [Preem's demons → crew familiars](../characters/preems-demons.md) and
-  [the tavern scene](../encounters/tavern-name-hunter-crews.md).
+  [the tavern scene](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md).
 
 - [x] **Rat man + rats stat blocks recorded** in
-      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md) (**Ratatat,**
+      [`bestiary/the-rat-man.md`](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md) (**Ratatat,**
       "the Rat Caller" — CR ½ + 14 rat minions).
 - [x] **Rat man's agenda settled:** a **useful idiot** who is paid to steal the **maps**
-      for a buyer "V." — unknowingly feeding **[First Foundation](../lore/the-first-foundation.md)**
+      for a buyer "V." — unknowingly feeding **[First Foundation](../world/nila/lore/the-first-foundation.md)**
       espionage on Preem. Trail ends at **V.** (the one Maalm agent;
       compartmentalized). Still `[OPEN]`: **who V. is** — see
-      [`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md).
+      [`bestiary/the-rat-man.md`](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md).
 - [ ] **He hunts *every* Preem crew, the PCs among them.** Replayed as a
-      set-piece in [The Second Hand Ambush](../encounters/the-second-hand-ambush.md):
+      set-piece in [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md):
       the party finds another of Preem's groups ([The Second Hand](../characters/the-second-hand.md))
       pinned down by the rat man and **corrupt city guards**, saves them,
       and gains a standing ally / anti-TPK cavalry.

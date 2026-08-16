@@ -3,9 +3,9 @@
 Player: **Ahms**. Distilled from the 5/27–6/19/26 backstory chat. This is a
 working reference for running the character and building encounters that
 highlight him — see **Encounter hooks** at the bottom. World-level
-worldbuilding lives in **[lore/floating-fleet.md](../lore/floating-fleet.md)**,
-**[lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md)**, and
-**[lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)**.
+worldbuilding lives in **[lore/floating-fleet.md](../world/the-sea/lore/floating-fleet.md)**,
+**[lore/taniyn-and-lonka.md](../world/lonka/lore/taniyn-and-lonka.md)**, and
+**[lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)**.
 
 > Legend: **[settled]** = agreed in chat · **[loose]** = floated, not locked.
 >
@@ -17,7 +17,7 @@ worldbuilding lives in **[lore/floating-fleet.md](../lore/floating-fleet.md)**,
 - **Class / vibe:** Dragonborn **druid** — a **solitary wandering** pirate,
   *not* one of the island zealots. **[settled]**
 - **The druid hook (his whole concept):** the one thing the
-  [Floating Fleet](../lore/floating-fleet.md) **can't harvest from the sea is
+  [Floating Fleet](../world/the-sea/lore/floating-fleet.md) **can't harvest from the sea is
   timber** — masts, spars, hulls — so a druid who **grows and repairs wood** is
   the most valuable hand on a fleet of ships. A deliberate inversion of "sea
   druid = merman": **it's all about the plants.** **[settled]**
@@ -30,7 +30,7 @@ worldbuilding lives in **[lore/floating-fleet.md](../lore/floating-fleet.md)**,
   the Floating Fleet because of his association with Sayid (below). **[settled]**
 - **Why he's an odd one `[DM ruling — Will, 6/26]`:** wandering dragonborn are
   **solitary** by nature — they roam the archipelago alone, in the mold of the
-  [Wandering saints](../lore/wandering-dragonborn.md). The great **Floating
+  [Wandering saints](../world/the-sea/lore/wandering-dragonborn.md). The great **Floating
   Fleets** are a *separate open-water civilization* (majority halfling) that
   touches the archipelago only every couple years on timber-runs. So Blackacre's
   having **lived with a Fleet at all** is unusual for one of his kind — an
@@ -86,7 +86,7 @@ answer decides, and how to give him practice first — are in
 ### Two dragonborn factions
 Both worship the same dragon — **Taniyn**, who rested her wings on the
 island-mountain of **Lonka**, the first land; see
-[lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md). They split on how:
+[lore/taniyn-and-lonka.md](../world/lonka/lore/taniyn-and-lonka.md). They split on how:
 
 - **Lonka Zealots** — insular, island-bound; they **guard the dragon's first
   perch.** They **reclaimed Lonka from the elves/humans who had repopulated it
@@ -98,7 +98,7 @@ island-mountain of **Lonka**, the first land; see
   — **not** this faction and **nothing to do with the Zealots**.) **[settled]**
 
 ### The Floating Fleet (Blackacre's angle)
-Full detail in [lore/floating-fleet.md](../lore/floating-fleet.md) (Phoenician
+Full detail in [lore/floating-fleet.md](../world/the-sea/lore/floating-fleet.md) (Phoenician
 water-world nomads, **majority halfling**, chiefdom of many heads, timber-runs,
 whale-bladder war-drums). A **separate open-water civilization — not the
 dragonborn nomad faction, and nothing to do with the Lonka Zealots.** What
@@ -126,7 +126,7 @@ above), which is where his druid-shipwright gift was prized:
   it. So the water belongs to the **Mukka pirates**, the **small independent
   traders** they prey on, and lone **wandering dragonborn** like Blackacre — fast
   little sloops and canoes, no galley-power among them. Full picture:
-  [lore/ships-and-sea-power.md](../lore/ships-and-sea-power.md).
+  [lore/ships-and-sea-power.md](../world/the-sea/lore/ships-and-sea-power.md).
 
 ## Culture, language & religion
 
@@ -155,13 +155,13 @@ above), which is where his druid-shipwright gift was prized:
   her wings and the sea raised **Lonka** up to meet her; dragonborn are her
   children. It's why **Lonka is holy to nomad and zealot alike**, and why the
   Zealots guard it. (A race-wide origin myth, not a personal tie of Blackacre's.)
-  See [lore/taniyn-and-lonka.md](../lore/taniyn-and-lonka.md). **[settled]**
+  See [lore/taniyn-and-lonka.md](../world/lonka/lore/taniyn-and-lonka.md). **[settled]**
 - **Religion / theme — the Wandering.** His faith is the veneration of
   **mythological wandering dragonborn saints** — solitary heroes who sailed
   out alone in tiny boats, did demigod-scale deeds (Heracles / Maui / Coyote
   / Cú Chulainn), and died far from anyone, each marked by a **watch-stone**
   you stumble on island to island. Full write-up — the four saints, their
-  deeds, their graves — in **[lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)**.
+  deeds, their graves — in **[lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)**.
   **[settled — per 6/19 chat]**
 - **"Sea-Fever" is the creed**, not a one-off quest: it's the **liturgy of
   the Wandering**, recited the way scripture is, and its phrases are the
@@ -207,7 +207,7 @@ above), which is where his druid-shipwright gift was prized:
 5. **Watch-stones on every sea-road** — drop a wandering-saint's grave on the
    route to any destination. Repetition does the work: stumbling onto stone
    after stone is what turns Blackacre's eye-roll into faith. See the hooks in
-   [lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md) (esp.
+   [lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md) (esp.
    **completing the labor Idris died before finishing** — maximum resonance
    with his atonement arc).
 
@@ -215,7 +215,7 @@ above), which is where his druid-shipwright gift was prized:
 
 - Invent the **dragonborn blessing/greeting** wording (Ahms's call).
 - ~~Decide how "Sea-Fever" is woven in~~ → **resolved:** it's the creed of
-  the Wandering ([lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)).
+  the Wandering ([lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)).
   Remaining: **lock the four saints' names** (Idris / Anzar / Wazzan / Tariq)
   and **pick inscriptions** for Anzar, Wazzan, Tariq (Requiem → Idris is set).
 - Lock or drop **cannibalism** as a cultural trait, and decide whether it's the
@@ -225,14 +225,14 @@ above), which is where his druid-shipwright gift was prized:
 - A specific **good/bad deed from his past** the DM can pull an NPC from (asked,
   not yet answered).
 - Whether to run the **lost-tribes-of-dragonborn** quest (Carthage/Phoenician
-  survivors in hidden coves — see [lore/floating-fleet.md](../lore/floating-fleet.md)).
+  survivors in hidden coves — see [lore/floating-fleet.md](../world/the-sea/lore/floating-fleet.md)).
 
 ---
 
 ## Appendix — "Sea-Fever" (John Masefield)
 
 The **creed of the Wandering** — see
-[lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md).
+[lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md).
 
 > I must go down to the seas again, to the lonely sea and the sky,
 > And all I ask is a tall ship and a star to steer her by;

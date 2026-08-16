@@ -19,13 +19,13 @@
 ## The main square — the Second Hand ambush
 
 - In the **main square** they walked into
-  [The Second Hand Ambush](../encounters/the-second-hand-ambush.md):
+  [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md):
   **Ratatat** and the three bought guards (**Marcellus** the sergeant,
   **Bernardo**, **Francisco**) pinning down the **Second Hand**, Preem's
   other name-hunting crew ([writeup](../characters/the-second-hand.md)).
 - The party waded in and **saved the crew.** This time they **captured
   Ratatat** rather than letting him flee — a break from every prior
-  encounter, where he **runs** ([`bestiary/the-rat-man.md`](../bestiary/the-rat-man.md)).
+  encounter, where he **runs** ([`bestiary/the-rat-man.md`](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md)).
 - With the crew saved, the **Second Hand became allies.**
 
 ## Cassia's history
@@ -40,7 +40,7 @@
   it**, and at his direction **Jasper severed two of Ratatat's fingers.**
 - Under the torture, **Ratatat gave up V.**: **V. was going to meet him at
   a nearby mill** — the *"Bring more to the mill. — V."*
-  [note](../bestiary/the-rat-man.md) made live. This is the party's first
+  [note](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md) made live. This is the party's first
   concrete line on the guard → Ratatat → **V.** chain, now pointing at a
   place and a meeting.
 - Then — even after Cassia's warning about the corrupt watch — they **let
@@ -61,7 +61,7 @@
 ## The founder's plaque
 
 - After the fight — in
-  **[Bedraageon Square](../lore/bedraageon-square.md)**, Maalm's central
+  **[Bedraageon Square](../world/suartleheim-eet/maalm/lore/bedraageon-square.md)**, Maalm's central
   plaza and the same ground as the [Session 1](session-01.md) ambush — they
   noticed the **grave-plaque** set flat by the fountain. **Blackacre read
   it:** the epitaph of **Bedraageon**, the dragonborn founder of Maalm.
@@ -72,7 +72,7 @@
   **ink and parchment.**
 - The hiring ran through **Ali (Zaynab) al Qahtani** rather than her brother
   Muntadhir: **Ali hired Aniess to perform the
-  [Dream Quest](../encounters/the-dream-quest.md)** — the death-rite for the
+  [Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)** — the death-rite for the
   family's late father, Ghassan.
 - Aniess asked whether she should **bring anything to the ritual.** Ali:
   **"Bring a pillow."**
@@ -106,7 +106,7 @@
   **V. was going to meet him at a nearby mill** — the *"Bring more to the
   mill. — V."* note made live. Ratatat is paid to steal Preem's maps for **"V."**
   without knowing V. is the
-  [First Foundation](../lore/the-first-foundation.md)'s one Maalm agent, so
+  [First Foundation](../world/nila/lore/the-first-foundation.md)'s one Maalm agent, so
   this is the party's first concrete line on **V.** and the on-ramp to
   Preem's rivals. **The mill has no writeup — it's improvised**, so it needs
   building before the party goes: who V. is (still `[OPEN]`), what the
@@ -137,9 +137,9 @@
   dropped in the fight, that's the man she was forced out for naming.
 - **Lucrecia — a new elite-caste contact (improvised).** She reads Maalm's
   **elite caste** as the **elven old families** of the gated upper city
-  ([the elven stronghold](../lore/maalm-the-elven-stronghold.md)); `[OPEN]`
+  ([the elven stronghold](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md)); `[OPEN]`
   whether she ties to the **Second Foundation**, that elite's inner faction
-  ([the-second-foundation.md](../lore/the-second-foundation.md)). Her logic
+  ([the-second-foundation.md](../world/nila/lore/the-second-foundation.md)). Her logic
   on the fingers folds neatly into the **sham-fight** theme running through
   the corrupt watch: real maiming reads to her as proof the fight wasn't
   staged. Two character beats left live: **Aniess snubbed her** (a slighted
@@ -157,7 +157,7 @@
   ([the children](../characters/the-children.md)). The **ink and parchment**
   Aniess bought line up with the ritual — the **Dream of the Blue Veil**
   incantation. Full encounter:
-  [The Dream Quest](../encounters/the-dream-quest.md).
+  [The Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md).
 - **Aniess's nat-20 opened a hidden thread.** She read that **Ali means her
   no harm but is hiding something**, and — the big one — that **the rite
   already failed for Ali and Muntadhir**, for a reason Ali is keeping back.
@@ -167,7 +167,7 @@
   — the Dream of the Blue Veil is a **door of sleep**, and the half-demon
   children can't cross it: *"we lie down, we say the words, we close our eyes
   — and we just sleep. No water, no boat, no him"*
-  ([the-dream-quest.md](../encounters/the-dream-quest.md)). **They do not
+  ([the-dream-quest.md](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)). **They do not
   dream**, so the rite has nowhere to take them. What's `[OPEN]` is **how
   much of that Ali is hiding** and **when it surfaces** (the Jasper beat
   below is one vehicle). This is also where Aniess's **resurrection**
@@ -187,10 +187,10 @@
   **mid-morning** now, so expect the party to **hit the mill first**. The
   race is live: **Ratatat, freed by the sham arrest, will likely warn V.**,
   and if the party is slow the **mill turns up empty** — no meeting, no
-  lead. They may also stop at **[The Twelve](../lore/maalm-founding.md)**,
+  lead. They may also stop at **[The Twelve](../world/suartleheim-eet/maalm/lore/maalm-founding.md)**,
   Maalm's oldest tavern (named for Bedraageon's twelve companions).
 - **Dream Quest house prep fleshed out** (in
-  [the-dream-quest.md](../encounters/the-dream-quest.md)): the al Qahtani
+  [the-dream-quest.md](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)): the al Qahtani
   house is now an **Egyptian-museum of Amseh relics**; **Muntadhir gives a
   tour** before the rite, dropping his father's **old-gods worship** (last
   believer in Maalm) and the **legend that the faithful survived the Dark
@@ -212,7 +212,7 @@
   **house sits just outside the gated old-elf quarter** in a good district
   (new-money merchants, not old elite), with a **kitchen garden** that feeds
   the morning-after **breakfast** — all now in
-  [the-dream-quest.md](../encounters/the-dream-quest.md).
+  [the-dream-quest.md](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md).
 
 ---
 
@@ -223,7 +223,7 @@
 - [x] **What Ratatat gave up** — **V. is meeting him at a nearby mill.**
 - [ ] **The mill meeting** — build it (no writeup yet) and decide how the
       party plays it: intercept, observe, or ambush **V.**, the
-      [First Foundation](../lore/the-first-foundation.md)'s Maalm agent
+      [First Foundation](../world/nila/lore/the-first-foundation.md)'s Maalm agent
       (`[OPEN]` who V. is). First contact with Preem's rivals. **Time race:**
       the Dream Quest is tonight and it's mid-morning — if the party is too
       slow, **Ratatat warns V.** and the mill turns up empty.
@@ -235,7 +235,7 @@
       is now prepped — the **house-as-museum**, **Muntadhir's tour** (the
       father's old-gods faith + the underground-survival legend), the
       **small Anubis** as the other-plane component, and the **statue gift**
-      on success. [`the-dream-quest.md`](../encounters/the-dream-quest.md)
+      on success. [`the-dream-quest.md`](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)
 - [ ] **What Ali is hiding, and when it surfaces** — the rite failed for
       the siblings because **they don't dream** (canon: the door of sleep);
       `[OPEN]` is how much Ali admits and whether there's a deeper aim
@@ -244,9 +244,9 @@
       dreams, and admit they don't.
 - [ ] **Lucrecia** — new elite-caste contact. **Sarric owes a healing
       potion** he took 50 gp for and never bought; **Aniess snubbed her.**
-      `[OPEN]` her tie to the [Second Foundation](../lore/the-second-foundation.md).
+      `[OPEN]` her tie to the [Second Foundation](../world/nila/lore/the-second-foundation.md).
 - [ ] **The docks — tomorrow 9 AM.** Run
-      [Departure Under Fire](../encounters/docks-departure.md): a **send-off**
+      [Departure Under Fire](../world/suartleheim-eet/maalm/encounters/docks-departure.md): a **send-off**
       turns into a **trumped-up arrest** (illegal export of the **20 rats**),
       the **Second Hand opens fire from the boat**, and **waves** of guards push
       the party to **flee by boat** with **Cassia**. Surviving it **earns the

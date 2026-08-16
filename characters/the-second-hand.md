@@ -1,14 +1,14 @@
 # The Second Hand — Preem's other crew, and the party's mirror
 
 > **NPC adventuring party.** One of [Preem](preem.md)'s **many name-hunting
-> crews** ([overview](../lore/campaign-overview.md)) — a sibling group to the
+> crews** ([overview](../world/nila/lore/campaign-overview.md)) — a sibling group to the
 > PCs, sent out of the same tower on the same errand. The party first meets them
 > **pinned down and dying** in the citadel district, ambushed by the **rat man**
 > and a knot of **corrupt city guards** exactly as the PCs were in
 > [Session 1](../sessions/session-01.md). If the party saves them, the Second
 > Hand becomes a **standing ally** — and the GM's quiet **anti-TPK lever** for
 > the rest of the campaign. Full set-piece:
-> [The Second Hand Ambush](../encounters/the-second-hand-ambush.md).
+> [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md).
 >
 > Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
 
@@ -23,7 +23,7 @@
   blinking. (Swap the name freely if it doesn't land; the function is what
   matters.)
 - `[settled]` **What they are:** **another of Preem's crews,** working the same
-  contract as the party — out to the [Valley of the Kings](../encounters/valley-of-the-kings.md)
+  contract as the party — out to the [Valley of the Kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md)
   to fetch **names** for the Foundation's "archive." They carry their own
   [atlas and location stone](preem.md#after-the-first-two-sessions--whats-canon-at-the-table)
   and report to **Mul** down the same sending stone. They do **not** know what
@@ -59,11 +59,11 @@ in-combat mending falls to Halvard's Lay on Hands.
   rattle — right up until she watches the bought guards move to **"arrest"**
   Ratatat and walk him to safety (or pile into the fight when the party won't
   fall for it), and the old fury comes straight back up
-  ([the ambush](../encounters/the-second-hand-ambush.md)).
+  ([the ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md)).
 - `[settled]` **Halvard Stone** — **Suartleheim dwarf,** oath-bound shieldbearer
   (paladin). The **body that takes the hit:** when the Second Hand bails the
   party out, Halvard is the one who plants himself in the breach. A **veteran of
-  the [Musleheim Reconquest](../lore/kuru-and-the-phoenix.md):** a shipwright from
+  the [Musleheim Reconquest](../world/kuru/lore/kuru-and-the-phoenix.md):** a shipwright from
   the yards at Ools who took an oath and shipped out with Kuru's holy war against
   the orc-held lands, and came home **soured on it** — a war of conquest dressed
   as faith, a god that may be going mad. The crew's **moral anchor,** and its
@@ -71,11 +71,11 @@ in-combat mending falls to Halvard's Lay on Hands.
   cause that curdled before, and he watches this one the same way. **Shepard
   hook:** Shepard spent centuries as a statue in a Suartleheim town, so Halvard
   can simply **recognize him** — "the iron saint from the square back home" — a
-  quiet way to spring the [Shepard](shepard.md) / [Vigil](../lore/kuru-and-the-phoenix.md)
+  quiet way to spring the [Shepard](shepard.md) / [Vigil](../world/kuru/lore/kuru-and-the-phoenix.md)
   thread through an ally instead of exposition.
 - `[settled]` **Nuru** — **valley-born mage** of a **hereditary tomb-warden
   line:** the remnant people who never left the [Valley of the
-  Kings](../encounters/valley-of-the-kings.md), keeping the old script and the
+  Kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md), keeping the old script and the
   funerary rites by oral tradition and charged for generations with shepherding
   the dead kings toward judgment and **guarding their graves.** She took Preem's
   contract to get **back into the valley her displaced people were shut out of**
@@ -105,7 +105,7 @@ in-combat mending falls to Halvard's Lay on Hands.
 `[loose]` Compact allied blocks so the GM can run all four fast without a
 monster manual open. Tuned as **level 3–4 equivalents** — a step past a
 level-2/3 party, "a little more weathered," per the snapshot — for the
-[docks fight](../encounters/docks-departure.md) and any time the alliance
+[docks fight](../world/suartleheim-eet/maalm/encounters/docks-departure.md) and any time the alliance
 fights beside the party. Each carries a **ranged option** on purpose: their
 signature move at the docks is a **surprise volley from Cassia's boat**, so
 every member can open at range before closing. Round the numbers to taste.
@@ -179,7 +179,7 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
 
 ## How they meet — the ambush that bonds them
 
-`[settled]` Full encounter: **[The Second Hand Ambush](../encounters/the-second-hand-ambush.md).**
+`[settled]` Full encounter: **[The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md).**
 In short: just outside Preem's tower the party comes on the Second Hand
 **already losing** — the **rat man** has caught them on the way out the way he
 caught the PCs, because Preem **outfits every crew with magic gifts** and the rat
@@ -219,7 +219,7 @@ Why it works:
 
 - `[loose]` **The signal.** Grateful — and having watched the party fight for
   them a second time — **Nuru splits a scrying-glyph** and gives the party half
-  at [the docks departure](../encounters/docks-departure.md): a shard of chalked
+  at [the docks departure](../world/suartleheim-eet/maalm/encounters/docks-departure.md): a shard of chalked
   stone, a paired token, whatever fits your table. *"Break it when you're dying.
   If we can reach you, we will."* When the party shatters their half, Nuru's half
   **flares,** wherever the Second Hand is.
@@ -255,14 +255,14 @@ Why it works:
 
 ## Encounter hooks
 
-1. **The rescue (first contact)** — [The Second Hand Ambush](../encounters/the-second-hand-ambush.md).
+1. **The rescue (first contact)** — [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md).
    The party saves a dying crew, drives off the rat man, and breaks a knot of
    corrupt guards. Ends with a standing alliance; the split-glyph itself is
-   **earned later,** at [the docks departure](../encounters/docks-departure.md).
+   **earned later,** at [the docks departure](../world/suartleheim-eet/maalm/encounters/docks-departure.md).
 2. **Crossed paths in the tombs** — the two crews are working the **same Valley
    of the Kings** from different ends. A wrinkle, a race, or a mutual bail-out
    deep underground. ("Rival groups, or the scattered remains of their bodies,"
-   per the [overview](../lore/campaign-overview.md) — let the party find the
+   per the [overview](../world/nila/lore/campaign-overview.md) — let the party find the
    Second Hand *alive* for once.)
 3. **The favor called back** — the Second Hand breaks **their** shard. The party
    chooses whether to be someone else's cavalry, and learns what their own

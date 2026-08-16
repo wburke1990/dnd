@@ -1,6 +1,6 @@
 # There's No Earthly Way of Knowing (Player Handout)
 
-*The text behind [the river with no downstream](../lore/the-river-with-no-downstream.md) — a river with no direction, taken from the line "there's no knowing which way the river's flowing." Verbatim, line breaks preserved.*
+*The text behind [the river with no downstream](../world/nila/lore/the-river-with-no-downstream.md) — a river with no direction, taken from the line "there's no knowing which way the river's flowing." Verbatim, line breaks preserved.*
 
 *Real-world source: Roald Dahl (1916–1990). The shorter core is from the novel "Charlie and the Chocolate Factory" (1964); this longer version, with the added weather and Hell lines, is from the 1971 film "Willy Wonka & the Chocolate Factory."*
 

@@ -1,0 +1,548 @@
+# Lineages & Afterlives — three deaths, many peoples
+
+> **Principle:** death is not the same for everyone. There are **three great
+> lineages**, each branching into many peoples, and each people's religion is
+> right about *its own* dead and wrong to think it speaks for everyone. Two
+> faiths can disagree about what death is and **both be literally true.** The
+> deep axis under it all: **named-and-ownable** (the true-named) vs.
+> **nameless-and-free** (the nameless), with the mortal dragon-descended in the
+> middle. Companion to
+> [myth & poem as literal truth](myth-and-poem-as-literal-truth.md) (the method
+> that generated this) and [campaign-overview](campaign-overview.md) §3.D / §5.
+
+---
+
+## 1. The principle
+
+The same move as "one mythology per region," turned inward: **death by
+bloodline.** Three great lineages, each with many branches, and each people
+sure it knows what death is — each correct, but only about its own kind. When
+two faiths meet they disagree, and neither is wrong. Reveal it slowly, the way
+the comet cycle is revealed — no exposition dump; burial customs and where a
+place's dead seem to have "gone" are the seeds, and the party works it out.
+
+**Lineage is the deep bloodline, not the surface race.** A cross-lineage child
+carries both and, at death, **chooses** which claims them (§6).
+
+## 2. The three lineages
+
+| Lineage | Origin | At death | Branches |
+|---|---|---|---|
+| **The true-named** (a power apart) | Outsiders to the mortal cycle. Each has a **true name — a leash;** to know it is to own them (Planar Binding) | Bound or destroyed, never judged | **Two poles: Demons** (chaos, the magma-deep, below — no afterlife) and **Celestials** (order, the sky, above) |
+| **Dragon people** | The comet: the primordial dragon-ancestor, then the cosmic beasts that mutated each line | **Judged in the sky** by the deity of their line's cosmic beast | **Many** — one per cosmic beast / region (Maalm's Egypt is example #1); includes **giant humans** (island gigantism) |
+| **The nameless** | Primordial — born of the world itself | **Return to the world** — unjudged, and no name to be owned by | **Earth** (True Giants → mountains; giant-kin/Firbolgs → the alpine life) and **Sky** (the weather-people → rain, rivers, storm) |
+
+In short: **the true-named** are named and can be owned; **the nameless** have
+no name and cannot; **dragon people** are the mortal middle — they carry a Ren
+(true name) that matters for their souls, but they are not bound like outsiders.
+
+## 3. The true-named — demons and celestials
+
+Two poles of one power-apart lineage, outsiders to the mortal cycle. What makes
+them one lineage is the **true name:** each has one, and a true name spoken in
+Planar Binding **owns them, no saving throw** (see
+[house rules](house-rules-and-world-mechanics.md)). To be named is to be
+ownable.
+
+- **Demons** — born from chaos, out of the magma-deep; the pole **below.** They
+  get **one existence and nothing after.** This sharpens the name-quest horror:
+  binding a demon by its true name enslaves it, and the demon has **no
+  afterlife to be freed into.** Planar Binding takes the one life it will ever
+  have (see [the dream quest's wizard's-hand note](../../suartleheim-eet/maalm/encounters/the-dream-quest.md)).
+- **Celestials** — order and the sky; the pole **above.** Their existence is
+  eternal but **named** — bound to their heaven and their name the way a demon
+  is bound to the deep. `[OPEN — exact shape of the celestial "afterlife"; keep
+  it "eternal-but-owned," the mirror of demonic no-afterlife.]`
+
+This is the pole opposite the nameless (§5): named-and-ownable against
+nameless-and-free.
+
+## 4. Dragon people — judged in the sky
+
+Most peoples descend from the comet. History opens with one primordial dragon
+falling and becoming the dragonborn island; her children filled the world
+([overview §5](campaign-overview.md)). Later comet-beasts mutated different
+lines — and **each line's dead are judged in the sky by the deity of the
+cosmic beast that made them.** Humans, dwarves, elves, dragonborn, and the
+**giant humans** all belong here.
+
+**This is why one-myth-per-region works and is all true at once:** each region
+descends from a different cosmic beast and answers to that beast's pantheon —
+**many subcategories under the one lineage.** **Maalm's Egypt is example #1** —
+Osiris judging the dead who travel the river of stars to the Hall of Two
+Truths ([the dream quest](../../suartleheim-eet/maalm/encounters/the-dream-quest.md)) *is* dragon-people
+sky-judgment. Maalm is the template, not the exception.
+
+**The road to the sky runs through the deep.** A line's dead follow the sun —
+down at the western horizon, through the Abyss, out at dawn to the judgment
+hall — and each line's god secured that crossing **god-to-god**, in a compact
+with the deep-people whose country the road crosses. The keepers' names given
+as sureties of that compact are the covenant names of the whole names-quest
+(see [Demons, the Hotspot, and the Deep Cities](demons-and-the-hotspot.md)).
+Mortals were never party to it: the rites can be lost, the passage-right
+cannot.
+
+**Island gigantism lives here.** Isolated islands grow their people large (or
+shrink them) — real evolution, fast on Nila. A **giant human** is a dragon-
+person grown big on a lonely island; still sky-judged. **Size is not lineage —
+a giant human is not a True Giant** (those are among the nameless, §5).
+
+## 5. The nameless — return to the world
+
+A primordial lineage, born of the world itself. They are **not judged**
+(dragon-people) and **not owned** (the true-named): they go **back into the
+world.**
+
+**They have no name.** No name for the lineage, and none carried among their
+dead. In a world where a true name is a leash — the whole
+[names & ownership thesis](campaign-overview.md) — a people that dissolves back
+into the world keeps nothing that can be seized. They are the true opposite of
+the named outsiders (§3).
+
+Two flavors, many kin within each:
+
+**Earth — become the land.**
+- **True Giants** are too large to scatter; a dying giant lies down and becomes
+  a ridge, a peak, a massif. **The mountains are the giant dead.** This is the
+  Norse **Ymir** myth — the world built from the first giant's body — played
+  straight, the "new creation story" of the world. `[OPEN — reconcile with
+  `[Lonka / Jotunheim](../../lonka/lore/lonka-jotunheim.md)`.]`
+- **Giant-kin — the beautiful relatives (Firbolgs, Sarric)** are the smaller
+  earth-branch: they disperse into the mountain's life — the meadow, the
+  treeline, the bees.
+- **The forest-people — Pax's mother's kin** are the earth-branch of the low
+  woods, where the giant-kin are the branch of the peaks. A dying forest-person
+  lies down and becomes a tree, then the leaf-litter and roots and rot that feed
+  the next growth. **The old trees of a wood are its dead.** They leave no hand
+  on any rock; they leave a standing tree. Their country is **northwest
+  Musleheim** (§6, Pax). Two of their dead — an ash and an elm — were carried off
+  to Jotunheim and renamed there (see [Lonka / Jotunheim](../../lonka/lore/lonka-jotunheim.md) §5;
+  the zealots' Askr and Embla).
+- **The hand on the wall** is the earth-kin mark: before a giant lies down to
+  become stone it presses a hand to the rock. There is no true name to leave,
+  so they leave a hand. This is where **cave paintings** come from (§8).
+- **Dumuzi**, the trapped renewer of
+  [the Descent of Inanna](../../musleheim/encounters/the-descent-of-inanna.md), is of this
+  branch — nameless, unownable, held below by the underworld's law of
+  substitution rather than by any name. The quest built on him is the one
+  place the name-hunt's tool does nothing.
+
+**Sky — become the weather.**
+- **The weather-people** die into rain, rivers, storm, wind, the light on
+  grain, the birds, the night stars — Frye's *[Do Not Stand at My Grave and
+  Weep](../../../handouts/do-not-stand-at-my-grave.md)*, played straight (fuller
+  sketch in [the poem pillar](myth-and-poem-as-literal-truth.md) §6). Every
+  wind is someone; a storm is many of them; binding weather is binding the dead
+  (a dammed river, a withheld rain, a bound ghost that couldn't disperse).
+  Their idiom for a death is **"she's on the other wind."**
+
+### The cycle — how the nameless are made
+
+**Returning to the world is not an ending; it is the supply.** The body goes
+into the land as material. The soul goes back into a **common stock**, and new
+nameless are drawn from it. Same cloth, distinct people — a new giant is made
+of what the old giants were, and is nobody who came before.
+
+**They reproduce ordinarily.** Bodies are conceived and born the usual way;
+it is the **soul** that is drawn from the stock, not the child. Sarric has a
+mother. "Made from the same cloth" is a claim about soul-stock and nothing
+else — no one grows out of a hillside.
+
+**This is the opposite trade from sky-judgment, not a worse one.** Set the two
+side by side and neither is the good one:
+
+| | You persist as yourself | You are separable from the world | You can be owned |
+|---|---|---|---|
+| **Dragon people** (§4) | yes, forever | yes — hauled up and judged | **yes** — a Ren is a name, and a name is a leash |
+| **The nameless** | **no** | no — never separated | **no** — nothing continuous for a name to hold |
+
+**And this is where the names thesis comes from.** The nameless cannot be
+bound because there is no persistent individual for a true name to fasten to.
+So the transformation that made dragon-people out of earth stock (§4) did not
+only install a destination — it produced **the thing that can be owned.**
+Being seizable is the scar left by being cut out of the world. Preem's entire
+business rests on an operation performed on the ancestors of his stock five
+thousand years ago.
+
+### The covenant with the dragons `[loose — Will 8/16, proposed]`
+
+`[Will 8/16]` The dragons run **two agreements**. Between them they explain where
+sky-judgment comes from, what the demons are doing, and why every tomb in the
+campaign has something in it.
+
+**1. With mortals — eternal life, for submitting to judgment.** Pledge yourself
+to one of the dragon religions and **agree to be judged by it**, and your soul is
+kept forever. That is §4's sky-judgment restated as a bargain, and two things
+follow from it. It is **not inherited** — it is pledged, by each person, so it can
+be declined, and it can be offered to someone outside. And **the price is
+jurisdiction**: you accept a court's authority over your soul. Agreeing to be held
+to account is agreeing to be *held*. **This is where a soul that can be owned
+comes from, and so the origin of every leash in the world.**
+
+**2. With the demons — service, for grave goods and life.** The eternity the first
+agreement promises has to be *run* by someone, and the demons do the labour. Their
+wages are the **grave goods buried with the dead**, and the service is what keeps
+them in existence. The [Egyptian material](../../suartleheim-eet/maalm/lore/egyptian-afterlife-mythology.md) has
+been sitting there waiting to be read this way: **the ushabti** — figurines put in
+the tomb to perform labour for the dead — are the demons, and everything in the
+tomb with them is what they are being paid.
+
+> **So every tomb the party opens is a demon's unpaid wages.** And
+> [Preem](../../../characters/preem.md) is doing something worse than slaving. He takes
+> demon service by name-binding, which cuts the dragons out of their own
+> arrangement and takes the labour without the goods that were meant to buy it —
+> the dragons' system run without the dragons and without paying. The party have
+> been robbing the payment and carrying home the names that make the theft work.
+
+### The trees take people. The dragons do not. `[Will 8/16]`
+
+The afterlives divide between earth and sky, and so does what each side will accept as
+an offering.
+
+**The trees take people.** [The hell-tree](../../suartleheim-eet/brauron/encounters/the-hell-tree.md) is a
+working consecration kept in power by the deaths around it, and the
+[trees rite](../../lonka/encounters/jotunheim-trees-rite.md) cites the grove at Uppsala, where
+the trees are divine from the blood of what is hung in them. A great tree comes into
+power by blood, and any blood will do.
+
+**The dragons refuse them.** The covenant takes **an animal in the stead of a person**,
+and that substitution is the dragons' rule rather than a detail of the ceremony. The
+verse is Genesis 22, where the knife is stopped:
+
+> *Lay not thine hand upon the lad, neither do thou any thing unto him.*
+>
+> *And behold behind him a ram caught in a thicket by his horns: and Abraham went and
+> took the ram, and offered him up for a burnt offering in the stead of his son.*
+
+Three things follow. **The Lonka zealots broke the rule: they used people instead of
+animals**, dropping the substitution the rite requires, and the dragons left them
+([Lonka / Jotunheim §4](../../lonka/lore/lonka-jotunheim.md)). The massacre a century later used people
+the same way, to call the dragons back. **[Amseh](../../suartleheim-eet/maalm/lore/amseh-dynasty.md) does the same thing
+next door:** kings sacrificing their own children, calling and not being answered, with
+[Ammit](../../suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md) underneath gorged on the hearts — the dragons do
+not answer, and Ammit takes what is put out. And **[Preem](../../../characters/preem.md)
+takes people, not animals.**
+
+`[OPEN]` Whether the dragons ever *said* so, or whether people worked it out from
+being abandoned. If it is written in the terms read out at
+[stage 2 of the rite](../encounters/the-covenant-rite.md), then the zealots had it in
+a book and did it anyway.
+
+**The token in the sky (Genesis 9).** *"I do set my bow in the cloud, and it shall
+be a token of a covenant."* Here the thing set in the sky is **the comet**: it is both
+the covenant sign and what destroys the world, and it comes back.
+
+**How this connects to the campaign thesis.** The
+[thesis](campaign-overview.md) is that transformation is a violation because it is done
+*to* people without consent. This one was **consented to**, and it is still the source
+of what the party is fighting.
+
+**What it changes at the table.** Musa now holds specific covenant terms rather than
+opinions about death. [Blackacre](../../../characters/blackacre.md) is a covenant-holder not
+keeping his side, which fits his line about power never used. And because the pledge is
+a choice and not a birthright, **Musa can offer it to
+[Sarric](../../../characters/sarric.md)** — the
+conqueror-prophet offering salvation to a man of the people he is on his way to
+destroy.
+
+**The pledge is a rite, and the rites work.** `[Will 8/16]` Changing which
+cosmology claims you is something the world has **rituals** for, and they are all
+the same kind of act. [Aniess](../../../characters/aniess.md) has been through one — the
+Punt rite pledged her to the Serpent — and [Pax](../../../characters/pax.md) has to
+perform one to make his choice (§6). The covenant pledge is another of that
+family, and it is written up in full at
+[the covenant rite](../encounters/the-covenant-rite.md) — six stages of Israelite
+covenant ceremony, ending where
+[the Jotunheim rite](../../lonka/encounters/jotunheim-trees-rite.md) begins. Two
+consequences. Because the rites are **real, they work even performed coldly**,
+without belief and without kindness (this is what happened to Aniess).
+And **you stand under one court** — a pledge moves you, it does not add. Aniess
+caught **between two** is the damage her rite did, not how a rite is supposed to
+work.
+
+**So yes — one of the nameless can pledge**, and Musa's offer to
+[Sarric](../../../characters/sarric.md) is a live one with a rite behind it. And because
+a pledge moves you rather than adding to you, **it would take him out of the
+earth.** He would not gain a second ending; he would lose the one he has. He stops
+returning to the mountain — which means he stops being part of **the stock his own
+people are drawn from** (§5). Sarric's dead and Sarric's unborn are the same
+stone, and pledging removes him from the supply. He would be saved out of his
+people rather than with them, and he would go from a man nothing can fasten to
+into a man who can be named and held. **The whole thesis inside one character's
+decision**, offered by the man on his way to destroy his people.
+
+**That is a third position on the consent axis**, which had two. Aniess had it
+**done to her**; Pax **chooses** freely; Sarric would be **offered** it, on the
+eve of a conquest, by the conqueror, meaning it kindly. Not inflicted and not
+free. `[OPEN]` whether Musa understands that what he is offering costs what it
+costs.
+
+`[OPEN]` Whether the covenant **happened**, or is a story the dragon people tell
+about a thing that was done to them. The second is crueller and fits better.
+
+**What survives is memory, not the person.** A soul cut from cloth that was
+other people carries their residue — scraps of lives reaching back thousands
+of years, with no self attached. Nobody remembers *being* you; someone else
+simply carries your memory of a hillside. The memory outlives the rememberer,
+and that is the whole of it. **This is what earth-nameless dreaming is** —
+see §11, which is also where the table mechanic lives.
+
+**The hand on the wall, explained.** If nothing individual survives the
+recycling, the handprint is the only trace of a specific person that outlasts
+them. That is why they leave one. The cave-painting tradition (§8) is a people
+recording the one thing their afterlife does not preserve.
+
+Sarric's fight follows from all this, and is worse than it first looks: the
+mountain is his dead and his **unborn** — the stock new Firbolgs
+are drawn from. The Company gutting a mountain at
+[Haals](../../suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) is butchering ancestors
+and destroying the material his people are made out of. His belief that
+"the world feels pain when it is hurt" ([sheet](../../../characters/sarric.md)) is
+fact, and the crime is closer to sterilization than to desecration.
+
+`[Will 7/29]` **And there is an older crime under the Company's.** The earth-kin are the
+region's displaced first people: at [Suartleheim Eet](../../suartleheim-eet/raand-copaa/lore/the-fallen-gnome-kingdom.md) the
+Firbolgs held the land until Kalikhat's refugee gnomes took it by holy war, and the
+[La Cava handprints](../encounters/temple-sites.md) at Haals are theirs, older than the
+gnomes who live over them now. So Sarric's people are an older race replaced — the Eet Firbolgs
+killed, absorbed, or driven **south of the mountains** to the [Firbolg homeland](../../suartleheim-eet/lore/the-southern-land.md),
+where the living Firbolgs remain; none are left in Eet but their dead. Haals is two crimes on one
+ground: the gnome conquest, then the Company. Real-world anchors: the Fir Bolg of the Irish Book of
+Invasions, and Neanderthal replacement (partial, with admixture — the replaced people survive on,
+elsewhere).
+
+**Does Sarric know?** Yes. His people know what they are, have a word for it,
+and raise children expecting it. It is unremarkable to him — which is the good
+version, because he can be casual about something the rest of the party finds
+staggering.
+
+## 6. Cross-lineage children choose — and Pax
+
+A child of two lineages carries both, and **at death chooses which one claims
+them.** The choice is the redemptive, *chosen* transformation the campaign is
+built around (Theme B) — set against the *inflicted* kind (Aniess, §10).
+
+**Pax is the child of a Celestial and a nameless forest-person** — half
+true-named, half nameless; his mother's people are the forest-branch of the
+earth-nameless in northwest Musleheim (§5). At death he chooses:
+
+- **Celestial** — he was heaven's all along; he accepts a **name, a heaven, a
+  leash.**
+- **Earth / nameless** — the Green Revelation was true, he **dissolves into the
+  forest, unowned,** belonging to the living world.
+
+This resolves the mystery on his sheet — *delusional or chosen?* — because
+those two afterlives **are** those two readings, and his own choice answers it.
+It is already written into him: the Verdant Fist teaches that **the body is a
+bridge between spirit and soil** ([sheet](../../../characters/pax.md)). His whole
+training was learning to be that bridge; his death is choosing an end of it —
+**spirit** (celestial) or **soil** (earth).
+
+## 7. Jasper — the outsider (the reveal)
+
+Jasper is Earth Genasi, but his sheet says the rock is superficial: *"a
+descendant of humanoids"* with *"a soul, organs, a heart"*
+([sheet](../../../characters/jasper.md)). So he is **dragon-people.**
+
+`[Will 7/29]` This squares with where earth genasi come from: they are a **Bad-Pass
+mutation** of the Muspel folk, who were dragon-people ([the mutation](../../musleheim/lore/the-muspel-empire.md)
+§2). The stone is what the comet-sickness did to the body; the lineage under it never
+changed — so "the rock is superficial" is the plain fact of it. `[settled — play, S10]`
+Jasper's line runs back to **Musleheim:** his hometown is **[Zarta](nila-atlas.md)**, a
+Company coffee-plantation town there (Jogo named the plantations, [S10](../../../sessions/session-10.md);
+see [jasper-dm-notes](../../../characters/jasper-dm-notes.md)).
+
+The reveal: the eco-warrior who *looks* most like living stone, standing beside
+friends who will dissolve into the land (Sarric) or choose it (Pax), is the
+**one who gets hauled up to the sky to be judged** — cut off from them at the
+end. It rhymes with his whole wound, the survivor's guilt of *"I lived,
+everyone else didn't"* — always the one left apart. A long fuse: plant it
+early, pay it off once, late.
+
+## 8. Cave paintings / hand-stencils — placement
+
+`[note]` **The world needs cave paintings, probably in Suartleheim**
+(Svartalfheim — the dark-elf / dwarf underground realm,
+[overview §5](campaign-overview.md)). The hand-stencils began as the nameless
+earth-kin mark (§5); the caves where they survive, and the wider cave-painting
+tradition, likely live in Suartleheim's underground. `[OPEN — reconcile the
+giant-kin origin with a dwarf/dark-elf underground home; the deep peoples may
+have kept the custom.]` `[todo]` Write the `prompts/` image for the
+hand-stencil wall once placement lands. Real-world anchor: Cueva de las Manos.
+
+## 9. Bestiary seeds — island gigantism/dwarfism
+
+Standalone flavor, no lineage attached — each isolated island with its own
+oversized or shrunken fauna.
+
+- `[idea]` **Giant aggressive rabbits on a tiny island.** Rabbits grown large
+  and mean with no predators to check them (Caerbannog register). Drop it
+  somewhere in the archipelago.
+
+## 10. Per-character creation stories
+
+Each PC's people believe their own version of how the world was made — the one
+that PC grew up on — which we draft and **run by the player.** They map to the
+lineage the character belongs to (§2). **Pax and Aniess are the mirror pair —
+chosen vs. inflicted:**
+
+**Drafted handouts:** [Sarric](../../../handouts/creation-sarric.md) ·
+[Pax](../../../handouts/creation-pax.md) · [Aniess](../../../handouts/creation-aniess.md) ·
+[Jasper](../../../handouts/creation-jasper.md) · [Sam](../../../handouts/creation-sam.md).
+
+- **Sarric** (Firbolg → nameless, earth) — the giants-become-land / Ymir story.
+- **Pax** (Celestial × forest-nameless) — raised on the bridge-of-spirit-and-soil
+  faith; **he chooses** his death, celestial or earth (§6). The *chosen* pole.
+- **Aniess** — born a street-urchin **elf** in Suartleheim (dragon-people), then
+  **snake-remade** by the Order via the Punt rite. She is the one PC who
+  **doesn't know her own creation story.** The rite is a **sacred coming-of-age
+  of the naga that joins the initiate to the Serpent of Punt** (the snake that
+  is an island-spirit — [roster](../../../characters/party-roster.md)); because it is real, it works
+  even performed coldly, so it **rerouted her.** She is **between two
+  sky-courts,** her birth-line's and the Serpent's — but she had it **done to
+  her.** The *inflicted* pole. The Order weaponizing a holy rite is the
+  campaign's central violation; she got the reroute with none of the belonging.
+  Mirrors the demon wife.
+- **Jasper** (Earth Genasi → dragon-people) — his concept *is* a creation
+  story: *"all one people, one origin story, but magical evolution made us
+  different and we colonize each other"* ([roster](../../../characters/party-roster.md)). Carries
+  the §7 reveal.
+- **Sam / Blackacre** (**Dragonborn** → dragon-people, closest to the root —
+  the first children of the primordial dragon who became the first island). He
+  **authors his own** via the tall-tales-become-canon mechanic
+  ([roster](../../../characters/party-roster.md)) — the "already has his."
+
+## 11. Dreaming — one road, two faces
+
+**The rule is set in
+[Demons, the Hotspot & the Deep Cities](demons-and-the-hotspot.md): a dream is
+a real crossing.** The living world and the dead's overlap; a sleeper brushes
+the far side and forgets, and *Dream of the Blue Veil* carries the sleeper all
+the way over. **Crossing requires standing on one side** — which is why a
+demon, standing on both at once, never crosses at all.
+
+What this section adds is the **shape**. There is one road with two faces —
+the dead travel it as the river of stars, the living walk it in the flesh as
+the Abyss tunnels — and the road itself runs **down through the deep and out
+to the sky** (§4). So which face a sleeper brushes follows which stretch of
+that road their dead are bound for. Same country either way. Different door
+into it.
+
+- **Dragon people brush the star face** — images, a road, a self travelling
+  it, other people's faces. Their dead are carried up the road's far end to
+  judgment, so that is the stretch their nights touch. Humans, elves, dwarves,
+  dragonborn, Earth Genasi. **This is the dreaming *Dream of the Blue Veil*
+  assumes,** and why the party wakes on a river rather than in a tunnel.
+- **Sky-nameless — the weather-people — brush it widest.** No plot, no body:
+  weather from the inside. Wind, rain, the light on grain. They wake unable to
+  say what happened and rested anyway.
+- **Earth-nameless do not touch the road at all — they touch the stock.**
+  Correcting an earlier draft of this section: the road is for the judged and
+  it runs through demon country, and the nameless never travel it. What an
+  earth-nameless sleeper reaches is **the common soul-stock they were drawn
+  from** (§5), which is not a place and has no scenery. So their nights are
+  **other people's memories** — fragments of lives reaching back thousands of
+  years, with no story, no order, and no self anywhere in them. Ask a Firbolg
+  what he dreamt and he will say he doesn't dream, and he is being accurate:
+  nothing in it was his. **This is also where the ground-sense comes from.** He
+  wakes knowing where the water is because someone who knew it lived there.
+  Ground-knowledge and inherited memory are the same thing.
+- **Demons never dream, because demons never cross.** A demon stands on both
+  planes at once, always
+  ([demons & the hotspot](demons-and-the-hotspot.md)) — there is no far side
+  for it to reach. Note this has **nothing to do with having no afterlife**
+  (§3); the two facts are separate, and it is the standing-on-both that closes
+  the door. **They also do not sleep.** A demon is awake continuously from the
+  moment it exists until it is destroyed, and **Manizheh has never slept.**
+  Keep it as description, never exposition: she is standing in the doorway
+  when the party lies down and standing in it if anyone wakes in the night.
+- **Celestials cross like anyone else.** The doubling is a property of **the
+  deep** — demons are native to the Abyss, and the Abyss *is* the road, which
+  is what puts them on both faces at once. Celestials have no such claim on the
+  road, so they stand on one side and a celestial-descended sleeper dreams
+  normally. (This is load-bearing for play: it is what keeps **Pax** able to
+  travel. The shape of the celestial afterlife stays `[OPEN]` with §3.)
+
+**One face is as good as another — what dream-travel actually requires.**
+This is the part that matters at the table. The test is **standing on one
+side**, not standing on the *right* side. It is one road; the poem sets the
+route and the other-plane focus sets the far end, so the spell can put any
+one-sided sleeper anywhere on it. **A Firbolg who touches the tunnel face
+every night can be carried up the river of stars** — a stretch of road he has
+never brushed, on the same road he has been brushing all his life. It works.
+
+Never use this rule to lock a player out of a dream. It exists to make the
+al Qahtani children's exclusion mean something — they are the exception, and
+they are the exception precisely because everyone else at the table gets in.
+
+**Cross-lineage sleepers.** **The al Qahtani children** are the blocked case,
+and the reason is the standing, not the destination: **they were born standing
+on both planes**, as their mother stands on both, so there is no far side for
+them to cross to ([demons & the hotspot](demons-and-the-hotspot.md)). They lie
+down, say the words, close their eyes, and there is only sleep — not a failed
+journey, no journey attempted. Note what this does *not* rest on: it is not
+about whether they have an afterlife, which is a separate and open question
+they also cannot answer. Neither child knows any of this. They were raised on
+a story and believe it.
+
+**Pax** is the opposite case. He stands on one side (celestials do not double,
+above), so he crosses — but he has **two roads at his far end** (§6), and so
+**two kinds of night, alternating.** Some nights he comes up against the
+tunnel face like any earth-nameless and wakes knowing the ground. Other nights
+the celestial half takes him, and the true-named do not so much *have* dreams
+as receive them, so those arrive as address: something speaks to him, and he
+wakes instructed. **He attributes both to the Green Revelation.** Both are
+real; he is right that something is talking to him and wrong about what. This
+holds his sheet's *delusional-or-chosen* ambiguity exactly where it belongs
+([sheet](../../../characters/pax.md)) and makes his canon line — *"where other
+students heard the wind, Pax heard instructions"* — literally true. The man
+whose death is a choice between soil and spirit has been rehearsing that
+choice, alternately, every night of his life, and does not know it.
+
+### Inherited memory at the table — the location rule
+
+**The mechanic: fragments surface from lives lived where the sleeper is
+sleeping.** Not summonable, not searchable, not askable. A player cannot look
+something up, and a character cannot try. They take a long rest somewhere, and
+if a life was lived there, the land may hand over a piece of it.
+
+This is the governor. Two PCs who dream true things is an information faucet
+pointed straight at the plot, and tying it to **place** puts the tap entirely
+in the DM's hand: you decide which grounds have anything to say. It also turns
+a grave-robbing campaign into one where **the land occasionally testifies** —
+which means Pax's theology is accidentally correct, and neither he nor anyone
+else can prove it.
+
+Give the fragment as **someone's ordinary day**, never as a briefing. No
+context, no dates, no names the sleeper could use, and nothing that resolves
+into narrative. The dreamer gets a floodplain in the sun and a job of work,
+and has to decide for himself whether it means anything.
+
+Good ground for it: [Haals](../../suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) before the
+mountain was opened; any dig site the party works, reaching back to the
+covenant age; and **the Valley of the Kings tombs**, which are cut into the
+canyon the dead river carved — sleep in them and the ground on offer is the
+river bank when it still ran (see
+[the drying of the valley](../../suartleheim-eet/maalm/lore/the-drying-of-the-valley.md); the valley predates
+the Amseh dynasty, so who lived there then is open ground). Drafted player
+messages for that dream:
+[player-messages-earth-dreams.md](../../../sessions/player-messages-earth-dreams.md).
+
+**How the party can work it out.** The same way as everything else here —
+burial customs, and who in a room answers the question "did you sleep well."
+Never explain it. The Jasper beat in
+[the dream quest](../../suartleheim-eet/maalm/encounters/the-dream-quest.md) is the first seed: the
+siblings ask the man who looks like living stone whether he dreams, and he
+does, because he is dragon-people (§7).
+
+## 12. Open questions
+
+- `[OPEN]` The exact shape of the celestial "afterlife" (§3) — eternal-but-owned.
+- `[OPEN]` Where the nameless live on the map — Sarric's cold country; the
+  earth-kin among the giants' peaks; the weather-people somewhere of their own?
+  (The **forest-people** are in **northwest Musleheim** — §5–6, Pax.)
+- `[OPEN]` Cave-painting home (Suartleheim) and reconciling it with the
+  earth-kin origin (§8).
+- `[OPEN]` Reconcile Ymir with [Lonka / Jotunheim](../../lonka/lore/lonka-jotunheim.md) (§5).
+- `[OPEN]` Square the single common dragon-ancestor with many cosmic beasts
+  mutating separate lines (§4) on the timeline.

@@ -1,6 +1,6 @@
 # Because I could not stop for Death — (Player Handout)
 
-*A saved poem for the campaign. Candidate incantation for a **Speak with Dead** rite or another death-road ritual — see [docs/spells-as-poems.md](../docs/spells-as-poems.md). The fifth stanza's house that is "a Swelling of the Ground" with its cornice in the earth is a grave, which lines up with the tomb-doors of the Duat ([the Dream Quest](../encounters/the-dream-quest.md)). Verbatim, line breaks preserved.*
+*A saved poem for the campaign. Candidate incantation for a **Speak with Dead** rite or another death-road ritual — see [docs/spells-as-poems.md](../world/nila/lore/spells-as-poems.md). The fifth stanza's house that is "a Swelling of the Ground" with its cornice in the earth is a grave, which lines up with the tomb-doors of the Duat ([the Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)). Verbatim, line breaks preserved.*
 
 *Real-world source: Emily Dickinson (1830–1886), "Because I could not stop for Death –" (Fr479 / J712).*
 

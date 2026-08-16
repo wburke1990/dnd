@@ -3,7 +3,7 @@
 Chat messages to **Jeremy (Sarric)** and **Andrew (Pax)**, floating the
 inherited-memory idea and offering each of them a dream from the rest **in the
 tombs**. Lore behind it:
-[Lineages & Afterlives §5 and §11](../lore/lineages-and-afterlives.md).
+[Lineages & Afterlives §5 and §11](../world/nila/lore/lineages-and-afterlives.md).
 
 **These go in chats David is in, so keep them casual** — texts, not briefings.
 Both are framed as *"how would you feel about…"* / *"if you want, we can make
@@ -11,7 +11,7 @@ it so…"*: the idea is offered for the player to opt into, not announced as
 settled canon. Either can decline and nothing breaks.
 
 **Why the tombs.** They are cut into the canyon the dead river carved
-([the drying of the valley](../lore/the-drying-of-the-valley.md)), so the
+([the drying of the valley](../world/suartleheim-eet/maalm/lore/the-drying-of-the-valley.md)), so the
 ground they slept in *is* the bank they dreamed. Both get the same fragment —
 same place, same night.
 

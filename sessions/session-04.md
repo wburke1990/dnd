@@ -26,7 +26,7 @@
 - **A live lead into the rat man's network.** This guard is the party's first
   concrete handle on the web that's been ambushing Preem's crews on the tower
   steps. The same web pays **the square's guards** for the muscle in
-  [The Second Hand Ambush](../encounters/the-second-hand-ambush.md); this gate
+  [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md); this gate
   guard is the **eyes** end of it (who's coming and going), the square guards are
   the **fists**.
 - **What the party can do with him:** interrogate, tail him to the rat man, lean
@@ -38,9 +38,9 @@
   thread moves their suspicion **off Preem and onto the rat man** — the correct
   read the campaign has been steering toward since the
   [Session 1 doorstep ambush](session-01.md). Reward it.
-- 🔒 **And the thread runs one rung deeper — then stops.** [Ratatat](../bestiary/the-rat-man.md)
+- 🔒 **And the thread runs one rung deeper — then stops.** [Ratatat](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md)
   is a **useful idiot** paid to steal Preem's **maps** for a buyer **"V."**,
-  never knowing V. is a **[First Foundation](../lore/the-first-foundation.md)**
+  never knowing V. is a **[First Foundation](../world/nila/lore/the-first-foundation.md)**
   agent running espionage on Preem. So the chain is **guard → Ratatat → V., and
   ends at V.** (the Foundation's one Maalm agent — compartmentalized, magic-comms,
   nothing above her/him that anyone below knows). Reaching V. is the party's
@@ -59,8 +59,8 @@
 - [ ] **Name and stat the gate guard** (provisional: **Dask**) — `[OPEN]`
       informant vs. accomplice; what he knows; whether he flips.
 - [ ] **Decide what the thread leads to.** The chain is **guard →
-      [Ratatat](../bestiary/the-rat-man.md) → "V."** — and **ends at V.,** the
-      [First Foundation](../lore/the-first-foundation.md)'s one (compartmentalized)
+      [Ratatat](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md) → "V."** — and **ends at V.,** the
+      [First Foundation](../world/nila/lore/the-first-foundation.md)'s one (compartmentalized)
       agent in Maalm. Ratatat is a useful idiot who can only point at V.; V. is
       the party's on-ramp to Preem's rivals, the order they may ultimately side
       with. `[OPEN]` who V. is.

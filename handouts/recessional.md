@@ -1,6 +1,6 @@
 # Recessional (Player Handout)
 
-*A candidate inscription / lament for the drowned caldera of [Lonka / Jotunheim](../lore/lonka-jotunheim.md) — the dragonborn's golden mother-city, their Tyre, blown to a ring of cliffs by the Bleeding Star and later retaken by the [Lonka Zealots](../lore/lonka-jotunheim.md). Framed to the **aftermath**, not the massacre of the Maalm colonists: the reconsecrated holy ground the dragons then abandoned (the [gods who do not answer](../lore/lonka-jotunheim.md) beat, rhyming with Amseh IV's empty thrones). The line "all our pomp of yesterday / Is one with Nineveh and Tyre" sits on Golden Lonka — Taniyn's Phoenician first perch. Verbatim, line breaks preserved — placement not yet assigned.*
+*A candidate inscription / lament for the drowned caldera of [Lonka / Jotunheim](../world/lonka/lore/lonka-jotunheim.md) — the dragonborn's golden mother-city, their Tyre, blown to a ring of cliffs by the Bleeding Star and later retaken by the [Lonka Zealots](../world/lonka/lore/lonka-jotunheim.md). Framed to the **aftermath**, not the massacre of the Maalm colonists: the reconsecrated holy ground the dragons then abandoned (the [gods who do not answer](../world/lonka/lore/lonka-jotunheim.md) beat, rhyming with Amseh IV's empty thrones). The line "all our pomp of yesterday / Is one with Nineveh and Tyre" sits on Golden Lonka — Taniyn's Phoenician first perch. Verbatim, line breaks preserved — placement not yet assigned.*
 
 *Real-world source: Rudyard Kipling (1865–1936), "Recessional" (1897).*
 

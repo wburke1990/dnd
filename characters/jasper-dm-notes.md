@@ -22,7 +22,7 @@ alchemical sickness.
 Where it pays off:
 
 - **The Hell-Tree.** The tree's poison is that same sickness (see
-  [the-hell-tree.md](../encounters/the-hell-tree.md)). It does not mutate or
+  [the-hell-tree.md](../world/suartleheim-eet/brauron/encounters/the-hell-tree.md)). It does not mutate or
   harm Jasper. It makes him stronger — more so the closer he gets to the
   tree, more so again down the stair. The rest of the party mutates; he does
   not.
@@ -49,17 +49,17 @@ Jasper may not know about the camp. If he doesn't, hearing Sarric's confession i
 
 ## His hometown — Zarta, a Company coffee town in Musleheim `[settled — play, S10]`
 
-Settled in play: Jasper's home town is **[Zarta](../lore/nila-atlas.md)** — a
-**[Company](../lore/the-company.md) coffee-plantation town in Musleheim** (Zarta is already
+Settled in play: Jasper's home town is **[Zarta](../world/nila/lore/nila-atlas.md)** — a
+**[Company](../world/nila/lore/the-company.md) coffee-plantation town in Musleheim** (Zarta is already
 in the atlas; Jogo named the plantations in his hometown at the coffeehouse,
 [Session 10](../sessions/session-10.md)). That places his line in **Musleheim**, answering the
-open question in [lineages & afterlives §7](../lore/lineages-and-afterlives.md) (earth genasi
+open question in [lineages & afterlives §7](../world/nila/lore/lineages-and-afterlives.md) (earth genasi
 are the Bad-Pass mutation of the Muspel folk).
 
 - **The Company is the oligarch Doug wrote.** Doug's backstory has oligarchs and an
   environmental disaster wreck Jasper's community; the Company's plantation clearances in
   Musleheim — enclosing the orc herders' grazing land into coffee rows and driving them off
-  ([the Company](../lore/the-company.md)) — give that a name and a trade. The empire whose
+  ([the Company](../world/nila/lore/the-company.md)) — give that a name and a trade. The empire whose
   coffee V. served is the one that cleared his home ground.
 - **Same wound as Sarric's Eet.** The Company now sits on two PCs' homelands — Sarric's Eet
   and Jasper's Musleheim town — so V.'s "the coffee isn't clean" cup points at both.

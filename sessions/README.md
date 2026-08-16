@@ -61,7 +61,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   crew** from the square ambush, winning a standing ally. The GM's
   **anti-TPK lever** is armed once the **split-rune** changes hands —
   **earned** at a **dockside meet, tomorrow 9 AM**, now a built set-piece,
-  [Departure Under Fire](../encounters/docks-departure.md): a trumped-up
+  [Departure Under Fire](../world/suartleheim-eet/maalm/encounters/docks-departure.md): a trumped-up
   arrest over the **20 rats**, the Second Hand **opens fire from the boat**,
   waves of guards, and a **flee-by-boat** as **Cassia leaves Maalm**.
 - **The Dream Quest** (S6→S9, **complete**) — **Ali (Zaynab) al Qahtani** hired **Aniess** at
@@ -85,7 +85,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   **party knows the rite failed and the children don't** — a secret they now
   carry. `[OPEN]` the small Anubis (whether it changed hands) and whether the
   no-resurrection **Jasper "do you dream" beat** ever surfaced.
-  [`encounters/the-dream-quest.md`](../encounters/the-dream-quest.md).
+  [`encounters/the-dream-quest.md`](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md).
 - **[Lucrecia](../characters/lucrecia.md)** (S6–S7) — a new **elite-caste** patron who thanked the party
   for the Ratatat fight (the severed fingers proved it wasn't a **staged**
   fight). She gave **Sarric 50 gp for a potion** (after **Aniess ignored

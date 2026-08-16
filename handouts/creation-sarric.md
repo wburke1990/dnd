@@ -4,7 +4,7 @@
 about how the world was made. Real-world root: the Norse **Ymir**, the world
 built from the body of the first giant. This is the version Sarric was raised
 on. Lineage: the nameless, earth (see
-[lineages & afterlives](../lore/lineages-and-afterlives.md) §5).*
+[lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §5).*
 
 ---
 

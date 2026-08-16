@@ -8,9 +8,9 @@ This file collects the most famous ones and how the major translators handle
 them, as a pattern to imitate for recurring in-world phrasing.*
 
 **Why it's here:** the campaign already runs heavily on sea and fleet material
-([ships and sea power](../lore/ships-and-sea-power.md), [the floating
-fleet](../lore/floating-fleet.md)) and on [myth and poem as literal
-truth](../lore/myth-and-poem-as-literal-truth.md). The Homeric formula is the
+([ships and sea power](../world/the-sea/lore/ships-and-sea-power.md), [the floating
+fleet](../world/the-sea/lore/floating-fleet.md)) and on [myth and poem as literal
+truth](../world/nila/lore/myth-and-poem-as-literal-truth.md). The Homeric formula is the
 working example of a culture whose poetry *is* its record-keeping — a fixed
 phrase that arrives unchanged every time, because changing it would be changing
 the record.
@@ -201,6 +201,6 @@ formulas in the same shape. The technique is what transfers:
    the sunrise for one epic and the unburied corpse for the other.
 
 Candidate hooks in existing material: dawn and tide formulas for the
-[floating fleet](../lore/floating-fleet.md); a burial-and-unburied formula for
-the [lineages and afterlives](../lore/lineages-and-afterlives.md) material,
+[floating fleet](../world/the-sea/lore/floating-fleet.md); a burial-and-unburied formula for
+the [lineages and afterlives](../world/nila/lore/lineages-and-afterlives.md) material,
 where it would carry real mechanical weight.

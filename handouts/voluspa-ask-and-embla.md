@@ -7,8 +7,8 @@
 > **Hauksbók** (c. 1302–10).
 >
 > **In-world use:** the creation the Lonka zealots teach at the two trees on the
-> Jotunheim ring-wall. See [Askr and Embla — the story the zealots supplied](../lore/askr-and-embla.md)
-> and [Lonka / Jotunheim](../lore/lonka-jotunheim.md) §5.
+> Jotunheim ring-wall. See [Askr and Embla — the story the zealots supplied](../world/lonka/lore/askr-and-embla.md)
+> and [Lonka / Jotunheim](../world/lonka/lore/lonka-jotunheim.md) §5.
 
 ---
 

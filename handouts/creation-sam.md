@@ -4,7 +4,7 @@
 the dragon-descended — and by his own mechanic the telling is his: whatever tall
 tale Sam gives the party is how it went ([roster](../characters/party-roster.md)).
 This is only the nail he hangs it on. Lineage: dragon-people, at the root (see
-[lineages & afterlives](../lore/lineages-and-afterlives.md) §10).*
+[lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §10).*
 
 ---
 

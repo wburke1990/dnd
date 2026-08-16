@@ -4,8 +4,8 @@
 > north down the dead riverbed, to the first sight of **Maalm** on the old river
 > mouth. Pure description — only what the eye takes in. The party faces north;
 > the tombs lie behind them, further south up the valley, out of sight. See
-> [the drying of the valley](../lore/the-drying-of-the-valley.md) and
-> [Maalm — the elven stronghold](../lore/maalm-the-elven-stronghold.md).
+> [the drying of the valley](../world/suartleheim-eet/maalm/lore/the-drying-of-the-valley.md) and
+> [Maalm — the elven stronghold](../world/suartleheim-eet/maalm/lore/maalm-the-elven-stronghold.md).
 
 ---
 

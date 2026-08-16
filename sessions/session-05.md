@@ -13,7 +13,7 @@
 
 - The party cleared **Tomb 4**, the Valley's capstone — Amseh IV's unfinished
   tomb and the **Hall of Confessions** puzzle
-  ([`valley-of-the-kings.md`](../encounters/valley-of-the-kings.md#tomb-4--osiris)).
+  ([`valley-of-the-kings.md`](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md#tomb-4--osiris)).
 - All five party members placed a **true confession** on the golden scales,
   each on their **first attempt** — no false placements, no psychic damage.
   Clean 5-for-5:
@@ -33,7 +33,7 @@
 - They **collected every name** findable in the tomb — Osiris, Anubis, Thoth,
   Isis, Nephthys, Selket, Ammit, the Forty-Two Assessors, and Amseh IV's and
   Farseh-ti's cartouches — completing the
-  [names table](../encounters/valley-of-the-kings.md#complete-names-table).
+  [names table](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md#complete-names-table).
   **All four Amseh tombs are now cleared.**
 - They relayed the names to Mul over the sending stone. Overnight, while they
   slept, **Mul sent 85 gold** — the usual invisible-quasit long-rest
@@ -48,7 +48,7 @@
   from [Session 3](session-03.md).
 - The next morning they set out for **Maalm**. On the road they ran into an
   **Akhekh** (winged serpent-griffin, CR 7 —
-  [`bestiary/akhekh.md`](../bestiary/akhekh.md)) and **chose to fight it**
+  [`bestiary/akhekh.md`](../world/suartleheim-eet/maalm/bestiary/akhekh.md)) and **chose to fight it**
   rather than parley or flee.
 - The fight turned into a de-escalation. The party **apologized** to the
   akhekh, ended the **Entangle** and freed it from the vines, and gave it
@@ -75,7 +75,7 @@
   over the last of the rat meat, and it let them go rather than escalating to
   the grab-and-flee rescue hook. **David made the call at the table to have
   it spare the party** — the in-fiction "it let them go" was his ruling.
-  Full writeup: [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
+  Full writeup: [`akhekh-road-ambush.md`](../world/suartleheim-eet/maalm/encounters/akhekh-road-ambush.md).
 - **85 gold doesn't cleanly reconcile with the pay table.** [Mul pays 5 gp
   per dead name](../characters/mul.md#the-pay--what-a-name-is-worth), and
   Tomb 4 alone has ~10 findable names — not worth relitigating unless a
@@ -88,7 +88,7 @@
 - [x] **Resolve the Akhekh fight** — done. Ended in de-escalation: apology,
       Entangle dropped, rat meat handed over, and it let the party go
       (David's ruling). See
-      [`akhekh-road-ambush.md`](../encounters/akhekh-road-ambush.md).
+      [`akhekh-road-ambush.md`](../world/suartleheim-eet/maalm/encounters/akhekh-road-ambush.md).
 - [ ] **Run the "return to the tower" scene** with Mul once the party
       reaches Maalm (assuming they survive the road).
 - [ ] Carry forward from [Session 4](session-04.md): the **gate guard**

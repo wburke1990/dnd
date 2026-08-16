@@ -3,7 +3,7 @@
 Preem's "army of demons" — the servants who staff his tower, run his errands,
 pay the party for names, and (eventually) hunt them. Distilled from the
 6/8–6/17/26 Discord brainstorm. Companion to [Preem](preem.md) and
-[the Second Foundation](../lore/the-second-foundation.md).
+[the Second Foundation](../world/nila/lore/the-second-foundation.md).
 
 > Legend: **[settled]** = agreed in chat · **[loose]** = floated, not locked.
 >
@@ -37,7 +37,7 @@ The mechanical heart of Preem's power, and the campaign's central moral object.
   the tombs and sells to Mul is another true name in Preem's ledger — another
   demon he can bind beyond any hope of refusal. He has an *army* of true names.
   (See [the names quest](preem.md#the-names-quest--why-he-sends-the-party-to-the-tombs).)
-- It is also the source of the [dream quest's](../encounters/the-dream-quest.md)
+- It is also the source of the [dream quest's](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)
   horror: the merchant's demon wife **could not have escaped, ever**, because he
   held her name. Planar binding is meant to feel **horrific** — a true name
   turns a person into a possession, with no roll left to make.
@@ -54,7 +54,7 @@ The mechanical heart of Preem's power, and the campaign's central moral object.
   this holds in the world it threatens every binding
   built on a supplied name — Preem's whole army, and the **volcano-demon of the
   climax** most of all, where the name the party are handed could be the lie. First
-  surfaced with [the Ninth](../encounters/rival-crew-plots.md). Undecided — a table
+  surfaced with [the Ninth](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md). Undecided — a table
   call still to make.
 
 ## Summoning, holding, and binding (homebrew mechanics)
@@ -269,7 +269,7 @@ Of the five PCs, only two can touch demon-binding:
   the name.
 
 So the evil route runs through **Aniess** by class and temperament both: the one
-drawn to power (the [Ninth's mirror](../encounters/rival-crew-plots.md)) and the only
+drawn to power (the [Ninth's mirror](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md)) and the only
 PC who can walk the whole path.
 
 ## Demonic Restoration *(homebrew house rule)*
@@ -364,7 +364,7 @@ acknowledged talker.
   mind and he takes it for the voice of God,** obeying as a prophet obeys — so it
   needed **no note** to walk the Writ into the tower, the subtlest summons of the
   three. Preem steers his deniable instrument through it. See the
-  [tavern crews](../encounters/tavern-name-hunter-crews.md). **[loose]**
+  [tavern crews](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md). **[loose]**
 - **Pim Riddle's "lab familiar" (a centipede)** — in the **Brass Jackals.** It
   **carried the Jackals' summons-note** and led them up in
   [session 1](../sessions/session-01.md); it **murmurs to Pim, who blames his own
@@ -372,7 +372,7 @@ acknowledged talker.
   calls himself crazy. Preem doesn't trust the foreign crew, so it's pure
   **surveillance** — an early-warning line on a crew starting to suspect him
   (Hadda's nose). It roams free, not caged. See the
-  [tavern crews](../encounters/tavern-name-hunter-crews.md). **[loose — 7/1]**
+  [tavern crews](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md). **[loose — 7/1]**
 
 ## The escalation roster
 

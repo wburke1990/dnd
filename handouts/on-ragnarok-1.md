@@ -2,13 +2,13 @@
 
 *An in-world scroll, to be presented to players as "translated from an ancient scroll." A ship's-log account of the catastrophe (the bleeding star / Krakatoa eruption) that underlies the campaign. The "#1" implies a series. Verbatim, line breaks and indentation preserved.*
 
-*`[draft 8/15]` **Whose log it is — Musa's.** The keeper is the wandering dragonborn seer [Musa](../encounters/the-mines-of-haals.md), who sailed refugees out of Kalikhat when the star fell and later founded [the gnome kingdom](../lore/the-fallen-gnome-kingdom.md). A dragonborn sailor who was on the water that week is the one person who would have written this. Hand it over as his notebook if the party asks him at the bottom of [the Haals mine](../encounters/the-mines-of-haals.md) what happened at Kalikhat.*
+*`[draft 8/15]` **Whose log it is — Musa's.** The keeper is the wandering dragonborn seer [Musa](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md), who sailed refugees out of Kalikhat when the star fell and later founded [the gnome kingdom](../world/suartleheim-eet/raand-copaa/lore/the-fallen-gnome-kingdom.md). A dragonborn sailor who was on the water that week is the one person who would have written this. Hand it over as his notebook if the party asks him at the bottom of [the Haals mine](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) what happened at Kalikhat.*
 
 *If they never ask him, the attribution costs nothing and the scroll keeps working anywhere else — it read as an unattributed ancient scroll for a long time and still can.*
 
 *Real-world source: Alan Gould, "Krakatoa," written in the voice of **Charles Bal** — captain of the* Charles Bal*, who logged the real 1883 eruption from the Sunda Strait. ("smocks of ash, robes" is Gould's own wording and is kept as-is.)*
 
-*(See the bleeding-star lore in [handouts/ramses-victory-dijay.md](ramses-victory-dijay.md) and the Fall of the Star in [prompts/tomb-1-inner-chamber-ancient-map.md](../prompts/tomb-1-inner-chamber-ancient-map.md).)*
+*(See the bleeding-star lore in [handouts/ramses-victory-dijay.md](ramses-victory-dijay.md) and the Fall of the Star in [prompts/tomb-1-inner-chamber-ancient-map.md](../world/suartleheim-eet/maalm/prompts/tomb-1-inner-chamber-ancient-map.md).)*
 
 ---
 

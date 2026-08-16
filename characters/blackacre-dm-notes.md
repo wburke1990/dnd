@@ -14,7 +14,7 @@ being zealots, which means one side simply loses and the zealots contribute noth
 They are not a heresy. **The wandering dragonborn founded nearly every settlement in
 this world, and the zealots are wanderers who stopped** — the same thing every founder
 did, done on ground the dragonborn hold sacred
-([the Wandering, *The founders*](../lore/wandering-dragonborn.md)). Taniyn stopped at
+([the Wandering, *The founders*](../world/the-sea/lore/wandering-dragonborn.md)). Taniyn stopped at
 Lonka and became the island. Every port Blackacre has ever put into was founded by
 someone who did what the zealots did.
 
@@ -23,7 +23,7 @@ each side holds something the other lacks:
 
 - **The zealots have the memory of the pass.** They alone know a reconsecration is due
   and roughly when, because it happened on their ground and they stayed to remember it
-  ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6). Nomads keep the creed, but no
+  ([Lonka / Jotunheim](../world/lonka/lore/lonka-jotunheim.md) §6). Nomads keep the creed, but no
   one among them keeps the record.
 - **They have the fleet.** Solitary roamers cannot assemble one.
 - **They have numbers**, such as they are. The nomads are thinning out, slowly, because
@@ -34,7 +34,7 @@ each side holds something the other lacks:
 **And there is physical evidence he has already walked past.** The two branches split
 ~4,000 years ago when some of them settled Musleheim, and their names went different
 ways, so **the oldest watch-stones carry names of the zealots' form**, cut before the
-change ([the Wandering](../lore/wandering-dragonborn.md)). Blackacre has kept the watch
+change ([the Wandering](../world/the-sea/lore/wandering-dragonborn.md)). Blackacre has kept the watch
 at those graves his whole life. **Bedraageon** himself predates the split, so the Eldest
 — the template for every saint Blackacre reveres — carries a name of Arishat's kind.
 Describe one; do not explain it.
@@ -64,7 +64,7 @@ nomads' words, that is the scene the reconciliation turns on.
 His goal of mending the rift leads here. **However he's been played,** once Blackacre
 reaches **~level 20** and he is widely known, the Jotunheim dragonborn **ask him to lead
 their fleet** — the fleet that sails to Moku to take the island where the dragons are
-gathering (see [lore/lonka-jotunheim.md §6](../lore/lonka-jotunheim.md)). His answer
+gathering (see [lore/lonka-jotunheim.md §6](../world/lonka/lore/lonka-jotunheim.md)). His answer
 decides what happens at Moku. Three choices:
 
 1. **Accept, and lead the attack.** He commands the fleet for the zealots, and they take
@@ -83,7 +83,7 @@ there.
 `[settled — Will 8/16]` The sheet used to say the god-stone reclaims the dragons either
 way, and that the only thing his answer decided was whether the colonists died. **Cut.**
 Neither the killing nor the stone brings the dragons back
-([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6). The dragons are going to Moku
+([Lonka / Jotunheim](../world/lonka/lore/lonka-jotunheim.md) §6). The dragons are going to Moku
 because the **hot spot** is there, and they were going with or without a fleet.
 
 ### What his answer actually decides
@@ -95,7 +95,7 @@ Two things.
   the fleet behaves. The zealots will take the credit. So if the island is emptied first,
   they get the confirmation they have wanted for 1,900 years — we killed them and the
   dragons came — and they go on believing the killing brings the dragons, with the
-  rakshasas present ([Jotunheim as guests](../encounters/jotunheim-as-guests.md)). If
+  rakshasas present ([Jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md)). If
   Moku is spared and the dragons come anyway, the killing is shown to be unnecessary.
 
 Sparing the island is what removes their evidence.
@@ -106,8 +106,8 @@ This choice shouldn't be the first time he faces it, so put smaller versions of 
 in front of him along the way: power over a beaten enemy, and what he does with it. The
 **watch-stone graves** are one place to do this — improvise a moral choice there,
 tuned to where he is at the time (see
-[lore/wandering-dragonborn.md](../lore/wandering-dragonborn.md)). Others: the first
+[lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)). Others: the first
 dragonborn meeting on the **Maalm docks** (hook #3 on the sheet), the **bride and the
 coming-of-age trials** at Jotunheim
-([Jotunheim as guests](../encounters/jotunheim-as-guests.md)), and a **zealot loyalty
+([Jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md)), and a **zealot loyalty
 test** if the quest reaches the caldera.

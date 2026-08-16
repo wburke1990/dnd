@@ -5,10 +5,10 @@
 > 1925) — public domain. Book and line numbers follow the Greek.
 >
 > **Why it's here.** Lines to read over kills in
-> [the Iliad battles](../encounters/the-iliad-battles.md), and the source material for
+> [the Iliad battles](../world/nila/encounters/the-iliad-battles.md), and the source material for
 > blood consecration — blood soaking into the ground, and deaths described with tree
-> comparisons. See [the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md)
-> and [encounters before the Jotunheim rite](../encounters/before-jotunheim.md).
+> comparisons. See [the rite at the Jotunheim trees](../world/lonka/encounters/jotunheim-trees-rite.md)
+> and [encounters before the Jotunheim rite](../world/lonka/encounters/before-jotunheim.md).
 >
 > `[check]` Wording below was collected from online copies of Murray, not compared
 > against a printed Loeb. Verify before printing anything for players.
@@ -79,7 +79,7 @@ clutching at the bloody dust.
 
 **6.146–149** — Glaucus to Diomedes, comparing the generations of men to leaves that
 fall and grow back. This is how the forest-nameless work
-([lineages & afterlives](../lore/lineages-and-afterlives.md) §5).
+([lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §5).
 
 ```
 Even as are the generations of leaves, such are those also of men. As for

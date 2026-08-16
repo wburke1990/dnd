@@ -3,7 +3,7 @@
 *Real-world reference (not in-world canon). A translation comparison for the line we
 want for blood consecration: Harpalion dies, and his blood wets the ground. Companion
 to [the Iliad, blood on the ground](../handouts/iliad-blood-on-the-ground.md) and
-[the rite at the Jotunheim trees](../encounters/jotunheim-trees-rite.md).*
+[the rite at the Jotunheim trees](../world/lonka/encounters/jotunheim-trees-rite.md).*
 
 **Why this one.** Of the blood-and-earth lines in the poem, this is the one where a
 single named man's blood goes into the ground and the poem says so. The others

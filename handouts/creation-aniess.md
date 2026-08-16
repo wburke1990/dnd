@@ -4,7 +4,7 @@
 its Order, the one she was raised in. It is borrowed: her heart is full of
 someone else's convictions, and this is not her people's story. Her own — the
 **Serpent of Punt** — is hidden even from her. See
-[lineages & afterlives](../lore/lineages-and-afterlives.md) §10.*
+[lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §10.*
 
 ---
 
