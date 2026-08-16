@@ -142,8 +142,10 @@ would. At the bridgehead is the Mughal **necropolis**, where the
 dynasty carried its dead to lie beside the first of them. The Company's road up to the
 mine crosses the bridge now, past the tombs; the ore goes down by water.
 
-**The two ports, and the two canals.** Neither port sits on the river; each was reached
-by a canal dug to it — one old, one new.
+**The two ports, and the two canals.** The river's own mouth is **[Sker](nila-atlas.md)**,
+the ruined port of the old [gnome kingdom](the-fallen-gnome-kingdom.md); neither the
+Mughals nor the Company raised the dead city, so each cut a **canal** west from the river
+to a port of its own — one old, one new.
 
 - **[Aal](nila-atlas.md)** — the old capital's port, reached by a **Mughal canal** cut
   from the river. Busy in the empire's day; the canal silts now, and the port has

@@ -228,6 +228,11 @@ mainland, not Mukka.)*
 > down the Company's canal to the port at **Aar.** The town has a **tavern (the Ore Scale)** and an
 > **inn (the Aar Road Inn).** See [Copaa](copaa.md) for the full writeup.
 
+> **Sker `[new]`.** The river's mouth, where it meets the sea — the ruined port of the
+> old [gnome kingdom](the-fallen-gnome-kingdom.md), abandoned since the kingdom fell. The
+> Mughals and the Company both left it, each cutting a canal to a port of their own (Aal,
+> Aar) rather than raise the gnome dead. `[coord — David: at the river mouth]`
+
 > **The Mughal layer (SE) `[brainstorm]`.** The [middle empire](the-mughal-founding.md)
 > held this region ~900–200 ya; its ruins lie under the Company's. **Haagen** was the
 > **old capital** — river-defended, reached over the crossing. The **Copaa–Haals bridge**
