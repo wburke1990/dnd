@@ -163,10 +163,12 @@ At the base of the tree a **stair goes down**, following the roots into the eart
 ends far below at the **broken stone** — the comet-stone the god was, all that is left of
 him.
 
-The party goes down it a level at a time. Each level carries one verse of the Qur'an's
-**[Zaqqum](../handouts/the-tree-of-zaqqum.md)** in Arberry's words — *a tree that comes
-forth in the root of Hell*. `[proposed]` the As-Saffat run (37:62–68), one verse a level, ending on
-the stone.
+The party goes down it a level at a time to the broken stone. The Qur'an's
+**[Zaqqum](../handouts/the-tree-of-zaqqum.md)** verses are not on the stair — they
+stand in the **shrines along the approach** above (see
+[the game preserve](the-game-preserve.md)), the
+[Mughal dynasty's](../lore/the-mughal-founding.md) markers on the pilgrim road down to
+the tree.
 
 `[OPEN]` how many levels, and what is at the stone.
 

@@ -98,6 +98,19 @@ Ulupi). All Hindu; nothing is borrowed from another pantheon.)*
   Sultan. *(Éber and Érimón — the founding fratricide.)*
 - **Farhad.** Ratna's son (below).
 
+## The dynasty and Brauron
+
+The Mughals were **Muslim** — Persianate and Islamic — and the one place their faith
+left a physical mark is **[Brauron](../encounters/the-peach-town.md)**, the old Artemis
+temple and its Sacred Hunt out past the settled land. The dynasty **patronized** the
+temple: they kept it up, though they did not build it — it is far older than they are.
+Their mark is the **shrines along the approach to the
+[hell-tree](../encounters/the-hell-tree.md)** at the center of the preserve — each
+carrying one verse of the Qur'an's
+[Tree of Zaqqum](../handouts/the-tree-of-zaqqum.md), the tree that grows in Hell, set
+over the poison demon-tree they found there. The poison land has since worn the shrines
+down to bare slabs.
+
 ## Farhad — Ratna's son, and the Returner
 
 Farhad is Ratna's son, the one drow-blooded prince of the house — the rest of the
