@@ -23,11 +23,15 @@ depth, not required.
 A **talk scene, not a fight.** Let the party drink and mingle; each PC has a
 counterpart in the crews.
 
-- **Where.** The **Tavern of the Twelve**, run by a **Letap satyr** bartender (calm,
-  polishing a glass). On the wall, the **founding mural** — Bedraageon and Ammit dead
-  in each other's grip, the city raised over both (same founding the party saw at the
-  coffeehouse in S10). *First drink's free if you've got scales* — Bedraageon's rule
-  (so Blackacre drinks free).
+- **Where — two taverns, their choice.** Both are in Maalm; run the crew scene at
+  whichever the party walk into.
+  - **The Tavern of the Twelve** — run by a **Letap satyr** bartender (calm, polishing
+    a glass). On the wall, the **founding mural** — Bedraageon and Ammit dead in each
+    other's grip, the city raised over both (same founding the party saw in S10).
+    *First drink's free if you've got scales* — Bedraageon's rule (so Blackacre drinks
+    free).
+  - **The Red Brick Inn** — the plainer house; run it as an ordinary Maalm tavern. If
+    the party pick it, the crews are drinking here instead — the scene is the same.
 - **Who's in.** Two of Preem's other name-hunter crews, a half-step from a brawl:
   - **The Lapis Writ** — funded Maalm aristocrats who **finished the whole Valley
     without missing a name.** Smug, buy a round, needle the party for being sloppy.
@@ -46,10 +50,9 @@ counterpart in the crews.
   - Short version of each: they made the choice a PC flinched from and are proud of it
     (the Writ = "who you become if you win"); the Jackals = "what it costs." Deep
     hook-lines per member are in the full doc if a conversation goes long.
-- **Two signs of Preem; use each once.** **Calix's pet toad is a quasit** — Preem's,
-  exactly like Batrick — and it murmurs "God" only into Calix's head. And the **coffee
-  is Company coffee** (V. already named that in S10). Preem watches through the
-  familiars. Don't explain it; leave the two signs unremarked.
+- **One sign of Preem; use it once.** **Calix's pet toad is a quasit** — Preem's,
+  exactly like Batrick — and it murmurs "God" only into Calix's head. Preem watches
+  through the familiars. Don't explain it; leave it unremarked.
 
 **Run it in ~30–45 min:** the walk-in saga, a round of mingling (each PC to their
 counterpart), and out. No dice needed unless they push someone.
