@@ -63,7 +63,7 @@ sickness kills a land for a millennium at least) — long enough that when **Kur
 crusader-colonists landed (~2,000 ya)** they had no notion a whole people still lived
 *below* them (see [Kuru & the phoenix](kuru-and-the-phoenix.md)).
 
-- `[OPEN]` This makes **Kalikhat the cradle of the Underdark peoples.** Reconcile with the
+- `[OPEN]` This makes **Kalikhat where the Underdark peoples came from.** Reconcile with the
   region map's tentative **Suartleheim = Svartalfheim (dark elves / dwarves)** read —
   maybe Kalikhat is the *origin* and Suartleheim where they later spread.
 - `[OPEN — demon first contact?]` Whether *this* — Kalikhat's underground survivors,
@@ -142,9 +142,10 @@ This **rhymes with Ravana seizing Lanka**, and the Ramayana hands us ready textu
   *under* the sea, not over it (§4).
 - **The causeway as a *tunnel* — `[settled]`, this is how they came (§4):** the zealots
   **walked the Abyss tunnels from Muspelheim** under the sea (the Abyss *is* the
-  tunnel-network; see [house rules](house-rules-and-world-mechanics.md)). `[OPEN]` only whether
-  they needed **demon allies** to open or hold the road — threading into the
-  demon-first-contact and Manichean-Ragnarok questions below.
+  tunnel-network; see [house rules](house-rules-and-world-mechanics.md)). `[settled —
+  Will 8/16]` They **did** need **demon allies** to open and hold the road — the
+  **rakshasas**, who are still in the caldera today (§5). What the demons took for it
+  is open; see [Jotunheim as guests](../encounters/jotunheim-as-guests.md).
 - **Rama's vanara army (don't lose this — too cool).** The **monkey-folk host** that
   built the causeway and stormed Lanka is too good to drop: a **vanara people** as the
   avenging army or its allies, and the natural **bridge-builders** if the crossing is a
@@ -161,6 +162,15 @@ guarded channel.
 
 - **Sheer cliffs** ring the outside of the caldera; the only way in is a **narrow,
   heavily defended passageway** into the inner **bay.**
+- **The party comes in as guests.** `[settled — Will 8/16]` The zealots want **more
+  dragonborn and converts**, so visitors are welcomed, housed, and worked on rather
+  than turned back — and **Blackacre is offered a bride** if he passes the
+  coming-of-age trials. The whole visit is
+  [Jotunheim as guests](../encounters/jotunheim-as-guests.md).
+- **The rakshasas are still here.** `[settled — Will 8/16]` The demons who opened the
+  road under the sea for the reconquest (§4) hold a **temple inside the caldera**
+  1,900 years later. They were on the march, they watched the two trees planted and
+  named, and they say very little about it.
 - **The Dragon Turtle** *(David's note, verbatim):* *"In the bay of Jotunheim there is a
   Dragon Turtle. The last vestige of the dragons that inhabited the island. The
   dragonborn control it and it is a last defense for those that might enter the bay
@@ -174,8 +184,8 @@ guarded channel.
   reason is cosmological — **dragons follow the hot spot, and the hot spot has drifted
   southeast off Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas — but
   to the zealots it is an **unexplained desolation,** a wound to their faith and a spur to
-  **dread, doubt, and ever more dangerous zeal.** It is the **same beat as
-  [Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
+  **dread, doubt, and ever more dangerous zeal.** The same thing happens in
+  **[Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
   to you; you did not come; we did everything right and it meant nothing*
   ([the gods who do not answer](egyptian-afterlife-mythology.md)) — a **recurring campaign
   note of gods who abandon their faithful** (and a quiet rhyme with Kuru's own god failing,
@@ -299,13 +309,15 @@ Foundations.
   `[OPEN]` the exact mechanism (force the magma fast, or remove it so the dragon wins).
 - **`[OPEN]` Demon first contact** — when mortals first allied with demons; Kalikhat
   ~5,000 ya is the leading candidate (§2).
-- **`[OPEN]` The causeway** — sea-crossing vs. demon-opened tunnel for the zealot invasion
-  (§4).
+- **`[settled — Will 8/16]` The causeway** — a **demon-opened tunnel**, not a sea
+  crossing (§4). The rakshasas held the road, and are still in the caldera.
 - **`[OPEN]` Lonka = Lanka, resolved-ish** — the Ramayana tag is now *used on purpose*
   (Golden Lonka, Trikuta, the Ravana rhyme), not a homophone. Still worth deciding how
   much literal Lanka geography Lonka keeps vs. just its texture.
-- **`[OPEN]` Rakshasas & the Ashoka Vatika** — exactly where they sit in the present
-  caldera (§4).
+- **`[settled — Will 8/16]` Rakshasas** — they hold a **temple in the present caldera**
+  (§5), the demon allies of the reconquest, alive 1,900 years on. `[OPEN]` whether that
+  temple stands in the **Ashoka Vatika**, the walled grove (§4), and what they took for
+  the road — see [Jotunheim as guests](../encounters/jotunheim-as-guests.md).
 
 ---
 

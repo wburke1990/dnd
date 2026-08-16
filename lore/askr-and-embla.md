@@ -116,6 +116,10 @@ Nothing above gets explained to them. No priest or scholar lays it out, and no r
 produces the answer. Each of these is something that happens in front of the party, and
 the party draws its own conclusions.
 
+**They are guests** ([Jotunheim as guests](../encounters/jotunheim-as-guests.md)), so
+none of it has to be stolen. The teaching at the trees is put on for them, and the
+zealots are proud of all of it.
+
 **The ash under the roots.** The eruption blew the island apart and buried what was
 left ([Lonka / Jotunheim](lonka-jotunheim.md) §2). Dig at the foot of either tree — or
 find a root the weather has opened at the cliff edge — and the ash layer is *under*
@@ -156,6 +160,13 @@ and he asks, politely, which people it belongs to
 these two ([the rite](../encounters/jotunheim-trees-rite.md), stage 2). Play it as him
 being able to answer questions about the ash and the elm that the ash and the elm
 cannot answer about themselves.
+
+**The rakshasas were there and will not say so.** The demons in the caldera watched the
+two trees carried under the sea, planted, and named
+([Jotunheim as guests](../encounters/jotunheim-as-guests.md)). They answer the question
+asked and never the one behind it, and their word would count for nothing against the
+priesthood anyway. Asked exactly right, they confirm it — to the party, and to nobody
+else.
 
 ---
 
