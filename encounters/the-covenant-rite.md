@@ -1,13 +1,5 @@
 # The Covenant Rite — pledging yourself to a dragon court `[draft]`
 
-> ⚠️ **Unresolved — the blood is probably wrong here.** `[8/16]` This draft uses divided
-> animals (Gen 15) and blood in basins (Ex 24). But
-> [the trees rite](jotunheim-trees-rite.md) ranks blood three ways — other people's
-> spilled, a martyr's deposited, the celebrant's own offered — and only the third is a
-> bargain rather than a taking. If the covenant is an exchange between two parties, it
-> should be **the celebrant's own blood**, and the animal sacrifice below comes out.
-> Do not treat the stages as settled until this is decided.
-
 > **DM design note.** The rite behind
 > [the covenant with the dragons](../lore/lineages-and-afterlives.md): what a person
 > actually does to pledge themselves to one of the dragon religions and be judged by
@@ -144,13 +136,21 @@ performed on somebody's ancestors and consented to.
 
 ## The blood
 
-[The Jotunheim rite names three kinds](jotunheim-trees-rite.md) — other people's
-spilled, a martyr's deposited, the celebrant's own offered. **The covenant uses a
-fourth: a substitute's, divided.** The animal dies in the place of whoever breaks the
-agreement, and half of its blood goes on the person it stands in for.
+`[settled — Will 8/16]` **The blood is never the pledger's own.** It comes from someone
+or something else, and to buy your own soul you spend a life that is not yours. Every
+pledged soul on Nila was bought with a death.
 
-In the other three, the blood is given by one party to the other. Here it is split
-between both.
+[The Jotunheim rite ranks three kinds](jotunheim-trees-rite.md) — other people's
+spilled, a martyr's deposited, the celebrant's own offered — and the covenant takes
+**the first**, which in that doc is the kind that makes ground unusable until it is
+reconciled. The two religions disagree about what blood does. The rite Pax performs
+treats other people's blood as the thing that ruins a place. The rite Musa carries
+treats it as what buys a soul its place after death.
+
+The animal below is the ordinary form of it, and the substitute dies in the place of
+whoever breaks the agreement. `[OPEN]` **whether a person can be used instead, and what
+that buys.** The rite works the same with a larger victim, which is what the zealots
+tested at [Jotunheim](../lore/lonka-jotunheim.md).
 
 ---
 

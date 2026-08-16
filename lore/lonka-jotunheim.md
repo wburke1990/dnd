@@ -120,24 +120,27 @@ under the sea.** In order:
   colonists (elves and men)** who had held the island barely a century (§3). They called it
   **reconsecration** — the dragon's first perch taken back from usurpers (the on-file analogy:
   *the Crusaders retaking Jerusalem*).
-- **What they thought the killing was for.** `[Will 8/16]` Clearing the ground was part of it,
-  and not the main reason. **The dragons had already stopped coming** (§6), and the zealots meant
+- **What they thought the killing was for.** `[Will 8/16]` Clearing the ground was part of the
+  reason. **The dragons had already stopped coming** (§6), and the zealots meant
   to **bring them back** — to cut the [covenant](../encounters/the-covenant-rite.md) again, at
   scale, and pledge themselves anew in the true religion. A covenant is cut in blood, so this was
   that rite performed on a colony, with **the colonists in the place of the heifer and the goat
   and the ram.** (Genesis 15:9 word for word — a quotation, doing work here on purpose. Leave it
   alone.)
-- **Nothing came. There was nobody on the other side of it.** The dragons had followed the hot
-  spot southeast (§6) and were not there, so the blood did not fail on a technicality or on the
-  zealots being unworthy of it. They have held the island 1,900 years without that explanation,
-  and they do not entertain that their gods are not there.
-- **The zealots have it backwards.** The dragons left because
+- **The rite was performed correctly.** `[Will 8/16]` The
+  [covenant](../encounters/the-covenant-rite.md) is cut with **someone else's** blood — never the
+  pledger's own — so the zealots were doing what the rite requires, at a scale nobody had tried.
+  The difference between a pledge and this massacre is the number of people killed. Their religion
+  does not contain the objection.
+- **Nothing came. No dragon answered.** The dragons had followed the hot spot southeast (§6) and
+  were not there, so the blood produced no result. They have held the island 1,900 years without
+  that explanation, and they do not consider that their gods are not there.
+- **Why the dragons left.** They went because
   [the hot spot drifted](#6-the-dragons-no-longer-come) — the same drift that cooled the
   northwest coast and opened the tunnels they walked in through. The holy island stood empty of
   dragons for generations, **which is the only reason Maalm could plant a colony on it at all.**
-  The settlers arrived after the dragons had gone, and the zealots killed them for the dragons'
-  going. They were chosen because they were outsiders standing on the ground, and it was a
-  slaughter.
+  The settlers arrived after the dragons had gone, and the zealots killed them because the
+  dragons had gone. They were chosen because they were outsiders standing on the ground.
 
 These are the **Lonka Zealots** of the lost-tribes / reclamation thread (*Sam's quest*; see
 [Blackacre](../characters/blackacre.md), the wandering nomad whose arc is to **reconcile the
