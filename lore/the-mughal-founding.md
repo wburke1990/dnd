@@ -11,11 +11,12 @@ hundred years after he rode out.
 > the Mughals are the **Milesians**, the sons of Míl (as the gnomes are the Tuatha
 > Dé and the Firbolg are the Fir Bolg). The founder is Míl and **Babur** at the
 > same time; his sons are the sons of Míl — the poet **Amergin**, the warring
-> **Éber and Érimón**, the drowned **Donn**. The queen's abduction follows the
-> Hindu tale of **Krishna and Rukmini**, because it happens in
-> [Kalikhat](nila-atlas.md), which is Hindu ground. Farhad's own story is
-> **Oisín** in Tír na nÓg. Each deed keeps to the pantheon of the place it happens
-> in; none are mixed.
+> **Éber and Érimón**, the drowned **Donn**. The queen's story is the Hindu tale of
+> **Krishna and Rukmini** set inside a descent into **Patala** (the seven Hindu
+> netherworlds), with trials from the **Ahiravana**, **Bhima**, and **Arjuna and
+> Ulupi** tales — all Hindu, because it happens in [Kalikhat](nila-atlas.md). Farhad's
+> own story is **Oisín** in Tír na nÓg. Each deed keeps to the pantheon of the place
+> it happens in; none are mixed.
 
 ## The crossing — about 900 years ago
 
@@ -32,33 +33,53 @@ decline, and took what was left.
 
 ## Sultan Mihran, called the Tiger
 
-The founder. He led the people over the mountains and took the kingdom by the
-sword, then held it until his death. The deed of his youth was the theft of his queen
-out of the far north (below); the songs of the middle empire begin with it. He left
-the kingdom to his sons, and they built it up and then broke it apart between them.
+The founder. He led the people over the mountains and took the gnome kingdom by
+force. Then the mountain of [Haals](../encounters/the-mines-of-haals.md) gave him a
+prophecy of his own — the same buried giant whose vision the gnomes' founder Musa had
+carried out generations before. It told him his queen waited in the far north, in
+Kalikhat, and it showed him the way down to her (below). That prophecy is why he was
+in Kalikhat when she was there, and why his line has revered the mountain ever since:
+they kept the Haals taboo, never breaking into the graves the gnomes had dug up, so
+the poison stayed down the whole length of their rule. He held the kingdom until his
+death and left it to his sons, who built it up and then broke it apart between them.
 
-## The queen — Ratna of Kalikhat
+## The queen — Ratna of Kalikhat, and the descent for her
 
-Mihran's chief queen was a **drow** of [Kalikhat](nila-atlas.md), Kali's country in
-the far north — the coast over the whole Underdark, where mortals first dealt with
-demons. Her name was **Ratna**, and how Mihran took her is the story the middle
-empire's songs open with.
+Mihran's chief queen was **Ratna**, a princess of **Patala** — the seven netherworlds
+under the [Kalikhat](nila-atlas.md) coast, the deep world the
+[gates of Kala](../encounters/the-gates-of-kala.md) keep. Patala is jeweled and
+lamplit, wealthier than the surface, and its lords are the **Nagas**, the serpent-kings,
+and the **asuras**, the demons the Kalikhat folk first dealt with. Ratna is of that
+blood, and the princes of Patala do not die of age. To reach her, Mihran went down. The
+songs of the middle empire open with the descent.
 
-She was promised against her will to a demon-lord of the deep. She had heard of
-Mihran, and she sent him word: *come and take me.* By the custom of her people the
-bride went up to the **temple of Kali** to worship the goddess on the eve of the
-wedding — and as she came out from the shrine, Mihran rode in and carried her off
-in the sight of everyone. The demon-lord and his allies gave chase and were beaten.
-Her brother **Vetal** pursued swearing to kill him; Mihran took him alive, and
-Ratna begged for his life. Mihran spared him and sent him home shamed. Vetal never
-forgave it. He keeps the grudge still, below.
+He passed the gates of Kala and went down through the seven realms of Patala, one
+below the next. In the serpent-realm a **Naga king** gave him the strength of ten
+thousand elephants, enough to carry a bride back up to the surface. At
+the bottom, at the **temple of Kali**, a **demon-lord** meant to wed Ratna and give her
+to the goddess — and he could not be killed while **five lamps burned in five
+directions**, so Mihran put out all five at once, and the demon-lord fell.
+
+Ratna had sent for him. Promised against her will to the demon-lord, she had got word
+up to Mihran: *come and take me.* By the custom of her people the bride went to the
+goddess's temple to worship on the eve of the wedding, and as she came out from the
+shrine Mihran took her up onto his horse and rode for the surface. The demon-lord's
+allies gave chase up through the seven realms and were beaten. Her brother **Vetal**
+pursued swearing to kill him; Mihran took him alive, and Ratna begged for his life.
+Mihran spared him and sent him home shamed. Vetal never forgave it — and being an
+asura, he did not die; he holds the grudge still, below, eight hundred years on.
+`[OPEN]` Vetal as a recurring villain — an asura-prince of Patala; CR to scale to the
+party if they ever reach him (a serpent-demon in the marilith range is the working
+guess).
 
 Ratna became Mihran's chief queen, and their son was **Farhad**.
 
-*(Krishna and Rukmini, straight: the bride sends for her rescuer, is carried off
-from the goddess's temple, the pursuers are beaten, the brother is spared at her
-plea and never reconciles, and she rules as chief queen. Nothing is borrowed from
-any other tale.)*
+*(Krishna and Rukmini set inside a descent into Patala: the bride sends for her rescuer
+and is carried off from the goddess's temple, the pursuers are beaten, the brother is
+spared at her plea and never reconciles. The descent and its trials are the Hindu
+underworld tales — the seven netherworlds, the Naga king's boon (Bhima), the five lamps
+at the goddess's temple (Ahiravana), and the serpent-princess herself (Arjuna and
+Ulupi). All Hindu; nothing is borrowed from another pantheon.)*
 
 ## The sons of Mihran
 
@@ -99,5 +120,9 @@ as a run-ready encounter in
   encounter on the Aar road.
 - [Kalikhat](nila-atlas.md) and the [Muspel empire](the-muspel-empire.md) — the far
   north Ratna came from and the drowned empire whose fall drove the crossing.
-- [The Mines of Haals](../encounters/the-mines-of-haals.md) — the Mughal workings in
-  the descent through time; the Mughals kept the Haals taboo.
+- [The gates of Kala](../encounters/the-gates-of-kala.md) — the threshold Mihran went
+  down through into Patala for Ratna.
+- [The Mines of Haals](../encounters/the-mines-of-haals.md) — the mountain that
+  prophesied his queen, and gave Musa his vision before that; the Mughal workings in
+  the descent through time, where the party can meet Mihran's own descendants; the
+  Mughals kept the Haals taboo.
