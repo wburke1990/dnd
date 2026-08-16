@@ -33,7 +33,8 @@ of it and none of it is fit to drink. People buy their drink because the wells a
 foul.
 
 The families who built the present town are mostly gone. The bad water drove them out, up
-into the tombs near Maalm, where they are the [lepers](../encounters/valley-of-the-kings.md).
+into the tombs near Maalm, where they are the [lepers](../encounters/valley-of-the-kings.md) —
+the leprosy itself from the boxed chinampa tomatoes (below), not the water alone.
 They were settlers of the Mughal and Company ages, not the old gnomes — the gnome kingdom
 emptied out of here long before, its people gone into the hills to [Raand](nila-atlas.md),
 the sidhe. What fills the town now is the Company's trade: dwarf crews down off the mine,
@@ -80,6 +81,17 @@ The whole operation is under guard. The produce is picked, packed into crates, a
 are held. They do not go onto the barges that leave the lake for the sea — they hold the
 contaminant the beds pulled out of the water. A party watching the outbound barges sees ore,
 and no crates.
+
+**Eating the fruit gives leprosy.** `[settled — play, S10]` That is what the poison does in
+this form — the same poison takes other forms elsewhere, with other effects. The Company
+boxes the tomatoes and does not sell them, but the town's displaced poor — the people the
+bad water forced into vagrancy (above) — **broke into the warehouse and ate them, and got
+leprosy.** They are the [tomb-lepers](../encounters/valley-of-the-kings.md) now: they went up
+to the dry air of the tombs near Maalm, where bandages and dry desert air are the only
+relief. Since the break-in the **warehouse and the chinampa water-farms are both heavily
+guarded.** *(A Maalm restaurateur peddles the rumor version — "a Company tomato that gives
+leprosy, sourced only from Copaa.")* What the poison chemically **is** stays
+[`[OPEN]`](../encounters/the-haals-runoff.md).
 
 ## The tavern `[draft]`
 
@@ -132,6 +144,11 @@ few families that were here before the Company keeps it (`[OPEN]` — name for D
 - `[OPEN]` Where the crates go — the guarded chinampa produce that never reaches the
   outbound sea barges (David's hook, 7/28). What is in them is settled: the contaminant the
   beds pull out of the Haals water (the chinampas section, above).
+- `[settled — play, S10]` The boxed tomatoes **give leprosy**; the Company holds the crates
+  and does not sell them. A warehouse break-in by the town's vagrants is how the
+  [tomb-lepers](../encounters/valley-of-the-kings.md) were made — and why the warehouse and
+  the chinampa water-farms are now heavily guarded. (What the contaminant chemically is
+  stays open — [Haals runoff](../encounters/the-haals-runoff.md).)
 - `[settled]` Why the chinampa beds are there — to clean the Haals runoff; the plants take
   up the contaminant, which is why the tomatoes are poison (the chinampas section, above).
 - `[OPEN]` Names for the tavern-keeper and the innkeeper family — David's to set.
