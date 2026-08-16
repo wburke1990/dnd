@@ -165,7 +165,7 @@ person present whose soul is kept after death.
 |---|---|
 | He notices Sarric in the party, and turns to Blackacre | *"Why do you travel with one of the ones who die? Were you not made for finer things?"* |
 | Blackacre asks what he means | *"This man is a firbolg, kin to the sleeper. His fate is to return to the earth and lose his soul and all he ever was to its eternal hunger. His is the fate of the animals and the fish who crawl on their bellies. To fulfil the cycle of nature. To you alone is the gift of eternal salvation granted. Live well and our fathers will paint your deeds across the skies. You and I will meet in the halls of our ancestors, but only if you live like a mighty dragon. Fly free of this world and fulfil your destiny."* |
-| Blackacre takes Sarric's side | *"Do not mourn him. He does not mourn himself. Ask him."* Sarric can confirm it: his people know what they are and raise children expecting it ([lineages](../lore/lineages-and-afterlives.md)). The mechanism is as Musa describes; that doc sets the two afterlives side by side and picks neither. |
+| Blackacre takes Sarric's side | *"Keep your grief for yourself. Ask him — he will tell you the same."* Sarric can confirm it: his people know what they are and raise children expecting it ([lineages](../lore/lineages-and-afterlives.md)). The mechanism is as Musa describes; that doc sets the two afterlives side by side and picks neither. |
 | Blackacre asks why the difference should matter to him | *"Cattle die. Kinsmen die. You will die. What does not die is the account of a man. Your friend will not have one. You will."* |
 | At any lull — he does not need to be asked | *"You have great power in you, but you fear to use it. Power never used is power no longer."* [Blackacre bailed when his own plan turned violent](../characters/blackacre.md); Musa is a man on his way to do it. Run it as a challenge for Sam to answer, not a fact about the character. |
 | Blackacre pushes back on that — he offers prophecy instead of argument | *"Perhaps you shall slay the beast that rises in the western desert to eat the hearts of the damned."* — [Ammit, under Maalm](../lore/maalm-the-elven-stronghold.md), west of Haals. |
@@ -179,18 +179,18 @@ of them.
 | [Pax](../characters/pax.md) speaks, or he takes him in | *"Your father's people are in the sky already. What did they send you down for?"* This and the "eternal hunger" line are the two halves of what Pax is, said in one conversation — the ground that eats what is given to it, and the sky that keeps a name. Both come back at [the Jotunheim trees](jotunheim-trees-rite.md); see [encounters before the Jotunheim rite](before-jotunheim.md). |
 | [Jasper](../characters/jasper.md) | *"I do not know what you are."* Earth genasi are [Bad Pass](../lore/world-history-timeline.md) mutations, four thousand years after Musa. He has seen nothing like him and says so. |
 | [Aniess](../characters/aniess.md) | *"You have been changed. Who holds the name you had before?"* |
-| [Sarric](../characters/sarric.md) addresses him directly | *"You have no name. I will not ask you for one."* He is not hostile. To Musa the Firbolg are **the ones who die** — the people his gnomes take the land from, who carry no name and hold no title to the ground. `[OPEN — discuss with David]` "the ones who die" (and the alternative, "the nameless ones") before it goes into canon. |
+| [Sarric](../characters/sarric.md) addresses him directly | *"Among my people a man is his name. You have none."* He is not hostile. To Musa the Firbolg are **the ones who die** — the people his gnomes take the land from, who carry no name and hold no title to the ground. `[OPEN — discuss with David]` "the ones who die" (and the alternative, "the nameless ones") before it goes into canon. |
 
 **On the conquest he has not committed yet.** He does not apologize and does not expect
 to be asked to.
 
 | When | He says |
 |---|---|
-| The party questions the taking of the land | *"The land was given to us. What stands on it stands in the way."* |
+| The party questions the taking of the land | *"The land was given to us. Whatever is standing on it will be moved."* |
 | The party says the Firbolg will fight, or that it will not work | *"We are well able to overcome it."* |
 | **The party points out he was a refugee himself** | **Nothing.** This is the one thing put to him he has no answer for — *you shall not oppress a stranger, for you were strangers in the land of Egypt*. Let him go quiet and change the subject. Do not write him a rebuttal; the silence does more. |
 | Asked who he brought, or about the gnomes with him | *"Five. That is what the boat held. I chose them by lots, and I have not slept since."* |
-| Asked what he saw, or who he is | *"I was shown the land and the length of it. I will not see the end of what I begin."* Moses on Pisgah — shown all of it, and it is his descendants who go over. |
+| Asked what he saw, or who he is | *"I was shown the land and the whole length of it. My descendants will see the end of what I begin."* Moses on Pisgah — shown all of it, and it is his descendants who go over. |
 | Asked what a vision is, how he knows, or why he will not explain one | [His lines on the river](#the-same-two-passages-in-our-world--as-lines) — he was lifted out of the flow for one moment and put back, and *"I saw it. I was not told it."* |
 | Pressed on the Firbolg rather than on Blackacre | [His lines on what the mountain keeps](#the-same-two-passages-in-our-world--as-lines) — the same facts Balor states flat, with a verdict on them. |
 | The party tells him the kingdom falls | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
@@ -272,6 +272,15 @@ and no approval either.
 to ask next: *"Would you know more?"* (the Völuspá's repeated line). It puts the asking
 back on them and costs nothing.
 
+**Keep the negatives rare.** A style pass on 8/15 found about half the spoken lines in
+this scene resolving on a negation — *I am not carried, I do not weigh the two, there is
+no god here* — often enough that the shape became predictable before the content did.
+The ones still standing are the ones where the negation carries the meaning: *"I will
+wake. Not for you."* · *"You are the hand. You are not the cause."* · *"The mountain does
+not take from its own."* · *"I have never known what a year is."* · *"You have my skin
+and none of my blood."* · Musa's *"I saw it. I was not told it."* Write new lines
+positively unless the negation carries the meaning.
+
 ### Greetings — one per PC
 
 He calls Sarric **child** and Pax **nephew**.
@@ -286,9 +295,9 @@ descended from him; Pax is off the brother line.
 | Sarric or anyone asks whether they are safe here | *"You are of the first people. The mountain does not take from its own. Walk where you like."* |
 | [Pax](../characters/pax.md) | *"Welcome nephew."* |
 | [Jasper](../characters/jasper.md) | *"You have my skin and none of my blood. Something made you in a hurry."* Earth genasi are [Bad Pass](../lore/world-history-timeline.md) mutations, a thousand years old. |
-| [Aniess](../characters/aniess.md) | *"You are not what you were born. Nor will anything be, at the end."* |
-| [Blackacre](../characters/blackacre.md) | *"You have a name. I have never had one. Neither of us was asked."* |
-| Blackacre asks which of the two fates is better | *"You will be judged in the sky. I will not. Both of us end."* He does not rank them. Musa, one level up, ranks them absolutely. |
+| [Aniess](../characters/aniess.md) | *"Something changed you after you were born. Everything changes before the end."* |
+| [Blackacre](../characters/blackacre.md) | *"You have a name. I have none. Neither of us chose."* |
+| Blackacre asks which of the two fates is better | *"You will be judged in the sky. I will go into the stone. Both of us end."* He does not rank them. Musa, one level up, ranks them absolutely. |
 
 ### Himself — what he is, and how long
 
@@ -298,8 +307,8 @@ descended from him; Pax is off the brother line.
 | Asked what he is | *"I am time, come to its full growth, and I am here to take the world back."* |
 | Asked how long he has been here | *"I have lain here for ages and I will lie here. When the last fire heats the deep I will rise, and be seen once, and die on the surface."* |
 | Pressed on the same | *"I have not begun. I have already finished."* |
-| Asked whether the party woke him, or whether they are intruding | *"My sleep has never been entered. It is not entered now."* |
-| Asked whether he is a god | *"Your grandmother is in me. So will you be. There is no god here."* |
+| Asked whether the party woke him, or whether they are intruding | *"I have slept through everything that has happened. I am asleep now."* |
+| Asked whether he is a god | *"Your dead are in me. You will be in me. That is all a god is here."* |
 | Asked about the sky religion, or any god by name | *"I know little of such beasts, for they will come and go from this world while I sleep."* |
 | Asked anything that turns on a date, a year, or a count of years | *"I know the weight of water and the pressure of stone. I have never known what a year is."* Not refusal — he cannot. |
 | Asked how the party can be walking through the ages at all | *"A thousand of your years is a moment to me. You have been standing in it since you left the light."* |
@@ -310,12 +319,12 @@ descended from him; Pax is off the brother line.
 | When | He says |
 |---|---|
 | Asked to explain a prophecy | *"There are many rivers in the flow of time, and though I choose to shape them with my words, to explain my prophecy is to undo the doing. I remain silent that my words may shape the world."* |
-| Pressed to explain a second time | *"Have you walked in the search of the depth? Then do not ask me to explain."* |
+| Pressed to explain a second time | *"Have you been to the bottom of the sea? Then do not ask me to explain."* |
 | Asked how he knows, or by what right he says any of it | *"Where were you when the foundations of this country were laid?"* Job's form, without Job's God being aggrieved about it. |
 | Told the party will change what he foretells | *"You will try. I have watched you try."* |
-| Asked whether a prophecy can be escaped at all | *"It was said my daughter's son would kill me. I put her in a tower on an island. That is how he came to be. I no longer step out of the way."* His own myth is the argument. |
+| Asked whether a prophecy can be escaped at all | *"It was said my daughter's son would kill me. I put her in a tower on an island. That is how he came to be. Now I let it come."* His own myth is the argument. |
 | Someone swears to save a person or prevent an event | *"They are dead already. You are the hand. You are not the cause."* |
-| Asked whether anything ever changes | *"What has been is what will be. There is nothing new under this mountain."* |
+| Asked whether anything ever changes | *"What has been is what will be. Everything here has happened before."* |
 | Pressed on that | *"One generation goes and another comes. The earth stays. I am the part that stays."* |
 | Asked to wake, or to help | *"I will wake. Not for you."* |
 
@@ -324,15 +333,15 @@ descended from him; Pax is off the brother line.
 | When | He says |
 |---|---|
 | Asked about Musa, or if they mention meeting him above | *"The dragonborn came in at that mouth. He is going out at it now. You passed him."* |
-| Asked where the founding prophecy came from | *"The dragonborn who dipt into the future dipt into me. The land he promised your enemies, I showed him. The stone over the harbour at Aar wears my eye."* |
+| Asked where the founding prophecy came from | *"The dragonborn who dipt into the future dipt into me. The land he promised your enemies, I showed him. My eye is cut into the stone over the harbour at Aar."* |
 | Accused of arming the conquest of his own kin | *"I showed him what is there. What he did with it, I had already seen him do."* |
 | Pressed — his own kin were killed for it | *"They came back to me. They are here."* The [earth-nameless return to the earth](../lore/lineages-and-afterlives.md); the Firbolg dead are in the stone the party is standing in. |
 | Asked whether he was awake when the gnomes broke into the graves | *"I am asleep the day the gnomes break the wall, and I am speaking to you now, and both are now."* |
-| Asked about the Company, or the mine above | *"They are carrying the mountain away. In time I will carry them away. I do not weigh the two."* |
+| Asked about the Company, or the mine above | *"They are carrying the mountain away. In time I will carry them away. Both are the same to me."* |
 | Asked about the land outside, or the mountains generally | *"The hills are my brothers' bones. You have walked on them since you came ashore."* |
 | Sarric asks what becomes of his dead | *"Your dead are in this stone. So are the ones not yet born. It is the same stone."* The mountain is [the stock new Firbolgs are drawn from](../lore/lineages-and-afterlives.md). |
-| Sarric presses on that | *"This stone is your grandmother. It is also your grandchild. There is no moment when it is not both."* |
-| Sarric asks whether anything of his people is kept, or asks about [the La Cava handprints](temple-sites.md) | *"Your people never wrote anything down. They came in here instead. I have their songs and there is no one to sing them."* If there is room for the whole answer, use [the long lines](#the-same-two-passages-in-our-world--as-lines) instead. |
+| Sarric presses on that | *"This stone is your grandmother. It is also your grandchild. It is both, always."* |
+| Sarric asks whether anything of his people is kept, or asks about [the La Cava handprints](temple-sites.md) | *"Your people kept everything in the stone. I have their songs. No one is left to sing them."* If there is room for the whole answer, use [the long lines](#the-same-two-passages-in-our-world--as-lines) instead. |
 
 ### The offer
 
@@ -346,7 +355,7 @@ it down. They can ask, or refuse and take nothing.
 | When | He says |
 |---|---|
 | He makes the offer, unprompted | *"You may ask me one question and I will answer truly. I know what you will ask, and it is your destiny that you should ask it, and that I shall listen and reveal."* |
-| They hesitate, or ask what he is offering | *"You want to know what comes. I will give you a piece of the river. You will not be able to set it down."* |
+| They hesitate, or ask what he is offering | *"You want to know what comes. I will tell you one thing that comes. You will carry it after that."* |
 | They ask a second question | *"You have had your question."* |
 | They refuse the offer | *"Then you will ask it somewhere else, and be answered by something that lies."* |
 | They ask what they ought to ask | *"That was your question."* Only if the table will take it as a good joke — it costs them the prophecy, and he does not reverse himself. |
@@ -432,31 +441,28 @@ survives, or asks about [the La Cava handprints](temple-sites.md).
 - *"The mountain kept what they had been. Their songs. Their dead. What they knew about
   the world and how to live in it."*
 - Asked whether he is a god, or whether the old gods are here: *"The people who came
-  after say the mountain is where the old gods are. Your people never said there were
-  gods here. They said they were what a god is made out of."*
+  after say the mountain is where the old gods are. Your people said something else.
+  They said they were what a god is made out of."*
 - *"Every one of them that dies becomes some of it."*
 
 **Musa, on the same people.** The identical facts, with a verdict on them. Use these
 when he is pressed on the Firbolg rather than on Blackacre.
 
-- *"They have no books. No letters. Nothing at all that holds a word after the mouth
-  stops."*
+- *"They have no books. No letters. Nothing that keeps a word once the speaker is
+  dead."*
 - *"Ask him what his grandmother was called."* Sarric cannot answer — the nameless carry
   no name — and Musa knows it before he asks.
-- *"The mountain keeps their songs and there is nobody in it. Call that what you like. I
-  do not call it living."*
+- *"The mountain keeps their songs and every one of them is dead. That is a grave."*
 - Told the Firbolg become the god themselves: *"They say they are what a god is made
   from. A thing you are made from is a thing that gets used."* Musa arriving at
   [the names and ownership thesis](../lore/campaign-overview.md) from the wrong end.
 
 **Balor, on time.** Asked who and where he is, after the short answer in the table.
 
-- *"Time is not to a mountain what it is to a man. Water, and the weight above, and the
-  cold — a mountain knows those. Days and years and hundreds of years it does not
-  know."*
-- *"For you time is a river. You are in the flow of it, it carries you one way, and you
-  cannot stand up in it. I am not carried."*
-- *"The child is the mountain and the mountain is the child."*
+- *"A mountain knows water, and the weight above, and the cold. It does not know days or
+  years."*
+- *"For you time is a river. It carries you one way. I stand in it."*
+- *"The child becomes the mountain. The mountain becomes the child."*
 - *"A thousand of your years is one moment to me. You have been walking through that
   moment since you left the light."*
 
@@ -465,9 +471,9 @@ which is the whole difference between them — and it is why everything he offer
 *perhaps*.
 
 - Asked what a vision is, or how he knows: *"I was in the river as you are. For one
-  moment I was lifted out of it and shown the length of the water. Then I was put
+  moment I was lifted out of it and shown the whole of the water. Then I was put
   back."*
-- *"I have seen where it goes. I still have to swim it like a man."*
+- *"I have seen where it goes. I still have to swim it."*
 - Asked why he will not explain a prophecy: *"I saw it. I was not told it."*
 
 **Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md). A thing
