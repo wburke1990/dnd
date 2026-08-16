@@ -231,10 +231,11 @@ in [the Copaa bestiary](../bestiary/copa-irish-beasts.md):
   and was warned never to touch the ground; he stops to help men lift a stone, his
   stirrup breaks, and every year he skipped lands at once. The party can act before he
   hits the ground.
-- **The Piper out of the Mound** — the Company's digging opens a mound and a master
-  piper walks out mid-tune, expecting the feast he left "a night ago." Hundreds of
-  years have passed. Told the truth, he ages where he stands or walks back into the
-  hill.
+- **The Piper out of the Mound** — the Company's digging opens a mound and a piper
+  walks out still playing. A fairy spell held him under, made to pipe without stopping
+  for a year while they danced, and he came out of that year a **master piper.** He
+  thinks his year is just ending; hundreds of years have passed. Told the truth, he
+  ages where he stands or walks back into the hill.
 
 **The final leg — as they approach the mountain.** Save **Time in the mountain** for
 the last stretch toward Haals: the closer they get, the more the time magic bites.

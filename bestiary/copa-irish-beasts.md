@@ -492,12 +492,14 @@ ground and he ages. What the party changes is what they learn from him, and
 whether he dies a stranger or with his questions answered.
 
 **The Piper out of the Mound.** The [Company's digging](../encounters/the-haals-runoff.md),
-or a collapse, opens a mound, and a piper walks out of it mid-tune — fine-dressed,
-a master, expecting the feast and the company he left a night ago. Hundreds of
-years have passed. He does not know. He plays the music of the
+or a collapse, opens a mound, and a piper walks out of it still playing. A spell of
+the fair folk held him under: made to pipe without stopping for a year while they
+danced, and he came out of that year a master — the best hand anyone in Copaa has
+heard. He thinks his year is just now ending; hundreds of years have passed above.
+He does not know. He plays the music of the
 [fallen kingdom](../lore/the-fallen-gnome-kingdom.md), the tunes the little people
-still trade under the hill (*The Little People*, above), and he is the best hand
-anyone in Copaa has heard. He asks after people long dead and a hall long gone.
+still trade under the hill (*The Little People*, above), and he asks after people
+long dead and a hall long gone.
 **The choice is whether to tell him.** Play alongside him and he takes the
 measure of the party by their hands (**Performance**; a hard audience, and a
 generous teacher of anyone who can keep up). Made to understand how long he was
