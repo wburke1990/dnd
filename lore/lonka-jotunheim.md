@@ -121,6 +121,25 @@ they came **from Muspelheim, on foot, under the sea.** The chain:
   and **massacred the Maalm colonists (elves and men)** who had held the island barely a century
   (§3). To them it was not conquest but **reconsecration** — the dragon's first perch taken back
   from usurpers (the on-file analogy: *the Crusaders retaking Jerusalem*).
+- **What they thought the killing was for.** `[Will 8/16]` Cleaning the ground was the smaller
+  half of it. **The dragons had already stopped coming** (§6), and the zealots meant to
+  **bring them back** — to cut
+  the [covenant](../encounters/the-covenant-rite.md) again, at scale, and pledge themselves anew in
+  the true religion. A covenant is cut in blood, with the offering divided and the parties passing
+  between the halves; this was that rite performed on a colony, with **the colonists in the place
+  of the heifer and the goat and the ram.** They paid the largest price anyone in this world has
+  paid.
+- **Nothing came.** No dragon passed between the pieces. It is the strongest evidence in the
+  campaign for the way the covenant actually runs — [only the dragon can pass](../encounters/the-covenant-rite.md),
+  the obligation was never the pledger's to discharge, and so **there was nothing the zealots could
+  have paid that would have worked.** They have held the island 1,900 years without an explanation.
+- **And they have the cause and the effect the wrong way round.** The dragons left because
+  [the hot spot drifted](#6-the-dragons-no-longer-come) — the same drift that cooled the
+  northwest coast and opened the tunnel road they walked in on. The holy island stood empty of
+  dragons for generations, **which is the only reason Maalm could plant a colony on it at all.**
+  The zealots read the settlers as the cause of the desolation when the settlers were a symptom of
+  it, and killed them for it. Keep this straight and do not let the motive soften what happened:
+  they were chosen because they were outsiders standing on the ground, and it was a slaughter.
 
 These are the **Lonka Zealots** of the lost-tribes / reclamation thread (*Sam's quest*; see
 [Blackacre](../characters/blackacre.md), the wandering nomad whose arc is to **mend the
@@ -180,7 +199,11 @@ guarded channel.
 - **The dragons no longer come — and the Zealots don't know why.** `[settled]` The
   Dragon Turtle is the **only** one left: **no living dragons visit Lonka any more.** The
   Zealots bled to reconsecrate the dragon's first perch (§4), yet their gods have
-  **abandoned the holiest ground in the world,** leaving just the turtle in the bay. 🔒 The
+  **abandoned the holiest ground in the world,** leaving just the turtle in the bay.
+  **The order matters:** `[Will 8/16]` the dragons were **already gone before the
+  massacre** — gone for generations, which is what let Maalm settle the island in the
+  first place — so the killing was never a reprisal for a desecration that drove them
+  off. It was an attempt to **call them back** (§4), and it failed. 🔒 The
   reason is cosmological — **dragons follow the hot spot, and the hot spot has drifted
   southeast off Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas — but
   to the zealots it is an **unexplained desolation,** a wound to their faith and a spur to

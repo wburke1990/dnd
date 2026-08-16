@@ -134,6 +134,15 @@ one side alone. `[OPEN]` and this is the load-bearing question of the whole rite
 - If **both pass**, the pledger has named the penalty for his own default, and every
   bound soul in the campaign is technically in breach of something.
 
+**[Jotunheim is the evidence](../lore/lonka-jotunheim.md).** The zealots believed both
+parties walk — that a default could be cured from their side — so when the dragons
+stopped coming they cut the covenant again at scale, with a colony of Maalm settlers in
+the place of the heifer and the goat and the ram. **Nothing passed between the pieces.**
+The largest blood price anyone in this world has paid bought nothing at all, which is
+what it looks like when a party tries to discharge an obligation that was never theirs.
+Read that way, the massacre is the campaign's answer to this question, and the answer is
+that only the dragon walks.
+
 ### 6. The blood divided, and the name laid on
 
 Half the blood goes on the stone, half goes on the person. The two parties are
