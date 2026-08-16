@@ -191,7 +191,7 @@ to be asked to.
 | **The party points out he was a refugee himself** | **Nothing.** This is the one thing put to him he has no answer for — *you shall not oppress a stranger, for you were strangers in the land of Egypt*. Let him go quiet and change the subject. Do not write him a rebuttal; the silence does more. |
 | Asked who he brought, or about the gnomes with him | *"Five. That is what the boat held. I chose them by lots, and I have not slept since."* |
 | Asked what he saw, or who he is | *"I was shown the land and the whole length of it. My descendants will see the end of what I begin."* Moses on Pisgah — shown all of it, and it is his descendants who go over. |
-| Asked what a vision is, how he knows, or why he will not explain one | [His lines on the river](#the-same-two-passages-in-our-world--as-lines) — he was lifted out of the flow for one moment and put back, and *"I saw it. I was not told it."* |
+| Asked what a vision is, how he knows, or why he will not explain one | [His lines on the river](#the-same-two-passages-in-our-world--as-lines) — he was lifted out of the flow for one moment and put back, and *"I was shown it. The reasons stayed down there."* |
 | Pressed on the Firbolg rather than on Blackacre | [His lines on what the mountain keeps](#the-same-two-passages-in-our-world--as-lines) — the same facts Balor states flat, with a verdict on them. |
 | The party tells him the kingdom falls | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
 
@@ -280,11 +280,13 @@ the speaker's own cosmology, or a phrase lifted from scripture, stays.
 **Keep the negatives rare.** A style pass on 8/15 found about half the spoken lines in
 this scene resolving on a negation — *I am not carried, I do not weigh the two, there is
 no god here* — often enough that the shape became predictable before the content did.
-The ones still standing are the ones where the negation carries the meaning: *"I will
-wake. Not for you."* · *"You are the hand. You are not the cause."* · *"The mountain does
-not take from its own."* · *"I have never known what a year is."* · *"You have my skin
-and none of my blood."* · Musa's *"I saw it. I was not told it."* Write new lines
-positively unless the negation carries the meaning.
+**The worst of it was one shape used three times:** *I will wake. Not for you.* · *You
+are the hand. You are not the cause.* · *I saw it. I was not told it.* Each read well
+alone and they cancelled each other out; all three are now positive. What still stands
+is where the negation is the only way to say the thing: *"The mountain does not take from
+its own."* · *"I have never known what a year is."* · *"You have my skin and none of my
+blood."* Write new lines positively, and **never twice in the same scene** land a short
+sentence on a bare *not*.
 
 ### Greetings — one per PC
 
@@ -328,10 +330,10 @@ descended from him; Pax is off the brother line.
 | Asked how he knows, or by what right he says any of it | *"Where were you when the foundations of this country were laid?"* Job's form, without Job's God being aggrieved about it. |
 | Told the party will change what he foretells | *"You will try. I have watched you try."* |
 | Asked whether a prophecy can be escaped at all | *"It was said my daughter's son would kill me. I put her in a tower on an island. That is how he came to be. Now I let it come."* His own myth is the argument. |
-| Someone swears to save a person or prevent an event | *"They are dead already. You are the hand. You are not the cause."* |
+| Someone swears to save a person or prevent an event | *"They are dead already. You are only the hand."* |
 | Asked whether anything ever changes | *"What has been is what will be. Everything here has happened before."* |
 | Pressed on that | *"One generation goes and another comes. The earth stays. I am the part that stays."* |
-| Asked to wake, or to help | *"I will wake. Not for you."* |
+| Asked to wake, or to help | *"I will wake once, and you will be a long time dead."* |
 
 ### Musa, the graves, and the mine
 
@@ -479,7 +481,8 @@ which is the whole difference between them — and it is why everything he offer
   moment I was lifted out of it and shown the whole of the water. Then I was put
   back."*
 - *"I have seen where it goes. I still have to swim it."*
-- Asked why he will not explain a prophecy: *"I saw it. I was not told it."*
+- Asked why he will not explain a prophecy: *"I was shown it. The reasons stayed down
+  there."*
 
 **Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md). A thing
 that has lain in the dark since before record, sleeping a *dreamless, uninvaded* sleep,
