@@ -87,10 +87,11 @@ recurring comedy — it keeps dying and reforming in the Abyss:
 - Lock **who voices it** — offered to sankaku ("the voice of the summon"); the
   other DM floated playing "the bat" too. **[loose]**
 - **Named — Batrick.** `[settled — play]`
-- **How it reports to Preem.** `[settled — play, S10]` Its telepathy binds only to
-  **Jasper** (the familiar bond), not Preem, and it has **no private daytime moment** on
-  Jasper's shoulder — so it reports **during a long rest, via its own sending stone** (its
-  one private window).
+- **How it reports to Preem.** `[settled — play, S10]` The familiar bond speaks only into
+  **Jasper's** mind — no one else hears it (as with Calix's toad and Pim's centipede), so it
+  has no telepathic line to Preem — and it has **no private daytime moment** on Jasper's
+  shoulder either. It reports **during a long rest, via its own sending stone** (its one
+  private window).
 - **How much it has told Preem.** `[S10]` It has **not yet** reported the party's
   **double-agent deal with V.** — that goes up at the **next long rest** (via the stone),
   and only then does Preem's side learn they turned and start playing them as triple agents

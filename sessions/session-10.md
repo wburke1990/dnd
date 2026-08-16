@@ -1,5 +1,5 @@
-# Session 10 — V.'s Offer, the Names Paid, and Pax's Vision
-## The coffeehouse with V.; the names paid to Mul; Pax tells Jogo his four-day vision
+# Session 10 — V. Turns the Party, and the Road to the Sacred Hunt
+## The coffeehouse (V.'s offer, Jogo's leprosy tomato, Pax's vision); the docks; the tower — the lost map and the Dream Quest
 
 > Live table notes, still being recorded. Opens at the coffeehouse where
 > [Session 9](session-09.md) ended — **V.** at the table.
@@ -216,16 +216,25 @@ fetch a new map**, and they talked in a **ground-floor study** while it was foun
   [Mul's file](../characters/mul.md) for now. `[OPEN]` whether he's a **bound demon** in
   disguise like the rest of Preem's tower staff (Mul, Batrick) — and if so, what kind.
 
-## Departure & next session
+## Session end — leaving Mul; next session ahead
 
-- **The docks / sailing ambush was skipped** — the party's agreeing to work for V. took
-  it off the table; [Departure Under Fire](../encounters/docks-departure.md) went unused.
-  With the new map, they sail on the Second Hand's chartered transport toward the Sacred Hunt.
-- **Next session (V.'s sending-stone message).** V. will reach Sarric through the stone she
+The session **ended as the party left Mul** at the tower, new map in hand. They have **not
+sailed yet** — next session opens on the departure.
+
+- **The sailing ambush is off.** Agreeing to work for V. took [Departure Under
+  Fire](../encounters/docks-departure.md) off the table; it goes unused. Next session they
+  sail on the Second Hand's chartered transport toward the Sacred Hunt.
+- **Batrick's report / the triple-agent pivot** fires at the **next long rest** (via his
+  sending stone) — so Preem's side learns of the V. deal then.
+- **V.'s sending-stone message (next session).** V. reaches Sarric through the stone she
   gave him: she got out of Maalm alive, wants Sarric to **apologize to Blackacre on her
   behalf**, and reveals she **didn't kill Fester after all** — he's sore about the missing
-  fingers. (Fester = **Ratatat**, the rat man Jasper de-fingered in S6.)
+  fingers (Fester = **Ratatat**, the rat man Jasper de-fingered in S6).
   See [V. prep](../encounters/v-second-contact.md).
+- **The rival crews at the hunt (next arc).** "Every ninja team" converges on the Sacred
+  Hunt: the funded **[Lapis Writ](../encounters/tavern-name-hunter-crews.md)** buy the
+  hunter's seat (wealthy Maalm aristocrats — they pay for the best), while the broke party
+  comes as **quarry** or slips in — the winners hunting, the party hunted (Calix/Pax mirror).
 
 ---
 
