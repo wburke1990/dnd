@@ -141,7 +141,7 @@ The Egyptians understood the soul as multiple distinct components, not a single 
 | Ka | Life force | The vital essence. Requires a physical body to return to — hence mummification. |
 | Ba | Personality | Depicted as a bird with a human head. Travels freely between the living world and the dead. |
 | Akh | Transformed spirit | The union of Ka and Ba after successful passage. What the soul becomes in the afterlife. |
-| Ib | Heart | The seat of morality. What is weighed on the scales. |
+| Ib | Heart | The seat of morality. Anubis puts it on the scales. |
 | Ren | Name | Identity itself. To speak someone's true name is to have power over them. |
 | Sah | Spiritual body | Can interact with other spiritual beings in the afterlife. |
 | Shut | Shadow | A component of the soul, less understood. |
@@ -211,7 +211,7 @@ Present:
 - **Ammit** — waits beside the scales
 
 **The 42 Confessions (Declaration of Innocence):**
-In standard Egyptian mythology these are *negative* confessions — "I have not stolen," "I have not lied." In your campaign they are *positive* confessions — "I have stolen," "I have lied." This change reflects your world's emphasis on truth over purity. The scales don't weigh whether you've sinned. They weigh whether you know yourself.
+In standard Egyptian mythology these are *negative* confessions — "I have not stolen," "I have not lied." In your campaign they are *positive* confessions — "I have stolen," "I have lied." A soul that names its own sins passes; a soul that claims it has none does not.
 
 Each confession is addressed to one of the 42 divine judges by name. The soul must know the judges' names to address them correctly. Three judges appear in Tomb 3's inner chamber painting: Neha-hau, Am-khaibitu, Hept-Shet.
 

@@ -120,6 +120,35 @@ def test_flags_gnomic_passive() -> None:
     assert "gnomic-passive" in _rules("the tree's own words, there to be heard")
 
 
+def test_flags_headless_relative() -> None:
+    assert "headless-relative" in _rules("What is weighed is what he did.")
+    assert "headless-relative" in _rules("it does not change what is weighed")
+    assert "headless-relative" in _rules("What was remembered stayed in the stone.")
+
+
+def test_headless_relative_leaves_plain_prose() -> None:
+    # A named actor doing the weighing is the rewrite the rule asks for.
+    assert "headless-relative" not in _rules("Anubis weighs the fire, not the reasons.")
+    assert "headless-relative" not in _rules("She asked what is still standing.")
+
+
+def test_flags_negated_antithesis() -> None:
+    assert "negated-antithesis" in _rules(
+        "The scales don't weigh whether you've sinned. They weigh whether you know yourself."
+    )
+    assert "negated-antithesis" in _rules(
+        "The mountain does not sleep. It sleeps only when the digging stops."
+    )
+
+
+def test_negated_antithesis_leaves_plain_prose() -> None:
+    # A negation followed by an unrelated sentence is not the antithesis shape.
+    assert "negated-antithesis" not in _rules(
+        "The scales don't weigh sinlessness. Ammit waits beside them."
+    )
+    assert "negated-antithesis" not in _rules("He does not answer. They walk on.")
+
+
 def test_gnomic_passive_leaves_plain_prose() -> None:
     # A plain "there" or an infinitive that states an action is fine.
     assert "gnomic-passive" not in _rules("A stair is there, going down.")

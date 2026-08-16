@@ -18,7 +18,7 @@ has also never spoken about the camp to anyone.
 
 His confession in the Hall of Two Truths will almost certainly be about the camp. He will
 want to contextualize it — the lord, the village, the injustice that came before. Let him,
-then have nobody answer him. What is weighed is what he did.
+then have nobody answer him. Anubis weighs the fire and not the reasons for it.
 
 The confession in its simplest form: *"I set a fire and I heard screaming and I didn't go
 back."*

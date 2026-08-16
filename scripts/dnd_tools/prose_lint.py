@@ -123,6 +123,18 @@ RULES: tuple[Rule, ...] = (
         "oblique 'there to be X' construction; state what is there (#11)",
     ),
     _rule(
+        "headless-relative",
+        r"\bwhat (is|was|gets|will be) "
+        r"(weighed|kept|remembered|judged|owed|counted|taken|given|asked|meant)\b",
+        "abstract 'what is X' clause; say who does it and to whom (#13)",
+    ),
+    _rule(
+        "negated-antithesis",
+        r"\b(do(es)?n'?t|do(es)? not) (\w+)\b[^.!?]*[.!?]\s+"
+        r"(They|It|He|She|That|Those)\s+\4(s|es)?\b",
+        "'X doesn't A. It A's B' antithesis; state the one true thing (#3)",
+    ),
+    _rule(
         "war-cliche",
         r"\bput to the sword\b|\bto the last man\b"
         r"|\bbled\s+(the\s+)?\w+\s+dry\b|\bbutchered\b",
