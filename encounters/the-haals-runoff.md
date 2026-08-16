@@ -63,19 +63,19 @@ dwarves never worked (see [the Company §3](../lore/the-company.md)).
   natives never worked** was not a lapse — it was a **taboo.** The mountain at Haals is the
   **[Firbolg dead](../lore/lineages-and-afterlives.md)** (the earth-kin become the land; the
   [La Cava handprints](temple-sites.md) are theirs), and cutting into it wakes what sleeps
-  there. The **[gnome kingdom fell the same way](../lore/the-fallen-gnome-kingdom.md)** in the
+  there. The **[gnome kingdoms fell the same way](../lore/the-fallen-gnome-kingdom.md)** in the
   distant past — it dug too deep and roused the terror, and the land turned on it. The
   **Company's mine repeats that fall:** the poison in Copaa's water is the terror
   **stirring again,** the earth-kin dead answering the desecration of their graves. Every
   people between then and now kept the taboo; the Company, ignorant and greedy, breaks it.
   Play the poison as the **first sign** — let the party read the gnomes' fall as the warning,
-  and grasp that if the mine keeps cutting, what took the kingdom comes back in full.
+  and grasp that if the mine keeps cutting, what took the gnomes comes back in full.
   Real-world anchor: **Potosí** (Cerro Rico, "the mountain that eats men"). `[settled — Will
   7/29]` **The terror is a buried giant** — the Haals mountain is a **dead giant** (the earth-kin
   become mountains, Ymir), and the mine cuts into its body. It does **not rise and rampage** — no
   Godzilla, no Balrog. It is a **sleeping giant** in the register of Lewis's *The Silver Chair*, and
   its waking shows only as **the land turning lethal:** water poisoned, crops failing, fields dead —
-  the [Copaa Lament](../handouts/copaa-lament.md) exactly. The **gnome kingdom fell to that slow
+  the [Copaa Lament](../handouts/copaa-lament.md) exactly. The **gnome kingdoms fell to that slow
   famine, not to a monster,** and [Sarric's](../characters/sarric.md) "the world feels pain when it
   is hurt" is that, felt as blight rather than seen as a beast. The Company's mine begins the same
   poisoning again — the "delved too deep" beat, but the depths hold the mountain's own grief, not an

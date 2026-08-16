@@ -116,10 +116,10 @@ them, older than the gnomes of Copaa. They are the **Firbolgs'**
 to the rock before they become a hill; there is no name to
 leave, so they leave a hand. The Firbolgs held this land before Kalikhat's
 refugee gnomes took it by holy war ([the fallen gnome
-kingdom](../lore/the-fallen-gnome-kingdom.md)) — so the tunnels run through
+kingdoms](../lore/the-fallen-gnome-kingdom.md)) — so the tunnels run through
 the graves of the people the gnomes displaced, and now the Company digs
 them again. Cutting here wakes the ancient terror that felled the gnome
-kingdom; the poison downstream at Copaa is the earth-kin dead stirring
+kingdoms; the poison downstream at Copaa is the earth-kin dead stirring
 (see [the runoff §2](the-haals-runoff.md)).
 
 Sleep the night in the mine and the ground hands over a stranger's
@@ -212,9 +212,9 @@ placed here are elsewhere now, or unplaced:
   Kurunatuka**, not under Copaa.
 - **Chinampas** are a [Company](../lore/the-company.md) technology grown on the
   lake south of Kalwa in Noku Kurunatuka. `[David 7/28]` The Company now also works a
-  few at Copaa's river mouth — but as its own imported industry, not the gnome kingdom's
+  few at Copaa's river mouth — but as its own imported industry, not the old gnomes'
   craft, so this does not make the region's mythology Mesoamerican (see
   [Copaa](../lore/copaa.md)).
 
 The region's mythology is open again (see [the fallen gnome
-kingdom](../lore/the-fallen-gnome-kingdom.md)).
+kingdoms](../lore/the-fallen-gnome-kingdom.md)).

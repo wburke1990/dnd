@@ -35,8 +35,8 @@ foul.
 The families who built the present town are mostly gone. The bad water drove them out, up
 into the tombs near Maalm, where they are the [lepers](../encounters/valley-of-the-kings.md) —
 the leprosy itself from the boxed chinampa tomatoes (below), not the water alone.
-They were settlers of the Mughal and Company ages, not the old gnomes — the gnome kingdom
-emptied out of here long before, its people gone into the hills to [Raand](nila-atlas.md),
+They were settlers of the Mughal and Company ages, not the old gnomes — the gnomes
+emptied out of here long before, their people gone into the hills to [Raand](nila-atlas.md),
 the sidhe. What fills the town now is the Company's trade: dwarf crews down off the mine,
 bargemen off the Haals run and the sea run, guards on the chinampas at the river mouth, a
 Company clerk and store, and the men who follow that money. A few of the old settler
@@ -71,7 +71,7 @@ leaves the beds is better than the water that reaches them. This is how the
 [Second Foundation](the-second-foundation.md) has worked the runoff down. The chinampas are
 Company technology, laid on water the Company holds ([the Company](the-company.md)); the same
 beds grow on the lake south of Kalwa in Noku Kurunatuka. The Company brought the chinampa
-method here; it is not the gnome kingdom's ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md)).
+method here; it is not the old gnomes' ([the fallen gnome kingdoms](the-fallen-gnome-kingdom.md)).
 
 The tomatoes off the chinampas are poison. The plants pull the contaminant out of the water
 and hold it in the fruit, so the crop carries what the water carried. What the contaminant is
@@ -133,7 +133,7 @@ few families that were here before the Company keeps it (`[OPEN]` — name for D
 - **[The Company](the-company.md)** — owns the mine, finances the trade, owns the
   magistrate, and built the chinampas. Copaa is the Company's ore moving through a town
   the Company's runoff poisoned.
-- **[The fallen gnome kingdom](the-fallen-gnome-kingdom.md)** — the region Copaa belongs
+- **[The fallen gnome kingdoms](the-fallen-gnome-kingdom.md)** — the region Copaa belongs
   to.
 - **[The Copaa lament](../handouts/copaa-lament.md)** — the handout, the river run foul.
 - **[Aar](nila-atlas.md)** — the port the ore ships out through.
@@ -156,6 +156,6 @@ few families that were here before the Company keeps it (`[OPEN]` — name for D
   itself, or runs it from Aar.
 - `[OPEN]` What the ore is and what the runoff is ([the Haals runoff](../encounters/the-haals-runoff.md)
   open threads) — the town-level detail depends on it.
-- `[OPEN]` The gnome kingdom's **name** ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md)).
+- `[OPEN]` The gnome country's **name** ([the fallen gnome kingdom](the-fallen-gnome-kingdom.md)).
   Its mythology is settled: Irish, the **Tuatha Dé Danann** — the region's deep past, before
   the Mughal and Company settlers. The proper name is still open.

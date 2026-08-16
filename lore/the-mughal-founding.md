@@ -33,7 +33,7 @@ decline, and took what was left.
 
 ## Sultan Mihran, called the Tiger
 
-The founder. He led the people over the mountains and took the gnome kingdom by
+The founder. He led the people over the mountains and took the gnome country by
 force. Then the mountain of [Haals](../encounters/the-mines-of-haals.md) gave him a
 prophecy of his own — the same buried giant whose vision the gnomes' founder Musa had
 carried out generations before. It told him his queen waited in the far north, in

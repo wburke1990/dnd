@@ -1,7 +1,7 @@
 # The Copaa Bestiary — the Firbolg country `[draft / new]`
 
 > **DM reference.** The wandering bestiary for the **[Copaa](../lore/copaa.md)**
-> country — Suartleheim Eet, the [fallen gnome kingdom](../lore/the-fallen-gnome-kingdom.md).
+> country — Suartleheim Eet, the [fallen gnome kingdoms](../lore/the-fallen-gnome-kingdom.md).
 > The region's three peoples read straight off the Irish *Book of Invasions*:
 > the **Firbolg** ([Sarric's earth-kin](../characters/sarric.md)) came first; the
 > **gnomes** are the little people who took
@@ -31,7 +31,7 @@ answered straight out of their own telling. Place a beast as a set-piece when
 you'd rather choose than roll.
 
 *Tags:* Copaa; Suartleheim Eet; wandering encounter region; Irish myth; ties to
-[the fallen gnome kingdom](../lore/the-fallen-gnome-kingdom.md),
+[the fallen gnome kingdoms](../lore/the-fallen-gnome-kingdom.md),
 [the Haals runoff](../encounters/the-haals-runoff.md)
 
 ## d20 Encounter Table
@@ -303,8 +303,8 @@ his own grave each night to drink the blood of those he ruled, and a blade does
 not keep him down; killed, he is back the next dusk. **The answer is in the
 telling:** he cannot be slain, only bound. Kill him with a sword of **yew**, bury
 him **head downward**, lay thorns over him and a heavy stone on top, and he holds.
-A party that only cuts him down is visited again the next night. He is the
-gnome-kingdom's crime returned as a revenant — a lord who fed on his own.
+A party that only cuts him down is visited again the next night. He is
+the gnomes' crime returned as a revenant — a lord who fed on his own.
 
 *Tags:* Copaa; d20:17; the undying tyrant; yew, head-down, thorn and stone; the little people's dead
 
@@ -369,7 +369,7 @@ a high-level set-piece: the eye is met shut, and the encounter turns on never
 letting it open. His death in the telling is a stone through the eye from behind —
 his own grandson's sling.
 
-**The blight from the graves — how the kingdom fell.** The Firbolg dead lie in
+**The blight from the graves — how the gnome kingdoms fell.** The Firbolg dead lie in
 graves under Haals, and disturbing them fouls the ground. At its height the gnome
 kingdom broke the Haals taboo and dug too deep, breaking into those graves; from
 then it withered over generations, the harvests failing further each year, until it
@@ -444,7 +444,7 @@ set for them.
 **The Children of Lir — the four swans on the lake.** Four white swans on the
 poisoned lake, and when they sing every creature that hears them holds still.
 They speak with human voices, because they are human: the four children of
-**Lir**, a lord of the [gnome kingdom that fell](../lore/the-fallen-gnome-kingdom.md)
+**Lir**, a lord of the [gnome kingdoms that fell](../lore/the-fallen-gnome-kingdom.md)
 — Fionnuala the eldest, Aodh, and the twins Fiachra and Conn. Their father's
 second wife, **Aoife** — jealous, in the telling, of his love for them — took
 them to the water and struck them into swan-shape with a druid's rod, and set a
@@ -452,7 +452,7 @@ term on it: three hundred years on each of three waters, their minds and speech
 and singing kept the whole time, and no release until a bell of a new faith rings
 over the lake. For her own crime her father turned her into a spirit of the air,
 and she rides the wind over the water still. **The three waters are the region's
-three ages:** the swans have swum this one lake through the gnome kingdom, the
+three ages:** the swans have swum this one lake through the gnome kingdoms, the
 [Mughal](../lore/the-fallen-gnome-kingdom.md) age, and the
 [Company](../lore/the-company.md) age, and they remember all of it — four who saw
 the fall, the middle empire, and the colony come one after another, and can tell
@@ -544,7 +544,7 @@ the same history from two mouths.
 
 ## See also
 
-- [The fallen gnome kingdom](../lore/the-fallen-gnome-kingdom.md) — the three
+- [The fallen gnome kingdoms](../lore/the-fallen-gnome-kingdom.md) — the three
   peoples (Firbolg / gnome / Mughal), the buried giant, the *Book of Invasions*
   frame this table reads off.
 - [Copaa](../lore/copaa.md) — the ore town these beasts wander; the lake, the

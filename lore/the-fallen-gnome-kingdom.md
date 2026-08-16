@@ -1,21 +1,23 @@
-# The Fallen Gnome Kingdom — Suartleheim Eet `[stub / new]`
+# The Fallen Gnome Kingdoms — Suartleheim Eet `[stub / new]`
 
 > **DM reference — new area.** The mythology for **[Suartleheim Eet](nila-atlas.md)**,
 > Maalm's southeastern corner (Haagen, Raand, Aar, Enaa, Copaa, Haals). **Not** Egyptian —
-> that is Maalm proper, next door; this corner is its **own** thing: a **gnome kingdom that
-> fell.** Legend: `[settling]` · `[loose]` · `[OPEN]`.
+> that is Maalm proper, next door; this corner is its **own** thing: **gnome kingdoms that
+> fell** — the túatha, the Little People in scattered city-kingdoms. Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
 - **The founding — a prophet's conquest.** `[Will 7/29]` The gnomes came as **refugees from
   [Kalikhat](lonka-jotunheim.md)**, its surface poisoned by the Bleeding Star, led by sea by the
   **wandering dragonborn seer [Musa](../encounters/the-mines-of-haals.md)** — a prophet who "dipt
   into the future" and saw the land they would take. Suartleheim Eet was **not empty.** The **Firbolgs** held it; the gnomes took it by **holy
   war**, the land promised them by their god and its people killed — the region's founding faith, and
-  the killing it sanctified. His **watch-stone** stands over the harbour at whichever port
-  the party lands (**Aar or Aal** — the port writeup is [Aar](copaa.md)'s; if they land at Aal,
-  swap it wholesale into Aar's role, only ever the one), his own [Vision of the Future](../handouts/locksley-hall-vision.md)
-  cut into it (Tennyson), and beside it the gnomes'
+  the killing it sanctified. His **watch-stone** — a *massebah* — stands over the harbour where the
+  gnomes first came ashore: the coast that is now **[Aar](nila-atlas.md) and [Aal](nila-atlas.md)**,
+  two small túatha of their own. It carries his [Vision of the Future](../handouts/locksley-hall-vision.md)
+  (Tennyson), and beside it the gnomes'
   [lament for lost Kalikhat](../handouts/into-my-heart-an-air-that-kills.md) (Housman) — a people
-  grieving the home they fled, on the ground they took.
+  grieving the home they fled, on the ground they took. `[run]` For the party it stands over
+  whichever port they land at (the port writeup is [Aar](copaa.md)'s; if they land at Aal, swap it
+  wholesale into Aar's role, only ever the one).
 - **The Firbolgs were here first.** The [handprints in La Cava](../encounters/temple-sites.md) at
   Haals are **theirs**, older than the gnomes — [Sarric's people](../characters/sarric.md), the
   earth-kin, the older race the gnomes replaced. Survivors were killed, absorbed, or driven
@@ -121,7 +123,7 @@ placed in Copaa are elsewhere now:
 - **Chinampas** are a [Company](the-company.md) technology, grown on the lake
   south of Kalwa in Noku Kurunatuka. `[David 7/28]` The Company now also works a few at
   the mouth of the river on Copaa's lake — but as its own imported industry, not the
-  gnome kingdom's craft, so this does not make the region's mythology Mesoamerican (see
+  old gnomes' craft, so this does not make the region's mythology Mesoamerican (see
   [Copaa](copaa.md)).
 - **[The houses of Xibalba](../encounters/the-houses-of-xibalba.md)** are sited
   on Noku Kurunatuka, not under Copaa.
@@ -131,12 +133,12 @@ dig — **the Firbolgs'**, older than the gnomes (above), left by the earth-kin 
 land. The gnomes who hold this ground now dug through the graves of the
 people they took it from.
 
-## The ancient kingdom's neighbours `[Will 7/29]`
+## The ancient túatha's neighbours `[Will 7/29]`
 
-The gnome kingdom was **alone** for its first ~900 years — the Dark Age, no trading partners,
-agriculture only slowly recovering on tired ground. That solitary stretch is also the kingdom's
+The gnome túatha were **alone** for their first ~900 years — the Dark Age, no trading partners,
+agriculture only slowly recovering on tired ground. That solitary stretch is also the túatha's
 whole prosperity: the ten generations Musa was shown, ending in the digging at ~4,000 ya (above).
-The neighbours below meet a kingdom already going down.
+The neighbours below meet a people already going down.
 
 - **The wandering dragonborn — the one outside tie.** Their **founder's own people** ([the
   prophet](../handouts/locksley-hall-vision.md) was one), and through the Dark Age the **only sailors
@@ -151,12 +153,12 @@ The neighbours below meet a kingdom already going down.
 - **The dwarves of [Weet](../handouts/the-ruin.md) — kin in the giants' land.** The other half of
   Suartleheim, two small stone-folk living among the withdrawn giants' works; real trade came
   **late,** once commerce revived — dwarf metal and stone for gnome craft.
-- **The Firbolgs, south.** Beyond the mountains lay the people the kingdom had dispossessed
-  ([driven south](the-southern-land.md)) — the people the kingdom wronged, living just over the range.
+- **The Firbolgs, south.** Beyond the mountains lay the people the gnomes had dispossessed
+  ([driven south](the-southern-land.md)) — the people the gnomes wronged, living just over the range.
 
 ## Open threads
 
-- `[OPEN]` The kingdom's **name, god, and cosmology** — the new area's mythology.
+- `[OPEN]` The gnome country's **name, god, and cosmology** — the new area's mythology.
   **Mesoamerican is ruled out** (settled 7/26). `[Will 7/29]` The founding **faith** is set: a
   **promised-land conquest** in the Exodus/Joshua register — a god who gave the refugee gnomes
   this land and sanctified taking it from the Firbolgs. Still open: the god's name and the
@@ -171,17 +173,17 @@ The neighbours below meet a kingdom already going down.
   different now — while these fled by sea with the prophet-founder to take Suartleheim Eet from the
   Firbolgs (above). This also settles reconciling Suartleheim / Svartalfheim with Kalikhat as the
   Underdark origin ([campaign overview](campaign-overview.md)).
-- `[settled 7/29; blight refined with Will; dated 8/15]` **What felled the kingdom — the blight from
+- `[settled 7/29; blight refined with Will; dated 8/15]` **What felled the túatha — the blight from
   the graves, and when.** The gnomes prospered ten generations (~5,000 → ~4,000 ya, a gnome
   generation ≈ 100 years), then **broke the Haals taboo and dug too deep, breaking into the
   [Firbolg graves](../encounters/the-mines-of-haals.md).** The disturbed dead poisoned the ground — a
   slow famine over generations, no battle and no rampage (the [Copaa Lament](../handouts/copaa-lament.md)).
-  The kingdom falls **early**, at ~4,000 ya, and spends the next three thousand years going down.
+  The túatha fall **early**, at ~4,000 ya, and spend the next three thousand years going down.
   **[Balor](../encounters/the-mines-of-haals.md)**, a Fomorian kin to the Firbolg asleep under the
   same mountain, is the mountain's **time magic** — a separate thing from the graves' poison. Then
   ~1,000 ya the **Mughals**, driven north by the wars of the [Bad Pass's mini ice
-  age](world-history-timeline.md), took the emptied kingdom (Milesians over the Tuatha Dé), and held
-  it until the **Company** took them (~200 ya); the Company's mine repeats that first fall.
+  age](world-history-timeline.md), took the emptied túatha one at a time (Milesians over the Tuatha Dé), and held
+  the country until the **Company** took them (~200 ya); the Company's mine repeats that first fall.
 
 *Companions: [nila atlas](nila-atlas.md) (the SE gazetteer), [the Haals runoff](../encounters/the-haals-runoff.md),
 [the Company](the-company.md), [the Copaa lament](../handouts/copaa-lament.md).*

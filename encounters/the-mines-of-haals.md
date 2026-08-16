@@ -49,7 +49,7 @@ Firbolg among strangers.
 and carried the gnomes here to take this land — Musa dipt into the **giant.**
 The vision cut into his
 [watch-stone over the port where the party land — Aar or Aal](../handouts/locksley-hall-vision.md)
-is the giant's. The prophecy that built the gnome kingdom and sanctified taking
+is the giant's. The prophecy that built the gnome kingdoms and sanctified taking
 the land from the Firbolg came out of the same mountain the gnomes later broke
 open, and the breaking destroyed them. The founding prophecy and the fall came from
 the same giant, asleep at the bottom of the mine.
@@ -115,15 +115,15 @@ scene.
    Haals taboo in life and revered the mountain that prophesied their founder's queen;
    they keep the taboo here as silence. Play them courteous and afraid: they bow, they
    will not answer, and they stand between the party and the door.
-3. **The gnome kingdom, and its fall (~4,000 ya).** Gnome miners driving a gallery
+3. **The gnome kingdoms, and their fall (~4,000 ya).** Gnome miners driving a gallery
    downward ten generations after the landing; the picks break into the Firbolg
    graves, and the first harvest fails. The famine runs for generations after this,
-   and the kingdom spends three thousand years going down
+   and the gnomes spend three thousand years going down
    ([dates](../lore/the-fallen-gnome-kingdom.md)).
 4. **The long war (~5,000 → ~4,000 ya).** The gnomes' war on the Firbolg — generations
    of it, not a single conquest, Musa's descendants prosecuting it through the dark
    ages. The scene the party is attacked in (below). Levels 3 and 4 are close together
-   in time: the kingdom digs into the graves at the end of the same thousand years it
+   in time: the gnomes dig into the graves at the end of the same thousand years it
    spent taking the land.
 5. **The Firbolg age — La Cava.** The first people, [Sarric's kin](../characters/sarric.md),
    the earth-kin alive. This deep level **is [La Cava](temple-sites.md)** — the
@@ -272,7 +272,7 @@ to be asked to.
 | Asked what he saw, or who he is | *"I was shown the land and the whole length of it. My descendants will see the end of what I begin."* Moses on Pisgah — shown all of it, and it is his descendants who go over. |
 | Asked what a vision is, how he knows, or why he will not explain one | [His lines on having been shown it](#the-same-two-passages-in-our-world--as-lines) — lifted up for one moment and set down again, and *"I was shown it. The reasons stayed down there."* |
 | Pressed on the Firbolg rather than on Blackacre | [His lines on what the mountain keeps](#the-same-two-passages-in-our-world--as-lines) — the same facts Balor states flat, with a verdict on them. |
-| The party tells him the kingdom falls | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
+| The party tells him the gnomes fall | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
 
 **When he parts.** He collects — and what he is asking them for is a prophecy about his
 own future, which they happen to be standing five thousand years downstream of.
@@ -298,7 +298,7 @@ kingdom.)
 
 `[settled 8/15 — the ten generations].` A gnome generation runs about a century, so
 Musa's ten generations are **a thousand years, ~5,000 → ~4,000 ya** — and the
-[gnome kingdom's fall now sits there](../lore/the-fallen-gnome-kingdom.md), not late.
+[gnome kingdoms' fall now sits there](../lore/the-fallen-gnome-kingdom.md), not late.
 The gnomes prosper exactly as long as he was shown, alone through the Dark Age, and
 then dig into the Firbolg graves at ~4,000 ya and spend three thousand years going
 down before the Mughals arrive. Musa has the ten generations right. He does not know
@@ -325,8 +325,8 @@ once. It keeps the eye shut. It is asleep, and it is awake, and both are now.
 speaks to him first.
 
 **The blight is not his — it is the graves.** The runoff and the old famine come
-from the disturbed Firbolg graves, not from Balor: the gnome kingdom broke into them
-and the kingdom withered, and the [Company's mine](the-haals-runoff.md) is breaking
+from the disturbed Firbolg graves, not from Balor: the gnomes broke into them
+and the gnomes withered, and the [Company's mine](the-haals-runoff.md) is breaking
 into them again (see [the bestiary, *The blight from the graves*](../bestiary/copa-irish-beasts.md)).
 Balor's one thing is **time.** The graves hold the poison and Balor holds the time; the two are in the same mountain.
 
