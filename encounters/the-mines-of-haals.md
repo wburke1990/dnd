@@ -81,6 +81,13 @@ the same giant, asleep at the bottom of the mine.
 Run it as a walk down, each level a scene the party passes through. Place as many
 as the session wants; the order is fixed by depth.
 
+**The custom of the tunnels.** `[Will 8/16]` Everyone down here is locked in a different
+age, so the one thing any of them has that is worth anything to a stranger is **word of
+what is coming.** People who meet in these tunnels trade prophecy: you tell what you
+know of the future, and you expect as much back. It is why anyone the party meets talks
+to them instead of walking on, and it is the etiquette
+[Musa](#musas-lines) is invoking when he stops them on his way out.
+
 1. **The Company face (now).** Dwarf crews, the ore going up, the runoff coming
    down — the mine as it is ([the Haals runoff](the-haals-runoff.md)).
 2. **The Mughal workings.** The middle empire's galleries, well-cut and gone to
@@ -155,6 +162,21 @@ to the fall, the Mughals, and the Company. Let the party tell him, or hold it ba
 
 ### Musa's lines
 
+**Down here, prophecy is what people trade.** `[Will 8/16]` Everyone in the tunnels is
+locked in a different age, and what they have that is worth anything to each other is
+**word of the future.** So that is the custom: you meet a stranger out of another time,
+you tell them what you know of what is coming, and you expect the same back. It is what
+makes Musa talk to a band of strangers at all, and it is what he means by *"for such is
+the way of this place."*
+
+It also governs the shape of his scene. **The two *perhaps* prophecies he gives
+Blackacre are him putting something on the table** — and note they are not even his own,
+since he took them off Balor an hour ago and is passing them along. **His parting
+question is him collecting.** He has paid in; he wants paying back. What he asks for is
+not prophecy but news — whether the little ones he left are still alive — because the
+one thing the vision never covered is the people behind him. Run the last exchange as a
+debt being called, not as an old man worrying aloud.
+
 **To [Blackacre](../characters/blackacre.md), his own kinsman.** Musa is a wandering
 dragonborn thousands of years before [the Wandering](../lore/wandering-dragonborn.md)
 took its present shape — no watch-stones, none of the sea-saints' vocabulary. What he
@@ -169,7 +191,7 @@ person present whose soul is kept after death.
 | Blackacre takes Sarric's side | *"Keep your grief for yourself. Ask him — he will tell you the same."* Sarric can confirm it: his people know what they are and raise children expecting it ([lineages](../lore/lineages-and-afterlives.md)). The mechanism is as Musa describes; that doc sets the two afterlives side by side and picks neither. |
 | Blackacre asks why the difference should matter to him | *"Cattle die. Kinsmen die. You will die. What does not die is the account of a man. Your friend will not have one. You will."* |
 | At any lull — he does not need to be asked | *"You have great power in you, but you fear to use it. Power never used is power no longer."* [Blackacre bailed when his own plan turned violent](../characters/blackacre.md); Musa is a man on his way to do it. Run it as a challenge for Sam to answer, not a fact about the character. |
-| Blackacre pushes back on that — he offers prophecy instead of argument | *"Perhaps you shall slay the beast that rises in the western desert to eat the hearts of the damned."* — [Ammit, under Maalm](../lore/maalm-the-elven-stronghold.md), west of Haals. |
+| Blackacre pushes back on that — he answers with prophecy, and opens the trade | *"Perhaps you shall slay the beast that rises in the western desert to eat the hearts of the damned."* — [Ammit, under Maalm](../lore/maalm-the-elven-stronghold.md), west of Haals. |
 | …and again | *"Perhaps you shall meet the pale horse at her coming with sword in hand."* — [the Pale Horse](../handouts/revelation-6-pale-horse.md), cut into his own massebah, and the campaign's endgame. |
 
 **To the rest of the party.** He has been at sea alone for years and will look at each
@@ -196,7 +218,8 @@ to be asked to.
 | Pressed on the Firbolg rather than on Blackacre | [His lines on what the mountain keeps](#the-same-two-passages-in-our-world--as-lines) — the same facts Balor states flat, with a verdict on them. |
 | The party tells him the kingdom falls | *"When?"* … then, having counted: *"Then I have that long. Stand aside."* |
 
-**When he parts.** He asks the one thing the vision did not cover.
+**When he parts.** He collects. He gave two prophecies; now he asks for his, and the
+one thing his vision never covered is the people he left behind.
 
 | When | He says |
 |---|---|
@@ -345,6 +368,12 @@ answers, and the answer is true, because he is looking at the thing he foretells
 answer is a fate spoken that holds, the same shape as a
 [geis](../lore/house-rules-and-world-mechanics.md): once they have it, they cannot set
 it down. They can ask, or refuse and take nothing.
+
+He is the one exception to [the custom above](#the-descent--the-ages-deepest-is-oldest).
+Everyone else in the tunnels trades prophecy because they each hold a piece of it; Balor
+holds all of it and wants nothing back. Musa's two *perhaps* lines came off him an hour
+earlier and are being passed along secondhand — the party is getting theirs from the
+source.
 
 | When | He says |
 |---|---|
