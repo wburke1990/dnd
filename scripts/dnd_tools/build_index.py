@@ -28,8 +28,16 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 BEGIN = "<!-- BEGIN GENERATED INDEX -->"
 END = "<!-- END GENERATED INDEX -->"
 
-# What a file is to the table, in the order the tables list them.
-STATUSES = ("next", "ready", "draft", "idea", "played", "reference")
+# What a file is to the table, in the order the tables list them: what is
+# live first, what is unfinished next, what is behind us last.
+#
+# Two of these mean "done" and are not interchangeable. ``played`` is a table
+# fact — this scene was run. ``completed`` is a writing fact — this file is
+# finished and no more work is planned on it, as against ``reference``, which
+# is durable material that may still grow. A region whose lore is ``reference``
+# rather than ``completed`` is one that still needs writing before you get
+# there.
+STATUSES = ("next", "ready", "draft", "idea", "played", "completed", "reference")
 
 # Directory name -> heading used for that group of files.
 KINDS = {

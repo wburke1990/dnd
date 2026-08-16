@@ -1,6 +1,6 @@
 ---
 summary: The Eighth Hour of the Duat, the tomb-cliff necropolis along the river of stars
-status: reference
+status: completed
 ---
 
 # The Eighth Hour — He Who Wakes the Dead

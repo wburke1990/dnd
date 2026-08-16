@@ -16,7 +16,7 @@ Pulled together from the 5/27–6/10/26 backstory chat and **Will's 6/26 ruling.
 > Legend: **[settled]** = grounded in chat · **[loose]** = floated, not
 > locked · **[draft]** = invented here for the DM to keep or cut.
 >
-> ⚠️ **Player owns this lore.** The DMs explicitly handed **Ahms** narrative
+> ⚠️ **Player owns this lore.** The DMs explicitly handed **Sam** narrative
 > control of the sea-fleet's culture — *"whatever tall tales you tell the party
 > about the sea fleets will instantly become canon."* Treat everything here as
 > **his** to overrule. **[settled — per 5/28]**
@@ -25,7 +25,7 @@ Pulled together from the 5/27–6/10/26 backstory chat and **Will's 6/26 ruling.
 > separate; the Fleets are an open-water civilization, **not** an archipelago
 > power; a wandering dragonborn joining a Fleet (Blackacre) is an anomaly.* This
 > supersedes the older *merged* "wandering-dragonborn-are-the-fleet" version.
-> Still **pre-handoff** to the sea-lore owner (Ahms/Sam).
+> Still **pre-handoff** to the sea-lore owner (Sam).
 
 ## What they are
 
@@ -100,7 +100,7 @@ Music is **central** to the culture, and it's also **practical**:
 - **Big amplified war-drums** on the boats.
 - **Whale-bladder stretched over entire hulls** so the **ship itself becomes a
   drum.** A fleet maneuvering is a wall of polyrhythmic thunder. **[settled —
-  Ahms's invention; great set-piece audio]**
+  Sam's invention; great set-piece audio]**
 
 ## Where the Fleets fit among Nila's sea-powers `[DM ruling — Will, 6/26]`
 

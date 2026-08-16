@@ -1,6 +1,6 @@
 ---
 summary: The pre-cataclysm world map painted on the Tomb 1 inner chamber wall
-status: reference
+status: completed
 ---
 
 # Tomb 1 Inner Chamber Reveal — Ancient Map

@@ -1,6 +1,6 @@
 ---
 summary: Portable summary of everything settled about Maalm, for picking the city up cold
-status: reference
+status: completed
 ---
 
 # Maalm — Context Export / Session Handoff

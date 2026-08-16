@@ -1,6 +1,6 @@
 ---
 summary: Why the river that carved the Valley of the Kings ran dry and stayed dry
-status: reference
+status: completed
 ---
 
 # The Drying of the Valley — Why the River Never Came Back

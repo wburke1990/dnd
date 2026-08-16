@@ -1,6 +1,6 @@
 ---
 summary: Stat block, parley rules and mythology for the Akhekh, entry 20 on the Egypt table
-status: reference
+status: completed
 ---
 
 # The Akhekh

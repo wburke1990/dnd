@@ -5,7 +5,7 @@ status: reference
 
 # Blackacre — DM notes
 
-Companion to [`blackacre.md`](blackacre.md) (Ahms's sheet). Our design notes live here
+Companion to [`blackacre.md`](blackacre.md) (Sam's sheet). Our design notes live here
 so the sheet stays the player's. Moved out of the sheet 8/16.
 
 ---

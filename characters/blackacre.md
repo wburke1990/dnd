@@ -5,7 +5,7 @@ status: reference
 
 # Blackacre — character reference
 
-Player: **Ahms**. Distilled from the 5/27–6/19/26 backstory chat. This is a
+Player: **Sam**. Distilled from the 5/27–6/19/26 backstory chat. This is a
 working reference for running the character and building encounters that
 highlight him — see **Encounter hooks** at the bottom. World-level
 worldbuilding lives in **[lore/floating-fleet.md](../world/the-sea/lore/floating-fleet.md)**,
@@ -140,19 +140,19 @@ above), which is where his druid-shipwright gift was prized:
 - **Language flavor:** borrow from **Arabic** when **two dragonborn interact** —
   partly to mess with the party. **[settled]**
 - A **call-and-response greeting/blessing** in the style of *"Assalamu alaikum /
-  Wa alaikum assalam"*. **Ahms has free rein to invent the actual blessing.**
+  Wa alaikum assalam"*. **Sam has free rein to invent the actual blessing.**
   **[settled — wording TBD by player]**
 - **Comedic register dissonance:** Blackacre is **silly, informal, pirate-accented
   nearly all the time**, but goes **formal and stiff around other dragonborn.**
   Great source of in-play moments. **[settled]**
-- **Accent:** a **Hollywood pirate accent**, not a Levantine rasp — Ahms is
+- **Accent:** a **Hollywood pirate accent**, not a Levantine rasp — Sam is
   playing the swashbuckler, not the dialect. Ties into the **Mukka gag**: he's
   avoiding the place, so if the party drags him there he's **constantly rolling
   stealth checks** and acting cagey. **[settled]**
 - **Tattoos** — two motifs, both sailor's-luck logic: **[settled]**
   - A **shipwreck-survivor icon.** (1950s navy sailors tattooed pigs and
     chickens because those crates floated free in a wreck.) Blackacre's is the
-    Nila equivalent — a **creature that floats / survives the wreck** (Ahms
+    Nila equivalent — a **creature that floats / survives the wreck** (Sam
     floated a **flumph**, half-joking; pick a D&D beast that bobs). **[loose —
     exact creature TBD]**
   - **Sailcloth** patterning **running the length of his arms and legs.**
@@ -177,11 +177,11 @@ above), which is where his druid-shipwright gift was prized:
   he keeps literally arriving at their graves — and realizes the saints'
   penance-through-deeds is his own atonement in legend. **[settled — per
   6/19 chat]**
-- **Cannibalism:** **Ahms is pro** — he pitched **humanoid-eating dragonborn**
+- **Cannibalism:** **Sam is pro** — he pitched **humanoid-eating dragonborn**
   as added depth for piracy and it "doesn't bother him at all." The DMs were
   initially squeamish (*"there are monsters; we are not monsters"*) but landed
   on **"cannibalism may be added"** (filed, per the table's running joke, below
-  Andrew-romancing on the red-flag list). **[loose — Ahms wants it; DM
+  Andrew-romancing on the red-flag list). **[loose — Sam wants it; DM
   tentatively open; decide whether it's nomads, zealots, or both]**
 
 ## Key NPCs
@@ -218,13 +218,13 @@ above), which is where his druid-shipwright gift was prized:
 
 ## Open threads to resolve with the player
 
-- Invent the **dragonborn blessing/greeting** wording (Ahms's call).
+- Invent the **dragonborn blessing/greeting** wording (Sam's call).
 - ~~Decide how "Sea-Fever" is woven in~~ → **resolved:** it's the creed of
   the Wandering ([lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)).
   Remaining: **lock the four saints' names** (Idris / Anzar / Wazzan / Tariq)
   and **pick inscriptions** for Anzar, Wazzan, Tariq (Requiem → Idris is set).
 - Lock or drop **cannibalism** as a cultural trait, and decide whether it's the
-  zealots, the nomads, or both (Ahms wants it; DM tentatively open).
+  zealots, the nomads, or both (Sam wants it; DM tentatively open).
 - Pick the **shipwreck-survivor tattoo creature** (flumph was the joke pitch).
 - Place the reserved name **"Salahadin."**
 - A specific **good/bad deed from his past** the DM can pull an NPC from (asked,

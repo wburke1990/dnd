@@ -1,6 +1,6 @@
 ---
 summary: Maalm's three-tier society, the gated founders' quarter, and the elven council
-status: reference
+status: completed
 ---
 
 # Maalm — the elven stronghold

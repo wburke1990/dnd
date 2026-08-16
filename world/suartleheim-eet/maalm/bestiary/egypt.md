@@ -1,6 +1,6 @@
 ---
 summary: d20 wandering encounter table for the Egypt region, beasts and mythological creatures
-status: reference
+status: completed
 ---
 
 # Egypt — Wandering Encounter Bestiary

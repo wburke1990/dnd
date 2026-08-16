@@ -131,7 +131,7 @@ So each side is wrong about the same thing from opposite ends:
   [Floating Fleet](../../../characters/blackacre.md)'s chiefdom of many heads).
   Any wanderer can keep any watch.
 - **The songs disagree on purpose.** These are **demigod tall-tales** —
-  Heracles, Maui, Coyote, Cú Chulainn (the exact comparisons Ahms
+  Heracles, Maui, Coyote, Cú Chulainn (the exact comparisons Sam
   reached for). Every island tells its own version, contradictory and
   growing; arguing the "true" telling over drinks *is* the devotion.
   **[settled — per chat]**
@@ -190,7 +190,7 @@ sense, a retelling of him. **[settled — existing canon]**
 
 ## The Roster of the Wandering
 
-Four named saints, one per archetype Ahms named. The **Berber/Arabic flavour is
+Four named saints, one per archetype Sam named. The **Berber/Arabic flavour is
 deliberate** — see *The two naming registers* above; it marks them as the branch that
 kept roaming, against the zealots' unchanged Phoenician. Each gets feats the songs sing, the
 island where the watch-stone stands, and a grave inscription (the firm
@@ -277,7 +277,7 @@ ones reuse poems already in the repo; the rest are flagged).
 
 ## Blackacre and the Wandering
 
-The character arc Ahms named on 6/19: **judgy and unimpressed at first,
+The character arc Sam named on 6/19: **judgy and unimpressed at first,
 growing to associate with them.** How to run it:
 
 - **At first he scoffs.** He's a practical pirate; the watch-stone cult

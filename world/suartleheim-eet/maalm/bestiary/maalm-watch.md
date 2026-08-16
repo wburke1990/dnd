@@ -1,6 +1,6 @@
 ---
 summary: Stat block for the bought Maalm city watch, the mooks in the square and docks fights
-status: reference
+status: completed
 ---
 
 # The Maalm Watch — Corrupt City Guards

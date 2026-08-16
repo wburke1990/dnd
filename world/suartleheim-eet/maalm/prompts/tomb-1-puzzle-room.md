@@ -1,6 +1,6 @@
 ---
 summary: Wall painting in the Tomb 1 puzzle room — Khepri, the Opening of the Mouth, canopic jars
-status: reference
+status: completed
 ---
 
 # Tomb 1 Puzzle Room — Wall Painting

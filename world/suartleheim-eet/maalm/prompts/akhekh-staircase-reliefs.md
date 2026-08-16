@@ -1,6 +1,6 @@
 ---
 summary: Canyon-wall reliefs on the carved staircase up to the Akhekh's lair
-status: reference
+status: completed
 ---
 
 # The Akhekh Staircase — Canyon-Wall Reliefs

@@ -553,16 +553,31 @@ and `references/` opens with:
 ```
 ---
 summary: One plain sentence, under 100 characters, no trailing period
-status: next | ready | draft | idea | played | reference
+status: next | ready | draft | idea | played | completed | reference
 ---
 ```
 
 Region and kind are **not** stored — they are read off the path, so they cannot
 drift from where the file actually sits. `status` is what the file is to the
-table: `played` (run at the table), `next` (the arc being prepped now), `ready`
-(written and runnable), `draft`/`idea` (unfinished — a file marked `[stub]` or
-`[draft]` in its own text gets `idea`, whatever else it looks like), and
-`reference` (lore, bestiary, handouts — looked up, not run).
+table:
+
+- `next` — the arc being prepped now.
+- `ready` — written and runnable, but not the immediate next thing.
+- `draft` / `idea` — unfinished. A file marked `[stub]`, `[draft]` or
+  `[placeholder]` in its own text gets one of these whatever else it looks
+  like: a file that says it is unfinished should not read as something to lean
+  on mid-session.
+- `played` — this scene was run at the table.
+- `completed` — the writing is finished and no more work is planned.
+- `reference` — looked up rather than run, and may still grow.
+
+**`played` and `completed` are different facts, and both mean "done".** One is
+about the table, the other about the writing. **`completed` and `reference` are
+the distinction worth keeping honest**, because it is the one that tells you
+where the work is: a region whose lore is `reference` still needs writing
+before the party gets there, and a region whose lore is `completed` does not.
+Maalm's lore, bestiary and prompts are `completed`; everywhere else is
+`reference`.
 
 **When you add a content file, add the frontmatter.** The pre-commit hook fails
 the commit without it, because a file missing from the index is a file the next

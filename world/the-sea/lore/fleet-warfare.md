@@ -14,7 +14,7 @@ late-campaign set-pieces and to seed hints back into the two orc sagas
 > Legend: **[settled]** = agreed in chat · **[loose]** = floated, not locked ·
 > **[draft]** = invented here for the DM to keep or cut.
 >
-> ⚠️ The **halfling Floating Fleet's** culture is lore **Ahms/Sam owns** (see
+> ⚠️ The **halfling Floating Fleet's** culture is lore **Sam owns** (see
 > [floating-fleet](floating-fleet.md)). Its mage wind and battle-doctrine here
 > are **[draft]** on his side of the line — his to bless or rewrite. The
 > **Dragonborn fleet** is DM territory.
@@ -390,7 +390,7 @@ half-heard, a drunk's boast, a sailor's tall tale — never a lecture. Verbatim 
 
 ## See also
 
-- [floating-fleet](floating-fleet.md) — the halfling Fleets (Ahms's lore).
+- [floating-fleet](floating-fleet.md) — the halfling Fleets (Sam's lore).
 - [wandering-dragonborn](wandering-dragonborn.md) — the saints; Anzar's stolen
   winds.
 - [lonka-jotunheim](../../lonka/lore/lonka-jotunheim.md) — the Dragonborn fleet and the Moku

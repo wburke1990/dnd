@@ -1,6 +1,6 @@
 ---
 summary: The Tale of the Shipwrecked Sailor and the Tomb 2 inner chamber wall image
-status: reference
+status: completed
 ---
 
 # Tomb 2 Inner Chamber Reveal — Tale of the Shipwrecked Sailor

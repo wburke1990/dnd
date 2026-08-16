@@ -1,6 +1,6 @@
 ---
 summary: Establishing shot of the al Qahtani merchant house and its gardens
-status: reference
+status: completed
 ---
 
 # The al Qahtani Mansion — Exterior

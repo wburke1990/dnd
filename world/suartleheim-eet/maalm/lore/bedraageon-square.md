@@ -1,6 +1,6 @@
 ---
 summary: Maalm's main plaza, its public buildings, and Bedraageon's grave-plaque by the fountain
-status: reference
+status: completed
 ---
 
 # Bedraageon Square — Maalm's Civic Heart

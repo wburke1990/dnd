@@ -1,6 +1,6 @@
 ---
 summary: Wall painting in the Tomb 3 puzzle room — the gates, the Lake of Fire, and Thoth
-status: reference
+status: completed
 ---
 
 # Tomb 3 Puzzle Room — Wall Painting

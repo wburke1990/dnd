@@ -1,6 +1,6 @@
 ---
 summary: The last king's lament and the little coffins in Tomb 4's unfinished inner chamber
-status: reference
+status: completed
 ---
 
 # Tomb 4 Inner Chamber Reveal — The Lament

@@ -1,6 +1,6 @@
 ---
 summary: Ratatat the rat caller — his stat block, his rats, and who pays him
-status: reference
+status: completed
 ---
 
 # The Rat Man — Ratatat, the Rat Caller

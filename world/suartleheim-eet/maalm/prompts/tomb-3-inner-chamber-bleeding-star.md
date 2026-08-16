@@ -1,6 +1,6 @@
 ---
 summary: The bleeding star and Ramses III's victory inscription in the Tomb 3 inner chamber
-status: reference
+status: completed
 ---
 
 # Tomb 3 Inner Chamber Reveal — The Bleeding Star (Ramses' Victory at Dijay)

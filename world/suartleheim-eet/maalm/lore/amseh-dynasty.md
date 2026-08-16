@@ -1,6 +1,6 @@
 ---
 summary: The four Amseh kings, their chronology, and the collapse of their empire
-status: reference
+status: completed
 ---
 
 # The Amseh Dynasty

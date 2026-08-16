@@ -1,6 +1,6 @@
 ---
 summary: Wall painting in the Tomb 2 puzzle room — the solar barque on the river of stars
-status: reference
+status: completed
 ---
 
 # Tomb 2 Puzzle Room — Wall Painting

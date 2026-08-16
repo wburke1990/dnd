@@ -1,6 +1,6 @@
 ---
 summary: Bedraageon and the Twelve, Ammit under the ruins, and how the founding is revealed
-status: reference
+status: completed
 ---
 
 # Maalm: The Founding Story

@@ -1,6 +1,6 @@
 ---
 summary: The two colossal statues at the entrance to the Valley of the Kings
-status: reference
+status: completed
 ---
 
 # Valley Guardians — The Colossal Entrance Statues

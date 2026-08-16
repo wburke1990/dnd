@@ -126,7 +126,7 @@ make.
 
 ---
 
-## 3. Two seafaring peoples — keep them separate `[loose — Sam/Ahms to own]`
+## 3. Two seafaring peoples — keep them separate `[loose — Sam to own]`
 
 The water holds **two distinct civilizations,** not one:
 - **The wandering Dragonborn** — the lashed-pontoon traditionalists (§1), heirs of the fallen

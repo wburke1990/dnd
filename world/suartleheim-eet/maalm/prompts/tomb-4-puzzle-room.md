@@ -1,6 +1,6 @@
 ---
 summary: Wall painting in the Tomb 4 puzzle room — Osiris enthroned and the weighing of the heart
-status: reference
+status: completed
 ---
 
 # Tomb 4 Puzzle Room — Wall Painting

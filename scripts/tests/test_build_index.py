@@ -74,6 +74,24 @@ class TestReadDoc:
         with pytest.raises(MissingFrontmatter):
             read_doc(path)
 
+    @pytest.mark.parametrize("status", build_index.STATUSES)
+    def test_every_declared_status_is_accepted(self, tmp_path: Path, status: str) -> None:
+        assert read_doc(write(tmp_path / f"{status}.md", "S", status)).status == status
+
+    def test_rejection_message_lists_the_legal_statuses(self, tmp_path: Path) -> None:
+        """The error has to say what to write instead, or it cannot be acted on."""
+        path = tmp_path / "e.md"
+        path.write_text("---\nsummary: x\nstatus: finished\n---\n\n# E\n")
+        with pytest.raises(MissingFrontmatter) as caught:
+            read_doc(path)
+        for status in build_index.STATUSES:
+            assert status in str(caught.value)
+
+    def test_played_and_completed_are_distinct(self, tmp_path: Path) -> None:
+        """A scene that was run and a file that is finished are different facts."""
+        assert read_doc(write(tmp_path / "f.md", "S", "played")).status == "played"
+        assert read_doc(write(tmp_path / "g.md", "S", "completed")).status == "completed"
+
 
 class TestTable:
     def _doc(self, name: str, status: str, root: Path) -> Doc:

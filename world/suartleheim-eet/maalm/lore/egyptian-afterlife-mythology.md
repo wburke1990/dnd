@@ -1,6 +1,6 @@
 ---
 summary: Egyptian afterlife belief across the Old, Middle and New Kingdoms
-status: reference
+status: completed
 ---
 
 # Egyptian Afterlife Mythology
