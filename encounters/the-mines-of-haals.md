@@ -397,6 +397,111 @@ candidates:
 Draw on the [Tennyson watch-stone vision](../handouts/locksley-hall-vision.md) if the
 answer should match Musa's.
 
+## Where the language comes from
+
+Sources to raid when the giant or Musa needs another line at the table. Each entry
+gives the text, what it supplies, and a line already turned into voice. Adapt rather
+than quote — except the Kraken, which is a handout.
+
+### For the giant
+
+**Tennyson, "The Kraken"** — [already in handouts](../handouts/the-kraken.md), and its
+placement was open. It is Balor's: a thing that has lain in the dark since before
+record, sleeps a *dreamless, uninvaded* sleep, and rises once at the end of the world
+to be seen and to die. Supplies his sleep, his single waking, and the fact that his
+own unmaking is inside the unmaking of everything.
+
+- *"I have lain here for ages and I will lie here. When the last fire heats the deep I
+  will rise, and be seen once, and die on the surface."*
+- *"My sleep has never been entered. It is not entered now."*
+
+**The Bhagavad Gita XI — Krishna's theophany.** The god who is time, come to take the
+world back, telling Arjuna the men opposite are dead already and he is only the hand.
+Supplies the denial of free will **without blame**, which is the hardest note in the
+scene. Also supplies the eye: mortals cannot look at the true form and live, so they
+are given other sight to look with.
+
+- *"I am time, come to its full growth, and I am here to take the world back."*
+- To anyone swearing to prevent something: *"They are dead already. You are the hand.
+  You are not the cause."*
+
+**Job 38–41 — the voice out of the whirlwind.** The creator who answers a demand for
+explanation with questions instead of reasons. Take the **form** and drop the rebuke;
+Job's God is aggrieved and Balor is not.
+
+- *"Where were you when the foundations of this country were laid?"*
+- *"Have you walked in the search of the depth? Then do not ask me to explain."*
+
+**Ecclesiastes.** One generation goes, another comes, the earth stays; what has been is
+what will be; there is no remembrance of former things. Flat, plain, and the exact
+counter to Musa's creed of the name that survives.
+
+- *"One generation goes and another comes. The earth stays. I am the part that stays."*
+- *"What has been is what will be. There is nothing new under this mountain."*
+
+**The Völuspá.** A seeress who remembers giants born at the beginning of time and sees
+Ragnarök in the same breath — Balor's exact posture. Its refrain, *"Would you know
+more?"*, works as his punctuation between answers, and it puts the asking back on the
+party every time.
+
+**Grímnismál, on Ymir.** Of the first giant's flesh the earth, of his bones the hills.
+Canon already has the mountains as the giant dead
+([lineages](../lore/lineages-and-afterlives.md)).
+
+- *"The hills are my brothers' bones. You have walked on them since you came ashore."*
+
+**Vafthrúdnismál.** A giant answers every question put to him until the last one, which
+he cannot answer, and losing kills him. If the party ever wants leverage, the myth says
+the winning question is the one only the asker could know the answer to.
+
+**Balor's own myth — *Cath Maige Tuired*.** He was told his daughter's son would kill
+him, locked her in a tower to prevent it, and that is how the grandson came to be. His
+biography **is** the argument that a prophecy causes itself. Say it flatly and it needs
+no gloss.
+
+- *"It was said my daughter's son would kill me. I put her in a tower on an island.
+  That is how he came to be. I no longer step out of the way."*
+
+### For Musa
+
+**Hávamál 76–77.** Cattle die, kinsmen die, you die; what never dies is the account of
+a man and what he did. This *is* his speech to Blackacre — deeds painted across the
+skies, the halls of the ancestors — in its oldest form, and it states the Firbolg fate
+as the absence of the only thing that lasts.
+
+- *"Cattle die. Kinsmen die. You will die. What does not die is the account of a man.
+  Your friend will not have one. You will."*
+
+**Deuteronomy 34 — Moses on Pisgah.** Shown the whole land, told he will not go over
+into it, and buried in a grave no one knows. Musa is
+[Moses and Joshua at once](../handouts/locksley-hall-vision.md), and his watch-stone
+over Aar is that grave.
+
+- *"I was shown the land and the length of it. I will not see the end of what I
+  begin."*
+
+**Numbers 13 — the spies.** *"We are well able to overcome it."* He can answer doubts
+about the conquest with scripture instead of argument.
+
+**Exodus 22:21 — the stranger.** *You shall not oppress a stranger, for you were
+strangers in the land of Egypt.* A refugee on his way to dispossess people. If the
+party puts this to him, it is the one thing he has no answer for. Let him go quiet
+rather than argue it; the silence does more than a rebuttal would.
+
+**Sura al-Kahf — Musa and al-Khidr.** Musa follows a figure who does incomprehensible
+things and is told at the outset *you will not be able to bear with me*; Musa demands
+reasons each time, and at the parting is given the explanations and left. **This is
+already the structure of the mountain.** Balor is al-Khidr, who will not explain; Musa
+is Musa, who cannot bear not being told. He went in demanding to know and came out with
+the vision and none of the reasons — which is why everything he offers the party is a
+*perhaps*.
+
+**Housman, "Into my heart an air that kills"** —
+[already the gnomes' lament](../handouts/into-my-heart-an-air-that-kills.md) for lost
+Kalikhat. The land of lost content, the happy highways he cannot go again. Musa's fear
+for the little ones he left behind is this poem, spoken by the man who chose the
+boat-load.
+
 ## Getting out
 
 The party climbs back up through the same ages in reverse, from the first age to

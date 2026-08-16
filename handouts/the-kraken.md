@@ -1,6 +1,8 @@
 # The Kraken (Player Handout)
 
-*A beast asleep in the deep sea that rises once, at the end of the world, and dies on the surface. Placement open — possibly outside the comet cosmology of falling sky-gods, its own deep-sea fight rather than a fallen star.*
+*A beast asleep in the deep sea that rises once, at the end of the world, and dies on the surface.*
+
+*`[draft 8/15]` **Placed — this is [Balor](../encounters/the-mines-of-haals.md)**, the Fomorian asleep under Haals. The poem gives him his dreamless and uninvaded sleep, the ages he has already lain there and will go on lying there, and the single waking at the latter fire in which he rises, is seen once, and dies. That last part settles something the scene needed: when he says he will unmake all of his creation, his own end is inside it. Read it out at the bottom of the mine, or leave it as a text the party finds elsewhere and only recognises later.*
 
 *Real-world source: Alfred, Lord Tennyson (1809–1892), "The Kraken" (1830). Verbatim, line breaks preserved.*
 
