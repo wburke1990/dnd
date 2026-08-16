@@ -136,12 +136,13 @@ under the sea.** In order:
 - **No dragon came.** They had left the island long before, so the blood produced no result. The
   zealots have held Jotunheim 1,900 years without that explanation, and they do not connect the
   sacrifices to the dragons leaving.
-- **Two separate departures, and only the first was caused by the hot spot moving.** `[Will 8/16]`
-  The dragons left **Lonka** around 4,000 ya because the hot spot moved to Musleheim and they
-  followed it (§1, §6). They left **Muspelheim** after the 5th pass, ~2,000 ya, for a different
-  reason: the dragonborn there had started **sacrificing people**, and the dragons refuse people
-  as offerings ([lineages §4](lineages-and-afterlives.md)). The second time they did not follow
-  the hot spot onward — they stopped attending, and **no dragon attends the 6th pass or the 7th.**
+- **Two departures, with different causes.** `[Will 8/16]` The dragons left **Lonka** around
+  4,000 ya because the hot spot moved to Musleheim and they followed it (§1, §6). They left
+  **Muspelheim** after the 5th pass, ~2,000 ya, for a different reason: the dragonborn there had
+  started **sacrificing people**, and the dragons refuse people as offerings
+  ([lineages §4](lineages-and-afterlives.md)). They stay away a thousand years, then return for
+  the 6th pass, and they are on **[Moku Kurunatuka](the-muspel-empire.md)** now, with the hot
+  spot, which is where the zealots are sailing (§7).
 - **The zealots caused it.** The sacrifices start *before* the dragons go. The dragonborn had
   lived alongside them for two thousand years and lost them within one lifetime, and the
   sacrifices grow larger and more frequent after this. **They leave Muspelheim ~1,900 ya, a
@@ -218,15 +219,15 @@ reached by a single guarded channel (the model is **Moorcock's Melniboné**).
   Zealots bled to reconsecrate the dragon's first perch (§4), and their gods **no longer
   come to Lonka,** leaving just the turtle in the bay.
   `[Will 8/16]` **Two departures, with different causes.** 🔒 The dragons left **Lonka**
-  ~4,000 ya for the cosmological reason — **dragons follow the hot spot, and the hot spot
-  drifted southeast off Lonka** ([overview §5](campaign-overview.md)) toward the
-  Kurunatukas. They left **Muspelheim** after the 5th pass, ~2,000 ya, because the
-  dragonborn there had begun sacrificing people (§4). The second time they did not follow
-  the hot spot onward, so they are not at the Kurunatukas either, and no dragon attends
-  the 6th pass or the 7th. That departure falls a century before the massacre and in the
-  same years as Maalm's colony, which is why the zealots blamed the settlers (§4). The
-  killing was an attempt to **call them back**, and it failed. The zealots do not know why
-  the dragons are gone, and each generation sacrifices more. The same thing happens in
+  ~4,000 ya because **dragons follow the hot spot, and the hot spot moved southeast off
+  Lonka** ([overview §5](campaign-overview.md)) toward the Kurunatukas. They left
+  **Muspelheim** after the 5th pass, ~2,000 ya, because the dragonborn there had begun
+  sacrificing people (§4). They stayed away a thousand years, returned for the 6th pass,
+  and are on **Moku Kurunatuka** now. That departure falls a century before the massacre
+  and in the same years as Maalm's colony. The zealots blamed the settlers (§4), and the
+  killing was an attempt to **call them back**; it failed. The dragons are back in the
+  world and attending passes, and they still do not come to Lonka. Each generation of
+  zealots sacrifices more. The same thing happens in
   **[Tomb 4](../encounters/valley-of-the-kings.md)** — Amseh IV's empty thrones, *we called
   to you; you did not come; we did everything right and it meant nothing*
   ([the gods who do not answer](egyptian-afterlife-mythology.md)). Gods who abandon
