@@ -214,12 +214,28 @@ birthright, **Musa can offer it to [Sarric](../characters/sarric.md)** — the
 conqueror-prophet offering salvation to a man of the people he is on his way to
 destroy.
 
-`[OPEN]` **Can one of the nameless pledge at all?** Either there is nothing
-persistent in him for a court to keep, so the offer is empty and Musa does not
-know it — or it works, and a Firbolg can buy eternity at the price of becoming the
-kind of thing that can be owned. The second is a real and terrible choice to put
-in front of Jeremy; the first is a quieter and sadder scene. Settle it before
-running the mine, because Musa makes the offer either way.
+**The pledge is a rite, and the rites work.** `[Will 8/16]` Changing which
+cosmology claims you is something the world has **rituals** for, and they are all
+the same kind of act. [Aniess](../characters/aniess.md) has been through one — the
+Punt rite pledged her to the Serpent — and [Pax](../characters/pax.md) has to
+perform one to make his choice (§6). The covenant pledge is another of that
+family. Two consequences, both already established by Aniess: because the rites
+are **real, they work even performed coldly**, without belief and without
+kindness; and pledging does not erase what you were, so a person can end up
+**standing under two courts at once**.
+
+**So yes — one of the nameless can pledge**, and Musa's offer to
+[Sarric](../characters/sarric.md) is a live one with a rite behind it. What Sarric
+would be buying is a court where he had none: he would go from a man nothing can
+fasten to, into a man who can be named and therefore held. **The whole thesis
+inside one character's decision** — and the offer comes from the man on his way
+to destroy his people.
+
+**That is a third position on the consent axis**, which had two. Aniess had it
+**done to her**; Pax **chooses** freely; Sarric would be **offered** it, on the
+eve of a conquest, by the conqueror, meaning it kindly. Not inflicted and not
+free. `[OPEN]` whether Musa understands that what he is offering costs what it
+costs.
 
 `[OPEN]` Whether the covenant **happened**, or is a story the dragon people tell
 about a thing that was done to them. The second is crueller and fits better.
