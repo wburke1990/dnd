@@ -114,14 +114,6 @@ them in invisible ([her prep](../encounters/v-second-contact.md)).
   **Still open:** the full **per-PC offer/pay** beyond the "find out what Preem's up to"
   brief.
 
-## The names, delivered — Mul at the tower
-
-- The party pressed **Mul** on what Preem actually wants the names for.
-- Line changed live at the table. Mul's answer now ends: **"A name is only a
-  name — until someone says it aloud, in the right room, in the right order.
-  Then it is a key."** (was "a door.") Updated in
-  [`characters/mul.md`](../characters/mul.md).
-
 ## Pax's four-day vision
 
 - Talking with **Jogo** (the coffeehouse patron he'd just met, above), **Pax** told
@@ -176,9 +168,32 @@ The next morning. (Prep: [Departure Under Fire](../encounters/docks-departure.md
   this arc, and the reason to commit to it now. `[OPEN]` "put every ninja team on this" —
   whether that means the **party goes all-in**, or Preem's **rival name-hunter crews all
   converge** on the once-a-year hunt (the window pulling every crew to the one spot).
+## Preem's tower — a new map, and the Dream Quest
+
+Their atlas gone (V. lifted it), the party went to **Preem's tower for a replacement.** They
+knocked; **Mul** let them in, sent his **library assistant — a gnome named Bellington — to
+fetch a new map**, and they talked in a **ground-floor study** while it was found.
+
+- They pressed **Mul** on what Preem actually wants the names for. His line, changed live at
+  the table: **"A name is only a name — until someone says it aloud, in the right room, in
+  the right order. Then it is a key."** (was "a door"; updated in
+  [`characters/mul.md`](../characters/mul.md)).
+- **Pax revealed the Dream Quest** to Mul, who was **extremely interested and interrogated
+  him about every detail** — but **never asked who the sponsors were.** He already knows it
+  was the **al Qahtani.**
+- **DM note.** The not-asking is the tell: Preem's people already know the al Qahtani hosted
+  the rite. And a demon who stands on both planes ([Mul is a
+  Yochlol](../lore/demons-and-the-hotspot.md)) hanging on every detail of a mortal's real
+  crossing of the river of stars is worth playing — Preem's interest in the dead's road,
+  surfacing quietly.
+- **New NPC — Bellington**, the gnome who runs the tower **library** and fetches maps.
+  (Cassia had just ribbed Blackacre about the library — Preem's tower has one.)
+
+## Departure & next session
+
 - **The docks / sailing ambush was skipped** — the party's agreeing to work for V. took
   it off the table; [Departure Under Fire](../encounters/docks-departure.md) went unused.
-  They sail on the Second Hand's chartered transport toward the Sacred Hunt.
+  With the new map, they sail on the Second Hand's chartered transport toward the Sacred Hunt.
 - **Next session (V.'s sending-stone message).** V. will reach Sarric through the stone she
   gave him: she got out of Maalm alive, wants Sarric to **apologize to Blackacre on her
   behalf**, and reveals she **didn't kill Fester after all** — he's sore about the missing
