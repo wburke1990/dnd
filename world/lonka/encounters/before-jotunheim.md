@@ -160,7 +160,7 @@ blood and trees can be put in front of the party at no cost.
 - **Musa in the cave** `[Will 8/15]` — already written into
   [the mines of Haals](../../suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md), and said by a man who holds the whole
   arrangement in contempt. Of Sarric: *"His fate is to return to the earth and lose his
-  soul and all he ever was to its eternal hunger."* The ground eats what is given to
+  soul and all he ever was to its eternal hunger."* The ground eats whatever goes into
   it — the rule the rite runs on, spoken four thousand years before anyone carries a
   tree across the sea. To Pax in the same conversation: *"Your father's people are in
   the sky already. What did they send you down for?"* Both halves of what Pax is, out

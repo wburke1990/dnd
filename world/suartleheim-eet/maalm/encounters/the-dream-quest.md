@@ -856,7 +856,7 @@ The Duat — the Egyptian underworld, the river the dead travel to judgment. Ans
 **Question 2:** *"Name the god who judges at the river's end."*
 Osiris — from the Tomb 4 paintings. DC 10 Intelligence.
 
-**Question 3:** *"Name what is weighed."*
+**Question 3:** *"Name what Anubis weighs."*
 The heart. DC 8 Intelligence.
 
 **Question 4:** *"Name what it is weighed against."*
@@ -1102,7 +1102,7 @@ The scale sinks.
 
 *David voices the dead man. You voice Anubis. The room should be as quiet as you can make it.*
 
-*The soul of the man stands before the scales. He does not look at the party. He looks at his hands.*
+*The soul of the man stands before the scales. He looks at his hands and does not look up.*
 
 ---
 

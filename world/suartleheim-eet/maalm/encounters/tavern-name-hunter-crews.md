@@ -435,7 +435,7 @@ deep story is entirely player-facing.
 *Chartered, funded, smug — and **done**. They cleared every tomb in the Valley
 without missing a name, and they'll make sure the party knows it. Each is a PC's
 road-not-taken: the version who said **yes**, didn't flinch, and is proud of it.
-They don't think the names are evil. They think the names are **theirs**.*
+They think the names are **theirs**.*
 
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the party
 about how careless they've been. Each Writ member drifts toward their counterpart

@@ -116,8 +116,7 @@ callback to what they did to Ratatat:
 *(Guard:)*
 *"The price is two fingers."*
 
-They don't want coin. They want the party to bleed for it, or a reason to
-swing.
+They want the party to bleed for it, or a reason to swing.
 
 ---
 

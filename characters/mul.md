@@ -86,7 +86,7 @@ he spends his words *fishing*.
 - *(if they push harder)* "You are asking above my station. I carry, I do not ask. I stopped asking a very long time ago." *(and there — for one line — the nasal warmth is just gone)* "It is better. Truly. Not asking is better."
 
 **"There was a man who died in the tombs — well-dressed, two guards, a year ago."** *(the lepers' story, Tomb 1)*
-- *(no surprise at all)* "Ah. Yes. Before you, there were others. They were... less careful than you were. Or less lucky." *(a small, awful shrug)* "We do not always get everyone back. He does not send one crew. He sends many. You are the ones who came home." *(the "we" — let it sit)*
+- *(no surprise at all)* "Ah. Yes. Before you, there were others. They were... less careful than you were. Or less lucky." *(a small, awful shrug)* "We do not always get everyone back. He sends many crews. You are the ones who came home." *(the "we" — let it sit)*
 
 **"What's coming? The comet — the bleeding star?"**
 - "The star that bleeds. Yes." *(a beat too long)* "The master will tell you what he wants you to know of it, and not a word before. It is not my place."

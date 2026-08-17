@@ -192,9 +192,8 @@ errand is quietly assembling the means to **bend the end of the world to his wil
 - **Layer four — the demons.** They prove a "person" in the tower is a demon
   (see [Preem's demons](../../../characters/preems-demons.md)).
 - **Layer five — Ragnarok.** They understand the Foundation's premise, and then
-  the worse truth: Preem doesn't intend to merely *ride out* the cataclysm. He intends
-  to **control** it — forcing the coming pass to fall as a Ragnarok he masters, with a
-  bound volcano-demon.
+  the worse truth: Preem intends to **control** the cataclysm — forcing the coming pass
+  to fall as a Ragnarok he masters, with a bound volcano-demon.
 - **The climax.** The final battle hands the party the **volcano-demon's true
   name** and the choice of whether to bind it for Preem. They will have already
   rehearsed that exact horror, at human scale, in

@@ -211,8 +211,7 @@ Present:
 - **Ammit** — waits beside the scales
 
 **The 42 Confessions (Declaration of Innocence):**
-In standard Egyptian mythology these are *negative* confessions — "I have not stolen," "I have not lied." In your campaign they are *positive* confessions — "I have stolen," "I have lied." A soul that names its own sins passes; a soul that claims it has none does not.
-
+In standard Egyptian mythology these are *negative* confessions — "I have not stolen," "I have not lied." In your campaign they are *positive* confessions — "I have stolen," "I have lied."
 Each confession is addressed to one of the 42 divine judges by name. The soul must know the judges' names to address them correctly. Three judges appear in Tomb 3's inner chamber painting: Neha-hau, Am-khaibitu, Hept-Shet.
 
 **The Weighing of the Heart (Psychostasia):**
