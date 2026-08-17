@@ -120,6 +120,31 @@ def test_flags_gnomic_passive() -> None:
     assert "gnomic-passive" in _rules("the tree's own words, there to be heard")
 
 
+def test_quotations_are_exempt_from_the_style_pass() -> None:
+    # Scripture, poems, NPC dialogue and a player's own words are off limits.
+    assert "editorial-adverb" not in _rules('Mul shrugs. "Dull work, truly."')
+    assert "not-just" not in _rules('he burned "not only men"')
+    assert "editorial-adverb" in _rules("The work was truly dull.")
+
+
+def test_quotation_blanking_keeps_columns() -> None:
+    line = '"Truly," she said, and the room was utterly still.'
+    findings = iter_findings("t.md", line.splitlines())
+    (finding,) = [f for f in findings if f.rule == "editorial-adverb"]
+    assert line[finding.col - 1 :].startswith("utterly")
+
+
+def test_blanked_quotation_does_not_bridge_words_on_either_side() -> None:
+    # A space filler would let "\s+" join "the" and "on the" across the quote.
+    assert "repetition-flourish" not in _rules('the "so it goes" on the wall')
+
+
+def test_beat_rule_leaves_stage_directions_and_the_verb() -> None:
+    assert "coined-label" not in _rules("*(a beat too long)* he answers")
+    assert "coined-label" not in _rules("a deadline Preem is racing to beat")
+    assert "coined-label" in _rules("the reveal-beat lands in the third room")
+
+
 def test_flags_headless_relative() -> None:
     assert "headless-relative" in _rules("What is weighed is what he did.")
     assert "headless-relative" in _rules("it does not change what is weighed")

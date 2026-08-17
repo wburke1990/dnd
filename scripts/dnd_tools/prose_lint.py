@@ -83,7 +83,12 @@ RULES: tuple[Rule, ...] = (
         r"\b(the|a|an) \w+[- ](engine|loop|ladder|machine|churn)\b"
         r"|\bthe engine (of|underneath|behind|dressed)\b"
         r"|\b\w+-(engine|loop|ladder|machine|churn|factory)\b"
-        r"|\b\w+[- ](beat|stack|cradle)\b",
+        # "beat" only as a coined noun ("the Bengal beat", "reveal-beat"). The
+        # determiners and "to" rule out the stage direction "a beat" and the
+        # verb "to beat", which are both ordinary.
+        r"|\b(?!(?:a|an|the|to|one|another|every|no|off|that|this|his|her|its|their)\b)"
+        r"\w+[- ]beat\b"
+        r"|\b\w+[- ](stack|cradle)\b",
         "coined label; name the thing plainly (#12)",
     ),
     _rule(
@@ -174,6 +179,20 @@ RULES: tuple[Rule, ...] = (
 FEEL_TONE_MARKER: Pattern[str] = compile(r"^[\s>*_-]*(?:feel|tone|mood)\b[^:]{0,24}:", IGNORECASE)
 FEELING_RULES: frozenset[str] = frozenset({"feeling-word", "emotion-dictation"})
 
+# The house style governs OUR sentences, not quoted ones — scripture, poems,
+# NPC dialogue, a player's own words about their character are all off limits
+# to the style pass (CLAUDE.md, "Never 'fix' a verbatim quotation"). So blank
+# out double-quoted spans before matching. Columns are preserved by replacing
+# each character with a filler, so a finding still points at the right place.
+# The filler is NUL rather than a space: a space would let ``\s+`` bridge the
+# blanked span and match words on either side of a quotation as if adjacent.
+QUOTED_SPAN: Pattern[str] = compile(r"[\"“][^\"“”]*[\"”]")
+QUOTE_FILLER = "\x00"
+
+
+def _blank_quotations(line: str) -> str:
+    return QUOTED_SPAN.sub(lambda m: QUOTE_FILLER * len(m.group(0)), line)
+
 
 def _relpath(path: Path) -> str:
     try:
@@ -204,10 +223,11 @@ def iter_findings(
         if only_lines is not None and lineno not in only_lines:
             continue
         feel_line = bool(FEEL_TONE_MARKER.match(raw))
+        subject = _blank_quotations(raw)
         for rule in RULES:
             if feel_line and rule.name in FEELING_RULES:
                 continue
-            for m in rule.pattern.finditer(raw):
+            for m in rule.pattern.finditer(subject):
                 yield Finding(
                     path=path,
                     line=lineno,
