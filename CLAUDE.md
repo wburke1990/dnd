@@ -224,6 +224,34 @@ already editing, and over many small commits the whole repo comes into
 style. (The linter also dislikes hyphenated compound coinages; prefer the
 plain unhyphenated phrasing.)
 
+**Never report a flag you have not fixed.** The previous paragraph says
+don't go hunting; it does **not** license leaving a problem you have
+already found. Anything a linter, a critic, a grep, or your own eye turns
+up in the course of the work gets fixed in the same commit, in whatever
+file it lives in. *"This also appears in three other files — say the word
+if you want them cleared"* is the wrong move; clear them and say you did.
+The user should never have to authorize a fix to a problem you just told
+them about. (Bitten 8/16: a new lint rule was added, three pre-existing
+hits were reported, and none were fixed.)
+
+**A new `prose-lint` rule ships with its repo-wide sweep, in the same
+commit.** Adding a pattern turns every existing line matching it into a
+known problem, so the commit that adds the rule also fixes every hit. The
+sweep is one command — the CLI takes files, not directories:
+
+```
+rg --files -g '*.md' world characters sessions handouts references docs \
+  | xargs uv --directory /Users/wcb/personal/dnd/scripts run prose-lint
+```
+
+Fix every hit of the *new* rule; the back-catalog's other flags stay as
+they are and come out file by file under the paragraph above.
+
+**The same applies to a fix the user rejects.** When they call a rewrite
+bad, cutting the sentence is usually right — reach for the cut before
+writing a third version. A line that has already failed twice is a line
+the doc does not need.
+
 **Write commit messages to a temp file and use `git commit -F`, not a
 `<<EOF` heredoc.** Heredocs (and other constructs the permission engine
 can't statically analyze) trigger a prompt that blocks on mobile. So:
