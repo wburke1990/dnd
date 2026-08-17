@@ -24,9 +24,10 @@ Rebuild this by hand when a thread is run. It is not generated.
 | Preem's letter of marque brings him to Maalm | [sessions 01–10](../sessions/) | `played` |
 | Confession tablet in the Valley | [valley of the kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md) | `played` |
 | V. steals his atlas | [v second contact](../world/suartleheim-eet/maalm/encounters/v-second-contact.md) | `played` |
-| Sea lore is his to invent; sailing and storms run off his boat | [floating fleet](../world/the-sea/lore/floating-fleet.md), [sailing and storms](../world/the-sea/lore/sailing-and-storms.md) | `reference`, standing |
+| The wandering fleet lore, settled with Sam; sailing and storms run off his boat | [floating fleet](../world/the-sea/lore/floating-fleet.md), [sailing and storms](../world/the-sea/lore/sailing-and-storms.md) | `reference`, settled |
 | First dragonborn-to-dragonborn meeting on the Maalm docks | [blackacre](blackacre.md) hook 3 | **unwritten** |
 | Watch-stones on the sea-roads, and finishing Idris's labor | [wandering dragonborn](../world/the-sea/lore/wandering-dragonborn.md) | `reference`, no scene written |
+| Musa's watch-stone at the landing port — his kinsman-prophet's grave, one of the sea-road watch-stones he keeps | [aar](../world/suartleheim-eet/raand-copaa/lore/aar.md) | `reference` |
 | Musa at Haals — his own kinsman, who tells him the dragon people are kept after death and the Firbolg are not; *"power never used is power no longer"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
 | Sayid, the fleet revolt, and the recognition rule | [blackacre](blackacre.md) | **unwritten** |
 | Jotunheim — the zealot/nomad rift, Arishat, the bride and the trials | [jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md), [lonka jotunheim](../world/lonka/lore/lonka-jotunheim.md) | `draft` |

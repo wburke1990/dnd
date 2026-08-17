@@ -60,6 +60,11 @@ them over as printed handouts, no check, no scene (the
 
 The Company built its wharves around the stone and works past it.
 
+`[run]` For **[Blackacre](../../../../characters/blackacre.md)**, Musa is a wandering
+dragonborn seer of his own kind, so this watch-stone is his kinsman's grave — one of the
+sea-road watch-stones he has kept all his life. Finding it here sets up his meeting with
+Musa down in [the mines of Haals](../encounters/the-mines-of-haals.md).
+
 `[run]` The watch-stone stands over whichever port the party lands at. If they put in at
 Aal instead of Aar, it stands there — only ever the one.
 
