@@ -91,7 +91,7 @@ Rebuild this by hand when a thread is run. It is not generated.
 | Default capture target of the akhekh, which was remade as she was | [akhekh road ambush](../world/suartleheim-eet/maalm/encounters/akhekh-road-ambush.md) | `played` |
 | V. plants a note on her | [v second contact](../world/suartleheim-eet/maalm/encounters/v-second-contact.md) | `played` |
 | Musa: *"You have been changed. Who holds the name you had before?"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft`, one line |
-| Intercepting Shepard and delivering him to Kuru | [shepard](shepard.md), [aniess](aniess.md) | **unwritten** as a scene |
+| Intercepting Shepard and delivering him to Kuru — retired; Shepard was Jeremy's abandoned PC. Revive only if Aniess runs short | [shepard](shepard.md), [aniess](aniess.md) | **retired**, fallback |
 | Punt, Axiom, and finding out she is the first snake-person made outside the island | [kuru and the phoenix](../world/kuru/lore/kuru-and-the-phoenix.md) | `reference`, no scene written |
 | The Order runs the same operation as Preem | [aniess](aniess.md), [campaign overview](../world/nila/lore/campaign-overview.md) §2 | `reference`, long-term |
 | Recruitment by a rival name-hunting crew | [rival crew plots](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md) | `idea` |
@@ -122,7 +122,7 @@ Own threads only, ensemble scenes excluded.
 | Sarric | 3 | 6 | 1 |
 | Pax | 4 | 7 | 0 |
 | Jasper | 4 | 3 | 2 |
-| Aniess | 4 | 3 | 4 |
+| Aniess | 4 | 3 | 3 |
 
 ## What is thin
 
@@ -130,9 +130,10 @@ Own threads only, ensemble scenes excluded.
   entry above that is not `played` is either a single line inside somebody else's scene
   or a fact nobody has staged yet. Sarric and Pax both have threads at Haals; Pax and
   Blackacre both have threads at Jotunheim.
-- **Aniess's stated goal has no scene.** Intercepting Shepard is why Greg's character is
-  in the party at all, and there is no encounter file for it anywhere. Preem's other crew
-  is escorting Shepard right now.
+- **Aniess has the least ahead of her.** The Shepard hunt — her old motivation — is
+  retired (Shepard was Jeremy's abandoned PC), kept as a fallback to revive if she runs
+  short. That leaves the Serpent of Punt / Axiom reveal as her one planned thread, and
+  little else. She needs new material.
 - **Jasper's home town was settled in play and left there.** Zarta is on the map, it is a
   Company town, and no encounter goes there.
 - **Two of Aniess's backstory NPCs still have `[PLACEHOLDER NAME]`** — the warforged
