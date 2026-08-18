@@ -98,9 +98,10 @@ Say so plainly if they ask, and let them spend the spells if they want to.
 
 ### Two brothers
 
-**Rustam and his brother Ruslan are both traders**, out of a house in **Raand**. One of
-them took Company work and the other would not. *(Their house names run Dagestani —
-Rustam, Ruslan, and so on, if more of the family is ever needed.)*
+**Rustam and his brother Ruslan are both traders**, out of a house in **Aar**. Rustam
+was sailing home when Sayid took him. One of them took Company work and the other would
+not. *(Their house names run Dagestani — Rustam, Ruslan, and so on, if more of the
+family is ever needed.)*
 
 - **Ruslan took Company work.** He carries Company cargo under a Company flag, sails in
   their convoys, and pays them their cut of everything he moves. The **Mukka privateers
@@ -117,7 +118,9 @@ Mukka arrangement, buys no marques, and keeps to nobody's deal. He would have ta
 Company hull as readily, and its cargo is worth more. **Rustam does not know that.** He
 says his brother was right and he was wrong.
 
-The party can tell him or not tell him.
+The party can tell him or not tell him. He will not follow the argument if they try, and
+none of the Company detail above should come out of his mouth on the deck — it comes from
+Ruslan, in Aar, afterward.
 
 **He was in Maalm.** He watched a bloodied party come up the street, a dragonborn druid
 among them, going to Lucrecia's house
@@ -136,8 +139,8 @@ he still has his hands. He says he gave up the name to stay alive.
 2. **To talk.** He tells the whole thing whether or not anyone wants it.
 3. **The ground.** A hole in earth, somewhere, anywhere, and somebody who knows where it
    is. Have him ask twice not to be put in the sea.
-4. **His brother told.** Ruslan, in Raand. He wants him told, and he wants him told
-   that it was not his own bad seamanship.
+4. **His brother told.** Ruslan, in Aar. He wants him told, and he wants him told that
+   it was not his own bad seamanship.
 
 **His lines are built on
 [the Streets of Laredo](../../../handouts/streets-of-laredo.md)** — the recognition, the
@@ -342,21 +345,18 @@ Then:
 
 > "No drums."
 
-> "My brother. Ruslan. Raand, by the water stair."
+> "My brother. Ruslan. Aar, by the water stair."
 
 > "Tell him it wasn't the weather. Tell him it wasn't the boat."
-
-**If somebody asks about the brother**, or if the party want more out of him:
-
-> "Company man. Their flag, their convoy, their cut of everything."
-
-> "The pirates leave them be. There's an arrangement."
-
-> "I said I'd not be a man who pays to be let alone."
 
 Then, later, quieter:
 
 > "He was right. Tell him he was right."
+
+**He does not explain that**, and he should not be made to. He is past explaining
+anything. The Company and the arrangement with the pirates come out later, from Ruslan,
+when somebody carries the news to Aar — see *Two brothers* in Part One and *Afterward,
+in Aar* below.
 
 **If somebody asks him straight whether he would do it again**, he does not lie:
 
@@ -405,6 +405,20 @@ yesterday, standing away north, towing two spars each.
   whether or not anyone watches.
 - **The ship.** She goes down at ten rounds, or drifts on smoking if the party leave
   early. She never reaches port.
+
+### Afterward, in Aar
+
+If the party carry the news, **Ruslan** is at the house by the water stair, and he is the
+one who explains what his brother would not. He is a Company man: their flag, their
+convoys, their cut of everything he moves, and the Mukka privateers leaving Company hulls
+alone because the Company buys the marques. He has had this argument with Rustam for
+years and he has just won it in the worst way.
+
+What he can give the party: the name of the arrangement and who holds it in Aar, what a
+Company flag costs, and a debt to whoever brought his brother home. What he cannot tell
+them is that none of it would have stopped Sayid.
+
+Run it whenever they reach Aar. It is a short scene and it does not need prep.
 
 ---
 
