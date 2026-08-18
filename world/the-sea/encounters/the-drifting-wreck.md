@@ -7,7 +7,7 @@ status: ready
 
 > **How to use this doc.** Two parts. **Part One is background** — read once in prep,
 > not needed at the table. **Part Two is the run sheet**, in play order: what they see,
-> hear, smell and feel, what Rustam says, and the rolls. Run the session from Part Two.
+> hear, smell and feel, what Ruston says, and the rolls. Run the session from Part Two.
 
 An open-water encounter for [Blackacre](../../../characters/blackacre.md), out of Sam's
 8/17 chat. **Sayid is not in it.** What is in it is a ship he took and the one man he left alive.
@@ -37,7 +37,7 @@ and she is still smoldering when the party come up on her.
 
 Fourteen of her crew are dead. Nine were killed on deck. Five were taken below alive.
 
-## What Sayid did, and what it cost him
+## What Sayid did
 
 He holds a few ships. Ships that never make port take their timber, water, iron and
 cordage off somebody, and **he came for the masts.**
@@ -61,47 +61,69 @@ nothing.
 How he talks and why he is like this: [Sayid](../../../characters/sayid.md).
 
 **Where he is now.** Within a day or two of this water, working back toward the Maalm
-coast on what Rustam told him. The party missed him by a day. The DM can move him closer
+coast on what Ruston told him. The party missed him by a day. The DM can move him closer
 or further off.
 
 ## The merfolk
 
-Nobody sent them and nobody paid them. **They found her adrift this morning**, and a
-hull is worth more to them than anything else in the water: iron, brass, glass, nails,
-tools, sealed jars. Things that cannot be made underwater and do not grow.
+Nobody sent them and nobody paid them. **They found her adrift this morning.** A hull
+carries iron, brass, glass, nails, tools and sealed jars — things that cannot be made
+underwater and do not grow.
 
 They are stripping the dead of rings, buckles and knives, and putting the bodies over the
 side afterward. They did not kill anyone aboard and they did not cut anyone up.
 
-They found her, so by their reckoning she is theirs, and they will fight for her. They
+They found her, and they say she is theirs, and they will fight for her. They
 will also trade, and they trade fairly.
 
 **They can tell he is dying, and to them he is one more of the dead.** The dead on this
 ship are theirs with everything else aboard her, and they take the dead into the water.
-The merfolk will not hand him over, and Rustam can hear the argument.
+The merfolk will not hand him over, and Ruston can hear the argument.
 
 Stat blocks: [merfolk salvagers](../bestiary/merfolk-salvagers.md).
 
-## Rustam
+## Ruston
 
-A merchant passenger, forty, in good clothes that have been in the water for a day and a
-half.
+A trader, forty, sailing with his own cargo aboard the *Nasira*. Good clothes that have
+been in the water for a day and a half.
 
 **He is dying.** The beam crushed his leg when the deck came down and it has been under
 warm water since. The leg is dead, the wound is infected, and the infection has spread.
 He has hours.
 
-`[DM ruling]` **Do not let magic take this away.** Cure Wounds does not stop it. Lesser Restoration keeps him lucid longer and does nothing else — the leg is gone, and
+`[DM ruling]` **Do not let magic cure the leg or the infection.** Cure Wounds does not stop it. Lesser Restoration keeps him lucid longer and does nothing else — the leg is gone, and
 at level 3 nothing in the party regrows a limb or clears an infection this far along. If the players throw
 everything they have at him he stays awake longer, talks more, and dies before any port.
 Say so plainly if they ask, and let them spend the spells if they want to.
+
+### Two brothers
+
+**Ruston and his brother Bahram are both traders**, out of a house in **Raand**. One of
+them took Company work and the other would not.
+
+- **Bahram took Company work.** He carries Company cargo under a Company flag, sails in
+  their convoys, and pays them their cut of everything he moves. The **Mukka privateers
+  leave Company hulls alone** — the Company buys the marques and the pirates keep to the
+  arrangement, because a licence is worth more than one cargo
+  ([the Company](../../nila/lore/the-company.md),
+  [ships and sea power](../lore/ships-and-sea-power.md)).
+- **Ruston would not.** He wanted his own cargo and his own price. That meant no flag
+  and no convoy, and nobody with an arrangement to protect him. He has been making that
+  argument to his brother for years.
+
+**The flag would not have saved him**, and Blackacre knows it. Sayid is not part of the
+Mukka arrangement, buys no marques, and keeps to nobody's deal. He would have taken a
+Company hull as readily, and its cargo is worth more. **Ruston does not know that.** He
+says his brother was right and he was wrong.
+
+The party can tell him or not tell him.
 
 **He was in Maalm.** He watched a bloodied party come up the street, a dragonborn druid
 among them, going to Lucrecia's house
 ([session 07](../../../sessions/session-07.md)). He sailed the next morning, one day
 ahead of them.
 
-**He gave Blackacre up.** When they had him below with the others and asked their
+**He gave Sayid the name.** When they had him below with the others and asked their
 question, he had an answer. He is the only one who did. That is why he is alive and why
 he still has his hands. He says he gave up the name to stay alive.
 
@@ -110,10 +132,11 @@ he still has his hands. He says he gave up the name to stay alive.
 **What he asks for**, in this order. He is not offering anything in return:
 
 1. **Water.** Cold water, off their boat. He has been in the sea for a day and a half.
-2. **To be heard.** He tells the whole thing whether or not anyone wants it.
+2. **To talk.** He tells the whole thing whether or not anyone wants it.
 3. **The ground.** A hole in earth, somewhere, anywhere, and somebody who knows where it
    is. Have him ask twice not to be put in the sea.
-4. **His house in Aar told**, so his household is told he is dead.
+4. **His brother told.** Bahram, in Raand. He wants him told, and he wants him told
+   that it was not his own bad seamanship.
 
 **His lines are built on
 [the Streets of Laredo](../../../handouts/streets-of-laredo.md)** — the recognition, the
@@ -127,7 +150,7 @@ asking was in this water yesterday. And somebody has already told Sayid to look 
 Maalm.
 
 He does not meet Sayid, and there is nothing written down anywhere on the ship. The
-party learn all of the above only if Rustam tells them.
+party learn all of the above only if Ruston tells them.
 
 ---
 
@@ -231,7 +254,7 @@ Down the burned hole, or through the after hatch (**DC 14 STR**, it is jammed).
 
 Do not tell the players who cut the bodies up, or why.
 
-## 6 · Rustam under the beam
+## 6 · Ruston under the beam
 
 He is in an air pocket against the deckhead in the after end of the hold, water at his
 chin, a deck beam across his legs.
@@ -318,7 +341,21 @@ Then:
 
 > "No drums."
 
-> "There's a house in Aar. Sayyida's. Tell them I didn't just not come."
+> "My brother. Bahram. Raand, by the water stair."
+
+> "Tell him it wasn't the weather. Tell him it wasn't the boat."
+
+**If somebody asks about the brother**, or if the party want more out of him:
+
+> "Company man. Their flag, their convoy, their cut of everything."
+
+> "The pirates leave them be. There's an arrangement."
+
+> "I said I'd not be a man who pays to be let alone."
+
+Then, later, quieter:
+
+> "He was right. Tell him he was right."
 
 **If somebody asks him straight whether he would do it again**, he does not lie:
 
@@ -337,8 +374,8 @@ They will hand over the whole deck for:
 - **The dead.** Every body aboard goes into the water. This is the part they will not
   give up: they found the ship, so the dead are theirs.
 
-**Rustam is one of the dead as far as they are concerned.** They can see the leg. They
-will wait for him if the party stand over him, and they will not go away. Rustam can
+**Ruston is one of the dead as far as they are concerned.** They can see the leg. They
+will wait for him if the party stand over him, and they will not go away. Ruston can
 hear them.
 
 Three ways past that: **buy the body** with something off the deck they want more,
@@ -356,7 +393,7 @@ yesterday, standing away north, towing two spars each.
 
 ## 8 · Off her
 
-- **Rustam.** He dies here, on the deck or in their boat, within the hour. Then the party
+- **Ruston.** He dies here, on the deck or in their boat, within the hour. Then the party
   decide what to do with the body: the sea, which he asked them not to do, or the next
   landfall and a hole in the ground, which costs them a day of sailing with him aboard.
   They can decide after he dies.
@@ -382,15 +419,15 @@ yesterday, standing away north, towing two spars each.
 | The beam | DC 15 STR alone; DC 12 each for two together |
 | Deck slope | DC 10 Acrobatics if you move more than half speed |
 | Back aboard from the water | DC 13 Athletics, or a thrown line |
-| Rustam | Dying of the crushed leg. Hours, not days. No check saves him |
+| Ruston | Dying of the crushed leg. Hours, not days. No check saves him |
 | Rounds before the stern goes under | 10 |
-| Rounds before the merfolk reach Rustam | 4 |
+| Rounds before the merfolk reach Ruston | 4 |
 | Cup of cold water | He is dead when it comes back |
 | Coin in the stern locker | 41 gp |
 
 ## Open threads
 
 - **Blackacre's birth name.** Sayid's people are using it along with the sea-name. Sam
-  was checking; when he answers, Rustam can say both.
+  was checking; when he answers, Ruston can say both.
 - **What was in the cage.** Left open on purpose.
 - **How close Sayid stays.** Written as a day off, working toward Maalm.

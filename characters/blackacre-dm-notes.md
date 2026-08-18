@@ -112,7 +112,7 @@ in front of him along the way: power over a beaten enemy, and what he does with 
 **watch-stone graves** are one place to do this — improvise a moral choice there,
 tuned to where he is at the time (see
 [lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)). Another is
-**Rustam** in [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md):
+**Ruston** in [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md):
 the man who told Sayid where to look for Blackacre, pinned under a beam, and human, so
 the rule about dragonborn blood does not cover him. Others: the first
 dragonborn meeting on the **Maalm docks** (hook #3 on the sheet), the **bride and the
