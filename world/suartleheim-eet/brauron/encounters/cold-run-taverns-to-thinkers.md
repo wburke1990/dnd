@@ -58,8 +58,9 @@ counterpart in the crews.
     (the Writ = "who you become if you win"); the Jackals = "what it costs." Deep
     hook-lines per member are in the full doc if a conversation goes long.
 - **One sign of Preem; use it once.** **Calix's pet toad is a quasit** — Preem's,
-  exactly like Batrick — and it murmurs "God" only into Calix's head. Preem watches
-  through the familiars. Don't explain it; leave it unremarked.
+  exactly like Batrick — and it murmurs only into Calix's head, and he takes it for the
+  voice of God. Preem watches through the familiars. Don't explain it; leave it
+  unremarked.
 
 **Run it in ~30–45 min:** the walk-in saga, a round of mingling (each PC to their
 counterpart), and out. No dice needed unless they push someone.
