@@ -152,10 +152,10 @@ Lines to have ready:
 
 ## Where he is now
 
-He took the *Nasira* a day and a half before the party found her
-([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md)), and he is
-working back toward the Maalm coast on what Rustam told him. The DM can move him closer
-or further off.
+**Working the approaches to Maalm**, where the coasting traffic is. He took the *Nasira*
+there a day and a half before the party found her
+([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md)), and what
+Rustam told him keeps him on this coast. The DM can move him closer or further off.
 
 ## How he shows up, in order
 

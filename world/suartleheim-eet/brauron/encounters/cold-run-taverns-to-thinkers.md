@@ -12,12 +12,13 @@ status: next
 > crossing they pick.
 
 **The shape:** the last Maalm thing they haven't seen — **the taverns** — then
-they **sail the coast toward Brauron** (the Sacred Hunt / [game
+**the burned ship in Maalm's own approaches on their first day out** (§3, and the one
+scene here keyed to Blackacre), and then on **down the coast toward Brauron** (the Sacred Hunt / [game
 preserve](the-game-preserve.md)), likely putting in at **Aar or Aal** (David has
 both TTS maps). If they get near Brauron, a **storm blows them off course** to the
 **[Island of the Thinkers](island-of-the-thinkers.md)** — a full set-piece that
 runs off its own read-aloud sheet. **They may instead head inland from the port to
-Copaa** (§6) — that works too, and the road there has its own time-travel myths to
+Copaa** (§7) — that works too, and the road there has its own time-travel myths to
 show.
 
 Each section below runs from the summary alone; the `→ full doc` link is there for
@@ -93,7 +94,7 @@ below is theirs to make and it is their mast the storm breaks.
    **run before it** (safe on the hull, blows them off course), **heave to** (saves the
    leg, risks the hull), **make for shelter** (a chase to an island/lee), or **drive
    through** (fastest, hardest). *(Run before it / a bad drive-through leads to the
-   Thinkers, §5.)*
+   Thinkers, §6.)*
 4. **The storm set-piece.** All hands to **three stations** — **Helm** (DEX/WIS),
    **Sails** (STR/DEX), **Deck** (STR/CON, or Blackacre's magic). Three phases —
    **rising / peak / breaking** — each round everyone names what they're doing and
@@ -114,7 +115,26 @@ but close, and a real monster is a thing to flee, not kill.
 
 ---
 
-## 3 · What's in the water — the sea table  `→` [bestiary/sea-beasts.md](../../../the-sea/bestiary/sea-beasts.md)
+## 3 · The first day out — the wreck  `→` [the-drifting-wreck.md](../../../the-sea/encounters/the-drifting-wreck.md)
+
+**This happens on the first day out of Maalm, in sight of the coast.** Do not save it
+for later in the voyage.
+
+Smoke on the water, and under it a burned food ship with both masts sawn out and taken,
+drifting with the current. **Sayid's ships took her at dawn a day and a half ago**, in Maalm's own approaches. Merfolk are coming up over her rail to strip her. Below, in the flooded
+after hold, one man is pinned under a beam and dying — and he is the man who told Sayid
+where to look for Blackacre.
+
+- **It is the one thing on this leg keyed to Blackacre**, and the first time Sayid
+  touches the campaign.
+- **Rustam's lines are written out** in the run sheet. Everything Blackacre learns comes
+  out of his mouth, and there is nothing written down aboard the ship.
+- **The merfolk are a real fight if it comes to one** — stat blocks in
+  [merfolk salvagers](../../../the-sea/bestiary/merfolk-salvagers.md), built for five PCs
+  at level 3. They will also bargain.
+- About **ninety minutes**. Runs off its own sheet, Part Two.
+
+## 4 · What's in the water — the sea table  `→` [bestiary/sea-beasts.md](../../../the-sea/bestiary/sea-beasts.md)
 
 **Roll once per day of open water** (anywhere on the map). Rolls **1–6** are mundane
 sea life; **7–20** are myth — most offer a **boon** for the right dealing and a
@@ -144,13 +164,6 @@ fight**, answered straight out of their own myth.
 | 19 | The Kun | Chinese | a **wonder**, not a fight — a fish that becomes a world-bird |
 | 20 | Kraken | Norse | apex — drags the hull under; break free and run |
 
-**Or place the wreck instead of rolling.**  `→` [the-drifting-wreck.md](../../../the-sea/encounters/the-drifting-wreck.md)
-A burned food ship adrift with both masts cut out and taken, boarded at dawn by Sayid's
-ships. Merfolk are stripping her; a merchant is pinned under a beam in the flooding hold,
-and he is the man who told Sayid where to look for Blackacre. **His lines are written
-out** — everything Blackacre learns comes out of his mouth. About ninety minutes, and it is the one thing on this
-leg keyed to Blackacre. Runs off its own sheet.
-
 **Run any beast in three beats:** (1) **the watch read** decides if it's a warning or
 it rises first; (2) **roll 2d6 reaction** — most want a toll, a meal, or to be left
 alone; (3) **pass/parley, run, or (rarely) fight.** At L3, the monsters are **hazards
@@ -160,7 +173,7 @@ answered out of the myth, no fight.
 
 ---
 
-## 4 · Putting in — Aar or Aal (David's maps)
+## 5 · Putting in — Aar or Aal (David's maps)
 
 A waypoint down the coast; **David has both loaded in TTS**, so lean on the map and
 keep it light.
@@ -214,7 +227,7 @@ Keep this short — it's a short stop between the tavern and the storm, not a se
 
 ---
 
-## 5 · The storm → the Island of the Thinkers  `→` [island-of-the-thinkers.md](island-of-the-thinkers.md)
+## 6 · The storm → the Island of the Thinkers  `→` [island-of-the-thinkers.md](island-of-the-thinkers.md)
 
 As they close on **Brauron**, bring the weather up to **Rising**, then a **storm.**
 If the read fails, or they **run before it / drive through** and it goes bad, the
@@ -245,7 +258,7 @@ become a dragon before the cycle is ever explained to them.
 
 ---
 
-## 6 · If they head inland instead — the Aar road to Copaa  `→` [copa-irish-beasts.md](../../raand-copaa/bestiary/copa-irish-beasts.md)
+## 7 · If they head inland instead — the Aar road to Copaa  `→` [copa-irish-beasts.md](../../raand-copaa/bestiary/copa-irish-beasts.md)
 
 The party said they might go **inland to Copaa** instead of sailing on to Brauron —
 **both work.** Don't push them to the boat. From the port, the inland road is the
@@ -309,8 +322,8 @@ comet/transformation cycle in play, long before it's ever named. Don't explain i
 ## If they go another way
 
 It's a sandbox. If they skip a tavern, sail a different way, or chase Aar's Company
-thread instead of pressing on — fine. **The sailing rules (§2) and the sea table (§3)
-carry any crossing they pick**; the inland road (§6) covers a walk to Copaa; and the
+thread instead of pressing on — fine. **The sailing rules (§2) and the sea table (§4)
+carry any crossing they pick**; the inland road (§7) covers a walk to Copaa; and the
 set-pieces to reach for are the **tavern scene** (Maalm), the **Thinkers** (a storm
 off any coast), and the **road myths** (the walk to Copaa). Brauron and the Sacred
 Hunt ([game preserve](the-game-preserve.md)) are the destination whenever they arrive

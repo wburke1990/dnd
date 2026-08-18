@@ -12,10 +12,10 @@ status: ready
 An open-water encounter for [Blackacre](../../../characters/blackacre.md), out of Sam's
 8/17 chat. **Sayid is not in it.** What is in it is a ship he took and the one survivor.
 
-Run it on any day of open water. It fits the **Maalm → Brauron** leg in place of a
-[sea-table roll](../bestiary/sea-beasts.md) — see the
+**Run it on the party's first day out of Maalm, in sight of the coast** — see the
 [cold-run packet](../../suartleheim-eet/brauron/encounters/cold-run-taverns-to-thinkers.md) §3.
-About ninety minutes. Uses the shipwreck-and-merfolk maps.
+Sayid is working Maalm's own approaches, which is why they nearly meet him. About ninety
+minutes. Uses the shipwreck-and-merfolk maps.
 
 ---
 
@@ -31,9 +31,11 @@ The **Nasira**, a coastal trader **carrying food up to Aar** — crates of fruit
 grain, oil in amphorae. Aar is two hundred years old, it has more work in it than
 farmland, and it does not grow enough to feed itself.
 
-**She left Maalm one day before the party did.** [Sayid](../../../characters/sayid.md)'s
-ships took her at dawn the next morning. She has been drifting a day and a half since,
-and she is still smoldering when the party come up on her.
+**She left Maalm two days before the party did**, and got a few hours out.
+[Sayid](../../../characters/sayid.md)'s ships took her at dawn the next morning, close
+enough in that the coast was still in sight. She has drifted a day and a half since, back
+across Maalm's approaches on the current, and she is still smoldering when the party come
+up on her.
 
 Fourteen of her crew are dead. Nine were killed on deck. Five were taken below alive.
 
@@ -62,9 +64,9 @@ have had all of it undamaged if the ship had struck her colours.
 
 How he talks and why he is like this: [Sayid](../../../characters/sayid.md).
 
-**Where he is now.** Within a day or two of this water, working back toward the Maalm
-coast on what Rustam told him. The party missed him by a day. The DM can move him closer
-or further off.
+**Where he is now.** Working this water — Maalm's approaches, where the traffic is. He
+was here yesterday and the party missed him by a day. What Rustam told him keeps him on
+this coast. The DM can move him closer or further off.
 
 ## The merfolk
 
