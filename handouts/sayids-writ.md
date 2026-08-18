@@ -15,7 +15,7 @@ hide to keep the weather off it. Print it and hand it to Sam.
 ---
 
 ```
-Put out by Sayid, who speaks for his tribes, at sea, this season.
+Put out by Sayid, master of his own ships, at sea, this season.
 
 There is a man wanted.
 

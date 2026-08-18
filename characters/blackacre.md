@@ -138,7 +138,8 @@ dragonborn nomad faction, and nothing to do with the Lonka Zealots.** What
 matters for running *him* is that his family lived among them (the anomaly
 above), which is where his druid-shipwright gift was prized:
 
-- **Sayid has co-opted an *element* of it** — unified a few of the tribes (not
+- **Sayid has co-opted an *element* of it** — he holds **a few ships** and their crews
+  `[updated — Will 8/18: ships, not tribes]` (not
   the whole fleet; neither he nor Blackacre has that kind of pull), and went
   through with the violent ship-seizure Blackacre bailed on. **[settled]**
 - Recognition rule: in a big world, Blackacre **could brush up against the
