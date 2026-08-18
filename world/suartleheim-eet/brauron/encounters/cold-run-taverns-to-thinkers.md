@@ -70,9 +70,9 @@ counterpart), and out. No dice needed unless they push someone.
 ## 2 · Leaving Maalm — sailing the coast  `→` [sailing-and-storms.md](../../../the-sea/lore/sailing-and-storms.md)
 
 They're bound for **Brauron** with the Second Hand's convoy of wealthy hunters.
-Blackacre's **sloop** sails with it (small, fast, **6 hull boxes**). *(If you'd
-rather they ride aboard the transport, fine — but keep the sloop in company so the
-storm below can blow it off with a broken mast.)*
+**The party sail Blackacre's sloop** (small, fast, **6 hull boxes**) in company with
+the convoy — there is no berth for them aboard the hunters' transport, so every check
+below is theirs to make and it is their mast the storm breaks.
 
 **The loop each leg:**
 1. **Leg length** — a coastal hop is **1 watch**; an open stretch **3–5**.
