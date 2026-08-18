@@ -21,7 +21,7 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
-| [wreck on the reef](encounters/wreck-on-the-reef.md) | `ready` | Two ships sunk together on a reef, the merfolk holding the wreck, and Sayid's writ for Blackacre |
+| [the drifting wreck](encounters/the-drifting-wreck.md) | `ready` | A burned trader adrift, the merfolk coming up onto her, and Sayid's writ in the mail |
 
 ### Bestiary
 

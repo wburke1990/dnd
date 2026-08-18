@@ -143,12 +143,12 @@ fight**, answered straight out of their own myth.
 | 19 | The Kun | Chinese | a **wonder**, not a fight — a fish that becomes a world-bird |
 | 20 | Kraken | Norse | apex — drags the hull under; break free and run |
 
-**Or place the wreck instead of rolling.**  `→` [wreck-on-the-reef.md](../../../the-sea/encounters/wreck-on-the-reef.md)
-Two ships burned and sunk together on a reef — one of Sayid's raiders and the timber
-hulk she took. Merfolk hold the wreck and want the fire off their kelp; a dragonborn
-druid is pinned under a beam in the hold; a dead courier in the stern cabin carries
-**nine copies of Sayid's writ for Blackacre** (printed handout). About ninety minutes,
-and it is the one thing on this leg keyed to Blackacre. Runs off its own sheet.
+**Or place the wreck instead of rolling.**  `→` [the-drifting-wreck.md](../../../the-sea/encounters/the-drifting-wreck.md)
+A burned trader adrift with no masts, boarded before dawn by Sayid's people. Merfolk are
+coming up out of the water onto her to take the dead; a man in fine clothing is pinned
+under a beam in the flooding hold; the ship's mail holds **nine copies of Sayid's writ
+for Blackacre** (printed handout). About ninety minutes, and it is the one thing on this
+leg keyed to Blackacre. Runs off its own sheet.
 
 **Run any beast in three beats:** (1) **the watch read** decides if it's a warning or
 it rises first; (2) **roll 2d6 reaction** — most want a toll, a meal, or to be left

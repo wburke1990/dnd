@@ -30,7 +30,7 @@ Rebuild this by hand when a thread is run. It is not generated.
 | Musa's watch-stone at the landing port — his kinsman-prophet's grave, one of the sea-road watch-stones he keeps | [aar](../world/suartleheim-eet/raand-copaa/lore/aar.md) | `reference` |
 | Musa at Haals — his own kinsman, who tells him the dragon people are kept after death and the Firbolg are not; *"power never used is power no longer"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
 | Sayid, the fleet revolt, and the recognition rule | [blackacre](blackacre.md) | **unwritten** as a meeting |
-| Sayid's writ found on a courier in a wreck, and Goodcatch under the beam | [the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md), [sayid's writ](../handouts/sayids-writ.md) | `ready` |
+| Sayid's writ in the mail of a burned trader, and the broker who was carrying it | [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md), [sayid's writ](../handouts/sayids-writ.md) | `ready` |
 | Jotunheim — the zealot/nomad rift, Arishat, the bride and the trials | [jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md), [lonka jotunheim](../world/lonka/lore/lonka-jotunheim.md) | `draft` |
 | The fleet offer at ~level 20, and what happens to Moku | [blackacre dm notes](blackacre-dm-notes.md) | `draft`, endgame |
 | The lost tribes of dragonborn | [floating fleet](../world/the-sea/lore/floating-fleet.md) | `idea` |
@@ -140,8 +140,8 @@ Own threads only, ensemble scenes excluded.
 - **Two of Aniess's backstory NPCs still have `[PLACEHOLDER NAME]`** — the warforged
   trainer and the handler, the two figures she has known longest.
 - **Blackacre's antagonist still has not appeared in person.** Sayid is now on paper in
-  play — his writ, his four tribes, and one of his crew
-  ([the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md)) — but he
+  play — his writ, and a ship his people burned
+  ([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md)) — but he
   has not been in a room with Blackacre, and Sam has said he is not ready for that yet.
 - The Brauron arc that is `next` gives Pax the stag hunt, Sarric the bee-priestesses and
   Jasper the hell-tree ruling; **Blackacre now has the wreck on the sea leg**, and

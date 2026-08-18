@@ -82,14 +82,14 @@ A **riches-to-rags** shape. **[settled — per 5/28 chat]**
 ## From the 8/17 chat `[settled — Sam]`
 
 Added straight from Sam, planning the wreck encounter
-([the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md)).
+([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md)).
 
 - **He will not spill dragonborn blood.** A rule he does not break, while he is — Sam's
   word — *"vicious everywhere else."* Sam calls the character *"ultimately
   hypocritical from the get-go."* His to play.
 - **He and Sayid want the same thing.** Both want the floating fleet and the mainland
-  brought back together. Whether Sayid pursues that alone or with the other races is
-  the DM's call; written **with the other races** in the wreck encounter.
+  brought back together. Whether Sayid goes at that alone or with the other races Sam
+  left to the DM, and it is **still open** — nothing written so far decides it.
 - **What his walking out did to Sayid.** Outsiders saw the revolt's spiritual leader
   walk away, so Sayid had to reassert control and tell a different version of it to keep
   his people. Blackacre was **not** actually a spiritual leader of the group.
@@ -215,8 +215,8 @@ above), which is where his druid-shipwright gift was prized:
 
 - **Sayid** — former friend turned antagonist; co-opted part of the Floating
   Fleet and went through with the violent ship-seizure Blackacre bailed on. He
-  holds **four tribes** and has a **dead-or-alive writ** out on Blackacre under his
-  birth name and his sea-name ([the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md),
+  has a **dead-or-alive writ** out on Blackacre under his
+  birth name and his sea-name ([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md),
   [the writ](../handouts/sayids-writ.md)). (Name "Salahadin" was considered for him
   but is being **saved for someone else — possibly the ruler of the Zealots**.)
   **[settled]**

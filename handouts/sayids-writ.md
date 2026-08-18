@@ -5,9 +5,8 @@ status: reference
 
 # Sayid's Writ
 
-Found on the courier in the raider's stern cabin at
-[the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md), in nine
-copies, each addressed to a different harbour. Print it and hand it to Sam.
+Found in the ship's mail at [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md),
+in nine copies, each addressed to a different harbour. Print it and hand it to Sam.
 
 > **Fill in the name before the session.** Sam is confirming Blackacre's birth name.
 > Until he does, leave the blank — it looks like space left for the name.
@@ -15,7 +14,7 @@ copies, each addressed to a different harbour. Print it and hand it to Sam.
 ---
 
 ```
-Put out by Sayid, who holds four tribes, at sea, this season.
+Put out by Sayid, who speaks for his tribes, at sea, this season.
 
 There is a man wanted.
 
