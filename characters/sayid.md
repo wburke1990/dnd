@@ -154,7 +154,7 @@ Lines to have ready:
 
 Within a day or two of the water in
 [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md), working toward
-the Maalm coast on what Ruston told him. The DM can move him closer or further off.
+the Maalm coast on what Rustam told him. The DM can move him closer or further off.
 
 ## How he shows up, in order
 

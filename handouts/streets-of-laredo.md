@@ -1,5 +1,5 @@
 ---
-summary: The Streets of Laredo, the cowboy's lament — the source Ruston's dying lines are built from
+summary: The Streets of Laredo, the cowboy's lament — the source Rustam's dying lines are built from
 status: reference
 ---
 
@@ -12,7 +12,7 @@ instructions for his own funeral, asks for a cup of cold water, and dies before 
 comes back.
 
 **Used at** [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md).
-Ruston's lines are built on this — the recognition, the instructions for the body, the
+Rustam's lines are built on this — the recognition, the instructions for the body, the
 drum, the cup of water, and *"I know I've done wrong."* **Do not flatten those lines in
 a style pass. They are meant to sound like this.**
 
@@ -58,12 +58,12 @@ And gone to his Maker — the cowboy was dead.
 
 ## How it is used
 
-- **The recognition.** *"I see by your outfit that you are a cowboy"* becomes Ruston
+- **The recognition.** *"I see by your outfit that you are a cowboy"* becomes Rustam
   seeing the scales and knowing who he is looking at.
 - **The instructions.** The cowboy arranges his own funeral in the middle of dying.
-  Ruston does the same, and what he asks for — ground, not water — is the one thing the
+  Rustam does the same, and what he asks for — ground, not water — is the one thing the
   merfolk will not give him.
-- **The drum.** *"Beat the drum slowly."* Ruston has had drums. He asks for none.
+- **The drum.** *"Beat the drum slowly."* Rustam has had drums. He asks for none.
 - **The cup of water.** He asks for it, somebody goes, and he is dead when they get
   back.
 - **The confession.** *"I know I've done wrong."* He told Sayid where to find Blackacre,
