@@ -177,6 +177,23 @@ saint [Arishat](../../../characters/arishat.md) and
 [Blackacre](../../../characters/blackacre.md) already share, and neither of them has ever had
 occasion to notice.
 
+## The sea-names
+
+`[settled — Sam, 8/17 chat]` A dragonborn druid working the water goes under an
+assumed name, and the assumed names are all nature-tells: **Blackacre**, **Cloudburst**,
+**Fairwind**, **Goodcatch**. They are easy to decipher and they are not meant to hide
+anything but the man. Another dragonborn druid reads one on sight and knows the trade
+and the kind; a harbourmaster writes it in the book as a name.
+
+**Blackacre** is a good plot of land. Sam picked it out of real property law, and it
+means what the others mean.
+
+The custom is the druids', not the zealots' and not the fleet's, and it holds across
+both branches — a wandering nomad and an Amatssou aboard a Fleet hull use the same
+convention. It is the reason the writ in
+[the wreck on the reef](../encounters/wreck-on-the-reef.md) carries both his birth name
+and his sea-name: the men Sayid is paying include people who only know the one.
+
 ## The Eldest — Bedraageon
 
 The progenitor and the template: a dragonborn who crossed the water alone
@@ -231,8 +248,8 @@ ones reuse poems already in the repo; the rest are flagged).
   shaped the waters. **[draft]**
 - **Death & watch-stone:** drowned **pulling up one island too many** —
   hubris, or the line simply snapped. No body was ever found, so his is a
-  **cenotaph**: a lone basalt stack on the **youngest volcanic isle**,
-  watch but no grave.
+  **cenotaph**: a single pillar of basalt on the **youngest volcanic isle**,
+  with no grave under it.
 - **Inscription:** **[draft / TBD]** — a fragment about the sea taking
   back what it lends. Good slot for a player or DM choice later.
 

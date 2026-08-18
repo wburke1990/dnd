@@ -19,7 +19,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 5 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 33 | The conquest-city and the Valley of the Kings. Played out. |
 | [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 7 | Raand, Copaa, Aar and the Haals mines. |
-| [the-sea](world/the-sea/README.md) | 7 | Sailing, weather, fleets and what lives in the water. |
+| [the-sea](world/the-sea/README.md) | 8 | Sailing, weather, fleets and what lives in the water. |
 
 ## kalikhat
 
@@ -249,6 +249,12 @@ Sailing, weather, fleets and what lives in the water.
 | [ships and sea power](world/the-sea/lore/ships-and-sea-power.md) | `reference` | Who builds the ships, who controls the water, and the battles that decided it |
 | [wandering dragonborn](world/the-sea/lore/wandering-dragonborn.md) | `reference` | The solitary dragonborn saints of the sea and the watch-stones raised for them |
 
+### Encounters
+
+| File | Status | What it is |
+|---|---|---|
+| [wreck on the reef](world/the-sea/encounters/wreck-on-the-reef.md) | `ready` | Two ships sunk together on a reef, the merfolk holding the wreck, and Sayid's writ for Blackacre |
+
 ### Bestiary
 
 | File | Status | What it is |
@@ -317,6 +323,7 @@ Sailing, weather, fleets and what lives in the water.
 | [recessional](handouts/recessional.md) | `reference` | Kipling, "Recessional" — lament over the drowned caldera of Lonka, placement open |
 | [requiem](handouts/requiem.md) | `reference` | R. L. Stevenson, "Requiem" — the inscription on Idris the Tide-Strong's watch-stone |
 | [revelation 6 pale horse](handouts/revelation-6-pale-horse.md) | `reference` | Revelation 6 in the King James — the pale horse, cut into Musa's watch-stone |
+| [sayids writ](handouts/sayids-writ.md) | `reference` | Sayid's bounty on Blackacre, carried in nine copies by a dead courier |
 | [seafarer grave gold](handouts/seafarer-grave-gold.md) | `reference` | Old English "The Seafarer," trans. Pound — a tomb warning that grave-gold is no use to the dead |
 | [shipwrecked sailor](handouts/shipwrecked-sailor.md) | `reference` | The Egyptian Tale of the Shipwrecked Sailor — the Tomb 2 inner chamber text |
 | [shop price list](handouts/shop-price-list.md) | `reference` | 5e price tables for shops, taverns, gear, mounts, and spellcasting services |

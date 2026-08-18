@@ -17,6 +17,12 @@ Sailing, weather, fleets and what lives in the water.
 | [ships and sea power](lore/ships-and-sea-power.md) | `reference` | Who builds the ships, who controls the water, and the battles that decided it |
 | [wandering dragonborn](lore/wandering-dragonborn.md) | `reference` | The solitary dragonborn saints of the sea and the watch-stones raised for them |
 
+### Encounters
+
+| File | Status | What it is |
+|---|---|---|
+| [wreck on the reef](encounters/wreck-on-the-reef.md) | `ready` | Two ships sunk together on a reef, the merfolk holding the wreck, and Sayid's writ for Blackacre |
+
 ### Bestiary
 
 | File | Status | What it is |

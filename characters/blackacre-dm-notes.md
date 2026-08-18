@@ -111,7 +111,10 @@ This choice shouldn't be the first time he faces it, so put smaller versions of 
 in front of him along the way: power over a beaten enemy, and what he does with it. The
 **watch-stone graves** are one place to do this — improvise a moral choice there,
 tuned to where he is at the time (see
-[lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)). Others: the first
+[lore/wandering-dragonborn.md](../world/the-sea/lore/wandering-dragonborn.md)). Another is
+**Goodcatch** in [the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md):
+one of Sayid's crew, pulled out from under a beam, obliged to report she saw him, and in
+the boat. Others: the first
 dragonborn meeting on the **Maalm docks** (hook #3 on the sheet), the **bride and the
 coming-of-age trials** at Jotunheim
 ([Jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md)), and a **zealot loyalty

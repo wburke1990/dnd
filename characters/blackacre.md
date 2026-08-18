@@ -79,6 +79,33 @@ A **riches-to-rags** shape. **[settled — per 5/28 chat]**
   is the lever that makes it possible, so tying that to an overarching story
   works for him. **[settled]**
 
+## From the 8/17 chat `[settled — Sam]`
+
+Added straight from Sam, planning the wreck encounter
+([the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md)).
+
+- **He will not spill dragonborn blood.** A rule he does not break, while he is — Sam's
+  word — *"vicious everywhere else."* Sam calls the character *"ultimately
+  hypocritical from the get-go."* His to play.
+- **He and Sayid want the same thing.** Both want the floating fleet and the mainland
+  brought back together. Whether Sayid pursues that alone or with the other races is
+  the DM's call; written **with the other races** in the wreck encounter.
+- **What his walking out did to Sayid.** Outsiders saw the revolt's spiritual leader
+  walk away, so Sayid had to reassert control and tell a different version of it to keep
+  his people. Blackacre was **not** actually a spiritual leader of the group.
+- **Who the mutineers were.** Tradesmen, fighters and sailors — not druids.
+- **What Sayid wants now.** He takes it as a personal betrayal. He would post a
+  dead-or-alive bounty, and would rather have him brought in — to imprison, to bring
+  him back around, or to speak to him before killing him.
+- **The sea-names.** Dragonborn druid pirates sail under assumed names, all of them
+  taken from natural features: **Blackacre**, **Cloudburst**, **Fairwind**,
+  **Goodcatch**. The names are easy to decipher and they identify nobody. *Blackacre* is
+  real-world property law for a good plot of land. Another dragonborn druid recognizes
+  the name as one of these. Full note in
+  [the Wandering](../world/the-sea/lore/wandering-dragonborn.md) — *the sea-names*.
+- **Still to confirm:** his birth name. Sam was checking; the writ handout has a slot
+  for it.
+
 ## The endgame — the fleet offer (~level 20) `[draft]`
 
 At **~level 20** the Jotunheim dragonborn ask him to lead their fleet to Moku, and his
@@ -187,8 +214,10 @@ above), which is where his druid-shipwright gift was prized:
 ## Key NPCs
 
 - **Sayid** — former friend turned antagonist; co-opted part of the Floating
-  Fleet and went through with the violent ship-seizure Blackacre bailed on. The
-  emotional center of Blackacre's arc. (Name "Salahadin" was considered for him
+  Fleet and went through with the violent ship-seizure Blackacre bailed on. He
+  holds **four tribes** and has a **dead-or-alive writ** out on Blackacre under his
+  birth name and his sea-name ([the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md),
+  [the writ](../handouts/sayids-writ.md)). (Name "Salahadin" was considered for him
   but is being **saved for someone else — possibly the ruler of the Zealots**.)
   **[settled]**
 - **Preem** — issued the letter of marque that brings Blackacre to Maalm.

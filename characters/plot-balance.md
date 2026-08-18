@@ -29,7 +29,8 @@ Rebuild this by hand when a thread is run. It is not generated.
 | Watch-stones on the sea-roads, and finishing Idris's labor | [wandering dragonborn](../world/the-sea/lore/wandering-dragonborn.md) | `reference`, no scene written |
 | Musa's watch-stone at the landing port — his kinsman-prophet's grave, one of the sea-road watch-stones he keeps | [aar](../world/suartleheim-eet/raand-copaa/lore/aar.md) | `reference` |
 | Musa at Haals — his own kinsman, who tells him the dragon people are kept after death and the Firbolg are not; *"power never used is power no longer"* | [the mines of haals](../world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` |
-| Sayid, the fleet revolt, and the recognition rule | [blackacre](blackacre.md) | **unwritten** |
+| Sayid, the fleet revolt, and the recognition rule | [blackacre](blackacre.md) | **unwritten** as a meeting |
+| Sayid's writ found on a courier in a wreck, and Goodcatch under the beam | [the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md), [sayid's writ](../handouts/sayids-writ.md) | `ready` |
 | Jotunheim — the zealot/nomad rift, Arishat, the bride and the trials | [jotunheim as guests](../world/lonka/encounters/jotunheim-as-guests.md), [lonka jotunheim](../world/lonka/lore/lonka-jotunheim.md) | `draft` |
 | The fleet offer at ~level 20, and what happens to Moku | [blackacre dm notes](blackacre-dm-notes.md) | `draft`, endgame |
 | The lost tribes of dragonborn | [floating fleet](../world/the-sea/lore/floating-fleet.md) | `idea` |
@@ -118,7 +119,7 @@ Own threads only, ensemble scenes excluded.
 
 | PC | Run | Written, not yet run | Nothing written |
 |---|---|---|---|
-| Blackacre | 3 | 4 | 3 |
+| Blackacre | 3 | 5 | 3 |
 | Sarric | 3 | 6 | 1 |
 | Pax | 4 | 7 | 0 |
 | Jasper | 4 | 3 | 2 |
@@ -138,7 +139,10 @@ Own threads only, ensemble scenes excluded.
   Company town, and no encounter goes there.
 - **Two of Aniess's backstory NPCs still have `[PLACEHOLDER NAME]`** — the warforged
   trainer and the handler, the two figures she has known longest.
-- **Blackacre's antagonist has never appeared.** Sayid drives that arc and exists only on
-  the sheet.
+- **Blackacre's antagonist still has not appeared in person.** Sayid is now on paper in
+  play — his writ, his four tribes, and one of his crew
+  ([the wreck on the reef](../world/the-sea/encounters/wreck-on-the-reef.md)) — but he
+  has not been in a room with Blackacre, and Sam has said he is not ready for that yet.
 - The Brauron arc that is `next` gives Pax the stag hunt, Sarric the bee-priestesses and
-  Jasper the hell-tree ruling; it gives Aniess and Blackacre nothing keyed to them.
+  Jasper the hell-tree ruling; **Blackacre now has the wreck on the sea leg**, and
+  Aniess still has nothing keyed to her.
