@@ -24,6 +24,7 @@
 | [preems demons](preems-demons.md) | `reference` | The demons Preem has bound, who staff his tower and pay the party for names |
 | [sarric dm notes](sarric-dm-notes.md) | `reference` | DM notes on Sarric — the camp, the wanted posters, and the dreams out of the ground |
 | [sarric](sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
+| [sayid](sayid.md) | `reference` | Blackacre's former friend, who holds a few ships and cannot back down in front of his crew |
 | [shepard](shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
 | [the children](the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |
 | [the psychic bat](the-psychic-bat.md) | `reference` | Jasper's familiar, in fact a quasit Preem planted as a spy |

@@ -96,7 +96,8 @@ Added straight from Sam, planning the wreck encounter
 - **Who the mutineers were.** Tradesmen, fighters and sailors — not druids.
 - **What Sayid wants now.** He takes it as a personal betrayal. He would post a
   dead-or-alive bounty, and would rather have him brought in — to imprison, to bring
-  him back around, or to speak to him before killing him.
+  him back around, or to speak to him before killing him. How we run him is in
+  [sayid.md](sayid.md).
 - **The sea-names.** Dragonborn druid pirates sail under assumed names, all of them
   taken from natural features: **Blackacre**, **Cloudburst**, **Fairwind**,
   **Goodcatch**. The names are easy to decipher and they identify nobody. *Blackacre* is

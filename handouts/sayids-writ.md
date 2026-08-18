@@ -1,12 +1,13 @@
 ---
-summary: Sayid's bounty on Blackacre, carried in nine copies by a dead courier
+summary: Sayid's bounty on Blackacre, nailed to the mast stump of a ship he took
 status: reference
 ---
 
 # Sayid's Writ
 
-Found in the ship's mail at [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md),
-in nine copies, each addressed to a different harbour. Print it and hand it to Sam.
+Nailed to the stump of the mainmast at
+[the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md), under a scrap of
+hide to keep the weather off it. Print it and hand it to Sam.
 
 > **Fill in the name before the session.** Sam is confirming Blackacre's birth name.
 > Until he does, leave the blank — it looks like space left for the name.
@@ -37,8 +38,8 @@ Say to him also that he was asked once.
 
 ## Notes
 
-- **Nine copies, nine harbours** — Mukka, Aar, Aal, and six more. None of them was
-  addressed to Blackacre.
+- **There were more of them in the boat.** Sayid's people nail one to every hull they
+  take and carry the rest on. Rustam watched them do it.
 - **"We do not pay in timber"** — the fleets cannot grow wood and cannot buy it in
   quantity ([floating fleet](../world/the-sea/lore/floating-fleet.md)). The price is two
   hundred in gold; timber is not offered.

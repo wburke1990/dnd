@@ -19,7 +19,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 5 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 33 | The conquest-city and the Valley of the Kings. Played out. |
 | [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 7 | Raand, Copaa, Aar and the Haals mines. |
-| [the-sea](world/the-sea/README.md) | 8 | Sailing, weather, fleets and what lives in the water. |
+| [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
 
 ## kalikhat
 
@@ -253,12 +253,13 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
-| [the drifting wreck](world/the-sea/encounters/the-drifting-wreck.md) | `ready` | A burned trader adrift, the merfolk coming up onto her, and Sayid's writ in the mail |
+| [the drifting wreck](world/the-sea/encounters/the-drifting-wreck.md) | `ready` | A burned food ship adrift, merfolk salvaging her, and the man Sayid let live |
 
 ### Bestiary
 
 | File | Status | What it is |
 |---|---|---|
+| [merfolk salvagers](world/the-sea/bestiary/merfolk-salvagers.md) | `ready` | Stat blocks for the merfolk and merrow who strip drifting wrecks, tuned for five level-3 PCs |
 | [sea beasts](world/the-sea/bestiary/sea-beasts.md) | `reference` | A d20 table of sea creatures from world mythology, rolled per day at sea |
 
 ## characters
@@ -285,6 +286,7 @@ Sailing, weather, fleets and what lives in the water.
 | [preems demons](characters/preems-demons.md) | `reference` | The demons Preem has bound, who staff his tower and pay the party for names |
 | [sarric dm notes](characters/sarric-dm-notes.md) | `reference` | DM notes on Sarric — the camp, the wanted posters, and the dreams out of the ground |
 | [sarric](characters/sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
+| [sayid](characters/sayid.md) | `reference` | Blackacre's former friend, who holds a few ships and cannot back down in front of his crew |
 | [shepard](characters/shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
 | [the children](characters/the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |
 | [the psychic bat](characters/the-psychic-bat.md) | `reference` | Jasper's familiar, in fact a quasit Preem planted as a spy |
@@ -323,7 +325,7 @@ Sailing, weather, fleets and what lives in the water.
 | [recessional](handouts/recessional.md) | `reference` | Kipling, "Recessional" — lament over the drowned caldera of Lonka, placement open |
 | [requiem](handouts/requiem.md) | `reference` | R. L. Stevenson, "Requiem" — the inscription on Idris the Tide-Strong's watch-stone |
 | [revelation 6 pale horse](handouts/revelation-6-pale-horse.md) | `reference` | Revelation 6 in the King James — the pale horse, cut into Musa's watch-stone |
-| [sayids writ](handouts/sayids-writ.md) | `reference` | Sayid's bounty on Blackacre, carried in nine copies by a dead courier |
+| [sayids writ](handouts/sayids-writ.md) | `reference` | Sayid's bounty on Blackacre, nailed to the mast stump of a ship he took |
 | [seafarer grave gold](handouts/seafarer-grave-gold.md) | `reference` | Old English "The Seafarer," trans. Pound — a tomb warning that grave-gold is no use to the dead |
 | [shipwrecked sailor](handouts/shipwrecked-sailor.md) | `reference` | The Egyptian Tale of the Shipwrecked Sailor — the Tomb 2 inner chamber text |
 | [shop price list](handouts/shop-price-list.md) | `reference` | 5e price tables for shops, taverns, gear, mounts, and spellcasting services |

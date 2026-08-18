@@ -144,10 +144,10 @@ fight**, answered straight out of their own myth.
 | 20 | Kraken | Norse | apex — drags the hull under; break free and run |
 
 **Or place the wreck instead of rolling.**  `→` [the-drifting-wreck.md](../../../the-sea/encounters/the-drifting-wreck.md)
-A burned trader adrift with no masts, boarded before dawn by Sayid's people. Merfolk are
-coming up out of the water onto her to take the dead; a man in fine clothing is pinned
-under a beam in the flooding hold; the ship's mail holds **nine copies of Sayid's writ
-for Blackacre** (printed handout). About ninety minutes, and it is the one thing on this
+A burned food ship adrift with both masts cut out and taken, boarded at dawn by Sayid's
+ships. Merfolk are stripping her; a merchant is pinned under a beam in the flooding hold,
+and he is the man who told Sayid where to look for Blackacre; **Sayid's writ is nailed to
+the mast stump** (printed handout). About ninety minutes, and it is the one thing on this
 leg keyed to Blackacre. Runs off its own sheet.
 
 **Run any beast in three beats:** (1) **the watch read** decides if it's a warning or

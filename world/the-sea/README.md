@@ -21,12 +21,13 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
-| [the drifting wreck](encounters/the-drifting-wreck.md) | `ready` | A burned trader adrift, the merfolk coming up onto her, and Sayid's writ in the mail |
+| [the drifting wreck](encounters/the-drifting-wreck.md) | `ready` | A burned food ship adrift, merfolk salvaging her, and the man Sayid let live |
 
 ### Bestiary
 
 | File | Status | What it is |
 |---|---|---|
+| [merfolk salvagers](bestiary/merfolk-salvagers.md) | `ready` | Stat blocks for the merfolk and merrow who strip drifting wrecks, tuned for five level-3 PCs |
 | [sea beasts](bestiary/sea-beasts.md) | `reference` | A d20 table of sea creatures from world mythology, rolled per day at sea |
 
 <!-- END GENERATED INDEX -->
