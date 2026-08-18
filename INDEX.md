@@ -253,7 +253,7 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
-| [the drifting wreck](world/the-sea/encounters/the-drifting-wreck.md) | `ready` | A burned food ship adrift, merfolk salvaging her, and the man Sayid let live |
+| [the drifting wreck](world/the-sea/encounters/the-drifting-wreck.md) | `ready` | A burned food ship adrift, merfolk stripping her, and the man who told Sayid where to find Blackacre |
 
 ### Bestiary
 
@@ -325,7 +325,6 @@ Sailing, weather, fleets and what lives in the water.
 | [recessional](handouts/recessional.md) | `reference` | Kipling, "Recessional" — lament over the drowned caldera of Lonka, placement open |
 | [requiem](handouts/requiem.md) | `reference` | R. L. Stevenson, "Requiem" — the inscription on Idris the Tide-Strong's watch-stone |
 | [revelation 6 pale horse](handouts/revelation-6-pale-horse.md) | `reference` | Revelation 6 in the King James — the pale horse, cut into Musa's watch-stone |
-| [sayids writ](handouts/sayids-writ.md) | `reference` | Sayid's bounty on Blackacre, nailed to the mast stump of a ship he took |
 | [seafarer grave gold](handouts/seafarer-grave-gold.md) | `reference` | Old English "The Seafarer," trans. Pound — a tomb warning that grave-gold is no use to the dead |
 | [shipwrecked sailor](handouts/shipwrecked-sailor.md) | `reference` | The Egyptian Tale of the Shipwrecked Sailor — the Tomb 2 inner chamber text |
 | [shop price list](handouts/shop-price-list.md) | `reference` | 5e price tables for shops, taverns, gear, mounts, and spellcasting services |

@@ -146,8 +146,8 @@ fight**, answered straight out of their own myth.
 **Or place the wreck instead of rolling.**  `→` [the-drifting-wreck.md](../../../the-sea/encounters/the-drifting-wreck.md)
 A burned food ship adrift with both masts cut out and taken, boarded at dawn by Sayid's
 ships. Merfolk are stripping her; a merchant is pinned under a beam in the flooding hold,
-and he is the man who told Sayid where to look for Blackacre; **Sayid's writ is nailed to
-the mast stump** (printed handout). About ninety minutes, and it is the one thing on this
+and he is the man who told Sayid where to look for Blackacre. **His lines are written
+out** — everything Blackacre learns comes out of his mouth. About ninety minutes, and it is the one thing on this
 leg keyed to Blackacre. Runs off its own sheet.
 
 **Run any beast in three beats:** (1) **the watch read** decides if it's a warning or

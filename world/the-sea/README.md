@@ -21,7 +21,7 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
-| [the drifting wreck](encounters/the-drifting-wreck.md) | `ready` | A burned food ship adrift, merfolk salvaging her, and the man Sayid let live |
+| [the drifting wreck](encounters/the-drifting-wreck.md) | `ready` | A burned food ship adrift, merfolk stripping her, and the man who told Sayid where to find Blackacre |
 
 ### Bestiary
 

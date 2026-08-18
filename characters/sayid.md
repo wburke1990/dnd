@@ -22,8 +22,9 @@ He first appears in play without being present, at
 
 ## Who he is
 
-- **A halfling or a dragonborn.** `[OPEN — see below]` It affects how the arc ends, so
-  it is set out at the bottom rather than settled here.
+- **A halfling.** **[settled — Will 8/18]** So Blackacre's rule about not spilling
+    dragonborn blood does not cover him, and it will not decide anything when the two of
+    them finally meet.
 - **Blackacre's age**, near enough. They were boys together and came of age together.
   **[settled — Sam]**
 - **Not a druid, and not a shipwright.** He is a sailor and a talker. Every practical
@@ -113,10 +114,10 @@ He is not wrong about any of it.
 
 ## What he wants from Blackacre now
 
-**Him back, on his own feet.** The writ says two hundred alive and half that dead
-([the handout](../handouts/sayids-writ.md)), and the dead half is there because he has to
-be seen to have a price on the man, not because he wants him dead. Sam's own reading:
-imprison him, bring him back around, or have it out with him first. **[settled — Sam]**
+**Him back, on his own feet.** He is telling people there is money on him — two hundred
+alive, half that dead — and the dead half is there because he has to be seen to have a
+price on the man. He does not want him dead. Sam's own reading: imprison him, bring him
+back around, or have it out with him first. **[settled — Sam]**
 
 He also needs a druid, and there is no other one he can get
 ([the floating fleet](../world/the-sea/lore/floating-fleet.md)). He wants both, and he
@@ -160,30 +161,17 @@ the Maalm coast on what Rustam told him. The DM can move him closer or further o
 He appears at a distance first and closer later. Sam has said he is not ready to meet
 him yet.
 
-1. **Paper.** The writ nailed to a mast stump — [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md).
-2. **Somebody who has met him.** A survivor, a port-side rumour, one of the crews that
-   went back.
+1. **Somebody he questioned.** The survivor at [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md),
+   who heard him ask after Blackacre by name.
+2. **Word in a port.** A rumour on a wharf, or one of the crews that went back to the
+   fleet after the mutiny.
 3. **A ship of his, at a distance.** Drums over open water, and a sail that holds the
    same distance off all day.
 4. **A boarding, with Sayid not aboard** — his people, his terms, his question.
 5. **The two of them in a room**, when Sam says he is ready.
 
-## `[OPEN]` — is he dragonborn?
-
-The one decision that changes the ending. Sam's rule is that Blackacre **will not spill
-dragonborn blood**.
-
-- **If Sayid is dragonborn**, the rule applies when the two of them finally meet.
-  Whatever Sayid has done by then, Blackacre has said in front of the party that he will
-  not kill him.
-- **If Sayid is a halfling**, the rule does not apply at the end. The hypocrisy Sam named
-  comes up again along the way without deciding how the arc finishes.
-
-**Recommendation: dragonborn.** It also gives a reason the two boys found each other in a
-majority-halfling fleet. It is Sam's backstory, so ask him before writing it in.
-
 ## Other open threads
 
 - With the other races or without them. Sam's question, left to us.
 - Whether the reunification is something the party could end up helping with.
-- What Blackacre's birth name is, which the writ needs.
+- What Blackacre's birth name is. Sayid's people are asking after him by it.

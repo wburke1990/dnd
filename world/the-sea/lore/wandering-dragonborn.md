@@ -190,9 +190,9 @@ means what the others mean.
 
 The custom is the druids', not the zealots' and not the fleet's, and it holds across
 both branches — a wandering nomad and an Amatssou aboard a Fleet hull use the same
-convention. It is the reason the writ in
-[the drifting wreck](../encounters/the-drifting-wreck.md) carries both his birth name
-and his sea-name: the men Sayid is paying include people who only know the one.
+convention. It is why Sayid's people ask after Blackacre by both names at
+[the drifting wreck](../encounters/the-drifting-wreck.md): the men they are asking
+include people who only know the one.
 
 ## The Eldest — Bedraageon
 

@@ -1,13 +1,16 @@
 ---
-summary: A burned food ship adrift, merfolk salvaging her, and the man Sayid let live
+summary: A burned food ship adrift, merfolk stripping her, and the man who told Sayid where to find Blackacre
 status: ready
 ---
 
 # The Drifting Wreck
 
-An open-water encounter, built for [Blackacre](../../../characters/blackacre.md) out of
-Sam's 8/17 chat. Sayid is not in it. A ship he took is, with one man alive aboard her
-and Sayid's writ nailed to the stump of her mainmast.
+> **How to use this doc.** Two parts. **Part One is background** — read once in prep,
+> not needed at the table. **Part Two is the run sheet**, in play order: what they see,
+> hear, smell and feel, what Rustam says, and the rolls. Run the session from Part Two.
+
+An open-water encounter for [Blackacre](../../../characters/blackacre.md), out of Sam's
+8/17 chat. **Sayid is not in it.** What is in it is a ship he took and the one man he left alive.
 
 Run it on any day of open water. It fits the **Maalm → Brauron** leg in place of a
 [sea-table roll](../bestiary/sea-beasts.md) — see the
@@ -16,160 +19,140 @@ About ninety minutes. Uses the shipwreck-and-merfolk maps.
 
 ---
 
-## What is out there
+# PART ONE — BACKGROUND
 
-The **Nasira**, a coastal trader **carrying food up to Aar** — crates of fruit, sacked
-grain, and oil in amphorae. Aar is a two-hundred-year-old boomtown with more work than
-fields, and its food comes in by sea. **She left Maalm one day before the party
-did.** Sayid's ships took her at dawn the next morning.
-She has been drifting since — a day and a half — and she is still smoldering when the
-party raise her.
-
-- **No masts.** Both were **cut out and taken.** The stumps are sawn flat and the
-  shrouds were cut away at the chainplates. There are chips and shavings trodden into
-  the deck.
-- **She is listing to port and down by the stern**, going with the current at about the
-  speed a man walks. No one is at the helm.
-- **The deck burned through** in the waist. What is left burning is oil in the hold, low
-  and slow, with little left to take.
-- **Fourteen of the crew are dead** — most killed on deck as the boarders came over,
-  five taken below alive and cut apart there.
-- **The merfolk found her this morning**, adrift, and are stripping her. They had
-  nothing to do with what happened aboard.
-- **One man is alive** — **Rustam**, a merchant passenger, pinned under a fallen beam in
-  the flooded after end of the hold, and there since the deck came down.
-- **The writ is nailed to the stump of the mainmast**, under a scrap of hide to keep
-  the weather off it.
-
-**Who did it.** Sayid's ships. The hulls that came alongside were lashed, not riveted —
-fleet build, not dwarf-built ([ships and sea power](../lore/ships-and-sea-power.md)) —
-and the mast stumps are saw work, not storm damage. Blackacre reads both on sight.
+*Read in prep. Not needed at the table.*
 
 ---
 
-## Why each of them is here  `[DM rulings — none of this touches the dragonborn lore]`
+## The ship
 
-### Sayid — he came for the wood, and he came asking about a druid
+The **Nasira**, a coastal trader **carrying food up to Aar** — crates of fruit, sacked
+grain, oil in amphorae. Aar is two hundred years old, it has more work in it than
+farmland, and it does not grow enough to feed itself.
 
-He holds **a few ships**, and a few ships that never make port have to take their
-timber, water, iron and cordage off somebody. **The masts were what he came for.** They
-were cut out and swayed across while the boarders held the deck.
+**She left Maalm one day before the party did.** [Sayid](../../../characters/sayid.md)'s
+ships took her at dawn the next morning. She has been drifting a day and a half since,
+and she is still smoldering when the party come up on her.
 
-He is also **hunting Blackacre**, and he is doing it ship by ship. Every hull he takes
-gets the same question.
+Fourteen of her crew are dead. Nine were killed on deck. Five were taken below alive.
 
-**What he did, in order:**
+## What Sayid did, and what it cost him
 
-1. **He gave no quarter.** No demand to strike, no terms. His people came over the rail
-   and killed the crew where they stood.
-2. **He took the masts** and the cordage and the water, and searched her stem to stern.
-3. **He had the wounded dragged below** and asked them, one at a time, where they had
-   last seen a dragonborn druid. He told them what would happen if they had nothing.
-   They had nothing, and he had said it in front of his own crew, so he did it — badly,
-   with a boarding axe, several blows to a limb. The five bodies in the hold are from
-   this. See [Sayid](../../../characters/sayid.md) for how to play him.
-4. **A lamp went over during the search** and the oil went up. The fire took the rest of
-   the hull and the cargo with it, and he had to cut his own boats clear of her.
-5. **He left one man alive** — the one who gave him an answer — and nailed a writ to
-   the mast stump on his way over the side.
+He holds a few ships. Ships that never make port take their timber, water, iron and
+cordage off somebody, and **he came for the masts.**
 
-**What he got and what it cost him.** He got two masts. He lost a hull he could have
-sailed, a hold of food he could have eaten or sold, and fourteen sailors he could have
-put to work on ships that are short of hands. A ship that strikes her colours gives him
-all of it and costs him nothing. He boarded instead, and then a lamp went over.
+1. **No hail and no terms.** His people came over the rail in the dark and killed the
+   crew where they stood.
+2. **They cut both masts out** and swayed them across to their own hulls, and searched
+   the ship stem to stern. That took hours.
+3. **The wounded went below.** He asked them one at a time where they had last seen a
+   dragonborn druid, and he told them what would happen if nobody knew. Nobody knew, and
+   he had said it in front of his own crew, so he did it, with a boarding axe. It took
+   several blows to a limb and he did not stop until he had asked all five.
+4. **A lamp went over** during the search and the oil went up. The fire took the hull and
+   the cargo, and his people had to cut their boats clear of her.
+5. **He left one man alive** — the one who answered.
 
-**Where he is now.** Within a day or two of this water, and working toward the Maalm
-coast on what Rustam told him. The party missed him by one day. The DM can move him
-closer or further off.
+**He got two masts.** He lost the hull, the food in the hold, and fourteen sailors, on
+ships that are short of hands. A ship that strikes her colours hands him all of it for
+nothing.
 
-### The merfolk — they found a drifting wreck and it is full of worked metal
+How he talks and why he is like this: [Sayid](../../../characters/sayid.md).
 
-No arrangement, nobody paid them, and they were not called. **They came on her this
-morning** the way anyone comes on a drifting hull, and a hull is worth more to them than
-almost anything in the water: iron, brass, glass, tools, nails, cloth, sealed jars.
-Things that cannot be made underwater and do not grow.
+**Where he is now.** Within a day or two of this water, working back toward the Maalm
+coast on what Rustam told him. The party missed him by a day. The DM can move him closer
+or further off.
 
-They are also **stripping the dead** — rings, buckles, knives, anything metal — and
-putting the bodies over the side after. They did not kill anyone aboard and they did not
-cut anyone up.
+## The merfolk
 
-They found her adrift, so by their reckoning she is theirs, and they will fight for her.
-They will also trade, and they drive a fair bargain.
+Nobody sent them and nobody paid them. **They found her adrift this morning**, and a
+hull is worth more to them than anything else in the water: iron, brass, glass, nails,
+tools, sealed jars. Things that cannot be made underwater and do not grow.
 
-**The merfolk value the man in the hold above the cargo.** A live merchant in good
-clothes is worth more than the iron, because the coast pays to have such men back. So
-they will haggle for him rather than kill him.
+They are stripping the dead of rings, buckles and knives, and putting the bodies over the
+side afterward. They did not kill anyone aboard and they did not cut anyone up.
 
-**What the party can get by talking:** the merfolk saw the two hulls at a distance
-yesterday, standing away north — sails, drums, and boats towing two spars each.
+They found her, so by their reckoning she is theirs, and they will fight for her. They
+will also trade, and they trade fairly. **They value the living man below decks
+above the whole cargo**, because the coast pays to have such men back.
 
-### Rustam — he was left alive for telling them about Blackacre
+Stat blocks: [merfolk salvagers](../bestiary/merfolk-salvagers.md).
 
-**He was in Maalm.** He watched a party come up the street bloodied, a dragonborn druid
-among them, on their way to Lucrecia's house
-([session 07](../../../sessions/session-07.md)). He left port the next morning on the
-*Nasira*, one day ahead of the party.
+## Rustam
 
-When Sayid's people had him below with the others and asked their question, he had an
-answer, and he gave it: a dragonborn druid, bleeding, in Maalm, with four others. They
-did not cut him.
+A merchant passenger, forty, in good clothes that have been in the water for a day and a
+half.
 
-They left him where he lay and went over the side. The fire reached the after hold an
-hour later and the deck came down on his legs.
+**He was in Maalm.** He watched a bloodied party come up the street, a dragonborn druid
+among them, going to Lucrecia's house
+([session 07](../../../sessions/session-07.md)). He sailed the next morning, one day
+ahead of them.
 
-**He can tell them about the paper.** There were more of them in the boat alongside.
-They nailed one to the mast and took the rest away, and the man giving the orders said
-every port would have one by the end of the season.
+**He gave Blackacre up.** When they had him below with the others and asked their
+question, he had an answer. He is the only one who did. That is why he is alive and why
+he still has his hands.
 
-**He recognizes Blackacre the moment he sees him.** Same face, up close, in daylight. He
-will know what he did and who he is looking at, and he is in no condition to
-hide it.
+**He recognizes Blackacre on sight** — same face, up close, in daylight — and he is in no
+condition to hide it.
 
-**What he wants:** to live, to get to a port, and not to be found out. In that order.
+**What he wants:** to live, to reach a port, and not to be found out.
 
-- **He is exhausted.** A day and a half pinned in cold water — two levels of exhaustion, and
-  he cannot swim himself out.
-- **He can be bought, and he will offer first.** Passage, money, and everything he knows
-  about who is buying the writ up and down this coast.
-- **He can be left.** He is human, so Blackacre's rule about whose blood he will not
-  spill does not cover him. Walking away from the beam is enough, and no fight is
-  needed.
-- He is the only living witness to Sayid's face, his ships, and what he asks.
-
-Do not push the scene either way, and do not have him confess unprompted. Put him on the
-deck thanking them, and let him look at Blackacre.
+- He can be bought. He will offer first, and he will keep the bargain while it pays.
+- He can be left. He is human, so Blackacre's rule about whose blood he will not spill
+  does not cover him. Walking away from the beam is enough.
+- He is the only living witness to Sayid's face and what Sayid is asking.
 
 ## What Blackacre learns
 
-Blackacre learns he is hunted by name, that the price is two hundred alive and half that
-dead, that the man asking is a day away, and that somebody already pointed at Maalm. He
-does not meet Sayid.
+Sayid is hunting him by name. There is money on him, more alive than dead. The man
+asking was in this water yesterday. And somebody has already told Sayid to look in
+Maalm.
+
+He does not meet Sayid, and there is nothing written down anywhere on the ship. The
+party learn all of the above only if Rustam tells them.
 
 ---
 
-## 1 · The smoke
+# PART TWO — RUN SHEET
+
+*Play order. Read-aloud, the senses, his lines, the rolls.*
+
+---
+
+## 1 · Smoke on the water
 
 > Smoke stands off the water two miles ahead, thin and grey, going flat with the wind.
 > There is no land under it.
 
-A watch check against the weather DC picks it up early. On a failure they are inside a
-half-mile before they can see it is a ship.
+- **Smell, before they see anything else:** a fire that has been put out with water.
+  Burnt grain, and under it fat.
+- **Hear:** nothing. No bell, no voices.
 
-## 2 · The ship
+**Watch check** against the weather DC. Success gives them the smoke early and their
+choice of approach. Failure puts them inside half a mile before they can see it is a
+ship.
 
-> She has no masts. Where they stood there are two stumps cut off flat, about a foot
-> above the deck, and the shrouds have been cut away at the sides. She is going with the
-> current, stern first, at about walking pace, leaning to port. Where the deck was
-> amidships there is a hole burned through to the hold, and there is smoke coming out of
-> it, not fire.
+## 2 · Alongside
+
+> She has no masts. Where they stood there are two stumps sawn off flat a foot above the
+> deck, and the shrouds have been cut away at her sides. She is going with the current,
+> stern first, at about walking pace, leaning to port. There is a hole burned through the
+> deck amidships, and smoke is coming up out of it, not fire.
 >
-> There is nobody at the rail.
+> Nobody is at the rail.
 
-**Coming alongside** is DEX or STR, DC 12, against her drift. Failing costs a round and
-puts them on the lee side, away from the burned hole.
+- **See:** sawdust and long pale chips trodden into the deck. Scorch up the port side.
+- **Hear:** the hull working. Water going in and out of the burned hole with the roll.
+- **Smell:** the fire smell close up now, and vinegar from broken amphorae.
+- **Feel:** the deck is warm through the soles further aft, over the hold.
 
-**What Blackacre can read**, without a check: the masts were sawn and taken, not carried
-away by weather. Somebody wanted the wood and had hours to work.
+**Coming alongside:** DC 12 DEX or STR against her drift. Failure costs a round and puts
+them on the lee side, away from the hole.
+
+**What Blackacre sees with no check:** the masts were sawn and taken. Somebody wanted
+the wood and had hours to work. The hulls that did it were lashed, not riveted — fleet
+build, not dwarf ([ships and sea power](../lore/ships-and-sea-power.md)).
 
 ## 3 · The shapes
 
@@ -179,113 +162,167 @@ Say this as they close, before anyone is aboard.
 > more, further aft. They are dark and wet, and they come over the rail without standing
 > up.
 
-**Six merfolk salvagers** (CR 1/4) and **two merrow harpooners** (CR 1), stripping her.
-Stat blocks and the fight rules are in
-[merfolk salvagers](../bestiary/merfolk-salvagers.md). They are carrying
-things to the rail and dropping them to others in the water: a coil of chain, a lamp, a
-box of nails.
+**Six merfolk salvagers** and **two merrow harpooners** —
+[stat blocks](../bestiary/merfolk-salvagers.md). They are carrying things to the rail and
+dropping them to others in the water: a coil of chain, a lamp, a box of nails.
 
-## 4 · Aboard
+## 4 · On deck
 
-> The deck is wet and slanted and part of it is not there. There are eight bodies on it,
-> where they fell. Every one of them has been gone through — pockets out, buckles cut
-> off, hands bare.
+> Nine bodies, where they fell. Every one has been gone through — pockets out, buckles
+> cut off, hands bare. The deck under them is tacky, not wet.
 >
-> Aft of the hole: crates of fruit, split open, and the fruit rolling on the slant.
-> Grain sacks, the wet ones already sprouting. Barrels lashed to the rail. Boxes piled
-> and gone over. Amphorae in their frames, half of them broken, and it is their oil
-> burning below.
+> Aft of the hole: crates of fruit split open, the fruit rolling down the slant against
+> the rail. Grain sacks, the wet ones sprouting green. Barrels lashed. Boxes gone over.
+> Amphorae in their frames, half of them broken.
 >
-> Against the port rail there is a cage the size of a big dog. Its bars are bent
-> outward. It is wet, and it is empty.
->
-> Nailed to the stump of the mainmast, under a scrap of hide to keep the weather off,
-> there is a sheet of paper.
+> Against the port rail there is a cage the size of a big dog. The bars are bent outward.
+> It is wet, and it is empty.
+
+- **Hear:** flies. The rest is the hull and the water.
+- **Smell:** sweet, from the fruit going over, and under it the bodies and the burnt
+  grain.
+- **Feel:** the slant. Everything loose is against the port rail.
 
 | Aboard | What it is |
 |---|---|
-| Eight dead on deck | Killed as the boarders came over. The merfolk have stripped them |
-| The paper on the stump | [Sayid's writ](../../../handouts/sayids-writ.md). Hand Sam the printed sheet here |
-| Fruit, five crates | Half of it still good. Worth 15 gp in Aar, which buys its food |
-| Grain, forty sacks | Wet and sprouting. A dozen sacks up forward are dry and worth having |
-| Amphorae, twenty in frames | Oil and wine; nine unbroken, 4 gp each. The broken ones are what is burning |
-| Barrels | Water, emptied and left. Salt beef in two |
+| Nine dead | Killed on deck. The merfolk have stripped them |
+| Fruit, five crates | Half still good. 15 gp in Aar, which buys its food |
+| Grain, forty sacks | Wet and sprouting. A dozen forward are dry and worth having |
+| Amphorae, twenty | Nine unbroken, 4 gp each. The broken ones are what is burning below |
+| Barrels | Water, emptied. Salt beef in two |
 | Boxes | Cloth, mostly ruined. The ironwork went into the sea an hour ago |
-| The cage | Empty, bars bent outward, wet. The DM decides what it held, or leaves it unexplained |
+| The cage | Empty, bars bent outward. The DM decides what it held, or leaves it unexplained |
 | The mast stumps | Sawn flat. No spare timber aboard |
+| The stern locker | 41 gp in mixed coin, and the ship's chart with her track from Maalm on it |
 
-**She is sinking, slowly.** From the moment the first PC is aboard, count **ten rounds**.
-At ten the stern goes under. At six the water in the hold is over a standing man's head.
+**She is sinking.** From the moment the first PC is aboard, count **ten rounds**. At six,
+the water in the hold is over a standing man's head. At ten the stern goes under.
 
-## 5 · Below — the five, and the knocking
+## 5 · Below
 
-Going down the burned hole or through the after hatch puts them in the hold, in water to
-the waist forward and deeper aft.
+Down the burned hole, or through the after hatch (**DC 14 STR**, it is jammed).
 
-> There are five more down here, forward of the water, and they were not killed the way
-> the ones on deck were. They are in pieces, and the pieces are lying where they came
-> off. The cuts took several blows each. Two of them have their belts still buckled.
+> Five more down here, forward of the water. They were not killed the way the ones on
+> deck were. They are in pieces, and the pieces are lying where they came off. The cuts
+> took several blows each. Two of them still have their belts buckled.
 >
 > Aft, past the cargo, in the dark, somebody is knocking on the deckhead. Three, and
 > three, and three.
 
+- **Smell:** the fire is under the boards forward and the air is bad.
+- **Feel:** water to the waist forward, deeper going aft. Warm.
+
 Do not explain the bodies.
 
-**Rustam** is in an air pocket against the deckhead, water at his chin, a deck beam
-across his legs.
+## 6 · Rustam under the beam
 
-- **Getting aft:** swimming through shifted cargo, DC 12; or force the jammed after
-  hatch, DC 14 STR.
-- **The beam:** DC 15 STR (Athletics) alone, or **two characters together at DC 12
-  each** in the same round. Cutting the cordage fouling it first (one round, DC 10)
-  drops it to DC 12 / DC 10. A failure by 5 or more shifts the cargo and halves the air
-  pocket.
-- **The merfolk are working aft too.** If the party spend more than **four rounds** on
-  deck before going down, the merfolk reach him first and take him out through the
-  stern, alive, to bargain with.
+He is in an air pocket against the deckhead in the after end of the hold, water at his
+chin, a deck beam across his legs.
 
-## 6 · The merfolk, and what they will take
+- **Getting aft:** swimming through shifted cargo, **DC 12**.
+- **The beam:** **DC 15 STR (Athletics)** alone, or **two characters together at DC 12
+  each** in the same round. Cutting the cordage fouling it first (one round, DC 10) drops
+  it to DC 12 / DC 10. A failure by 5 or more shifts the cargo and halves the pocket.
+- **He cannot help.** Two levels of exhaustion, and he cannot swim.
+- **If the party spend more than four rounds on deck first,** the merfolk get to him and
+  take him out through the stern, alive, to bargain with.
+
+### What he says
+
+**First, before anything else — he asks about other people, three times, and cannot stop:**
+
+> "Is there anyone else? Did you find anyone else? There were five of them down here with
+> me."
+
+**Once he is out, on the deck, wrapped in whatever they have got.** Let him talk. He does
+not stop easily.
+
+> "They came out of the dark. No hail. Nobody asked us to strike, nobody offered terms —
+> they were over the rail before the watch got a bell rung."
+
+> "The drums went the whole time. That is what I keep hearing. All that time on the deck
+> above me and the drums never stopped."
+
+> "They took the masts. Sawing, for hours. I was under the boards listening to men saw
+> the masts out of a ship."
+
+**About the man giving the orders** — the pieces Blackacre needs, and Rustam does not
+know what he is handing over:
+
+> "He was polite. That is the thing I cannot make sense of. He asked us the way you would
+> ask a man for directions in the street."
+
+> "He said what he would do if nobody knew anything. He said it once, plainly, so we all
+> heard it. And then nobody knew anything, and he had to do it. You could see it in him."
+
+> "He did not watch. When it was being done he was looking at his own men, not at us."
+
+**The question:**
+
+> "He wanted a dragonborn. A dragonborn who is a druid, sails alone, small lashed boat.
+> He had a name for him. Black-something. Blackacre."
+
+> "There is money on him. Two hundred, he said. Half that if he comes dead."
+
+**And the answer:**
+
+> "I had something. I was in Maalm four days ago. I saw a party come up the street off
+> the lower quarter, all of them bloodied, going up to the big house with the gate — and
+> one of them was a dragonborn, and he was bleeding."
+>
+> "So I said so. I told him. And he thanked me, and he took his people off the ship, and
+> then the fire."
+
+**Then he looks at Blackacre.** He has been talking to the whole party. He works it out
+in the middle of a sentence and stops.
+
+> "…It was you. On the street. You were the one bleeding."
+
+**Then, quickly:**
+
+> "I did not know who you were. I only said what I saw. He would have taken my arms.
+> You saw what he did to them, you saw it, I only said what I saw —"
+
+**After that, if anyone presses him**, he offers everything he has:
+
+> "I can pay. Put me at any port, any port at all, and I will pay you and I will never
+> say I saw you. Ask anyone in Aar what my word is worth."
+
+**What he will not say unprompted:** that he would do it again. If somebody asks him
+straight, he does not lie about it.
+
+## 7 · The merfolk, and what they will take
 
 They will hand over the whole deck for:
 
 - The **chain and the fittings** they have not got to yet.
 - The **broken amphorae**, once the fire is out.
-- **The dead left where they are.** Carrying the bodies off, or burning the ship with
-  them aboard, ends the bargaining.
+- **The dead left where they are.** Carrying the bodies off, or burning the ship with them
+  aboard, ends the bargaining.
 
-**Rustam is what they will argue about.** He is salvage, he is worth a ransom ashore, and
-they found him. Three ways past that: outbid them with what is on the deck, promise a
-share of what he pays and be believed (a real Persuasion, and they will hold the party to
-it), or fight for him.
+**They argue over Rustam.** He is salvage, they found him, and he is worth a
+ransom ashore. Three ways past it: outbid them with what is on the deck, promise them a
+share of what he pays and be believed (a real Persuasion, and they hold the party to it),
+or fight for him.
 
 **If it comes to a fight,** run it off
-[merfolk salvagers](../bestiary/merfolk-salvagers.md) — six salvagers and two harpooners,
-the slanting deck, and the water on both sides. At level 3 the party can lose this. The
-band breaks when a harpooner drops or three salvagers are down. Everything with a hook on
-it is trying to put a PC over the rail, because that is where the merfolk win.
+[merfolk salvagers](../bestiary/merfolk-salvagers.md). At level 3 the party can lose it.
+They break when a harpooner drops or three salvagers are down. Everything with a hook on
+it is trying to put a PC over the rail, because in the water the merfolk win.
 
-## 7 · The paper
-
-**One sheet, nailed in the open on the mast stump**, under a scrap of hide. Hand Sam the printed sheet:
-**[Sayid's writ](../../../handouts/sayids-writ.md)**.
-
-Rustam saw where it came from: more of them in the boat alongside. They nailed up one
-and took the rest away.
-
-Also aboard, in the stern locker the boarders missed: forty-one gold in mixed coin and
-the ship's chart, with her track from Maalm marked on it and the date beside it — one
-day before the party sailed.
+**What the party get by talking instead:** the merfolk saw two hulls at a distance
+yesterday, standing away north, towing two spars each.
 
 ## 8 · Off her
 
-- **Salvage.** Fruit, dry grain, nine amphorae, salt beef, cordage off the deck. Enough
-  to clear two hull boxes without a port.
-- **No timber.** Both masts are gone and the spare spars went with them. If Sam goes
-  looking for a spare mast here, there is none.
-- **The dead.** Thirteen aboard and one over the side. There is no burying them at sea
-  except by putting them in the water, which is what the merfolk are doing.
+- **Salvage.** Fruit, the dry grain, nine amphorae, salt beef, cordage. Enough to clear
+  two hull boxes without a port.
+- **No timber.** Both masts are gone and the spare spars went with them.
+- **The dead.** Fourteen, and the merfolk want what is on them. There is no burying them
+  at sea except by putting them in the water, which the merfolk are already doing.
 - **The ship.** She goes down at ten rounds, or drifts on smoking if the party leave
-  early. She does not reach anywhere.
+  early. She never reaches port.
+- **Rustam** goes with them, or does not.
 
 ---
 
@@ -296,22 +333,19 @@ day before the party sailed.
 | Coming alongside | DC 12 DEX or STR |
 | Merfolk salvagers | 6, CR 1/4 — [stat block](../bestiary/merfolk-salvagers.md) |
 | Merrow harpooners | 2, CR 1 — [stat block](../bestiary/merfolk-salvagers.md) |
-| Deck slope | DC 10 Acrobatics if you move more than half speed |
-| Back aboard from the water | DC 13 Athletics, or a thrown line |
 | The jammed after hatch | DC 14 STR |
 | Swimming aft through the hold | DC 12 |
 | The beam | DC 15 STR alone; DC 12 each for two together |
+| Deck slope | DC 10 Acrobatics if you move more than half speed |
+| Back aboard from the water | DC 13 Athletics, or a thrown line |
 | Rustam | 2 levels of exhaustion, cannot swim |
 | Rounds before the stern goes under | 10 |
 | Rounds before the merfolk reach Rustam | 4 |
 | Coin in the stern locker | 41 gp |
 
-## Open threads for Sam
+## Open threads
 
-- **His birth name.** The writ needs it and Sam said he would check. The handout has a
-  slot for it; write it in before the session.
-- **The sea-names.** Blackacre, Cloudburst, Fairwind, Goodcatch — Sam's, from the 8/17
-  chat, recorded in [the Wandering](../lore/wandering-dragonborn.md).
+- **Blackacre's birth name.** Sayid's people are using it along with the sea-name. Sam
+  was checking; when he answers, Rustam can say both.
 - **What was in the cage.** Left open on purpose.
-- **How close Sayid stays.** Written as one day away and working toward Maalm. That can
-  be run down, sailed away from, or left where it is.
+- **How close Sayid stays.** Written as a day off, working toward Maalm.

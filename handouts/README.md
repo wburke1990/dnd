@@ -74,7 +74,6 @@
 | [recessional](recessional.md) | `reference` | Kipling, "Recessional" — lament over the drowned caldera of Lonka, placement open |
 | [requiem](requiem.md) | `reference` | R. L. Stevenson, "Requiem" — the inscription on Idris the Tide-Strong's watch-stone |
 | [revelation 6 pale horse](revelation-6-pale-horse.md) | `reference` | Revelation 6 in the King James — the pale horse, cut into Musa's watch-stone |
-| [sayids writ](sayids-writ.md) | `reference` | Sayid's bounty on Blackacre, nailed to the mast stump of a ship he took |
 | [seafarer grave gold](seafarer-grave-gold.md) | `reference` | Old English "The Seafarer," trans. Pound — a tomb warning that grave-gold is no use to the dead |
 | [shipwrecked sailor](shipwrecked-sailor.md) | `reference` | The Egyptian Tale of the Shipwrecked Sailor — the Tomb 2 inner chamber text |
 | [shop price list](shop-price-list.md) | `reference` | 5e price tables for shops, taverns, gear, mounts, and spellcasting services |
