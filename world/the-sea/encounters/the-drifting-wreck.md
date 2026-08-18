@@ -74,8 +74,11 @@ They are stripping the dead of rings, buckles and knives, and putting the bodies
 side afterward. They did not kill anyone aboard and they did not cut anyone up.
 
 They found her, so by their reckoning she is theirs, and they will fight for her. They
-will also trade, and they trade fairly. **They value the living man below decks
-above the whole cargo**, because the coast pays to have such men back.
+will also trade, and they trade fairly.
+
+**They can tell he is dying, and to them he is one more of the dead.** The dead on this
+ship are theirs with everything else aboard her, and they take the dead into the water.
+The merfolk will not hand him over, and Rustam can hear the argument.
 
 Stat blocks: [merfolk salvagers](../bestiary/merfolk-salvagers.md).
 
@@ -84,6 +87,15 @@ Stat blocks: [merfolk salvagers](../bestiary/merfolk-salvagers.md).
 A merchant passenger, forty, in good clothes that have been in the water for a day and a
 half.
 
+**He is dying.** The beam crushed his leg when the deck came down and it has been under
+warm water since. The leg is dead, the wound is infected, and the infection has spread.
+He has hours.
+
+`[DM ruling]` **Do not let magic take this away.** Cure Wounds does not stop it. Lesser Restoration keeps him lucid longer and does nothing else — the leg is gone, and
+at level 3 nothing in the party regrows a limb or clears an infection this far along. If the players throw
+everything they have at him he stays awake longer, talks more, and dies before any port.
+Say so plainly if they ask, and let them spend the spells if they want to.
+
 **He was in Maalm.** He watched a bloodied party come up the street, a dragonborn druid
 among them, going to Lucrecia's house
 ([session 07](../../../sessions/session-07.md)). He sailed the next morning, one day
@@ -91,17 +103,22 @@ ahead of them.
 
 **He gave Blackacre up.** When they had him below with the others and asked their
 question, he had an answer. He is the only one who did. That is why he is alive and why
-he still has his hands.
+he still has his hands. He says he gave up the name to stay alive.
 
-**He recognizes Blackacre on sight** — same face, up close, in daylight — and he is in no
-condition to hide it.
+**He recognizes Blackacre on sight** — same face, up close, in daylight.
 
-**What he wants:** to live, to reach a port, and not to be found out.
+**What he asks for**, in this order. He is not offering anything in return:
 
-- He can be bought. He will offer first, and he will keep the bargain while it pays.
-- He can be left. He is human, so Blackacre's rule about whose blood he will not spill
-  does not cover him. Walking away from the beam is enough.
-- He is the only living witness to Sayid's face and what Sayid is asking.
+1. **Water.** Cold water, off their boat. He has been in the sea for a day and a half.
+2. **To be heard.** He tells the whole thing whether or not anyone wants it.
+3. **The ground.** A hole in earth, somewhere, anywhere, and somebody who knows where it
+   is. Have him ask twice not to be put in the sea.
+4. **His house in Aar told**, so his household is told he is dead.
+
+**His lines are built on
+[the Streets of Laredo](../../../handouts/streets-of-laredo.md)** — the recognition, the
+instructions for his own body, the drum, the cup of water, and *"I know I've done
+wrong."* **Do not flatten them in a style pass. They are meant to sound like the song.**
 
 ## What Blackacre learns
 
@@ -212,7 +229,7 @@ Down the burned hole, or through the after hatch (**DC 14 STR**, it is jammed).
 - **Smell:** the fire is under the boards forward and the air is bad.
 - **Feel:** water to the waist forward, deeper going aft. Warm.
 
-Do not explain the bodies.
+Do not tell the players who cut the bodies up, or why.
 
 ## 6 · Rustam under the beam
 
@@ -223,73 +240,93 @@ chin, a deck beam across his legs.
 - **The beam:** **DC 15 STR (Athletics)** alone, or **two characters together at DC 12
   each** in the same round. Cutting the cordage fouling it first (one round, DC 10) drops
   it to DC 12 / DC 10. A failure by 5 or more shifts the cargo and halves the pocket.
-- **He cannot help.** Two levels of exhaustion, and he cannot swim.
+- **He cannot help.** He cannot stand, he cannot swim, and he is barely holding his
+  head clear. Somebody carries him.
 - **If the party spend more than four rounds on deck first,** the merfolk get to him and
   take him out through the stern, alive, to bargain with.
 
+### How he sounds
+
+He is hot to the touch and shivering, his lips are split, and the leg under the water is
+black to the knee. He talks in short pieces with breaths in between. He stops
+mid-sentence and then goes on. He is lucid for most of it. Near the end he is not.
+
+Read his lines slowly, with stops. Give him one or two at a time.
+
 ### What he says
 
-**First, before anything else — he asks about other people, three times, and cannot stop:**
+**In the dark, before they get to him** — the same words over and over:
 
-> "Is there anyone else? Did you find anyone else? There were five of them down here with
-> me."
+> "Is anyone there. Is anyone there."
 
-**Once he is out, on the deck, wrapped in whatever they have got.** Let him talk. He does
-not stop easily.
+**When he sees the scales.** This is the first thing he says to Blackacre, and he says it
+before anything else:
 
-> "They came out of the dark. No hail. Nobody asked us to strike, nobody offered terms —
-> they were over the rail before the watch got a bell rung."
+> "You're the reason I'm still alive."
 
-> "The drums went the whole time. That is what I keep hearing. All that time on the deck
-> above me and the drums never stopped."
+Then, working it out, still holding on to the beam:
 
-> "They took the masts. Sawing, for hours. I was under the boards listening to men saw
-> the masts out of a ship."
+> "I saw you. In Maalm. Coming up the street. You were bleeding."
 
-**About the man giving the orders** — the pieces Blackacre needs, and Rustam does not
-know what he is handing over:
+**Once he is out on the deck.** Let the party get him up before he goes on. He tells it
+in pieces:
 
-> "He was polite. That is the thing I cannot make sense of. He asked us the way you would
-> ask a man for directions in the street."
+> "Before light. No hail. They didn't ask us to strike."
 
-> "He said what he would do if nobody knew anything. He said it once, plainly, so we all
-> heard it. And then nobody knew anything, and he had to do it. You could see it in him."
+> "Drums. The whole time. Over my head, all of it, and the drums never stopped."
 
-> "He did not watch. When it was being done he was looking at his own men, not at us."
+> "They sawed the masts out of her. Hours of it. I lay under the boards and listened to
+> men saw the masts out of a ship."
 
-**The question:**
+**About the man giving orders:**
 
-> "He wanted a dragonborn. A dragonborn who is a druid, sails alone, small lashed boat.
-> He had a name for him. Black-something. Blackacre."
+> "He was polite."
 
-> "There is money on him. Two hundred, he said. Half that if he comes dead."
+> "Like a man asking the way in the street. That's how he asked us."
 
-**And the answer:**
+> "He said what he'd do. Said it once. Everyone heard him."
 
-> "I had something. I was in Maalm four days ago. I saw a party come up the street off
-> the lower quarter, all of them bloodied, going up to the big house with the gate — and
-> one of them was a dragonborn, and he was bleeding."
->
-> "So I said so. I told him. And he thanked me, and he took his people off the ship, and
-> then the fire."
+> "Then nobody knew anything. So he had to."
 
-**Then he looks at Blackacre.** He has been talking to the whole party. He works it out
-in the middle of a sentence and stops.
+> "He didn't watch. He watched his own men."
 
-> "…It was you. On the street. You were the one bleeding."
+**The question, and his answer:**
 
-**Then, quickly:**
+> "A dragonborn. A druid. Sails alone, small boat, lashed. He had a name. Blackacre."
 
-> "I did not know who you were. I only said what I saw. He would have taken my arms.
-> You saw what he did to them, you saw it, I only said what I saw —"
+> "Two hundred alive. Half that dead."
 
-**After that, if anyone presses him**, he offers everything he has:
+> "I had something. That's all. I had something and they didn't."
 
-> "I can pay. Put me at any port, any port at all, and I will pay you and I will never
-> say I saw you. Ask anyone in Aar what my word is worth."
+> "So I told him. Maalm. Four days. A dragonborn bleeding in the street."
 
-**What he will not say unprompted:** that he would do it again. If somebody asks him
-straight, he does not lie about it.
+Then:
+
+> "He thanked me."
+
+**The confession.** He does not need to be pressed for this:
+
+> "I know what I did."
+
+**What he asks for.** Space these out. Let other things happen in between:
+
+> "Water. Off your boat. Cold."
+
+> "Not the sea. Don't put me in the sea."
+
+> "Ground. Any ground. Dig me in somewhere and know where it is."
+
+> "No drums."
+
+> "There's a house in Aar. Sayyida's. Tell them I didn't just not come."
+
+**If somebody asks him straight whether he would do it again**, he does not lie:
+
+> "Yes."
+
+**The end.** When somebody goes for the cup of water, he is dead when they get back.
+Play it that way if the timing allows it. If nobody thinks to get him water, he goes
+mid-sentence, in the middle of the part about the drums.
 
 ## 7 · The merfolk, and what they will take
 
@@ -297,32 +334,39 @@ They will hand over the whole deck for:
 
 - The **chain and the fittings** they have not got to yet.
 - The **broken amphorae**, once the fire is out.
-- **The dead left where they are.** Carrying the bodies off, or burning the ship with them
-  aboard, ends the bargaining.
+- **The dead.** Every body aboard goes into the water. This is the part they will not
+  give up: they found the ship, so the dead are theirs.
 
-**They argue over Rustam.** He is salvage, they found him, and he is worth a
-ransom ashore. Three ways past it: outbid them with what is on the deck, promise them a
-share of what he pays and be believed (a real Persuasion, and they hold the party to it),
-or fight for him.
+**Rustam is one of the dead as far as they are concerned.** They can see the leg. They
+will wait for him if the party stand over him, and they will not go away. Rustam can
+hear them.
+
+Three ways past that: **buy the body** with something off the deck they want more,
+**give them the other fourteen** and keep him, or **fight them for him.** Talking works —
+they bargain in trade talk and they keep a deal — and a party that offers the ship's iron
+for one dying man is offering more than the body is worth, and the merfolk accept.
 
 **If it comes to a fight,** run it off
 [merfolk salvagers](../bestiary/merfolk-salvagers.md). At level 3 the party can lose it.
 They break when a harpooner drops or three salvagers are down. Everything with a hook on
-it is trying to put a PC over the rail, because in the water the merfolk win.
+it is trying to put a PC over the rail. The merfolk have the advantage in the water.
 
 **What the party get by talking instead:** the merfolk saw two hulls at a distance
 yesterday, standing away north, towing two spars each.
 
 ## 8 · Off her
 
+- **Rustam.** He dies here, on the deck or in their boat, within the hour. Then the party
+  decide what to do with the body: the sea, which he asked them not to do, or the next
+  landfall and a hole in the ground, which costs them a day of sailing with him aboard.
+  They can decide after he dies.
 - **Salvage.** Fruit, the dry grain, nine amphorae, salt beef, cordage. Enough to clear
   two hull boxes without a port.
 - **No timber.** Both masts are gone and the spare spars went with them.
-- **The dead.** Fourteen, and the merfolk want what is on them. There is no burying them
-  at sea except by putting them in the water, which the merfolk are already doing.
+- **The other fourteen.** The merfolk take them into the water, and they will do it
+  whether or not anyone watches.
 - **The ship.** She goes down at ten rounds, or drifts on smoking if the party leave
   early. She never reaches port.
-- **Rustam** goes with them, or does not.
 
 ---
 
@@ -338,9 +382,10 @@ yesterday, standing away north, towing two spars each.
 | The beam | DC 15 STR alone; DC 12 each for two together |
 | Deck slope | DC 10 Acrobatics if you move more than half speed |
 | Back aboard from the water | DC 13 Athletics, or a thrown line |
-| Rustam | 2 levels of exhaustion, cannot swim |
+| Rustam | Dying of the crushed leg. Hours, not days. No check saves him |
 | Rounds before the stern goes under | 10 |
 | Rounds before the merfolk reach Rustam | 4 |
+| Cup of cold water | He is dead when it comes back |
 | Coin in the stern locker | 41 gp |
 
 ## Open threads

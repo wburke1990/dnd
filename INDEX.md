@@ -328,6 +328,7 @@ Sailing, weather, fleets and what lives in the water.
 | [seafarer grave gold](handouts/seafarer-grave-gold.md) | `reference` | Old English "The Seafarer," trans. Pound — a tomb warning that grave-gold is no use to the dead |
 | [shipwrecked sailor](handouts/shipwrecked-sailor.md) | `reference` | The Egyptian Tale of the Shipwrecked Sailor — the Tomb 2 inner chamber text |
 | [shop price list](handouts/shop-price-list.md) | `reference` | 5e price tables for shops, taverns, gear, mounts, and spellcasting services |
+| [streets of laredo](handouts/streets-of-laredo.md) | `reference` | The Streets of Laredo, the cowboy's lament — the source Rustam's dying lines are built from |
 | [the birth of attis](handouts/the-birth-of-attis.md) | `reference` | Pausanias 7.17.11, trans. Jones — an almond tree from a god's severed parts, and Attis born |
 | [the clod and the pebble](handouts/the-clod-and-the-pebble.md) | `reference` | Blake, "The Clod and the Pebble" — incantation for Planar Binding |
 | [the dry river to maalm](handouts/the-dry-river-to-maalm.md) | `reference` | DM read-aloud — the walk north down the dead riverbed to the first sight of Maalm |
