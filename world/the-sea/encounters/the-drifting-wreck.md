@@ -118,9 +118,8 @@ Mukka arrangement, buys no marques, and keeps to nobody's deal. He would have ta
 Company hull as readily, and its cargo is worth more. **Rustam does not know that.** He
 says his brother was right and he was wrong.
 
-The party can tell him or not tell him. He will not follow the argument if they try, and
-none of the Company detail above should come out of his mouth on the deck — it comes from
-Ruslan, in Aar, afterward.
+The party can tell him or not tell him. None of the Company detail above comes out of
+his mouth on the deck. It comes from Ruslan, in Aar, afterward.
 
 **He was in Maalm.** He watched a bloodied party come up the street, a dragonborn druid
 among them, going to Lucrecia's house
@@ -139,8 +138,7 @@ he still has his hands. He says he gave up the name to stay alive.
 2. **To talk.** He tells the whole thing whether or not anyone wants it.
 3. **The ground.** A hole in earth, somewhere, anywhere, and somebody who knows where it
    is. Have him ask twice not to be put in the sea.
-4. **His brother told.** Ruslan, in Aar. He wants him told, and he wants him told that
-   it was not his own bad seamanship.
+4. **His brother told.** Ruslan, in Aar.
 
 **His lines are built on
 [the Streets of Laredo](../../../handouts/streets-of-laredo.md)** — the recognition, the
@@ -345,18 +343,10 @@ Then:
 
 > "No drums."
 
-> "My brother. Ruslan. Aar, by the water stair."
+> "My brother. Ruslan. Aar."
 
-> "Tell him it wasn't the weather. Tell him it wasn't the boat."
-
-Then, later, quieter:
-
-> "He was right. Tell him he was right."
-
-**He does not explain that**, and he should not be made to. He is past explaining
-anything. The Company and the arrangement with the pirates come out later, from Ruslan,
-when somebody carries the news to Aar — see *Two brothers* in Part One and *Afterward,
-in Aar* below.
+That is all he says about him. The Company and the arrangement with the pirates come from
+Ruslan later, in Aar, and never out of Rustam's mouth on this deck.
 
 **If somebody asks him straight whether he would do it again**, he does not lie:
 
