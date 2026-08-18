@@ -44,8 +44,10 @@ cordage from the ships they board, and **he came for the masts.**
 
 1. **No hail and no terms.** His people came over the rail in the dark and killed the
    crew where they stood.
-2. **They cut both masts out** and swayed them across to their own hulls, and searched
-   the ship stem to stern. That took hours.
+2. **They cut both masts out** and swayed them across to their own hulls, then took the
+   cargo, the water, the cordage and the crew's money, and searched her stem to stern.
+   They had hours and they used them. What is left aboard is what they did not want or
+   could not carry.
 3. **The wounded went below.** He asked them one at a time where they had last seen a
    dragonborn druid, and he told them what would happen if nobody knew. Nobody knew, and
    he had said it in front of his own crew, so he did it, with a boarding axe. It took
@@ -54,9 +56,9 @@ cordage from the ships they board, and **he came for the masts.**
    the cargo, and his people had to cut their boats clear of her.
 5. **He left one man alive** — the one who answered.
 
-**He got two masts.** He lost the hull, the food in the hold, and fourteen sailors, on
-ships that are short of hands. He would have had all of it undamaged if the ship had
-struck her colours.
+**He got two masts and a hold of food.** He lost the hull itself and fourteen sailors,
+on ships that are short of hands, and he burned most of what he had come for. He would
+have had all of it undamaged if the ship had struck her colours.
 
 How he talks and why he is like this: [Sayid](../../../characters/sayid.md).
 
@@ -67,8 +69,8 @@ or further off.
 ## The merfolk
 
 Nobody sent them and nobody paid them. **They found her adrift this morning.** A hull
-carries iron, brass, glass, nails, tools and sealed jars, and they cannot make any of
-that underwater.
+carries nails, bolts, chain, rudder fittings and hull iron, and they cannot make any of
+that underwater. Sayid's people did not stop to pull nails.
 
 They are stripping the dead of rings, buckles and knives, and putting the bodies over the
 side afterward. They did not kill anyone aboard and they did not cut anyone up.
@@ -218,9 +220,9 @@ dropping them to others in the water: a coil of chain, a lamp, a box of nails.
 > Nine bodies, where they fell. Every one has been gone through — pockets out, buckles
 > cut off, hands bare. The deck under them is tacky, not wet.
 >
-> Aft of the hole: crates of fruit split open, the fruit rolling down the slant against
-> the rail. Grain sacks, the wet ones sprouting green. Barrels lashed. Boxes gone over.
-> Amphorae in their frames, half of them broken.
+> Aft of the hole: one crate of fruit, split open, the fruit rolling down the slant
+> against the rail. Nothing else is stacked back there. The barrel lashings are cut and
+> the barrels are gone. Amphorae in their frames, most of them broken, a few empty.
 >
 > Against the port rail there is a cage the size of a big dog. The bars are bent outward.
 > It is wet, and it is empty.
@@ -233,14 +235,15 @@ dropping them to others in the water: a coil of chain, a lamp, a box of nails.
 | Aboard | What it is |
 |---|---|
 | Nine dead | Killed on deck. The merfolk have stripped them |
-| Fruit, five crates | Half still good. 15 gp in Aar, which buys its food |
-| Grain, forty sacks | Wet and sprouting. A dozen forward are dry and worth having |
-| Amphorae, twenty | Nine unbroken, 4 gp each. The broken ones are what is burning below |
-| Barrels | Water, emptied. Salt beef in two |
-| Boxes | Cloth, mostly ruined. The ironwork went into the sea an hour ago |
+| Fruit, one crate | All that is left of the cargo. Worth 5 gp in Aar, which buys its food |
+| Amphorae | Broken, and their oil is what is burning below. The sound ones went with the boats |
 | The cage | Empty, bars bent outward. The DM decides what it held, or leaves it unexplained |
 | The mast stumps | Sawn flat. No spare timber aboard |
-| The stern locker | 41 gp in mixed coin, and the ship's chart with her track from Maalm on it |
+| The stern locker | Forced and empty |
+
+**There is no money aboard.** Sayid had hours and he searched her stem to stern. A party
+who go through her carefully find the one crate, some cordage the merfolk have not cut
+away yet, and nothing else worth carrying.
 
 **She is sinking.** From the moment the first PC is aboard, count **ten rounds**. At six,
 the water in the hold is over a standing man's head. At ten the stern goes under.
@@ -398,8 +401,8 @@ yesterday, standing away north, towing two spars each.
   decide what to do with the body: the sea, which he asked them not to do, or the next
   landfall and a hole in the ground, which costs them a day of sailing with him aboard.
   They can decide after he dies.
-- **Salvage.** Fruit, the dry grain, nine amphorae, salt beef, cordage. Enough to clear
-  two hull boxes without a port.
+- **Salvage.** One crate of fruit and what cordage they can cut down. Enough to clear
+  one hull box, and no coin.
 - **No timber.** Both masts are gone and the spare spars went with them.
 - **The other fourteen.** The merfolk take them into the water, and they will do it
   whether or not anyone watches.
@@ -438,7 +441,6 @@ Run it whenever they reach Aar. It is a short scene and it does not need prep.
 | Rounds before the stern goes under | 10 |
 | Rounds before the merfolk reach Rustam | 4 |
 | Cup of cold water | He is dead when it comes back |
-| Coin in the stern locker | 41 gp |
 
 ## Open threads
 
