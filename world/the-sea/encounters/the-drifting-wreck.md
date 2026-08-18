@@ -151,6 +151,9 @@ Sayid is hunting him by name. There is money on him, more alive than dead. The m
 asking was in this water yesterday. And somebody has already told Sayid to look in
 Maalm.
 
+He also learns **it was the fleet and not the Mukka pirates**, because of the drums. That
+is the one thing in this encounter nobody has to interpret for him.
+
 He does not meet Sayid, and there is nothing written down anywhere on the ship. The
 party learn all of the above only if Rustam tells them.
 
@@ -193,8 +196,10 @@ ship.
 them on the lee side, away from the hole.
 
 **What Blackacre sees with no check:** the masts were sawn and taken. Somebody wanted
-the wood and had hours to work. The hulls that did it were lashed, not riveted — fleet
-build, not dwarf ([ships and sea power](../lore/ships-and-sea-power.md)).
+the wood and had hours to work. The cuts in the chainplates were made by lashed-hull
+gear, fleet work rather than dwarf
+([ships and sea power](../lore/ships-and-sea-power.md)). The drums Rustam describes in §6
+settle it.
 
 ## 3 · The shapes
 
@@ -299,6 +304,13 @@ in pieces:
 > "Before light. No hail. They didn't ask us to strike."
 
 > "Drums. The whole time. Over my head, all of it, and the drums never stopped."
+
+**This is the line that names who did it**, and Blackacre knows it the moment it is said.
+**Mukka privateers do not drum.** They come up quiet and take a ship for the cargo. The
+**fleets** beat their commands across open water on hulls stretched with whale-bladder,
+and they drum through a boarding because that is how the other hulls are told what to do
+([the floating fleet](../lore/floating-fleet.md), [fleet warfare](../lore/fleet-warfare.md)).
+A ship taken to drums was taken by the fleet. Rustam has no idea he has just said that.
 
 > "They sawed the masts out of her. Hours of it. I lay under the boards and listened to
 > men saw the masts out of a ship."

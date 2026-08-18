@@ -102,6 +102,13 @@ Music is **central** to the culture, and it's also **practical**:
   drum.** A fleet maneuvering is a wall of polyrhythmic thunder. **[settled —
   Sam's invention; great set-piece audio]**
 
+**The drums are how you tell a fleet raid from a pirate one.** `[Will 8/18]` **Mukka
+privateers do not drum** — they come up quiet and take the cargo. The fleets drum
+through a boarding because that is how the other hulls are given orders. So a survivor
+who says the drums never stopped has told you it was the fleet, whether or not they know
+it. Used that way at
+[the drifting wreck](../encounters/the-drifting-wreck.md).
+
 ## Where the Fleets fit among Nila's sea-powers `[DM ruling — Will, 6/26]`
 
 Inside the archipelago the Fleets are **not a player.** The sea-powers that

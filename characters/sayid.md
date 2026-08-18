@@ -166,7 +166,9 @@ him yet.
 2. **Word in a port.** A rumour on a wharf, or one of the crews that went back to the
    fleet after the mutiny.
 3. **A ship of his, at a distance.** Drums over open water, and a sail that holds the
-   same distance off all day.
+   same distance off all day. **His ships still drum**, which is what marks them as
+   fleet rather than Mukka privateers
+   ([the floating fleet](../world/the-sea/lore/floating-fleet.md)).
 4. **A boarding, with Sayid not aboard** — his people, his terms, his question.
 5. **The two of them in a room**, when Sam says he is ready.
 
