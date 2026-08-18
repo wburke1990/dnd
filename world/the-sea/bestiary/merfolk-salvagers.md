@@ -3,20 +3,20 @@ summary: Stat blocks for the merfolk and merrow who strip drifting wrecks, tuned
 status: ready
 ---
 
-# Merfolk Salvagers — the ones who come up onto a drifting hull
+# Merfolk Salvagers
 
 > Stat blocks for the band at [the drifting wreck](../encounters/the-drifting-wreck.md).
 > Built for **five PCs at level 3**, fighting on a slanting deck with a hole burned
 > through it and open water on both sides.
 >
-> **Two blocks cover the band.** Six **salvagers** do the work; two **harpooners** are
-> the threat. Scale by count and by how many are still in the water, not by fiddling
-> each body.
+> **Two blocks cover the band.** Six **salvagers** do the work; two **harpooners** hit
+> harder and reach further. Scale by count and by how many are still in the water, not
+> by changing individual stat blocks.
 
-The merfolk of the deep water come up on anything adrift. What they want off a hull is
-what they cannot make below: iron, brass, glass, nails, tools, sealed jars. They take
-the metal off the dead too. They will trade, they will haggle, and they will fight for a
-wreck they found, because finding it is what makes it theirs.
+The merfolk of the deep water come up on anything adrift. They take iron, brass, glass,
+nails, tools and sealed jars, none of which they can make underwater, and they take the
+metal off the dead. They will trade, they will haggle, and they claim any wreck they
+find.
 
 ---
 
@@ -37,11 +37,11 @@ wreck they found, because finding it is what makes it theirs.
 
 - **Skills** Athletics +2, Perception +3
 - **Senses** Passive Perception 13; darkvision 60 ft.
-- **Languages** Aquan, and enough trade talk to bargain
+- **Languages** Aquan, and broken Common, enough to bargain
 
 **Amphibious.** Breathes air and water.
 
-**Sure on a Wet Deck.** A slanting or wet deck is not difficult terrain for a merfolk,
+**Steady on Deck.** A slanting or wet deck is not difficult terrain for a merfolk,
 and it does not have to make the balance check the deck imposes on everyone else.
 
 ### Actions
@@ -100,24 +100,24 @@ swimming speed.
 
 **The band:** **six salvagers** and **two harpooners.** Start with **four salvagers and
 one harpooner** aboard; the rest come over the rail on rounds two and three. Adjusted
-for five PCs at level 3, the whole band is a hard fight and the party can lose it.
+for five PCs at level 3, the whole band is a hard fight.
 
-**They break.** The salvagers are working, not campaigning. They quit and go over the
-side when **a harpooner drops**, or when **three salvagers are down**, and they take
-what they are already holding with them. They do not pursue a boat.
+**When they quit.** The salvagers are there for the cargo. They go over the side when **a
+harpooner drops**, or when **three salvagers are down**, and they take what they are
+already holding with them. They do not pursue a boat.
 
-**They fight for position, not for kills.** Every merfolk on the deck is trying to put a
-PC in the water, where they win. Gaff-hooks and harpoons pull toward the rail and the
-burned hole; nobody presses a stand-up melee on dry planking if there is a way to drag
-someone off it instead.
+**Every merfolk on the deck is trying to put a PC in the water**, where they have
+advantage and the PC does not. Gaff-hooks and harpoons pull toward the rail and the
+burned hole, and they avoid melee on dry deck when they can drag someone off it
+instead.
 
 **The deck.** Listing to port and wet. A land creature that moves more than half its
 speed makes a **DC 10 Dexterity (Acrobatics)** check or falls prone and slides 10 ft. to
 port. The hole burned through the waist is a 10-ft. gap down into the smoking hold.
 
 **In the water.** A PC in the water without a swimming speed is at disadvantage on melee
-attacks, has half speed, and is inside *Drowner*. Getting back to the rail unaided is
-**DC 13 Strength (Athletics)**; a thrown line makes it automatic.
+attacks, has half speed, and is subject to the merrow's *Drowner* trait. Getting back to
+the rail unaided is **DC 13 Strength (Athletics)**; a thrown line makes it automatic.
 
 **Dials.**
 
@@ -128,6 +128,5 @@ attacks, has half speed, and is inside *Drowner*. Getting back to the rail unaid
 - *No fight at all:* the band bargains. The terms are in
   [the encounter](../encounters/the-drifting-wreck.md) §6.
 
-**Blood in the water.** While anything is bleeding into the sea, **two more salvagers**
-come up each round, to a limit of six extra. This is the pressure that ends a long fight
-— not a punishment, just what happens.
+**Bleeding in the sea.** While anything is bleeding into the water, **two more
+salvagers** come up each round, to a limit of six extra. Use it to end a long fight.

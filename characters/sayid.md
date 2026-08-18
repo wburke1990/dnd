@@ -6,7 +6,7 @@ status: reference
 # Sayid
 
 The man Blackacre came up with, planned the ship-seizure with, and walked away from.
-He runs through Sam's backstory, and he is the antagonist of the arc.
+He appears throughout Sam's backstory, and the party will end up working against him.
 
 > The player-owned parts of this — the friendship, the revolt, what Blackacre did and
 > why he left — belong to **Sam** and live on [his sheet](blackacre.md). This file is
@@ -37,17 +37,17 @@ He first appears in play without being present, at
 ## How the two of them came up
 
 From Sam's backstory, kept short here because it is his: Blackacre's parents drowned,
-the family's standing went with them, and the boy grew up poor. **He met Sayid in that
-stretch.** They came up together in it, and at adulthood they did the thing they had
-been talking about for years — took a few ships of the fleet.
+the family's standing went with them, and the boy grew up poor. **He met Sayid during
+those years.** They both grew up poor, and at adulthood they did the thing they had been
+talking about for years — took a few ships of the fleet.
 
 Two things follow:
 
 - **Sayid knew him before he was a druid and before there was a writ**, when he was a
   boy whose parents had just died.
 - **The plan was both of theirs.** Sayid is not carrying out something Blackacre opposed.
-  He is carrying out something Blackacre wanted, in a way Blackacre could not stand once
-  he saw it.
+  He is carrying out something Blackacre wanted, and Blackacre left when he saw how it
+  was being carried out.
 
 ## What he wants
 
@@ -55,15 +55,15 @@ Two things follow:
 is close to Blackacre's own goal. `[OPEN]` whether he means it with the other races or
 without them — Sam left that to us and nothing written decides it yet.
 
-What that looks like from inside his own head:
+His reasoning:
 
-- The fleets live over the horizon and touch the world every couple of years on a timber
-  run. Everything they cannot make, they must beg, buy, or take.
+- The fleets live over the horizon and come ashore every couple of years for timber.
+  Everything they cannot make, they must beg, buy, or take.
 - The chiefdom of many heads cannot decide anything, which is why nobody has fixed this
   in five hundred years.
 - Somebody has to hold enough ships to make the mainland deal with the fleet.
-- **He is right that the fleet is dying slowly.** He is wrong about nearly every step he
-  takes toward fixing it.
+- **He is right that the fleet's hulls are failing faster than it can replace them.** He
+  is wrong about nearly every step he takes toward fixing it.
 
 ## How he behaves
 
@@ -103,10 +103,10 @@ Useful to have straight, because he will say some of it out loud one day:
 
 - **They planned it together for years**, and when it came to the hour Blackacre
   discovered a conscience about it.
-- **He left the killing to somebody else and kept his hands clean.** The people who died
+- **He left the killing to somebody else and did none of it himself.** The people who died
   that night were halflings and men. None of them were dragonborn. Sayid has noticed.
-- **He took the one hand the ships could not replace** — the druid. Nothing on those
-  hulls has been repaired properly since.
+- **He was the only druid the ships had, and he left.** Nothing on those hulls has been
+  repaired properly since.
 - **And he became a pirate anyway.** He sails under a marque out of Mukka, takes ships
   for an elf in Maalm, and only refuses to kill dragonborn.
 
@@ -114,14 +114,14 @@ He is not wrong about any of it.
 
 ## What he wants from Blackacre now
 
-**Him back, on his own feet.** He is telling people there is money on him — two hundred
-alive, half that dead — and the dead half is there because he has to be seen to have a
-price on the man. He does not want him dead. Sam's own reading: imprison him, bring him
-back around, or have it out with him first. **[settled — Sam]**
+**He wants him back alive and unhurt.** He is telling people there is money on him — two
+hundred alive, half that dead — and the dead price is there because his crews expect one.
+He does not want him dead. Sam's own reading: imprison him, talk him into coming back, or
+have it out with him first. **[settled — Sam]**
 
 He also needs a druid, and there is no other one he can get
-([the floating fleet](../world/the-sea/lore/floating-fleet.md)). He wants both, and he
-does not distinguish them.
+([the floating fleet](../world/the-sea/lore/floating-fleet.md)). He asks after Blackacre
+and after a druid in the same breath.
 
 ## The people around him
 
@@ -129,11 +129,11 @@ does not distinguish them.
   after the revolt. They follow him because he is the only one with a plan, and they have
   all now watched him do things he said he would do. **[draft]**
 - `[draft]` **A quartermaster who was there that night.** She was there, so he cannot
-  back down in front of her. She stands at his shoulder in every scene and she does not
-  push him. Name her when she is needed.
+  back down in front of her. She is present whenever he is, and she does not push him.
+  Name her when she is needed.
 - **The ones who went home.** Most of the crews who rose with him went back to the fleet
-  afterward. Somewhere out there are people who sailed with him that night and will talk
-  about it. **[settled — Will]**
+  afterward. Some of the people who sailed with him that night are still out there and
+  will talk about it. **[settled — Will]**
 
 ## Voice
 
@@ -152,14 +152,14 @@ Lines to have ready:
 
 ## Where he is now
 
-Within a day or two of the water in
-[the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md), working toward
-the Maalm coast on what Rustam told him. The DM can move him closer or further off.
+He took the *Nasira* a day and a half before the party found her
+([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md)), and he is
+working back toward the Maalm coast on what Rustam told him. The DM can move him closer
+or further off.
 
 ## How he shows up, in order
 
-He appears at a distance first and closer later. Sam has said he is not ready to meet
-him yet.
+Sam has said he is not ready to meet him yet.
 
 1. **Somebody he questioned.** The survivor at [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md),
    who heard him ask after Blackacre by name.
@@ -169,7 +169,8 @@ him yet.
    same distance off all day. **His ships still drum**, which is what marks them as
    fleet rather than Mukka privateers
    ([the floating fleet](../world/the-sea/lore/floating-fleet.md)).
-4. **A boarding, with Sayid not aboard** — his people, his terms, his question.
+4. **A boarding, with Sayid not aboard** — his crew, boarding on his terms and asking
+   his question.
 5. **The two of them in a room**, when Sam says he is ready.
 
 ## Other open threads

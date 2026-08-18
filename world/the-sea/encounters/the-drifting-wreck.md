@@ -10,7 +10,7 @@ status: ready
 > hear, smell and feel, what Rustam says, and the rolls. Run the session from Part Two.
 
 An open-water encounter for [Blackacre](../../../characters/blackacre.md), out of Sam's
-8/17 chat. **Sayid is not in it.** What is in it is a ship he took and the one man he left alive.
+8/17 chat. **Sayid is not in it.** What is in it is a ship he took and the one survivor.
 
 Run it on any day of open water. It fits the **Maalm → Brauron** leg in place of a
 [sea-table roll](../bestiary/sea-beasts.md) — see the
@@ -39,8 +39,8 @@ Fourteen of her crew are dead. Nine were killed on deck. Five were taken below a
 
 ## What Sayid did
 
-He holds a few ships. Ships that never make port take their timber, water, iron and
-cordage off somebody, and **he came for the masts.**
+He holds a few ships. They never make port, so they take their timber, water, iron and
+cordage from the ships they board, and **he came for the masts.**
 
 1. **No hail and no terms.** His people came over the rail in the dark and killed the
    crew where they stood.
@@ -55,8 +55,8 @@ cordage off somebody, and **he came for the masts.**
 5. **He left one man alive** — the one who answered.
 
 **He got two masts.** He lost the hull, the food in the hold, and fourteen sailors, on
-ships that are short of hands. A ship that strikes her colours hands him all of it for
-nothing.
+ships that are short of hands. He would have had all of it undamaged if the ship had
+struck her colours.
 
 How he talks and why he is like this: [Sayid](../../../characters/sayid.md).
 
@@ -67,17 +67,17 @@ or further off.
 ## The merfolk
 
 Nobody sent them and nobody paid them. **They found her adrift this morning.** A hull
-carries iron, brass, glass, nails, tools and sealed jars — things that cannot be made
-underwater and do not grow.
+carries iron, brass, glass, nails, tools and sealed jars, and they cannot make any of
+that underwater.
 
 They are stripping the dead of rings, buckles and knives, and putting the bodies over the
 side afterward. They did not kill anyone aboard and they did not cut anyone up.
 
-They found her, and they say she is theirs, and they will fight for her. They
-will also trade, and they trade fairly.
+They found her, and they say she is theirs, and they will fight for her. They will also
+trade, and they hold to what they agree.
 
-**They can tell he is dying, and to them he is one more of the dead.** The dead on this
-ship are theirs with everything else aboard her, and they take the dead into the water.
+**They can tell he is dying, and they count him with the dead.** The dead on this ship
+are theirs with everything else aboard her, and they take the dead into the water.
 The merfolk will not hand him over, and Rustam can hear the argument.
 
 Stat blocks: [merfolk salvagers](../bestiary/merfolk-salvagers.md).
@@ -128,14 +128,14 @@ ahead of them.
 
 **He gave Sayid the name.** When they had him below with the others and asked their
 question, he had an answer. He is the only one who did. That is why he is alive and why
-he still has his hands. He says he gave up the name to stay alive.
+Sayid did not cut him. He says he gave up the name to stay alive.
 
 **He recognizes Blackacre on sight** — same face, up close, in daylight.
 
 **What he asks for**, in this order. He is not offering anything in return:
 
 1. **Water.** Cold water, off their boat. He has been in the sea for a day and a half.
-2. **To talk.** He tells the whole thing whether or not anyone wants it.
+2. **To talk.** He tells it all, without being asked.
 3. **The ground.** A hole in earth, somewhere, anywhere, and somebody who knows where it
    is. Have him ask twice not to be put in the sea.
 4. **His brother told.** Ruslan, in Aar.
@@ -151,8 +151,8 @@ Sayid is hunting him by name. There is money on him, more alive than dead. The m
 asking was in this water yesterday. And somebody has already told Sayid to look in
 Maalm.
 
-He also learns **it was the fleet and not the Mukka pirates**, because of the drums. That
-is the one thing in this encounter nobody has to interpret for him.
+He also learns **it was the fleet and not the Mukka pirates**, because of the drums. He
+works that out himself.
 
 He does not meet Sayid, and there is nothing written down anywhere on the ship. The
 party learn all of the above only if Rustam tells them.
@@ -165,7 +165,7 @@ party learn all of the above only if Rustam tells them.
 
 ---
 
-## 1 · Smoke on the water
+## 1 · Sighting the smoke
 
 > Smoke stands off the water two miles ahead, thin and grey, going flat with the wind.
 > There is no land under it.
@@ -305,12 +305,13 @@ in pieces:
 
 > "Drums. The whole time. Over my head, all of it, and the drums never stopped."
 
-**This is the line that names who did it**, and Blackacre knows it the moment it is said.
+**Blackacre knows what the drums mean the moment Rustam says it.**
 **Mukka privateers do not drum.** They come up quiet and take a ship for the cargo. The
 **fleets** beat their commands across open water on hulls stretched with whale-bladder,
 and they drum through a boarding because that is how the other hulls are told what to do
 ([the floating fleet](../lore/floating-fleet.md), [fleet warfare](../lore/fleet-warfare.md)).
-A ship taken to drums was taken by the fleet. Rustam has no idea he has just said that.
+A ship taken to drums was taken by the fleet. Rustam does not know what he has just
+told him.
 
 > "They sawed the masts out of her. Hours of it. I lay under the boards and listened to
 > men saw the masts out of a ship."
@@ -385,7 +386,8 @@ for one dying man is offering more than the body is worth, and the merfolk accep
 **If it comes to a fight,** run it off
 [merfolk salvagers](../bestiary/merfolk-salvagers.md). At level 3 the party can lose it.
 They break when a harpooner drops or three salvagers are down. Everything with a hook on
-it is trying to put a PC over the rail. The merfolk have the advantage in the water.
+the harpooners and salvagers are working to pull PCs over the rail, where the merfolk
+have the advantage.
 
 **What the party get by talking instead:** the merfolk saw two hulls at a distance
 yesterday, standing away north, towing two spars each.
@@ -410,7 +412,7 @@ If the party carry the news, **Ruslan** is at the house by the water stair, and 
 one who explains what his brother would not. He is a Company man: their flag, their
 convoys, their cut of everything he moves, and the Mukka privateers leaving Company hulls
 alone because the Company buys the marques. He has had this argument with Rustam for
-years and he has just won it in the worst way.
+years, and now his brother is dead.
 
 What he can give the party: the name of the arrangement and who holds it in Aar, what a
 Company flag costs, and a debt to whoever brought his brother home. What he cannot tell
@@ -442,5 +444,5 @@ Run it whenever they reach Aar. It is a short scene and it does not need prep.
 
 - **Blackacre's birth name.** Sayid's people are using it along with the sea-name. Sam
   was checking; when he answers, Rustam can say both.
-- **What was in the cage.** Left open on purpose.
+- **What was in the cage.** Undecided. The DM chooses.
 - **How close Sayid stays.** Written as a day off, working toward Maalm.
