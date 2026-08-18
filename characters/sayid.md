@@ -177,4 +177,5 @@ Sam has said he is not ready to meet him yet.
 
 - With the other races or without them. Sam's question, left to us.
 - Whether the reunification is something the party could end up helping with.
-- What Blackacre's birth name is. Sayid's people are asking after him by it.
+- Whether Sayid uses Blackacre's birth name when he asks after him. His people ask by
+  the sea-name, because that is the one strangers know.

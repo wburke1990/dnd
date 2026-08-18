@@ -104,8 +104,8 @@ Added straight from Sam, planning the wreck encounter
   real-world property law for a good plot of land. Another dragonborn druid recognizes
   the name as one of these. Full note in
   [the Wandering](../world/the-sea/lore/wandering-dragonborn.md) — *the sea-names*.
-- **Still to confirm:** his birth name. Sam was checking. Sayid's people are using it
-  along with the sea-name when they ask after him.
+- **Still to confirm:** his birth name. Sam was checking. Nothing written needs it —
+  Sayid's people ask after him by the sea-name, because that is the one strangers know.
 
 ## The endgame — the fleet offer (~level 20) `[draft]`
 
@@ -217,8 +217,7 @@ above), which is where his druid-shipwright gift was prized:
 
 - **Sayid** — former friend turned antagonist; co-opted part of the Floating
   Fleet and went through with the violent ship-seizure Blackacre bailed on. He
-  is **hunting him ship by ship**, under his birth name and his sea-name, with money on
-  him alive or dead ([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md),
+  is **hunting him ship by ship** by his sea-name, with money on him alive or dead ([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md),
   [sayid](sayid.md)). (Name "Salahadin" was considered for him
   but is being **saved for someone else — possibly the ruler of the Zealots**.)
   **[settled]**

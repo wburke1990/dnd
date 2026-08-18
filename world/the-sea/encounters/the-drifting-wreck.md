@@ -442,7 +442,5 @@ Run it whenever they reach Aar. It is a short scene and it does not need prep.
 
 ## Open threads
 
-- **Blackacre's birth name.** Sayid's people are using it along with the sea-name. Sam
-  was checking; when he answers, Rustam can say both.
 - **What was in the cage.** Undecided. The DM chooses.
 - **How close Sayid stays.** Written as a day off, working toward Maalm.
