@@ -142,8 +142,8 @@ he still has his hands. He says he gave up the name to stay alive.
 
 **His lines are built on
 [the Streets of Laredo](../../../handouts/streets-of-laredo.md)** — the recognition, the
-instructions for his own body, the drum, the cup of water, and *"I know I've done
-wrong."* **Do not flatten them in a style pass. They are meant to sound like the song.**
+instructions for his own body, the drum, and the cup of water. **Do not flatten them in a
+style pass. They are meant to sound like the song.**
 
 ## What Blackacre learns
 
@@ -340,10 +340,6 @@ A ship taken to drums was taken by the fleet. Rustam has no idea he has just sai
 Then:
 
 > "He thanked me."
-
-**The confession.** He does not need to be pressed for this:
-
-> "I know what I did."
 
 **What he asks for.** Space these out. Let other things happen in between:
 

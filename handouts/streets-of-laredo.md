@@ -13,8 +13,8 @@ comes back.
 
 **Used at** [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md).
 Rustam's lines are built on this — the recognition, the instructions for the body, the
-drum, the cup of water, and *"I know I've done wrong."* **Do not flatten those lines in
-a style pass. They are meant to sound like this.**
+drum, and the cup of water. **Do not flatten those lines in a style pass. They are meant
+to sound like this.**
 
 > ⚠️ **Set down from memory and not yet checked against a printed source.** This is a
 > traditional song with many variants and the verses move around between them. Verify
@@ -66,5 +66,5 @@ And gone to his Maker — the cowboy was dead.
 - **The drum.** *"Beat the drum slowly."* Rustam has had drums. He asks for none.
 - **The cup of water.** He asks for it, somebody goes, and he is dead when they get
   back.
-- **The confession.** *"I know I've done wrong."* He told Sayid where to find Blackacre,
-  and he says so.
+- **The confession.** *"I know I've done wrong."* Left out. Rustam says what he did —
+  *"So I told him"* — and never comments on it.
