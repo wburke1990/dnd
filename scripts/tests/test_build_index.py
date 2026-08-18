@@ -25,6 +25,32 @@ def write(path: Path, summary: str = "A thing", status: str = "reference") -> Pa
     return path
 
 
+class TestYamlSafety:
+    def test_unquoted_colon_in_summary_is_rejected(self, tmp_path: Path) -> None:
+        path = tmp_path / "packet.md"
+        path.write_text("---\nsummary: A packet: taverns and a storm\nstatus: next\n---\n\n# P\n")
+        with pytest.raises(MissingFrontmatter, match="colon"):
+            read_doc(path)
+
+    def test_quoted_colon_is_allowed(self, tmp_path: Path) -> None:
+        path = tmp_path / "packet.md"
+        path.write_text('---\nsummary: "A packet: taverns"\nstatus: next\n---\n\n# P\n')
+        assert read_doc(path).summary == "A packet: taverns"
+
+    def test_colon_without_space_is_allowed(self, tmp_path: Path) -> None:
+        path = tmp_path / "packet.md"
+        path.write_text("---\nsummary: Sailing 12:00 to dusk\nstatus: next\n---\n\n# P\n")
+        assert read_doc(path).summary == "Sailing 12:00 to dusk"
+
+    def test_every_content_file_parses_as_github_yaml(self) -> None:
+        offenders = [
+            str(p)
+            for p in build_index.content_files()
+            if build_index.yaml_unsafe(p.read_text()) is not None
+        ]
+        assert offenders == []
+
+
 class TestParseFrontmatter:
     def test_reads_fields(self) -> None:
         text = "---\nsummary: The four tombs\nstatus: played\n---\n\n# Tombs\n"

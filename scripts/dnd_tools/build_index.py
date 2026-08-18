@@ -116,10 +116,42 @@ def parse_frontmatter(text: str) -> dict[str, str]:
     return fields
 
 
+def yaml_unsafe(text: str) -> str | None:
+    """Name the first frontmatter line GitHub's YAML parser would reject.
+
+    Our own parser is lenient, but GitHub renders the block as YAML, where an
+    unquoted value cannot contain ``": "`` — it reads as a nested mapping and the
+    file shows an error banner instead of the page.
+    """
+    if not text.startswith("---\n"):
+        return None
+    end = text.find("\n---", 4)
+    if end == -1:
+        return None
+    for line in text[4:end].splitlines():
+        key, sep, value = line.partition(":")
+        if not sep or key.startswith(" "):
+            continue
+        value = value.strip()
+        if value[:1] in {'"', "'"}:
+            continue
+        if ": " in value:
+            return key.strip()
+    return None
+
+
 def read_doc(path: Path) -> Doc:
-    fields = parse_frontmatter(path.read_text())
+    text = path.read_text()
+    fields = parse_frontmatter(text)
     summary = fields.get("summary", "")
     status = fields.get("status", "")
+    broken = yaml_unsafe(text)
+    if broken is not None:
+        raise MissingFrontmatter(
+            path,
+            f"{broken} contains a colon and is unquoted; GitHub reads frontmatter as YAML "
+            "and will not render the file",
+        )
     if not summary:
         raise MissingFrontmatter(path, "no summary in frontmatter")
     if status not in STATUSES:

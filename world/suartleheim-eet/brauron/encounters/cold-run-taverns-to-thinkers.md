@@ -1,5 +1,5 @@
 ---
-summary: A run-cold packet: the Maalm taverns, the sail to Brauron, and the Thinkers
+summary: A run-cold packet — the Maalm taverns, the sail to Brauron, and the Thinkers
 status: next
 ---
 
