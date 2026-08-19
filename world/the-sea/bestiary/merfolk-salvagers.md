@@ -38,8 +38,8 @@ find.
 - **Skills** Athletics +2, Perception +3
 - **Senses** Passive Perception 13; darkvision 60 ft.
 - **Languages** Aquan, and broken Common, enough to bargain. **Aquan is a dialect of
-  Primordial**, so a PC with Auran, Ignan or Terran can talk to them too — Abyssal
-  cannot ([languages](../../nila/lore/house-rules-and-world-mechanics.md))
+  Primordial**, so **Aniess can talk to them** — as can anyone with Auran, Ignan or
+  Terran ([languages](../../nila/lore/house-rules-and-world-mechanics.md))
 
 **Amphibious.** Breathes air and water.
 

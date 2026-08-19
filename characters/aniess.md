@@ -15,6 +15,9 @@ status: reference
 **Player:** Greg
 **Affiliation:** The Order of the Emplere Cnihtas — the crusader order of the religion of Sunne, the dominant religion of Kuru
 **Origin:** Kuru — likely the capital Ankalia or the commercial city of Ekkek
+**Languages:** includes **Primordial** — which carries into Auran, Aquan, Ignan and
+Terran, so Aniess is the party's way of talking to the sea-folk
+([languages](../world/nila/lore/house-rules-and-world-mechanics.md))
 
 ---
 

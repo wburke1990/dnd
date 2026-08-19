@@ -63,6 +63,11 @@ burned through, drifting. Merfolk were over her, stripping her.
 - **Jasper went into the water** in heavy armour carrying three heavy weapons, and
   nearly drowned. He **speared the side of the boat** and hung there until the party got
   a rope to him and hauled him back aboard.
+- **Could Aniess have talked to them?** Greg asked at the table; William ruled no,
+  remembering the language as Abyssal. **It is Primordial**, and Aquan is one of its
+  dialects, so the answer was yes. Corrected in
+  [the language rules](../world/nila/lore/house-rules-and-world-mechanics.md) — she is
+  the party's way of talking to the sea from here on.
 - **They spent the session enjoying themselves** and did not get much further than that.
 
 ---

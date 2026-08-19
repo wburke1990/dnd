@@ -81,8 +81,8 @@ This has significant implications:
 
 ## Languages — what carries over, and what does not
 
-`[settled — Will, session 11]` Ruled at the table when Greg argued that Aniess's
-**Abyssal** should let her talk to the merfolk. **It does not.**
+`[settled — Will, session 11, corrected after]` Came up when Greg asked whether Aniess
+could speak to the merfolk. **She can.**
 
 **Primordial is the one language that spreads across four dialects**, and this is the
 rules as written, not a house rule: **Auran, Aquan, Ignan and Terran are dialects of
@@ -90,13 +90,16 @@ Primordial**, and anyone who has one of them can make themselves understood in t
 three. Air, water, fire and earth, spoken by the elemental peoples and by a good deal
 that lives in the sea.
 
-- **Merfolk speak Aquan**, and enough trade Common to bargain
-  ([merfolk salvagers](../../the-sea/bestiary/merfolk-salvagers.md)). A PC with **any**
-  Primordial dialect can talk to them. That is the door in.
-- **Abyssal is not one of them.** In this world the demons and the tunnels they live in
-  have nothing to do with the elemental peoples, and the sea-folk are not their kin. The
-  Abyss here is a tunnel network under the world (above), not an elemental realm, so
-  knowing the demons' tongue buys nothing in the water.
+- **Aniess speaks Primordial.** **Merfolk speak Aquan**, plus enough trade Common to
+  bargain ([merfolk salvagers](../../the-sea/bestiary/merfolk-salvagers.md)). So she can
+  talk to them, and to anything else in the water that speaks a Primordial dialect.
+- **It was ruled the other way at the table**, on the belief that the language in
+  question was Abyssal. It was not. **The ruling is superseded** — Aniess is the party's
+  way of talking to the sea.
+- **Abyssal would not have worked.** In this world the demons and the tunnels they live
+  in have nothing to do with the elemental peoples, and the sea-folk are not their kin.
+  The Abyss here is a tunnel network under the world (above), not an elemental realm, so
+  the demons' tongue buys nothing in the water.
 - **Deep Speech, Infernal and Celestial** stand on their own the same way. No dialect
   bridges.
 
