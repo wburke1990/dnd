@@ -40,7 +40,12 @@ stations hold for later crossings.
 ## Pax is a flat-earther, and has eleven toes
 
 Andrew established both at the table. **Pax believes the world is flat**, and he has
-**eleven toes**. He is sailing out onto open water with the first belief intact.
+**eleven toes**.
+
+He holds the first one having already **seen the world from among the stars** — his own
+four-day vision, where the world "became small below him," and the two sessions the whole
+party spent on the boat on the river of stars. His account on his sheet says he saw the
+world entire *"not as a map or a sphere."*
 
 ## The wreck
 

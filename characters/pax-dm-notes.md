@@ -110,18 +110,29 @@ Ties to what's already on the table:
 ## The flat earth
 
 `[Andrew, session 11]` Pax holds that the world is flat, and Andrew plays it straight.
-Do not argue with him through an NPC, and do not stage a lecture. The campaign is about
-to put the question in front of him anyway, without anyone making a point of it:
 
-- **The horizon.** He is at sea now, standing watch on a small boat with a
-  [navigator learning the stars](../world/the-sea/lore/sailing-and-storms.md) beside him.
-- **The atlas and the pre-Fall map**, which shows a world that has changed shape twice
-  ([tomb 1](../world/suartleheim-eet/maalm/prompts/tomb-1-inner-chamber-ancient-map.md)).
-- **The Thinkers' island**, which sinks under them and comes up as a dragon
-  ([island of the thinkers](../world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md)).
+**He has already seen otherwise, twice, and it did not touch the belief.**
 
-Let him keep the belief as long as he wants it. It costs nothing and it is funny, and
-the one time it matters is whenever Andrew decides it does.
+- **His own vision.** He rose until "the world became small below him" and he stood among
+  the stars looking down at the whole of it. His account, in his own words on
+  [his sheet](pax.md), says he saw the world entire **"not as a map or a sphere."** He
+  was above it, he looked at it, and he reports that it was not a sphere.
+- **The river of stars.** The whole party sailed above the world for two sessions on the
+  dead man's boat ([the dream quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md),
+  [sessions 8](../sessions/session-08.md)–[9](../sessions/session-09.md)), with the stars
+  below them as well as above.
+
+So this is not a man who has never seen the evidence. It is a man who has been to space,
+looked down, and come back with the same opinion. Play it that way.
+
+**Do not argue with him through an NPC, and do not stage a lecture.** The world will keep
+putting it in front of him without anyone making a point of it — the horizon at sea with
+a navigator learning the stars beside him, the pre-Fall map in
+[Tomb 1](../world/suartleheim-eet/maalm/prompts/tomb-1-inner-chamber-ancient-map.md), and the
+Thinkers' island going under and coming up as a dragon
+([island of the thinkers](../world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md)).
+He can go on rejecting all of it. It costs nothing, it is funny, and the one time it
+matters is whenever Andrew decides it does.
 
 Open:
 
