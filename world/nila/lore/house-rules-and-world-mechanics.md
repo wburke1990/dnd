@@ -79,6 +79,39 @@ This has significant implications:
 - The wizard's demon army does not require summoning in the traditional sense — it requires binding beings who are already adjacent to the surface world
 - The tunnels under Maalm are where Ammit took up residence after the empire's collapse — she did not arrive from elsewhere, she descended into what was already there
 
+## Languages — what carries over, and what does not
+
+`[settled — Will, session 11]` Ruled at the table when Greg argued that Aniess's
+**Abyssal** should let her talk to the merfolk. **It does not.**
+
+**Primordial is the one language that spreads across four dialects**, and this is the
+rules as written, not a house rule: **Auran, Aquan, Ignan and Terran are dialects of
+Primordial**, and anyone who has one of them can make themselves understood in the other
+three. Air, water, fire and earth, spoken by the elemental peoples and by a good deal
+that lives in the sea.
+
+- **Merfolk speak Aquan**, and enough trade Common to bargain
+  ([merfolk salvagers](../../the-sea/bestiary/merfolk-salvagers.md)). A PC with **any**
+  Primordial dialect can talk to them. That is the door in.
+- **Abyssal is not one of them.** In this world the demons and the tunnels they live in
+  have nothing to do with the elemental peoples, and the sea-folk are not their kin. The
+  Abyss here is a tunnel network under the world (above), not an elemental realm, so
+  knowing the demons' tongue buys nothing in the water.
+- **Deep Speech, Infernal and Celestial** stand on their own the same way. No dialect
+  bridges.
+
+### What the demons call Abyssal
+
+`[settled — Will, session 11]` **The demons call their own language the language of the
+making.** Not the language of the Abyss and not the demons' tongue — the tongue the world
+was made in, which they hold they still speak and everyone else has lost.
+
+Say it in their mouths and leave it there. Nobody needs to rule on whether they are
+right, and [Preem's bound demons](../../../characters/preems-demons.md) will say it as
+plain fact when a name or a binding comes up — which is the same claim underneath the
+[true name rule](#the-rule): a name said in the language a thing was made in has a hold
+on it.
+
 ## Demon Suffering on the Surface
 
 Extraplanar beings — specifically demons — experience the surface world as physically uncomfortable. The symptoms:
