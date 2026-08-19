@@ -7,6 +7,10 @@ status: reference
 ## Aasimar Monk — played by Andrew
 
 > **DM notes:** [`pax-dm-notes.md`](pax-dm-notes.md) — our readings and campaign ties, kept out of Andrew's sheet.
+>
+> **Andrew wrote the prose in this file.** The appearance, backstory and vision sections
+> are his words. `prose-lint` flags a few things in them; leave them alone. The house
+> style governs our sentences, not a player's account of his own character.
 
 ---
 
@@ -123,6 +127,11 @@ Then he looked at the empty place beneath the elm where the mushroom had grown a
 **The Compost Staff:** A moss-covered quarterstaff Pax insists is not a weapon — "a branch with a mandate." Central to his identity and visual at the table.
 
 **The green-gold glow:** Pax's skin and the lines beneath it carry a faint luminescence he attributes to the Green Revelation, not his celestial heritage. He calls his light **"photosynthetic judgment."**
+
+**The world is flat.** `[Andrew, session 11]` Pax believes it, and says so. He is now
+sailing open water with the belief intact.
+
+**Eleven toes.** `[Andrew, session 11]`
 
 **Charges outstanding:** Sabotage, trespass, unlawful release of animals, destruction of equipment, impersonating a religious authority, and "making threats on behalf of rivers," among others. Some he denies. Not all.
 

@@ -107,6 +107,22 @@ Ties to what's already on the table:
   Vael'Tharos**; whether the forgotten star-name is that or the Celestial's name
   for him is open.
 
+## The flat earth
+
+`[Andrew, session 11]` Pax holds that the world is flat, and Andrew plays it straight.
+Do not argue with him through an NPC, and do not stage a lecture. The campaign is about
+to put the question in front of him anyway, without anyone making a point of it:
+
+- **The horizon.** He is at sea now, standing watch on a small boat with a
+  [navigator learning the stars](../world/the-sea/lore/sailing-and-storms.md) beside him.
+- **The atlas and the pre-Fall map**, which shows a world that has changed shape twice
+  ([tomb 1](../world/suartleheim-eet/maalm/prompts/tomb-1-inner-chamber-ancient-map.md)).
+- **The Thinkers' island**, which sinks under them and comes up as a dragon
+  ([island of the thinkers](../world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md)).
+
+Let him keep the belief as long as he wants it. It costs nothing and it is funny, and
+the one time it matters is whenever Andrew decides it does.
+
 Open:
 
 - Which Celestial, and its name — a Norse-register sky-power to coin.

@@ -73,6 +73,17 @@ each round a player says what their character is doing and rolls the ability tha
 fits. Setting a course and keeping a lookout fold into whoever holds the watch;
 the old bosun's job is Deck.
 
+**Who has which job.** `[from play, session 11]` Blackacre handed the roles out when
+they sailed from Maalm, and the party are learning them as they go:
+
+| Who | Aboard |
+|---|---|
+| **Blackacre** | Master. His boat |
+| **Sarric** | Learning first mate |
+| **Aniess** | Learning navigation |
+| **Jasper** | Carpenter and bosun |
+| **Pax** | Dogsbody |
+
 **Short-handed for a crisis.** All hands wants at least three able bodies. Fewer
 than three raises the storm and beast DCs by **2** — which is why a couple of
 hired hands earn their keep the first time it blows: crew enough to work hard

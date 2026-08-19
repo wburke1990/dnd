@@ -364,6 +364,7 @@ Sailing, weather, fleets and what lives in the water.
 | [session 08](sessions/session-08.md) | `played` | The Dream Quest begins — the river of stars and the first four gates |
 | [session 09](sessions/session-09.md) | `played` | Gates Five and Six, the Hall of Two Truths, and Ammit eats Ghassan's heart |
 | [session 10](sessions/session-10.md) | `played` | V.'s offer at the coffeehouse, the docks, and the lost map at Preem's tower |
+| [session 11](sessions/session-11.md) | `played` | Ship's roles handed out, then the burning wreck outside Maalm and the merfolk fight |
 | [player messages earth dreams](sessions/player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 ## references

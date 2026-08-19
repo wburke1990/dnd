@@ -5,6 +5,10 @@ status: ready
 
 # The Drifting Wreck
 
+> **Run in session 11, and unfinished** — see
+> [session 11](../../../sessions/session-11.md). The party fought the merfolk on deck and
+> killed five, one got away, and nobody has reached Rustam. Pick up at §5.
+>
 > **How to use this doc.** Two parts. **Part One is background** — read once in prep,
 > not needed at the table. **Part Two is the run sheet**, in play order: what they see,
 > hear, smell and feel, what Rustam says, and the rolls. Run the session from Part Two.
