@@ -320,8 +320,22 @@ For contrast, everything else the party carries sorts cleanly:
 | Sarric's Pen of Comprehend Languages | Divination |
 | Pax's Glasses of Detect Magic | Divination |
 | Aniess's Timebiter | Divination |
+| Blackacre's message stone from Preem | Evocation |
 | Sarric's sending stone from V. | Evocation |
+| Batrick's own stone, which the party do not know about | Evocation |
+| Preem's map, and Mul's replacement for it | Nothing — see below |
 | **The small Anubis, and the peseshkef** | **Necromancy — and something with no school under it** |
+
+`[settled — 8/25]` **Every sending stone reads the same.** All three cast *Sending*, which is
+**evocation**, so nothing about the aura tells Preem's channel from V.'s — or from the third
+one, which is **Batrick's**, and which nobody has been told exists
+([the psychic bat](../../../characters/the-psychic-bat.md)). A party that scans itself finds
+two stones it knows about and, if the quasit is visible and in range, one it does not.
+
+`[settled]` **The map is not magic.** The stone does the work; the map is the surface you
+tap it against to key a place
+([the Valley](../../suartleheim-eet/maalm/encounters/valley-of-the-kings.md)). Preem's atlas
+was an atlas, V. took it in session 10, and Bellington's replacement is a replacement.
 
 ### The hive mind — from symbiosis to parasitism
 
