@@ -303,6 +303,7 @@ Sailing, weather, fleets and what lives in the water.
 | [actaeon](handouts/actaeon.md) | `reference` | Ovid, "Metamorphoses" Bk 3, trans. Golding — Diana turns Actaeon to a stag; his hounds kill him |
 | [anchar](handouts/anchar.md) | `reference` | Pushkin, "Anchar" (The Upas Tree) — a poison tree in the desert, in two English translations |
 | [because i could not stop for death](handouts/because-i-could-not-stop-for-death.md) | `reference` | Emily Dickinson, "Because I could not stop for Death" — incantation for a Speak with Dead rite |
+| [canting songs](handouts/canting-songs.md) | `reference` | Two real thieves' canting songs, used as the countersign and the ask between Aniess and Beartholomew |
 | [clay tablet of baruch](handouts/clay-tablet-of-baruch.md) | `reference` | 2 Baruch, the letter to the scattered tribes — a clay tablet Blackacre found on Kuru |
 | [copaa lament](handouts/copaa-lament.md) | `reference` | The Admonitions of Ipuwer — dirge for poisoned Copaa, the river run to blood |
 | [creation aniess](handouts/creation-aniess.md) | `reference` | Aniess's creation story — the faith of Sunne, the religion of Kuru she was raised in |

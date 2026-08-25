@@ -31,20 +31,45 @@ stands on the wharf he is paid to guard. Run the four handouts first, as written
 >
 > "Aniess," he says.
 
-He says he is glad to see her. He does not ask what she has been doing. He gives the party
-his name, tells them he came up with her, and asks for what he wants right away:
+**Then the cant.**  `→` [canting songs](../../../../handouts/canting-songs.md)
 
-> "There is a knife in the guest house. It belongs to a man from Maalm who is waiting on a
-> boat north, and when his boat comes it goes with him. I need it carried up the canal to
+The first thing between them is a rhyme they both had off the Order years ago, traded two
+lines each. He starts it and waits. **Send Greg his lines before the session** — they are
+written out with the gloss in the handout.
+
+| | Line |
+|---|---|
+| **Bear** | *"Bing out, bien morts, and toure, and toure,"* |
+| **Aniess** | *"bing out of the Rome-vile;"* |
+| **Bear** | *"And toure the coue, that cloyde your duds,"* |
+| **Aniess** | *"upon the chates to trine."* |
+
+*(Go out, good women, and look, and look — go out of the city — and see the man that stole
+your clothes hanged on the gallows.)*
+
+Then he names the job in the second song, and the third line of it is the whole ask:
+
+> *"If we niggle, or mill a bowsing ken,*
+> *Or nip a boung that has but a win,*
+> *Or **dup the giger of a Gentry cofe's ken**,*
+> *To the quier cuffing we bing."*
+
+*(Open the door of a gentleman's house, and we go before the justice.)* Aniess answers
+*"The Ruffin cly the nab of the Harmanbeck"* — the devil take the constable's head — and
+after that he says it plainly:
+
+> "There is a knife in the guest house. It belongs to a woman from Maalm who is waiting on
+> a boat north, and when her boat comes it goes with her. I need it carried up the canal to
 > Copaa. I cannot go, and I cannot be seen taking it."
 
-Everything he will say if pressed:
+He says he is glad to see her. He does not ask what she has been doing, and he gives the
+party his name. Everything else he will say if pressed:
 
 - **He is an ore guard on the Company's books,** and has been for four months. The Order put
   him here. Walking off the wharf for a week up the canal ends the posting, and the Order
   does not get it back.
-- **He can tell them everything about the man's movements** — when he eats, when he is out,
-  when the knife comes off his belt — because he stands on that wharf all day looking at
+- **He can tell them everything about her movements** — when she eats, when she is out,
+  when the knife comes off her belt — because he stands on that wharf all day looking at
   the guest house.
 - **He will pay,** out of Order money, half at Aar and half through his man at Copaa.
 - **He calls it a knife.** `[settled]` **He does not know it is godstone.** He was given a
@@ -104,16 +129,17 @@ that is well above anything the party carry.
 **[Lapis Writ](../../maalm/encounters/tavern-name-hunter-crews.md)** — funded Maalm
 aristocrats, Preem's other crew, who cleared every tomb in the Valley.
 
-**It is his family's, not tomb loot.** The Valley tombs were stripped of their valuables
+**It is her family's, not tomb loot.** The Valley tombs were stripped of their valuables
 shortly after Maalm was founded ([the Valley](../../maalm/encounters/valley-of-the-kings.md)),
 long before any crew walked into them; the party found empty niches and so did the Writ.
 Renk's people are founder-blood, and this came into the family in that looting. Nobody in
 the family says so.
 
-**He does not know what it is.** It is the piece his house has always had, the way the
-[al Qahtani](../../../../characters/the-children.md) have always had the Anubis. What his
+**She does not know what it is.** It is the piece her house has always had, the way the
+[al Qahtani](../../../../characters/the-children.md) have always had the Anubis. What her
 family do know is that it cuts better than it should, and they call that the house's luck.
-He wears it because it is old and it is theirs.
+She wears it because it is old and it is theirs — and because her mother's house is the
+claim she is fighting to get back.
 
 The Writ are in **Aar's guest house**, the one good building on the basin, waiting on
 passage north to the Sacred Hunt. They do not crew a boat; they buy a berth, and they do
@@ -131,20 +157,20 @@ aboard wearing it.
 
 ## 5 · Taking it `[loose]`
 
-Renk wears it at his belt in the open, and takes it off to sleep and to bathe. Three ways
+Renk wears it at her belt in the open, and takes it off to sleep and to bathe. Three ways
 in, all of them theft rather than a fight:
 
 - **The guest house at night.** The Writ have the upper floor and Doruk Pell sleeps across
-  the door of Renk's room. A window off the gallery, a lock at DC 15, and a man in the bed.
+  the door of Renk's room. A window off the gallery, a lock at DC 15, and Renk in the bed.
 - **The bath house.** The blade comes off with the belt and the belt goes on a bench, with
   one bored Writ hand watching it for about twenty minutes.
-- **Win it.** Renk will not sell his family's knife. He will **stake** it, with a good
+- **Win it.** Renk will not sell her family's knife. She will **stake** it, with a good
   enough stake against it and a room watching — they are aristocrats waiting on a boat with
   nothing else to do, and they spend that time in the Tally House. What the party can put
   up: money, Blackacre's sloop, or what they know about the four tombs.
 
 **The Writ will report the theft,** and they answer to Mul the same as the party do. It is
-Renk's family's knife, so he will not treat it as a business loss. `[OPEN]` how fast it
+Renk's family's knife, so she will not treat it as a business loss. `[OPEN]` how fast it
 gets back to Maalm, and what Preem does with it.
 
 ## 6 · What Beartholomew does and does not do `[loose]`
@@ -200,7 +226,77 @@ says it once.
 - `[OPEN]` Whether anyone tells the al Qahtani what their heirloom is.
 - `[OPEN]` What else came out of that workshop. Two Maalm houses hold a piece of it, both
   by way of the Amseh — one carried down through the tunnels and one taken in the looting.
-- `[OPEN]` Whether Renk ever learns what the knife is.
+- `[OPEN]` Whether Renk ever learns what the knife is, and what she does about the house
+  that killed her mother if she finds out what her house was holding.
+
+## 11 · The numbers, RAW
+
+**[Beartholomew](../../../../characters/beartholomew.md) — Rogue 1 / Fighter 3 (Echo
+Knight).** The single rogue level is the only RAW way he speaks Thieves' Cant, and it is
+what the Order trained into him before they gave up on hiding him. It also gives him
+Expertise in two skills and Sneak Attack 1d6.
+
+- **Manifest Echo** (bonus action) — a translucent grey image of him in an unoccupied space
+  within 15 feet. AC 16, **1 hit point**, immune to all conditions. Any damage destroys it.
+- Bonus action to **move the echo 30 feet in any direction. It moves through creatures and
+  objects** and must end in an unoccupied space, never more than 30 feet from him.
+- Bonus action to **swap places with it** while it is within 30 feet. That is a teleport.
+- His attacks can originate from the echo's space, and he can take opportunity attacks from
+  it. **Unleash Incarnation** gives one extra melee attack from the echo, CON modifier
+  times per long rest.
+- Also Second Wind, Action Surge, a Fighting Style.
+
+**What that means for the heist.** The echo walks through the guest-house wall and he sees
+the room, so *getting in* is not the problem. But the echo **cannot lift, carry, open or
+touch anything** — it is an image — and it is an image **of him.** Anyone who sees it has
+seen a seven-foot bear-man in a room he has no business in, and his posting is over. One
+hit destroys it. So he scouts and he does not steal.
+
+**[Setha Renk](../../maalm/encounters/tavern-name-hunter-crews.md) — half-elf, Bard 3
+(College of Lore).**
+
+- **Darkvision 60 feet.** She can see the room in the dark.
+- **Fey Ancestry.** Advantage on saves against being charmed, and she cannot be put to
+  sleep by magic. *Sleep* and *Charm Person* are bad plans.
+- **Cutting Words** (reaction, 60 feet, spends a Bardic Inspiration die) — subtract d6 from
+  a creature's attack roll, ability check, or **damage roll**. An ability check includes
+  Sleight of Hand and Stealth. This is the needle with a number on it.
+- Expertise, Jack of All Trades, and 2nd-level slots: *Suggestion*, *Invisibility*,
+  *Charm Person*, *Disguise Self*, *Detect Magic*.
+- She has read her own knife with *Detect Magic* at some point. It registers, which is
+  where the family's talk of luck comes from. It does not tell her what it is made of.
+
+**[Issa Quib](../../maalm/encounters/tavern-name-hunter-crews.md) — halfling, Cleric 3
+(Grave Domain).** Aniess's counterpart, and the one who makes the theft hard to keep.
+
+- **Locate Object** (2nd level) — she has seen the peseshkef inside 30 feet, so she can
+  find it: the nearest such object **within 1,000 feet**, concentration up to 10 minutes.
+  **A thin sheet of lead blocks it.**
+- So the getaway is a real problem with a real answer. Get more than 1,000 feet out, or
+  wrap it in lead — and Aar is an ore port with lead sheet lying on the wharf. The canal
+  is the way out of range.
+- **Lucky** (reroll a 1 on any attack roll, ability check or save) and **Brave**. Lightfoot
+  halflings also get **Naturally Stealthy.**
+- Also *Bane*, *Command*, *Silence*, *Hold Person*, and Channel Divinity.
+
+**[Calix Vire](../../maalm/encounters/tavern-name-hunter-crews.md) — elf, Wizard 3 (School
+of Divination).** The worst news in the building.
+
+- **Elves do not sleep.** He trances four hours, so half of any night has him awake.
+- **Portent** — two d20s rolled after each long rest, and he can **replace any attack roll,
+  saving throw or ability check** made by himself or a creature he can see with one of
+  them. If he rolled a 4 that morning, somebody's Stealth check is a 4.
+- **Alarm**, cast as a ritual, so it costs him nothing to ward a 20-foot cube of gallery
+  for 8 hours. Also *Detect Magic*, *Sleep*, *Misty Step*, *Detect Thoughts*.
+- **The quasit.** His pet toad is Preem's quasit. Darkvision 120 feet, invisible at will,
+  and it does not sleep either. Whatever it sees, Preem hears.
+
+**[Doruk Pell](../../maalm/encounters/tavern-name-hunter-crews.md) — dwarf, Fighter 3
+(Battle Master).** Darkvision 60 feet, sleeps across Renk's door, 4d8 superiority dice with
+Riposte, Trip Attack and Menacing Attack.
+
+**[Bram Hale](../../maalm/encounters/tavern-name-hunter-crews.md) — human, Fighter 3
+(Champion).** No darkvision, and he takes the first watch. That is the window.
 
 ## Connections
 

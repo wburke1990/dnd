@@ -13,7 +13,7 @@ status: draft
 > Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
 **Race:** human, merged with a bear
-**Class:** Fighter (Echo Knight)
+**Class:** Rogue 1 / Fighter 3 (Echo Knight)
 **Affiliation:** the Order of the Emplere Cnihtas — the same covert arm as Aniess
 **Where he is:** [Aar](../world/suartleheim-eet/raand-copaa/lore/aar.md), on the Company's
 books as an ore guard
@@ -61,12 +61,30 @@ the foot of the watch-stone because it stands on his wharf, and the **Tally Hous
 the shift with the crews he guards. He drinks with them because he wants to, not because
 the cover needs it.
 
+## The build `[settling]`
+
+**Rogue 1 / Fighter 3 (Echo Knight).** The one rogue level is the training the Order gave
+him before they gave up on hiding him, and it is the only RAW way he speaks **Thieves'
+Cant** — which is how he opens with Aniess
+([canting songs](../handouts/canting-songs.md)). It also gives him Expertise in two skills
+and Sneak Attack 1d6. Fighter 3 gives him a Fighting Style, Second Wind, Action Surge, and
+the echo.
+
 ## The echo `[settling]`
 
-He can put a copy of himself across a room, over a wall, or on the far side of a shed
-door. The copy moves, watches, and takes a blow meant for him. It cannot lift a crate,
-turn a key, or carry anything out. It is how he watches the guest house on the basin
-without leaving his post.
+**Manifest Echo.** A bonus action puts a translucent grey image of him in an unoccupied
+space within 15 feet: AC 16, **one hit point**, immune to every condition, destroyed by any
+damage. A bonus action moves it 30 feet in any direction and **it moves through creatures
+and objects**, so a wall or a locked door is nothing to it. A bonus action swaps him with
+it while it is within 30 feet, which is a teleport. He can attack from its space, take
+opportunity attacks from it, and **Unleash Incarnation** gives him one extra melee attack
+from it, CON modifier times per long rest.
+
+**What it cannot do.** Lift a crate, turn a key, or carry anything out. It is an image.
+
+**And it is an image of him.** Anyone who sees it has seen a seven-foot bear-man standing
+in a room he has no business in. So he uses it where nobody is looking — the guest house
+on the basin, from his post — and he is not the one who steals anything.
 
 ## How to play him `[settling]`
 
