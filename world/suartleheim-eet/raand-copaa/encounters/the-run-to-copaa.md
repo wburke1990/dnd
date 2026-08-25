@@ -101,14 +101,16 @@ everything, more men than buildings. A canal runs straight inland from the basin
    The party left Maalm without ever drinking with Preem's other crews, and the crews are
    working up this coast toward the Hunt. **Run that scene here** — on the waterfront or
    in the **Tally House** on the basin — instead of the Maalm taverns. The **Lapis Writ**
-   finished the whole Valley without missing a name; the **Brass Jackals** are broke and a
-   member or two down. Each crew member is paired with a PC. Use **Calix's pet toad**
-   once, murmuring into his head, and do not explain it.
+   finished the whole Valley without missing a name and have the upper floor of the guest
+   house while they wait on a boat north; the **Brass Jackals** are broke and a member or
+   two down. Each crew member is paired with a PC. Use **Calix's pet toad** once,
+   murmuring into his head, and do not explain it.
 4. **Beartholomew.**  `→` [the godstone dagger](the-godstone-dagger.md)
-   Aniess's friend from her cohort in the Order is sitting at the foot of the watch-stone,
-   and asks the party to take a knife out of a Company shed before the tide. **A session
-   of its own if they take it.** Skip it and he is still there when they come back down
-   the canal.
+   Aniess's friend from her cohort in the Order is eating at the foot of the watch-stone
+   in a Company guard's coat. He asks the party to lift the **Amseh ceremonial blade**
+   off **Setha Renk's** belt and carry it up the canal for him, because he is embedded on
+   the wharf and leaving ends the posting. **Run the crew scene first, so they drink with
+   the Writ before they rob them.** A session of its own if they take it.
 5. **A day in port** clears the hull boxes and refills stores.
 
 **If they put in at Aal instead,** the old Mughal port up the coast, swap it into Aar's
@@ -133,11 +135,18 @@ Older stonework shows under newer stonework the whole way in.
 - **The Piper out of the Mound.** The Company's digging opens a mound and a piper walks
   out still playing. A year underground made him a master. He believes that year is
   ending now. Told the truth, he ages where he stands or walks back into the hill.
+**If they are carrying the knife,** run the two pieces of godstone together somewhere on
+this road — on the towpath, in a pack, on a barge at night. The peseshkef and Aniess's
+**small Anubis** are the same grey that takes no light and the same wrong weight for the
+size, and she is the one who knows what the statue weighs
+([the godstone dagger](the-godstone-dagger.md) §7).
+
 - **Copaa, on the lake.**  `→` [copaa.md](../lore/copaa.md) An old-west ore town: the
   landing where the Haals ore comes down the river, a tavern, an inn. The river runs
   fouled and the fields carry the leprosy the party saw in session 10. **Jogo's story is
   here,** and so is the Second Foundation's guarded chinampa operation at the river mouth,
-  whose crates never reach the outbound barges.
+  whose crates never reach the outbound barges. **Ottmar Lisk** keeps the store, and the
+  knife is delivered to him.
 
 **Stop at Copaa.** The bridge, the Mughal tombs, Haagen across the water, and the time
 that runs slower the nearer Haals they get are the next leg —

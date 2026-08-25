@@ -1,162 +1,174 @@
 ---
-summary: Beartholomew asks the party to steal a godstone knife off an outbound Company barge at Aar
+summary: Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar
 status: draft
 ---
 
-# The Godstone Dagger — a heist at Aar `[draft / new — Will 8/25]`
+# The Godstone Dagger — the peseshkef at Aar `[draft / new — Will 8/25]`
 
-> **DM reference.** The party put in at **[Aar](../lore/aar.md)** on their way
-> inland to **[Copaa](../lore/copaa.md)** ([the run to Copaa](the-run-to-copaa.md)
-> §4 and §5). **[Beartholomew](../../../../characters/beartholomew.md)** — from
-> **[Aniess](../../../../characters/aniess.md)**'s cohort in the Order — is waiting at the
-> watch-stone, and asks them to take a knife out of a Company shed before the tide.
-> One session, or half of one alongside the walk up the canal. Party level ~3, so
-> it is a theft on a deadline. Legend: `[settling]` · `[loose]` · `[OPEN]`.
+> **DM reference.** The party put in at **[Aar](../lore/aar.md)** on their way inland to
+> **[Copaa](../lore/copaa.md)** ([the run to Copaa](the-run-to-copaa.md) §4 and §5).
+> **[Beartholomew](../../../../characters/beartholomew.md)** — from
+> **[Aniess](../../../../characters/aniess.md)**'s cohort in the Order — is embedded at the
+> port and cannot leave it. He asks the party to steal an **Amseh ceremonial blade** off a
+> wealthy Maalm name-hunter and carry it upriver for him. The blade is **godstone**, and
+> carrying it next to Aniess's **small Anubis** shows her what the statue is made of. One
+> session at Aar, then a scene on the canal and a scene at Copaa. Party level ~3, so it is
+> a theft, not a fight. Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
 ---
 
 ## 1 · The meeting — at the watch-stone `[settling]`
 
-The party come ashore at Aar. [Musa's watch-stone](../lore/aar.md) stands above the
-wharves. Run the four handouts first, as written. Then:
+Beartholomew takes his meals at the foot of [Musa's watch-stone](../lore/aar.md), because it
+stands on the wharf he is paid to guard. Run the four handouts first, as written. Then:
 
-> A man is sitting at the foot of the watch-stone with his back against it, out of
-> the way of the carts. He is seven feet tall, and brown fur covers him, and he has
-> the head of a bear. He is eating out of a bowl with a spoon. When he sees you he
-> sets the bowl down on the stone beside him and stands, and the dock crews walk
-> around him without looking up.
+> A man is sitting at the foot of the watch-stone with his back against it, out of the way
+> of the carts. He is seven feet tall, and brown fur covers him, and he has the head of a
+> bear. He is wearing a Company guard's coat that does not fit him, with a club and a short
+> sword on his belt. He is eating out of a bowl with a spoon. When he sees you he sets the
+> bowl down on the stone beside him and stands, and the dock crews walk around him without
+> looking up.
 >
 > "Aniess," he says.
 
-He says he is glad to see her. He does not ask what she has been doing. He gives the
-party his name, tells them he came up with her, and asks for what he wants right
-away:
+He says he is glad to see her. He does not ask what she has been doing. He gives the party
+his name, tells them he came up with her, and asks for what he wants right away:
 
-> "There is a knife in the Company's shed at the end of the wharf. It goes on a
-> barge at first light. I have been here nine days and I cannot get within twenty
-> feet of the door. You can."
+> "There is a knife in the guest house. It belongs to a man from Maalm who is waiting on a
+> boat north, and when his boat comes it goes with him. I need it carried up the canal to
+> Copaa. I cannot go, and I cannot be seen taking it."
 
 Everything he will say if pressed:
 
-- He was posted here to find it and put it on a ship for Kuru.
-- He can see inside the shed and can do nothing about what he sees — his echo can
-  cross a wall and cannot pick anything up.
-- He will pay, out of Order money. He will also come, and do the part that happens
-  after the door is open.
-- He calls it *a knife.* He does not say godstone until Aniess asks.
+- **He is an ore guard on the Company's books,** and has been for four months. The Order put
+  him here. Walking off the wharf for a week up the canal ends the posting, and the Order
+  does not get it back.
+- **He can tell them everything about the man's movements** — when he eats, when he is out,
+  when the knife comes off his belt — because he stands on that wharf all day looking at
+  the guest house.
+- **He will pay,** out of Order money, half at Aar and half through his man at Copaa.
+- **He calls it a knife.** He does not say godstone until Aniess asks, and then he says the
+  Order wants it and does not say what for.
 
 ## 2 · What the knife is `[settling]`
 
-A short blade of the sentient stone, hafted in wood and iron. The blade is grey and
-takes no light, and the whole thing weighs about four pounds — far more than its
-size. Anyone who holds it for a minute begins to hear a voice. What it says is the
-failing mind of the phoenix ([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md) §3–4).
+A **peseshkef** — the Amseh ritual blade of the **Opening of the Mouth**, the instrument a
+priest touches to a dead man's face to give him back his senses. The party have seen one
+already: three priests are performing the rite with it in the wall painting in
+[Tomb 1](../../maalm/prompts/tomb-1-puzzle-room.md), and the ceremony is written up in
+[the Amseh afterlife](../../maalm/lore/egyptian-afterlife-mythology.md).
 
-**It was a warforged.** Somebody cut the godstone out of a dead one and a smith made
-it into a tool. **The number plate is riveted to the haft as a grip-plate.** The
-number is worn off. The name is not: **4NK3R — Anker,** one of the first hundred
-([the old guard](../../../kuru/lore/kuru-and-the-phoenix.md)). Aniess can read the
-format. If she picks it up and turns it over, she is holding one of the old guard,
-made into a knife.
+Fishtail blade, plain haft, about a foot long. The blade is grey and takes no light, and it
+weighs far more than a blade that size should.
 
-- `[OPEN]` How Anker got to Suartleheim Eet, and who cut him up. Shepard came here
-  as a ship's prow and a town statue; there is precedent for warforged wreckage
-  ending up in the west.
-- `[OPEN]` Whether the voice in the blade still reaches the hive, or is as cut off
-  as Vigil.
-- This is **the Company shipping something other than ore** — the open thread in
-  [Aar](../lore/aar.md).
+**It is godstone** — an Amseh god's, like the
+[small Anubis](../../maalm/encounters/the-dream-quest.md), not the phoenix's, so it carries
+no hatred of demons ([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md)).
 
-## 3 · Where it is — the scale-book `[settling]`
+**Mechanically it is a +2 dagger.** Tell them the number when they identify it. Aniess has
+carried a **hollow** dagger since the offering bowl in
+[session 8](../../../../sessions/session-08.md).
 
-The knife is in a nailed crate booked out as **assay samples** in the weigh-master's
-scale-book, standing in **Shed Four** at the end of the wharf under the magistrate's
-seal. The crate goes aboard at first light.
+## 3 · Who has it `[settling]`
 
-The crate can be found by its weight. Godstone is heavy, and the book says the crate
-is not. Three ways in, none of them required:
+**Setha Renk**, the half-elf who leads the
+**[Lapis Writ](../../maalm/encounters/tavern-name-hunter-crews.md)** — funded Maalm
+aristocrats, Preem's other crew, who cleared every tomb in the Valley. **Issa Quib**, their
+tomb-walker, brought it up out of a tomb the party never opened. Renk wears it.
 
-1. **The book.** The scale-book lives in the **Tally House** on the basin, with the
-   weigh-master **Ivet Sarn**. Read it and the assay line does not add up against
-   the shed tally. Getting at it: talk (DC 13), buy (Sarn drinks in the same room),
-   or take it for an hour (DC 15).
-2. **The wharf.** Stand and watch the loading. Every crate on the assay pallet takes
-   two men. One takes four. No roll if a player says they are watching.
-3. **A bargeman.** The crews know which crate the guards stand near. DC 12 to get it
-   out of one, and he tells the guards afterward on a failure by 5 or more.
+The Writ are in **Aar's guest house**, the one good building on the basin, waiting on
+passage north to the Sacred Hunt. They do not crew a boat; they buy a berth, and they do
+not know when the berth will come.
+
+`[run]` **Run the crew scene first** ([the run to Copaa](the-run-to-copaa.md) §4), so the
+party drink with these people before they rob them. Each Writ member is paired with a PC,
+and **Issa Quib is Aniess's counterpart.**
 
 ## 4 · The clock `[settling]`
 
-The barge leaves the basin on the morning tide, and the magistrate seals the shed at
-dusk. The party have one night. Say the hour out loud whenever they spend one.
+**Their boat north.** Beartholomew knows what is coming into the basin and when, so the
+party can be given a number of days. Two or three is right. When the boat comes, Renk goes
+aboard wearing it.
 
 ## 5 · Taking it `[loose]`
 
-Two ways in. Use whichever the party try.
+Renk wears it at his belt in the open, and takes it off to sleep and to bathe. Three ways
+in, all of them theft rather than a fight:
 
-- **The shed, at night.** Two guards on the door and a third walking the pallets. A
-  seal on the hasp — cut the boards out of the back wall instead and the seal stays
-  whole, and nobody opens the shed until the crate is already at sea. Beartholomew's
-  echo can stand in a doorway and hold a guard's attention while it takes a blow.
-- **The swap, at first light.** In the open, in the loading, with forty men working.
-  A second crate of the right weight, built from ore, put on the pallet in place of
-  the first. Slower to set up, and nobody looks for a thief for three days.
+- **The guest house at night.** The Writ have the upper floor and Doruk Pell sleeps across
+  the door of Renk's room. A window off the gallery, a lock at DC 15, and a man in the bed.
+- **The bath house.** The blade comes off with the belt and the belt goes on a bench, with
+  one bored Writ hand watching it for about twenty minutes.
+- **Ask for it.** Renk will trade. What he wants is what the party know — the four tombs
+  they cleared, and anything the Writ missed. Trading costs the party information the Writ
+  can use.
 
-**The getaway is the canal, not the sea.** Loaded barges ride down to the basin;
-empty ones go back up the towpath behind donkey teams, all night, one string after
-another. Searchers work down the canal toward the sea. The party are going up it
-anyway, to Copaa.
+**The Writ will report the theft.** They answer to Mul the same as the party do.
+`[OPEN]` how fast it gets back to Maalm, and what Preem does with it.
 
-## 6 · Who is against them `[loose]`
+## 6 · What Beartholomew does and does not do `[loose]`
 
-- **The ore guards** — eight on the wharves, hired men, no magic, clubs and short
-  swords. They will not die for a crate. They will remember faces.
-- **Halder Quinn, the Company magistrate.** The law at Aar is the Company's, and it
-  runs up the ore road to Copaa and Haals, which is where the party are going.
-  Breaking his seal makes them known the whole length of the canal.
-- **Ivet Sarn, the weigh-master.** Keeps the book. If the book is wrong in the
-  morning, he is the one who is ruined, and he knows it before the guards do.
+- **He watches and he tells.** Movements, the layout, when the belt comes off, when the boat
+  is due.
+- **His echo can cross a wall,** stand in a room, watch, and take a blow meant for him. It
+  cannot lift the knife, turn a key, or carry anything out.
+- **He will not be seen near it,** and he will not walk off the wharf. If the party are
+  caught, he does not know them.
+- **He pays either way** and does not ask how they did it.
 
-`[run]` Killing Company men on Company ground brings Quinn's law up the road ahead of
-the party. Say so through Beartholomew before the door, once: *"Nobody dies. I have
-to come back through here."*
+## 7 · Up the canal — what Aniess finds out `[settling]`
 
-## 7 · Pick one complication `[loose]`
+She has carried the **small Anubis** since Maalm, so she knows what it weighs. Put the two
+together — on the towpath, in a pack, on a barge at night — and they are the same stuff:
+the same grey that takes no light, and the same weight, far more than the size accounts
+for.
 
-- **The Second Foundation already has it.** The crate is not going to sea. It is
-  being held back, the way the tomato crates at [Copaa](../lore/copaa.md) are held
-  back, and the barge is booked for it as cover. Nobody comes for the crate at first
-  light.
-- **A rival crew.** A **[Lapis Writ](../../maalm/encounters/tavern-name-hunter-crews.md)**
-  member is on the waterfront waiting on a boat north to the Hunt, sees the party
-  working, and wants a cut or the whole thing.
+**The statue is godstone.** She is an Order operative and knows what recovered godstone is
+worth to a Church that cannot make more of it, and she is carrying a piece of it that a
+family in Maalm put in her hands.
 
-## 8 · What it puts to Greg `[run]`
+- The Anubis is the god who performs the Opening of the Mouth. The peseshkef is what he
+  performs it with. They are a set, and they are made of the same thing.
+- **Muntadhir and Ali do not know what they gave her**
+  ([the children](../../../../characters/the-children.md)).
+- `[OPEN]` Whether she tells the party, Beartholomew, or the Order.
 
-Beartholomew asks **Aniess**, by name, in front of the party. The Order has not
-given her an order since Maalm, and her being on this coast at all was her own
-choice. This is the first thing it has wanted from her since. Play him as a friend
-asking a friend, because that is what he is, and ask Greg for her answer at the
-table. Do not make the ask twice; he only says it once.
+## 8 · The delivery at Copaa `[loose]`
 
-## 9 · Afterward `[OPEN]`
+Beartholomew's man at Copaa is **Ottmar Lisk**, who keeps the store. The party hand the
+knife over, Lisk asks nothing, pays the second half, and it goes on upriver.
 
-- `[OPEN]` What Beartholomew does with the knife. He was told to put it on a ship
-  for Kuru. Whether he does, and whether he is still in Aar a week later, tells the
-  party whether he was telling the truth about his orders.
-- `[OPEN]` Whether the party keep it, and what the voice says to whoever carries it
-  up the canal.
-- `[OPEN]` Whether Aniess reports the knife, or Beartholomew, or neither.
+`[OPEN]` Who is at the end of that line. Beartholomew says the Order. The
+[Company](../../../nila/lore/the-company.md) owns everything from the wharf to the mine, and
+the [Second Foundation](../../../nila/lore/the-second-foundation.md) owns the Company.
+
+## 9 · What Greg has to decide `[run]`
+
+**It is a +2 dagger and Aniess's dagger is hollow.** She is a rogue, she is being asked to
+carry it three days up a canal, and the man at the far end has never seen it.
+
+Beartholomew asks **Aniess**, by name, in front of the party. The Order has not given her an
+order since Maalm, and her being on this coast at all was her own choice. Play him as a
+friend asking a friend, and ask Greg for his answer at the table. Do not ask twice; he
+says it once.
+
+## 10 · Afterward `[OPEN]`
+
+- `[OPEN]` Whether the knife reaches Lisk, and what Beartholomew does if it does not.
+- `[OPEN]` Whether the Writ work out who took it, and what they do about it on the coast.
+- `[OPEN]` What the Order wants an Amseh god's stone for, when its own god is the phoenix.
+- `[OPEN]` Whether anyone tells the al Qahtani what their heirloom is.
 
 ## Connections
 
 - **[Beartholomew](../../../../characters/beartholomew.md)** — the NPC who asks.
-- **[Aniess](../../../../characters/aniess.md)** — his cohort, and the person he asks.
-- **[Aar](../lore/aar.md)** — the port, the sheds, the scale-book, the canal.
-- **[Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md)** — what godstone
-  is, why the Church cannot make more, and the old guard's names.
-- **[The Company](../../../nila/lore/the-company.md)** and
-  **[the Second Foundation](../../../nila/lore/the-second-foundation.md)** — who owns the
-  wharves and the law.
-- **[The run to Copaa](the-run-to-copaa.md)** §4, §5 — the landfall at Aar and the road
-  up the canal to Copaa.
+- **[Aniess](../../../../characters/aniess.md)** — his cohort, the person he asks, and the
+  one carrying the small Anubis.
+- **[The rival crews](../../maalm/encounters/tavern-name-hunter-crews.md)** — the Lapis Writ,
+  Setha Renk and Issa Quib.
+- **[The Dream Quest](../../maalm/encounters/the-dream-quest.md)** — where the small Anubis
+  came from and what it is.
+- **[Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md)** — godstone, and why the
+  Church cannot make more.
+- **[Aar](../lore/aar.md)** — the port, the guest house, the canal.
+- **[The run to Copaa](the-run-to-copaa.md)** §4, §5 — the landfall and the road upriver.

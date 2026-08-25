@@ -125,11 +125,12 @@ Each confessed:
   standing goods-at-cost bargain and the personal debts may still be in force —
   they were the pitch at the shop — so treat the shop-at-cost and the one-time
   favors as **still available** unless you decide the 100 gp settled it.
-- **The small Anubis wasn't mentioned.** The prep gives the statue to the party
-  only if the rite lands, and the children keep it if it goes badly — but the
-  children **don't know** it went badly. `[OPEN]` whether the family handed it
-  over (they'd have no reason not to) or kept it. If you want it as a standing
-  prop and a link to the under-city, hand it over next time it comes up.
+- **The small Anubis wasn't mentioned at the table, and is settled since
+  (8/25).** The prep gives the statue to the party only if the rite lands, and
+  the children keep it if it goes badly — but the children **don't know** it went
+  badly, so Muntadhir handed it over. **Aniess is carrying it.** The secret the
+  party kept is what bought them the heirloom, and neither sibling knows what it
+  is made of.
 - **V. reappeared at the coffeehouse, and she has the maps.** She sat invisible,
   drank Sarric's coffee, and dropped invisibility to reveal herself; three of the
   party missed the perception check. She has the maps and placed the offers, and
@@ -142,9 +143,9 @@ Each confessed:
 
 - [ ] **The failed rite is a secret the party holds.** They know Ammit took
       Ghassan's heart; the children don't. Decide if and how that ever surfaces.
-- [ ] **The small Anubis** — settle whether the party is carrying it. If yes,
-      it's a genuine other-plane object and a link to the old gods and the
-      deep.
+- [x] **The small Anubis** — settled: **Aniess carries it.** What it is made of
+      lands at Aar and on the canal
+      ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) §7).
 - [ ] **The four confessions** — recorded here; `[OPEN]` whether any go on the
       PC sheets (players' call).
 - [ ] Carried from [Session 8](session-08.md): the **docks at 9 AM**

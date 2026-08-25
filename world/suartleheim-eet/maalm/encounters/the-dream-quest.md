@@ -1228,6 +1228,11 @@ The children honor the bargain in full:
 little jackal-headed statue** — the one piece his father never bought, the
 thing from the other side that opened the way. He doesn't need it anymore.
 
+`[played]` The rite failed and the party did not say so, so he gave it over
+anyway. **[Aniess](../../../../characters/aniess.md) carries it,** and what it is
+made of comes out at Aar
+([the godstone dagger](../../raand-copaa/encounters/the-godstone-dagger.md) §7).
+
 *(Muntadhir, pressing it into a hand:)*
 *"Take it. It did what it was for. Wherever it came from — it's done here."*
 

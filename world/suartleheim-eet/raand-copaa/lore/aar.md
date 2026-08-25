@@ -100,14 +100,16 @@ watch-stone move with them; only ever the one port.
   outbound barges, and the law ([the Company §4](../../../nila/lore/the-company.md)). The
   magistrate is **Halder Quinn**; the weigh-master who keeps the book is **Ivet Sarn**, and
   he keeps it in the **Tally House** on the basin, which is also where the dock crews drink.
+- **The guest house.** The one good building on the basin, where anyone with money stays
+  while they wait on a boat. The **Lapis Writ** have the upper floor.
 - **The dock and barge crews.** The men who move the ore off the canal barges and onto the
   sea barges.
 - **The ore guards.** On the wharves and the outbound cargo.
 - **The Hunt crews passing through.** Hunters and pilgrims working up to Brauron when the
   Sacred Hunt comes near.
 - **[Beartholomew](../../../../characters/beartholomew.md).** Aniess's friend from the
-  Order's cohort, nine days in town and unable to go near the sheds
-  ([the godstone dagger](../encounters/the-godstone-dagger.md)).
+  Order's cohort, four months on the Company's books as an ore guard and unable to leave
+  the post ([the godstone dagger](../encounters/the-godstone-dagger.md)).
 - **The carters and drinkers.** The men who follow the money into a boomtown.
 
 ## Connections
@@ -122,9 +124,9 @@ watch-stone move with them; only ever the one port.
   **[the game preserve](../../brauron/encounters/the-game-preserve.md)** — the Sacred Hunt the dock
   crews are converging on.
 - **[The Company](../../../nila/lore/the-company.md)** — owns the port, the trade, and the law.
-- **[The godstone dagger](../encounters/the-godstone-dagger.md)** — the heist at the wharf;
-  [Beartholomew](../../../../characters/beartholomew.md) waits for the party at the
-  watch-stone.
+- **[The godstone dagger](../encounters/the-godstone-dagger.md)** — the theft at the guest
+  house; [Beartholomew](../../../../characters/beartholomew.md) eats his meals at the
+  watch-stone on the wharf he guards.
 - **[The run to Copaa](../encounters/the-run-to-copaa.md)** §4 — the landfall, and what the
   party meet in what order.
 - **The [tomb-lepers](../../maalm/encounters/valley-of-the-kings.md)** — Copaa's driven-out people,
@@ -134,10 +136,9 @@ watch-stone move with them; only ever the one port.
 
 - `[OPEN]` Whether the party lands at Aar or Aal — the port writeup and the watch-stone go
   to whichever they pick.
-- `[settling]` What the Company ships out besides ore — **relics, booked as assay
-  samples.** One of them is the godstone knife in Shed Four
-  ([the godstone dagger](../encounters/the-godstone-dagger.md)). The crates the
+- `[OPEN]` What the Company ships out besides ore. The crates the
   [Second Foundation](../../../nila/lore/the-second-foundation.md) holds back at
-  [Copaa](copaa.md) never reach the outbound barges; what else leaves Aar by sea, the
-  Company keeps to itself.
+  [Copaa](copaa.md) never reach the outbound barges; what leaves Aar by sea, the Company
+  keeps to itself. **Beartholomew is posted on that wharf to find out**
+  ([the godstone dagger](../encounters/the-godstone-dagger.md)).
 - `[OPEN]` A name for the Company store and its keeper.

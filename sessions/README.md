@@ -84,8 +84,11 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
   so Ammit ate Ghassan's heart — the rite failed.** They **didn't tell the
   children**; each got **100 gp** and the **al Qahtani's friendship.** So: the
   **party knows the rite failed and the children don't** — a secret they now
-  carry. `[OPEN]` the small Anubis (whether it changed hands) and whether the
-  no-resurrection **Jasper "do you dream" beat** ever surfaced.
+  carry — and it is what bought them the heirloom, because Muntadhir handed over
+  the **small Anubis** believing the rite landed. **Aniess carries it,** and finds
+  out at Aar what it is made of
+  ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
+  `[OPEN]` whether the no-resurrection **Jasper "do you dream" beat** ever surfaced.
   [`encounters/the-dream-quest.md`](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md).
 - **[Lucrecia](../characters/lucrecia.md)** (S6–S7) — a new **elite-caste** patron who thanked the party
   for the Ratatat fight (the severed fingers proved it wasn't a **staged**
