@@ -29,11 +29,42 @@ status: next
   each for two.
 - **Jasper is back aboard** and soaked.
 
+**Sharks come up on the blood** two or three rounds in — the ship's fourteen dead have been
+going over the side all morning and the merfolk dead are down there now too. They cannot
+reach the deck. They make the swim aft to Rustam, and anyone overboard, a great deal worse
+([wreck §7](../../../the-sea/encounters/the-drifting-wreck.md)).
+
 Then §8. **Rustam dies within the hour,** on the deck or in their boat. The party decide
 what to do with the body: the sea, which he asked them not to do, or the next landfall
 and a hole in the ground, which costs them a day of sailing with him aboard. Salvage is
 one crate of fruit and what cordage they can cut — one hull box back, no coin, and no
 timber, because both masts are gone.
+
+**The body is on a clock and nobody can cast Gentle Repose** — Sarric is a ranger, Blackacre
+a druid, and Aniess is Cleric 2. The route is the **small Anubis in Aniess's pack**, and
+this is the scene where the party find out it does anything at all. Aar is days off, the
+coast is hot, and by the second morning they bury him at sea after all — which is the one
+thing he asked them not to do. Full timeline and the discovery in
+[wreck §8](../../../the-sea/encounters/the-drifting-wreck.md).
+
+## 1a · V.'s message — once they are off her  `[run]`
+
+Owed since [session 10](../../../../sessions/session-10.md), where the docks ambush was
+skipped. **V.** reaches **Sarric** through the sending stone she gave him. A sending stone
+carries **25 words**, which is why this is 25 words:
+
+> *"Out clean, no thanks to you. Tell Blackacre I'm sorry about his map. I'm not, but tell
+> him. Fester's alive and sore about his fingers."*
+
+- **She got out of Maalm.** The party blew her cover after three years on Preem and she is
+  not dead.
+- **The apology to Blackacre** is for the atlas, which she paid for and then took anyway.
+  She is not sorry and says so in the same breath.
+- **Fester is Ratatat**, the rat man Jasper took two fingers off in session 6. She said in
+  session 10 that she had not killed him. He is loose, and he remembers.
+
+Play it as a voice in Sarric's head with no room for an answer. Sarric can reply with the
+stone's own sending on his turn if he wants one.
 
 ## 2 · The crew  `→` [sailing-and-storms.md](../../../the-sea/lore/sailing-and-storms.md)
 

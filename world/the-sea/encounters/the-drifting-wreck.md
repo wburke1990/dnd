@@ -401,12 +401,79 @@ have the advantage.
 **What the party get by talking instead:** the merfolk saw two hulls at a distance
 yesterday, standing away north, towing two spars each.
 
+### The sharks `[added 8/25]`
+
+**In session 11 it went to a fight, so §7 above is spent** — five merfolk are dead, one
+got away, and there is nobody left in the water to bargain with. What is in the water
+instead is blood. The merfolk have been putting the ship's **fourteen dead** over the side
+all morning, and now their own dead are down there with them.
+
+**They arrive two or three rounds into the resumed scene.** Fins first, then the water
+going white over the bodies. Run **2d4 open-ocean sharks** off the block in
+[sea-beasts.md](../bestiary/sea-beasts.md) §3 — CR 1/2, AC 12, 22 hp, bite +4 (1d8+2),
+**Pack Tactics** and **Blood Frenzy** (advantage against anything that has lost hit
+points).
+
+**They do not attack the deck, and they cannot reach it.** Anyone standing on the *Nasira*
+or in the sloop is in no danger from them at all. What they do is change the price of every
+plan that goes through the water:
+
+- **The swim aft to Rustam** (DC 12) now happens in shark water, and the flooded hold is
+  where a swimmer is trapped with them.
+- **Anyone overboard** is in a real fight. Underwater, RAW, a melee attack with anything
+  but a **dagger, javelin, shortsword, spear or trident** is at disadvantage, and ranged
+  weapon attacks miss beyond normal range and are at disadvantage inside it. **Jasper's
+  three heavy weapons are dead weight down there**, and he went in last session.
+- **Blood Frenzy plus Pack Tactics** means a PC who has already taken a hit is being
+  attacked at advantage by every shark that reaches them.
+- **The stern going under at ten rounds** is now a shark problem, not a drowning problem.
+
+`[run]` **They are pressure, not a fight.** Have them take the dead first — that is a round
+or two of visible warning, and it is also how the merfolk bodies leave the scene. Only turn
+one on a PC who enters the water. If the party linger well past the clock, or someone
+bleeds in it, add two more.
+
 ## 8 · Off her
 
 - **Rustam.** He dies here, on the deck or in their boat, within the hour. Then the party
   decide what to do with the body: the sea, which he asked them not to do, or the next
   landfall and a hole in the ground, which costs them a day of sailing with him aboard.
   They can decide after he dies.
+
+### What happens to the body `[added 8/25]`
+
+Aar is several days off and this is a hot coast, so the choice has a clock on it.
+
+- **Hours 2 to 12.** He cools and stiffens. The blood settles to whatever side he is lying
+  on and marks it, and by half a day that mark is fixed.
+- **Day one.** Stiffness passes off again — sooner in this heat. A green stain comes up low
+  on the belly, then the veins darken into a marbling under the skin.
+- **Day two.** Gas. The belly swells, the face and the tongue swell with it, and fluid
+  comes out of the nose and mouth. This is the day the smell arrives, and a sloop is
+  twenty-odd feet long with nowhere to put it.
+- **Days three and four.** The skin slips off in sheets when he is handled. The swelling
+  peaks. If the gas has nowhere to go the belly splits.
+
+Bodies do not explode. They swell, they leak, and they rupture. The practical answer is
+that by the second morning nobody aboard can stand it, and the party bury him at sea after
+all — which is the one thing he asked them not to do.
+
+**Gentle Repose stops all of it.** Ten days, no decay, and the days do not count against a
+raise. It is the difference between keeping a promise to a dying man and breaking it
+because of the smell.
+
+⚠️ **Nobody in the party can cast it.** It is a 2nd-level **cleric/wizard/paladin** spell.
+Sarric is a ranger and does not get it; Blackacre is a druid and does not get it; Aniess is
+**Cleric 2**, so she has 1st-level slots only and reaches it at Cleric 3. The one route is
+**the small Anubis in Aniess's pack**, which grants it as a ritual at will
+([the godstone dagger](../../suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
+
+`[run]` **This is the scene where the statue stops being a prop.** It has been a keepsake
+since the Dream Quest and nobody has tested it. Anubis is the god of embalming, and the
+first thing it is ever asked to do is keep a man out of the water he did not want to go
+into. **Pax's Glasses of Detect Magic** are the natural way in — he looks at the statue and
+it reads as necromancy — or let an Arcana or Religion check on it land. Hold the reveal of
+what it is *made of* for Aar; here they only learn what it *does*.
 - **Salvage.** One crate of fruit and what cordage they can cut down. Enough to clear
   one hull box, and no coin.
 - **No timber.** Both masts are gone and the spare spars went with them.
