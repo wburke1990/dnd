@@ -122,8 +122,12 @@ marks match.
 [small Anubis](../../maalm/encounters/the-dream-quest.md), not the phoenix's, so it carries
 no hatred of demons ([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md)).
 
-**Mechanically it is a +2 dagger.** Tell them the number when they identify it. At level 3
-that is well above anything the party carry.
+**It is not a weapon.** A peseshkef is a blunt forked implement for touching a dead man's
+face, and this one has been worn rounder still. It has no attack or damage bonus and no
+plus of any kind. Anyone determined to stab with it is using an improvised weapon for 1d4,
+which counts as magical and is otherwise a bad idea.
+
+Everything it is worth having is below.
 
 ### What it does — the rite `[settling]`
 
@@ -183,7 +187,8 @@ the family says so.
 
 **She does not know what it is.** It is the piece her house has always had, the way the
 [al Qahtani](../../../../characters/the-children.md) have always had the Anubis. What her
-family do know is that it cuts better than it should, and they call that the house's luck.
+family do know is that it has never needed sharpening and never marks, and they call that
+the house's luck.
 She wears it because it is old and it is theirs — and because her mother's house is the
 claim she is fighting to get back.
 
@@ -257,9 +262,14 @@ the [Second Foundation](../../../nila/lore/the-second-foundation.md) owns the Co
 
 ## 9 · What Greg has to decide `[run]`
 
-**It is a +2 dagger that makes the dead talk, and she is a rogue-cleric.** She is being
-asked to carry it three days up a canal, and Ottmar Lisk at the far end has never seen it.
-She is also carrying the statue that is its other half.
+**It makes the dead talk, and she hunts names for a church.** The Order's whole operation
+is recovering what was lost and learning what it was called, and she has been handed the
+instrument for asking the dead directly — along with, in the same pack, the statue that is
+its other half. She is being asked to carry it three days up a canal, and Ottmar Lisk at the
+far end has never seen it.
+
+The pull is not a bigger number on an attack roll. It is that this is the exact tool she was
+made to go and get.
 
 `[OPEN]` **Does she find out what it does before Copaa or after?** Before, and the delivery
 is a real decision made with everything on the table. After, and the delivery is clean and

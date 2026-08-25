@@ -29,8 +29,11 @@ ruins. This knife is Amseh, from that empire.
 It is a **peseshkef**: the ritual blade used in the Opening of the Mouth, the funeral rite
 where a priest touches the instrument to a dead man's face to give him back his senses —
 sight, hearing, speech, taste — so his soul can function in the afterlife. In my world the
-god who performs that rite is Anubis, jackal-headed. It is a priest's tool for opening a
-dead mouth, and it is sharp.
+god who performs that rite is Anubis, jackal-headed.
+
+**It is not a weapon and should not look like one.** The prongs are blunt-ended, the way a
+real pesesh-kef is — no cutting edge, no point, no taper to a tip. It is a priest's
+implement for touching a dead man's face.
 
 The material matters. In my world the only metal better than bronze is meteoric — what the
 Egyptians called *bia-n-pet*, "iron of the sky" — and this blade is made of a different
@@ -48,7 +51,7 @@ The shape and the decoration:
 - **An eye is cut into each prong** — the Egyptian wedjat, the eye of Horus. One eye is
   whole. The other has the brow broken through, cut across.
 - **The prong with the broken brow is worn smooth and rounded** from thousands of years of
-  use. The other prong still has its edges.
+  use. The other prong is blunt but has kept its shape.
 - The **haft is carved as the foreleg of a bull** — the hoof at the butt end, the shoulder
   joint where it meets the blade. Same dead grey stone as the blade, one piece with it.
 - Down one face of the haft, **seven shallow round cups** cut in a row, each about the
@@ -93,8 +96,8 @@ blue with gold flecks, the stone her crew is named for.
 
 She wears **the knife described above at her belt, in the open**, on the left, hilt
 forward, hanging from a plain leather loop. She has no idea what it is. To her it is the
-piece her house has always had, and the only thing her family says about it is *"it cuts
-better than it should."*
+piece her house has always had, and the only thing her family says about it is *"it has
+never needed sharpening."*
 
 Setting: a raw new port town on a river mouth — timber wharves, ore dust on everything,
 crowded, few finished buildings — so put her in the doorway of the one good building in it,
