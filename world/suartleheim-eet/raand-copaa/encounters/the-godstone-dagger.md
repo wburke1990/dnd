@@ -158,16 +158,24 @@ has been a prop. If it is going to be half of a set, it should do what **Anubis*
 own material: **preserve the dead, guide the living through the dark, and work the scales**
 ([the Amseh afterlife](../../maalm/lore/egyptian-afterlife-mythology.md)).
 
-**The two worth giving it, both as rituals, at will, no slot:**
+**The one to give it — Gentle Repose, as a ritual, at will, no slot.** Anubis is the god of
+embalming. Touch a body and it does not rot for ten days and cannot be raised as undead.
 
-- **Gentle Repose.** Anubis is the god of embalming. Touch a body and it does not rot for ten
-  days and cannot be raised as undead. This is the exact mechanical partner to the knife —
-  *Speak with Dead* needs a mouth, and this is what keeps there being one. It also lets a
-  party **carry a corpse to ask it later**, which is its own kind of scene.
-- **Comprehend Languages.** This replaces the bespoke "the statue translates" rule that used
-  to sit here, and does it better. RAW the dead answer only in the languages they spoke in
-  life, which makes a five-thousand-year-old Amseh mouth useless; a ritual off the statue
-  solves that with no special-casing, and solves tomb walls and grave inscriptions too.
+- It is the mechanical partner to the knife: *Speak with Dead* needs a mouth, and this is
+  what keeps there being one.
+- It lets a party **carry a corpse to ask it later**, which is its own kind of scene.
+- **It is worth having on an item even after Aniess can cast it.** Nobody prepares Gentle
+  Repose speculatively — you want it the moment you find a body, which is the one moment it
+  is not on your list. A spell whose value is in being available unprepared is exactly the
+  spell to hang on an object.
+
+**Not Comprehend Languages.** The party already have it: Preem issues every crew a **Pen of
+Comprehend Languages**, and **Sarric carries theirs**
+([Preem](../../../../characters/preem.md), [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md)).
+That already solves both the tomb walls and a corpse answering in Amseh, so the statue
+should not do it twice. Worth noting what the difference is anyway: **the pen is Preem's,
+and it reads what somebody wrote down.** The knife and the statue would be the party's own,
+and they ask the dead.
 
 **The one with teeth `[OPEN]`:**
 
@@ -184,16 +192,18 @@ Evil and Good* (he is the escort who fights off what is in the dark), *Augury*.
 **What the party can already do.** Blackacre is a druid, Sarric a ranger, Jasper a fighter,
 Pax a monk, and Aniess the only other caster — a rogue-cleric.
 
-- **Comprehend Languages is the one nobody can ever reach.** Bard, sorcerer, warlock and
-  wizard only, and the party has no arcane caster at all. It is not on the druid, ranger or
-  cleric list, so it never goes redundant however anyone levels. The Valley currently makes
-  reading Amseh a **DC 10–12 Intelligence check**
-  ([the Valley](../../maalm/encounters/valley-of-the-kings.md)); this makes it automatic, and
-  more to the point it is the half that lets a corpse answer in something the party speaks.
+- **Comprehend Languages is already covered** by Sarric's Pen, above.
 - **Gentle Repose, Zone of Truth and Augury are all 2nd-level cleric spells.** Out of reach
   now, and Aniess gets all three the moment she has three cleric levels — clerics prepare
-  from the whole list, so they arrive free. Putting them on the statue is a loan against her
-  own sheet.
+  from the whole list. For Zone of Truth and Augury that makes the statue a loan against her
+  own sheet; Gentle Repose survives it, for the reason above.
+- **If the statue must do something nobody can ever cast, it is `[loose]` See Invisibility.**
+  Arcane-only, so no druid, ranger or cleric reaches it. Anubis escorts the soul past what
+  waits in the dark of the Duat, and this campaign is full of things standing in rooms
+  unseen: **V. sat invisible at their table and drank Sarric's coffee**, and Preem watches
+  through **quasits that turn invisible at will** — one of which is in the guest house at Aar
+  in Calix Vire's pocket. The cost is that it hands the party a standing answer to being
+  watched by Preem, and being watched by Preem is doing work in the campaign.
 - **Spare the Dying, Ceremony, Protection from Evil and Good** are cantrip or 1st-level
   cleric. She can most likely prepare them today.
 
