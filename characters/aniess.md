@@ -11,7 +11,7 @@ status: reference
 ## Basic Information
 
 **Race:** Yuan-ti (transformed — see backstory)
-**Class:** Rogue / Cleric
+**Class:** Rogue 1 / Cleric 2 `[8/25]` — one rogue level, then levelling cleric
 **Player:** Greg
 **Affiliation:** The Order of the Emplere Cnihtas — the crusader order of the religion of Sunne, the dominant religion of Kuru
 **Origin:** Kuru — likely the capital Ankalia or the commercial city of Ekkek

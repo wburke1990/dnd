@@ -185,8 +185,26 @@ rot and cannot be raised as undead.
 *Ceremony* and *Protection from Evil and Good* are cantrip or 1st-level cleric, so Aniess
 can most likely prepare them today.
 
-`[OPEN]` **Aniess's rogue/cleric split.** Her sheet says "Rogue / Cleric" with no levels, and
-which side carries the levels decides all of the above.
+`[settled — Greg 8/25]` **Aniess is Rogue 1 / Cleric 2** and putting her levels into cleric.
+What that decides:
+
+- **Gentle Repose is out of her reach right now.** Her caster level is 2, so she has
+  1st-level slots only. She reaches 2nd-level cleric spells at **Cleric 3, one character
+  level away** — so the statue is doing real work now and keeps doing it afterwards for the
+  reason above.
+- **She has Thieves' Cant.** Rogue 1 gives it, so the countersign with Beartholomew works as
+  written ([canting songs](../../../../handouts/canting-songs.md)).
+- **She does not have Cunning Action.** That is Rogue 2. She cannot Dash, Disengage or Hide
+  as a bonus action, which is the single biggest thing to know before she goes up the
+  gallery. Her Sneak Attack is 1d6 and stays there.
+- **She can already find the quasit.** *Detect Evil and Good* is a 1st-level cleric spell,
+  a quasit is a fiend, and the spell gives its **location** whether or not it is invisible —
+  30 feet, ten minutes, blocked by a thin sheet of lead or an inch of metal. So Calix
+  Vire's toad is findable at Aar with a spell she can prepare today, which is most of what
+  dropping *See Invisibility* would have cost.
+- **Channel Divinity once per rest** at Cleric 2. `[OPEN]` her domain — it decides what that
+  does and which domain spells are always prepared. Trickery would matter most here
+  (Blessing of the Trickster hands another PC advantage on Stealth).
 
 **What it costs.** Giving the statue anything makes both halves harder for Aniess to give up
 and gives the [al Qahtani](../../../../characters/the-children.md) a real reason to want it
