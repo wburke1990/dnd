@@ -75,6 +75,39 @@ recurring comedy — it keeps dying and reforming in the Abyss:
 
 > *"Master, I was devoured by a vrock. Again. The Abyss is getting crowded."*
 
+## What detection actually shows `[settled — 8/25]`
+
+Comes up the moment anyone points a detection at him, and the answer is not the one
+the table expects.
+
+**Detect Magic shows him, and it does not catch him.** Batrick was summoned through
+Jasper's **amulet of find familiar**, so he is a spirit called up by a 1st-level
+**conjuration** spell, and that is the aura he wears. Every familiar in the world reads
+conjuration. **Pax's Glasses of Detect Magic corroborate the cover rather than break it.**
+The amulet round Jasper's neck reads conjuration too, which is also correct and also tells
+nobody anything.
+
+*(Find Familiar lets the caster choose a celestial, fey or **fiend** spirit, so a fiend
+familiar breaks no rule. That is what makes the cover hold up under scrutiny.)*
+
+**Detect Evil and Good is what catches him.** It gives the presence and **location of any
+fiend within 30 feet**, needs no ruling, and does not care that he is invisible —
+[Aniess](aniess.md) can prepare it today at Cleric 2. It does not say *Preem's spy*. It
+says Jasper's bat is a fiend, and that is the thread.
+
+**And it is deniable.** Jasper can answer that the amulet came from a wizard and wizards
+bind what they like. The tell is available and shruggable, which is the right shape for it.
+
+**Why it has not fired in eleven sessions.** Detect Magic's aura step needs a **visible**
+creature, and a quasit turns invisible at will. Nobody has looked, and when someone does
+he does not have to be there to be looked at.
+
+`[run]` **Pax is about to start scanning things.** The glasses are the natural way for him
+to find out what the [small Anubis](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)
+does at the wreck. Once he is in the habit, Batrick, the peseshkef and V.'s sending stone
+all get looked at. Decide before that happens whether Batrick is standing where Pax is
+pointing.
+
 ## The reveal arc
 
 **[settled in shape]**
