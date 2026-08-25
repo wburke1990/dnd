@@ -28,27 +28,24 @@ do. He speaks slowly and finishes his sentences.
 He came up with Aniess. They were taken off the street in the same year, trained
 in the same room, and put through the rite in the same season — she with a snake,
 he with a bear. He carried her back to the compound after the rite when she could
-not walk. He has never asked her for anything since.
+not walk. He has not asked her for anything since.
 
-The Order trained him to pass unseen and then gave him a body that no one has ever
-failed to see. He knows this about himself. He works the parts of the job that
-happen after the door is open.
+The Order trained him to pass unseen. He is seven feet tall with a bear's head. He
+knows it. He does the fighting and the carrying.
 
 ## The echo `[settling]`
 
-He can put a copy of himself somewhere he is not — across a room, over a wall, on
-the far side of a shed door. The copy moves, watches, and takes a blow meant for
-him. It cannot lift a crate, turn a key, or carry anything out. So he can see into
-the Company sheds at Aar and can do nothing about what is inside them.
+He can put a copy of himself across a room, over a wall, or on the far side of a
+shed door. The copy moves, watches, and takes a blow meant for
+him. It cannot lift a crate, turn a key, or carry anything out. He has looked into the Company
+sheds at Aar with the copy and cannot touch what is in them.
 
 ## How to play him `[settling]`
 
-Warm and direct. He asks for the thing he wants in the first minute and does not
-work up to it. He calls Aniess by her name, not her designation, and he is the
-only person in the campaign so far who does.
+Warm and direct. He asks for what he wants first and does not work up to it. He
+calls Aniess by her name. No one else does.
 
-He does not talk about the Order the way Aniess talks about the Order. He talks
-about the men he trained with, the food, the winter the compound ran out of fuel.
+He talks about the men he trained with, the food, the winter the compound ran out of fuel.
 Asked what the Order is for, he says what he was told.
 
 ## What he wants `[settling]`
