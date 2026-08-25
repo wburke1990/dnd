@@ -1232,6 +1232,8 @@ thing from the other side that opened the way. He doesn't need it anymore.
 anyway. **[Aniess](../../../../characters/aniess.md) carries it,** and what it is
 made of comes out at Aar
 ([the godstone dagger](../../raand-copaa/encounters/the-godstone-dagger.md) §7).
+`[OPEN]` what the statue itself does — options are listed there under *The small
+Anubis*.
 
 *(Muntadhir, pressing it into a hand:)*
 *"Take it. It did what it was for. Wherever it came from — it's done here."*

@@ -150,15 +150,43 @@ doing it discreetly in front of anyone.
 a slot of attunement, it is once per dawn, and the RAW limits all stand. Do not also make it
 charge-based.
 
-### `[loose]` The pair, together
+### The small Anubis `[OPEN]` — what the other half does
 
-Holding the **small Anubis** in the other hand while working the rite: **the corpse answers
-in a language the speaker knows.** RAW the dead only speak what they spoke in life, which
-makes a five-thousand-year-old Amseh mouth useless. Anubis is the god who performs the rite.
-The statue translates; the knife opens the mouth.
+The statue has never had powers of its own. It was the other-plane focus for *Dream of the
+Blue Veil* in [the Dream Quest](../../maalm/encounters/the-dream-quest.md), and since then it
+has been a prop. If it is going to be half of a set, it should do what **Anubis** does in our
+own material: **preserve the dead, guide the living through the dark, and work the scales**
+([the Amseh afterlife](../../maalm/lore/egyptian-afterlife-mythology.md)).
 
-Together they let a crew question the Amseh dead directly rather than read tomb walls — and
-reading the Amseh dead is what
+**The two worth giving it, both as rituals, at will, no slot:**
+
+- **Gentle Repose.** Anubis is the god of embalming. Touch a body and it does not rot for ten
+  days and cannot be raised as undead. This is the exact mechanical partner to the knife —
+  *Speak with Dead* needs a mouth, and this is what keeps there being one. It also lets a
+  party **carry a corpse to ask it later**, which is its own kind of scene.
+- **Comprehend Languages.** This replaces the bespoke "the statue translates" rule that used
+  to sit here, and does it better. RAW the dead answer only in the languages they spoke in
+  life, which makes a five-thousand-year-old Amseh mouth useless; a ritual off the statue
+  solves that with no special-casing, and solves tomb walls and grave inscriptions too.
+
+**The one with teeth `[OPEN]`:**
+
+- **Zone of Truth**, once per long rest. Anubis operates the scales, and the party have
+  already stood in the Hall of Two Truths and confessed. It fits, and it is strong in a campaign
+  this full of liars — Preem, V., Mul, the Writ. RAW gives it
+  an escape hatch (a successful Charisma save lets a creature lie, and the caster knows who
+  saved), but decide deliberately rather than by drift.
+
+**Smaller ones that fit if the above is too much:** *Spare the Dying* (Anubis at the moment
+of death), *Ceremony*'s funeral rite (seven days proof against undeath), *Protection from
+Evil and Good* (he is the escort who fights off what is in the dark), *Augury*.
+
+**What it costs.** Giving the statue anything makes both halves harder for Aniess to give up
+and gives the [al Qahtani](../../../../characters/the-children.md) a real reason to want it
+back if they ever learn what they handed over.
+
+Together the pair let a crew question the Amseh dead directly rather than read tomb walls —
+and reading the Amseh dead is what
 [Preem](../../../../characters/preem.md) has been paying crews to do the whole campaign.
 
 ### `[OPEN]` Who is actually answering
