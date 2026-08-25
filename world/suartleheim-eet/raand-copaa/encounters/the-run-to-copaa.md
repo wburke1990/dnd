@@ -138,18 +138,18 @@ Older stonework shows under newer stonework the whole way in.
 - **The Piper out of the Mound.** The Company's digging opens a mound and a piper walks
   out still playing. A year underground made him a master. He believes that year is
   ending now. Told the truth, he ages where he stands or walks back into the hill.
-**If they are carrying the knife,** run the two pieces of godstone together somewhere on
-this road — on the towpath, in a pack, on a barge at night. The peseshkef and Aniess's
-**small Anubis** are the same grey that takes no light and the same wrong weight for the
-size, and she is the one who knows what the statue weighs
-([the godstone dagger](the-godstone-dagger.md) §7).
-
 - **Copaa, on the lake.**  `→` [copaa.md](../lore/copaa.md) An old-west ore town: the
   landing where the Haals ore comes down the river, a tavern, an inn. The river runs
   fouled and the fields carry the leprosy the party saw in session 10. **Jogo's story is
   here,** and so is the Second Foundation's guarded chinampa operation at the river mouth,
   whose crates never reach the outbound barges. **Ottmar Lisk** keeps the store, and the
   knife is delivered to him.
+
+**If they are carrying the knife,** put the two pieces of godstone together somewhere on
+this road — in a pack on the towpath, or on a barge at night. The peseshkef and Aniess's
+**small Anubis** are the same grey with no shine and the same weight, far more than the
+size accounts for, and she is the one who knows what the statue weighs
+([the godstone dagger](the-godstone-dagger.md) §7).
 
 **Stop at Copaa.** The bridge, the Mughal tombs, Haagen across the water, and the time
 that runs slower the nearer Haals they get are the next leg —
@@ -172,8 +172,8 @@ that runs slower the nearer Haals they get are the next leg —
   where session 12 opens, and Ruslan in Aar afterward.
 - **[Aar](../lore/aar.md)** — the port, the watch-stone, the sheds, the canal.
 - **[The godstone dagger](the-godstone-dagger.md)** — Beartholomew's ask at the landfall.
-- **[Copaa](../lore/copaa.md)** and **[the Haals runoff](the-haals-runoff.md)** — where the
-  this run ends and the Haals sessions begin.
+- **[Copaa](../lore/copaa.md)** and **[the Haals runoff](the-haals-runoff.md)** — where this
+  run ends and the Haals sessions begin.
 - **[The sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md)** — the other
   half of the old packet, held for the Hunt.
 - **[Session 11](../../../../sessions/session-11.md)** — the crew list, the fork, and the
