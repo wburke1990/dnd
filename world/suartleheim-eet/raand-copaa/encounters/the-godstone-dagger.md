@@ -6,8 +6,8 @@ status: draft
 # The Godstone Dagger — a heist at Aar `[draft / new — Will 8/25]`
 
 > **DM reference.** The party put in at **[Aar](../lore/aar.md)** on their way
-> inland to **[Copaa](../lore/copaa.md)** ([cold-run packet](../../brauron/encounters/cold-run-taverns-to-thinkers.md)
-> §5 and §7). **[Beartholomew](../../../../characters/beartholomew.md)** — from
+> inland to **[Copaa](../lore/copaa.md)** ([the run to Copaa](the-run-to-copaa.md)
+> §4 and §5). **[Beartholomew](../../../../characters/beartholomew.md)** — from
 > **[Aniess](../../../../characters/aniess.md)**'s cohort in the Order — is waiting at the
 > watch-stone, and asks them to take a knife out of a Company shed before the tide.
 > One session, or half of one alongside the walk up the canal. Party level ~3, so
@@ -158,5 +158,5 @@ table. Do not make the ask twice; he only says it once.
 - **[The Company](../../../nila/lore/the-company.md)** and
   **[the Second Foundation](../../../nila/lore/the-second-foundation.md)** — who owns the
   wharves and the law.
-- **[Cold-run packet](../../brauron/encounters/cold-run-taverns-to-thinkers.md)** §5, §7 —
-  the landfall at Aar and the road up the canal to Copaa.
+- **[The run to Copaa](the-run-to-copaa.md)** §4, §5 — the landfall at Aar and the road
+  up the canal to Copaa.

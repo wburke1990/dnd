@@ -18,7 +18,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 5 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 33 | The conquest-city and the Valley of the Kings. Played out. |
-| [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 8 | Raand, Copaa, Aar and the Haals mines. |
+| [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 9 | Raand, Copaa, Aar and the Haals mines. |
 | [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
 
 ## kalikhat
@@ -145,8 +145,8 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 
 | File | Status | What it is |
 |---|---|---|
-| [cold run taverns to thinkers](world/suartleheim-eet/brauron/encounters/cold-run-taverns-to-thinkers.md) | `next` | A run-cold packet — the Maalm taverns, the sail to Brauron, and the Thinkers |
 | [island of the thinkers](world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md) | `next` | An island of shrinking statues where a storm wrecks the party |
+| [the sail to brauron](world/suartleheim-eet/brauron/encounters/the-sail-to-brauron.md) | `ready` | The northern leg — the sail up the coast, the storm, the Thinkers, and Brauron |
 | [the game preserve](world/suartleheim-eet/brauron/encounters/the-game-preserve.md) | `draft` | The cult of Artemis hunt in the poison wild outside Brauron |
 | [the hell tree](world/suartleheim-eet/brauron/encounters/the-hell-tree.md) | `draft` | The giant tree north of Raand, and the demon inside its fruit |
 | [the peach town](world/suartleheim-eet/brauron/encounters/the-peach-town.md) | `draft` | The last town before the poison deadland, and its Artemis temple |
@@ -225,6 +225,7 @@ Raand, Copaa, Aar and the Haals mines.
 
 | File | Status | What it is |
 |---|---|---|
+| [the run to copaa](world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md) | `next` | The next session's packet — off the Nasira, down the coast to Aar, and up the canal to Copaa |
 | [the haals runoff](world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) | `ready` | A Company mine poisoning the watershed below Haals |
 | [the godstone dagger](world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) | `draft` | Beartholomew asks the party to steal a godstone knife off an outbound Company barge at Aar |
 | [the mines of haals](world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` | The workings under the Company mine, where each level down is an older time |

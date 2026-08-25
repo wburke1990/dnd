@@ -16,7 +16,7 @@ status: played
 
 ## The party chose Copaa
 
-Given the fork in the [cold-run packet](../world/suartleheim-eet/brauron/encounters/cold-run-taverns-to-thinkers.md),
+Given the fork in the [cold-run packet](../world/suartleheim-eet/brauron/encounters/the-sail-to-brauron.md),
 they are **going to Copaa**, not straight on to Brauron and the Sacred Hunt. The inland
 road out of Aar is now the live route: Sker, Copaa on the lake, the bridge and the
 Mughal tombs, and Haals beyond.

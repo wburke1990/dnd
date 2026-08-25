@@ -17,7 +17,7 @@ An open-water encounter for [Blackacre](../../../characters/blackacre.md), out o
 8/17 chat. **Sayid is not in it.** What is in it is a ship he took and the one survivor.
 
 **Run it on the party's first day out of Maalm, in sight of the coast** — see the
-[cold-run packet](../../suartleheim-eet/brauron/encounters/cold-run-taverns-to-thinkers.md) §3.
+[run to Copaa](../../suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md) §1.
 Sayid is working Maalm's own approaches, which is why they nearly meet him. About ninety
 minutes. Uses the shipwreck-and-merfolk maps.
 

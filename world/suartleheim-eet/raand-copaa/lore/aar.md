@@ -10,7 +10,7 @@ status: reference
 > ore comes down the river to [Copaa](copaa.md), is weighed there, and runs down the
 > Company's canal to Aar, where it is loaded onto sea barges and shipped out. Aar is where
 > the party lands if they sail the coast — the
-> [cold-run packet](../../brauron/encounters/cold-run-taverns-to-thinkers.md) §4. It is also where the
+> [run to Copaa](../encounters/the-run-to-copaa.md) §4. It is also where the
 > gnomes first came ashore under [Musa](the-fallen-gnome-kingdom.md), and where his
 > watch-stone still stands. Legend:
 > `[settling]` · `[loose]` · `[OPEN]`.
@@ -47,7 +47,7 @@ god. Musa set a **watch-stone** — a *massebah* — over the harbour. It still 
 
 Four inscriptions are cut into it — three of Musa's prophecies and the gnomes' lament. Hand
 them over as printed handouts, no check, no scene (the
-[cold-run packet](../../brauron/encounters/cold-run-taverns-to-thinkers.md) §5):
+[run to Copaa](../encounters/the-run-to-copaa.md) §4):
 
 - **[The vision of the land to come](../../../../handouts/locksley-hall-vision.md)** (Tennyson) —
   Musa's founding prophecy, the country the gnomes would take.
@@ -125,8 +125,8 @@ watch-stone move with them; only ever the one port.
 - **[The godstone dagger](../encounters/the-godstone-dagger.md)** — the heist at the wharf;
   [Beartholomew](../../../../characters/beartholomew.md) waits for the party at the
   watch-stone.
-- **[The cold-run packet](../../brauron/encounters/cold-run-taverns-to-thinkers.md)** §4 — Aar as a
-  light waypoint on David's run.
+- **[The run to Copaa](../encounters/the-run-to-copaa.md)** §4 — the landfall, and what the
+  party meet in what order.
 - **The [tomb-lepers](../../maalm/encounters/valley-of-the-kings.md)** — Copaa's driven-out people,
   turned back at the water here.
 
