@@ -285,11 +285,19 @@ hit destroys it. So he scouts and he does not steal.
 of Divination).** The worst news in the building.
 
 - **Elves do not sleep.** He trances four hours, so half of any night has him awake.
-- **Portent** — two d20s rolled after each long rest, and he can **replace any attack roll,
-  saving throw or ability check** made by himself or a creature he can see with one of
-  them. If he rolled a 4 that morning, somebody's Stealth check is a 4.
-- **Alarm**, cast as a ritual, so it costs him nothing to ward a 20-foot cube of gallery
-  for 8 hours. Also *Detect Magic*, *Sleep*, *Misty Step*, *Detect Thoughts*.
+- **Portent** — two d20s rolled after each long rest, which he can use to **replace an
+  attack roll, saving throw or ability check** made by himself or a creature **he can see**,
+  chosen **before** the roll.
+- `[settled]` **Portent does not fire against the party sneaking.** He cannot see them, and
+  if he could they would already be caught. It is a threat in the open: the wager for the
+  knife, a Deception or Persuasion check across a table, a save once a fight starts, or the
+  chase after they are spotted. **Save at least one die for the wager** — he can hand Renk a
+  19 or hand the party a 3, and nobody at the table will know why.
+- **Alarm**, cast as a ritual, so it costs him no slot to ward a door, a window, or a
+  20-foot cube of gallery for 8 hours. The mental ping reaches him within a mile **and wakes
+  him if he is asleep** — and he does not sleep anyway. This, and the quasit, are what
+  actually catch an intruder. Also *Detect Magic*, *Sleep*, *Misty Step*, *Detect
+  Thoughts*.
 - **The quasit.** His pet toad is Preem's quasit. Darkvision 120 feet, invisible at will,
   and it does not sleep either. Whatever it sees, Preem hears.
 
