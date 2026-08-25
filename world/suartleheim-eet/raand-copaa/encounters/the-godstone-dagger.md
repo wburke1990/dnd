@@ -150,62 +150,40 @@ doing it discreetly in front of anyone.
 a slot of attunement, it is once per dawn, and the RAW limits all stand. Do not also make it
 charge-based.
 
-### The small Anubis `[OPEN]` — what the other half does
+### The small Anubis `[settled — Will 8/25]` — Gentle Repose
 
-The statue has never had powers of its own. It was the other-plane focus for *Dream of the
-Blue Veil* in [the Dream Quest](../../maalm/encounters/the-dream-quest.md), and since then it
-has been a prop. If it is going to be half of a set, it should do what **Anubis** does in our
-own material: **preserve the dead, guide the living through the dark, and work the scales**
-([the Amseh afterlife](../../maalm/lore/egyptian-afterlife-mythology.md)).
+The statue had no powers of its own. It was the other-plane focus for *Dream of the Blue
+Veil* in [the Dream Quest](../../maalm/encounters/the-dream-quest.md), and a prop since. As
+the other half of the set it does what **Anubis** does in our own material — he is the god
+of embalming ([the Amseh afterlife](../../maalm/lore/egyptian-afterlife-mythology.md)):
 
-**The one to give it — Gentle Repose, as a ritual, at will, no slot.** Anubis is the god of
-embalming. Touch a body and it does not rot for ten days and cannot be raised as undead.
+**Gentle Repose, as a ritual, at will, no slot.** Touch a body and for ten days it does not
+rot and cannot be raised as undead.
 
 - It is the mechanical partner to the knife: *Speak with Dead* needs a mouth, and this is
   what keeps there being one.
-- It lets a party **carry a corpse to ask it later**, which is its own kind of scene.
-- **It is worth having on an item even after Aniess can cast it.** Nobody prepares Gentle
-  Repose speculatively — you want it the moment you find a body, which is the one moment it
-  is not on your list. A spell whose value is in being available unprepared is exactly the
-  spell to hang on an object.
+- It lets the party **carry a corpse to ask it later**, which is its own kind of scene.
+- **It stays worth having after Aniess can cast it.** Nobody prepares Gentle Repose
+  speculatively — you want it the moment you find a body, which is the one moment it is not
+  on your list.
 
-**Not Comprehend Languages.** The party already have it: Preem issues every crew a **Pen of
-Comprehend Languages**, and **Sarric carries theirs**
-([Preem](../../../../characters/preem.md), [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md)).
-That already solves both the tomb walls and a corpse answering in Amseh, so the statue
-should not do it twice. Worth noting what the difference is anyway: **the pen is Preem's,
-and it reads what somebody wrote down.** The knife and the statue would be the party's own,
-and they ask the dead.
+**What was considered and dropped.**
 
-**The one with teeth `[OPEN]`:**
+- **Comprehend Languages** — the party already have it at will. Preem issues every crew a
+  **Pen of Comprehend Languages** and **Sarric carries theirs**
+  ([Preem](../../../../characters/preem.md)). That covers tomb walls and a corpse answering
+  in Amseh both. The difference still worth playing: **the pen is Preem's, and it reads what
+  somebody wrote down.** The knife and the statue are the party's own, and they ask the dead.
+- **Zone of Truth** — the best fit on paper, since Anubis works the scales and the party
+  have already stood in the Hall of Two Truths. Dropped as a loan against Aniess's own
+  sheet: it is 2nd-level cleric, and she gets it free at three cleric levels.
+- **See Invisibility** — the only one nobody in the party could ever cast, and pointed at V.
+  and at Preem's quasits. Dropped because it hands them a standing answer to being watched,
+  and being watched by Preem is doing work in the campaign.
 
-- **Zone of Truth**, once per long rest. Anubis operates the scales, and the party have
-  already stood in the Hall of Two Truths and confessed. It fits, and it is strong in a campaign
-  this full of liars — Preem, V., Mul, the Writ. RAW gives it
-  an escape hatch (a successful Charisma save lets a creature lie, and the caster knows who
-  saved), but decide deliberately rather than by drift.
-
-**Smaller ones that fit if the above is too much:** *Spare the Dying* (Anubis at the moment
-of death), *Ceremony*'s funeral rite (seven days proof against undeath), *Protection from
-Evil and Good* (he is the escort who fights off what is in the dark), *Augury*.
-
-**What the party can already do.** Blackacre is a druid, Sarric a ranger, Jasper a fighter,
-Pax a monk, and Aniess the only other caster — a rogue-cleric.
-
-- **Comprehend Languages is already covered** by Sarric's Pen, above.
-- **Gentle Repose, Zone of Truth and Augury are all 2nd-level cleric spells.** Out of reach
-  now, and Aniess gets all three the moment she has three cleric levels — clerics prepare
-  from the whole list. For Zone of Truth and Augury that makes the statue a loan against her
-  own sheet; Gentle Repose survives it, for the reason above.
-- **If the statue must do something nobody can ever cast, it is `[loose]` See Invisibility.**
-  Arcane-only, so no druid, ranger or cleric reaches it. Anubis escorts the soul past what
-  waits in the dark of the Duat, and this campaign is full of things standing in rooms
-  unseen: **V. sat invisible at their table and drank Sarric's coffee**, and Preem watches
-  through **quasits that turn invisible at will** — one of which is in the guest house at Aar
-  in Calix Vire's pocket. The cost is that it hands the party a standing answer to being
-  watched by Preem, and being watched by Preem is doing work in the campaign.
-- **Spare the Dying, Ceremony, Protection from Evil and Good** are cantrip or 1st-level
-  cleric. She can most likely prepare them today.
+**Why not the others.** *Augury* is the same loan as Zone of Truth. *Spare the Dying*,
+*Ceremony* and *Protection from Evil and Good* are cantrip or 1st-level cleric, so Aniess
+can most likely prepare them today.
 
 `[OPEN]` **Aniess's rogue/cleric split.** Her sheet says "Rogue / Cleric" with no levels, and
 which side carries the levels decides all of the above.

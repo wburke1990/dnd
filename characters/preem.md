@@ -77,8 +77,15 @@ In the opening study scene, Preem outfits each party member for the quest.
 | **Pax** | **Glasses of Detect Magic** |
 | **Sarric** | **Pen of Comprehend Languages** |
 
-Every gift doubles as a leash: the message stone routes the party's finds to
-**Mul**, and Jasper's familiar reports back to Preem directly.
+`[corrected — Will 8/25]` **They are not all leashes.** Only **Jasper's amulet**
+is: the familiar it summons is Preem's quasit and reports to him directly ([the
+psychic bat](the-psychic-bat.md)), and Jasper does not know. The **message stone**
+routes names to **Mul**, which is the commission working as agreed rather than
+anything hidden. The **pen**, the **Timebiter** and the **glasses** are tools, and
+that is all they are.
+
+**The Pen of Comprehend Languages is at will** — not the once-a-day ritual the
+Timebiter runs on. Sarric can read anything, as often as he likes.
 
 **Timebiter** (Aniess) is the party's radiocarbon-dating tool — a **mortar and
 pestle.** Like the other gifts it grants a **free 10-minute ritual** (once per
