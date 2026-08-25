@@ -125,6 +125,50 @@ no hatred of demons ([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoeni
 **Mechanically it is a +2 dagger.** Tell them the number when they identify it. At level 3
 that is well above anything the party carry.
 
+### What it does — the rite `[settling]`
+
+**Wondrous weapon, requires attunement.** Once per dawn, touch the notch between the prongs
+to the mouth of a corpse and cast **Speak with Dead** from it, no slot and no spellcasting
+required. Everything else is the spell as written:
+
+- **Five questions,** ten minutes.
+- The corpse **must have a mouth** and must not be undead. RAW the spell needs a mouth, and
+  a peseshkef is used to open one.
+- No corpse can be asked twice **within ten days**.
+- It knows only what it knew in life, **including its languages**, and it is **under no
+  obligation to answer truthfully**. Answers are brief and cryptic.
+
+**There is no command word.** Whoever uses it has to kneel by the body and put the blade to
+its face. There is no casting it from across a room, and there is no
+doing it discreetly in front of anyone.
+
+**Attunement is the limit.** At level 3 a 3rd-level spell effect is above tier, so it costs
+a slot of attunement, it is once per dawn, and the RAW limits all stand. Do not also make it
+charge-based.
+
+### `[loose]` The pair, together
+
+Holding the **small Anubis** in the other hand while working the rite: **the corpse answers
+in a language the speaker knows.** RAW the dead only speak what they spoke in life, which
+makes a five-thousand-year-old Amseh mouth useless. Anubis is the god who performs the rite.
+The statue translates; the knife opens the mouth.
+
+Together they let a crew question the Amseh dead directly rather than read tomb walls — and
+reading the Amseh dead is what
+[Preem](../../../../characters/preem.md) has been paying crews to do the whole campaign.
+
+### `[OPEN]` Who is actually answering
+
+Godstone produces a voice its carrier hears and takes for their god, and the phoenix whose
+stone it is has been losing its memory
+([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md) §3–4). This is a different
+god's stone and nobody knows what state that one is in.
+
+So it is unsettled whether the answers come from the dead person or from the stone using the
+mouth. RAW already says the answers are cryptic and need not be true, so nothing has to
+change mechanically. Now and then, have an answer come back that the corpse could not
+possibly have given.
+
 ## 3 · Who has it `[settling]`
 
 **Setha Renk**, the half-elf who leads the
@@ -213,8 +257,13 @@ the [Second Foundation](../../../nila/lore/the-second-foundation.md) owns the Co
 
 ## 9 · What Greg has to decide `[run]`
 
-**It is a +2 dagger and she is a rogue.** She is being asked to carry it three days up a
-canal, and the man at the far end has never seen it.
+**It is a +2 dagger that makes the dead talk, and she is a rogue-cleric.** She is being
+asked to carry it three days up a canal, and Ottmar Lisk at the far end has never seen it.
+She is also carrying the statue that is its other half.
+
+`[OPEN]` **Does she find out what it does before Copaa or after?** Before, and the delivery
+is a real decision made with everything on the table. After, and the delivery is clean and
+the regret arrives later. Both are good scenes; they are not the same scene.
 
 Beartholomew asks **Aniess**, by name, in front of the party. The Order has not given her an
 order since Maalm, and her being on this coast at all was her own choice. Play him as a
