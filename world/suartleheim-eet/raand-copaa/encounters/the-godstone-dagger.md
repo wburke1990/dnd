@@ -179,8 +179,9 @@ gets back to Maalm, and what Preem does with it.
 
 - **He watches and he tells.** Movements, the layout, when the belt comes off, when the boat
   is due.
-- **His echo can cross a wall,** stand in a room, watch, and take a blow meant for him. It
-  cannot lift the knife, turn a key, or carry anything out.
+- **His echo cannot cross a wall** and cannot leave his 30-foot leash, so it is no use as a
+  scout. It cannot lift the knife, turn a key, or carry anything out either. What it can do
+  is put *him* through an open window he is already standing at — see §11.
 - **He will not be seen near it,** and he will not walk off the wharf. If the party are
   caught, he does not know them.
 - **He pays either way** and does not ask how they did it.
@@ -238,21 +239,37 @@ Knight).** The single rogue level is the only RAW way he speaks Thieves' Cant, a
 what the Order trained into him before they gave up on hiding him. It also gives him
 Expertise in two skills and Sneak Attack 1d6.
 
-- **Manifest Echo** (bonus action) — a translucent grey image of him in an unoccupied space
-  within 15 feet. AC 16, **1 hit point**, immune to all conditions. Any damage destroys it.
-- Bonus action to **move the echo 30 feet in any direction. It moves through creatures and
-  objects** and must end in an unoccupied space, never more than 30 feet from him.
-- Bonus action to **swap places with it** while it is within 30 feet. That is a teleport.
+- **Manifest Echo** (bonus action) — a translucent grey image of him in **an unoccupied
+  space he can see** within 15 feet. AC 16, **1 hit point**, immune to all conditions, his
+  size, occupies its space. Any damage destroys it.
+- He can command it to move 30 feet in any direction with no action. **It moves like a
+  creature. Nothing in the feature lets it pass through a wall or a closed door.** If it is
+  ever more than 30 feet from him at the end of his turn, it is destroyed.
+- Bonus action to **swap places with it** — a teleport, costing 15 feet of his movement.
 - His attacks can originate from the echo's space, and he can take opportunity attacks from
   it. **Unleash Incarnation** gives one extra melee attack from the echo, CON modifier
   times per long rest.
-- Also Second Wind, Action Surge, a Fighting Style.
+- Also Second Wind, Action Surge, a Fighting Style. *(Seeing and hearing through the echo at
+  up to 1,000 feet is **Echo Avatar**, a 7th-level feature he does not have.)*
 
-**What that means for the heist.** The echo walks through the guest-house wall and he sees
-the room, so *getting in* is not the problem. But the echo **cannot lift, carry, open or
-touch anything** — it is an image — and it is an image **of him.** Anyone who sees it has
-seen a seven-foot bear-man in a room he has no business in, and his posting is over. One
-hit destroys it. So he scouts and he does not steal.
+**So can he just teleport in and take it?** Yes — from arm's reach, and only from arm's
+reach. The echo cannot go through the wall and cannot leave his 30-foot leash, so to put
+himself in Renk's room he has to be **standing on the gallery outside an open window** when
+he does it. There is no version where he does this from the wharf. And the echo is an image
+**of him**, one hit destroys it, and it cannot lift or carry anything, so the knife has to
+come out in his own hands.
+
+**Which is exactly the problem.** A seven-foot bear-man on the Lapis Writ's gallery at three
+in the morning, on the night their heirloom goes missing, in a port where he is the most
+identifiable person alive. **Have him offer it anyway** when a player asks, because a player
+will:
+
+> *"I can put myself in that room. I have to be standing under the window to do it. And then
+> the knife is gone, and there is one thing in this town that looks like me."*
+
+If the party take him up on it, he does it. The price is the posting, and the Order loses
+its only eyes on what leaves Aar by sea — which is what he was actually sent for, and worth
+more to them than one knife. Let them choose with that said out loud.
 
 **[Setha Renk](../../maalm/encounters/tavern-name-hunter-crews.md) — half-elf, Bard 3
 (College of Lore).**

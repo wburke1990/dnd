@@ -72,19 +72,26 @@ the echo.
 
 ## The echo `[settling]`
 
-**Manifest Echo.** A bonus action puts a translucent grey image of him in an unoccupied
-space within 15 feet: AC 16, **one hit point**, immune to every condition, destroyed by any
-damage. A bonus action moves it 30 feet in any direction and **it moves through creatures
-and objects**, so a wall or a locked door is nothing to it. A bonus action swaps him with
-it while it is within 30 feet, which is a teleport. He can attack from its space, take
-opportunity attacks from it, and **Unleash Incarnation** gives him one extra melee attack
-from it, CON modifier times per long rest.
+**Manifest Echo.** A bonus action puts a translucent grey image of him in **an unoccupied
+space he can see within 15 feet**: AC 16, **one hit point**, immune to every condition,
+destroyed by any damage. It is his size and it occupies its space. On his turn he can
+command it to move up to 30 feet in any direction with no action — **it moves the way a
+creature moves. It does not pass through walls or closed doors.** If it is ever more than
+30 feet from him at the end of his turn, it is destroyed.
 
-**What it cannot do.** Lift a crate, turn a key, or carry anything out. It is an image.
+**The swap is a teleport.** A bonus action, 15 feet of his movement, and he and the echo
+change places.
 
-**And it is an image of him.** Anyone who sees it has seen a seven-foot bear-man standing
-in a room he has no business in. So he uses it where nobody is looking — the guest house
-on the basin, from his post — and he is not the one who steals anything.
+He can attack from its space, take opportunity attacks from it, and **Unleash Incarnation**
+gives him one extra melee attack from it, CON modifier times per long rest.
+
+**What it cannot do.** Go through a wall. Leave his 30-foot leash. Lift a crate, turn a
+key, or carry anything out — it is an image. *(Seeing and hearing through it at range is
+**Echo Avatar**, a 7th-level feature. He is not 7th level.)*
+
+**And it is an image of him.** Anyone who sees it has seen a seven-foot bear-man. So the
+echo gets him over a wall or through a window he is already standing at, and it does not
+get him anywhere from a safe distance.
 
 ## How to play him `[settling]`
 
