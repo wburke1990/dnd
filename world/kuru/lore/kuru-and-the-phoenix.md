@@ -294,6 +294,35 @@ erased (cf. *Puppet or person?* above). A numbered newcomer never had even that.
   hive*) — the old-guard scholar who authored the snake-transformation. *(Cousin to
   the table's 4X10N "Axion"; his plate reads 4X10M.)*
 
+### What godstone looks like to Detect Magic `[settled — 8/25]`
+
+`[settled]` **It has no school.** Detect Magic tells the caster a thing's school of magic
+**"if any"** — and godstone was never enchanted. Nobody cast anything on it. It is a piece
+of a comet-born god, and it reads as a magic that is not the product of a spell: an aura
+with nothing to sort it into.
+
+So a godstone object shows **two things at once** — the school of whatever it has been made
+to do, and underneath that something with no school at all. The
+[peseshkef](../../suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) grants
+*Speak with Dead* and the **small Anubis** grants *Gentle Repose*, and both of those are
+**necromancy**; the stone itself is the part that does not answer.
+
+`[run]` **This makes godstone identifiable by its lack of a signature,** which is a real
+tool to hand a party in a campaign about finite godstone. Anything made of it reads the
+same way — and so does anyone. **[Shepard](../../../characters/shepard.md) is walking
+godstone,** and so is every warforged. Pax's Glasses of Detect Magic would say so.
+
+For contrast, everything else the party carries sorts cleanly:
+
+| Object | Aura |
+|---|---|
+| Jasper's amulet, and Batrick ([the psychic bat](../../../characters/the-psychic-bat.md)) | Conjuration |
+| Sarric's Pen of Comprehend Languages | Divination |
+| Pax's Glasses of Detect Magic | Divination |
+| Aniess's Timebiter | Divination |
+| Sarric's sending stone from V. | Evocation |
+| **The small Anubis, and the peseshkef** | **Necromancy — and something with no school under it** |
+
 ### The hive mind — from symbiosis to parasitism
 
 `[settled]` Everyone carrying god-stone hears the same voice (above) because they
@@ -582,7 +611,7 @@ A Kuru-eye view; the master timeline is [world-history-timeline.md](../../nila/l
     its **warforged sink** (godstone is heavy, and they hate the water) — so the great
     land power literally cannot crew a fleet, and every hull it uses is **built by the
     [Suartleheim dwarves](../../the-sea/lore/ships-and-sea-power.md) and crewed by Mukka.**
-  - 🔒 **The coming reversal (planned beat).** `[loose]` That supply line is about to
+  - 🔒 **The coming reversal.** `[loose]` That supply line is about to
     snap: when **[Sam's halfling floating fleet](../../the-sea/lore/floating-fleet.md)** starts **capturing
     the transport fleets** ([overview §5](../../nila/lore/campaign-overview.md)), **both armies are left
     trapped on hostile Musleheim with no reinforcements and no supplies** — and the

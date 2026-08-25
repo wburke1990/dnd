@@ -118,6 +118,12 @@ the one Set took. The prong with the broken brow is worn smooth. The other is no
 made both, five thousand years ago, and Aniess can put them side by side and see that the
 marks match.
 
+**Under Detect Magic it reads necromancy, and under that nothing.** *Speak with Dead* is
+necromancy and so is the statue's *Gentle Repose*, but the stone itself was never enchanted
+and has no school to report
+([godstone and Detect Magic](../../../kuru/lore/kuru-and-the-phoenix.md)). Pax's glasses see
+both layers, and the second one is how godstone is told from everything else in the world.
+
 **It is godstone** — an Amseh god's, like the
 [small Anubis](../../maalm/encounters/the-dream-quest.md), not the phoenix's, so it carries
 no hatred of demons ([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md)).
