@@ -109,9 +109,9 @@ post to take it and he cannot carry it upriver, and Renk's boat north comes in a
 
 ## Open threads
 
-- `[OPEN]` Whether he knows the knife is godstone, or is passing on an order he was given
-  no reason for. As written he says the Order wants it and does not say what for, which
-  reads as a man who was not told.
+- `[settled]` **He does not know the knife is godstone.** He was given a description, a
+  town and an order, and no reason. Asked what the Order wants with it, he says he was not
+  told, and he is telling the truth.
 - `[OPEN]` Whether the order came from the Order at all, or whether he is doing this for
   himself and has told Aniess a handler's name that is false.
 - `[OPEN]` What he is really posted at Aar to watch, and whether the knife is part of it
