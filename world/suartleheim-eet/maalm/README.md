@@ -45,6 +45,7 @@ The conquest-city and the Valley of the Kings. Played out.
 
 | File | Status | What it is |
 |---|---|---|
+| [the peseshkef](prompts/the-peseshkef.md) | `draft` | Image prompt for the godstone peseshkef and for Setha Renk who wears it |
 | [akhekh staircase reliefs](prompts/akhekh-staircase-reliefs.md) | `completed` | Canyon-wall reliefs on the carved staircase up to the Akhekh's lair |
 | [al qahtani mansion exterior](prompts/al-qahtani-mansion-exterior.md) | `completed` | Establishing shot of the al Qahtani merchant house and its gardens |
 | [eighth hour he who wakes the dead](prompts/eighth-hour-he-who-wakes-the-dead.md) | `completed` | The Eighth Hour of the Duat, the tomb-cliff necropolis along the river of stars |

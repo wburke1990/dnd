@@ -458,7 +458,10 @@ Play it as kindness; let the weight land later.
 #### Setha Renk — half-elf · Lapis Writ leader *(Blackacre's mirror)*
 
 **Appearance.** The good wine, the bottle with a name, poured for the whole table
-so everyone can see who's paying.
+so everyone can see who's paying. Physically: tall, dark skin, dark hair cut short for
+tomb work, almost-elf and not quite, sand-coloured travel coat, gold in the ears, lapis at
+the throat — written out in [the peseshkef prompt](../prompts/the-peseshkef.md), along with
+the Amseh ritual knife she wears at her belt.
 
 **Hook lines.**
 - *Intro.* *"Setha Renk, Lapis Writ — chartered, if that means anything to you.

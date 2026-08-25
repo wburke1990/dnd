@@ -112,6 +112,8 @@ the dead go up — so the seven dots on the back of the haft are the same seven 
 seven cups are the **seven sacred oils**. The two eyes are **Horus's**, the whole one and
 the one Set took. The prong with the broken brow is worn smooth. The other is not.
 
+`→` [image prompt](../../maalm/prompts/the-peseshkef.md) for the knife and for Renk.
+
 **The mark under the hoof is cut into the small Anubis too,** under its feet. The same hand
 made both, five thousand years ago, and Aniess can put them side by side and see that the
 marks match.

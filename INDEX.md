@@ -17,7 +17,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [nila](world/nila/README.md) | 23 | The world itself: cosmology, history, rules, and the powers that span regions. |
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 5 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
-| [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 33 | The conquest-city and the Valley of the Kings. Played out. |
+| [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
 | [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 9 | Raand, Copaa, Aar and the Haals mines. |
 | [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
 
@@ -194,6 +194,7 @@ The conquest-city and the Valley of the Kings. Played out.
 
 | File | Status | What it is |
 |---|---|---|
+| [the peseshkef](world/suartleheim-eet/maalm/prompts/the-peseshkef.md) | `draft` | Image prompt for the godstone peseshkef and for Setha Renk who wears it |
 | [akhekh staircase reliefs](world/suartleheim-eet/maalm/prompts/akhekh-staircase-reliefs.md) | `completed` | Canyon-wall reliefs on the carved staircase up to the Akhekh's lair |
 | [al qahtani mansion exterior](world/suartleheim-eet/maalm/prompts/al-qahtani-mansion-exterior.md) | `completed` | Establishing shot of the al Qahtani merchant house and its gardens |
 | [eighth hour he who wakes the dead](world/suartleheim-eet/maalm/prompts/eighth-hour-he-who-wakes-the-dead.md) | `completed` | The Eighth Hour of the Duat, the tomb-cliff necropolis along the river of stars |
