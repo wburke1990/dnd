@@ -181,6 +181,25 @@ own material: **preserve the dead, guide the living through the dark, and work t
 of death), *Ceremony*'s funeral rite (seven days proof against undeath), *Protection from
 Evil and Good* (he is the escort who fights off what is in the dark), *Augury*.
 
+**What the party can already do.** Blackacre is a druid, Sarric a ranger, Jasper a fighter,
+Pax a monk, and Aniess the only other caster — a rogue-cleric.
+
+- **Comprehend Languages is the one nobody can ever reach.** Bard, sorcerer, warlock and
+  wizard only, and the party has no arcane caster at all. It is not on the druid, ranger or
+  cleric list, so it never goes redundant however anyone levels. The Valley currently makes
+  reading Amseh a **DC 10–12 Intelligence check**
+  ([the Valley](../../maalm/encounters/valley-of-the-kings.md)); this makes it automatic, and
+  more to the point it is the half that lets a corpse answer in something the party speaks.
+- **Gentle Repose, Zone of Truth and Augury are all 2nd-level cleric spells.** Out of reach
+  now, and Aniess gets all three the moment she has three cleric levels — clerics prepare
+  from the whole list, so they arrive free. Putting them on the statue is a loan against her
+  own sheet.
+- **Spare the Dying, Ceremony, Protection from Evil and Good** are cantrip or 1st-level
+  cleric. She can most likely prepare them today.
+
+`[OPEN]` **Aniess's rogue/cleric split.** Her sheet says "Rogue / Cleric" with no levels, and
+which side carries the levels decides all of the above.
+
 **What it costs.** Giving the statue anything makes both halves harder for Aniess to give up
 and gives the [al Qahtani](../../../../characters/the-children.md) a real reason to want it
 back if they ever learn what they handed over.
