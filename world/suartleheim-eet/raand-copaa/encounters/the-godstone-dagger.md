@@ -50,6 +50,14 @@ Everything he will say if pressed:
 - **He calls it a knife.** He does not say godstone until Aniess asks, and then he says the
   Order wants it and does not say what for.
 
+**Then he wants to take Aniess drinking,** and whether she said yes to the knife does not
+come into it. The Tally House after his shift, and he buys. Two things belong in that
+scene: he goes through the cohort, who is where and who is dead; and he brings up **a
+night out they had**, which is the night Aniess gave away at the offering bowl in
+[session 8](../../../../sessions/session-08.md) and cannot remember. He does not know it
+is gone. Keep the details his and leave the loss to Greg —
+[Beartholomew](../../../../characters/beartholomew.md).
+
 ## 2 · What the knife is `[settling]`
 
 A **peseshkef** — the Amseh ritual blade of the **Opening of the Mouth**, the instrument a

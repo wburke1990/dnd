@@ -72,10 +72,12 @@ Maalm to Aar is a coastal run of several days. The loop, in short:
 the Brauron run, and the party are not going to Brauron. If the table wants weather, a
 Rising sea and one hard night of watches is enough.
 
-**Cassia and the convoy part from them here.** The Second Hand are carrying wealthy Maalm
-hunters north to the Sacred Hunt; the party are going inland at Aar. Play the parting.
-`[OPEN]` whether Cassia waits on the coast, and whether the party mean to make the Hunt
-later.
+**Cassia and the convoy go on north.** The Second Hand are carrying wealthy Maalm hunters
+to the Sacred Hunt and do not stop for Copaa. **The party's sloop is the faster boat and
+gets to Aar ahead of them,** so the parting happens at sea or in the basin and the convoy
+carries on up the coast. The hunters are not who the party drink with at Aar; the rival
+name-hunter crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and
+whether Cassia is still on the coast when they do.
 
 ## 4 · Landfall — Aar  `→` [aar.md](../lore/aar.md)
 
@@ -99,8 +101,9 @@ everything, more men than buildings. A canal runs straight inland from the basin
    [wreck §8](../../../the-sea/encounters/the-drifting-wreck.md).
 3. **The Hunt crews.**  `→` [tavern-name-hunter-crews.md](../../maalm/encounters/tavern-name-hunter-crews.md)
    The party left Maalm without ever drinking with Preem's other crews, and the crews are
-   working up this coast toward the Hunt. **Run that scene here** — on the waterfront or
-   in the **Tally House** on the basin — instead of the Maalm taverns. The **Lapis Writ**
+   already at Aar, working up this coast toward the Hunt and waiting on boats north.
+   **Run that scene here** — on the waterfront or in the **Tally House** on the basin —
+   instead of the Maalm taverns. The **Lapis Writ**
    finished the whole Valley without missing a name and have the upper floor of the guest
    house while they wait on a boat north; the **Brass Jackals** are broke and a member or
    two down. Each crew member is paired with a PC. Use **Calix's pet toad** once,

@@ -268,7 +268,7 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
-| [beartholomew](characters/beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, a bear-merged Echo Knight posted to Aar |
+| [beartholomew](characters/beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, working Aar's wharf as a Company ore guard |
 | [aniess](characters/aniess.md) | `reference` | Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order |
 | [annibel](characters/annibel.md) | `reference` | The half-orc general who reversed Kuru's reconquest and was defeated at Ilka Mak |
 | [arishat](characters/arishat.md) | `reference` | A dragonborn zealot at Jotunheim who keeps the caldera's books |
