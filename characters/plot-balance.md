@@ -96,7 +96,8 @@ Rebuild this by hand when a thread is run. It is not generated.
 | Punt, Axiom, and finding out she is the first snake-person made outside the island | [kuru and the phoenix](../world/kuru/lore/kuru-and-the-phoenix.md) | `reference`, no scene written |
 | The Order runs the same operation as Preem | [aniess](aniess.md), [campaign overview](../world/nila/lore/campaign-overview.md) §2 | `reference`, long-term |
 | Recruitment by a rival name-hunting crew | [rival crew plots](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md) | `idea` |
-| Beartholomew, Olora, Dillon; the trainer and the handler | [aniess](aniess.md) | **unwritten**, two still unnamed |
+| Beartholomew asks her to steal a godstone knife at Aar | [the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md), [beartholomew](beartholomew.md) | `draft` |
+| Olora, Dillon; the trainer and the handler | [aniess](aniess.md) | **unwritten**, two still unnamed |
 | The warforged grove | [great tree sites](../world/nila/encounters/great-tree-sites.md) | `idea`, on hold |
 
 ## Ensemble — a line each, not a thread

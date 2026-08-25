@@ -20,6 +20,7 @@ Raand, Copaa, Aar and the Haals mines.
 | File | Status | What it is |
 |---|---|---|
 | [the haals runoff](encounters/the-haals-runoff.md) | `ready` | A Company mine poisoning the watershed below Haals |
+| [the godstone dagger](encounters/the-godstone-dagger.md) | `draft` | Beartholomew asks the party to steal a godstone knife off an outbound Company barge at Aar |
 | [the mines of haals](encounters/the-mines-of-haals.md) | `draft` | The workings under the Company mine, where each level down is an older time |
 
 ### Bestiary

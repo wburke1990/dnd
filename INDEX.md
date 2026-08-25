@@ -18,7 +18,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 5 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 33 | The conquest-city and the Valley of the Kings. Played out. |
-| [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 7 | Raand, Copaa, Aar and the Haals mines. |
+| [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 8 | Raand, Copaa, Aar and the Haals mines. |
 | [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
 
 ## kalikhat
@@ -226,6 +226,7 @@ Raand, Copaa, Aar and the Haals mines.
 | File | Status | What it is |
 |---|---|---|
 | [the haals runoff](world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) | `ready` | A Company mine poisoning the watershed below Haals |
+| [the godstone dagger](world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) | `draft` | Beartholomew asks the party to steal a godstone knife off an outbound Company barge at Aar |
 | [the mines of haals](world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` | The workings under the Company mine, where each level down is an older time |
 
 ### Bestiary
@@ -266,6 +267,7 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
+| [beartholomew](characters/beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, a bear-merged Echo Knight posted to Aar |
 | [aniess](characters/aniess.md) | `reference` | Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order |
 | [annibel](characters/annibel.md) | `reference` | The half-orc general who reversed Kuru's reconquest and was defeated at Ilka Mak |
 | [arishat](characters/arishat.md) | `reference` | A dragonborn zealot at Jotunheim who keeps the caldera's books |

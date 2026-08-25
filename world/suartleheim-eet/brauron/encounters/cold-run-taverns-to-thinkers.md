@@ -201,6 +201,10 @@ keep it light.
   **Company ground**, good for: resupply, dockside rumor about the **Sacred Hunt**
   ahead (once a year, the only way into the preserve — the crews are converging), and
   a Company/leper thread if the party pull on Jogo's story. Don't force a scene.
+  - **Not for the cold run:** if William is at the table, Aar also holds the
+    [godstone dagger](../../raand-copaa/encounters/the-godstone-dagger.md) heist — a friend
+    of Aniess's waits at the watch-stone with a job. It takes a session. Skip it on
+    David's run.
   - **What David sees:** a new boomtown — raw timber wharves, Company sheds, ore-dust
     on everything, more work than buildings. A **canal runs straight inland** from
     the basin (below). Loud, cheap, thrown up in the last two hundred years.

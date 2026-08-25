@@ -4,6 +4,7 @@
 
 | File | Status | What it is |
 |---|---|---|
+| [beartholomew](beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, a bear-merged Echo Knight posted to Aar |
 | [aniess](aniess.md) | `reference` | Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order |
 | [annibel](annibel.md) | `reference` | The half-orc general who reversed Kuru's reconquest and was defeated at Ilka Mak |
 | [arishat](arishat.md) | `reference` | A dragonborn zealot at Jotunheim who keeps the caldera's books |
