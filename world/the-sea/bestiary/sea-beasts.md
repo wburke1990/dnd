@@ -223,7 +223,7 @@ Spd 20 ft, swim 50 ft. Bite +9 (3d10+5 piercing + grapple DC 17). Trunk +9 (2d8+
 *Monstrosity (Gargantuan sea-serpent, mouth a league wide)* — **Monstrosity, CR 11** · Chaotic Evil
 **AC** 17 · **HP** 210 · **STR** 24 **DEX** 14 **CON** 22 **INT** 8 **WIS** 14 **CHA** 16
 
-Spd swim 60 ft. Bite +12 (5d10+7 piercing; swallow on a hit vs. Large or smaller). **Moon-Swallowing** (rises at eclipse; while the moon is dark its presence drags an abnormal tide and the sea heaves — the storm set-piece runs with no downwind room). Tail Sweep (**1d8 hull boxes**, crew DC 16 or overboard). The serpent that rises to eat the moon; the old people beat drums and pots and raise every voice to frighten it back down. **The answer is in the myth:** noise. A boat that raises a wall of sound — drums, shouting, banging the hull (a group CHA/Performance check, DC 15, all hands) — drives it off without a blow struck. The [Fleet's whale-bladder drums](../lore/floating-fleet.md) are made for exactly this.
+Spd swim 60 ft. Bite +12 (5d10+7 piercing; swallow on a hit vs. Large or smaller). **Moon-Swallowing** (rises at eclipse; while the moon is dark its presence drags an abnormal tide and the sea heaves — the storm set-piece runs with no downwind room). Tail Sweep (**1d8 hull boxes**, crew DC 16 or overboard). The serpent that rises to eat the moon; the old people bang drums and pots and raise every voice to frighten it back down. **The answer is in the myth:** noise. A boat that raises a wall of sound — drums, shouting, banging the hull (a group CHA/Performance check, DC 15, all hands) — drives it off without a blow struck. The [Fleet's whale-bladder drums](../lore/floating-fleet.md) are made for exactly this.
 
 *Tags:* sea-myth; d20:13; eclipse; drive off with noise; drum-answer
 
@@ -374,5 +374,5 @@ Musleheim from Noku Kurunatuka** (see [nila-atlas](../../nila/lore/nila-atlas.md
   Bakunawa; why a druid keeps the boat alive.
 - [ships-and-sea-power](../lore/ships-and-sea-power.md) / [fleet-warfare](../lore/fleet-warfare.md)
   — the mage-winds the Inkanyamba is a wild cousin of; the drowned fleet.
-- [egypt](../../suartleheim-eet/maalm/bestiary/egypt.md) — the sister table; the 2d6 reaction and three-beat run.
+- [egypt](../../suartleheim-eet/maalm/bestiary/egypt.md) — the sister table; the 2d6 reaction, and running an encounter in three steps.
 </content>
