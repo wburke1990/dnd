@@ -35,10 +35,10 @@ their own myth.
 | d20 | Creature | Mythology | Type | CR |
 |----:|----------|-----------|------|----|
 | 1  | Dolphin Pod | — | Beast | 1/8 each (2d6) |
-| 2  | Sounding Whale | — | Beast | 8 |
+| 2  | Killer Whale Pod | — | Beast | 3 each (1d4+2) |
 | 3  | Open-Ocean Shark Pack | — | Beast | 1/2 each (2d4) |
 | 4  | Giant Squid | — | Beast | 4 |
-| 5  | Giant Sea Turtle | — | Beast | 2 |
+| 5  | The Milky Sea | — | Bloom — no fight | — |
 | 6  | Baitball & Seabirds | — | Beast (swarm) | 0 |
 | 7  | Sirens | Greek | Monstrosity | 4 each (1d4+1) |
 | 8  | Hippocampi & a Nereid | Greek | Fey/Celestial | 3 |
@@ -110,30 +110,23 @@ Spd 0 ft, swim 60 ft. Ram +4 (1d6+2 bludgeoning). Hold Breath 20 min; Echolocati
 
 *Tags:* sea-mundane; d20:1; good omen; helps the drowning
 
-### 2 · Sounding Whale
-*Beast (Gargantuan)* — **Beast, CR 8** · Unaligned
-**AC** 13 · **HP** 189 · **STR** 25 **DEX** 7 **CON** 20 **INT** 3 **WIS** 12 **CHA** 6
+### 2 · Killer Whale Pod
+*Beast (Huge, pod of 1d4+2)* — **Beast, CR 3 each** · Unaligned
+**AC** 12 · **HP** 90 · **STR** 19 **DEX** 10 **CON** 13 **INT** 3 **WIS** 12 **CHA** 7
 
-Spd 0 ft, swim 60 ft. Tail/Fluke +11 (5d8+7 bludgeoning; a small boat in reach takes it as **1d4 hull boxes**). Hold Breath 1 hr. No malice — but a startled or harpooned whale sounds under the hull and comes up beneath it. Leave it room and it ignores the boat. Yields enormous food and oil if taken, and the taking is what draws worse.
+Spd 0 ft, swim 60 ft. Bite +5 (5d6+4 piercing). Hold Breath 30 min. Echolocation 120 ft; Keen Hearing. **They do not eat people, and they will take anyone in the water anyway.**
 
-**If they talk to it** `[added 8/25]` — **Blackacre's Speak with Animals**, a druid ritual.
-Not Aniess: Primordial carries into Aquan and gets her the sea-**folk**, and a whale is a
-beast. RAW it can give nearby locations and monsters and what it has perceived **in the past
-day**, and it is Intelligence 3, so no names and no numbers. It answers slowly and does not
-stop swimming while it answers.
+They arrive to look at the boat, and they take their time about it. They circle, they come up beside the rail with one eye out of the water, and one of them will **strike the hull once to see what it does** — a hull box, and then they wait to see what the crew does back. Noise and a show of size moves them on (group DC 13). Blood in the water does not: it interests them.
 
-- *"Two beating things. Hard, and not fish. They went that way and the beating did not
-  stop."* — north, which is where the merfolk saw two hulls towing spars. **Sayid's ships
-  keep drums.** This is the same lead, and it lands on Blackacre.
-- *"The water is loud behind you. Small mouths. They will be busy a long time."*
-- *"There is land that way. Men's smell on it. I do not go there, it is thin."* — the shelf
-  toward Aar. Useful to Aniess, who has the navigation.
-- Asked about depth: *"I go down. It is cold and there is no one. I come up because I have
-  to."*
-- Asked for help, or about anything more than a day old: it does not understand the
-  question and says something about food.
+*Tags:* sea-mundane; d20:2; tests the hull; takes anyone overboard
 
-*Tags:* sea-mundane; d20:2; hull threat if provoked; peaceful if left
+**If they talk to it** — **Blackacre's Speak with Animals.** The most talkative thing on this half of the table. They hunt together and they trade what they have seen all day, and they follow ships for what goes over the side, so they know the shipping.
+
+- *"We know that one."* — of Blackacre's sloop, or of any hull that has been down this coast.
+- *"Two, north, with the beating in them. They throw nothing over. We stopped following."* — Sayid's ships and their drums.
+- *"There is a broken one behind you and the small mouths are on it. We are going. Come."*
+- *"Are you food? You are on the wood, so no. Get off the wood and we will know."*
+- They ask more than they answer, and they want to know what the party throw over the side.
 
 ### 3 · Open-Ocean Shark Pack
 *Beast (Medium, pack of 2d4)* — **Beast, CR 1/2 each** · Unaligned
@@ -151,27 +144,18 @@ Spd 0 ft, swim 60 ft. Tentacles +5 (3d6+3 bludgeoning + grapple DC 13, 15 ft rea
 
 *Tags:* sea-mundane; d20:4; night; grapples crew off the deck
 
-### 5 · Giant Sea Turtle
-*Beast (Large)* — **Beast, CR 2** · Unaligned
-**AC** 17 (natural) · **HP** 68 · **STR** 19 **DEX** 8 **CON** 17 **INT** 4 **WIS** 12 **CHA** 6
+### 5 · The Milky Sea
+*Bloom — not a creature and not a fight* · **No CR**
 
-Spd 20 ft, swim 40 ft. Bite +6 (2d8+4 piercing). Hold Breath 1 hr; Shell (half cover to a swimmer sheltering behind it). Harmless unless cornered. A basking turtle is a real turtle — and the reason nobody trusts the next island that turns out to be the Lyngbakr (d20:16).
+After dark the water begins to give off a steady white light, and by the middle watch it is doing it in every direction to the horizon. It does not pulse and it does not move with the swell. It holds all night and it can hold for days.
 
-**If they talk to it** `[added 8/25]` — **Blackacre's Speak with Animals** again. It is
-Intelligence 4, so a little more than the whale and still a beast: warmth, current, food,
-and the sand it was born on. It has no urgency and does not take any from the party, which
-is worth playing straight while they are on a clock.
+Nothing in it attacks. Fish go elsewhere and the lines come up empty. A hand over the side comes back wet and unmarked.
 
-- *"The water is warm here. I stay where it is warm."*
-- *"There are jellies that way. Many. I am going there."*
-- *"Something big went under a while ago. Bigger than me. It did not stop."* — the whale, if
-  they met it.
-- *"Sand, that way. I was born on it. I go back when it is time."* — the shelf toward land.
-- *"I do not go where the water is loud."* — the wreck, and the sharks on it.
-- Asked how old it is: *"Long. I do not count."* Asked anything harder, or to hurry, it goes
-  back to the jellyfish and stays there.
+**What it costs them: they cannot be missed.** The boat sits black on a lit sea and is visible for miles to anything with eyes on the water — which matters, because **[Sayid](../../../characters/sayid.md) is on this coast hunting Blackacre** ([the drifting wreck](../encounters/the-drifting-wreck.md)). If he is a day off, this is the night he closes. Douse the lanterns and it makes no difference at all.
 
-*Tags:* sea-mundane; d20:5; harmless; the honest version of the island-whale
+`[run]` Play it as a watch with nothing to fight. Star navigation still works, so Aniess can hold the course. Sailors read it as an omen and Blackacre would have heard of it; **Pax will have opinions.** `[OPEN]` whether Sayid actually finds them here or the party only spend the night knowing he could.
+
+*Tags:* sea-mundane; d20:5; no fight; removes all concealment
 
 ### 6 · Baitball & Seabirds
 *Swarm of Tiny Beasts (Gargantuan school) + wheeling birds* — **Beast, CR 0** · Unaligned
