@@ -157,6 +157,20 @@ Spd 0 ft, swim 60 ft. Tentacles +5 (3d6+3 bludgeoning + grapple DC 13, 15 ft rea
 
 Spd 20 ft, swim 40 ft. Bite +6 (2d8+4 piercing). Hold Breath 1 hr; Shell (half cover to a swimmer sheltering behind it). Harmless unless cornered. A basking turtle is a real turtle — and the reason nobody trusts the next island that turns out to be the Lyngbakr (d20:16).
 
+**If they talk to it** `[added 8/25]` — **Blackacre's Speak with Animals** again. It is
+Intelligence 4, so a little more than the whale and still a beast: warmth, current, food,
+and the sand it was born on. It has no urgency and does not take any from the party, which
+is worth playing straight while they are on a clock.
+
+- *"The water is warm here. I stay where it is warm."*
+- *"There are jellies that way. Many. I am going there."*
+- *"Something big went under a while ago. Bigger than me. It did not stop."* — the whale, if
+  they met it.
+- *"Sand, that way. I was born on it. I go back when it is time."* — the shelf toward land.
+- *"I do not go where the water is loud."* — the wreck, and the sharks on it.
+- Asked how old it is: *"Long. I do not count."* Asked anything harder, or to hurry, it goes
+  back to the jellyfish and stays there.
+
 *Tags:* sea-mundane; d20:5; harmless; the honest version of the island-whale
 
 ### 6 · Baitball & Seabirds
