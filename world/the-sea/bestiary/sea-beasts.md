@@ -116,6 +116,23 @@ Spd 0 ft, swim 60 ft. Ram +4 (1d6+2 bludgeoning). Hold Breath 20 min; Echolocati
 
 Spd 0 ft, swim 60 ft. Tail/Fluke +11 (5d8+7 bludgeoning; a small boat in reach takes it as **1d4 hull boxes**). Hold Breath 1 hr. No malice — but a startled or harpooned whale sounds under the hull and comes up beneath it. Leave it room and it ignores the boat. Yields enormous food and oil if taken, and the taking is what draws worse.
 
+**If they talk to it** `[added 8/25]` — **Blackacre's Speak with Animals**, a druid ritual.
+Not Aniess: Primordial carries into Aquan and gets her the sea-**folk**, and a whale is a
+beast. RAW it can give nearby locations and monsters and what it has perceived **in the past
+day**, and it is Intelligence 3, so no names and no numbers. It answers slowly and does not
+stop swimming while it answers.
+
+- *"Two beating things. Hard, and not fish. They went that way and the beating did not
+  stop."* — north, which is where the merfolk saw two hulls towing spars. **Sayid's ships
+  keep drums.** This is the same lead, and it lands on Blackacre.
+- *"The water is loud behind you. Small mouths. They will be busy a long time."*
+- *"There is land that way. Men's smell on it. I do not go there, it is thin."* — the shelf
+  toward Aar. Useful to Aniess, who has the navigation.
+- Asked about depth: *"I go down. It is cold and there is no one. I come up because I have
+  to."*
+- Asked for help, or about anything more than a day old: it does not understand the
+  question and says something about food.
+
 *Tags:* sea-mundane; d20:2; hull threat if provoked; peaceful if left
 
 ### 3 · Open-Ocean Shark Pack
