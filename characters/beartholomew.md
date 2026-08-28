@@ -155,5 +155,7 @@ post to take it and he cannot carry it upriver, and Renk's boat north comes in a
 - **[Session 8](../sessions/session-08.md)** — the offering bowl, and the memory she paid.
 - **[Kuru & the phoenix](../world/kuru/lore/kuru-and-the-phoenix.md)** — what godstone is and
   why the Church cannot make more of it.
-- **[Aar](../world/suartleheim-eet/raand-copaa/lore/aar.md)** — the port he guards, the guest
-  house, the Tally House, and the canal.
+- **[Aar](../world/suartleheim-eet/raand-copaa/lore/aar.md)** — the port he guards, the canal,
+  and who else is there.
+- **[The Tally House and the guest house](../world/suartleheim-eet/raand-copaa/lore/the-tally-house-and-the-guest-house.md)** —
+  where he drinks, where he makes the ask, and the building the knife is in.

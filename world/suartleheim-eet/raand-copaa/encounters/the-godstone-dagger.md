@@ -17,7 +17,15 @@ status: draft
 
 ---
 
-## 1 · The meeting — at the watch-stone `[settling]`
+## 1 · The meeting — at the watch-stone, then the Tally House `[settling]`
+
+**Two scenes, and he does not name the job in the first one.** He meets her at noon on the
+wharf he is paid to guard, in a Company coat, in front of the dock crews — so all he does
+there is say hello and tell her where he drinks. The ask happens that night on the porch of
+the **[Tally House](../lore/the-tally-house-and-the-guest-house.md)**, with the Writ inside
+the room behind him.
+
+### At the watch-stone, at noon
 
 Beartholomew takes his meals at the foot of [Musa's watch-stone](../lore/aar.md), because it
 stands on the wharf he is paid to guard. Run the four handouts first, as written. Then:
@@ -47,7 +55,18 @@ written out with the gloss in the handout.
 *(Go out, good women, and look, and look — go out of the city — and see the man that stole
 your clothes hanged on the gallows.)*
 
-Then he names the job in the second song, and the third line of it is the whole ask:
+He says he is glad to see her, gives the party his name, and says he has something to ask
+and will not ask it here. The Tally House after his shift, and he buys. Then he sits back
+down to his bowl.
+
+### That night, on the Tally House porch
+
+He drinks with the crews first and takes her outside to say it. Two lamps, the basin, the
+guest house lit up a hundred yards down the water — and the **Lapis Writ** in the room he
+just walked out of, with the knife on Setha Renk's belt
+([the Tally House](../lore/the-tally-house-and-the-guest-house.md)).
+
+He names the job in the second song, and the third line of it is the whole ask:
 
 > *"If we niggle, or mill a bowsing ken,*
 > *Or nip a boung that has but a win,*
@@ -62,8 +81,7 @@ after that he says it plainly:
 > a boat north, and when her boat comes it goes with her. I need it carried up the canal to
 > Copaa. I cannot go, and I cannot be seen taking it."
 
-He says he is glad to see her. He does not ask what she has been doing, and he gives the
-party his name. Everything else he will say if pressed:
+He does not ask what she has been doing. Everything else he will say if pressed:
 
 - **He is an ore guard on the Company's books,** and has been for four months. The Order put
   him here. Walking off the wharf for a week up the canal ends the posting, and the Order
@@ -76,10 +94,10 @@ party his name. Everything else he will say if pressed:
   description, a town, and an order, and no reason. Asked what the Order wants with it, he
   says he was not told, and that is the truth.
 
-**Then he wants to take Aniess drinking,** and whether she said yes to the knife does not
-come into it. The Tally House after his shift, and he buys. Two things belong in that
-scene: he goes through the cohort, who is where and who is dead; and he brings up **a
-night out they had**, which is the night Aniess gave away at the offering bowl in
+**Then he goes back inside and buys another round,** and whether she said yes to the knife
+does not come into it. Two things belong in the rest of that night: he goes through the
+cohort, who is where and who is dead; and he brings up **a night out they had**, which is
+the night Aniess gave away at the offering bowl in
 [session 8](../../../../sessions/session-08.md) and cannot remember. He does not know it
 is gone. Beartholomew supplies the details of that night; let Greg decide how Aniess
 answers — [Beartholomew](../../../../characters/beartholomew.md).

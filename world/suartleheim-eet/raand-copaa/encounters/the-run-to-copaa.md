@@ -133,7 +133,8 @@ everything, more men than buildings. A canal runs straight inland from the basin
 3. **The Hunt crews.**  `→` [tavern-name-hunter-crews.md](../../maalm/encounters/tavern-name-hunter-crews.md)
    The party left Maalm without ever drinking with Preem's other crews, and the crews are
    already at Aar, working up this coast toward the Hunt and waiting on boats north.
-   **Run that scene here** — on the waterfront or in the **Tally House** on the basin —
+   **Run that scene here** — in the
+   **[Tally House](../lore/the-tally-house-and-the-guest-house.md)** on the basin —
    instead of the Maalm taverns. The **Lapis Writ**
    finished the whole Valley without missing a name and have the upper floor of the guest
    house while they wait on a boat north; the **Brass Jackals** are broke and a member or

@@ -18,7 +18,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 5 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
-| [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 9 | Raand, Copaa, Aar and the Haals mines. |
+| [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 10 | Raand, Copaa, Aar and the Haals mines. |
 | [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
 
 ## kalikhat
@@ -217,6 +217,7 @@ Raand, Copaa, Aar and the Haals mines.
 
 | File | Status | What it is |
 |---|---|---|
+| [the tally house and the guest house](world/suartleheim-eet/raand-copaa/lore/the-tally-house-and-the-guest-house.md) | `ready` | Aar's two houses on the basin — the Company drinking shed and the inn the Writ have taken |
 | [the fallen gnome kingdom](world/suartleheim-eet/raand-copaa/lore/the-fallen-gnome-kingdom.md) | `idea` | The gnome túatha of Suartleheim Eet, their conquest and their fall |
 | [aar](world/suartleheim-eet/raand-copaa/lore/aar.md) | `reference` | The Company ore-port where the gnomes first came ashore |
 | [copaa](world/suartleheim-eet/raand-copaa/lore/copaa.md) | `reference` | The poisoned ore town downstream of the Haals mine |

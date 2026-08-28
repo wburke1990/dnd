@@ -10,6 +10,7 @@ Raand, Copaa, Aar and the Haals mines.
 
 | File | Status | What it is |
 |---|---|---|
+| [the tally house and the guest house](lore/the-tally-house-and-the-guest-house.md) | `ready` | Aar's two houses on the basin — the Company drinking shed and the inn the Writ have taken |
 | [the fallen gnome kingdom](lore/the-fallen-gnome-kingdom.md) | `idea` | The gnome túatha of Suartleheim Eet, their conquest and their fall |
 | [aar](lore/aar.md) | `reference` | The Company ore-port where the gnomes first came ashore |
 | [copaa](lore/copaa.md) | `reference` | The poisoned ore town downstream of the Haals mine |

@@ -99,9 +99,12 @@ watch-stone move with them; only ever the one port.
 - **The Company office, store, and magistrate.** Keeps the wharves, the scale-book on the
   outbound barges, and the law ([the Company §4](../../../nila/lore/the-company.md)). The
   magistrate is **Halder Quinn**; the weigh-master who keeps the book is **Ivet Sarn**, and
-  he keeps it in the **Tally House** on the basin, which is also where the dock crews drink.
-- **The guest house.** The one good building on the basin, where anyone with money stays
-  while they wait on a boat. The **Lapis Writ** have the upper floor.
+  he keeps it in the **[Tally House](the-tally-house-and-the-guest-house.md)** on the basin,
+  which is also where the dock crews drink.
+- **[The guest house](the-tally-house-and-the-guest-house.md).** The one good building on the
+  basin, where anyone with money stays while they wait on a boat. The **Lapis Writ** have the
+  upper floor. **Yessa Letap** keeps it; her cousin **Dorn Letap** keeps the Tally House, and
+  they do not speak.
 - **The dock and barge crews.** The men who move the ore off the canal barges and onto the
   sea barges.
 - **The ore guards.** On the wharves and the outbound cargo.
@@ -114,6 +117,8 @@ watch-stone move with them; only ever the one port.
 
 ## Connections
 
+- **[The Tally House and the guest house](the-tally-house-and-the-guest-house.md)** — the two
+  buildings on the basin, the two Letaps who keep them, and the guest house's upper floor.
 - **[Copaa](copaa.md)** — up the canal, where the ore is weighed; the poisoned river and the
   tomb-lepers.
 - **[The Mughal founding](the-mughal-founding.md)** — the two ports and the two canals, and
