@@ -125,8 +125,8 @@ pattern.
 
 ### Packing a raw Workshop map (`pack_ow_map`)
 
-A map found on the Workshop is **not** a OW map: it loads as loose objects on a
-table, with no `OWx_` bag for `import_ow_map` to find. `pack-ow-map` makes one.
+A map found on the Workshop loads as loose objects on a table, with no `OWx_`
+bag for `import_ow_map` to find. `pack-ow-map` makes one.
 
 ```
 uv --directory /Users/wcb/personal/dnd/scripts run pack-ow-map \
@@ -150,10 +150,21 @@ Two things it fixes:
   it finds the map's *own* floor plate — which a city built out of building
   meshes does not have. Without the recentre the map builds beside its floor,
   and an in-game resizer can't fix it.
-- **It reports the span**, because vBase can't be fitted either. Pass that to
-  **`import_ow_map --vbase`** with some margin (the span measures piece centres,
-  so buildings extend past it — Haagen went in at 48 against a 41.8 span). Adjust
-  the JotBase line afterwards if the floor overhangs.
+- **It works out a vBase**, because that can't be fitted either. Pass it to
+  **`import_ow_map --vbase`**.
+
+**vBase scales the floor plate, and the plate is about 4 units across at scale
+1.** So a map spanning S units in piece positions wants a vBase near **S / 4.1**,
+and passing S straight through makes the floor four times too big. Haagen's
+first import did exactly that — span 41.8, vBase 48 — and the floor covered the
+DM area and part of the player areas. Haagen's vBase is 10.5.
+
+The 4.1 is measured: divide the piece span of each map whose floor plate the
+automatic fit sized correctly by the vBase that fit chose — Canyon Cave
+74.2/17.99, Rocky Path 80.4/17.99, Desert Cave 66.1/18.21.
+`pack_ow_map.UNITS_PER_VBASE` holds it. To change the vBase of a map already in
+staging, edit the second brace-triple of its JotBase line in `aBag.LuaScript` —
+no re-import needed.
 
 The map also needs a floor image, since a raw mod has no `_OW_wBase`. Staging's
 stock SBx tokens already have floor images — `SBx_Cobble`, `SBx_Grass`,

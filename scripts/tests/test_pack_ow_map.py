@@ -122,14 +122,23 @@ def test_pack_builds_a_named_owx_bag() -> None:
     assert summary["pieces"] == 2
 
 
-def test_pack_reports_the_span_and_a_vbase_suggestion() -> None:
+def test_pack_reports_the_span() -> None:
     save = _save([_obj("aaa111", x=0.0, z=0.0), _obj("bbb222", x=40.0, z=20.0)])
 
     _donor, summary = pack_ow_map.pack_ow_map(save, "Haagen")
 
     assert summary["span_x"] == 40.0
     assert summary["span_z"] == 20.0
-    assert summary["suggested_vbase"] == 40.0
+
+
+def test_suggested_vbase_converts_the_span_to_a_plate_scale() -> None:
+    """vBase scales a plate ~4 units across, so it is not the span itself."""
+    save = _save([_obj("aaa111", x=0.0, z=0.0), _obj("bbb222", x=41.0, z=20.0)])
+
+    _donor, summary = pack_ow_map.pack_ow_map(save, "Haagen")
+
+    assert summary["suggested_vbase"] == round(41.0 / pack_ow_map.UNITS_PER_VBASE, 2)
+    assert summary["suggested_vbase"] < summary["span_x"]
 
 
 def test_pack_does_not_mutate_the_source_save() -> None:

@@ -20,8 +20,8 @@ it can find the map's own floor plate. A workshop city built out of building
 meshes has no plate at all, so without this the map builds off to one side of
 its own floor.
 
-It also reports the selection's span, which is the number to size the Hub's
-vBase floor against (``import_ow_map --vbase``).
+It also reports a vBase for ``import_ow_map --vbase``, converted from the span
+(see ``UNITS_PER_VBASE``).
 """
 
 from __future__ import annotations
@@ -39,6 +39,17 @@ from typing import Any
 # it. This band is "on the table".
 DEFAULT_MIN_Y = 0.0
 DEFAULT_MAX_Y = 2.0
+
+# vBase is a SCALE on the Hub's floor plate, not a width in position units, and
+# the plate is about 4 units across at scale 1. So a map whose pieces span S
+# units wants a vBase near S / 4.1, and passing S straight through paints a
+# floor four times too big — which is what happened on the first Haagen import
+# (span 41.8, vBase 48, floor over the DM and player areas).
+#
+# Measured off the three maps in staging that plate-fitting got flush, dividing
+# each one's piece span by the vBase the fit chose: Canyon Cave 74.2/17.99 =
+# 4.12, Rocky Path 80.4/17.99 = 4.47, Desert Cave 66.1/18.21 = 3.63.
+UNITS_PER_VBASE = 4.1
 
 BAG_TEMPLATE: dict[str, Any] = {
     "Name": "Bag",
@@ -192,7 +203,7 @@ def pack_ow_map(
         "pieces": len(pieces),
         "span_x": round(span_x, 2),
         "span_z": round(span_z, 2),
-        "suggested_vbase": round(max(span_x, span_z), 2),
+        "suggested_vbase": round(max(span_x, span_z) / UNITS_PER_VBASE, 2),
         "recentered_by": (round(shift[0], 2), round(shift[1], 2)),
     }
     return donor, summary
@@ -252,7 +263,7 @@ def main(argv: list[str] | None = None) -> int:
     print(f"  Recentered:   {summary['recentered_by']}")
     print(f"Wrote {args.output}")
     print(
-        "\nNEXT — import it, sizing the Hub floor to the span above:\n"
+        "\nNEXT — import it, with the floor sized to that span:\n"
         f"  python -m dnd_tools.import_ow_map <donor> <target> <out> "
         f"--owx-guid {summary['owx_guid']} --vbase {summary['suggested_vbase']} "
         "--sbx-image-url <floor image>"
