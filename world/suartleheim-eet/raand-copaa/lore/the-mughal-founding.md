@@ -138,31 +138,35 @@ His scene, his lines, and the dying-questions the party can put to him are writt
 as a run-ready encounter in
 [**The Returner and the Stone**](../bestiary/copa-irish-beasts.md).
 
-## The realm on the map — the ruins
+## The realm on the map
 
-The middle empire left its marks across [Suartleheim Eet](../../../nila/lore/nila-atlas.md), and the
-[Company](../../../nila/lore/the-company.md) that took the land ~200 years ago built over most of them.
-What the party can read on the ground:
+The middle empire built across [Suartleheim Eet](../../../nila/lore/nila-atlas.md), and it has been
+breaking into smaller states for six hundred years: the war between the founder's sons split
+it, the parts split again, and what is left is a court at Haagen and a handful of sultans who
+tax what passes them. The [Company](../../../nila/lore/the-company.md) bought the coast off one of those sultans
+**twenty years ago** and has built over the ruins nearest the water. What is left on the
+ground:
 
-**Haagen — the old capital.** The Mughals' seat was [Haagen](../../../nila/lore/nila-atlas.md), set across
-the river from the coast, so reaching it means a river crossing — which is why the
-capital sat there. The town is still lived in, built among the ruins of the old capital: the
-citadel, the great mosque, and the founder's garden-tomb, all in ruin among the streets.
-It shrank when the Company moved the center to the coast.
+**Haagen — the capital.** The Mughals' seat is [Haagen](../../../nila/lore/nila-atlas.md), set across
+the river from the coast, so reaching it means crossing the river. A Sultan holds court there
+still. People live in the town among the empire's ruins: the citadel is a quarter of the
+building it was, the great mosque's roof is open in two places, and the founder's garden-tomb
+has been dry for a hundred years. The town has lost people every year since the Company took
+the ore trade to the coast.
 
 **The bridge, and the necropolis.** The road from [Copaa](../../../nila/lore/nila-atlas.md) to
 [Haals](../encounters/the-mines-of-haals.md) crosses the river at a Mughal bridge, built
-over the ford where **Siyavash** drowned in the crossing (above) so no one after him
-would. At the bridgehead is the Mughal **necropolis**, where the
-dynasty carried its dead to lie beside the first of them. The Company's road up to the
+over the ford where **Siyavash** drowned in the crossing (above). At the bridgehead is the
+Mughal **necropolis**, where the
+dynasty buried its dead beside the founder. The Company's road up to the
 mine crosses the bridge now, past the tombs; the ore goes down by water.
 
 **The two ports, and the two canals.** The **river no longer reaches the sea.** The
 Mughals **diverted it during their siege of [Sker](../../../nila/lore/nila-atlas.md)** — the gnome river-mouth
 port-city, the last of the [gnome túatha](the-fallen-gnome-kingdom.md) to hold out — cutting off its water to take it,
 and it never ran to the sea again: the capital **[Haagen](../../../nila/lore/nila-atlas.md)'s fields draw
-down what is left**, so the river peters out inland in silt and marsh. Sker stands
-stranded well short of the water now, its quays dry. So the last miles to the coast are
+down what is left**, so the river peters out inland in silt and marsh. Sker sits well short
+of the water now, its quays dry. So the last miles to the coast are
 cut by **canal** — the Mughals dug one to **Aal**, the Company later dug its own to
 **Aar**. Both run **straight, with a paved towpath down one bank**: the current carries
 the loaded barges down, and teams of **donkeys on the towpath haul the empty ones back
@@ -171,19 +175,19 @@ up.**
 - **[Aal](../../../nila/lore/nila-atlas.md)** — the old capital's port, reached by a **Mughal canal** cut
   from the river. Busy in the empire's day; the canal silts now, and the port has
   declined with the capital.
-- **[Aar](../../../nila/lore/nila-atlas.md)** — nothing under the Mughals, who kept the
+- **[Aar](../../../nila/lore/nila-atlas.md)** — no settlement under the Mughals, who kept the
   [Haals taboo](../encounters/the-mines-of-haals.md) and left the mines shut. The
-  **[Company](../../../nila/lore/the-company.md)** bought the empty coast for little, cut a **new canal** to
-  it, reopened the mine, and built its own port and boomtown there. It bypassed the old
-  Mughal port at Aal and left it to silt.
+  **[Company](../../../nila/lore/the-company.md)** bought the empty coast off the Sultan for little
+  twenty years ago, cut a **new canal** to it, reopened the mine, and built its own port and
+  boomtown there. It bypassed the old Mughal port at Aal and left it to silt.
 
 **The Aal quarter — the Sultan's half-orcs.** In the raiding age the Norse
 [orc raiders](../../../musleheim/lore/the-muspel-empire.md) struck this coast, and a Sultan bought them off with
-land: he granted them a quarter at **Aal** and set them to guard the sea-gate to his
+land: he granted them a quarter at **Aal** and set them to guard the sea approach to his
 capital. They took the grant, settled, and over the generations became locals — Norse blood
 and old sea-names, and the Mughals' tongue and faith, with a small **mosque**
 among the boat-sheds. They hold the Sultan's grant still, cut in stone at the quarter's
-edge, and the port has gone quiet around them since the Company took the trade to Aar.
+edge, and fewer ships have called at the port since the Company took the trade to Aar.
 They are **not** the recent refugees of
 [Annibel's war](../../../../characters/annibel.md) — those are a separate, later people; the Aal
 half-orcs are old settled blood, at home here for centuries. *(Rollo and Normandy:

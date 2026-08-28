@@ -80,13 +80,12 @@ status: idea
   a **Fomorian** kin to the Firbolg — the source of the mountain's **time magic**, a separate thing
   from the graves' poison.) Then **~1,000 ya the [Bad Pass](../../../nila/lore/world-history-timeline.md) caused a mini
   ice age** across the world, and its cold set off **wars in the south** that drove the **Mughals**
-  north across the mountains; they took the famine-weakened túatha **one at a time** (the Milesian
-  conquest of the exhausted Tuatha Dé), and the surviving gnomes fell back into the hills, to
-  **[Raand](../../../nila/lore/nila-atlas.md)** (the sidhe). The Mughals held the country through the **long middle age (~1,000 → ~200 ya)**
-  until the **[Company](../../../nila/lore/the-company.md)** took it ~200 ya — a trading power that made itself the ruler
-  and caused famine. The [Company's mine](../encounters/the-haals-runoff.md) cuts back into the same graves. So the
-  party finds poor towns on worn-out soil, a poisoned watershed, and a people no longer ruling
-  themselves.
+  north across the mountains; they took the túatha, weakened by famine, **one at a time** (the Milesian
+  conquest of the exhausted Tuatha Dé), and the surviving gnomes moved into the hills, to
+  **[Raand](../../../nila/lore/nila-atlas.md)** (the sidhe). The Mughals held the country through the **long middle age (~1,000 ya → now)**,
+  breaking into rival sultanates as it went on, and the **[Company](../../../nila/lore/the-company.md)** **bought the coast off one of them ~20 ya** —
+  a trading company that took over the governing of it, and famine followed. The [Company's mine](../encounters/the-haals-runoff.md) cuts back into the same graves. So the
+  party finds poor towns on worn-out soil, a poisoned watershed, and a people the Company rules.
 - **The middle empire — the Mughals.** `[Will 7/29]` **Babur's people:** driven from their southern
   homeland by the wars the [Bad Pass's mini ice age](../../../nila/lore/world-history-timeline.md) set off (~1,000 ya).
   Those wars took generations to run, so the crossing itself falls a little later, **~900 ya** — they
@@ -195,12 +194,13 @@ The neighbours below meet a people already going down.
   generation ≈ 100 years), then **broke the Haals taboo and dug too deep, breaking into the
   [Firbolg graves](../encounters/the-mines-of-haals.md).** The disturbed dead poisoned the ground — a
   slow famine over generations, no battle and no rampage (the [Copaa Lament](../../../../handouts/copaa-lament.md)).
-  The túatha fall **early**, at ~4,000 ya, and spend the next three thousand years going down.
+  The túatha fall **early**, at ~4,000 ya, and decline over the next three thousand years.
   **[Balor](../encounters/the-mines-of-haals.md)**, a Fomorian kin to the Firbolg asleep under the
   same mountain, is the mountain's **time magic** — a separate thing from the graves' poison. Then
   ~1,000 ya the **Mughals**, driven north by the wars of the [Bad Pass's mini ice
-  age](../../../nila/lore/world-history-timeline.md), took the emptied túatha one at a time (Milesians over the Tuatha Dé), and held
-  the country until the **Company** took them (~200 ya); the Company's mine repeats that first fall.
+  age](../../../nila/lore/world-history-timeline.md), took the túatha, whose numbers had fallen, one at a time (Milesians over the Tuatha Dé), and held
+  the country since, until the **Company** bought the coast off a sultan ~20 ya and took the rest by
+  trade; the Company's mine cuts into the same graves.
 
 *Companions: [nila atlas](../../../nila/lore/nila-atlas.md) (the SE gazetteer), [the Haals runoff](../encounters/the-haals-runoff.md),
 [the Company](../../../nila/lore/the-company.md), [the Copaa lament](../../../../handouts/copaa-lament.md).*

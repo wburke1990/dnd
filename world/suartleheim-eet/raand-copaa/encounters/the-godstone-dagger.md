@@ -355,13 +355,17 @@ the regret arrives later. Both are good scenes; they are not the same scene.
 Beartholomew asks **Aniess**, by name, in front of the party. The Order has not given her an
 order since Maalm, and her being on this coast at all was her own choice. Play him as a
 friend asking a friend, and ask Greg for his answer at the table. Do not ask twice; he
-says it once.
+Do not ask twice.
 
 ## 10 · Afterward `[OPEN]`
 
 - `[OPEN]` Whether the knife reaches Lisk, and what Beartholomew does if it does not.
 - `[OPEN]` Whether the Writ work out who took it, and what they do about it on the coast.
-- `[OPEN]` What the Order wants an Amseh god's stone for, when its own god is the phoenix.
+- `[settled]` **What the Order wants an Amseh god's stone for: warforged.** Godstone is
+  the same stone whichever god's workshop it came out of, a warforged is made by grafting it
+  onto a wounded soldier, and the Church cannot make more of it
+  ([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoenix.md)). Beartholomew is not
+  told this ([Beartholomew](../../../../characters/beartholomew.md)).
 - `[OPEN]` Whether anyone tells the al Qahtani what their heirloom is.
 - `[OPEN]` What else came out of that workshop. Two Maalm houses hold a piece of it, both
   by way of the Amseh — one carried down through the tunnels and one taken in the looting.

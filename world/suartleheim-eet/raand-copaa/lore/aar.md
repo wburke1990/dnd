@@ -22,20 +22,21 @@ status: reference
 Aar is where the Haals ore ships out to sea. The ore comes down the river to
 [Copaa](copaa.md), is weighed on the Company's scales at the landing there, and runs the
 last miles down the Company's canal to Aar's basin, where it is loaded onto the sea barges
-and taken out. The town is the handling-point between the canal and the open water.
+and taken out.
 
-The Company built it. Two hundred years ago this was empty coast; the Company bought it
-cheap, cut the canal, reopened the mine upstream, and threw up a port. Raw timber wharves,
-Company sheds, ore-dust on everything, more men than the town has buildings for. The men
-come for the work: dock crews, bargemen, carters, the guards on the ore, a Company clerk
-and store and magistrate.
+The Company built it. Twenty years ago this was empty coast; the Company bought it cheap
+off the Sultan, cut the canal, reopened the mine upstream, and built a port. Raw timber
+wharves, Company sheds, ore-dust on everything, more men than the town has buildings for.
+The men come for the work: dock crews, bargemen, carters, the guards on the ore, a Company
+clerk and store and magistrate. It is bigger this year than last, and the wharves are still
+going up.
 
 The canal runs straight inland from the basin, a paved towpath down one bank. Loaded barges
-ride the current down to the sea; on the towpath, donkey-teams haul the empty ones back up,
-one string after another.
+go down with the current to the sea; on the towpath, donkey-teams haul the empty ones back
+up.
 
-[Aal](../../../nila/lore/nila-atlas.md) is up the coast to the north — the old Mughal port, going quiet since
-the Company took the trade here (below).
+[Aal](../../../nila/lore/nila-atlas.md) is up the coast to the north — the old Mughal port, and fewer ships
+call there since the Company took the trade here (below).
 
 ## The watch-stone — where the gnomes came ashore `[Will 8/16]`
 
@@ -79,17 +80,18 @@ pick up here where the Hunt stands and how to sign on. The Hunt itself is
 
 ## Aal — the old port to the north `[loose]`
 
-[Aal](../../../nila/lore/nila-atlas.md) is the other landfall, up the coast due north of Aar. Where Aar is new,
-Aal is old and going quiet: cut stone, a silting harbour, half the berths empty since the
-Company moved the ore-trade to Aar. The Mughals built it as the capital's port and cut its
+[Aal](../../../nila/lore/nila-atlas.md) is the other landfall, up the coast due north of Aar. It is older
+than Aar and less used now: cut stone, a silting harbour, half the berths empty since the
+Company moved the ore trade to Aar. The Mughals built it as the capital's port and cut its
 canal from the river; that canal is older and weed-grown now.
 
-Aal holds a **half-orc quarter** — Norse raiders a Sultan settled here to guard the sea-gate,
-gone local over the generations: Norse blood and old sea-names, the Mughals' tongue and
-faith, a small **mosque** among the boat-sheds. They hold the Sultan's grant still, cut in
-stone at the quarter's edge. Full history: [the Mughal founding](the-mughal-founding.md).
-These are old settled blood, not the recent refugees of
-[Annibel's war](../../../../characters/annibel.md).
+Aal holds a **half-orc quarter** — Norse raiders a Sultan settled here to guard the sea
+approach, and over the generations they took the Mughals' tongue and faith: Norse blood and
+old sea-names, a small **mosque** among the boat-sheds. They hold the Sultan's grant still,
+cut in stone at the quarter's edge. Full history:
+[the Mughal founding](the-mughal-founding.md).
+They have been here for generations. The refugees of
+[Annibel's war](../../../../characters/annibel.md) are a separate and much later people.
 
 If the party lands at Aal rather than Aar, swap it into Aar's role — the ore-port and the
 watch-stone move with them; only ever the one port.

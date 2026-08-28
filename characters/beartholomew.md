@@ -25,24 +25,22 @@ books as an ore guard
 Seven feet, and wide. Brown fur over most of him, a bear's head, a man's hands. He wears a
 Company guard's coat that does not fit him. He speaks slowly and finishes his sentences.
 
-He came up with Aniess. They were taken off the street in the same year, trained in the
-same room, and put through the rite in the same season — she with a snake, he with a bear.
-He carried her back to the compound after the rite when she could not walk. He has not
-asked her for anything since.
+He came up with Aniess. They were taken off the street in the same year, trained together,
+and put through the rite in the same season — she with a snake, he with a bear. He carried
+her back to the compound after the rite when she could not walk.
 
-The Order trained him to pass unseen, then stopped using him for that and posted him
-where they wanted a big man standing in the open.
+The Order trained him to pass unseen, then stopped using him for that and put him on guard
+posts instead.
 
 ## The cover `[settling]`
 
 **The Company book has him as "Bear."** One word. It is what the dock crews called him on
 his first morning and nobody has needed more since.
 
-He was hired at the shed on the basin four months ago, along the same lines as every other
-man in Aar: he could lift, so he was put on. The port went up in two hundred years and is
-full of men who came for the work, and nobody asks a new one where he is from. That is the
-cover. It would not survive one determined question — **he is a bad liar and he knows
-it** — so on shift he says as little as he can get away with.
+He was hired at the shed on the basin four months ago the same way as every other man in
+Aar: he could lift, so he was put on. The port is twenty years old and full of men who came
+for the work, and nobody asks a new one where he is from. That is the cover. **He is a bad
+liar and he knows it**, so on shift he says as little as he can get away with.
 
 **What he actually does.** He guards the outbound wharf, where the crates come off the
 canal barges and go onto the sea barges, and he counts what goes out. The Company's ore is
@@ -137,14 +135,17 @@ post to take it and he cannot carry it upriver, and Renk's boat north comes in a
 - `[settled]` **He does not know the knife is godstone.** He was given a description, a
   town and an order, and no reason. Asked what the Order wants with it, he says he was not
   told, and he is telling the truth.
-- `[OPEN]` Whether the order came from the Order at all, or whether he is doing this for
-  himself and has told Aniess a handler's name that is false.
-- `[OPEN]` What he is really posted at Aar to watch, and whether the knife is part of it
-  or something he came across on his own.
-- `[OPEN]` What he has been told about Aniess's posting — whether the covert arm has been
-  tracking her since Maalm, and whether he knows she would rejoin the Order for him.
-- `[OPEN]` Olora and Dillon, the other two of the cohort ([Aniess](aniess.md)) — whether
-  either is with him at Aar.
+- `[settled]` **The order came from the Order.** They want the stone to make warforged
+  ([Kuru & the phoenix](../world/kuru/lore/kuru-and-the-phoenix.md): a warforged is made by
+  grafting godstone onto a wounded soldier, and the Church cannot make more of the stone).
+  He is not doing this for himself, and the handler's name he gives Aniess is the real one.
+- `[settled]` **He came across the knife doing the work he was posted to do.** He watches
+  what leaves Aar by sea and writes it up; he saw the peseshkef in the port and put it in a
+  report. The order to take it came back down to him afterwards.
+- `[settled]` **He thinks Aniess is still on mission.** Nobody has told him she stopped. He
+  makes the ask expecting her to take it.
+- `[settled]` **Olora and Dillon are not at Aar** ([Aniess](aniess.md)). He knows where
+  each of them is and will say so if asked.
 
 ## Connections
 

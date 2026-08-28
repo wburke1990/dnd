@@ -240,16 +240,17 @@ mainland, not Mukka.)*
 > stands stranded inland. The last miles to the coast are cut by canal instead (the Mughal
 > layer, below). `[coord — David: the old river mouth, now inland]`
 
-> **The Mughal layer (SE) `[brainstorm]`.** The [middle empire](../../suartleheim-eet/raand-copaa/lore/the-mughal-founding.md)
-> held this region ~900–200 ya; its ruins lie under the Company's. **Haagen** was the
-> **old capital** — river-defended, reached over the crossing. The **Copaa–Haals bridge**
+> **The Mughal period (SE) `[brainstorm]`.** The [middle empire](../../suartleheim-eet/raand-copaa/lore/the-mughal-founding.md)
+> has held this region since ~900 ya and holds it in name still, broken into rival sultanates;
+> the **[Company](the-company.md)** bought the coast off one of them **~20 ya.** **Haagen** is the **capital** — reached over the river crossing, half in
+> ruins, with a Sultan's court still in it. The **Copaa–Haals bridge**
 > is a Mughal work over the ford where the founder's son drowned, with the dynasty's
 > **necropolis** at the bridgehead; the road up to the mine crosses it now. Neither port
 > sits on the river — each is reached by a **canal.** **Aal** was the **capital's port**,
 > reached by an old **Mughal canal**, and holds a **half-orc quarter** (Norse raiders a
-> Sultan settled to guard the sea-gate, gone local); it faded once the **Company** bought
-> empty **Aar**, cut its own **new canal**, reopened the mine, and moved the ore-trade
-> there — Aar the engineered boomtown, Aal the bypassed old port. Full writeup:
+> Sultan settled to guard the sea approach, and they became locals); its trade fell off once
+> the **Company** bought empty **Aar**, cut its own **new canal**, reopened the mine, and
+> moved the ore trade there. Full writeup:
 > [The Mughal Founding](../../suartleheim-eet/raand-copaa/lore/the-mughal-founding.md).
 
 ---

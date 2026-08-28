@@ -112,12 +112,12 @@ whether Cassia is still on the coast when they do.
 
 ## 4 · Landfall — Aar  `→` [aar.md](../lore/aar.md)
 
-A boomtown two hundred years old: raw timber wharves, Company sheds, ore-dust on
-everything, more men than buildings. A canal runs straight inland from the basin.
+A boomtown twenty years old and still going up: raw timber wharves, Company sheds, ore-dust
+on everything, more men than buildings. A canal runs straight inland from the basin.
 
-**In the order they meet it:**
+**In the order the party reaches them:**
 
-1. **The watch-stone.** [Musa's massebah](../lore/aar.md) stands over the harbour, and the
+1. **The watch-stone.** [Musa's massebah](../lore/aar.md) stands above the harbour, and the
    Company built its wharves around it. Four inscriptions, handed over as printed
    handouts — no check, no scene:
    [the vision of the land to come](../../../../handouts/locksley-hall-vision.md) (Tennyson),

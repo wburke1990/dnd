@@ -32,8 +32,8 @@ minutes. Uses the shipwreck-and-merfolk maps.
 ## The ship
 
 The **Nasira**, a coastal trader **carrying food up to Aar** — crates of fruit, sacked
-grain, oil in amphorae. Aar is two hundred years old, it has more work in it than
-farmland, and it does not grow enough to feed itself.
+grain, oil in amphorae. Aar is twenty years old, its people work the wharves and the canal
+rather than the land, and it does not grow enough to feed itself.
 
 **She left Maalm two days before the party did**, and got a few hours out.
 [Sayid](../../../characters/sayid.md)'s ships took her at dawn the next morning, close
