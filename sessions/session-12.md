@@ -28,10 +28,24 @@ They examined the damage to the ship.
 - **The mast stumps.** They examined them — both masts sawn off flat a foot above the
   deck and taken, the shrouds cut away at her sides, sawdust and chips trodden into the
   planking.
-- **The five below.** Forward of the water, in pieces, the pieces lying where they were cut off.
+- **The five below.** Forward of the water, in pieces, the pieces lying in the hold.
+
+## Rustam talks, without Blackacre
+
+**Sam was not at the table**, so Blackacre was not in the scene. Rustam's dialogue is
+written for Blackacre: that he recognizes him, that he saw him in Maalm, and that he gave
+Sayid the name. The rest of the party asked questions and Rustam answered them.
+
+What they got out of him:
+
+- **Sayid is looking for Blackacre.** By name, and there is money on him.
+- **Rustam had seen Blackacre in Maalm** — bloodied, coming up the street.
 
 ---
 
 ## Where it stands
 
-*To be filled in as the rest of the notes come.*
+- **Rustam's scene ran without Blackacre.** Rustam recognizing him cannot be run again.
+  The party will have to tell him, at the top of next session.
+
+*More to come.*
