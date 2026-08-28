@@ -12,8 +12,8 @@ status: draft
 > port and cannot leave it. He asks the party to steal an **Amseh ceremonial blade** off a
 > wealthy Maalm name-hunter and carry it upriver for him. The blade is **godstone**, and
 > carrying it next to Aniess's **small Anubis** shows her what the statue is made of. One
-> session at Aar, then a scene on the canal and a scene at Copaa. Party level ~3, so it is
-> a theft, not a fight. Legend: `[settling]` · `[loose]` · `[OPEN]`.
+> session at Aar, then a scene on the canal and a scene at Copaa. Party level ~3. Run it as
+> a theft. Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
 ---
 
@@ -41,8 +41,8 @@ stands on the wharf he is paid to guard. Run the four handouts first, as written
 
 **Then the cant.**  `→` [canting songs](../../../../handouts/canting-songs.md)
 
-The first thing between them is a rhyme they both had off the Order years ago, traded two
-lines each. He starts it and waits. **Send Greg his lines before the session** — they are
+They open with a rhyme they both learned in the Order years ago, traded two lines each. He
+starts it and waits. **Send Greg his lines before the session** — they are
 written out with the gloss in the handout.
 
 | | Line |
@@ -66,7 +66,7 @@ guest house lit up a hundred yards down the water — and the **Lapis Writ** in 
 just walked out of, with the knife on Setha Renk's belt
 ([the Tally House](../lore/the-tally-house-and-the-guest-house.md)).
 
-He names the job in the second song, and the third line of it is the whole ask:
+He names the job in the second song, and its third line is the ask:
 
 > *"If we niggle, or mill a bowsing ken,*
 > *Or nip a boung that has but a win,*
@@ -94,8 +94,8 @@ He does not ask what she has been doing. Everything else he will say if pressed:
   description, a town, and an order, and no reason. Asked what the Order wants with it, he
   says he was not told, and that is the truth.
 
-**Then he goes back inside and buys another round,** and whether she said yes to the knife
-does not come into it. Two things belong in the rest of that night: he goes through the
+**Then he goes back inside and buys another round,** and does not raise the knife again.
+Two things belong in the rest of that night: he goes through the
 cohort, who is where and who is dead; and he brings up **a night out they had**, which is
 the night Aniess gave away at the offering bowl in
 [session 8](../../../../sessions/session-08.md) and cannot remember. He does not know it

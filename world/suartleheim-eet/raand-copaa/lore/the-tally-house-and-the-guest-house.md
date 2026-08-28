@@ -56,8 +56,7 @@ the water every morning and is grey again by noon.
   lamps, where men go out to smoke and piss. The noise stays inside.
 
 **They throw dice on the scale-pan.** It is the only flat, true surface in the building, and
-Sarn allows it once the book is shut. Anything staked at Aar is staked on the Company's
-scale.
+Sarn allows it once the book is shut.
 
 ## The evening `[settling]`
 
@@ -75,7 +74,7 @@ orders, and Timo runs their bottle down from the guest house. Renk wears the kni
 belt the whole time.
 
 Run the crew scene here — [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md),
-staged member-to-counterpart as written.
+with each Writ member drifting toward their counterpart, as written.
 
 ## Beartholomew's place in the room `[settling]`
 
@@ -90,8 +89,8 @@ be seen taking an interest in its people at night.
 ## Where he makes the ask `[run]`
 
 **Not at the table.** He goes out onto the porch and takes Aniess with him, and the party if
-she brings them. Two lamps, the basin, the guest house lit up a hundred yards down the
-water, and the room they just walked out of holding the five people he wants robbed.
+she brings them. Two lamps, the basin, and the guest house lit up a hundred yards down the
+water. The five Writ are in the room behind them.
 
 `[run]` **The Writ are visible from the porch and audible through the wall.** A player who
 wants to look at the knife while he asks for it can. Setha Renk is twenty feet away with it
@@ -156,16 +155,16 @@ From the head of the north stair, in order:
    landing outside it. **Pell sleeps on the floor inside her door.** The knife is off her
    belt and on the chair with her coat.
 
-**The gallery is new timber and it is loud.** The second board out from Renk's door is the
-one that goes. Moving along the gallery is a Stealth check with the sleeping crew on the
-other side of the wall.
+**The gallery is new timber and it is loud.** The second board out from Renk's door creaks
+loudest. Moving along the gallery is a Stealth check with the sleeping crew on the other
+side of the wall.
 
-**The windows shutter from the inside.** In this heat Renk's gallery-side shutter stands
-open all night. Her door is the DC 15 lock; the open shutter is not.
+**The windows shutter from the inside.** In this heat Renk's shutter onto the gallery stands
+open all night. Her door has the DC 15 lock. The shutter has none.
 
 **Calix wards the gallery with *Alarm* as a ritual** when it occurs to him, which is not
 every night. Eight hours, and the ping reaches him within a mile whether or not he is
-asleep — and he is not asleep.
+asleep.
 
 ## Yessa, and what she will do `[settling]`
 
@@ -204,7 +203,7 @@ the canal and not out to sea.
 
 - **[Aar](aar.md)** — the port, the watch-stone, the canal, and who else is here.
 - **[The godstone dagger](../encounters/the-godstone-dagger.md)** — the ask on the porch,
-  the three ways at the knife, and the numbers on the Writ.
+  the three ways to get the knife, and the numbers on the Writ.
 - **[Beartholomew](../../../../characters/beartholomew.md)** — his week, his cover, and the
   echo.
 - **[The rival crews](../../maalm/encounters/tavern-name-hunter-crews.md)** — the Lapis Writ,
