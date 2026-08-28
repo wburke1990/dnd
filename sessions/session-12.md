@@ -28,7 +28,7 @@ They examined the damage to the ship.
 - **The mast stumps.** They examined them — both masts sawn off flat a foot above the
   deck and taken, the shrouds cut away at her sides, sawdust and chips trodden into the
   planking.
-- **The five below.** Forward of the water, in pieces, the pieces lying in the hold.
+- **The five below.** Forward of the water, in pieces on the hold floor.
 
 ## Rustam talks, without Blackacre
 
@@ -38,8 +38,21 @@ Sayid the name. The rest of the party asked questions and Rustam answered them.
 
 What they got out of him:
 
-- **Sayid is looking for Blackacre.** By name, and there is money on him.
+- **Sayid is looking for Blackacre.** By name, and paying: two hundred alive, half
+  that dead.
 - **Rustam had seen Blackacre in Maalm** — bloodied, coming up the street.
+
+## Off the wreck
+
+**They stayed out of the water.** The sharks came up on the bodies and nobody went in.
+They got back aboard the sloop and left the *Nasira* going down.
+
+## Two days at sea
+
+The run went two days, and they met **two of the creatures off the
+[sea-beasts table](../world/the-sea/bestiary/sea-beasts.md)** on the way.
+
+`[TODO]` Which two, and what happened.
 
 ---
 
