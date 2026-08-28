@@ -45,7 +45,17 @@ What they got out of him:
 ## Off the wreck
 
 **They stayed out of the water.** The sharks came up on the bodies and nobody went in.
-They got back aboard the sloop and left the *Nasira* going down.
+They got back aboard the sloop and left the *Nasira* sinking.
+
+## The body, and Aniess against the rest
+
+Rustam died, having asked twice not to be put in the sea and once for ground and somebody
+who knows where it is.
+
+**Sarric, Jasper and Pax wanted to throw him overboard.** **Aniess threatened to fight
+them over it.** Greg took it that far unprompted — nothing in the prep pointed at it.
+
+`[TODO]` How it came out, and where the body is now.
 
 ## Two days at sea
 
@@ -53,7 +63,7 @@ The run went two days, and they met the **sounding whale** and the **giant sea t
 on the way. Neither fought them.
 
 **What they got out of both: the animals had no names and did not want any.** Asked,
-they had nothing to give. They got nothing else from either animal.
+neither gave one. They got nothing else from either animal.
 
 Both entries have been **retired from the
 [sea-beasts table](../world/the-sea/bestiary/sea-beasts.md)** now that they have been
@@ -65,14 +75,23 @@ run, and the orca pod and the milky sea replaced them.
 
 - **Rustam's scene ran without Blackacre.** Rustam recognizing him cannot be run again.
   The party will have to tell him, at the top of next session.
-- **Nobody followed what the whale said.** It said two beating things went north, which
+- **Nobody followed what the whale said.** It said *"two beating things"* went north, which
   is what the merfolk said too. `[DM]` Those are Sayid's hulls towing the *Nasira*'s
   spars; the party have not worked that out.
 
 ## Threads
 
+- **Aniess and the body.** She threatened to fight three of the party over it.
+  `[TODO]` how it was settled.
+- **The Anubis in her pack.** Rustam's body decays past use after two days without
+  Gentle Repose. She is Cleric 2 and does not have the slot, so she can only cast it
+  using the statue
+  ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
+  `[TODO]` whether it came up at the table.
+
 - **Nameless animals.** The party asked two beasts for names and got none. The
-  [names and ownership](../world/nila/lore/campaign-overview.md) material assumes names
-  matter; these two had none. The players asked; it was not prepped.
+  [campaign overview](../world/nila/lore/campaign-overview.md) argues names carry
+  ownership. These two animals had none and wanted none. The players asked; it was not
+  prepped.
 
 *More to come.*
