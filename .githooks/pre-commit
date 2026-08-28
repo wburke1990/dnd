@@ -102,24 +102,19 @@ if [[ -n "$prose_out" && "$prose_out" != "clean"* ]]; then
     printf '\n=== pre-commit: prose-lint (advisory, not blocking) ===\n%s\n' "$prose_out" >&2
 fi
 
-# --- Prose-critic reminder (advisory — never blocks) -----------------------
+# --- Prose-critic gate (blocking) ------------------------------------------
 # prose-lint is the cheap regex gate; the prose-critic subagent is the smart
 # pass that catches novel coinages regex can't (see CLAUDE.md, "House style").
-# The critic is an LLM pass a shell hook cannot run or verify, so this only
-# REMINDS: when staged changes touch content markdown, it lists those files so
-# whoever is committing runs the critic on them first. Deliberately not
-# TTY-gated — the automated flows are exactly the ones that skip the step.
-staged_md=()
-while IFS= read -r f; do
-    [[ "$f" == *.md ]] && staged_md+=("$f")
-done < <(git -C "$REPO_ROOT" diff --cached --name-only --diff-filter=ACM -- \
-    world characters sessions handouts references docs)
-
-if (( ${#staged_md[@]} > 0 )); then
-    printf '\n=== pre-commit: prose-critic reminder (advisory, not blocking) ===\n' >&2
-    printf 'Content prose is staged. Run the prose-critic subagent on each of these before committing:\n' >&2
-    printf '  %s\n' "${staged_md[@]}" >&2
-fi
+# This used to be a printed reminder, which an agent that had decided not to
+# spawn subagents read and committed straight past — so the writing gate was
+# only ever as strong as the attention of whoever was committing. It is now a
+# check: a prose-critic run leaves a record in the session transcript under
+# ~/.claude/projects, and critic-gate verifies one exists, since HEAD, for each
+# staged content file. It fails closed where it can see and passes where it
+# cannot (no transcript = a hand commit, a fresh clone, a container).
+run_check "prose-critic gate" \
+    uv --directory "$SCRIPTS_DIR" run --quiet critic-gate \
+    || failures=$((failures + 1))
 
 # --- Lua linting on TTS scripts --------------------------------------------
 
