@@ -105,7 +105,6 @@
       "Edit",
       "Write",
       "Edit(.claude/settings.json)",
-      "Write(.claude/settings.json)",
       "Task",
       "Task(Explore:*)",
       "Task(general-purpose:*)",
