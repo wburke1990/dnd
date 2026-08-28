@@ -433,6 +433,7 @@ def import_ow_map(
     sbx_image_url: str | None = None,
     abag_guid: str = ABAG_GUID,
     mbag_guid: str = MBAG_GUID,
+    vbase: float | None = None,
 ) -> dict[str, Any]:
     """Mutate `target` in place to register a new OW map from `source`.
 
@@ -502,12 +503,16 @@ def import_ow_map(
     # the largest flat tile and recenter the pieces on it, so the floor sits
     # flush with the built surface instead of overhanging it. Plate-less maps
     # fall back to DEFAULT_VBASE with no recentering.
+    # An explicit vbase wins over both: a map packed out of a raw workshop save
+    # (pack_ow_map) has no plate to fit and is not 25 units across either, so
+    # the caller sizes the floor from the packed span instead.
     plate = detect_floor_plate(bag_copy)
     if plate is not None:
-        vbase_scale, plate_cx, plate_cz = plate
+        detected_scale, plate_cx, plate_cz = plate
         recenter_children(bag_copy, plate_cx, plate_cz)
+        vbase_scale = vbase if vbase is not None else detected_scale
     else:
-        vbase_scale = DEFAULT_VBASE
+        vbase_scale = vbase if vbase is not None else DEFAULT_VBASE
 
     # Force every imported piece to obey Fog of War (only PC minis we mark
     # by hand should ever be immune). See clear_ignore_fow.
@@ -546,6 +551,7 @@ def import_ow_map(
         "remapped_guids": mapping,
         "vbase_scale": round(vbase_scale, 2),
         "floor_plate_fitted": plate is not None,
+        "vbase_overridden": vbase is not None,
         "fog_immune_cleared": fog_immune_cleared,
     }
 
@@ -566,6 +572,14 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--sbx-image-url",
         help="Image URL for the new SBx token (default: donor _OW_wBase.CustomImage)",
+    )
+    parser.add_argument(
+        "--vbase",
+        type=float,
+        help=(
+            "Force the Hub floor-plate scale instead of fitting it to the map's "
+            "own plate (for maps packed by pack_ow_map, which have none)"
+        ),
     )
     parser.add_argument(
         "--abag-guid",
@@ -599,6 +613,7 @@ def main(argv: list[str] | None = None) -> int:
             sbx_image_url=args.sbx_image_url,
             abag_guid=args.abag_guid,
             mbag_guid=args.mbag_guid,
+            vbase=args.vbase,
         )
     except ImportError_ as e:
         print(f"error: {e}", file=sys.stderr)
@@ -613,7 +628,9 @@ def main(argv: list[str] | None = None) -> int:
         print(f"  OWx bag GUID: {result['owx_guid']}")
         print(f"  New SBx GUID: {result['sbx_guid']}")
         print(f"  SBx image:    {result['sbx_image_url']}")
-        if result["floor_plate_fitted"]:
+        if result["vbase_overridden"]:
+            print(f"  Floor:        vBase {result['vbase_scale']} (forced)")
+        elif result["floor_plate_fitted"]:
             print(f"  Floor:        fitted to plate, vBase {result['vbase_scale']}")
         else:
             print(f"  Floor:        no plate detected, vBase {result['vbase_scale']} (default)")

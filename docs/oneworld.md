@@ -123,6 +123,46 @@ already-imported target is a noop.
 import. See [tts-asset-debug.md](tts-asset-debug.md) for the cleanup
 pattern.
 
+### Packing a raw Workshop map (`pack_ow_map`)
+
+A map found on the Workshop is **not** a OW map: it loads as loose objects on a
+table, with no `OWx_` bag for `import_ow_map` to find. `pack-ow-map` makes one.
+
+```
+uv --directory /Users/wcb/personal/dnd/scripts run pack-ow-map \
+  "/Users/wcb/Library/Tabletop Simulator/Saves/TS_Save_25.json" \
+  /tmp/haagen_donor.json --name Haagen \
+  --exclude-name Chip_10 --exclude-nickname Commenditaire
+```
+
+It selects by height. A mod's pieces sit at different heights: the map on the table around
+`posY` 0–2, the table model and its cabinets far below (−42 in the save this was
+built against), hand zones and player aids above. `--min-y`/`--max-y` move the
+band; `--exclude-name` and `--exclude-nickname` drop the game pieces that share
+the table with the map (chips, player boards). Print the layers first — object
+name, nickname, `posY` — and decide from that, because the split is per-mod.
+
+Two things it fixes:
+
+- **It recentres the selection.** A Workshop map's pieces are at whatever
+  position the mod sets (Haagen's sat centred 13.7 units off the origin). The Hub
+  places its floor at the origin, and `import_ow_map` only recentres a map when
+  it finds the map's *own* floor plate — which a city built out of building
+  meshes does not have. Without the recentre the map builds beside its floor,
+  and an in-game resizer can't fix it.
+- **It reports the span**, because vBase can't be fitted either. Pass that to
+  **`import_ow_map --vbase`** with some margin (the span measures piece centres,
+  so buildings extend past it — Haagen went in at 48 against a 41.8 span). Adjust
+  the JotBase line afterwards if the floor overhangs.
+
+The map also needs a floor image, since a raw mod has no `_OW_wBase`. Staging's
+stock SBx tokens already have floor images — `SBx_Cobble`, `SBx_Grass`,
+`SBx_Dirt`, `SBx_Stone` and the rest — so copy a working URL from whichever fits
+and pass it as `--sbx-image-url`.
+
+Prune afterwards exactly as below; a Workshop map can have fewer dead asset URLs
+than a library donor (Haagen: zero dead of 35 probed).
+
 ### Repeatable recipe: importing from the "One World maps" library
 
 The main donor we pull from is **`TS_Save_22.json` ("22 - One world
