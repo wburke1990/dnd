@@ -69,6 +69,10 @@ for a specific future use) · **🔀 mislabeled** (recategorized above).
 
 | Map | GUID | Status | Notes |
 |-----|------|--------|-------|
+| **The Mumbling Rat** | 90bd67 | ⏳ in staging — not yet eyeballed | Imported 8/28 as an **[Aar](../world/suartleheim-eet/raand-copaa/lore/the-tally-house-and-the-guest-house.md) Tally House** candidate. Heavy prune: **126 pieces removed, 34 dead of 67 URLs** — expect it sparse. No plate detected, default vBase 25. Floor image live (Steam UGC). |
+| **Nonspecific Inn** | b2a074 | ⏳ in staging — not yet eyeballed | Imported 8/28, same batch. Heavy prune: **159 pieces removed, 78 dead of 173 URLs**. Plate-fit vBase 11.44. Its floor was the known **dead black placeholder** (`coolbackgrounds.io`); the SBx image was swapped to The Mumbling Rat's live Steam floor, so it is plate-fitted and painted with a borrowed image. |
+| **BlueWater Inn** | 1fd7e3 | ⏳ in staging — not yet eyeballed | Imported 8/28, same batch. Light prune: **34 pieces removed, 28 dead of 139 URLs**. No plate detected, default vBase 25. Floor image live (Steam UGC). |
+| **Brick bar** | b03586 | ⏳ in staging — not yet eyeballed | Imported 8/28. It was **not** in staging despite the earlier live-texture experiment noted in [oneworld.md](../docs/oneworld.md). Cleanest of the four: **1 dead URL, 0 pieces removed, 83 texture fields blanked** — the shared brick-wall texture, so 83 walls spawn untextured. TTS de-dups by URL, so editing one wall's Diffuse URL in-game re-skins all 83. Default vBase 25. |
 | **Desert Cave** | dfd079 | ✅ **winner — akhekh lair** | Flush via plate-fit (vBase ~18.2). Natural **Akhekh nest** area; red desert palette; serves tunnels + nest in one. |
 | **Rocky Path** | e47bca | ✅ perfect (fitted) | Flush via plate-fit (vBase 17.99). Clean assets. Good akhekh **stairs / approach**. |
 | **Canyon Cave** | 55ed53 | ✅ perfect (fitted, cleaned) | Flush via plate-fit (vBase 17.99) — the map that proved the strategy. Akhekh **tunnels**. The 9 "figurine import errors" turned out to be 9 **blank placeholder `Figurine_Custom`** objects (empty image URL — not a throttling/rehost issue); removed, so it loads clean. |
