@@ -167,8 +167,15 @@ and stays centred. Haagen uses 1.5.
 
 The map also needs a floor image, since a raw mod has no `_OW_wBase`. Staging's
 stock SBx tokens already have floor images — `SBx_Cobble`, `SBx_Grass`,
-`SBx_Dirt`, `SBx_Stone` and the rest — so copy a working URL from whichever fits
-and pass it as `--sbx-image-url`.
+`SBx_Dirt`, `SBx_Stone`, `SBx_Wood Table` and the rest — so copy a working URL
+from whichever fits and pass it as `--sbx-image-url`.
+
+**Check whether the map already includes a floor surface before picking a ground
+texture.** Haagen's buildings sit on their own paved surface, and the cobbles
+painted underneath showed through around it; its SBx now carries `SBx_Wood
+Table`'s image, a wood-table texture instead of a second ground surface. Use the
+ground textures only on maps whose scenery sits on bare floor. To swap later,
+change one field: `CustomImage.ImageURL` on the map's SBx token. No re-import.
 
 Prune afterwards exactly as below; a Workshop map can have fewer dead asset URLs
 than a library donor (Haagen: zero dead of 35 probed).
