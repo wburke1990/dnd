@@ -713,6 +713,13 @@ build-index               # regenerate INDEX.md and the per-directory README
                           # is what the pre-commit hook runs). Never edits
                           # anything but the generated blocks.
 
+pack-ow-map               # turn a raw Workshop save into a OneWorld donor bag:
+                          # selects the pieces sitting on the table, scales them
+                          # all by one factor, centers them, and wraps them in
+                          # an OWx_<name> bag import_ow_map can take. Size the
+                          # MAP to the table with --scale; leave the Hub floor
+                          # alone. See docs/oneworld.md.
+
 critic-gate               # pre-commit check: confirms a prose-critic subagent
                           # ran since HEAD on every staged content file, by
                           # reading the session transcripts under

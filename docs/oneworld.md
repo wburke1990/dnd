@@ -123,6 +123,56 @@ already-imported target is a noop.
 import. See [tts-asset-debug.md](tts-asset-debug.md) for the cleanup
 pattern.
 
+### Packing a raw Workshop map (`pack_ow_map`)
+
+A map found on the Workshop loads as loose objects on a table, with no `OWx_`
+bag for `import_ow_map` to find. `pack-ow-map` makes one.
+
+```
+uv --directory /Users/wcb/personal/dnd/scripts run pack-ow-map \
+  "/Users/wcb/Library/Tabletop Simulator/Saves/TS_Save_25.json" \
+  /tmp/haagen_donor.json --name Haagen --scale 1.5 \
+  --exclude-name Chip_10 --exclude-nickname Commenditaire
+```
+
+**It selects by height.** A mod's pieces sit at different heights: the map on
+the table around `posY` 0–2, the table model and its cabinets far below (−42 in
+the save this was built against), hand zones and player aids above.
+`--min-y`/`--max-y` change the height range; `--exclude-name` and
+`--exclude-nickname` drop the game pieces sitting on the same table as the map.
+Print the objects first — name, nickname, `posY` — and decide from that, because
+each mod places its pieces differently.
+
+**It scales the map, and leaves the Hub's floor alone.** `--scale` multiplies
+every piece's position and its own size by one factor, so nothing changes size
+relative to anything else, and the selection is then centred on the origin,
+where the Hub places its floor. Import with no `--vbase` and the floor stays at
+its default 25.
+
+**Sizing the floor to the map instead does not work.** Haagen was first imported
+that way, with a per-map number fed to an
+`import_ow_map --vbase` flag: 48 put the floor over the DM area and part of the
+player seats, 10.5 left the floor inside the houses, and 21 was still too big.
+At every value the floor either overhangs the map or is too small for it,
+leaving buildings off the edge, because the map is whatever size it was built at
+while the table is fixed. Two attempts to compute that number from the map's span — the span
+itself, then span/4.1 from three plate-fitted maps — were both artifacts of a
+small sample; span over vBase across the maps in staging runs from 1.2 to 4.5.
+The `--vbase` flag was reverted.
+
+**To correct the scale, multiply `--scale` by the correction factor and
+re-pack.** Build it, look at the map against the floor, and adjust by however
+far off it is. Because the transform is uniform, the map keeps its proportions
+and stays centred. Haagen uses 1.5.
+
+The map also needs a floor image, since a raw mod has no `_OW_wBase`. Staging's
+stock SBx tokens already have floor images — `SBx_Cobble`, `SBx_Grass`,
+`SBx_Dirt`, `SBx_Stone` and the rest — so copy a working URL from whichever fits
+and pass it as `--sbx-image-url`.
+
+Prune afterwards exactly as below; a Workshop map can have fewer dead asset URLs
+than a library donor (Haagen: zero dead of 35 probed).
+
 ### Repeatable recipe: importing from the "One World maps" library
 
 The main donor we pull from is **`TS_Save_22.json` ("22 - One world
