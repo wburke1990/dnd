@@ -119,66 +119,9 @@ CLI flags `--owx-guid`, `--map-name`, `--sbx-image-url`, `--abag-guid`,
 (refuses to overwrite the target in place). Re-running on an
 already-imported target is a noop.
 
-**Donor saves often carry dead asset URLs** that are copied into the
+**Donor saves often carry dead asset URLs** that travel into the
 import. See [tts-asset-debug.md](tts-asset-debug.md) for the cleanup
 pattern.
-
-### Packing a raw Workshop map (`pack_ow_map`)
-
-A map found on the Workshop loads as loose objects on a table, with no `OWx_`
-bag for `import_ow_map` to find. `pack-ow-map` makes one.
-
-```
-uv --directory /Users/wcb/personal/dnd/scripts run pack-ow-map \
-  "/Users/wcb/Library/Tabletop Simulator/Saves/TS_Save_25.json" \
-  /tmp/haagen_donor.json --name Haagen \
-  --exclude-name Chip_10 --exclude-nickname Commenditaire
-```
-
-It selects by height. A mod's pieces sit at different heights: the map on the table around
-`posY` 0–2, the table model and its cabinets far below (−42 in the save this was
-built against), hand zones and player aids above. `--min-y`/`--max-y` move the
-band; `--exclude-name` and `--exclude-nickname` drop the game pieces that share
-the table with the map (chips, player boards). Print the layers first — object
-name, nickname, `posY` — and decide from that, because each mod places its
-pieces differently.
-
-It also does two things:
-
-- **It recentres the selection.** A Workshop map's pieces are at whatever
-  position the mod sets (Haagen's sat centred 13.7 units off the origin). The Hub
-  places its floor at the origin, and `import_ow_map` only recentres a map when
-  it finds the map's *own* floor plate — which a map assembled from separate
-  building meshes does not have. Without the recentre the map builds beside its floor,
-  and an in-game resizer can't fix it.
-- **It reports the span**, to compare against other maps when choosing
-  **`import_ow_map --vbase`**.
-
-**vBase is eyeballed, and two attempts to compute it from the span both
-failed.** Haagen (span 41.8) was first set to 48, which put the floor over the DM area
-and part of the player areas; then at 10.5, derived from the three plate-fitted
-maps, which left the floor inside the houses. It sits at **21**.
-
-There is no formula, because span over vBase across the maps in staging runs
-from 1.2 to 4.5 — a map's span includes props scattered outside its walkable
-floor, and every map scatters them differently. Use the existing maps for
-comparison instead: **the default is 25 and most maps sit near it**, whatever their span (Small town
-50, Brick bar 48.9 and ShadyDragonInn 82 all run at 25; the plate-fitted cave
-maps run at ~18). So compare a new map's span against
-[`../tts/one-world-maps-inventory.md`](../../tts/one-world-maps-inventory.md),
-start near 25, Build it, and check whether the floor sits under the map.
-
-**Adjusting is one edit.** The vBase is the second brace-triple of the map's
-JotBase line in `aBag.LuaScript`. Edit that one number in the save — no
-re-import, no re-prune.
-
-The map also needs a floor image, since a raw mod has no `_OW_wBase`. Staging's
-stock SBx tokens already have floor images — `SBx_Cobble`, `SBx_Grass`,
-`SBx_Dirt`, `SBx_Stone` and the rest — so copy a working URL from whichever fits
-and pass it as `--sbx-image-url`.
-
-Prune afterwards exactly as below; a Workshop map can have fewer dead asset URLs
-than a library donor (Haagen: zero dead of 35 probed).
 
 ### Repeatable recipe: importing from the "One World maps" library
 
