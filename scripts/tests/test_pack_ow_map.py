@@ -131,14 +131,14 @@ def test_pack_reports_the_span() -> None:
     assert summary["span_z"] == 20.0
 
 
-def test_suggested_vbase_converts_the_span_to_a_plate_scale() -> None:
-    """vBase scales a plate ~4 units across, so it is not the span itself."""
+def test_pack_reports_the_longer_span_and_suggests_no_vbase() -> None:
+    """vBase has no formula from span — see the module docstring."""
     save = _save([_obj("aaa111", x=0.0, z=0.0), _obj("bbb222", x=41.0, z=20.0)])
 
     _donor, summary = pack_ow_map.pack_ow_map(save, "Haagen")
 
-    assert summary["suggested_vbase"] == round(41.0 / pack_ow_map.UNITS_PER_VBASE, 2)
-    assert summary["suggested_vbase"] < summary["span_x"]
+    assert summary["span"] == 41.0
+    assert "suggested_vbase" not in summary
 
 
 def test_pack_does_not_mutate_the_source_save() -> None:

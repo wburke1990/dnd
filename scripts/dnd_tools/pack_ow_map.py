@@ -20,8 +20,9 @@ it can find the map's own floor plate. A workshop city built out of building
 meshes has no plate at all, so without this the map builds off to one side of
 its own floor.
 
-It also reports a vBase for ``import_ow_map --vbase``, converted from the span
-(see ``UNITS_PER_VBASE``).
+It also reports the selection's span. That is a number to compare against the
+maps already in the inventory when choosing ``import_ow_map --vbase``; it is not
+the vBase itself, and there is no formula between the two.
 """
 
 from __future__ import annotations
@@ -40,16 +41,13 @@ from typing import Any
 DEFAULT_MIN_Y = 0.0
 DEFAULT_MAX_Y = 2.0
 
-# vBase is a SCALE on the Hub's floor plate, not a width in position units, and
-# the plate is about 4 units across at scale 1. So a map whose pieces span S
-# units wants a vBase near S / 4.1, and passing S straight through paints a
-# floor four times too big — which is what happened on the first Haagen import
-# (span 41.8, vBase 48, floor over the DM and player areas).
-#
-# Measured off the three maps in staging that plate-fitting got flush, dividing
-# each one's piece span by the vBase the fit chose: Canyon Cave 74.2/17.99 =
-# 4.12, Rocky Path 80.4/17.99 = 4.47, Desert Cave 66.1/18.21 = 3.63.
-UNITS_PER_VBASE = 4.1
+# There is no formula from piece span to vBase, and this module deliberately
+# does not guess one. Span over vBase across the maps in staging runs from 1.2
+# to 4.5, because a map's span includes props scattered well outside its
+# walkable floor and every map scatters them differently. Two wrong guesses came
+# out of trying anyway: the span itself (Haagen at 48, floor over the DM and
+# player areas), then span/4.1 from the three plate-fitted maps (10.5, floor
+# inside the houses). It is eyeballed per map — see docs/oneworld.md.
 
 BAG_TEMPLATE: dict[str, Any] = {
     "Name": "Bag",
@@ -203,7 +201,7 @@ def pack_ow_map(
         "pieces": len(pieces),
         "span_x": round(span_x, 2),
         "span_z": round(span_z, 2),
-        "suggested_vbase": round(max(span_x, span_z) / UNITS_PER_VBASE, 2),
+        "span": round(max(span_x, span_z), 2),
         "recentered_by": (round(shift[0], 2), round(shift[1], 2)),
     }
     return donor, summary
@@ -263,10 +261,16 @@ def main(argv: list[str] | None = None) -> int:
     print(f"  Recentered:   {summary['recentered_by']}")
     print(f"Wrote {args.output}")
     print(
-        "\nNEXT — import it, with the floor sized to that span:\n"
+        "\nNEXT — import it:\n"
         f"  python -m dnd_tools.import_ow_map <donor> <target> <out> "
-        f"--owx-guid {summary['owx_guid']} --vbase {summary['suggested_vbase']} "
-        "--sbx-image-url <floor image>"
+        f"--owx-guid {summary['owx_guid']} --vbase <see below> "
+        "--sbx-image-url <floor image>\n"
+        "\n"
+        f"Pick --vbase by comparing this map's span ({summary['span']}) against the\n"
+        "spans and vBases in tts/one-world-maps-inventory.md. The default is 25 and\n"
+        "most maps sit near it. There is no formula from span to vBase; Build it,\n"
+        "look, and edit the JotBase line in aBag.LuaScript to adjust — no re-import\n"
+        "needed. See docs/oneworld.md."
     )
     return 0
 

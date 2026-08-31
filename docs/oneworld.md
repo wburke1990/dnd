@@ -119,7 +119,7 @@ CLI flags `--owx-guid`, `--map-name`, `--sbx-image-url`, `--abag-guid`,
 (refuses to overwrite the target in place). Re-running on an
 already-imported target is a noop.
 
-**Donor saves often carry dead asset URLs** that travel into the
+**Donor saves often carry dead asset URLs** that are copied into the
 import. See [tts-asset-debug.md](tts-asset-debug.md) for the cleanup
 pattern.
 
@@ -140,31 +140,37 @@ It selects by height. A mod's pieces sit at different heights: the map on the ta
 built against), hand zones and player aids above. `--min-y`/`--max-y` move the
 band; `--exclude-name` and `--exclude-nickname` drop the game pieces that share
 the table with the map (chips, player boards). Print the layers first — object
-name, nickname, `posY` — and decide from that, because the split is per-mod.
+name, nickname, `posY` — and decide from that, because each mod places its
+pieces differently.
 
-Two things it fixes:
+It also does two things:
 
 - **It recentres the selection.** A Workshop map's pieces are at whatever
   position the mod sets (Haagen's sat centred 13.7 units off the origin). The Hub
   places its floor at the origin, and `import_ow_map` only recentres a map when
-  it finds the map's *own* floor plate — which a city built out of building
-  meshes does not have. Without the recentre the map builds beside its floor,
+  it finds the map's *own* floor plate — which a map assembled from separate
+  building meshes does not have. Without the recentre the map builds beside its floor,
   and an in-game resizer can't fix it.
-- **It works out a vBase**, because that can't be fitted either. Pass it to
+- **It reports the span**, to compare against other maps when choosing
   **`import_ow_map --vbase`**.
 
-**vBase scales the floor plate, and the plate is about 4 units across at scale
-1.** So a map spanning S units in piece positions wants a vBase near **S / 4.1**,
-and passing S straight through makes the floor four times too big. Haagen's
-first import did exactly that — span 41.8, vBase 48 — and the floor covered the
-DM area and part of the player areas. Haagen's vBase is 10.5.
+**vBase is eyeballed, and two attempts to compute it from the span both
+failed.** Haagen (span 41.8) was first set to 48, which put the floor over the DM area
+and part of the player areas; then at 10.5, derived from the three plate-fitted
+maps, which left the floor inside the houses. It sits at **21**.
 
-The 4.1 is measured: divide the piece span of each map whose floor plate the
-automatic fit sized correctly by the vBase that fit chose — Canyon Cave
-74.2/17.99, Rocky Path 80.4/17.99, Desert Cave 66.1/18.21.
-`pack_ow_map.UNITS_PER_VBASE` holds it. To change the vBase of a map already in
-staging, edit the second brace-triple of its JotBase line in `aBag.LuaScript` —
-no re-import needed.
+There is no formula, because span over vBase across the maps in staging runs
+from 1.2 to 4.5 — a map's span includes props scattered outside its walkable
+floor, and every map scatters them differently. Use the existing maps for
+comparison instead: **the default is 25 and most maps sit near it**, whatever their span (Small town
+50, Brick bar 48.9 and ShadyDragonInn 82 all run at 25; the plate-fitted cave
+maps run at ~18). So compare a new map's span against
+[`../tts/one-world-maps-inventory.md`](../../tts/one-world-maps-inventory.md),
+start near 25, Build it, and check whether the floor sits under the map.
+
+**Adjusting is one edit.** The vBase is the second brace-triple of the map's
+JotBase line in `aBag.LuaScript`. Edit that one number in the save — no
+re-import, no re-prune.
 
 The map also needs a floor image, since a raw mod has no `_OW_wBase`. Staging's
 stock SBx tokens already have floor images — `SBx_Cobble`, `SBx_Grass`,
