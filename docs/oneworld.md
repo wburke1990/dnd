@@ -180,6 +180,37 @@ change one field: `CustomImage.ImageURL` on the map's SBx token. No re-import.
 Prune afterwards exactly as below; a Workshop map can have fewer dead asset URLs
 than a library donor (Haagen: zero dead of 35 probed).
 
+### Turning or resizing a map that is already in a save (`adjust_ow_map`)
+
+A library map arrives at whatever size and orientation its author left it, and a
+wrong size or orientation is visible after a Build. Removing and re-importing to
+fix that loses the prune and the floor image, so adjust it in place:
+
+```
+uv --directory /Users/wcb/personal/dnd/scripts run adjust-ow-map \
+  "<save>" /tmp/out.json --owx-guid 1fd7e3 --rotate 180 --scale 0.88
+```
+
+**A registered map keeps its geometry in two places**, and both have to move: the
+`Transform` on each piece in the `OWx` bag, and the position manifest in the
+`SBx` token's `LuaScript`, which is what the Hub reads when it spawns them.
+Editing the bag alone changes nothing on the table. `adjust-ow-map` rewrites the
+pieces and regenerates the manifest from them.
+
+**Rotate the map, not the floor.** The painted floor can only be turned by
+editing and rehosting its image, which needs TTS; the map is rotated by
+`adjust-ow-map`. A floor that comes out 180° off is fixed by rotating the map
+180°. BlueWater Inn needed this.
+
+**Scaling is uniform**, on the same terms as `pack_ow_map` — position and size by
+one factor, Y with them.
+
+**The one calibrated size is Haagen**, which sits correctly on the default floor
+at a span of about 63 × 42. Scaling another map so its long axis lands near 63 is
+a reasonable starting scale; BlueWater Inn went from 71.4 to 62.9 that way. A map much longer than it is wide will still leave bare floor at the
+sides, since the floor is square and uniform scaling cannot change an aspect
+ratio.
+
 ### Repeatable recipe: importing from the "One World maps" library
 
 The main donor we pull from is **`TS_Save_22.json` ("22 - One world

@@ -720,6 +720,12 @@ pack-ow-map               # turn a raw Workshop save into a OneWorld donor bag:
                           # MAP to the table with --scale; leave the Hub floor
                           # alone. See docs/oneworld.md.
 
+adjust-ow-map             # rotate or resize a OneWorld map already registered
+                          # in a save, without a re-import. Rewrites the OWx
+                          # pieces AND regenerates the SBx position manifest,
+                          # which is what the Hub actually spawns from.
+                          # See docs/oneworld.md.
+
 critic-gate               # pre-commit check: confirms a prose-critic subagent
                           # ran since HEAD on every staged content file, by
                           # reading the session transcripts under
