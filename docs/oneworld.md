@@ -180,6 +180,31 @@ change one field: `CustomImage.ImageURL` on the map's SBx token. No re-import.
 Prune afterwards exactly as below; a Workshop map can have fewer dead asset URLs
 than a library donor (Haagen: zero dead of 35 probed).
 
+### Floor images need padding, even at the right aspect ratio
+
+OneWorld clips the edges of the floor image it displays, so an image that is
+exactly 1600 × 945 still loses its outer band on the table. BlueWater Inn's floor
+arrived at exactly that size and a lot of it was cut off in play. The fix is
+`pad-maps`, which keeps the 1600:945 aspect and insets the content by 10% a side
+(raised from 5% after 5% still got clipped):
+
+```
+uv --directory /Users/wcb/personal/dnd/scripts run pad-maps maps/<floor>.png
+```
+
+A 1600 × 945 source comes out 2000 × 1181 with the original centred.
+
+**The padded image has to be hosted, and not from the repo** — see
+[tts-asset-debug.md](tts-asset-debug.md) → *Hosting a replacement asset*. For a
+one-off, upload it through TTS Cloud from inside TTS and paste the resulting
+`steamusercontent-a.akamaihd.net` URL into the map's SBx token
+(`CustomImage.ImageURL`). `maps/` is gitignored, so padded floors stay local.
+
+**Padding changes the alignment.** When the floor image is a drawn plan the 3D
+pieces stand on, the pieces no longer line up. The drawn content now covers 80%
+of the image it did before, so the map needs scaling by about 0.8 to stay on it —
+`adjust-ow-map --scale 0.8`. Pad first, then align.
+
 ### Turning or resizing a map that is already in a save (`adjust_ow_map`)
 
 A library map arrives at whatever size and orientation its author left it, and a
