@@ -123,6 +123,22 @@ already-imported target is a noop.
 import. See [tts-asset-debug.md](tts-asset-debug.md) for the cleanup
 pattern.
 
+### Listing what maps a save actually holds
+
+**Read the JotBase registry, not the bag nicknames.** The registry is the
+`--<sbx guid>,<name>,{...},{vbase...}` lines in `aBag.LuaScript`, and it is what
+the Hub lists. Staging holds about 40 maps that way.
+
+Searching for bags nicknamed `OWx_*` finds far fewer — seven, when this was got
+wrong on 9/1 — because only maps imported by `import_ow_map` carry that prefix.
+Maps built inside TTS are nicknamed **`Copy build map`**, or carry no nickname at
+all, and Brick bar (`79e96f`, 398 pieces) is one of them. A nickname search omits
+every map the user made by hand.
+
+Some registry entries have no content bag: a map can be a painted floor image
+with nothing on it. The region and tomb maps — `Nila`,
+`Aar`, `Aal`, `Maalm`, `tomb1_entry` — are all image-only entries.
+
 ### Packing a raw Workshop map (`pack_ow_map`)
 
 A map found on the Workshop loads as loose objects on a table, with no `OWx_`
