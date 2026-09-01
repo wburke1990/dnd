@@ -230,6 +230,17 @@ editing and rehosting its image, which needs TTS; the map is rotated by
 **Scaling is uniform**, on the same terms as `pack_ow_map` — position and size by
 one factor, Y with them.
 
+**Aligning a map to a drawn floor plan: use grid-square measurements to compute
+the scale.** When the floor image is a battlemap the 3D pieces stand on, the map
+must line up with the grid the pieces stand on, and you can only judge alignment
+by looking at it in game. Ask how far off it is **in grid squares**, then
+convert: a piece at the map's edge moves half the span change, so one square of
+error is worth twice its width in span. Two measurements give the conversion —
+change the scale, ask again, and the difference between the two readings gives
+the units per square. BlueWater Inn came out at **12.8 units of span per 5 ft
+square**, and took three more scale adjustments to get right. Estimating the
+number from the image took four adjustments and did not work.
+
 **The one calibrated size is Haagen**, which sits correctly on the default floor
 at a span of about 63 × 42. Scaling another map so its long axis lands near 63 is
 a reasonable starting scale; BlueWater Inn went from 71.4 to 62.9 that way. A map much longer than it is wide will still leave bare floor at the
