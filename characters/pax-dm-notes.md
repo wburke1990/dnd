@@ -52,25 +52,30 @@ Two things to hold to:
 
 - The ecoterrorist organization connects directly to the campaign's land destruction and volcanism themes; Pax's "wounded living world" vision matches the geological and volcanic mythology of the setting.
 - His belief that civilization is on probation will put him in direct conflict with the wizard's operation once it is understood.
-- The Compost Staff and the green-gold glow are recurring visuals that distinguish him at the table and in any scene description.
+- Describe the Compost Staff and the green-gold glow whenever Pax is in a scene.
 
 ---
 
 ## The four-day vision (S10)
 
 Andrew's account is on the sheet under *The Four-Day Vision*, told in-game to
-Jogo. What it hands us:
+Jogo. From the account:
 
 - Pax rose out of his body and stood among the stars. The stars were enormous — some burned, some moved, some watched. Below him the world was strung with threads of light connecting every living thing, and some of the threads ran upward into the stars. Beneath the roots of the world he saw a network connecting forests, graves, mountains, animals, people, and things with no names.
 - Something vast that had known him since before his birth called him by a name. He can't remember it. He remembers thinking it was his true name and that he had always known it.
 
-Ties to what's already on the table:
+Pax bought a supply of mushrooms at Aar in S12 and means to eat them
+([the market mushrooms](../world/nila/encounters/the-market-mushrooms.md)). The vision
+written for them names the name, but Pax does not hear it as his own: someone else reads
+it off a list, alongside names he does not know. The forgotten name stays open.
 
-- **It is his two lineages, shown in one crossing.** Per
+Connections to existing material:
+
+- **The vision includes both of his parents' lineages.** Per
   [lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §6, Pax is the
   child of a Celestial and a nameless earth-person — half true-named (a name, a
-  heaven, the pole above), half nameless (dissolves into the land, unowned). His
-  vision runs both roads: he rose to the star/celestial side and was named, then
+  heaven, the pole above), half nameless (dissolves into the land, unowned). The
+  vision covers both: he rose to the star/celestial side and was named, then
   fell back down through the roots into the network and the common stock — the
   earth side. At death he chooses which claims him; the vision is him having
   already seen both ends.

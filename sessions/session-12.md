@@ -55,8 +55,8 @@ improve.
 - **Cure Wounds, over and over.** **Aniess spent every slot she had on him.** The wounds
   closed. The sepsis was unchanged.
 
-`[DM]` The run sheet's ruling — *do not let magic cure the leg or the infection* — held
-at the table without argument. They spent the spells and stopped when
+`[DM]` The run sheet's ruling — *do not let magic cure the leg or the infection* — not disputed by anyone
+at the table. They spent the spells and stopped when
 nothing changed.
 
 ## Sarric kills him
@@ -85,11 +85,11 @@ Both entries have been **removed from the
 run, and the orca pod and the milky sea replaced them.
 
 **The body bloated on the way.** The healing they had spent on him did nothing to
-preserve him, and the body decayed on the run sheet's schedule.
+preserve him, and the body decayed at the rate the run sheet gives.
 
 `[ruled 9/1]` **Purify Food and Drink, cast on the body, slowed the decay.** Once the
 party worked out what was happening to it, William let Aniess use it that way — one cast,
-and it held for the rest of the passage. **The Anubis statue never came up**, so
+and the decay stayed slowed for the rest of the passage. **The Anubis statue never came up**, so
 Gentle Repose stayed unused and casting it from the statue is still untested.
 
 ## Aar — Aniess delivers the body
@@ -102,8 +102,7 @@ knocked.
 3. **The servants came**, and then **Ruslan**.
 4. **Aniess left** while they were still in the doorway with it.
 
-Nothing was explained to them. Nobody in the family has been told who this is, how he
-died, or who killed him.
+Nobody in the family has been told who this is, how he died, or who killed him.
 
 ## Aar — the others at the market
 
@@ -134,15 +133,18 @@ porch that night has not.
 - **Nobody followed what the whale said.** It said *"two beating things"* went north, which
   is what the merfolk said too. `[DM]` Those are Sayid's hulls towing the *Nasira*'s
   spars; the party have not worked that out.
-- **Ruslan's household has a body and no account of it.** They can come to Aniess asking
-  who he was and how he died, and she is the only one of the party they saw. Ruslan's own scene — the Company
-  flag, the convoys, the arrangement with the Mukka privateers — is still unrun, and it
+- **Ruslan's household has the body, and nobody has told them anything about it.** They
+  can come to Aniess asking who he was and how he died, and she is the only one of the
+  party they saw. Ruslan's own scene — the Company flag, the convoys, the arrangement
+  with the Mukka privateers — is still unrun, and it
   now has to start from a woman who left his brother's body at his door without telling
   them anything
   ([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md), *Afterward,
   in Aar*).
-- **Pax's mushrooms.** `[OPEN]` what purple spots and orange gills do to him. Needs
-  deciding before he eats them.
+- **Pax's mushrooms.** Written up as
+  [the market mushrooms](../world/nila/encounters/the-market-mushrooms.md) — a DC 13 CON
+  save he is allowed to decline, and five stages of vision that refer to the name he cannot
+  remember from the four-day vision without stating it.
 - **Next session opens on the Tally House porch**, with Beartholomew's ask —
   [the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)
   §1, second scene.
@@ -158,6 +160,6 @@ porch that night has not.
   ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
   `[TODO]` whether it came up at the table.
 
-- **Nameless animals.** The party asked two beasts for names and got none. The
-  [campaign overview](../world/nila/lore/campaign-overview.md) says names carry
-  ownership. The players asked; it was not prepped.
+- **Animals that gave no name.** The party asked two beasts for names and got none. The
+  [campaign overview](../world/nila/lore/campaign-overview.md) puts it as *"the power to
+  name is the power to own, and to remake."* The players asked; it was not prepped.

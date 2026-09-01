@@ -14,7 +14,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [kuru](world/kuru/README.md) | 1 | The NE landmass, the Order of Sunne and the phoenix. |
 | [lonka](world/lonka/README.md) | 6 | Jotunheim, the dragonborn origin and the Bleeding Star. |
 | [musleheim](world/musleheim/README.md) | 5 | The fire island: the Muspel empire and the orc wars. |
-| [nila](world/nila/README.md) | 23 | The world itself: cosmology, history, rules, and the powers that span regions. |
+| [nila](world/nila/README.md) | 24 | The world itself: cosmology, history, rules, and the powers that span regions. |
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 5 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
@@ -116,6 +116,7 @@ The world itself: cosmology, history, rules, and the powers that span regions.
 | File | Status | What it is |
 |---|---|---|
 | [the houses of xibalba](world/nila/encounters/the-houses-of-xibalba.md) | `ready` | A descent through six trial houses of the Maya underworld |
+| [the market mushrooms](world/nila/encounters/the-market-mushrooms.md) | `ready` | The mushrooms Pax bought at Aar, the save to resist them, and the five stages of the vision |
 | [the covenant rite](world/nila/encounters/the-covenant-rite.md) | `draft` | The rite for pledging yourself to a dragon court |
 | [the iliad battles](world/nila/encounters/the-iliad-battles.md) | `draft` | A frame for pitched battle fought as Homeric duels |
 | [great tree sites](world/nila/encounters/great-tree-sites.md) | `idea` | A backlog of tree-myth site ideas, none placed yet |
