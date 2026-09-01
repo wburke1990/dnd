@@ -105,8 +105,8 @@ restocking his pantry.)
   party out of Preem's office, is a **quasit** — one of Preem's planted
   spy-familiars, the **same trick as the "psychic bat"** that had just led the party
   *up* those stairs. It rides with the
-  [**Brass Jackals**](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md), a foreign
-  name-hunter crew Preem hired but doesn't trust; its host, the crew's drug-addled
+  [**Brass Jackals**](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md), a foreign
+  rival crew Preem hired but doesn't trust; its host, the crew's drug-addled
   alchemist **Pim,** believes it's his own lab-familiar. Canonizing it means the
   party **first crossed the Jackals here, in session one** — five faces they'll meet
   again in **The Twelve** — and sets the quiet rhyme that **each crew is led up by
@@ -118,7 +118,7 @@ restocking his pantry.)
   his centipede for his own drug-addled brain;** probe the toad or the bug and it
   plays mute. They watch and answer to Preem alone. See
   [Preem's demons → crew familiars](../characters/preems-demons.md) and
-  [the tavern scene](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md).
+  [the tavern scene](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md).
 
 - [x] **Rat man + rats stat blocks recorded** in
       [`bestiary/the-rat-man.md`](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md) (**Ratatat,**

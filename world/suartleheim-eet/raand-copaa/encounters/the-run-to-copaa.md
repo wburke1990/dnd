@@ -122,7 +122,7 @@ Rising sea and one hard night of watches is enough.
 to the Sacred Hunt and do not stop for Copaa. **The party's sloop is the faster boat and
 gets to Aar ahead of them,** so the parting happens at sea or in the basin and the convoy
 carries on up the coast. The hunters are not who the party drink with at Aar; the rival
-name-hunter crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and
+rival crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and
 whether Cassia is still on the coast when they do.
 
 ## 4 · Landfall — Aar  `→` [aar.md](../lore/aar.md)
@@ -146,7 +146,7 @@ on everything, more men than buildings. A canal runs straight inland from the ba
    stair, and he is the Company man his brother argued with for years. He gives them the
    name of the arrangement and who holds it in Aar, and a debt. Short scene, no prep —
    [wreck §8](../../../the-sea/encounters/the-drifting-wreck.md).
-3. **The Hunt crews.**  `→` [tavern-name-hunter-crews.md](../../maalm/encounters/tavern-name-hunter-crews.md)
+3. **The Hunt crews.**  `→` [tavern-rival-crews.md](../../maalm/encounters/tavern-rival-crews.md)
    The party left Maalm without ever drinking with Preem's other crews, and the crews are
    already at Aar, working up this coast toward the Hunt and waiting on boats north.
    **Run that scene here** — in the
@@ -222,7 +222,7 @@ that runs slower the nearer Haals they get are the next leg —
 *Everything here happens in one evening, in the
 [Tally House](../lore/the-tally-house-and-the-guest-house.md) and on its porch. Read down;
 each character's opening line is ready to say. Backstory, the mirrors and the DM-only
-material are in [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md) — this
+material are in [the rival crews](../../maalm/encounters/tavern-rival-crews.md) — this
 is the sheet to run from.*
 
 ## The order of the evening
@@ -261,7 +261,7 @@ Beartholomew counts what leaves the wharf.
 > house, telling a story, and the men around him have stopped talking.
 
 **Mogg is mid-saga.** Run the opening as written —
-[the rival crews → The opening](../../maalm/encounters/tavern-name-hunter-crews.md), option A
+[the rival crews → The opening](../../maalm/encounters/tavern-rival-crews.md), option A
 or B, his choice of which he saves for later.
 
 ## Beartholomew — the ask, on the porch
@@ -348,7 +348,7 @@ scarred hands. He speaks quietly and he buys.
   of it standing."*
 - *To Sarric.* *"Somebody died in your hands on the way here."* *[when Sarric says
   nothing]* *"Don't tell me. I only know the walk."* Then his signature line —
-  [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md). `[DM]` He is
+  [the rival crews](../../maalm/encounters/tavern-rival-crews.md). `[DM]` He is
   guessing from how Sarric walked in. If he is wrong he says so and buys anyway.
 
 **Issa Quib** — halfling, cold to the touch, a tea gone tepid she never finishes.
@@ -367,7 +367,7 @@ scarred hands. He speaks quietly and he buys.
 - *Intro.* *"Bram Hale. No airs — I'm the muscle, Setha's the blood, and Calix is whatever
   Calix is. Sit with me, I've one night's drinking left in this town."*
 - *To Jasper.* the recognition and the closer, both in
-  [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md).
+  [the rival crews](../../maalm/encounters/tavern-rival-crews.md).
 - *Late, and on the watch.* *"I've the first watch on that gallery
   tonight, so I'm on the water for two more and then I'm done. Come up and talk if you're
   awake. I'd rather that than the boards."* `[DM]` He means it. He is also the watch, and a
@@ -393,7 +393,7 @@ scarred hands. He speaks quietly and he buys.
   to happen to their evening, the whole room would be standing here looking sorry about it
   together."*
 - *If she warms.* the Sunne line —
-  [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md).
+  [the rival crews](../../maalm/encounters/tavern-rival-crews.md).
 
 **Hadda Vimm** — dwarf, the quartermaster, pricing the party's gear out of habit.
 
@@ -405,12 +405,12 @@ scarred hands. He speaks quietly and he buys.
 
 **Sefi** — halfling, a kid in too-big kit, drinking what Hadda waters.
 
-- *Intro.* *"You're name-hunters too? Real ones? I'm the scout. First one into the dark,
+- *Intro.* *"You're collecting names too? Real ones? I'm the scout. First one into the dark,
   that's my job now."*
 - *Watching the Writ.* *"They've a berth and we haven't. Veska says we'll walk it. It's
   four hundred miles."* *[bright again]* *"I'd walk it."*
 - *If the party are kind.* the Riska line — [the rival
-  crews](../../maalm/encounters/tavern-name-hunter-crews.md).
+  crews](../../maalm/encounters/tavern-rival-crews.md).
 
 **Mogg** — half-orc, up on the bench, the biggest cup in the house.
 

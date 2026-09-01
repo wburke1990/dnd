@@ -9,7 +9,7 @@ status: draft
 [Beartholomew](../../../../characters/beartholomew.md) asks the party to steal at Aar
 ([the godstone dagger](../../raand-copaa/encounters/the-godstone-dagger.md)); it is worn by
 **Setha Renk**, who leads the
-[Lapis Writ](../encounters/tavern-name-hunter-crews.md). Two prompts: the knife by itself,
+[Lapis Writ](../encounters/tavern-rival-crews.md). Two prompts: the knife by itself,
 and Setha wearing it. Setha's physical description below is the canon one — she had none
 before this file.*
 

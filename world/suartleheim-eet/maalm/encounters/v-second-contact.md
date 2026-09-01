@@ -115,7 +115,7 @@ she takes it.
 ## The location — a coffeehouse in an old mercenaries' hall `[settled: Merc Hall]`
 
 Not the **Tavern of the Twelve** — that's Preem's rival crews' room, with Calix's
-quasit ([the rival crews](tavern-name-hunter-crews.md)); a spy who fears the
+quasit ([the rival crews](tavern-rival-crews.md)); a spy who fears the
 Second Foundation would not pick it. Not the Second Hand's inn (still Preem's
 crew), and not the docks (tomorrow's set-piece). A **coffeehouse** she names
 and controls, run in an **old Maalm mercenaries' hall** (the "Merc" is

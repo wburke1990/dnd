@@ -3,7 +3,7 @@ summary: Tavern scene with two of Preem's other crews, the Lapis Writ and the Br
 status: ready
 ---
 
-# Tavern Scene — Rival Name-Hunter Crews
+# Tavern Scene — Rival Crews
 
 > **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
 
@@ -15,7 +15,7 @@ status: ready
 ---
 
 
-Two of Preem's other name-hunter crews are drinking in a Maalm tavern when the
+Two of Preem's other rival crews are drinking in a Maalm tavern when the
 party returns from **tomb four**. They are not a contrivance and not flavor:
 Preem deliberately runs multiple crews against the names, and these two are
 built to be the **party's two reflections** — the engine that makes the quest's
@@ -209,7 +209,7 @@ bottom of a cup.
 
 ## Roster — who's in the room
 
-*Quick reference: the ten rival name-hunters (two crews of five) plus the
+*Quick reference: the ten rival crew members (two crews of five) plus the
 tavern-keeper. Deep blocks — appearance, hook lines, then backstory — are under
 **Approaching an NPC** further down; each block ends with the DM-only truths a
 player can't learn by talking.*
@@ -793,7 +793,7 @@ proof she only dreads; Hadda is still hoping she's wrong.
 Hadda waters it; she drinks it like fire and pretends not to notice.
 
 **Hook lines.**
-- *Intro.* *[bright, too eager]* *"You're name-hunters too? Real ones? I'm the
+- *Intro.* *[bright, too eager]* *"You're collecting names too? Real ones? I'm the
   *scout* — first one into the dark, that's me, that's my job now. I went the
   deepest last dig. Deepest of anybody."* *(A dare and a plea at once.)*
 - *Signature* *(if the party is kind, the bravado thins):* *"...Do the mummies

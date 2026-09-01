@@ -136,7 +136,7 @@ new land are one event.*
 arrows fell dwarves). We may **flip them to the dwarf side** later — the
 saga-literal reading, since Þorgerðr and Irpa fought for Hákon, the *winner*. To
 switch sides, swap whose arrows they loose, here and in Mogg's tavern telling
-([tavern-name-hunter-crews.md](../../suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)).
+([tavern-rival-crews.md](../../suartleheim-eet/maalm/encounters/tavern-rival-crews.md)).
 
 > *"From the fingers of the troll-women flew arrows, and every shaft was a man's
 > bane; the storm-squall gathered black over the sea, and each hailstone weighed

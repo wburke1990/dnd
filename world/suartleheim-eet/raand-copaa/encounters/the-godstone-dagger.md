@@ -14,7 +14,7 @@ status: next
 > **[Beartholomew](../../../../characters/beartholomew.md)** — from
 > **[Aniess](../../../../characters/aniess.md)**'s cohort in the Order — is posted at the
 > port and cannot leave it. He asks the party to steal an **Amseh ceremonial blade** off a
-> wealthy Maalm name-hunter and carry it upriver for him. The blade is **godstone**, and
+> wealthy Maalm aristocrat and carry it upriver for him. The blade is **godstone**, and
 > carrying it next to Aniess's **small Anubis** is how she learns the statue is godstone
 > too. One
 > session at Aar, then a scene on the canal and a scene at Copaa. Party level ~3. Run it as
@@ -258,7 +258,7 @@ possibly have given.
 ## 3 · Who has it `[settling]`
 
 **Setha Renk**, the half-elf who leads the
-**[Lapis Writ](../../maalm/encounters/tavern-name-hunter-crews.md)** — funded Maalm
+**[Lapis Writ](../../maalm/encounters/tavern-rival-crews.md)** — funded Maalm
 aristocrats, Preem's other crew, who cleared every tomb in the Valley.
 
 **It is her family's, not tomb loot.** The Valley tombs were stripped of their valuables
@@ -420,7 +420,7 @@ If the party take him up on it, he does it. The price is the posting, and the Or
 its only eyes on what leaves Aar by sea — which is what he was actually sent for, and worth
 more to them than one knife. Let them choose with that said out loud.
 
-**[Setha Renk](../../maalm/encounters/tavern-name-hunter-crews.md) — half-elf, Bard 3
+**[Setha Renk](../../maalm/encounters/tavern-rival-crews.md) — half-elf, Bard 3
 (College of Lore).**
 
 - **Darkvision 60 feet.** She can see the room in the dark.
@@ -434,7 +434,7 @@ more to them than one knife. Let them choose with that said out loud.
 - She has read her own knife with *Detect Magic* at some point. It registers, which is
   where the family's talk of luck comes from. It does not tell her what it is made of.
 
-**[Issa Quib](../../maalm/encounters/tavern-name-hunter-crews.md) — halfling, Cleric 3
+**[Issa Quib](../../maalm/encounters/tavern-rival-crews.md) — halfling, Cleric 3
 (Grave Domain).** Aniess's counterpart, and the one who makes the theft hard to keep.
 
 - **Locate Object** (2nd level) — she has seen the peseshkef inside 30 feet, so she can
@@ -447,7 +447,7 @@ more to them than one knife. Let them choose with that said out loud.
   halflings also get **Naturally Stealthy.**
 - Also *Bane*, *Command*, *Silence*, *Hold Person*, and Channel Divinity.
 
-**[Calix Vire](../../maalm/encounters/tavern-name-hunter-crews.md) — elf, Wizard 3 (School
+**[Calix Vire](../../maalm/encounters/tavern-rival-crews.md) — elf, Wizard 3 (School
 of Divination).** The hardest of the Writ to get past.
 
 - **Elves do not sleep.** He trances four hours, so half of any night has him awake.
@@ -467,11 +467,11 @@ of Divination).** The hardest of the Writ to get past.
 - **The quasit.** His pet toad is Preem's quasit. Darkvision 120 feet, invisible at will,
   and it does not sleep either. Whatever it sees, Preem hears.
 
-**[Doruk Pell](../../maalm/encounters/tavern-name-hunter-crews.md) — dwarf, Fighter 3
+**[Doruk Pell](../../maalm/encounters/tavern-rival-crews.md) — dwarf, Fighter 3
 (Battle Master).** Darkvision 60 feet, sleeps across Renk's door, 4d8 superiority dice with
 Riposte, Trip Attack and Menacing Attack.
 
-**[Bram Hale](../../maalm/encounters/tavern-name-hunter-crews.md) — human, Fighter 3
+**[Bram Hale](../../maalm/encounters/tavern-rival-crews.md) — human, Fighter 3
 (Champion).** No darkvision, and he takes the first watch. That is the hour to move.
 
 ## Connections
@@ -479,7 +479,7 @@ Riposte, Trip Attack and Menacing Attack.
 - **[Beartholomew](../../../../characters/beartholomew.md)** — the NPC who asks.
 - **[Aniess](../../../../characters/aniess.md)** — his cohort, the person he asks, and the
   one carrying the small Anubis.
-- **[The rival crews](../../maalm/encounters/tavern-name-hunter-crews.md)** — the Lapis Writ,
+- **[The rival crews](../../maalm/encounters/tavern-rival-crews.md)** — the Lapis Writ,
   Setha Renk and Issa Quib.
 - **[The Dream Quest](../../maalm/encounters/the-dream-quest.md)** — where the small Anubis
   came from and what it is.

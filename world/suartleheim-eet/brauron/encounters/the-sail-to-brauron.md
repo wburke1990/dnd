@@ -91,7 +91,7 @@ fruit.
 - **The Maalm taverns and the rival crews** — the party sailed without them, so the crew
   scene now runs on Aar's waterfront
   ([the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md) §4). The scene
-  itself is unchanged: [tavern-name-hunter-crews.md](../../maalm/encounters/tavern-name-hunter-crews.md).
+  itself is unchanged: [tavern-rival-crews.md](../../maalm/encounters/tavern-rival-crews.md).
 - **The burned ship in Maalm's approaches** — played in session 11 and finishing in
   session 12: [the drifting wreck](../../../the-sea/encounters/the-drifting-wreck.md).
 - **The landfall at Aar and the road inland to Copaa** —

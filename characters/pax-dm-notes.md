@@ -28,7 +28,7 @@ reads as confirmation and comes from somewhere else.
 He has two supernatural inputs and no account tying them together — the earth dreams
 from his mother's forest-nameless side, and the instructed nights from the Celestial
 that named him (see the four-day vision below, and
-[player messages — earth dreams](../../sessions/player-messages-earth-dreams.md)). Pax
+[player messages — earth dreams](../sessions/player-messages-earth-dreams.md)). Pax
 attributes both to the Green Revelation. Neither is.
 
 So every time one of them fires, he gets a fact he can point at. The first is at

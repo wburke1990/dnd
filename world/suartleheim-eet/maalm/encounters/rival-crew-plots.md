@@ -1,17 +1,17 @@
 ---
-summary: Plot seeds for Preem's rival name-hunter crews after the Valley
+summary: Plot seeds for Preem's rival crews after the Valley
 status: idea
 ---
 
-# Rival name-hunter crews — plots past the Valley
+# Rival rival crews — plots past the Valley
 
 These carry the rival crews past the tomb race and into the rest of the
 campaign. The Valley is done; the crews aren't. The rivalry runs on money
 (worked out this session): Preem pays his crews on a curve — the first
 and cleanest crews take the big money, the rest get grave-wages (the party's
 canonical **5 gp/name**), and a crew that falls in the standings slides toward
-what the [Ashfoot](tavern-name-hunter-crews.md#the-ashfoot--the-wreckage-where-the-road-ends)
-became. **Setha's reveal** — the [Lapis Writ](tavern-name-hunter-crews.md#the-lapis-writ--the-ones-who-won)
+what the [Ashfoot](tavern-rival-crews.md#the-ashfoot--the-wreckage-where-the-road-ends)
+became. **Setha's reveal** — the [Lapis Writ](tavern-rival-crews.md#the-lapis-writ--the-ones-who-won)
 were paid many times what the party got, because they finished first and
 missed nothing — is where the party learns there's a ladder at all. Everything
 below hangs off that.
@@ -185,7 +185,7 @@ version of the same act; this crew is the loud one.
 - Free or kill the demon and the crew loses what the binding bought — their wins,
   their standing — and slides toward the Ashfoot. Doing the right thing wrecks
   them. The same trap as the tavern's
-  [missing-names favor](tavern-name-hunter-crews.md#the-lapis-writ--the-ones-who-won),
+  [missing-names favor](tavern-rival-crews.md#the-lapis-writ--the-ones-who-won),
   reversed.
 - The crew will not be saved. The power is what they have, and they fight to keep
   it.

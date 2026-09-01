@@ -257,7 +257,7 @@ dread rather than *announcing* it. Pax's **early, surface** mirror — his
 chosen-instrument zealotry with no cosmology attached — is **Calix Vire** in the
 rival-crew tavern; **Vael is the deep one**, the same man's reflection held until
 the souls-and-dominion truth can land without spoiling it (see
-[the rival crews](../../suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)).
+[the rival crews](../../suartleheim-eet/maalm/encounters/tavern-rival-crews.md)).
 
 `[OPEN]` whether Vael is a full Chair, a lesser Foundationer, or an outer-circle
 zealot — and what, if anything, actually spoke to him in the dark.

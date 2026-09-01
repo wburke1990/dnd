@@ -175,7 +175,7 @@ The next morning. (Prep: [Departure Under Fire](../world/suartleheim-eet/maalm/e
   at its dead center. The played beats match the prep.
 - **Note — a hard once-a-year window.** The Sacred Hunt is the **only** annual way into
   the preserve (the spot on the map), so it's **now or a year's wait** — a real clock on
-  this arc. **"Every ninja team" = Preem's rival name-hunter crews:** the once-a-year window
+  this arc. **"Every ninja team" = Preem's rival crews:** the once-a-year window
   pulls **every crew to the one spot**, so the hunt becomes a crowded, competitive scene —
   the "race with no rules" ([overview §3.C](../world/nila/lore/campaign-overview.md)) at a chokepoint.
 ## Preem's tower — a new map, and the Dream Quest
@@ -237,7 +237,7 @@ sailed yet** — next session opens on the departure.
   fingers (Fester = **Ratatat**, the rat man Jasper de-fingered in S6).
   See [V. prep](../world/suartleheim-eet/maalm/encounters/v-second-contact.md).
 - **The rival crews at the hunt (next arc).** "Every ninja team" converges on the Sacred
-  Hunt: the funded **[Lapis Writ](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)** buy the
+  Hunt: the funded **[Lapis Writ](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md)** buy the
   hunter's seat (wealthy Maalm aristocrats — they pay for the best), while the broke party
   comes as **quarry** or slips in — the winners hunting, the party hunted (Calix/Pax mirror).
 

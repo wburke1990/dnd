@@ -252,7 +252,7 @@ ratio.
 The main donor we pull from is **`TS_Save_22.json` ("22 - One world
 maps")** — a flat library of 270+ self-contained `OWx_` map bags,
 catalogued in
-[`../tts/one-world-maps-inventory.md`](../../tts/one-world-maps-inventory.md)
+[`../tts/one-world-maps-inventory.md`](../tts/one-world-maps-inventory.md)
 (grouped by theme, each with its bag GUID). The user picks maps by
 name/GUID from that file; we import into **staging (`TS_Save_19`)** for a
 test load, and they save in TTS if it looks good. This flow runs often —
@@ -478,7 +478,7 @@ Two distinct lists — don't confuse them:
 - **Hub-registered maps** (the ~11 GUIDs above) are the maps actually
   wired into Nila/staging and switchable from the Hub.
 - **The full OW map library** we catalogued lives in
-  [`tts/one-world-maps-inventory.md`](../../tts/one-world-maps-inventory.md):
+  [`tts/one-world-maps-inventory.md`](../tts/one-world-maps-inventory.md):
   the **272-bag `OWx_` donor library** from `TS_Save_22` ("22 - One
   world maps"), grouped by theme (Barovia, Sharn, Dark Sun, dungeons,
   caves, tombs, cities, …). These are *importable* via `import_ow_map`

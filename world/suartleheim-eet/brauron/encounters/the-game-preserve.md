@@ -51,19 +51,19 @@ go for the season and never reach it.
 ## The rival crews at the hunt `[S10]`
 
 The hunt is the **only annual way into the preserve**, so it is the one window all of Preem's
-[name-hunter crews](../../maalm/encounters/tavern-name-hunter-crews.md) get at this spot — and they take it. The hunt
+[rival crews](../../maalm/encounters/tavern-rival-crews.md) get at this spot — and they take it. The hunt
 is crowded with rivals, the race-with-no-rules ([overview §3.C](../../../nila/lore/campaign-overview.md))
 funneled to one chokepoint.
 
-- **The [Lapis Writ](../../maalm/encounters/tavern-name-hunter-crews.md) come as paying hunters.** Founder-blood
+- **The [Lapis Writ](../../maalm/encounters/tavern-rival-crews.md) come as paying hunters.** Founder-blood
   Maalm aristocrats who buy the best seat — the sort of "wealthy Maalm hunters" who charter
   the transport. The crew that won the Valley, out hunting.
 - **The party come as the quarry** — the one entry they can afford (put a name down as the
   stag, below) — or they slip in. So the Writ hunt and the party are hunted. The mirror is
   sharpest at **Calix and Pax:** Calix rides with the hunters; **Pax is run as the stag** in
   the Actaeon man-hunt.
-- **The other crews** turn up as their means allow ([how each crew moves](../../maalm/encounters/tavern-name-hunter-crews.md)):
-  the funded reach the hunt; the broke [Brass Jackals](../../maalm/encounters/tavern-name-hunter-crews.md) if their
+- **The other crews** turn up as their means allow ([how each crew moves](../../maalm/encounters/tavern-rival-crews.md)):
+  the funded reach the hunt; the broke [Brass Jackals](../../maalm/encounters/tavern-rival-crews.md) if their
   rotting tub survives the crossing. Rival crews — and the bodies of the ones who lost — are
   the danger lever out in the wild.
 - `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at

@@ -11,7 +11,7 @@ status: ready
 > **[Beartholomew](../../../../characters/beartholomew.md)** names the job
 > ([the godstone dagger](../encounters/the-godstone-dagger.md) §1). The **guest house** is
 > the one good building on the water, and the
-> **[Lapis Writ](../../maalm/encounters/tavern-name-hunter-crews.md)** have its upper floor,
+> **[Lapis Writ](../../maalm/encounters/tavern-rival-crews.md)** have its upper floor,
 > with the peseshkef on Setha Renk's belt. Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
 ---
@@ -73,7 +73,7 @@ dock crews and is liked, Calix Vire sits with his toad and flips his coin for wh
 orders, and Timo runs their bottle down from the guest house. Renk wears the knife at her
 belt the whole time.
 
-Run the crew scene here — [the rival crews](../../maalm/encounters/tavern-name-hunter-crews.md),
+Run the crew scene here — [the rival crews](../../maalm/encounters/tavern-rival-crews.md),
 with each Writ member drifting toward their counterpart, as written.
 
 ## Beartholomew's place in the room `[settling]`
@@ -205,7 +205,7 @@ the canal and not out to sea.
   the three ways to get the knife, and the numbers on the Writ.
 - **[Beartholomew](../../../../characters/beartholomew.md)** — his week, his cover, and the
   echo.
-- **[The rival crews](../../maalm/encounters/tavern-name-hunter-crews.md)** — the Lapis Writ,
+- **[The rival crews](../../maalm/encounters/tavern-rival-crews.md)** — the Lapis Writ,
   member by member, and the Brass Jackals.
 - **[Satyr taverns](../../../nila/lore/satyr-taverns.md)** — why both houses are kept by a
   Letap.

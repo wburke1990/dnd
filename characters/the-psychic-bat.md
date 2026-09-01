@@ -42,7 +42,7 @@ it, and then Preem gifts it: **[settled]**
 member,** then **led them up the tower stairs** into the office; only once they
 were inside did Preem note it was fond of **Jasper** and offer to let him **keep it
 for the year** of the quest. The mirror tell, in hindsight: the next crew — the
-[Brass Jackals](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md) — were led up the same
+[Brass Jackals](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md) — were led up the same
 stairs by *their* familiar, a **centipede,** which had carried *their* summons-note
 the same way (see [Session 1](../sessions/session-01.md)). Note the difference: all
 three **murmur to their hosts,** but only Jasper *knows* his bat talks — **Calix

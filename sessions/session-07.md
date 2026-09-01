@@ -166,7 +166,7 @@ status: played
   wound his backstory turns on (the burned camp, the screams that were "not
   only men," [sarric.md](../characters/sarric.md)). That line is the whole gap
   between him and his built mirror **Doruk Pell**
-  ([the rival crews](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)), who has none
+  ([the rival crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md)), who has none
   of it and sleeps fine. Tonight's **Hall of Two Truths**
   ([Dream Quest](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)) — his confession, the
   scales that don't weigh context — lands straight on it.

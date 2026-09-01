@@ -200,7 +200,7 @@ barges. See [Copaa](../../suartleheim-eet/raand-copaa/lore/copaa.md).
   the runoff's human cost is now canon — **leprosy is a magical sickness from the
   runoff, and the [tomb-lepers](../../suartleheim-eet/maalm/encounters/valley-of-the-kings.md) are Copaa
   exiles** ([the Haals runoff §4](../../suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md)).
-- **[Doruk Pell](../../suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)** — the dwarf of the Lapis
+- **[Doruk Pell](../../suartleheim-eet/maalm/encounters/tavern-rival-crews.md)** — the dwarf of the Lapis
   Writ who helped clear orcs — can be **the Company's hand** (land-clearing and
   slave-raids for the plantations) and the Sunne pogroms' (`[OPEN]` — weave, don't
   replace, his existing backstory).

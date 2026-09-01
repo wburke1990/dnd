@@ -129,7 +129,7 @@ and **no railroad.** Ways in and ways through:
   engineering/skill puzzle, and the option that doesn't put anyone out of work.
 - **Burn it down.** The **eco-terror** path: sabotage or destroy the mine. Satisfying,
   and **morally loaded** — the dwarf miners are **hired hands,** not the villains
-  (cf. [Doruk Pell](../../maalm/encounters/tavern-name-hunter-crews.md)); wrecking the works hurts the workers,
+  (cf. [Doruk Pell](../../maalm/encounters/tavern-rival-crews.md)); wrecking the works hurts the workers,
   not the [Company](../../../nila/lore/the-company.md) board safe in [Noku](../../../nila/lore/nila-atlas.md).
   The campaign's *no-clean-answer* thesis ([overview §2–4](../../../nila/lore/campaign-overview.md))
   in miniature.

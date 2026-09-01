@@ -30,7 +30,7 @@ drink.
   in every tavern in Maalm"* ([maalm-founding.md](../../suartleheim-eet/maalm/lore/maalm-founding.md)) — it's the
   **Letaps** who honor it, which makes the custom feel archipelago-wide rather
   than one bar's quirk.
-- **The [name-hunter tavern crews](../../suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md).**
+- **The [rival tavern crews](../../suartleheim-eet/maalm/encounters/tavern-rival-crews.md).**
   A world where every tavern shares one owning family is a natural backbone for a
   tavern-to-tavern quest structure — the Letaps are a ready-made information
   network (and comic relief) across Nila.

@@ -23,8 +23,8 @@ The conquest-city and the Valley of the Kings. Played out.
 | File | Status | What it is |
 |---|---|---|
 | [docks departure](encounters/docks-departure.md) | `ready` | The watch ambushes the party at the harbor as the Second Hand sails |
-| [tavern name hunter crews](encounters/tavern-name-hunter-crews.md) | `ready` | Tavern scene with two of Preem's other crews, the Lapis Writ and the Brass Jackals |
-| [rival crew plots](encounters/rival-crew-plots.md) | `idea` | Plot seeds for Preem's rival name-hunter crews after the Valley |
+| [tavern rival crews](encounters/tavern-rival-crews.md) | `ready` | Tavern scene with two of Preem's other crews, the Lapis Writ and the Brass Jackals |
+| [rival crew plots](encounters/rival-crew-plots.md) | `idea` | Plot seeds for Preem's rival crews after the Valley |
 | [akhekh road ambush](encounters/akhekh-road-ambush.md) | `played` | The Akhekh ambush on the road back from the Valley, and how the fight de-escalated |
 | [the dream quest](encounters/the-dream-quest.md) | `played` | Six gates and the Hall of Two Truths, shepherding Ghassan al Qahtani's soul |
 | [the mill](encounters/the-mill.md) | `played` | First contact with V. in the water-tunnels under the mill |

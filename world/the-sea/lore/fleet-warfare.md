@@ -368,7 +368,7 @@ are locked, go back and add the rhymes — carefully.
 The orc-sea battles are recent — Svolder about 320 years ago, Hjörungavágr about 300 —
 so they live as **oral tradition**, sung and told in taverns, not written records
 (Mogg's telling,
-[tavern-name-hunter-crews](../../suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)). Seed the
+[tavern-rival-crews](../../suartleheim-eet/maalm/encounters/tavern-rival-crews.md)). Seed the
 Floating Fleet's ship-to-ship engagement by letting the party overhear these real saga
 beats before it comes, so the shape is already in their ears. Keep it offhand — a song
 half-heard, a drunk's boast, a sailor's tall tale — never a lecture. Verbatim lines in

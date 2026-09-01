@@ -369,7 +369,7 @@ acknowledged talker.
   mind and he takes it for the voice of God,** obeying as a prophet obeys — so it
   needed **no note** to walk the Writ into the tower, the subtlest summons of the
   three. Preem steers his deniable instrument through it. See the
-  [tavern crews](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md). **[loose]**
+  [tavern crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md). **[loose]**
 - **Pim Riddle's "lab familiar" (a centipede)** — in the **Brass Jackals.** It
   **carried the Jackals' summons-note** and led them up in
   [session 1](../sessions/session-01.md); it **murmurs to Pim, who blames his own
@@ -377,7 +377,7 @@ acknowledged talker.
   calls himself crazy. Preem doesn't trust the foreign crew, so it's pure
   **surveillance** — an early-warning line on a crew starting to suspect him
   (Hadda's nose). It roams free, not caged. See the
-  [tavern crews](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md). **[loose — 7/1]**
+  [tavern crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md). **[loose — 7/1]**
 
 ## The escalation roster
 

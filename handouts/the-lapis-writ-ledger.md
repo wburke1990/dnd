@@ -5,7 +5,7 @@ status: reference
 
 # The Lapis Writ's Ledger — the Valley, Complete
 
-> **DM note.** The fair copy the [Lapis Writ](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md)
+> **DM note.** The fair copy the [Lapis Writ](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md)
 > hand the party in the Maalm tavern — every name in the Valley of the Kings,
 > including everything the party missed. Stage it member-to-counterpart per the
 > tavern scene; Issa Quib's hand wrote the body, Setha Renk's the postscript. A

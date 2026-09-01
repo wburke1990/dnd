@@ -107,7 +107,7 @@ Rebuild this by hand when a thread is run. It is not generated.
 | Confession tablets and spoken truths in the tombs | [valley of the kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md) | `played` |
 | The mill fight, blow by blow | [the mill](../world/suartleheim-eet/maalm/encounters/the-mill.md) | `played` |
 | V.'s offer — something aimed at each of the five | [v second contact](../world/suartleheim-eet/maalm/encounters/v-second-contact.md) | `played` |
-| The Lapis Writ, five NPCs mirroring the five PCs | [tavern name hunter crews](../world/suartleheim-eet/maalm/encounters/tavern-name-hunter-crews.md) | `ready` |
+| The Lapis Writ, five NPCs mirroring the five PCs | [tavern rival crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md) | `ready` |
 | The same pairings again, now on Aar's waterfront | [the run to copaa](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md) §4 | `next` |
 | One trial each | [temple sites](../world/nila/encounters/temple-sites.md) | `idea` |
 | Moku, the comet, and the volcano-demon's name | [campaign overview](../world/nila/lore/campaign-overview.md) §6 | `draft` |
