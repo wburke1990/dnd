@@ -120,7 +120,7 @@ Rising sea and one hard night of watches is enough.
 
 **Cassia and the convoy go on north.** The Second Hand are carrying wealthy Maalm hunters
 to the Sacred Hunt and do not stop for Copaa. **The party's sloop is the faster boat and
-gets to Aar ahead of them,** so the parting happens at sea or in the basin and the convoy
+gets to Aar ahead of them,** so they part at sea or in the basin and the convoy
 carries on up the coast. The hunters are not who the party drink with at Aar; the rival
 crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and
 whether Cassia is still on the coast when they do.
@@ -142,7 +142,7 @@ on everything, more men than buildings. A canal runs straight inland from the ba
    For **Blackacre** this is a wandering dragonborn seer's grave, one of the sea-road
    watch-stones he has kept all his life.
 2. **Ruslan.** `[part played]` They left the body at his door and told his household
-   nothing, so his own scene now starts from that. Rustam's brother is at the house by the water
+   nothing, so Ruslan does not know how his brother died. Rustam's brother is at the house by the water
    stair, and he is the Company man his brother argued with for years. He gives them the
    name of the arrangement and who holds it in Aar, and a debt. Short scene, no prep —
    [wreck §8](../../../the-sea/encounters/the-drifting-wreck.md).
@@ -172,7 +172,7 @@ a visit, but it is not this landfall.
 
 The inland road is the canal: dead straight, a paved towpath down one bank, loaded barges
 riding the current down to the port while donkey-teams haul the empty ones back up.
-Older stonework shows under newer stonework the whole way in.
+Newer stonework sits on older courses the whole way in.
 
 - **Sker — the stranded port.** Where the canal meets the old river channel stand dry
   stone quays and a breakwater standing in reeds, well short of any water. Gnome
@@ -247,8 +247,7 @@ closed end, where the dice get thrown once the book is shut.
 ## The order of the evening
 
 **The ask is already made.** [Session 12](../../../../sessions/session-12.md) stopped at the
-watch-stone at noon, and Beartholomew put it to Aniess there — he asks for what he wants in
-the first minute and gets it out of the way
+watch-stone at noon, and Beartholomew put it to Aniess there. He asked in the first minute
 ([Beartholomew](../../../../characters/beartholomew.md)). He does not ask again tonight.
 The party already have the job, and the evening is: the room, the two crews, whatever they
 get out of Bear over the drink, and then the knife.
@@ -286,7 +285,7 @@ counts what leaves the wharf.
 > the guest house. Nearer the door a half-orc is up on a bench with the biggest cup in the
 > house, telling a story, and the men around him have stopped talking.
 
-**Mogg is mid-saga.** Run the opening as written —
+**Mogg is partway through a story.** Run the opening as written —
 [the rival crews → The opening](../../maalm/encounters/tavern-rival-crews.md), option A
 or B, his choice of which he saves for later.
 
@@ -301,9 +300,8 @@ knife.
 - *If they want to talk about it at all.* *"Not in here. Come out to the rail."* Two lamps,
   the basin, and the guest house lit a hundred yards down the water — and the five Writ in
   the room behind them.
-- *On the sailing.* *"They've sat here the best part of a week and now they're going. She walks
-  up that gangway in the morning with it on her belt, and then it's north and gone and
-  I've nothing to send my man at Copaa. It's tonight."*
+- *On the sailing.* *"They've sat here a week. She goes up that gangway in the morning with
+  it on her belt."* *[drinks]* *"So it's tonight."*
 - *What he can tell them.* When Renk eats, when she is out, which room is hers, when the
   belt comes off. He has stood on that wharf all day looking at the guest
   house for four months.
@@ -322,136 +320,226 @@ knife.
 
 ## The house
 
-**Dorn Letap** — grey in the beard, one horn filed flat, an apron over a Company shirt.
+*All three are in [the Tally House and the guest house](../lore/the-tally-house-and-the-guest-house.md).*
 
-- *Ordering.* *"Beer. That's the list. You want wine, you want the other house, and you can
-  walk it."*
-- *If they nod at the Writ's bottle.* *[Timo goes past with it]* *"That comes down out of my
-  cousin's cellar and it goes back up the same road. I don't pour it and I don't touch it."*
-- *What boats are due.* *"The one that matters goes north tomorrow, and that lot are on
-  it. They've been counting days on her the best part of a fortnight. Ask anybody in
-  here — we've all heard it."*
+**[Dorn Letap](../lore/the-tally-house-and-the-guest-house.md#the-two-letaps-settling)** — grey in
+the beard, one horn filed flat, an apron over a Company shirt.
 
-**Timo** — twelve, Yessa's pot-boy, the only person who walks into both buildings.
+- *Ordering.* *"Beer. That's the list. Wine's at the other house, hundred yards that way."*
+- *If they nod at the Writ's bottle.* *[Timo goes past with it]* *"That's my cousin's, out of her cellar. I don't pour it."*
+- *What boats are due.* *"The one that matters goes north tomorrow, and that lot are on it.
+  They've had a man down at the water every morning for a fortnight, asking."*
+
+**[Timo](../lore/the-tally-house-and-the-guest-house.md#the-two-letaps-settling)** — twelve, Yessa's
+pot-boy, the only person who walks into both buildings.
 
 - *Going past, both hands full.* *"I'm not to stop. She's waiting on this one."*
 - *If anyone gives him money.* *"End room's the tall one's. The dwarf sleeps on her floor,
   not in his. Bath's drawn again before light — she told me to lay the fire tonight so I
   don't have to be up building it."*
 
-**Ivet Sarn** — the weigh-master, at the counter until dark and drinking at it after.
+**[Ivet Sarn](../lore/the-tally-house-and-the-guest-house.md#the-building-settling)** — the
+weigh-master, at the counter until dark and drinking at it after.
 
 - *Once the book is shut.* *"Book's closed. You can throw on the pan now if you're
   throwing."*
-- *If pressed on the outbound cargo.* *"Ore crosses my scale. What goes on at night
-  doesn't, and I'm not asked to be there for it."*
+- *If pressed on the outbound cargo.* *"Ore crosses my scale. There's crates go on at night
+  nobody weighs, and nobody wakes me for them."*
 
 ## The Lapis Writ
 
-*They are packed and they are leaving. Each drifts toward their counterpart —
-Renk to Blackacre, Doruk to Sarric, Issa to Aniess, Bram to Jasper, Calix to Pax.*
+*Full blocks, backstory and the DM-only material:
+[the rival crews → the Lapis Writ](../../maalm/encounters/tavern-rival-crews.md#the-lapis-writ--the-ones-who-won).
+They are packed and they are leaving. Each goes to the PC they are paired with.*
 
-**Setha Renk** — half-elf, the leader, the knife on her belt all evening.
+**[Setha Renk](../../maalm/encounters/tavern-rival-crews.md#setha-renk--half-elf--lapis-writ-leader-blackacres-mirror)**
+— half-elf, the leader, the knife on her belt all evening.
+`↔` **[Blackacre](../../../../characters/blackacre.md)**
 
-- *Intro.* *"Setha Renk, Lapis Writ. Sit — I'm paying tonight, and I won't be here to pay
-  tomorrow."*
-- *The needle.* *"You came in off a wreck with a dead man in the boat. We came in off a
-  finished Valley and we've been twelve days in a room we took for three. Neither of us is
-  where we meant to be. Only one of us is going somewhere in the morning."*
+- *Intro.* *"Setha Renk. Sit down, I'm buying. Make the most of it — I'm gone in the
+  morning."*
+- *The needle.* *"Four tombs, is it? We did the whole Valley. Never left a name on a
+  wall."* *[pours]* *"Four's good going, though."*
+- *On the wait for a boat.* *"Twelve days I've paid for a room I took for
+  three. They'll hold a boat three days for ore. I've asked twice."*
 - *If they ask about the knife.* *[she does not take it off the belt]* *"My mother's
-  house's. It's older than the city you sailed out of. No, you can't hold it."*
-- *If they offer a wager for it.* *"Against that? Then put up something I'd rather have.
-  You've a boat. What else have you got."*
+  house's. Older than the city you sailed out of. No, you can't hold it."*
+- *If they offer a wager for it.* *"Against that? Put up something I'd want more than it.
+  You've a boat."*
 
-**Doruk Pell** — dwarf, the Writ's closer, dark ale, the mug turned slowly between two
-scarred hands. He speaks quietly and he buys.
+**[Doruk Pell](../../maalm/encounters/tavern-rival-crews.md#doruk-pell--dwarf--the-writs-closer-sarrics-mirror)**
+— dwarf, the Writ's closer, dark ale, the mug turned slowly between two scarred hands. He
+speaks quietly and he buys. `↔` **[Sarric](../../../../characters/sarric.md)**
 
-- *Intro.* *"Doruk. Sit down. We're up at first light and I've no wish to spend the last
-  of it standing."*
-- *To Sarric.* *"Somebody died in your hands on the way here."* *[when Sarric says
-  nothing]* *"Don't tell me. I only know the walk."* Then his signature line —
-  [the rival crews](../../maalm/encounters/tavern-rival-crews.md). `[DM]` He is
-  guessing from how Sarric walked in. If he is wrong he says so and buys anyway.
+- *Intro.* *"Doruk. Sit down — we're up at first light and I've been on my feet since the
+  last one."*
+- *To Sarric.* *"You've killed somebody this week."* *[Sarric says nothing]* *"No, don't.
+  I've seen men come through a door like that."* *[pushes a chair out]* *"Sit down. I'll get
+  you a drink."* Then his signature line —
+  [his block](../../maalm/encounters/tavern-rival-crews.md#doruk-pell--dwarf--the-writs-closer-sarrics-mirror).
+  `[DM]` He is guessing from how Sarric walked in. If he is wrong he says so and buys anyway.
 
-**Issa Quib** — halfling, cold to the touch, a tea gone tepid she never finishes.
+**[Issa Quib](../../maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-tomb-walker-aniesss-mirror)**
+— halfling, cold to the touch, a tea gone tepid she never finishes.
+`↔` **[Aniess](../../../../characters/aniess.md)**
 
-- *Intro.* *"Issa. You can shake my hand if you like. People usually only do it once."*
-- *To Aniess.* *"You've had a body with you. Days of it, and it didn't turn."* Then her
-  signature line.
+- *Intro.* *"Issa. Don't shake my hand, I'm cold. Everyone says so."* *[holds it out
+  anyway]*
+- *To Aniess.* *"How many days did you have him aboard?"* *[waits]* *"In that heat. And he
+  didn't turn."* Then her signature line.
 - `[OPEN]` **Whether she works out what kept it.** She is Grave Domain and she can count
   Aniess's slots. Have her ask *"What did you cast on him?"* and the honest answer is the
   small Anubis. Playing it means the Writ's cleric knows the party carry a piece of stone
   the night before their heirloom goes missing, and it costs them the quiet version of the
   theft. Decide before the table sits down, not mid-conversation.
 
-**Bram Hale** — human, warm, matches the party drink for drink and buys his own round.
+**[Bram Hale](../../maalm/encounters/tavern-rival-crews.md#bram-hale--human--writ-muscle-jaspers-mirror)**
+— human, warm, matches the party drink for drink and buys his own round.
+`↔` **[Jasper](../../../../characters/jasper.md)**
 
-- *Intro.* *"Bram Hale. No airs — I'm the muscle, Setha's the blood, and Calix is whatever
-  Calix is. Sit with me, I've one night's drinking left in this town."*
+- *Intro.* *"Bram Hale. I'm the muscle, that's the whole of my job. Sit down — it's my
+  last night here and I'm buying."*
 - *To Jasper.* the recognition and the closer, both in
-  [the rival crews](../../maalm/encounters/tavern-rival-crews.md).
-- *Late, and on the watch.* *"I've the first watch on that gallery
-  tonight, so it's two more and then I'm on water. Come up and talk if you're
-  awake. I'd rather that than the boards."* `[DM]` He means it. He is also the watch, and a
-  party that takes him up on it has to decide what they are doing on that gallery.
+  [his block](../../maalm/encounters/tavern-rival-crews.md#bram-hale--human--writ-muscle-jaspers-mirror).
+- *Late, and on the watch.* *"I've the first watch on that gallery tonight. Two more of
+  these and then it's water for me."* *[at the door]* *"Come up and find me if you're still
+  awake. It's a long stand on your own."* `[DM]` He means it. He is also the watch, and a
+  party that takes him up on it has to say what they are doing on that gallery.
 
-**Calix Vire** — elf, flat, the coin, the toad in his palm.
+**[Calix Vire](../../maalm/encounters/tavern-rival-crews.md#calix-vire--elf--writ-pathfinder-paxs-mirror)**
+— elf, flat, the coin, the toad in his palm. `↔` **[Pax](../../../../characters/pax.md)**
 
-- *Intro.* *[flips it, reads it, pockets it]* *"It says you're worth the trouble tonight.
-  It said otherwise about the last three that sat there."*
+- *Intro.* *[flips it, reads it, pockets it]* *"Says you're worth the trouble."* *[pockets it]*
+  *"Last three that sat there, it said no."*
 - *On the boat.* *"I asked it whether we'd sail. It came up sail. So we sail."*
 - *To Pax.* *"You hear it too — the voice. No? Huh. It told me you would. Give it time."*
 - `[run]` **Use the toad once.** It murmurs, he tilts his head at nothing and answers it,
-  and the conversation carries on. Do not explain it.
+  and the conversation carries on. Do not explain it. It is
+  [Preem's quasit](../../../../characters/preems-demons.md).
 
 ## The Brass Jackals
 
-*Broke, and not leaving. They talk about the Writ going all evening.*
+*Full blocks:
+[the rival crews → the Brass Jackals](../../maalm/encounters/tavern-rival-crews.md#the-brass-jackals--the-ones-it-costs).
+Broke, and not leaving. They talk about the Writ going all evening.*
 
-**Veska Tull** — human, the leader, one cheap drink made to last.
+**[Veska Tull](../../maalm/encounters/tavern-rival-crews.md#veska-tull--human--brass-jackals-leader-doruks-cross-crew-mirror)**
+— human, the leader, one cheap drink made to last.
 
-- *Intro.* *"Veska. Sit with the half of the room that's still here tomorrow."*
-- *If she will talk in front of the room.* *"They're on a boat at first light and we're on this bench. If anything were
-  to happen to their evening, the whole room would be standing here looking sorry about it
-  together."*
+- *Intro.* *"Veska. Sit down. That lot won't talk to you, and we've nothing on till we
+  find a boat."*
+- *The offer, if she will make it in front of the room.* *"They go at first light."* *[looks at the room]*
+  *"Hundred men in here and not one of them likes that lot."*
 - *If she warms.* the Sunne line —
-  [the rival crews](../../maalm/encounters/tavern-rival-crews.md).
+  [her block](../../maalm/encounters/tavern-rival-crews.md#veska-tull--human--brass-jackals-leader-doruks-cross-crew-mirror).
 
-**Hadda Vimm** — dwarf, the quartermaster, pricing the party's gear out of habit.
+**[Hadda Vimm](../../maalm/encounters/tavern-rival-crews.md#hadda-vimm--dwarf--brass-jackals-quartermaster)**
+— dwarf, the quartermaster, pricing the party's gear out of habit.
 
-- *Intro.* *"Hadda. I keep the coin, so I'm the sober one. There isn't any coin, so it's
-  not hard."*
-- *On how the Writ got the berth.* *"That berth cost more than this crew has made in a year and it was found for
-  them in a day. Somebody found it for them. Ask yourself who's paying to have them at
-  that Hunt on time."*
+- *Intro.* *"Hadda. I keep the book and the coin. There's more book than coin."*
+- *On how the Writ got the berth.* *"We priced that berth. It's a year of us."* *[drinks]*
+  *"Somebody found them one in a day."* **Then she stops.** Pressed: *"I keep the book.
+  That's all I've got to say about it."* `[DM]` Do not let her finish the thought. The
+  party work it out or nobody does.
 
-**Sefi** — halfling, a kid in too-big kit, drinking what Hadda waters.
+**[Sefi](../../maalm/encounters/tavern-rival-crews.md#sefi--halfling--brass-jackals-scout)**
+— halfling, a kid in too-big kit, drinking what Hadda waters.
 
-- *Intro.* *"You're collecting names too? Real ones? I'm the scout. First one into the dark,
-  that's my job now."*
-- *Watching the Writ.* *"They've a berth and we haven't. Veska says we'll walk it. It's
-  four hundred miles."* *[bright again]* *"I'd walk it."*
-- *If the party are kind.* the Riska line — [the rival
-  crews](../../maalm/encounters/tavern-rival-crews.md).
+- *Intro.* *"You're collecting names too? Real ones? I'm the scout. I go in first — down
+  the shaft, down the stairs, whatever's first."*
+- *Watching the Writ.* *"Veska says we'll walk it if we have to. It's four hundred
+  miles. She's not joking."* *[bright again]* *"I'd walk it."*
+- *If the party are kind.* the Riska line —
+  [her block](../../maalm/encounters/tavern-rival-crews.md#sefi--halfling--brass-jackals-scout).
 
-**Mogg** — half-orc, up on the bench, the biggest cup in the house.
+**[Mogg](../../maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)**
+— half-orc, up on the bench, the biggest cup in the house.
 
-- *Landing the joke as they come in.* *"—and* that's *how you lose a war and win the
-  telling of it."* *[to the party, dry]* *"Mogg. You'll want the end of it. The end costs a
-  drink. Everything worth hearing does."*
-- *Quieter, off the bench.* *"I do what a big man gets hired to do. But I feel every bit of
-  it. That's the part I won't sell."*
-- `[DM]` **Doruk is drinking twenty feet away** and burned the ports Mogg's kin were
-  settled in. Neither of them knows.
+- *Landing the joke as they come in.* *"—and they've been telling it wrong for three
+  hundred years."* *[to the party, dry]* *"Mogg. You'll want the end of it. The end costs a
+  drink."*
+- *Quieter, off the bench.* *"They hire me to hurt people. I'm good at it. I don't sleep
+  much."*
+- *If asked why he tells the old stories.* *"Everybody who knew them is dead. So it's me
+  telling them."*
 
-**Pim Riddle** — gnome, bandolier of his own bottles, the centipede in a sleeve.
+**[Pim Riddle](../../maalm/encounters/tavern-rival-crews.md#pim-riddle--gnome--brass-jackals-alchemist--trap-breaker)**
+— gnome, bandolier of his own bottles, the centipede in a sleeve.
 
-- *Intro.* *"P-Pim. Pim Riddle. Alchemist — real one, or was, I— you don't want the
-  house stuff, here—"* *[two flasks out, checks the wrong one, swaps them]* *"—no,* that
-  *one."*
-- *If they ask what he does about locks and trigger-stones.* *"There's a bottle for down,
-  a bottle for the hands, and a bottle for the dreams after. Works every time. That's the
-  funny part."*
+- *Intro.* *"P-Pim. Pim Riddle. Alchemist — real one, or was, I— you don't want the house
+  stuff, here—"* *[two flasks out, checks the wrong one, swaps them]* *"—no,* that *one."*
+- *If they ask what he does about locks and trigger-stones.* *"Bottle for the dark, bottle for the hands.
+  Bottle for the dreams after. That one I made last."*
+- `[DM]` The centipede is [Preem's](../../../../characters/preems-demons.md) too, and Pim
+  takes the voice for his own chemistry.
+
+## The fight — Doruk and Mogg `[run]`
+
+**Both crews will brawl on little provocation**
+([the rival crews](../../maalm/encounters/tavern-rival-crews.md)), and this is what is
+between them: [Doruk](../../maalm/encounters/tavern-rival-crews.md#doruk-pell--dwarf--the-writs-closer-sarrics-mirror)
+was a powderman who burned out the orc quarters of the Suartleheim ports.
+[Mogg](../../maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)'s
+kin died in those burnings. [Veska](../../maalm/encounters/tavern-rival-crews.md#veska-tull--human--brass-jackals-leader-doruks-cross-crew-mirror)
+preached the sermons that called for them, and walked away from the Church over it.
+**None of the three knows what the other two did.** They are drinking twenty feet apart.
+
+### What sets it off
+
+- **Mogg's saga.** He tells Hjörungavágr, the dwarves come off badly, and Doruk answers
+  from his table. Doruk does not shout and does not deny anything.
+- **A PC says it.** Anyone who has drawn Doruk's story out of him and then repeats it
+  where Mogg can hear has started this on purpose.
+- **The wager.** Renk staking the knife draws the whole room in, and the Jackals are broke
+  and watching aristocrats gamble.
+- **Sefi.** Someone shoves the kid.
+
+### The lines
+
+- **Mogg** says only: *"Say the name of the town."* And when Doruk says it: *"Say it
+  again."*
+- **Doruk** does not stand up and does not put the mug down. *"Sukkek. And two others
+  after it. I'll not lie about it to a man who's owed the truth."*
+- **Veska** can stop it, and stopping it means saying out loud what she was. *"Mogg."* `[OPEN]` whether she says the second sentence. Her whole
+  cover is that the Church believes she died in that fire.
+- **Renk** stops Doruk with one word — *"Doruk."* — and he stops. She sails in the morning
+  and cannot be in a magistrate's book tonight.
+- **Dorn** puts them out of his house rather than break it up. *"Not in here."*
+
+### How to run it
+
+**A brawl, not a fight to the death.** Fists, benches, mugs; damage is nonlethal unless a
+PC makes it otherwise. Nobody at the Writ's table wants a corpse the night before a boat.
+
+- **Doruk** — Battle Master Fighter 3, 4d8 superiority dice, **Trip Attack** and
+  **Menacing Attack** are what he uses in a room like this. Darkvision 60 feet. He fights
+  without anger, and he stops when he is told to.
+- **Mogg** — big, Fighter 3, and **Relentless Endurance** drops him to 1 hit point instead
+  of 0 once per long rest. He does not stay down.
+- **The room takes sides.** Dock crews back the Jackals because the Writ have never bought
+  a round for anyone but themselves.
+
+### What it is worth to the party
+
+**The brawl empties the guest house.** Bram leaves the gallery to pull Doruk off, the
+upper floor comes down to watch, and Yessa is out from behind her counter with everyone
+else. That is several minutes with the south stair unwatched. The only other unwatched
+stretch is the bath at dawn.
+
+Which means a party that has worked out what Doruk did can start it. `[run]` **Let them,
+and do not soften what they are doing** — they are starting a fight over Mogg's dead kin
+to empty the gallery.
+Do not comment on it at the table; [Mogg](../../maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)
+is still bleeding on the floor afterwards, and he bought them a drink earlier in the
+evening.
+
+### Afterward
+
+- **[Halder Quinn](../lore/the-tally-house-and-the-guest-house.md#if-they-are-caught-loose)** is
+  the Company magistrate and a brawl is his. Nobody is held long unless a knife came out.
+- **A knife coming out changes the night.** The Writ cannot have a member in the lock-up
+  with a boat at first light, and Renk will pay whatever it takes to get him out.
+- `[OPEN]` Whether Veska gave herself away, and who heard it.
 
 ## The guest house — Yessa Letap
 
@@ -463,8 +551,8 @@ a three-day price and has been told twice to bill the Company.*
   wake up."*
 - *Who is in what room.* She will say, and how long, and that they are going in the
   morning. She will not take a key off the board.
-- *The bath.* *"I'm drawing it again before light. They'll want it before a boat and I'll
-  not hear the end of it if it's cold."*
+- *The bath.* *"Bath's drawn again before light. They'll not get on a boat cold and tell
+  me about it."*
 - *What she will not do.* Go up the outside stair after dark, hear the gallery from behind
   her counter, or lie to Halder Quinn's face afterward.
 

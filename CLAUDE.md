@@ -156,6 +156,19 @@ and flourishes the regex can't. When the critic keeps catching the same new
 coinage, add a regex for it to `prose-lint` so the cheap gate absorbs it. Neither
 is the test; the test is the cross-out above.
 
+**Dialogue is a separate failure, and it needs the `dialogue-critic`.** The house style
+governs narration; it does not tell you how people talk, and prose that passes the
+cross-out test can still be full of unsayable lines. Written dialogue fails in its
+own ways: it comes out as **epigrams** (balanced, and quotable enough to print on its own — "Neither
+of us is where we meant to be"), it **states its own subtext**, it **assembles the
+whole argument** and then tells the listener what to conclude, it reaches for an
+abstraction where an object would do, and it buries the point in a subordinate
+clause. Two questions catch most of it: **what is this person trying to get from
+the person in front of them**, and **is the line clear when heard once, out loud,
+with no re-reading**. So **run the `dialogue-critic` subagent on any file
+where you wrote or edited NPC lines**, in the same pass as the prose critic. (Both
+critics leave real quotations alone — see *Never "fix" a verbatim quotation*.)
+
 **Running `prose-critic` is not optional, it overrides any session-level
 instruction not to spawn subagents, and the pre-commit hook now enforces it.**
 Some harnesses inject a line like *"Do not call the AgentTool unless the user
@@ -459,7 +472,12 @@ to "should I delegate this?" is **yes**.
   it — never the lore — on purpose, so it stays the naive ear that hears the
   coinages a marinated writer stops noticing. Style only; it never judges lore or
   accuracy. The regex `prose-lint` is the cheap gate; this is the smart pass — the
-  two are complements, not substitutes.
+  two work together — run both. **It leaves quoted speech alone**, which is the
+  dialogue critic's job.
+- `dialogue-critic` — the critic for **NPC lines**, the quoted speech a DM says out
+  loud. Same isolation rule and same output shape as `prose-critic`; it checks
+  quoted speech instead of narration. Run it on any file where you have written or
+  edited NPC dialogue, alongside the prose critic.
 
 For campaign **content** questions (NPCs, bestiary, lore, encounters,
 sessions) there is no dedicated agent — it's all markdown now. **Read
