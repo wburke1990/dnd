@@ -20,9 +20,9 @@ Raand, Copaa, Aar and the Haals mines.
 
 | File | Status | What it is |
 |---|---|---|
+| [the godstone dagger](encounters/the-godstone-dagger.md) | `next` | Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar |
 | [the run to copaa](encounters/the-run-to-copaa.md) | `next` | The next session's packet — off the Nasira, down the coast to Aar, and up the canal to Copaa |
 | [the haals runoff](encounters/the-haals-runoff.md) | `ready` | A Company mine poisoning the watershed below Haals |
-| [the godstone dagger](encounters/the-godstone-dagger.md) | `draft` | Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar |
 | [the mines of haals](encounters/the-mines-of-haals.md) | `draft` | The workings under the Company mine, where each level down is an older time |
 
 ### Bestiary

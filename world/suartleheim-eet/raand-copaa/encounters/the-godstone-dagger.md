@@ -1,19 +1,24 @@
 ---
 summary: Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar
-status: draft
+status: next
 ---
 
-# The Godstone Dagger — the peseshkef at Aar `[draft / new — Will 8/25]`
+# The Godstone Dagger — the peseshkef at Aar
 
+> **Started at the table in [session 12](../../../../sessions/session-12.md).** The noon
+> scene at the watch-stone is run — Aniess and Beartholomew traded the countersign and the
+> session ended there. **Pick up at the Tally House porch**, §1, second scene.
+>
 > **DM reference.** The party put in at **[Aar](../lore/aar.md)** on their way inland to
 > **[Copaa](../lore/copaa.md)** ([the run to Copaa](the-run-to-copaa.md) §4 and §5).
 > **[Beartholomew](../../../../characters/beartholomew.md)** — from
-> **[Aniess](../../../../characters/aniess.md)**'s cohort in the Order — is embedded at the
+> **[Aniess](../../../../characters/aniess.md)**'s cohort in the Order — is posted at the
 > port and cannot leave it. He asks the party to steal an **Amseh ceremonial blade** off a
 > wealthy Maalm name-hunter and carry it upriver for him. The blade is **godstone**, and
-> carrying it next to Aniess's **small Anubis** shows her what the statue is made of. One
+> carrying it next to Aniess's **small Anubis** is how she learns the statue is godstone
+> too. One
 > session at Aar, then a scene on the canal and a scene at Copaa. Party level ~3. Run it as
-> a theft. Legend: `[settling]` · `[loose]` · `[OPEN]`.
+> a theft. Status tags used below: `[settling]` · `[loose]` · `[OPEN]`.
 
 ---
 

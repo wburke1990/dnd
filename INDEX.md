@@ -227,9 +227,9 @@ Raand, Copaa, Aar and the Haals mines.
 
 | File | Status | What it is |
 |---|---|---|
+| [the godstone dagger](world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) | `next` | Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar |
 | [the run to copaa](world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md) | `next` | The next session's packet — off the Nasira, down the coast to Aar, and up the canal to Copaa |
 | [the haals runoff](world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) | `ready` | A Company mine poisoning the watershed below Haals |
-| [the godstone dagger](world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) | `draft` | Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar |
 | [the mines of haals](world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` | The workings under the Company mine, where each level down is an older time |
 
 ### Bestiary
@@ -372,7 +372,7 @@ Sailing, weather, fleets and what lives in the water.
 | [session 09](sessions/session-09.md) | `played` | Gates Five and Six, the Hall of Two Truths, and Ammit eats Ghassan's heart |
 | [session 10](sessions/session-10.md) | `played` | V.'s offer at the coffeehouse, the docks, and the lost map at Preem's tower |
 | [session 11](sessions/session-11.md) | `played` | Ship's roles handed out, then the burning wreck outside Maalm and the merfolk fight |
-| [session 12](sessions/session-12.md) | `played` | Below the Nasira, Rustam killed to end the sepsis, and his body dragged to his brother's door |
+| [session 12](sessions/session-12.md) | `played` | Rustam killed to end the sepsis, and his body dragged through Aar to his brother's door |
 | [player messages earth dreams](sessions/player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 ## references
