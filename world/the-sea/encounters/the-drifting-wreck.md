@@ -1,20 +1,22 @@
 ---
 summary: A burned food ship adrift, merfolk stripping her, and the man who told Sayid where to find Blackacre
-status: ready
+status: played
 ---
 
 # The Drifting Wreck
 
-> **Run in session 11, and unfinished** — see
-> [session 11](../../../sessions/session-11.md). The party fought the merfolk on deck and
-> killed five, one got away, and nobody has reached Rustam. Pick up at §5.
+> **Run and finished.** [Session 11](../../../sessions/session-11.md) was the merfolk
+> fight on deck; [session 12](../../../sessions/session-12.md) was the hold, Rustam, and
+> the body. Blackacre's player was absent for §6, so Rustam recognizing him never
+> happened and the party carry that to him second-hand. Sarric killed Rustam to end the
+> sepsis, and the body went to Ruslan in Aar rather than into the sea.
 >
 > **How to use this doc.** Two parts. **Part One is background** — read once in prep,
-> not needed at the table. **Part Two is the run sheet**, in play order: what they see,
-> hear, smell and feel, what Rustam says, and the rolls. Run the session from Part Two.
+> not needed at the table. **Part Two is the run sheet**, in play order: what is
+> present, what Rustam says, and the rolls. Run the session from Part Two.
 
 An open-water encounter for [Blackacre](../../../characters/blackacre.md), out of Sam's
-8/17 chat. **Sayid is not in it.** What is in it is a ship he took and the one survivor.
+8/17 chat. **Sayid is not in it.** The encounter is a ship he took and its one survivor.
 
 **Run it on the party's first day out of Maalm, in sight of the coast** — see the
 [run to Copaa](../../suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md) §1.

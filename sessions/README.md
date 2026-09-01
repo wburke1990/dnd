@@ -117,7 +117,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [session 09](session-09.md) | `played` | Gates Five and Six, the Hall of Two Truths, and Ammit eats Ghassan's heart |
 | [session 10](session-10.md) | `played` | V.'s offer at the coffeehouse, the docks, and the lost map at Preem's tower |
 | [session 11](session-11.md) | `played` | Ship's roles handed out, then the burning wreck outside Maalm and the merfolk fight |
-| [session 12](session-12.md) | `played` | Below the Nasira — the sawn masts, the five cut up in the hold, and Rustam found |
+| [session 12](session-12.md) | `played` | Below the Nasira, Rustam's death by Sarric's knife, and the body carried to his family |
 | [player messages earth dreams](player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 <!-- END GENERATED INDEX -->
