@@ -3,7 +3,7 @@ summary: Plot seeds for Preem's rival crews after the Valley
 status: idea
 ---
 
-# Rival rival crews — plots past the Valley
+# Rival crews — plots past the Valley
 
 These carry the rival crews past the tomb race and into the rest of the
 campaign. The Valley is done; the crews aren't. The rivalry runs on money
