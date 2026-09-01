@@ -103,8 +103,8 @@ Full scene, with the canting songs and what he will and will not answer:
 
 Five things a party can pick up in an evening without asking for any of them:
 
-- **What boats are due, and when.** Every man on the basin knows. This is where the party
-  get their number of days before the Writ's berth north comes in.
+- **What boats are due, and when.** Every man on the basin knows. **The Writ's berth north
+  came alongside this afternoon and sails on the morning ebb**, and the room is saying so.
 - **The Writ have been twelve days in a building they took for three**, and Renk told
   Yessa to bill the Company.
 - **The tomb-lepers.** Copaa's driven-out people came down the towpath in the spring and
@@ -163,7 +163,7 @@ side of the wall.
 open all night. Her door has the DC 15 lock. The shutter has none.
 
 **Calix wards the gallery with *Alarm* as a ritual** when it occurs to him, which is not
-every night. Eight hours, and the ping reaches him within a mile whether or not he is
+every night. Eight hours, and the alarm reaches him within a mile whether or not he is
 asleep.
 
 ## Yessa, and what she will do `[settling]`
@@ -175,10 +175,9 @@ send the bill to the Company office.
 So she is not in a hurry to be useful to them. She will:
 
 - **Let the sixth room**, to anyone with the money, without mentioning it to the floor.
-- **Say which room is whose**, and how long they are staying, and that the boat has not
-  come.
+- **Say which room is whose**, and that they are gone in the morning.
 - **Tell anyone who asks when the bath is heated**, because it is her copper and her wood
-  and she resents both.
+  and she resents both. **She draws it again before first light** for the ones sailing.
 - **Not go up the outside stair after dark**, and not hear the gallery from behind her
   counter.
 
@@ -218,7 +217,7 @@ the canal and not out to sea.
 ## Open threads
 
 - `[OPEN]` What Dorn and Yessa fell out over. The wine licence is the version above; a debt
-  or a death would also carry it.
+  or a death would work as well.
 - `[OPEN]` Whether Timo can be paid, and by whom. He is the one person who goes in and out
   of both buildings and up the outside stair with a bottle.
 - `[OPEN]` Whether the party take the sixth room, which puts them on the gallery with a key

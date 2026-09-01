@@ -154,9 +154,9 @@ no hatred of demons ([Kuru & the phoenix](../../../kuru/lore/kuru-and-the-phoeni
 **It is not a weapon.** A peseshkef is a blunt forked implement for touching a dead man's
 face, and this one has been worn rounder still. It has no attack or damage bonus and no
 plus of any kind. Anyone determined to stab with it is using an improvised weapon for 1d4,
-which counts as magical and is otherwise a bad idea.
+which counts as magical.
 
-Everything it is worth having is below.
+What it does is below.
 
 ### What it does — the rite `[settling]`
 
@@ -189,9 +189,9 @@ of embalming ([the Amseh afterlife](../../maalm/lore/egyptian-afterlife-mytholog
 **Gentle Repose, as a ritual, at will, no slot.** Touch a body and for ten days it does not
 rot and cannot be raised as undead.
 
-- It is the mechanical partner to the knife: *Speak with Dead* needs a mouth, and this is
+- It is used with the knife: *Speak with Dead* needs a mouth, and this is
   what keeps there being one.
-- It lets the party **carry a corpse to ask it later**, which is its own kind of scene.
+- It lets the party **carry a corpse to ask it later**.
 - **It stays worth having after Aniess can cast it.** Nobody prepares Gentle Repose
   speculatively — you want it the moment you find a body, which is the one moment it is not
   on your list.
@@ -224,7 +224,7 @@ What that decides:
 - **She has Thieves' Cant.** Rogue 1 gives it, so the countersign with Beartholomew works as
   written ([canting songs](../../../../handouts/canting-songs.md)).
 - **She does not have Cunning Action.** That is Rogue 2. She cannot Dash, Disengage or Hide
-  as a bonus action, which is the single biggest thing to know before she goes up the
+  as a bonus action, which matters if she goes up the
   gallery. Her Sneak Attack is 1d6 and stays there.
 - **She can already find the quasit.** *Detect Evil and Good* is a 1st-level cleric spell,
   a quasit is a fiend, and the spell gives its **location** whether or not it is invisible —
@@ -282,11 +282,16 @@ not know when the berth will come.
 party drink with these people before they rob them. Each Writ member is paired with a PC,
 and **Issa Quib is Aniess's counterpart.**
 
-## 4 · The clock `[settling]`
+## 4 · The clock `[settled — Will 9/1]`
 
-**Their boat north.** Beartholomew knows what is coming into the basin and when, so the
-party can be given a number of days. Two or three is right. When the boat comes, Renk goes
-aboard wearing it.
+**Their boat north came alongside the afternoon the party made landfall, and she sails on
+the morning ebb.** So the party get one night. Renk goes up the gangway at first light
+wearing the knife.
+
+After dark the knife comes off her belt once, at the **bath house before dawn** — Yessa
+draws it again for the ones sailing, and the belt goes on the bench. Beartholomew knows
+which boats are in the basin and when they sail, so he tells them the hour. The evening is
+written out in [the run to Copaa](the-run-to-copaa.md), Part Two.
 
 ## 5 · Taking it `[loose]`
 
@@ -350,17 +355,16 @@ instrument for asking the dead directly — along with, in the same pack, the st
 its other half. She is being asked to carry it three days up a canal, and Ottmar Lisk at the
 far end has never seen it.
 
-The pull is not a bigger number on an attack roll. It is that this is the exact tool she was
-made to go and get.
+The knife adds nothing to an attack roll. It does the work the Order trained her for:
+getting names off the dead.
 
-`[OPEN]` **Does she find out what it does before Copaa or after?** Before, and the delivery
-is a real decision made with everything on the table. After, and the delivery is clean and
-the regret arrives later. Both are good scenes; they are not the same scene.
+`[OPEN]` **Does she find out what it does before Copaa or after?** Before, and she hands it
+over knowing what it does. After, and she finds out once it is gone. Pick one before the
+session.
 
 Beartholomew asks **Aniess**, by name, in front of the party. The Order has not given her an
 order since Maalm, and her being on this coast at all was her own choice. Play him as a
-friend asking a friend, and ask Greg for his answer at the table. Do not ask twice; he
-Do not ask twice.
+friend asking a friend, and ask Greg for his answer at the table. Do not ask twice.
 
 ## 10 · Afterward `[OPEN]`
 
@@ -404,9 +408,9 @@ he does it. There is no version where he does this from the wharf. And the echo 
 **of him**, one hit destroys it, and it cannot lift or carry anything, so the knife has to
 come out in his own hands.
 
-**Which is exactly the problem.** A seven-foot bear-man on the Lapis Writ's gallery at three
-in the morning, on the night their heirloom goes missing, in a port where he is the most
-identifiable person alive. **Have him offer it anyway** when a player asks, because a player
+**And then he has been seen.** A seven-foot bear-man on the Lapis Writ's gallery at three
+in the morning, on the night their heirloom goes missing, in a port where he is the only
+bear-man. **Have him offer it anyway** when a player asks, because a player
 will:
 
 > *"I can put myself in that room. I have to be standing under the window to do it. And then
@@ -424,7 +428,7 @@ more to them than one knife. Let them choose with that said out loud.
   sleep by magic. *Sleep* and *Charm Person* are bad plans.
 - **Cutting Words** (reaction, 60 feet, spends a Bardic Inspiration die) — subtract d6 from
   a creature's attack roll, ability check, or **damage roll**. An ability check includes
-  Sleight of Hand and Stealth. This is the needle with a number on it.
+  Sleight of Hand and Stealth. This is how the Writ take a d6 off a theft roll.
 - Expertise, Jack of All Trades, and 2nd-level slots: *Suggestion*, *Invisibility*,
   *Charm Person*, *Disguise Self*, *Detect Magic*.
 - She has read her own knife with *Detect Magic* at some point. It registers, which is
@@ -436,7 +440,7 @@ more to them than one knife. Let them choose with that said out loud.
 - **Locate Object** (2nd level) — she has seen the peseshkef inside 30 feet, so she can
   find it: the nearest such object **within 1,000 feet**, concentration up to 10 minutes.
   **A thin sheet of lead blocks it.**
-- So the getaway is a real problem with a real answer. Get more than 1,000 feet out, or
+- The getaway has an answer. Get more than 1,000 feet out, or
   wrap it in lead — and Aar is an ore port with lead sheet lying on the wharf. The canal
   is the way out of range.
 - **Lucky** (reroll a 1 on any attack roll, ability check or save) and **Brave**. Lightfoot
@@ -444,7 +448,7 @@ more to them than one knife. Let them choose with that said out loud.
 - Also *Bane*, *Command*, *Silence*, *Hold Person*, and Channel Divinity.
 
 **[Calix Vire](../../maalm/encounters/tavern-name-hunter-crews.md) — elf, Wizard 3 (School
-of Divination).** The worst news in the building.
+of Divination).** The hardest of the Writ to get past.
 
 - **Elves do not sleep.** He trances four hours, so half of any night has him awake.
 - **Portent** — two d20s rolled after each long rest, which he can use to **replace an
@@ -454,7 +458,7 @@ of Divination).** The worst news in the building.
   if he could they would already be caught. It is a threat in the open: the wager for the
   knife, a Deception or Persuasion check across a table, a save once a fight starts, or the
   chase after they are spotted. **Save at least one die for the wager** — he can hand Renk a
-  19 or hand the party a 3, and nobody at the table will know why.
+  19 or hand the party a 3. Do not tell the table the die was spent.
 - **Alarm**, cast as a ritual, so it costs him no slot to ward a door, a window, or a
   20-foot cube of gallery for 8 hours. The mental ping reaches him within a mile **and wakes
   him if he is asleep** — and he does not sleep anyway. This, and the quasit, are what
@@ -468,7 +472,7 @@ of Divination).** The worst news in the building.
 Riposte, Trip Attack and Menacing Attack.
 
 **[Bram Hale](../../maalm/encounters/tavern-name-hunter-crews.md) — human, Fighter 3
-(Champion).** No darkvision, and he takes the first watch. That is the window.
+(Champion).** No darkvision, and he takes the first watch. That is the hour to move.
 
 ## Connections
 

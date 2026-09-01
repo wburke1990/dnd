@@ -83,19 +83,19 @@ change places.
 He can attack from its space, take opportunity attacks from it, and **Unleash Incarnation**
 gives him one extra melee attack from it, CON modifier times per long rest.
 
-**What it cannot do.** Go through a wall. Leave his 30-foot leash. Lift a crate, turn a
-key, or carry anything out — it is an image. *(Seeing and hearing through it at range is
+**What it cannot do.** Go through a wall. Go more than 30 feet from him. Lift a crate, turn
+a key, or carry anything out — it is an image. *(Seeing and hearing through it at range is
 **Echo Avatar**, a 7th-level feature. He is not 7th level.)*
 
 **And it is an image of him.** Anyone who sees it has seen a seven-foot bear-man. So the
-echo gets him over a wall or through a window he is already standing at, and it does not
-get him anywhere from a safe distance.
+echo gets him over a wall or through a window he is already standing at, and anywhere he
+sends it he has been seen.
 
 ## How to play him `[settling]`
 
 He asks for what he wants first. He calls Aniess by her name rather than her designation.
 
-**He drinks, and it is how he is with people.** He buys. He gets slower and easier as he
+**He drinks with people rather than talking to them sober.** He buys. He gets slower and easier as he
 drinks, and he can drink a great deal. He tells the same three stories and does not mind
 being told he has told them.
 
@@ -117,7 +117,7 @@ Beartholomew is one of those friends, and **he remembers that night.**
 So he raises it over the first drink. He has no idea it is gone.
 
 - **Keep the details his.** Let him tell it and do not fill in what Aniess did — that
-  night is Greg's, and the loss is his to play. She cannot confirm a word of it.
+  night is Greg's, and Greg decides how she answers. She cannot confirm a word of it.
 - **Do not make it a scene about the loss.** He is telling Aniess a story about a good
   night they had.
 - `[OPEN]` Whether Greg wants her to say she does not remember, and what Beartholomew does
@@ -128,7 +128,8 @@ So he raises it over the first drink. He has no idea it is gone.
 The **peseshkef** on Setha Renk's belt in the guest house
 ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)),
 carried up the canal to his man at Copaa. He has seen it in the port. He cannot leave his
-post to take it and he cannot carry it upriver, and Renk's boat north comes in a few days.
+post to take it and he cannot carry it upriver, and **Renk's boat north is alongside now and
+sails on the morning ebb**. He wants it taken tonight.
 
 ## Open threads
 
