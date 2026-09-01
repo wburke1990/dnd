@@ -122,7 +122,7 @@ Rising sea and one hard night of watches is enough.
 to the Sacred Hunt and do not stop for Copaa. **The party's sloop is the faster boat and
 gets to Aar ahead of them,** so the parting happens at sea or in the basin and the convoy
 carries on up the coast. The hunters are not who the party drink with at Aar; the rival
-rival crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and
+crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and
 whether Cassia is still on the coast when they do.
 
 ## 4 · Landfall — Aar  `→` [aar.md](../lore/aar.md)
