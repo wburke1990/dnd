@@ -456,13 +456,19 @@ Aar is several days off and this is a hot coast, so the choice has a clock on it
 - **Days three and four.** The skin slips off in sheets when he is handled. The swelling
   peaks. If the gas has nowhere to go the belly splits.
 
-Bodies do not explode. They swell, they leak, and they rupture. The practical answer is
-that by the second morning nobody aboard can stand it, and the party bury him at sea after
-all — which is the one thing he asked them not to do.
+Bodies do not explode. They swell and leak, and the belly ruptures. By the second morning
+the smell fills the deck, and the party bury him at sea after all — which he asked them
+not to do.
 
 **Gentle Repose stops all of it.** Ten days, no decay, and the days do not count against a
-raise. It is the difference between keeping a promise to a dying man and breaking it
-because of the smell.
+raise. With it, the body keeps to Aar; without it, the party bury him at sea.
+
+### What happened at the table `[ruled 9/1]`
+
+**Aniess used Purify Food and Drink on the body instead**, and William allowed it to slow
+the decay — one cast, and it held the rest of the passage to Aar. **The Anubis statue
+never came up.** Gentle Repose from the statue is still untested, and the scene below is
+still available the next time a body has to keep.
 
 ⚠️ **Nobody in the party can cast it.** It is a 2nd-level **cleric/wizard/paladin** spell.
 Sarric is a ranger and does not get it; Blackacre is a druid and does not get it; Aniess is
@@ -470,11 +476,11 @@ Sarric is a ranger and does not get it; Blackacre is a druid and does not get it
 **the small Anubis in Aniess's pack**, which grants it as a ritual at will
 ([the godstone dagger](../../suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
 
-`[run]` **This is the scene where the statue stops being a prop.** It has been a keepsake
-since the Dream Quest and nobody has tested it. Anubis is the god of embalming, and the
-first thing it is ever asked to do is keep a man out of the water he did not want to go
-into. **Pax's Glasses of Detect Magic** are the natural way in — he looks at the statue and
-it reads as necromancy — or let an Arcana or Religion check on it land. Hold the reveal of
+`[run]` **The statue gets used here for the first time.** It has been a keepsake since the
+Dream Quest and nobody has tested it. Anubis is the god of embalming, and it is used here
+to preserve a body so it is not buried at sea. **Pax can use his Glasses of Detect
+Magic** — he looks at the statue and it reads as necromancy — or let an Arcana or Religion
+check on it land. Hold the reveal of
 what it is *made of* for Aar; here they only learn what it *does*.
 - **Salvage.** One crate of fruit and what cordage they can cut down. Enough to clear
   one hull box, and no coin.
@@ -486,17 +492,23 @@ what it is *made of* for Aar; here they only learn what it *does*.
 
 ### Afterward, in Aar
 
-If the party carry the news, **Ruslan** is at the house by the water stair, and he is the
-one who explains what his brother would not. He is a Company man: their flag, their
+If the party carry the news, **Ruslan** is at the house by the water stair, and he explains
+the Company arrangement Rustam refused to describe. He is a Company man: their flag, their
 convoys, their cut of everything he moves, and the Mukka privateers leaving Company hulls
 alone because the Company buys the marques. He has had this argument with Rustam for
 years, and now his brother is dead.
 
-What he can give the party: the name of the arrangement and who holds it in Aar, what a
-Company flag costs, and a debt to whoever brought his brother home. What he cannot tell
+What he can give the party: what the Company sells and to whom, who holds the arrangement
+in Aar, what a Company flag costs, and a debt to whoever brought his brother home. What he cannot tell
 them is that none of it would have stopped Sayid.
 
 Run it whenever they reach Aar. It is a short scene and it does not need prep.
+
+**How it actually opened `[9/1]`.** Aniess brought the body uncovered through the streets
+and knocked. Ruslan's daughter opened the door and screamed, the wife came out to the
+screaming, then the servants, then Ruslan. Aniess left without telling them who he was or
+how he died. So Ruslan's scene now starts with a household that has a body, no account of
+it, and one person they can name — Aniess.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-summary: Below the Nasira, Rustam's death by Sarric's knife, and the body carried to his family
+summary: Below the Nasira, Rustam killed to end the sepsis, and his body dragged to his brother's door
 status: played
 ---
 
 # Session 12 — Below the *Nasira*
-## The sawn masts, the crew in the hold, and what they did with Rustam
+## The sawn masts, the crew in the hold, and Rustam carried to Aar
 
 > Live table notes. Picks up [the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md)
 > at §5, where [session 11](session-11.md) left off with the merfolk dead and nobody yet
@@ -56,8 +56,8 @@ improve.
   closed. The sepsis was unchanged.
 
 `[DM]` The run sheet's ruling — *do not let magic cure the leg or the infection* — held
-at the table without argument. They spent the spells, they watched it not work, and they
-stopped.
+at the table without argument. They spent the spells and stopped when
+nothing changed.
 
 ## Sarric kills him
 
@@ -71,11 +71,9 @@ where it is, and asked for his brother Ruslan in Aar to be told.
 **Sarric, Jasper and Pax wanted to throw him overboard.** **Aniess threatened to fight
 them over it, and she won.** Greg did this unprompted; it was not in the prep.
 
-**They carried the body to his family.**
+**They kept the body and sailed for Aar.**
 
-`[TODO]` How they dropped it off.
-
-## Two days at sea
+## Two days at sea, with the body
 
 The run went two days, and they met the **sounding whale** and the **giant sea turtle**
 on the way. Neither fought them.
@@ -86,6 +84,35 @@ Both entries have been **retired from the
 [sea-beasts table](../world/the-sea/bestiary/sea-beasts.md)** now that they have been
 run, and the orca pod and the milky sea replaced them.
 
+**The body bloated on the way.** The healing they had spent on him did nothing to
+preserve him, and the body decayed on the run sheet's schedule.
+
+`[ruled 9/1]` **Purify Food and Drink, cast on the body, slowed the decay.** Once the
+party worked out what was happening to it, William let Aniess use it that way — one cast,
+and it held for the rest of the passage. **The Anubis statue never came up**, so
+Gentle Repose stayed unused and casting it from the statue is still untested.
+
+## Aar — Aniess delivers the body
+
+**She did not cover it.** She dragged Rustam through the streets to Ruslan's house and
+knocked.
+
+1. **Ruslan's daughter opened the door.**
+2. She screamed, and **the wife came out** to the screaming.
+3. **The servants came**, and then **Ruslan**.
+4. **Aniess left** while they were still in the doorway with it.
+
+Nothing was explained to them. Nobody in the family has been told who this is, how he
+died, or who killed him.
+
+## Aar — the others at the market
+
+While Aniess was at the house, **Sarric, Jasper and Pax were buying stores for the next
+leg**.
+
+**Pax bought mushrooms.** He made a deal with a mushroom trader for a supply of the ones
+with **purple spots and orange gills**. Andrew intends to eat them.
+
 ---
 
 ## Where it stands
@@ -95,6 +122,14 @@ run, and the orca pod and the milky sea replaced them.
 - **Nobody followed what the whale said.** It said *"two beating things"* went north, which
   is what the merfolk said too. `[DM]` Those are Sayid's hulls towing the *Nasira*'s
   spars; the party have not worked that out.
+- **Ruslan's household has a body and no account of it.** They can come to Aniess asking
+  who he was and how he died, and she is the only one of the party they saw. Ruslan's own scene — the Company
+  flag, the convoys, the arrangement with the Mukka privateers — is still unrun, and it
+  now has to start from a woman who left his brother's body at his door and went
+  ([the drifting wreck](../world/the-sea/encounters/the-drifting-wreck.md), *Afterward,
+  in Aar*).
+- **Pax's mushrooms.** `[OPEN]` what purple spots and orange gills do to him. Needs
+  deciding before he eats them.
 
 ## Threads
 
