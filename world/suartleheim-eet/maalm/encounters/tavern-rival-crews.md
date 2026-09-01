@@ -728,6 +728,9 @@ frightened: corner Hadda, Sefi, or Pim and the **dread leaks out.**
 
 #### Veska Tull — human · Brass Jackals leader *(Doruk's cross-crew mirror)*
 
+**Cleric 3 (Light Domain)** `[new — Will 9/1]`. She has prepared no spells since the
+burning at Sukkek. The Jackals have no healer, and she does not explain it to them.
+
 **Appearance.** Cheap and strong, nursed slow — she makes one last. A burnt-out
 preacher's presence: the fire's gone out, but she can still make you lean in.
 
@@ -762,6 +765,9 @@ out here, no one can.
 
 #### Hadda Vimm — dwarf · Brass Jackals quartermaster
 
+**Rogue 3 (Thief)** `[new — Will 9/1]`. Expertise in Investigation and Insight. She uses
+them to price gear and to read people.
+
 **Appearance.** The cheapest thing on the board, watched like it owes her money.
 Keeps the crew's coin, supplies, map — and its **death-book.**
 
@@ -788,6 +794,9 @@ doesn't feed anyone. She's the lighter echo of the Ashfoot's **Olen,** who has t
 proof she only dreads; Hadda is still hoping she's wrong.
 
 #### Sefi — halfling · Brass Jackals scout
+
+**Rogue 2** `[new — Will 9/1]`, lightfoot. The lowest level of anyone in either crew, and
+a level below Riska, the scout she replaced.
 
 **Appearance.** A kid in too-big kit. Wants whatever the grown-ups are having;
 Hadda waters it; she drinks it like fire and pretends not to notice.
@@ -817,6 +826,10 @@ the scene: reach for her and the Jackals have a reason to love the party; don't,
 and she's the Ashfoot walking, twenty years early.
 
 #### Mogg — half-orc · Brass Jackals enforcer & storyteller *(Doruk's cross-crew mirror)*
+
+**Barbarian 3 (Path of the Ancestral Guardian)** `[new — Will 9/1]`. When he rages,
+spirits of dead Muspel orcs appear around him. Half-orc **Relentless Endurance** drops him
+to 1 hit point instead of 0 once per long rest.
 
 **Appearance.** Big — the work needs someone big. The biggest cup in the house,
 earned a story at a time; *"a tale for a cup"* is the standing deal. The party
@@ -848,6 +861,9 @@ penitent and the hunted sharing a fire with the crime unsaid between them. Cross
 him with Doruk in the tavern with care.
 
 #### Pim Riddle — gnome · Brass Jackals alchemist & trap-breaker
+
+**Artificer 3 (Alchemist)** `[new — Will 9/1]`. His compounds are how the Jackals open a
+sealed or trapped door. The same compounds are making him ill.
 
 **Appearance.** Twitchy; a bandolier of his own bottles rattling; a tic under one
 eye; sentences started three times. He drinks only his own compounds — trusts

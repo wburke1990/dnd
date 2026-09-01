@@ -244,6 +244,44 @@ the **Brass Jackals** loud nearer the door with Mogg up on a bench, the **Lapis 
 the far end with their own bottle, and **Ivet Sarn's weigh-counter and brass scale** at the
 closed end, where the dice get thrown once the book is shut.
 
+## Who is in the room
+
+*Race and class for everyone with a line below. The five Writ are statted in
+[the godstone dagger](the-godstone-dagger.md) §11; the five Jackals are `[new — Will 9/1]`
+and are written into their blocks in
+[the rival crews](../../maalm/encounters/tavern-rival-crews.md).*
+
+| Who | Race | Class | Paired with |
+|---|---|---|---|
+| **[Dorn Letap](../lore/the-tally-house-and-the-guest-house.md#the-two-letaps-settling)** | satyr | none — he keeps the Tally House | — |
+| **[Yessa Letap](../lore/the-tally-house-and-the-guest-house.md#the-two-letaps-settling)** | satyr | none — she keeps the guest house | — |
+| **[Timo](../lore/the-tally-house-and-the-guest-house.md#the-two-letaps-settling)** | human, twelve | none | — |
+| **[Ivet Sarn](../lore/the-tally-house-and-the-guest-house.md#the-building-settling)** | human | none — Company weigh-master | — |
+| **[Beartholomew](../../../../characters/beartholomew.md)** | human, merged with a bear | Rogue 1 / Fighter 3 (Echo Knight) | Aniess |
+| **[Setha Renk](../../maalm/encounters/tavern-rival-crews.md#setha-renk--half-elf--lapis-writ-leader-blackacres-mirror)** | half-elf | Bard 3 (College of Lore) | [Blackacre](../../../../characters/blackacre.md) |
+| **[Doruk Pell](../../maalm/encounters/tavern-rival-crews.md#doruk-pell--dwarf--the-writs-closer-sarrics-mirror)** | dwarf | Fighter 3 (Battle Master) | [Sarric](../../../../characters/sarric.md) |
+| **[Issa Quib](../../maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-tomb-walker-aniesss-mirror)** | halfling | Cleric 3 (Grave Domain) | [Aniess](../../../../characters/aniess.md) |
+| **[Bram Hale](../../maalm/encounters/tavern-rival-crews.md#bram-hale--human--writ-muscle-jaspers-mirror)** | human | Fighter 3 (Champion) | [Jasper](../../../../characters/jasper.md) |
+| **[Calix Vire](../../maalm/encounters/tavern-rival-crews.md#calix-vire--elf--writ-pathfinder-paxs-mirror)** | elf | Wizard 3 (School of Divination) | [Pax](../../../../characters/pax.md) |
+| **[Veska Tull](../../maalm/encounters/tavern-rival-crews.md#veska-tull--human--brass-jackals-leader-doruks-cross-crew-mirror)** | human | Cleric 3 (Light), lapsed | Doruk |
+| **[Hadda Vimm](../../maalm/encounters/tavern-rival-crews.md#hadda-vimm--dwarf--brass-jackals-quartermaster)** | dwarf | Rogue 3 (Thief) | — |
+| **[Sefi](../../maalm/encounters/tavern-rival-crews.md#sefi--halfling--brass-jackals-scout)** | lightfoot halfling | Rogue 2 | — |
+| **[Mogg](../../maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)** | half-orc | Barbarian 3 (Path of the Ancestral Guardian) | Doruk |
+| **[Pim Riddle](../../maalm/encounters/tavern-rival-crews.md#pim-riddle--gnome--brass-jackals-alchemist--trap-breaker)** | gnome | Artificer 3 (Alchemist) | — |
+
+**The party, for the pairings:** [Blackacre](../../../../characters/blackacre.md) dragonborn
+druid, [Aniess](../../../../characters/aniess.md) yuan-ti Rogue 1 / Cleric 2,
+[Sarric](../../../../characters/sarric.md) firbolg ranger,
+[Jasper](../../../../characters/jasper.md) earth genasi fighter,
+[Pax](../../../../characters/pax.md) aasimar monk.
+
+**Veska, Mogg and Pim each have something that comes up in play.** Veska has prepared no
+spells since the burning at Sukkek, so the Jackals have no healer, and she does not explain
+it. Mogg's Ancestral Guardians raise spirits of the dead Muspel around him, which is what
+happens if the fight with Doruk goes past fists. Pim's compounds are how the Jackals open a
+sealed door, and the same compounds are making him ill. Hadda and Sefi are both Rogues:
+Hadda has the Expertise, and Sefi is a level below Riska, the scout she replaced.
+
 ## The order of the evening
 
 **The ask is already made.** [Session 12](../../../../sessions/session-12.md) stopped at the
