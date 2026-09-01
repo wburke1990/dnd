@@ -14,10 +14,10 @@ status: next
 >
 > **§1 to §4 are part run** — [session 12](../../../../sessions/session-12.md) finished the
 > wreck, killed Rustam, carried his body to his brother at Aar, ran the market, and ended
-> at the watch-stone with Aniess and Beartholomew trading the cant. **Session 13 opens that
-> evening on the Tally House porch, with his ask.** The whole evening, character by
-> character, is in **[Part Two](#part-two--run-sheet-the-night-at-aar)** at the bottom of
-> this file.
+> at the watch-stone, where Aniess and Beartholomew traded the cant and he made his ask on
+> the spot. **Session 13 is the evening at the Tally House,** with the job already in hand
+> and the Writ sailing tomorrow. The whole evening, character by character, is in
+> **[Part Two](#part-two--run-sheet-the-night-at-aar)** at the bottom of this file.
 
 ---
 
@@ -158,16 +158,15 @@ on everything, more men than buildings. A canal runs straight inland from the ba
    house while they wait on a boat north; the **Brass Jackals** are broke and a member or
    two down. Each crew member is paired with a PC. Use **Calix's pet toad** once,
    murmuring into his head, and do not explain it.
-4. **Beartholomew.** `[part played]` `→` [the godstone dagger](the-godstone-dagger.md)
-   The noon scene at the watch-stone is run and the cant is traded. **The ask is still to
-   come**, on the Tally House porch that evening: the **Amseh ceremonial blade** off
-   **Setha Renk's** belt, carried up the canal, because he cannot leave the wharf without
-   losing the posting. The Writ sail in the morning, so it is one night.
+4. **Beartholomew.** `[played — session 12]` `→` [the godstone dagger](the-godstone-dagger.md)
+   The watch-stone scene is run: the cant, and **the ask, made on the spot** — the **Amseh
+   ceremonial blade** off **Setha Renk's** belt, carried up the canal, because he cannot
+   leave the wharf without losing the posting. He gets it out of the way in the first
+   minute and then wants to drink. The Writ leave tomorrow, so it is one night.
 5. **A day in port** clears the hull boxes and refills stores.
 
-**If they put in at Aal instead,** the old Mughal port up the coast, swap it into Aar's
-role — cut stone, a silting harbour, a half-orc quarter with a mosque among the
-boat-sheds. The watch-stone moves with them; there is only ever the one.
+**They landed at Aar.** [Aal](../lore/aar.md) up the coast is still there and still worth
+a visit, but it is not this landfall.
 
 ## 5 · Up the canal to Copaa  `→` [copa-irish-beasts.md](../bestiary/copa-irish-beasts.md)
 
@@ -225,31 +224,58 @@ each character's opening line is ready to say. Backstory, the mirrors and the DM
 material are in [the rival crews](../../maalm/encounters/tavern-rival-crews.md) — this
 is the sheet to run from.*
 
+## On the table
+
+**The Tally House is the [BlueWater Inn](../../../../tts/one-world-maps-inventory.md) map**
+(OW donor `1fd7e3`), aligned 9/1. Its floor is a drawn plan of the inn's ground floor and
+the furniture stands on the printed rooms, so match the seating below to the plan printed
+on the map rather than the other way round. It is about **31 by 13 squares**, long and
+narrow.
+
+**The map is the ground floor only.** The porch on the water side and the guest house a
+hundred yards down the basin are off it, and both get described rather than shown. If the
+party go up the guest house gallery tonight, that is theatre of the mind or a second map —
+[the tally house and the guest house](../lore/the-tally-house-and-the-guest-house.md) has
+the six rooms and the creaking board.
+
+**Blocking, wharf end to closed end:** the open end where a cart backs in, the trestle
+tables and the dock crews, **Beartholomew at the third table with his back to the wall**,
+the **Brass Jackals** loud nearer the door with Mogg up on a bench, the **Lapis Writ** at
+the far end with their own bottle, and **Ivet Sarn's weigh-counter and brass scale** at the
+closed end, where the dice get thrown once the book is shut.
+
 ## The order of the evening
 
-[Session 12](../../../../sessions/session-12.md) stopped at the watch-stone at noon, so
-Beartholomew has met Aniess and told her where he drinks. Tonight, in order: the party come
-into the Tally House and the room is already loud and full; he gives it one round, then takes her
-out to the rail and asks; then he goes back in and buys, and the rest of the night is the
-two crews.
+**The ask is already made.** [Session 12](../../../../sessions/session-12.md) stopped at the
+watch-stone at noon, and Beartholomew put it to Aniess there — he asks for what he wants in
+the first minute and gets it out of the way
+([Beartholomew](../../../../characters/beartholomew.md)). He does not ask again tonight.
+The party already have the job, and the evening is: the room, the two crews, whatever they
+get out of Bear over the drink, and then the knife.
 
-## The clock — one night `[settled — Will 9/1]`
+## The clock — the boat goes tomorrow `[settled — Will 9/1]`
 
-**The Writ's berth north came alongside this afternoon, and she sails on the morning ebb.**
-Renk goes aboard wearing the peseshkef. That replaces the two or three days in
-[the godstone dagger](the-godstone-dagger.md) §4. What is left of its three routes to the
-knife, in the order they come up:
+**The Writ have been stuck at Aar several days waiting on passage, and their boat leaves
+tomorrow.** Renk goes aboard wearing the peseshkef. That replaces the two or three days in
+[the godstone dagger](the-godstone-dagger.md) §4 with one night.
 
-- **The bath house.** Drawn this afternoon and gone. **Yessa draws it again before dawn for
-  the ones sailing**, and the belt goes on the bench with a bored Writ hand on it for twenty
-  minutes. It is the last chance at the belt, and it comes after the gallery rather than
-  before it.
-- **The wager.** Tonight in the room or not at all.
-- **The gallery.** Tonight, with a packed crew on the other side of the wall and Bram Hale
-  on the first watch.
+**Those days are why there is a job at all.** Beartholomew saw the knife in the port, put it
+in a report, sent it up the canal by bargeman, and the order to take it came back down to
+him — a round trip that needed the Writ to still be sitting here when it arrived
+([Beartholomew](../../../../characters/beartholomew.md)). They are, and now they are going.
 
-The party do not have to ask for the sailing time. The Writ are loud about going, and
-Beartholomew counts what leaves the wharf.
+What is left of the three routes to the knife, in the order they come up:
+
+- **The wager.** Tonight in the room or not at all. They are aristocrats with a last evening
+  and nothing to do in it.
+- **The gallery.** Tonight, with a crew packed to travel on the other side of the wall and
+  Bram Hale on the first watch.
+- **The bath house.** **Yessa draws it again before dawn for the ones sailing**, and the
+  belt goes on the bench with a bored Writ hand on it for twenty minutes. It is the last
+  chance at the belt, and it comes after the gallery rather than before it.
+
+Nobody has to ask for the sailing time. The Writ are loud about going, and Beartholomew
+counts what leaves the wharf.
 
 ## What they walk in on
 
@@ -264,39 +290,35 @@ Beartholomew counts what leaves the wharf.
 [the rival crews → The opening](../../maalm/encounters/tavern-rival-crews.md), option A
 or B, his choice of which he saves for later.
 
-## Beartholomew — the ask, on the porch
+## Beartholomew — what he adds tonight
 
-He drinks with the crews first and then takes Aniess outside, and the party with her if she
-brings them. Two lamps, the basin, the guest house lit a hundred yards down the water, and
-the five Writ in the room behind them. He does not cross the room to the Writ once all
-evening, and he does not look at the knife while he asks for it. The second canting song
-and everything he will and will not answer:
-[the godstone dagger](the-godstone-dagger.md) §1.
+He is at the third table from the open end with his back to the wall, and the crews leave
+him the end of the bench. **He does not raise the job again.** He asked at noon, it is out
+of the way, and he wants to drink. Everything below is what he gives if the party come to
+him. He does not cross the room to the Writ once all evening and he does not look at the
+knife.
 
-- *Getting her out of the room.* *"Come out to the rail with me. I've a thing to ask and
-  then I'll not raise it again all night."*
-- *The ask.* *"There's a knife in the guest house. It belongs to a woman out of Maalm who's
-  waiting on a boat north, and when the boat goes it goes with her. I need it carried up the
-  canal to Copaa. I can't go and I can't be seen taking it."*
-- *The clock.* *"Her boat came alongside this afternoon. She goes up that gangway in the
-  morning with it on her belt, and then it's north and gone and I've nothing to send my man
-  at Copaa. It's tonight."*
-- *If they say a night is not enough.* *"I know what I've asked. I've had a week to ask it
-  in and you only got here today."*
+- *If they want to talk about it at all.* *"Not in here. Come out to the rail."* Two lamps,
+  the basin, and the guest house lit a hundred yards down the water — and the five Writ in
+  the room behind them.
+- *On the sailing.* *"They've sat here the best part of a week and now they're going. She walks
+  up that gangway in the morning with it on her belt, and then it's north and gone and
+  I've nothing to send my man at Copaa. It's tonight."*
+- *What he can tell them.* When Renk eats, when she is out, which room is hers, when the
+  belt comes off. He has stood on that wharf all day looking at the guest
+  house for four months.
 - *If they ask what the Order wants with a knife.* *"I wasn't told. A description, a town,
   and do it."* That is the truth — [the godstone dagger](the-godstone-dagger.md) §1.
-- *If they ask why he does not take it himself.* — he offers to go over the gallery rail
-  himself, in his own words, verbatim in [the godstone dagger](the-godstone-dagger.md) §11.
-  **Have him make the offer when a player asks, and say what it costs him: the posting, and
-  the Order's only eyes on what leaves Aar by sea.**
-- *Back inside, once it is out of the way.* *"Dillon's alive and a long way from here.
-  Olora I'll tell you about when you've a drink in your hand."* `[OPEN]` where either of
-  them is — unwritten, and Greg's people. Then he goes through the cohort and raises the
-  night out she gave away at the offering bowl, which he does not know is gone —
-  [Beartholomew](../../../../characters/beartholomew.md).
-
-He sits at the third table from the open end with his back to the wall, and the crews leave
-him the end of the bench.
+- *If they ask why he does not take it himself.* — he offers to put himself through Renk's
+  window with the echo, in his own words, verbatim in
+  [the godstone dagger](the-godstone-dagger.md) §11. **Have him make the offer when a
+  player asks, and say what it costs him: the posting, and the Order's only watcher on what
+  leaves Aar by sea.**
+- *What he would rather be doing.* *"Dillon's alive and a long way from here. Olora I'll
+  tell you about when you've a drink in your hand."* `[OPEN]` where either of them is —
+  unwritten, and Greg's people. Then he goes through the cohort, who is where and who is
+  dead, and raises the night out she gave away at the offering bowl, which he does not know
+  is gone — [Beartholomew](../../../../characters/beartholomew.md).
 
 ## The house
 
@@ -306,9 +328,9 @@ him the end of the bench.
   walk it."*
 - *If they nod at the Writ's bottle.* *[Timo goes past with it]* *"That comes down out of my
   cousin's cellar and it goes back up the same road. I don't pour it and I don't touch it."*
-- *What boats are due.* *"The one that matters went alongside this afternoon. North, and
-  full, and off on the ebb. Ask anybody in here — they've been counting days on her for
-  twelve."*
+- *What boats are due.* *"The one that matters goes north tomorrow, and that lot are on
+  it. They've been counting days on her the best part of a fortnight. Ask anybody in
+  here — we've all heard it."*
 
 **Timo** — twelve, Yessa's pot-boy, the only person who walks into both buildings.
 
@@ -369,7 +391,7 @@ scarred hands. He speaks quietly and he buys.
 - *To Jasper.* the recognition and the closer, both in
   [the rival crews](../../maalm/encounters/tavern-rival-crews.md).
 - *Late, and on the watch.* *"I've the first watch on that gallery
-  tonight, so I'm on the water for two more and then I'm done. Come up and talk if you're
+  tonight, so it's two more and then I'm on water. Come up and talk if you're
   awake. I'd rather that than the boards."* `[DM]` He means it. He is also the watch, and a
   party that takes him up on it has to decide what they are doing on that gallery.
 

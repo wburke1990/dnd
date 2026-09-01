@@ -8,8 +8,10 @@ status: ready
 > **DM reference.** The two buildings the party spend their evenings in at
 > **[Aar](aar.md)**, a hundred yards apart on the basin. The **Tally House** is the
 > Company's weigh-shed, where the dock crews drink and where
-> **[Beartholomew](../../../../characters/beartholomew.md)** names the job
-> ([the godstone dagger](../encounters/the-godstone-dagger.md) §1). The **guest house** is
+> **[Beartholomew](../../../../characters/beartholomew.md)** drinks with them. **It is run
+> on the [BlueWater Inn](../../../../tts/one-world-maps-inventory.md) map** (OW donor
+> `1fd7e3`), whose floor is a drawn plan of the ground floor — match the rooms described
+> below to the plan printed on the map. The **guest house** is
 > the one good building on the water, and the
 > **[Lapis Writ](../../maalm/encounters/tavern-rival-crews.md)** have its upper floor,
 > with the peseshkef on Setha Renk's belt. Legend: `[settling]` · `[loose]` · `[OPEN]`.
@@ -86,25 +88,25 @@ and gets slower and easier with it.
 not once in the evening. He watches the guest house all day from the wharf and he will not
 be seen taking an interest in its people at night.
 
-## Where he makes the ask `[run]`
+## The porch `[run]`
 
-**Not at the table.** He goes out onto the porch and takes Aniess with him, and the party if
-she brings them. Two lamps, the basin, and the guest house lit up a hundred yards down the
-water. The five Writ are in the room behind them.
+**He made the ask at the watch-stone at noon,** in cant, in front of the dock crews
+([the godstone dagger](../encounters/the-godstone-dagger.md) §1). He will not talk about it
+at a table in this room. Anyone who wants to goes out onto the porch with him: two lamps and
+a rail over the basin. The guest house is lit a hundred yards down the water. The five Writ
+are in the room behind them.
 
 `[run]` **The Writ are visible from the porch and audible through the wall.** A player who
-wants to look at the knife while he asks for it can. Setha Renk is twenty feet away with it
-on her belt, and Beartholomew has been looking at it for a week.
-
-Full scene, with the canting songs and what he will and will not answer:
-[the godstone dagger](../encounters/the-godstone-dagger.md) §1.
+wants to look at the knife while they plan for it can. Setha Renk is twenty feet away with
+it on her belt, and Beartholomew has watched the guest house every day this week.
 
 ## What is said in the room `[loose]`
 
 Five things a party can pick up in an evening without asking for any of them:
 
 - **What boats are due, and when.** Every man on the basin knows. **The Writ's berth north
-  came alongside this afternoon and sails on the morning ebb**, and the room is saying so.
+  leaves tomorrow** after the best part of a fortnight waiting on it, and the room is
+  saying so.
 - **The Writ have been twelve days in a building they took for three**, and Renk told
   Yessa to bill the Company.
 - **The tomb-lepers.** Copaa's driven-out people came down the towpath in the spring and

@@ -5,9 +5,10 @@ status: next
 
 # The Godstone Dagger — the peseshkef at Aar
 
-> **Started at the table in [session 12](../../../../sessions/session-12.md).** The noon
-> scene at the watch-stone is run — Aniess and Beartholomew traded the countersign and the
-> session ended there. **Pick up at the Tally House porch**, §1, second scene.
+> **§1 was run at the table in [session 12](../../../../sessions/session-12.md).** Aniess
+> and Beartholomew traded the countersign at the watch-stone and he made the ask there, on
+> the spot. **Pick up at the Tally House that evening** — the drinking, the two crews, and
+> the theft ([the run to Copaa](the-run-to-copaa.md), Part Two).
 >
 > **DM reference.** The party put in at **[Aar](../lore/aar.md)** on their way inland to
 > **[Copaa](../lore/copaa.md)** ([the run to Copaa](the-run-to-copaa.md) §4 and §5).
@@ -22,13 +23,15 @@ status: next
 
 ---
 
-## 1 · The meeting — at the watch-stone, then the Tally House `[settling]`
+## 1 · The meeting — at the watch-stone `[played — session 12]`
 
-**Two scenes, and he does not name the job in the first one.** He meets her at noon on the
-wharf he is paid to guard, in a Company coat, in front of the dock crews — so all he does
-there is say hello and tell her where he drinks. The ask happens that night on the porch of
-the **[Tally House](../lore/the-tally-house-and-the-guest-house.md)**, with the Writ inside
-the room behind him.
+**He asks the moment he sees her, and then he does not bring it up again.** He meets her at noon at
+the foot of the watch-stone on the wharf he is paid to guard, in a Company coat, in front
+of the dock crews. They trade the cant, he names the job, and after that he would rather
+drink than talk about it ([Beartholomew](../../../../characters/beartholomew.md)). The
+evening at the **[Tally House](../lore/the-tally-house-and-the-guest-house.md)** is the
+drinking and the two crews, not the ask —
+[the run to Copaa](the-run-to-copaa.md), Part Two.
 
 ### At the watch-stone, at noon
 
@@ -60,16 +63,10 @@ written out with the gloss in the handout.
 *(Go out, good women, and look, and look — go out of the city — and see the man that stole
 your clothes hanged on the gallows.)*
 
-He says he is glad to see her, gives the party his name, and says he has something to ask
-and will not ask it here. The Tally House after his shift, and he buys. Then he sits back
-down to his bowl.
-
-### That night, on the Tally House porch
-
-He drinks with the crews first and takes her outside to say it. Two lamps, the basin, the
-guest house lit up a hundred yards down the water — and the **Lapis Writ** in the room he
-just walked out of, with the knife on Setha Renk's belt
-([the Tally House](../lore/the-tally-house-and-the-guest-house.md)).
+He says he is glad to see her and gives the party his name. **Then he asks, standing
+there.** He does not save it for a quiet room — cant is what lets a man name a job in front
+of forty dock hands. The guest house is a hundred yards down the water while he says it,
+with the knife in it.
 
 He names the job in the second song, and its third line is the ask:
 
@@ -99,13 +96,22 @@ He does not ask what she has been doing. Everything else he will say if pressed:
   description, a town, and an order, and no reason. Asked what the Order wants with it, he
   says he was not told, and that is the truth.
 
-**Then he goes back inside and buys another round,** and does not raise the knife again.
-Two things belong in the rest of that night: he goes through the
-cohort, who is where and who is dead; and he brings up **a night out they had**, which is
-the night Aniess gave away at the offering bowl in
-[session 8](../../../../sessions/session-08.md) and cannot remember. He does not know it
-is gone. Beartholomew supplies the details of that night; let Greg decide how Aniess
-answers — [Beartholomew](../../../../characters/beartholomew.md).
+**Then he sits back down to his bowl** and tells her where he drinks. The Tally House
+after his shift, and he buys.
+
+### That evening, at the Tally House
+
+**He does not raise the knife again.** He asked at noon, and now he is drinking. Two things belong in the rest of that night: he goes through the cohort, who is
+where and who is dead; and he brings up **a night out they had**, which is the night Aniess
+gave away at the offering bowl in
+[session 8](../../../../sessions/session-08.md) and cannot remember. He does not know it is
+gone. Beartholomew supplies the details of that night; let Greg decide how Aniess answers —
+[Beartholomew](../../../../characters/beartholomew.md).
+
+If the party want to plan it with him, **he takes them out to the porch rather than talk
+about it at a table**: two lamps and a rail over the basin, with the Writ in the room
+behind them.
+The evening, character by character: [the run to Copaa](the-run-to-copaa.md), Part Two.
 
 ## 2 · What the knife is `[settling]`
 
@@ -284,9 +290,11 @@ and **Issa Quib is Aniess's counterpart.**
 
 ## 4 · The clock `[settled — Will 9/1]`
 
-**Their boat north came alongside the afternoon the party made landfall, and she sails on
-the morning ebb.** So the party get one night. Renk goes up the gangway at first light
-wearing the knife.
+**The Writ have been stuck at Aar several days waiting on passage, and their boat leaves
+tomorrow.** So the party get one night. Renk goes up the gangway wearing the knife.
+
+The delay gave Beartholomew time to report the knife up the canal and get the order to
+take it back down again.
 
 After dark the knife comes off her belt once, at the **bath house before dawn** — Yessa
 draws it again for the ones sailing, and the belt goes on the bench. Beartholomew knows
@@ -349,7 +357,7 @@ the [Second Foundation](../../../nila/lore/the-second-foundation.md) owns the Co
 
 ## 9 · What Greg has to decide `[run]`
 
-**It makes the dead talk, and she hunts names for a church.** The Order's whole operation
+**The knife casts Speak with Dead, and her Order recovers names.** The Order's whole operation
 is recovering what was lost and learning what it was called, and she has been handed the
 instrument for asking the dead directly — along with, in the same pack, the statue that is
 its other half. She is being asked to carry it three days up a canal, and Ottmar Lisk at the

@@ -120,9 +120,12 @@ She went on to the market to meet the others and **ran into
 **They traded the cant.** The countersign from
 [the canting songs](../handouts/canting-songs.md) ran as written, four lines, two each.
 
+**He asked her there.** He named the job at the watch-stone, in front of the dock crews,
+and did not save it for a quiet room
+([Beartholomew](../characters/beartholomew.md)).
+
 **We stopped there.** [The godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)
-§1 is half run: the noon scene at the watch-stone happened, and the ask on the Tally House
-porch that night has not.
+§1 is run.
 
 ---
 
@@ -145,9 +148,11 @@ porch that night has not.
   [the market mushrooms](../world/nila/encounters/the-market-mushrooms.md) — a DC 13 CON
   save he is allowed to decline, and five stages of vision that refer to the name he cannot
   remember from the four-day vision without stating it.
-- **Next session opens on the Tally House porch**, with Beartholomew's ask —
-  [the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)
-  §1, second scene.
+- **Next session is the evening at the Tally House.** Beartholomew has already given them
+  the job. In the room: the two
+  rival crews, and the Writ's boat north leaving the next day. Lines for everyone in the
+  room in [the run to Copaa](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md),
+  Part Two.
 
 ## Threads
 
@@ -162,4 +167,4 @@ porch that night has not.
 
 - **Animals that gave no name.** The party asked two beasts for names and got none. The
   [campaign overview](../world/nila/lore/campaign-overview.md) puts it as *"the power to
-  name is the power to own, and to remake."* The players asked; it was not prepped.
+  name is the power to own, and to remake."* The players asked for the names. There is no prep for what the animals would say.

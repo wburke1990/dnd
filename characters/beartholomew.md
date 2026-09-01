@@ -56,8 +56,7 @@ guard either: if the party are caught, he does not know them.
 
 **His week.** A bunk shed with eleven other men, wages on the seventh day, his meals at
 the foot of the watch-stone because it stands on his wharf, and the **Tally House** after
-the shift with the crews he guards. He drinks with them because he wants to, not because
-the cover needs it.
+the shift with the crews he guards. He drinks with them because he wants to.
 
 ## The build `[settling]`
 
@@ -88,8 +87,8 @@ a key, or carry anything out — it is an image. *(Seeing and hearing through it
 **Echo Avatar**, a 7th-level feature. He is not 7th level.)*
 
 **And it is an image of him.** Anyone who sees it has seen a seven-foot bear-man. So the
-echo gets him over a wall or through a window he is already standing at, and anywhere he
-sends it he has been seen.
+echo gets him over a wall or through a window he is already standing at, and anyone who
+sees the echo has seen a seven-foot bear-man.
 
 ## How to play him `[settling]`
 
@@ -105,8 +104,8 @@ ran out of fuel. Asked what the Order is for, he says *"to bring the lost brethr
 home."*
 
 **He would rather drink than talk about the job.** He asks in the first minute so it is
-out of the way, then wants to take Aniess drinking, and does not treat her answer to the
-first thing as bearing on the second.
+out of the way, then wants to take Aniess drinking. If she turns the job down he still
+wants to go drinking.
 
 ## The memory Aniess lost `[run]`
 
@@ -128,8 +127,9 @@ So he raises it over the first drink. He has no idea it is gone.
 The **peseshkef** on Setha Renk's belt in the guest house
 ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)),
 carried up the canal to his man at Copaa. He has seen it in the port. He cannot leave his
-post to take it and he cannot carry it upriver, and **Renk's boat north is alongside now and
-sails on the morning ebb**. He wants it taken tonight.
+post to take it and he cannot carry it upriver, and **Renk's boat north leaves tomorrow**. She has
+been waiting on it for days, which is how long it took him to report the knife up the canal
+and get the order back. He wants it taken tonight.
 
 ## Open threads
 

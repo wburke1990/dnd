@@ -66,8 +66,8 @@ dragonborn seer of his own kind, so this watch-stone is his kinsman's grave — 
 sea-road watch-stones he has kept all his life. Finding it here sets up his meeting with
 Musa down in [the mines of Haals](../encounters/the-mines-of-haals.md).
 
-`[run]` The watch-stone stands over whichever port the party lands at. If they put in at
-Aal instead of Aar, it stands there — only ever the one.
+`[played — session 12]` The party landed at Aar and were handed the four inscriptions
+there. There is only one watch-stone, and it stands at Aar.
 
 ## The docks — the Hunt crews `[loose]`
 
@@ -93,8 +93,7 @@ cut in stone at the quarter's edge. Full history:
 They have been here for generations. The refugees of
 [Annibel's war](../../../../characters/annibel.md) are a separate and much later people.
 
-If the party lands at Aal rather than Aar, swap it into Aar's role — the ore-port and the
-watch-stone move with them; only ever the one port.
+The party landed at Aar. Aal can still be visited.
 
 ## Who's here `[loose]`
 
