@@ -116,7 +116,7 @@ The world itself: cosmology, history, rules, and the powers that span regions.
 | File | Status | What it is |
 |---|---|---|
 | [the houses of xibalba](world/nila/encounters/the-houses-of-xibalba.md) | `ready` | A descent through six trial houses of the Maya underworld |
-| [the market mushrooms](world/nila/encounters/the-market-mushrooms.md) | `ready` | The mushrooms Pax bought at Aar, the save to resist them, and the five stages of the vision |
+| [the market mushrooms](world/nila/encounters/the-market-mushrooms.md) | `ready` | The mushrooms Pax bought at Aar, the save he may decline, and the night he is told his true name |
 | [the covenant rite](world/nila/encounters/the-covenant-rite.md) | `draft` | The rite for pledging yourself to a dragon court |
 | [the iliad battles](world/nila/encounters/the-iliad-battles.md) | `draft` | A frame for pitched battle fought as Homeric duels |
 | [great tree sites](world/nila/encounters/great-tree-sites.md) | `idea` | A backlog of tree-myth site ideas, none placed yet |

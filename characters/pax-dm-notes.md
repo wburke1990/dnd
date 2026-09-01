@@ -61,13 +61,15 @@ Two things to hold to:
 Andrew's account is on the sheet under *The Four-Day Vision*, told in-game to
 Jogo. From the account:
 
-- Pax rose out of his body and stood among the stars. The stars were enormous — some burned, some moved, some watched. Below him the world was strung with threads of light connecting every living thing, and some of the threads ran upward into the stars. Beneath the roots of the world he saw a network connecting forests, graves, mountains, animals, people, and things with no names.
-- Something vast that had known him since before his birth called him by a name. He can't remember it. He remembers thinking it was his true name and that he had always known it.
+- Pax rose out of his body and stood among the stars. The stars were enormous — some burned, some moved. Below him the world was strung with threads of light connecting every living thing, and some of the threads ran upward into the stars. Beneath the roots of the world he saw a network connecting forests, graves, mountains, animals, people, and things with no names.
+- Something vast called him by a name. He says it had known him since before his birth. He can't remember it. He remembers thinking it was his true name and that he had always known it.
 
-Pax bought a supply of mushrooms at Aar in S12 and means to eat them
-([the market mushrooms](../world/nila/encounters/the-market-mushrooms.md)). The vision
-written for them names the name, but Pax does not hear it as his own: someone else reads
-it off a list, alongside names he does not know. The forgotten name stays open.
+**Settled 9/1: the forgotten name is Auralith Vael'Tharos**, the one Andrew wrote on his
+own sheet. Pax bought a supply of mushrooms at Aar in S12 and means to eat them
+([the market mushrooms](../world/nila/encounters/the-market-mushrooms.md)), and that is
+where he is told it. He also hears it a second time in another voice, read off a list with
+names he does not know, so he hears his name twice in one night, the second time on someone
+else's list. Whose list is `[OPEN]`.
 
 Connections to existing material:
 
@@ -77,19 +79,19 @@ Connections to existing material:
   heaven, the pole above), half nameless (dissolves into the land, unowned). The
   vision covers both: he rose to the star/celestial side and was named, then
   fell back down through the roots into the network and the common stock — the
-  earth side. At death he chooses which claims him; the vision is him having
-  already seen both ends.
-- **The celestial half receives dreams as address.** §11 already says it: on his
+  earth side. At death he chooses which claims him; in the vision he saw both.
+- **The celestial half is spoken to in dreams.** §11 says: on his
   celestial nights "something speaks to him, and he wakes instructed," and he
-  chalks it up to the Green Revelation. The four-day vision is that same crossing
-  at full depth — the mushroom carried him all the way over, the way
-  *Dream of the Blue Veil* does. Andrew wrote the deep version of a dream Pax has
-  been having his whole life.
+  chalks it up to the Green Revelation. The four-day vision is the same thing
+  happening for longer — the mushroom moved him to another plane, as
+  *Dream of the Blue Veil* does. Andrew's account describes a longer instance of a
+  dream Pax has had all his life.
 - **Who named him (settled with Will).** A Celestial of his home heaven. The
   Verdant Fist sits in **northwestern Musleheim** (Norse register), so the namer
   is that region's sky-power — his celestial parent's side. It holds his true
-  name, so he can be claimed or called. That makes "chosen" literal, and keeps
-  "or just delusional?" alive, because the earth half still hears the ground.
+  name, so he can be claimed or called. He was named by a Celestial; whether he
+  believes that or doubts it stays open, because the earth half sends him dreams
+  of its own.
 - **His earth half — the forest-nameless (settled).** His mother's people are the
   forest-branch of the earth-nameless
   ([lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §5–6): their dead
@@ -144,7 +146,5 @@ Open:
 - Which Celestial, and its name — a Norse-register sky-power to coin.
 - Pax's earth parent's people — **settled: the forest-nameless of northwest
   Musleheim** (above).
-- Whether the forgotten name is Auralith Vael'Tharos or the Celestial's name
-  for him.
 - Whether any of it is real, per the standing rule that his three readings stay
   unresolved.
