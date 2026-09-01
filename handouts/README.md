@@ -85,6 +85,7 @@
 | [the juniper tree](the-juniper-tree.md) | `reference` | The Brothers Grimm, "The Juniper-Tree," trans. Hunt — the buried boy who rises as a bird |
 | [the kraken](the-kraken.md) | `reference` | Tennyson, "The Kraken" — the sleeper who rises once and dies; it describes Balor under Haals |
 | [the lapis writ ledger](the-lapis-writ-ledger.md) | `reference` | The Lapis Writ's copy of every name in the Valley of the Kings, handed over in the Maalm tavern |
+| [the other tiger](the-other-tiger.md) | `reference` | Borges, "The Other Tiger" — a man in a library writing about a tiger he has never seen |
 | [the ruin](the-ruin.md) | `reference` | Old English "The Ruin," trans. Fahey — a lay over the giants' abandoned halls in Weet |
 | [the second coming](the-second-coming.md) | `reference` | Yeats, "The Second Coming" — cut into Musa's watch-stone; incantation for a portent spell |
 | [the three citrons](the-three-citrons.md) | `reference` | Basile, "The Three Citrons," trans. Burton — a maiden bursts from a cut citron |
