@@ -41,8 +41,8 @@ bad about it, which is his written line.
   is not in this for money.
 - **Doruk asked whether Sarric works for Preem.** Sarric said no, and Doruk dropped it.
 - **Sarric asked whether Doruk was going to the temple for the killing.** He said no —
-  **he is on a mission he cannot talk about.** `[OPEN]` what the Writ are going to the
-  Hunt for.
+  **he is on a mission he cannot talk about.** `[DM]` He was being cagey about Preem's job —
+  the same contract to find names the party are on. There is no second mission.
 
 **Sarric was giving Setha dirty looks** the whole time, on the strength of her being rich.
 
@@ -87,7 +87,7 @@ Setha, who took it for the tombs — so they talked about the tombs they had bot
 
 - **Setha asked whether Aniess works for Preem. Aniess said yes.**
 - **Aniess asked whether Setha was with the Brass Jackals.** Setha: *"Those amateurs?"* —
-  which is where the finest-company boast came from.
+  which is where her boast about the Writ came from.
 - **Sefi heard it and answered her back:** *"Setha! Don't be such a jerk!"* Nobody else in
   either crew talks to Renk that way, and Renk had nothing to say to it.
 - **Setha told her the Writ are the best crew there is** and found the most names.
@@ -99,15 +99,19 @@ Setha, who took it for the tombs — so they talked about the tombs they had bot
 founding family of Maalm, she is used to being obeyed, and she has contempt for the
 Tally House and everyone in it.
 
-## Calix is a woman, and Setha wants her
+## Calix is a woman, and Setha has a crush on her
 
 **Calix Vire is female.** `[settled 9/1]` The token was, so she is — corrected through
 [the rival crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md) and the
 Aar files.
 
 **Setha has a crush on Calix.** Aniess rolled high on who in the room Setha was most
-interested in, and that is the answer. `[new — Will 9/1]` The Writ's leader wants her own
-pathfinder, who takes her orders from a demon that belongs to Preem.
+interested in, and that is the answer.
+
+`[settled 9/1]` **Calix is elven aristocracy**, and the council seat Setha's mother died
+over is reserved for elves. Setha is half-elf and can never sit in it. **Calix is not an
+informant** — she believes the toad is a god and does not know it is Preem's quasit. Full
+writeup in [the rival crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md).
 
 ## Blackacre went upstairs
 
@@ -138,8 +142,9 @@ He left the room and searched the guest house.
   means for handing the knife to Ottmar Lisk at Copaa.
 - **Setha knows Aniess works for Preem.** Two of Preem's crews have now identified each
   other by name.
-- `[OPEN]` **Doruk's secret mission.** He volunteered that the Writ are going to Brauron
-  for something other than the Hunt, and would not say what.
+- **Doruk's "secret mission" is Preem's.** `[settled]` He was being cagey about the
+  contract to find names, not hiding a second job. Sarric had just told him he does not
+  work for Preem.
 - `[OPEN]` **The 5,000 gp.** The party cannot buy in as hunters, so they will have to get into the
   Sacred Hunt some other way
   ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).

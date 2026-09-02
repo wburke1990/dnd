@@ -20,10 +20,18 @@ the NPC sheets, or anything a link points to. You are the naive ear on purpose: 
 hear each line the way a player does, once, with no context to fill the gaps. If a
 line needs the sheet to make sense, that is the flag.
 
-**Real quotations are off limits.** Scripture, poetry, saga, epic, canting songs,
-anything quoted from a real source — and any phrase deliberately built to sound
-like one. Strangeness is the point there. If a line looks odd, ask whether it is a
-quotation before you touch it, and when in doubt say so instead of rewriting.
+**Real quotations are off limits, and this rule outranks every offender below.**
+Scripture, poetry, saga, epic, canting songs, anything quoted from a real source — and
+any passage deliberately written to sound like one. Strangeness is the point there, and a
+quotation flattened into plain modern speech is the worst thing you can do to this repo.
+
+- **A `[verbatim]` note, an attribution, or a named source anywhere near a passage means
+  stop.** Do not flag inside it, do not offer a rewrite for it, do not repair a word
+  order that sounds wrong to you.
+- **Archaic or oddly built speech is a signal to check, not to flag.** A line that reads
+  as unparsable modern English is more likely a quotation than a mistake.
+- **When you cannot tell, say so and leave it.** Name the passage and write *"possible
+  quotation — not flagged."* Never rewrite on a guess.
 
 ## The two questions — run them on every line
 

@@ -249,6 +249,15 @@ the two below for the party to walk in on (he saves the other for the next
 round). Either way they **overhear the whole naval backstory** — the orcs' fall,
 the dwarves, the lost fleets — without a line of DM exposition.
 
+> `[verbatim — do not restyle]` **Mogg's sagas below are built out of real
+> public-domain saga text** (the 1844 translations; sources in
+> [saga weather omens](../../../the-sea/lore/saga-weather-omens.md) and
+> [ships and sea power](../../../the-sea/lore/ships-and-sea-power.md)). The italic
+> passages are word for word, and the retellings around them are written to sound like
+> their source. **They are off limits to the style pass and to both critics** — the
+> strangeness is the reason they were reached for
+> ([CLAUDE.md](../../../../CLAUDE.md), *Never "fix" a verbatim quotation*).
+
 **Option A — Hjörungavágr ("how the sea took the longships"):** the party walks
 in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 
@@ -488,10 +497,16 @@ amount of money or rank moves the coin. Setha is a Bard of Lore who reads and pe
 people for a living, and Calix cannot be read or persuaded. She wants the one person she
 cannot read.
 
-**The thing she cannot command is Preem's.** The coin is read by a toad, the toad is a
-quasit, and the quasit is **Preem's**. Setha is fighting the founder houses on Preem's
-charter, and the one member of her crew she cannot command is Preem's informer on it.
-She does not know that, and neither does Calix.
+**Calix is elven aristocracy** `[settled 9/1 — Will]`. The council seat Setha's mother died holding a claim to is **reserved for elves**. Setha is
+half-elf and can never sit in it herself; she is fighting to hold it in her family's name
+through a claim the houses had her mother killed to end. Calix was born on the other side
+of that line, and never mentions it.
+
+**And the one person she cannot command is the one Preem reaches into her crew through.**
+The coin is read by a toad, the toad is a quasit, and the quasit is **Preem's**.
+`[settled]` **Calix is not a knowing informant** — she takes the voice for God and has no
+idea she is carrying a demon, let alone whose. The quasit speaks into her mind and she
+passes on what it says. Setha does not know that either.
 
 `[run]` **She stays in the room while Calix is in it.** On the night of the theft, moving
 Calix moves Setha.
@@ -506,8 +521,13 @@ the old quarter found a half-blood carrying a live founder claim intolerable, an
 **one of the old houses had her mother killed** to end the line quietly. Preem
 took the orphaned half-blood in and **chartered her the Lapis Writ.** She's
 loyal to him — the only door that ever opened for her — but **no true
-believer**; toward the houses she carries cold, patient fury. The flawless Valley
-run is at once her **audition for Preem** and her **war-chest against the houses.**
+believer**; toward the houses she carries cold, patient fury.
+
+`[settled 9/1]` **She will not turn on Preem.** Doruk told Sarric she pays well and is not
+in it for the money ([session 13](../../../../sessions/session-13.md)), and he is right.
+What she is in it for is the seat, and Preem's patronage is the only route to it she has.
+Someone could outbid a paycheck. Nobody else can give her the seat. The flawless Valley
+run shows Preem what she can do and builds the record she means to use against the houses.
 *("Lapis Writ" reads as the writ of claim she means to win back.)*
 
 **DM only — what she can't tell you.** *Her buried betrayal (tomb three).* On the

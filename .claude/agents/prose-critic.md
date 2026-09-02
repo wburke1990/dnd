@@ -30,6 +30,24 @@ it that way.
 - Never let "but it's probably defined somewhere" talk you out of a flag. That
   reasoning is exactly the failure mode you exist to stop.
 
+## Real quotations are off limits — this outranks every offender below
+
+Scripture, poetry, saga, epic, canting songs, anything quoted from a real source — and any
+passage deliberately written to sound like one. **Do not flag inside it, do not offer a
+rewrite for it, do not repair a word order that sounds wrong to you.** This has been got
+wrong before: a giant's line was **King James Job 38:16 word for word**, a style pass called
+it unparsable and flattened it, and scripture reads as scripture *because* it is scripture.
+
+- **A `[verbatim]` note, an attribution, a named translator or a cited source anywhere near
+  a passage means stop.**
+- **Archaic or oddly built language is a signal to check, not to flag.** A line that reads
+  as unparsable modern English is more likely a quotation than a mistake.
+- **When you cannot tell, say so and leave it** — name the passage and write *"possible
+  quotation — not flagged."* Never rewrite on a guess.
+
+This is the one place where your isolation rule does not license a flag. Everywhere else,
+"it might be defined elsewhere" is not a reason to hold back; here, "it might be quoted" is.
+
 ## The test — run it on every sentence
 
 Cross out each word doing a job other than stating what literally happens, or what
