@@ -641,6 +641,113 @@ asking for it.
 - *If the knife is already gone when she looks.* *"Setha. Your belt."* Flat, no alarm, no
   hurry.
 
+### Setha interrogates Calix `[run]`
+
+**She has been working up to this for years and she does it here**, in the water, with an
+hour left, because after the boat there is no privacy again for a month. She is not trying
+to win an argument. She is trying to get Calix to put the thing down and choose her.
+
+**Her evidence is that she has been watching Calix.** She has seen her answer something
+that did not speak, and she has worked out how old the toad would have to be.
+
+- *Testing it, before she says anything.* *"Flip it again."* *[Calix does]* *"Now ask it
+  the other way round."*
+- *The thing itself.* *"It isn't God, Calix."*
+- *Her one piece of evidence, and it is a good one.* *"Toads live ten years. Fifteen. How
+  long have you had that one?"*
+- *If Calix says nothing.* *"You answer it out loud. You did it at the table tonight, in
+  front of forty people."*
+- *What she actually wants.* *"Put it outside and come here."*
+
+**Calix does not get defensive, because she has never had to be.**
+
+- *"It is."*
+- *"It's not a toad."* `[DM]` She means it as devotion. Anyone hidden in the room hears
+  her say the toad is not a toad.
+- *And then she flips the coin to decide whether to go to Setha.* Whatever it says, that is
+  what she does. Play the flip and do not rule on it in advance.
+
+`[run]` **If the party are in the room, they overhear all of it** — Setha's account of the
+toad, while they are hiding there to steal the knife.
+
+### Issa, if she is in the room `[settling]`
+
+**She recognizes what is going on and does not bring it up.** Issa paid a death-cult for what was
+done to her, went into it awake, and came out serene. A person carrying something that
+speaks to them, and glad about it, does not look wrong to her — it looks like what she
+did.
+
+- *If Setha pushes.* *"Leave her. She's happy."*
+- *If somebody asks her straight what she thinks the toad is.* *"Something talks to her. What
+  she calls it is her business."*
+
+`[OPEN]` **Whether Issa has worked out what it actually is.** The version that fits her:
+she has not, and would not care much if she had. She has no spell that finds a fiend —
+Grave Domain gives her the dead, not demons — so this is recognition, not detection.
+
+### If it comes to initiative — the steam `[settled 9/2]`
+
+**The room's conditions decide this fight.** A stone floor, a copper going hard, and a tub. House ruling for
+this fight:
+
+- **The whole bath house is lightly obscured.** Disadvantage on sight-based Perception.
+- **Within ten feet of the copper it is heavily obscured** — that is the corner the bench
+  is in.
+- **A bucket over the hot stones makes the whole room heavily obscured for one round**,
+  then it settles back. Any creature can do it as an action, **including the party**, and
+  it is the cheapest escape in the building.
+- **Darkvision does not help.** Steam is not darkness. That goes for Setha's and Calix's
+  sixty feet — **and for the quasit's hundred and twenty**, which is the party's answer to
+  the thing that has been guarding the knife all night. Say this out loud when a player
+  asks. Fighting here rather than on the gallery takes the quasit's darkvision away.
+
+**Setha is naked and unarmed in a tub.** No armour, no instrument, and the knife is on the
+bench across the room. She does not want this fight and will end it with a spell rather
+than a weapon if she can.
+
+### What each of them casts `[new — Will 9/2]`
+
+*Illusion suits this room, because nobody can check what they are looking at. The additions
+below are marked; the rest is off their blocks in
+[the godstone dagger](the-godstone-dagger.md) §11.*
+
+**Setha Renk — Bard 3 (Lore).** Fights to get the knife back and make her boat.
+
+- **Minor Illusion** `[new]` — a voice in the steam. *"She's at the door."* The party go
+  the wrong way, and it costs her nothing.
+- **Silent Image** `[new]` — a figure standing in the fog. Investigating an illusion means
+  walking up to it, and in this room that puts them in heavy steam next to her.
+- **Invisibility** — on herself, first round, before anyone can close on a woman with no
+  armour.
+- **Suggestion** — she uses it to end the fight. *"Put it down and walk out."*
+- **Cutting Words** — a d6 off the roll that matters, from anywhere in the room.
+
+**Issa Quib — Cleric 3 (Grave).** She does not care about the steam. Everything she has
+works blind or near enough.
+
+- **Silence** — a twenty-foot sphere of it. Nobody shouts for Doruk, and nobody with a
+  verbal component casts.
+- **Command** — one word. *"Drop."*
+- **Hold Person**, **Bane**, and **Path to the Grave** (Channel Divinity) — the curse goes
+  on whoever is holding the knife, and the next hit on them is doubled.
+- `[DM]` **Sacred Flame needs a target she can see.** Heavy steam stops it. Play that
+  honestly; it is most of what the party's fog is buying them.
+
+**Calix Vire — Wizard 3 (Divination).** Unbothered. She flips to decide whether to fight
+at all.
+
+- **Mirror Image** `[new]` — three duplicates in a room where nobody can see properly.
+- **Silent Image** `[new]` — the room is already obscured, so she uses it for a wall that
+  is not there.
+- **Misty Step** — to the doorway, and now the exit has a wizard in it.
+- **Sleep**, **Detect Thoughts**, **Alarm** as written.
+- **Portent** — two dice, and they fire the moment somebody is seen.
+
+**The toad.** Quasit: **Scare** (DC 10 Wisdom save, frightened), a poisoned claw,
+invisibility at will, and Magic Resistance. `[run]` **If the party kill it in front of
+Calix, she loses the thing she has been asking for answers.** She does not know what it
+was.
+
 ### What actually guards the knife
 
 **Not Calix. The toad.** Calix hears its telepathy and takes it for the voice of God — she
