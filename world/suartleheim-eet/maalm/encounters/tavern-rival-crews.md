@@ -497,7 +497,35 @@ amount of money or rank moves the coin. Setha is a Bard of Lore who reads and pe
 people for a living, and Calix cannot be read or persuaded. She wants the one person she
 cannot read.
 
-**Calix is elven aristocracy** `[settled 9/1 — Will]`. The council seat Setha's mother died holding a claim to is **reserved for elves**. Setha is
+**They were children together** `[settled 9/1 — Will]`. Setha's mother was the last of a
+founder house holding a live claim, so Setha grew up among the families who hold the
+elves-only seats, and Calix is one of them. **The friendship ended when the mother was
+killed.** Setha was about twelve; Calix was about fourteen. Setha went into Preem's
+keeping and Calix's life carried on unchanged.
+
+**Ages.** A half-elf matures at a human rate and reaches adulthood at about
+twenty; an elf reaches physical maturity at roughly the same rate but is not held an adult
+by her own people until about a hundred. So two children of eleven and thirteen are two
+children. Setha is about twenty-eight now and Calix about thirty — the same age to
+look at, and sixteen years since the murder.
+
+**The sixteen years mean different things to each of them.** They are more than half of
+Setha's remembered life, and she has perhaps a hundred and fifty left. To Calix they are a
+fifth of the way to being allowed to speak in her own house, out of a seven-hundred-year
+life.
+
+`[run]` **Calix thinks Setha should relax about the seat, and says so.** She does not mean it
+unkindly. *"The seat'll still be there. Sit down, you haven't eaten anything."* She is not
+in a hurry and never has had to be, and **she is decades short of sitting on that council
+herself** — by elven reckoning she is a child talking about a chair she will
+be eligible for in seventy years.
+
+`[OPEN]` **What Calix knows about the murder.** She was fourteen and it was not her house.
+The version that fits her: she knows, and it never occurred to her to treat it as
+unfinished. Nothing strikes her as unfinished. Play it that way and she reassures Setha
+without noticing what it does to her.
+
+**Calix is elven aristocracy.** The council seat Setha's mother died holding a claim to is **reserved for elves**. Setha is
 half-elf and can never sit in it herself; she is fighting to hold it in her family's name
 through a claim the houses had her mother killed to end. Calix was born on the other side
 of that line, and never mentions it.
@@ -683,6 +711,15 @@ total finality, taking the flip as God's will. Play her straight-faced Blues Bro
 - *Signature* *(deadpan):* *"I'm on a mission. No, I won't tell you what it is —
   I won't tell you what it is. I go where I'm sent, and the ones who don't come back
   weren't meant to. You look troubled by that. I'm not."*
+
+**Setha, and the seat.** `[settled 9/1]` She and Renk were children together before
+Renk's mother was killed — see [Setha's block](#setha-renk--half-elf--lapis-writ-leader-blackacres-mirror)
+for the ages and what the friendship is now. Calix is **about thirty**, which by elven
+reckoning makes her a child with seventy years to go before her own people call her an
+adult, and she is certain nothing will change. She tells Setha to stop hurrying at the
+council, means it kindly, and has no idea what she is saying to Setha, who has about a
+hundred and fifty years left and whose mother was killed. **She does not know Setha wants
+her.**
 
 **In conversation.** Almost nothing — that's the point. She is serenely, totally
 certain she was **chosen for a purpose;** she had a private revelation, the world
