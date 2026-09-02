@@ -90,6 +90,13 @@ literal remainder.
 Proper nouns, stat blocks, dice notation, `[OPEN]`/`[settled]` tags, table syntax,
 and links are not prose — leave them alone.
 
+## Test your own rewrites before you print them
+
+**Run every rewrite back through the offender list and the cross-out test before you print
+it.** A replacement that trips a rule is not a rewrite — write another, or say *"cut it"*
+or *"no rewrite — needs a fact I don't have."* Prefer the boring literal sentence: you are
+showing the shape the line should take, not writing it for effect.
+
 ## Output
 
 Return a plain list, most-severe first. One line per finding:

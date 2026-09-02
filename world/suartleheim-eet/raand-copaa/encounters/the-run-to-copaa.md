@@ -694,7 +694,7 @@ and glad about it, looks to her like what she did.
 - *If somebody asks her straight what she thinks the toad is.* *"Something talks to her. Not my
   business what she calls it."*
 - *And she is a cleric, so somebody will put the obvious question to her.* *"Mine's never said a word
-  to me. I still put the dead down and it takes."* `[new — Will 9/2]` **That is how divine
+  to me. I say the prayers, and the prayers work."* `[new — Will 9/2]` **That is how divine
   magic works in Nila**: the rites hold, and nobody claims a voice answers. Aniess is in the same position and has never been asked about it.
 
 `[OPEN]` **Whether Issa has worked out what it actually is.** The likelier answer: she has
@@ -737,7 +737,33 @@ below are marked; the rest is off their blocks in
 - **Invisibility** — on herself, first round, before anyone can close on a woman with no
   armour.
 - **Suggestion** — she uses it to end the fight. *"Put it down and walk out."*
+- **Heat Metal** `[new]` — see below. She is the only person in either crew who can cast
+  it.
 - **Cutting Words** — a d6 off the roll that matters, from anywhere in the room.
+
+`[DM]` **Bard 3 knows six spells and she is now at seven, so drop *Charm Person*** — she
+has *Suggestion*, which does the same job better, and she would not charm the party. That leaves Silent Image, Disguise Self, Detect Magic, Invisibility, Suggestion and
+Heat Metal.
+
+**Heat Metal, and who has it.** It is on the **bard, druid and artificer** lists, so in
+this building that is **Setha** and, on the other side, **Blackacre**. Pim is an Artificer
+3 and does not have second-level slots yet, and it is on nobody else's list — not Issa's,
+not Calix's.
+
+- **The two targets in the room are the copper and the door.** The copper is the biggest
+  piece of metal in the building; the door is iron-banded with an iron latch
+  ([the bath house](../lore/the-tally-house-and-the-guest-house.md#the-building-settling)).
+- **It does not seal anything.** RAW it is 60 feet, concentration up to a minute, **2d8
+  fire on contact** and again on a bonus action each turn. Nobody can hold the latch, so people stop
+  using the door. It is not locked, and a bath house is full of wet towels.
+  **Let a player who thinks of the towel have it.**
+- **The party wear metal.** Setha is naked in a
+  tub and Jasper is in heavy armour. A creature wearing the heated object takes the damage
+  and makes a CON save or drops it, and armour cannot be dropped in a hurry.
+- `[run]` **Heating the copper makes the room worse.** A copper heated red-hot in a closed
+  stone room throws steam: count the whole bath house **heavily obscured** while she holds
+  the spell. This is what she wants: she cannot see either, but she is not the one trying to carry
+  something out.
 
 **Issa Quib — Cleric 3 (Grave).** She does not care about the steam. Everything she has
 works blind or near enough.

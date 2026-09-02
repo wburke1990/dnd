@@ -50,8 +50,8 @@ the water every morning and is grey again by noon.
   and **Ivet Sarn**'s scale-book on a chain beside it. Sarn works the counter until dark and
   drinks at it after.
 - **Wages are paid at that counter on the seventh day.** Dorn's slate hangs on the post
-  beside it with the week's names and marks on it. A man can drink his week without the coin
-  crossing the room, and most do.
+  beside it with the week's names and marks on it. A man can drink his week's wages without the
+  coin crossing the room, and most do.
 - **The rest is trestle tables and benches**, a plank laid over two barrels for a bar, four
   lamps.
 - **The porch** runs along the water side: a plank walk out over the basin with a rail, two
@@ -139,7 +139,9 @@ counter and sleeps badly. She locks the front door and the yard gate at midnight
 every key on the board.
 
 **The yard**, behind, walled: woodpile, privy, wash-house, and the **bath house** — a stone
-floor, a copper, a bench along one wall with hooks over it. Water is heated to order and
+floor, a copper, a bench along one wall with hooks over it. `[settled 9/2]` **The door is
+iron-banded with an iron latch.** The bands, the latch and the copper are the metal in the
+room ([the run to Copaa](../encounters/the-run-to-copaa.md), Part Two). Water is heated to order and
 drawn in the afternoon. Yessa keeps the list of who has asked for it.
 
 ## Upstairs — six rooms `[settling]`

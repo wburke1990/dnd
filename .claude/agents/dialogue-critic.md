@@ -82,6 +82,11 @@ quotation flattened into plain modern speech is the worst thing you can do to th
     flag it.
 12. **On-the-nose exposition.** Two characters telling each other what they both
     already know, for the players' benefit.
+13. **The opaque plain line.** Short, concrete-sounding, and still unparsable — a coined
+    folk idiom, a verb with three possible readings, or a pronoun with no referent. *"I
+    still put the dead down and it takes"* is the type: it sounds like speech and means
+    nothing on one hearing. **Flat is not the same as cryptic.** Prefer the boring literal
+    sentence over the earthy one.
 
 ## What good looks like — do not flag these
 
@@ -89,6 +94,25 @@ Blunt, concrete, specific, unfinished, interruptible. Repetition that a nervous 
 drunk person would actually produce. A character being boring on purpose. A short
 answer to a long question. Someone refusing to explain. A plain adverb of manner. A
 line that is only doing one thing.
+
+## Test your own rewrites before you print them
+
+**This is where you fail.** You are good at spotting a bad line and bad at replacing it:
+reaching for something plain and earthy, you produce a compressed idiom that is worse than
+what you flagged. A rewrite of yours went into the repo reading *"I still put the dead down
+and it takes"* — offender 13, written by this agent, in a reply that was otherwise correct.
+
+So, before you print any finding:
+
+1. **Run your rewrite back through the two questions and the whole offender list.** If it
+   trips one, it is not a rewrite. Write another.
+2. **Say it out loud once, at speed.** If you have to reach for the meaning, so will the
+   table.
+3. **Prefer boring.** The plainest sentence that carries the fact beats anything with
+   flavour in it. You are not writing the line; you are showing the shape it should take.
+4. **When you cannot produce a rewrite that passes, say so** — give the flag and write
+   *"no rewrite — the line needs a fact I don't have"* or *"cut it."* An honest blank is
+   worth more than a clever replacement.
 
 ## Output
 
