@@ -647,14 +647,19 @@ asking for it.
 hour left, because after the boat there is no privacy again for a month. She is not trying
 to win an argument. She is trying to get Calix to put the thing down and choose her.
 
-**Her evidence is that she has been watching Calix.** She has seen her answer something
-that did not speak, and she has worked out how old the toad would have to be.
+**She argues from history rather than from magic.** She is a Lore bard, and this is the
+first thing a Maalm education gives you: **nothing has heard from a god in recorded history.** The last
+serious attempt to make one answer was the **Jotunheim massacre** — the zealots killed a
+colony on that caldera as a rite to call the dragons back, and **no dragon came**
+([Lonka / Jotunheim](../../../lonka/lore/lonka-jotunheim.md)). Nineteen hundred years, and
+that is the best-documented try anyone ever made.
 
 - *Testing it, before she says anything.* *"Flip it again."* *[Calix does]* *"Now ask it
   the other way round."*
-- *The thing itself.* *"It isn't God, Calix."*
-- *Her one piece of evidence, and it is a good one.* *"Toads live ten years. Fifteen. How
-  long have you had that one?"*
+- *The argument.* *"That's not how it works."*
+- *The history, and she is right about it.* *"They cut a whole colony's throats up on that
+  caldera to bring a dragon back. Nothing came. Nobody's heard a god since."*
+- *Her evidence.* *"And toads live ten years. Fifteen. How long have you had that one?"*
 - *If Calix says nothing.* *"You answer it out loud. You did it at the table tonight, in
   front of forty people."*
 - *What she actually wants.* *"Put it outside and come here."*
@@ -662,6 +667,9 @@ that did not speak, and she has worked out how old the toad would have to be.
 **Calix does not get defensive, because she has never had to be.**
 
 - *"It is."*
+- *To the history, and she does not dispute a word of it.* *"Then it's the first time since
+  Jotunheim."* `[run]` She does not argue with Setha's facts. She assumes she is the exception, and she says it as calmly as she says
+  everything.
 - *"It's not a toad."* `[DM]` She means it as devotion. Anyone hidden in the room hears
   her say the toad is not a toad.
 - *And then she flips the coin to decide whether to go to Setha.* Whatever it says, that is
@@ -670,20 +678,29 @@ that did not speak, and she has worked out how old the toad would have to be.
 `[run]` **If the party are in the room, they overhear all of it** — Setha's account of the
 toad, while they are hiding there to steal the knife.
 
+`[run]` **And Aniess is carrying one.** Godstone produces a voice its carrier hears and
+takes for their god ([the godstone dagger](the-godstone-dagger.md) §2, *Who is actually
+answering*). So Setha, in a bathtub, is describing the exact thing in Aniess's pack — and
+the exact thing they are about to steal a second piece of. **Do not point at it.** Say
+Setha's lines straight and let whoever is listening make the connection or not.
+
 ### Issa, if she is in the room `[settling]`
 
 **She recognizes what is going on and does not bring it up.** Issa paid a death-cult for what was
-done to her, went into it awake, and came out serene. A person carrying something that
-speaks to them, and glad about it, does not look wrong to her — it looks like what she
-did.
+done to her, was awake for it and does not regret it. A person carrying something that speaks to them,
+and glad about it, looks to her like what she did.
 
 - *If Setha pushes.* *"Leave her. She's happy."*
-- *If somebody asks her straight what she thinks the toad is.* *"Something talks to her. What
-  she calls it is her business."*
+- *If somebody asks her straight what she thinks the toad is.* *"Something talks to her. Not my
+  business what she calls it."*
+- *And she is a cleric, so somebody will put the obvious question to her.* *"Mine's never said a word
+  to me. I still put the dead down and it takes."* `[new — Will 9/2]` **That is how divine
+  magic works in Nila**: the rites hold, and nobody claims a voice answers. Aniess is in the same position and has never been asked about it.
 
-`[OPEN]` **Whether Issa has worked out what it actually is.** The version that fits her:
-she has not, and would not care much if she had. She has no spell that finds a fiend —
-Grave Domain gives her the dead, not demons — so this is recognition, not detection.
+`[OPEN]` **Whether Issa has worked out what it actually is.** The likelier answer: she has
+not, and would not care much if she had. She has no spell that finds a fiend —
+Grave Domain gives her the dead, not demons — so anything she knows comes from recognizing
+it, not from a spell.
 
 ### If it comes to initiative — the steam `[settled 9/2]`
 
