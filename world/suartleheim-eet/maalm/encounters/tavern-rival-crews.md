@@ -473,6 +473,29 @@ the Amseh ritual knife she wears at her belt.
 - *If a PC bites back.* *"I clawed everything I have out of people who were sure
   I'd come second. I don't anymore."*
 
+`[settled 9/1]` **She wants Calix.** Established at the table off an Aniess check on who in
+the room Setha was most interested in.
+
+**Why it is Calix and not one of the others.** Setha has contempt for the Tally House and
+everyone in it, which Aniess read off her on a natural 20, so the only people in the room
+she does not look down on are her own four. Of those: **Doruk** is the hand she gives
+orders to. **Bram** is liked by the dock crews, which is the thing she has contempt for.
+**Issa** is cold to the touch, and people do not warm to her.
+
+**Calix is the only person in Setha's life who does not answer to her.** Everyone else is
+below her, buying from her, or in her way. Calix takes orders from a coin instead, and no
+amount of money or rank moves the coin. Setha is a Bard of Lore who reads and persuades
+people for a living, and Calix cannot be read or persuaded. She wants the one person she
+cannot read.
+
+**The thing she cannot command is Preem's.** The coin is read by a toad, the toad is a
+quasit, and the quasit is **Preem's**. Setha is fighting the founder houses on Preem's
+charter, and the one member of her crew she cannot command is Preem's informer on it.
+She does not know that, and neither does Calix.
+
+`[run]` **She stays in the room while Calix is in it.** On the night of the theft, moving
+Calix moves Setha.
+
 **In conversation.** She'll talk freely about the Writ finishing the Valley and
 needle the party's sloppiness. Earn her and the founder-blood story surfaces:
 she's a **founder-blood bomb in half-elf skin.** Her mother was the last of a
@@ -629,82 +652,74 @@ having *enjoyed* him.
 #### Calix Vire — elf · Writ pathfinder *(Pax's mirror)*
 
 **Appearance.** Flat, unbothered, sunglasses-cool even in a dim tavern, a worn
-coin always in hand — and a small **toad** riding one shoulder or cupped in his
-palm, which he treats as a blessed sign and is never without. He flips the coin
-for his drink — *"Heads, the red. Tails, the dark"* — and orders the result with
-total finality, taking the flip as God's will. Play him straight-faced Blues Brothers.
+coin always in hand — and a small **toad** riding one shoulder or cupped in her
+palm, which she treats as a blessed sign and is never without. She flips the coin
+for her drink — *"Heads, the red. Tails, the dark"* — and orders the result with
+total finality, taking the flip as God's will. Play her straight-faced Blues Brothers.
 
 **Hook lines.**
 - *Intro.* *[doesn't look up; produces a worn coin]* *"Calix."* *[flips it, reads
   it, pockets it]* *"...It says I'm to be civil to you. Sit down, then."*
 - *Signature* *(deadpan):* *"I'm on a mission. No, I won't tell you what it is —
-  I'm not sure the telling's permitted. I go where I'm sent, I do what's set in
-  front of me, and the ones who don't come back weren't meant to. You look
-  troubled by that. I'm not. That's the difference between a man who *thinks* he's
-  called and a man who *is*."*
+  I won't tell you what it is. I go where I'm sent, and the ones who don't come back
+  weren't meant to. You look troubled by that. I'm not."*
 
-**In conversation.** Almost nothing — that's the point. He's serenely, totally
-certain he was **chosen for a purpose;** he had a private revelation, the world
-seemed to *agree* (he was elevated, he succeeded), and every win since hardened
-the certainty into something calm and complete. He never explains the mission and
+**In conversation.** Almost nothing — that's the point. She is serenely, totally
+certain she was **chosen for a purpose;** she had a private revelation, the world
+seemed to *agree* (she was elevated, she succeeded), and every win since hardened
+the certainty into something calm and complete. She never explains the mission and
 never doubts it. The grave-work and any wreckage are just part of The Mission,
-shrugged off with a calm that plays funny right up until you realize he means
-every word.
+She shrugs both off, and she means it.
 
 **Sample lines.**
 - *The coin, at any fork:* *[flips a worn coin, glances down]* *"We go left."* —
-  *"Don't look at me, friend. I don't make the calls. I just read them."*
-- *On the dead — crewmates, bystanders, whoever the work cost:* *"They were called
-  home. I wasn't. I wouldn't read too much into outliving me — but you can read*
-  something *into it."*
-- *On doubt and luck:* *"I don't gamble. Gambling's for men who don't know how it
-  ends. I always know how it ends."* … *"I had doubt once. Then I started winning.
-  Hard to argue with a streak."*
-- *On meeting Pax (his mirror):* *"You hear it too — the voice. No? Huh. It told me
-  you would. Give it time."*
+  *"Don't look at me. I just read it."*
+- *On the dead — crewmates, bystanders, whoever the work cost:* *"They were called home. I wasn't."*
+- *On doubt and luck:* *"I don't gamble. I already know how it ends."* … *"I had doubt once.
+  Then I started winning."*
+- *On meeting Pax (her mirror):* *"The voice. You hear it too. No? Huh. It told me you
+  would. Give it time."*
 
-**DM only — what he can't tell you. 🔒** Calix is a **prophet who is really a
-puppet.** The "voice of God" in his head is the **telepathy of his familiar** —
-his **pet toad,** which he takes for a blessed sign, in truth a **quasit** (a toad
+**DM only — what she can't tell you. 🔒** Calix is a **prophet who is really a
+puppet.** `[note]` *That label is ours, not hers.* The "voice of God" in her head is the **telepathy of her familiar** —
+her **pet toad,** which she takes for a blessed sign, in truth a **quasit** (a toad
 is one of its forms), and it is **Preem's.** It murmurs only into *Calix's* mind
-and he mistakes it for God; to anyone else it's a **mute toad,** and it won't talk
-if the party probe it. Preem steers his deniable true-believer through it — Calix
-obeys as divine command, never knowing it's a demon or that it answers to Preem.
+and she mistakes it for God; to anyone else it's a **mute toad,** and it won't talk
+if the party probe it. Preem gives Calix orders through it and can deny doing so — she
+obeys them as divine command, never knowing it is a demon or that it answers to Preem.
 (It was also the subtlest of Preem's three planted familiars at getting its crew
 to the tower: where the bat carried notes to the party and the centipede carried
 the Jackals' note, the toad simply *led Calix* to walk the Writ in — no note at
-all.) The quasit can **scout and warn,** so the voice steers him clear of what
-kills his crewmates, and he reads being the survivor as divine favor. He makes **no
-big choice himself:** he **casts lots** (worn coins, knucklebones) at every fork
+all.) The quasit can **scout and warn,** so the voice steers her clear of what
+kills her crewmates, and she reads being the survivor as divine favor. She makes **no
+big choice herself:** she **casts lots** (worn coins, knucklebones) at every fork
 and obeys the throw, and the voice **"interprets"** an ambiguous result, so Preem
 can tip even the coin. *The mirror:*
 same chosen-instrument conviction as Pax, opposite reception — Pax **rejected** and
-tormented, Calix **vindicated** and untroubled. His certainty is **pure
-psychology, not cosmology** — he doesn't know what the names *do,* so he gives
-nothing away. Clock the familiar for a demon and he becomes a quiet wire back to
-Preem — don't spend it cheaply.
+tormented, Calix **vindicated** and untroubled. **Nothing answers her; she only believes something does.** She does not know what the
+names *do,* so she gives nothing away. Clock the familiar for a demon and she becomes a way to reach
+Preem. Hold it back until it matters.
 
 Every "vindication" is within a quasit's reach — a warning, a nudge, dumb luck —
-and he reads each as proof. Pull these out when the party needs to *feel* his
-certainty:
-- **The founding proof.** On an earlier dig the lots told him to climb out for
-  air, and the workings came down on everyone still below. He walked away the only
-  survivor and hasn't doubted since — *the man the cave-in spares* is half of why
-  the Writ recruited him. *(The toad sensed the bad ground; a timely nudge, no
+and she reads each as proof. Use these to show how certain she is:
+- **The founding proof.** On an earlier dig the lots told her to climb out for
+  air, and the workings came down on everyone still below. She walked away the only
+  survivor and has not doubted since — *the one the cave-in spares* is half of why
+  the Writ recruited her. *(The toad sensed the bad ground; a timely nudge, no
   shield.)*
-- **The pampered toad.** He tithes a tenth of every score *"to the one who carries
-  me,"* so **the toad eats better than the crew does,** off a little dish. He's
-  certain it's a holy sign and has **no idea** it's the literal carrier of the
-  voice — he keeps his own leash fat and content.
-- **The wedding he crashed.** A coin sent him through the wrong door into a
-  founder-family wedding; deadpan-certain he was *meant* to be there, he walked out
+- **The pampered toad.** She tithes a tenth of every score *"to the one who carries
+  me,"* `[note]` *built to sound like a devotional formula — leave the wording alone,* so **the toad eats better than the crew does,** off a little dish. She is
+  certain it is a holy sign and has **no idea** it is the literal carrier of the
+  voice — she feeds the thing that gives her orders.
+- **The wedding she crashed.** A coin sent her through the wrong door into a
+  founder-family wedding; deadpan-certain she was *meant* to be there, she walked out
   having made the exact contact the Writ needed. *"Told you."*
-- **The coin that chose a life.** At a fork with one prisoner and no time he
+- **The coin that chose a life.** At a fork with one prisoner and no time she
   flipped for it — *heads walks, tails doesn't* — and abided without a flicker.
-  *"Wasn't my call."* No guilt, because he never *chose.*
+  *"Wasn't my call."* No guilt, because she never *chose.*
 
-**How to play him.** Flat, unflappable, never defensive — he doesn't argue, he
-just *knows.* The comedy is the horror.
+**How to play her.** Flat, unflappable, never defensive — she does not argue, she
+just *knows.* Play it flat and let the table react.
 
 ---
 
@@ -802,12 +817,16 @@ a level below Riska, the scout she replaced.
 Hadda waters it; she drinks it like fire and pretends not to notice.
 
 **Hook lines.**
-- *Intro.* *[bright, too eager]* *"You're collecting names too? Real ones? I'm the
-  *scout* — first one into the dark, that's me, that's my job now. I went the
-  deepest last dig. Deepest of anybody."* *(A dare and a plea at once.)*
+- *Intro.* *[bright, too eager]* *"You're name-hunters? I'm the scout. I go in first.
+  That's mine now, they gave it to me. I went the deepest last dig. Deepest of
+  anybody."* *(A dare and a plea at once.)*
 - *Signature* *(if the party is kind, the bravado thins):* *"...Do the mummies
-  ever — no. Never mind. It's just a job. Riska used to say that. She had my seat
-  before me."* *[quickly bright again]* *"She'd have loved how deep I got."*
+  ever — no. Never mind. It's just a job. That's what Riska said. She was scout
+  before me."* *[quickly bright again]* *"She'd have laughed at how deep I got."*
+
+- *Talking back to Setha* `[played — session 13]`. When Renk called the Jackals
+  *"those amateurs?"* across the room, Sefi answered her: *"Setha! Don't be such a jerk!"*
+  No one else in either crew talks back to Renk, and Renk did not answer.
 
 **In conversation.** A halfling **war-orphan** the Jackals pulled from the ruins
 of a port the **Muspel reconquest** had broken, and raised as the crew's kid. She

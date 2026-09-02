@@ -157,7 +157,7 @@ on everything, more men than buildings. A canal runs straight inland from the ba
    finished the whole Valley without missing a name and have the upper floor of the guest
    house while they wait on a boat north; the **Brass Jackals** are broke and a member or
    two down. Each crew member is paired with a PC. Use **Calix's pet toad** once,
-   murmuring into his head, and do not explain it.
+   murmuring into her head, and do not explain it.
 4. **Beartholomew.** `[played — session 12]` `→` [the godstone dagger](the-godstone-dagger.md)
    The watch-stone scene is run: the cant, and **the ask, made on the spot** — the **Amseh
    ceremonial blade** off **Setha Renk's** belt, carried up the canal, because he cannot
@@ -220,7 +220,7 @@ that runs slower the nearer Haals they get are the next leg —
 
 *Everything here happens in one evening, in the
 [Tally House](../lore/the-tally-house-and-the-guest-house.md) and on its porch. Read down;
-each character's opening line is ready to say. Backstory, the mirrors and the DM-only
+each character's opening line is ready to say. Backstory, the pairings and the DM-only
 material are in [the rival crews](../../maalm/encounters/tavern-rival-crews.md) — this
 is the sheet to run from.*
 
@@ -290,7 +290,7 @@ watch-stone at noon, and Beartholomew put it to Aniess there. He asked in the fi
 The party already have the job, and the evening is: the room, the two crews, whatever they
 get out of Bear over the drink, and then the knife.
 
-## The clock — the boat goes tomorrow `[settled — Will 9/1]`
+## The boat goes tomorrow `[settled — Will 9/1]`
 
 **The Writ have been stuck at Aar several days waiting on passage, and their boat leaves
 tomorrow.** Renk goes aboard wearing the peseshkef. That replaces the two or three days in
@@ -428,8 +428,8 @@ speaks quietly and he buys. `↔` **[Sarric](../../../../characters/sarric.md)**
 - `[OPEN]` **Whether she works out what kept it.** She is Grave Domain and she can count
   Aniess's slots. Have her ask *"What did you cast on him?"* and the honest answer is the
   small Anubis. Playing it means the Writ's cleric knows the party carry a piece of stone
-  the night before their heirloom goes missing, and it costs them the quiet version of the
-  theft. Decide before the table sits down, not mid-conversation.
+  the night before their heirloom goes missing, which means the Writ are watching them and
+  there is no unnoticed version of the theft. Decide before the table sits down, not mid-conversation.
 
 **[Bram Hale](../../maalm/encounters/tavern-rival-crews.md#bram-hale--human--writ-muscle-jaspers-mirror)**
 — human, warm, matches the party drink for drink and buys his own round.
@@ -445,7 +445,7 @@ speaks quietly and he buys. `↔` **[Sarric](../../../../characters/sarric.md)**
   party that takes him up on it has to say what they are doing on that gallery.
 
 **[Calix Vire](../../maalm/encounters/tavern-rival-crews.md#calix-vire--elf--writ-pathfinder-paxs-mirror)**
-— elf, flat, the coin, the toad in his palm. `↔` **[Pax](../../../../characters/pax.md)**
+— elf, flat, the coin, the toad in her palm. `↔` **[Pax](../../../../characters/pax.md)**
 
 - *Intro.* *[flips it, reads it, pockets it]* *"Says you're worth the trouble."* *[pockets it]*
   *"Last three that sat there, it said no."*
@@ -478,7 +478,7 @@ Broke, and not leaving. They talk about the Writ going all evening.*
 - *On how the Writ got the berth.* *"We priced that berth. It's a year of us."* *[drinks]*
   *"Somebody found them one in a day."* **Then she stops.** Pressed: *"I keep the book.
   That's all I've got to say about it."* `[DM]` Do not let her finish the thought. The
-  party work it out or nobody does.
+  party work it out, or leave it unsaid.
 
 **[Sefi](../../maalm/encounters/tavern-rival-crews.md#sefi--halfling--brass-jackals-scout)**
 — halfling, a kid in too-big kit, drinking what Hadda waters.
@@ -557,16 +557,15 @@ PC makes it otherwise. Nobody at the Writ's table wants a corpse the night befor
 - **The room takes sides.** Dock crews back the Jackals because the Writ have never bought
   a round for anyone but themselves.
 
-### What it is worth to the party
+### What the brawl gives the party
 
 **The brawl empties the guest house.** Bram leaves the gallery to pull Doruk off, the
 upper floor comes down to watch, and Yessa is out from behind her counter with everyone
 else. That is several minutes with the south stair unwatched. The only other unwatched
 stretch is the bath at dawn.
 
-Which means a party that has worked out what Doruk did can start it. `[run]` **Let them,
-and do not soften what they are doing** — they are starting a fight over Mogg's dead kin
-to empty the gallery.
+Which means a party that has worked out what Doruk did can start it. `[run]` **Let them.** They are starting a fight over Mogg's dead kin to empty the
+gallery.
 Do not comment on it at the table; [Mogg](../../maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)
 is still bleeding on the floor afterwards, and he bought them a drink earlier in the
 evening.

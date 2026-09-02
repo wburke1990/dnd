@@ -12,7 +12,7 @@ status: ready
 > on the [BlueWater Inn](../../../../tts/one-world-maps-inventory.md) map** (OW donor
 > `1fd7e3`), whose floor is a drawn plan of the ground floor — match the rooms described
 > below to the plan printed on the map. The **guest house** is
-> the one good building on the water, and the
+> the stone building on the water, and the
 > **[Lapis Writ](../../maalm/encounters/tavern-rival-crews.md)** have its upper floor,
 > with the peseshkef on Setha Renk's belt. Legend: `[settling]` · `[loose]` · `[OPEN]`.
 
@@ -69,9 +69,9 @@ the ore guards coming off the gate, Beartholomew with them.
 Hunt at [Brauron](../../brauron/encounters/the-peach-town.md), waiting on boats north, loud
 about who has signed with whom.
 
-**The Writ come down after dark.** They have the best rooms in the port and nothing to do in
-them. Setha Renk buys rounds where the room can see her buy them, Bram Hale drinks with the
-dock crews and is liked, Calix Vire sits with his toad and flips his coin for what he
+**The Writ come down after dark.** They have the guest house's upper floor and no work in
+the evenings. Setha Renk buys rounds where the room can see her buy them, Bram Hale drinks with the
+dock crews and is liked, Calix Vire sits with her toad and flips her coin for what she
 orders, and Timo runs their bottle down from the guest house. Renk wears the knife at her
 belt the whole time.
 
@@ -105,8 +105,8 @@ it on her belt, and Beartholomew has watched the guest house every day this week
 Five things a party can pick up in an evening without asking for any of them:
 
 - **What boats are due, and when.** Every man on the basin knows. **The Writ's berth north
-  leaves tomorrow** after the best part of a fortnight waiting on it, and the room is
-  saying so.
+  leaves tomorrow** after the best part of a fortnight waiting on it, and the crews are
+  talking about it.
 - **The Writ have been twelve days in a building they took for three**, and Renk told
   Yessa to bill the Company.
 - **The tomb-lepers.** Copaa's driven-out people came down the towpath in the spring and
@@ -127,7 +127,7 @@ Five things a party can pick up in an evening without asking for any of them:
 ## The building `[settling]`
 
 Cut stone to the first floor and good timber above, slate roof, the only building on the
-basin that was built to last. It faces the water across the wharf road.
+basin. It faces the water across the wharf road.
 
 **A gallery runs the length of the upper floor on the water side**, with an outside stair at
 each end. Every upstairs room opens onto it. Nobody goes through the ground floor to reach a
@@ -149,7 +149,7 @@ From the head of the north stair, in order:
 1. **Empty.** Yessa holds it for the Company — Halder Quinn's guests, an inspector off a
    boat. She will let it at a Company price to anyone who asks, and nobody has asked.
 2. **Bram Hale.** No darkvision. He takes the first watch and takes it on the gallery.
-3. **Calix Vire.** Elves do not sleep; he trances four hours and is awake for the rest of
+3. **Calix Vire.** Elves do not sleep; she trances four hours and is awake for the rest of
    the night. The quasit goes where it likes and is invisible when it wants to be.
 4. **Issa Quib.**
 5. **Doruk Pell's room, which he does not sleep in.**
@@ -164,8 +164,8 @@ side of the wall.
 **The windows shutter from the inside.** In this heat Renk's shutter onto the gallery stands
 open all night. Her door has the DC 15 lock. The shutter has none.
 
-**Calix wards the gallery with *Alarm* as a ritual** when it occurs to him, which is not
-every night. Eight hours, and the alarm reaches him within a mile whether or not he is
+**Calix wards the gallery with *Alarm* as a ritual** when it occurs to her, which is not
+every night. Eight hours, and the alarm reaches her within a mile whether or not she is
 asleep.
 
 ## Yessa, and what she will do `[settling]`
@@ -205,8 +205,8 @@ the canal and not out to sea.
 - **[Aar](aar.md)** — the port, the watch-stone, the canal, and who else is here.
 - **[The godstone dagger](../encounters/the-godstone-dagger.md)** — the ask on the porch,
   the three ways to get the knife, and the numbers on the Writ.
-- **[Beartholomew](../../../../characters/beartholomew.md)** — his week, his cover, and the
-  echo.
+- **[Beartholomew](../../../../characters/beartholomew.md)** — his week, his cover, and what
+  he asks the party for.
 - **[The rival crews](../../maalm/encounters/tavern-rival-crews.md)** — the Lapis Writ,
   member by member, and the Brass Jackals.
 - **[Satyr taverns](../../../nila/lore/satyr-taverns.md)** — why both houses are kept by a

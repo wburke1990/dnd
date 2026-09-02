@@ -20,8 +20,7 @@ world. From his square tower in the citadel he laid out the work: travel
 out to the **Valley of the Kings**, the tombs of the dead Amseh dynasty,
 and bring back the **names** written in them. He framed it as antiquarian
 salvage for the Foundation's archives. (What the party does not yet know:
-the names are fuel for his real work, demon-binding by true name. They are
-restocking his pantry.)
+the names are what he uses for his real work, demon-binding by true name.)
 
 ---
 
@@ -39,7 +38,7 @@ restocking his pantry.)
   [Ratatat](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md), a rat-headed humanoid — who ambushed
   them in the citadel district.
 - The **rats went for the map** — Preem's freshly-given atlas, not the party's
-  throats. That's the tell: this was a **robbery aimed at the gift,** not a kill.
+  throats. **The rats grabbed at the map and did not go for the party.**
 - The fight went the party's way, but the **rat man escaped** before they
   could finish it or learn who sent it. The party did not capture or
   identify it.
@@ -55,8 +54,8 @@ restocking his pantry.)
 
 # DM NOTES & OPEN THREADS
 
-- **The rat man is still loose — and he's a real recurring adversary.** He
-  isn't a throwaway: he's the antagonist quietly shadowing the party. By
+- **The rat man is still loose, and he comes back.** He follows the party and
+  turns up again in later sessions. By
   Session 2 it's established that **he's bribing the city-gate guides** to
   track the party's movements. The ambush *right outside Preem's tower* is a
   thread to keep pulling — he's watching Preem's hirelings, which the party
@@ -66,7 +65,7 @@ restocking his pantry.)
   ([Preem's gifts](../characters/preem.md#preems-gifts--bestowed-in-the-first-scene)),
   and the rat man knows it — so he waits outside the tower and **ambushes crews the
   moment they leave,** freshly loaded. The **map is the prize** (the rats lunged
-  for it here); he pays the square's guards to fight and grabs for it. Replayed
+  for it here); he pays the square's guards to fight and grabs for it. Run again
   in full as [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md).
 - 🔒 **And he's a useful idiot, not a freelancer.** Ratatat is paid to steal the maps for a
   buyer he knows only as **"V."** — and has **no idea** V. is an agent of the
@@ -112,9 +111,8 @@ restocking his pantry.)
   again in **The Twelve** — and sets the quiet rhyme that **each crew is led up by
   its demon:** bat in, centipede in. **The familiar is also how Preem summons each
   crew:** the bat carried a note to every PC, the centipede carried the Jackals'
-  note, and the toad — subtlest of the three — just steered Calix to walk the Writ
-  in, no note at all. Each familiar **murmurs to its own host** — but Jasper knows
-  his bat talks, while **Calix takes his toad for the voice of God and Pim takes
+  note, and the toad brought no note at all — it steered Calix to walk the Writ in. Each familiar **murmurs to its own host** — but Jasper knows
+  his bat talks, while **Calix takes her toad for the voice of God and Pim takes
   his centipede for his own drug-addled brain;** probe the toad or the bug and it
   plays mute. They watch and answer to Preem alone. See
   [Preem's demons → crew familiars](../characters/preems-demons.md) and
@@ -128,7 +126,7 @@ restocking his pantry.)
       espionage on Preem. Trail ends at **V.** (the one Maalm agent;
       compartmentalized). Still `[OPEN]`: **who V. is** — see
       [`bestiary/the-rat-man.md`](../world/suartleheim-eet/maalm/bestiary/the-rat-man.md).
-- [ ] **He hunts *every* Preem crew, the PCs among them.** Replayed as a
+- [ ] **He hunts *every* Preem crew, the PCs among them.** Run again as a
       set-piece in [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md):
       the party finds another of Preem's groups ([The Second Hand](../characters/the-second-hand.md))
       pinned down by the rat man and **corrupt city guards**, saves them,

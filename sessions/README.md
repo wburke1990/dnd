@@ -118,6 +118,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [session 10](session-10.md) | `played` | V.'s offer at the coffeehouse, the docks, and the lost map at Preem's tower |
 | [session 11](session-11.md) | `played` | Ship's roles handed out, then the burning wreck outside Maalm and the merfolk fight |
 | [session 12](session-12.md) | `played` | Rustam killed to end the sepsis, and his body dragged through Aar to his brother's door |
+| [session 13](session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
 | [player messages earth dreams](player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 <!-- END GENERATED INDEX -->

@@ -330,7 +330,14 @@ gets back to Maalm, and what Preem does with it.
   caught, he does not know them.
 - **He pays either way** and does not ask how they did it.
 
-## 7 · Up the canal — what Aniess finds out `[settling]`
+## 7 · What Aniess found out `[played — session 13]`
+
+**This happened in the tavern, not on the towpath.** Greg rolled a natural 20 investigating
+Setha, and Aniess put the small Anubis beside the peseshkef and saw they are the same
+stone — a night before the theft rather than three days after it. The canal version below
+is kept for the shape of what she knows.
+
+### The canal version, as written
 
 She has carried the **small Anubis** since Maalm, so she knows what it weighs. Put the two
 together — in a pack on the towpath — and they are the same stuff: the same grey with no

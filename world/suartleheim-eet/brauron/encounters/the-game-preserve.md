@@ -59,13 +59,12 @@ funneled to one chokepoint.
   Maalm aristocrats who buy the best seat — the sort of "wealthy Maalm hunters" who charter
   the transport. The crew that won the Valley, out hunting.
 - **The party come as the quarry** — the one entry they can afford (put a name down as the
-  stag, below) — or they slip in. So the Writ hunt and the party are hunted. The mirror is
-  sharpest at **Calix and Pax:** Calix rides with the hunters; **Pax is run as the stag** in
-  the Actaeon man-hunt.
+  stag, below) — or they slip in. The Writ ride as hunters and the party is quarry. Calix
+  rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
 - **The other crews** turn up as their means allow ([how each crew moves](../../maalm/encounters/tavern-rival-crews.md)):
   the funded reach the hunt; the broke [Brass Jackals](../../maalm/encounters/tavern-rival-crews.md) if their
-  rotting tub survives the crossing. Rival crews — and the bodies of the ones who lost — are
-  the danger lever out in the wild.
+  rotting tub survives the crossing. Rival crews are the danger out in the wild, and the
+  party finds the bodies of the crews that lost.
 - `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at
   the party in [Session 10](../../../../sessions/session-10.md) — they finished the Valley without
   missing a name, so it fits.
@@ -101,7 +100,9 @@ funneled to one chokepoint.
 The hunt is the way past the fence. Reaching the tree is the party's own problem after
 that.
 
-- **Come as hunters** — join either strand.
+- **Come as hunters** — join either strand. `[settled at the table 9/1]` **A hunter's
+  place costs 5,000 gp**, which Pim Riddle told the party at Aar. They do not have it and
+  said so, so buying in is not the way they get through the fence.
 - **Come as the quarry** — put your name down as the stag in the man-hunt. This is the
   one the party can afford.
 - **Slip in** past the fence.

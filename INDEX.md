@@ -374,6 +374,7 @@ Sailing, weather, fleets and what lives in the water.
 | [session 10](sessions/session-10.md) | `played` | V.'s offer at the coffeehouse, the docks, and the lost map at Preem's tower |
 | [session 11](sessions/session-11.md) | `played` | Ship's roles handed out, then the burning wreck outside Maalm and the merfolk fight |
 | [session 12](sessions/session-12.md) | `played` | Rustam killed to end the sepsis, and his body dragged through Aar to his brother's door |
+| [session 13](sessions/session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
 | [player messages earth dreams](sessions/player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 ## references

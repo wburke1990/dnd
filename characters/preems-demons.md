@@ -26,7 +26,7 @@ before they understand what they are dealing with.
 
 ## True Names & Planar Binding *(homebrew house rule)*
 
-The mechanical heart of Preem's power, and the campaign's central moral object.
+How Preem binds demons.
 **[settled — "Do it."]**
 
 - Casting **Planar Binding** on a fiend or celestial **while speaking its true
@@ -38,9 +38,9 @@ The mechanical heart of Preem's power, and the campaign's central moral object.
   time — over decades, that's a statistical certainty of at least one escape.
   Auto-success is what makes **lifelong, generational bondage** possible, and
   what makes the trap feel airtight.
-- This is why **the names are the whole game.** Every name the party pulls from
+- This is why Preem wants the names. Every name the party pulls from
   the tombs and sells to Mul is another true name in Preem's ledger — another
-  demon he can bind beyond any hope of refusal. He has an *army* of true names.
+  demon he can bind with no save. He has an *army* of true names.
   (See [the names quest](preem.md#the-names-quest--why-he-sends-the-party-to-the-tombs).)
 - It is also the source of the [dream quest's](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)
   horror: the merchant's demon wife **could not have escaped, ever**, because he
@@ -356,7 +356,7 @@ paymaster above). A quasit wears **bat, centipede, or toad,** turns **invisible,
 and answers to Preem; all share the reveal arc (helpful familiar → wrongness →
 demon spying for Preem) and the Demonic Restoration comedy if killed. Each
 **murmurs telepathically to its own host** — but only Jasper *knows* his bat
-talks; **Calix hears his toad as the voice of God, and Pim hears his centipede as
+talks; **Calix hears her toad as the voice of God, and Pim hears his centipede as
 his own drug-addled brain.** To everyone else, and if the party probe them, the
 toad and centipede are a **mute toad and a mute bug;** the bat is the only
 acknowledged talker.
@@ -365,7 +365,7 @@ acknowledged talker.
   speaks in his mind, and it **delivered a summons-note to each PC** before leading
   them up to Preem. Full treatment in [The Psychic Bat](the-psychic-bat.md).
   **[settled]**
-- **Calix Vire's "blessed toad"** — in the **Lapis Writ.** It **murmurs into his
+- **Calix Vire's "blessed toad"** — in the **Lapis Writ.** It **murmurs into her
   mind and he takes it for the voice of God,** obeying as a prophet obeys — so it
   needed **no note** to walk the Writ into the tower, the subtlest summons of the
   three. Preem steers his deniable instrument through it. See the
