@@ -593,6 +593,89 @@ a three-day price and has been told twice to bill the Company.*
 - *What she will not do.* Go up the outside stair after dark, hear the gallery from behind
   her counter, or lie to Halder Quinn's face afterward.
 
+## The bath house, before dawn `[run]`
+
+*The last chance at the belt. Yessa draws it for the ones sailing;
+the yard is walled, the room is stone, and there is one door. The
+[yard and the bath house](../lore/the-tally-house-and-the-guest-house.md#the-building-settling):
+a stone floor, a copper, and a bench along one wall with hooks over it.*
+
+**The belt comes off and goes on the bench**, peseshkef and all, for about twenty minutes.
+
+### Who is in the room
+
+- **[Setha Renk](../../maalm/encounters/tavern-rival-crews.md#setha-renk--half-elf--lapis-writ-leader-blackacres-mirror)**
+  in the water. She is alone here with Calix and Issa.
+- **[Calix Vire](../../maalm/encounters/tavern-rival-crews.md#calix-vire--elf--writ-pathfinder-paxs-mirror)**
+  on the bench with the belt, dressed, because **Setha asked her to sit with it.** She would
+  sits where she is told.
+- **[Issa Quib](../../maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-tomb-walker-aniesss-mirror)**
+  in and out. She does not want the hot water.
+- **The toad.** See *What actually guards the knife*, below.
+
+### The lines
+
+**Setha** — she sails in an hour and she is trying to get something out of Calix without
+asking for it.
+
+- *Opening, to the yard.* *"Timo! It's gone cold at this end."*
+- *To Calix, and this is the one she has been working up to.* *"You could have taken the
+  room next to mine. There were six of them."*
+- *On the seat, if it comes up.* *"Two years to the vote. Ask me then."*
+- *If she sees an intruder* — she does not shout. *"Don't run. I've already seen your
+  face."* `[DM]` She has **Cutting Words** and she will spend a die on the first check
+  anyone makes to get out of that yard.
+
+**Calix** — flat, dressed, holding nothing, sitting where she was put.
+
+- *If anyone speaks to her.* *"She asked me to sit with the belt. So I'm sitting with the
+  belt."*
+- *Answering Setha about the room.* *"I flipped for it. Far end."*
+- *To the toad, mid-conversation, to nobody the party can see.* *[tilts her head]*
+  *"...No. She's fine."* `[run]` **Do this once and do not explain it.**
+- *If they try to talk her off the bench.* *[flips it]* *"Tails. I'll stay."*
+
+**Issa** — cold, brief, and the one who works out afterwards what happened.
+
+- *On the water.* *"I'll go after. It doesn't do anything for me."*
+- *If the knife is already gone when she looks.* *"Setha. Your belt."* Flat, no alarm, no
+  hurry.
+
+### What actually guards the knife
+
+**Not Calix. The toad.** Calix hears its telepathy and takes it for the voice of God — she
+has no idea it is a **quasit**, and none that it is **Preem's**
+([Preem's demons](../../../../characters/preems-demons.md)). What that means in this room:
+
+- **It turns invisible at will and has darkvision 120 feet.** A dark stone room is no cover.
+- **Calix senses what it senses,** through the familiar bond. So Calix is watching the
+  bench from wherever the toad is, whether or not she is looking at it.
+- **Preem hears whatever it hears.** A theft in front of the toad is a theft Preem knows
+  about, whatever the Writ work out.
+- `[OPEN]` **Whether the toad is in the bath house at all.** It goes where it likes. Decide
+  before the scene, because it is the difference between a hard Stealth check and an
+  impossible one.
+
+**Calix's Portent does not fire against a hidden party** — she has to see the creature to
+replace its roll ([the godstone dagger](the-godstone-dagger.md) §11). It fires the moment
+somebody is spotted, talks their way in, or runs.
+
+### The way in
+
+**Setha's attention is on Calix, not on the belt.** She wants it back and has an hour left
+to get it. Anything that pulls Calix into that conversation — or into the water — takes the
+watcher off the bench without anyone rolling against her.
+
+- **Give Setha an opening and she will take it herself.** She has been working up to the
+  room-next-to-mine line all night.
+- **Or move the water.** Timo carries wood and hot water in; Yessa is out of bed and
+  resentful about it; the copper is the only heat in the yard.
+- **Twenty minutes** and the belt goes back on.
+
+`[DM]` **If the party take it here, Issa is standing in the room within the hour** and
+**Locate Object** reaches 1,000 feet. The canal, or lead sheet off the wharf
+([the godstone dagger](the-godstone-dagger.md) §11).
+
 ## If they take it
 
 Straight into [the godstone dagger](the-godstone-dagger.md) §5 for the three ways in, §11
