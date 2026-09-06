@@ -791,6 +791,84 @@ invisibility at will, and Magic Resistance. `[run]` **If the party kill it in fr
 Calix, she loses the thing she has been asking for answers.** She does not know what it
 was.
 
+### Round one — what each of them does `[run]`
+
+*Roll initiative and read down. Every first move below is what that character does on their
+first turn, and none of them are trying to kill the party: Setha wants the
+knife back and her boat, and the other two work for her.*
+
+| Who | Init | AC | First move |
+|---|---|---|---|
+| **The toad** | +3 | 13 | Already invisible. Tells Calix where everyone is, then **Scare** |
+| **Setha** | +2 | 12 | **Heat Metal**, and she shouts while she casts |
+| **Calix** | +2 | 15 | **Misty Step** to the doorway, then **Mirror Image** |
+| **Issa** | +2 | 13 | **Command** — *"Drop."* — or **Silence** on the door |
+
+**Setha is naked in a tub.** No armour, no instrument, no knife — it is on the bench across
+the room. AC 12 is her Dexterity and nothing else.
+
+**Calix has Mage Armor up.** She has been sitting on that bench for twenty minutes with
+nothing to do.
+
+---
+
+**The toad — quasit.** It goes first, and telling Calix where everyone is costs it no
+action.
+
+- **It is already invisible and it has been all along.** Round one it tells Calix, through
+  the familiar bond, exactly where everyone in the room is. That is free, and it is how Calix knows where everyone
+  is on round one.
+- **Then Scare** on whoever is nearest the belt: DC 10 Wisdom save, frightened.
+- `[run]` **Play its round before Calix's and do not describe it.** Something the party
+  cannot see makes one of them afraid, and then Calix moves to the door.
+
+**Setha Renk — Heat Metal.** She protects the knife rather than herself.
+
+- **On the armour of whoever is closest to the bench** — 2d8 fire, CON save or drop what
+  they are holding, and armour cannot be dropped. Jasper is the target this is written for.
+- **If nobody in the room is wearing metal**, she casts it on **the copper** instead: the
+  room goes heavily obscured while she holds it, and she is not the one trying to carry
+  something out.
+- **If someone already has hands on her** — Invisibility instead, and she gets out of the
+  tub. She cannot hold both; they are each concentration.
+- **She shouts as she casts.** Free, and it is what brings the people listed below.
+- **Reaction: Cutting Words**, on the first roll that would take the knife out of the room.
+
+**Calix Vire — the doorway.** She does not hurry and she does not raise her voice.
+
+- **Bonus action: Misty Step to the door.** Whoever is carrying the knife has to get past
+  a wizard to leave.
+- **Action: Mirror Image.** Three duplicates, in a room where nobody can see properly.
+- **Portent** — she has two dice and she spends one the moment a party member is visible
+  and rolls something that matters. She cannot use it on a creature she cannot see.
+- `[run]` **She flips the coin first, and it takes no time.** She does all of the above
+  either way. The coin does not change what she does.
+
+**Issa Quib — Command or Silence.**
+
+- **If somebody already has the knife: Command.** *"Drop."* Wisdom save, and it hits the
+  floor.
+- **If nobody has it yet: Silence**, a twenty-foot sphere over the door and the bench.
+  Nothing in it can be shouted and nothing in it can be cast with a verbal component.
+- **Round two: Path to the Grave** (Channel Divinity) on whoever picks the knife up. The
+  next attack on them does double damage.
+- `[DM]` **Silence stops Setha shouting too.** Issa will cast it anyway. She is not
+  thinking about the reinforcements and she does not need them.
+
+**Who comes, and when.**
+
+- **Bram Hale, two rounds.** He has the first watch on the gallery and the yard is below
+  it. He blocks the yard gate and does not chase.
+- **Doruk Pell, three rounds.** He sleeps across Renk's door, so he has the stair and the
+  yard to cross. His first move is a **Trip Attack** on whoever is holding the knife: down,
+  and not running.
+- **Yessa** is in the yard with the fire and goes for **Halder Quinn**. **Timo** runs.
+- **Nobody comes from the Tally House.** It is a hundred yards off and it is nearly dawn.
+
+`[run]` **Setha opens with Suggestion instead of Heat Metal** if the party give her any opening to talk — *"Put it
+down and walk out."* She would rather have the knife back than a body in the yard on the
+morning her boat leaves.
+
 ### What actually guards the knife
 
 **Not Calix. The toad.** Calix hears its telepathy and takes it for the voice of God — she
