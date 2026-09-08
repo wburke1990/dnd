@@ -801,14 +801,19 @@ knife back and her boat, and the other two work for her.*
 |---|---|---|---|
 | **The toad** | +3 | 13 | Already invisible. Tells Calix where everyone is, then **Scare** |
 | **Setha** | +2 | 12 | **Heat Metal**, and she shouts while she casts |
-| **Calix** | +2 | 15 | **Misty Step** to the doorway, then **Mirror Image** |
+| **Calix** | +2 | 15 | Walks to the doorway, then **Mirror Image** |
 | **Issa** | +2 | 13 | **Command** — *"Drop."* — or **Silence** on the door |
 
 **Setha is naked in a tub.** No armour, no instrument, no knife — it is on the bench across
 the room. AC 12 is her Dexterity and nothing else.
 
-**Calix has Mage Armor up.** She has been sitting on that bench for twenty minutes with
-nothing to do.
+**Calix has Mage Armor up** `[new]` — she has been sitting on that bench for twenty
+minutes with nothing to do. Without it she is AC 12.
+
+`[DM]` **One bonus-action spell per turn, and nothing else but a cantrip.** A character who
+casts a spell with a bonus action cannot cast a second levelled spell that turn — only a
+cantrip with an action casting time. This is why Calix walks to the door instead of using
+Misty Step.
 
 ---
 
@@ -836,12 +841,17 @@ action.
 
 **Calix Vire — the doorway.** She does not hurry and she does not raise her voice.
 
-- **Bonus action: Misty Step to the door.** Whoever is carrying the knife has to get past
+- **Movement: she walks to the door.** The bath house is one room and the door is inside
+  her thirty feet, so this costs her nothing. Whoever is carrying the knife has to get past
   a wizard to leave.
 - **Action: Mirror Image.** Three duplicates, in a room where nobody can see properly.
+- **She does not cast Misty Step in round one.** She has two second-level slots and Mirror
+  Image took one; the other is how she gets out, or gets back to the bench, on a later
+  round.
 - **Portent** — she has two dice and she spends one the moment a party member is visible
-  and rolls something that matters. She cannot use it on a creature she cannot see.
-- `[run]` **She flips the coin first, and it takes no time.** She does all of the above
+  and makes an attack roll, save or
+  ability check she wants changed. She cannot use it on a creature she cannot see.
+- `[run]` **She flips the coin first, and it costs her no action.** She does all of the above
   either way. The coin does not change what she does.
 
 **Issa Quib — Command or Silence.**
