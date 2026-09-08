@@ -435,6 +435,26 @@ If the party take him up on it, he does it. The price is the posting, and the Or
 its only eyes on what leaves Aar by sea — which is what he was actually sent for, and worth
 more to them than one knife. Let them choose with that said out loud.
 
+### Hit points and AC `[new — Will 9/8]`
+
+*All five are level 3. Average hit points — maximum at first level, then the average roll
+per level after — with the Constitution modifier shown so the numbers can be adjusted.*
+
+| Who | Class | HP | AC | CON | Armour |
+|---|---|---|---|---|---|
+| **Setha Renk** | Bard 3 (d8) | **24** | **14** | +2 | studded leather |
+| **Doruk Pell** | Fighter 3 (d10) | **31** | **18** | +3 | chain mail and shield |
+| **Bram Hale** | Fighter 3 (d10) | **28** | **17** | +2 | chain shirt and shield |
+| **Issa Quib** | Cleric 3 (d8) | **18** | **14** | +0 | leather |
+| **Calix Vire** | Wizard 3 (d6) | **17** | **15** | +1 | Mage Armor |
+
+- **Issa has the lowest hit points of the five.** CON +0 fits what the death-touched rite
+  left her — a living halfling, cold and shallow-breathed.
+- **Calix is AC 12 without Mage Armor**, and it lasts eight hours.
+- **In the bath house those numbers change.** Setha is AC 12 with no armour, and Doruk and
+  Bram are not in the room ([the run to Copaa](the-run-to-copaa.md), Part Two).
+- **The toad is a quasit**: **7 hit points**, AC 13.
+
 **[Setha Renk](../../maalm/encounters/tavern-rival-crews.md) — half-elf, Bard 3
 (College of Lore).**
 
