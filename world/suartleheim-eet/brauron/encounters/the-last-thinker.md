@@ -33,6 +33,12 @@ replace a mast with magic at level 3.**
 
 So they need his tree, and he will not give it.
 
+`[DM]` **Nor can he grow them another one.** No druid spell makes a tree, at his level or
+any other. [*Plant Growth*][plant-growth] enriches half a mile of land for a year and
+doubles what it yields, which is why there is a garden here, and
+[*Druidcraft*][druidcraft] opens a bud. Neither grows a tree. Even with a seed and the
+enriched soil, a tree tall enough for a mast takes forty years to grow.
+
 ## The trigger `[settling]`
 
 He offers what he has: water from the cistern, food out of the garden, a place to sleep.
@@ -103,10 +109,10 @@ adjust, he uses it every fight.
 instead. [*Hold Person*][hold-person], [*Sleep*][sleep] and a shove off the hill are what
 these are for.
 
-**The Ancestor (1/Day, action).** For 10 minutes he is **Large**, gains **45 temporary hit
-points**, his Speed becomes 40 ft., and he makes **two slams** a turn: +8 to hit, reach
-10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He does not change shape — the
-same halfling at four times the size. **He does this in round two of every fight**, win or
+**The Ancestor (1/Day, action).** He makes himself **Large** for 10 minutes, gains **45
+temporary hit points**, his Speed becomes 40 ft., and he makes **two slams** a turn: +8 to hit, reach
+10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He does not change shape. He is the
+same halfling, four times as large. **He does this in round two of every fight**, win or
 lose; the hit points above are set on the assumption that he does.
 
 **No Wild Shape.** A druid 9 has it; he does not use it. The Ancestor is the only shape he
@@ -122,8 +128,7 @@ not both.
 - **Slam** (Large only): +8 to hit, reach 10 ft., **11 (1d12 + 5)** bludgeoning, twice a
   turn.
 - **Staff, under [*Shillelagh*][shillelagh]:** +8 to hit, reach 5 ft., **9 (1d10 + 4)**
-  force. The d10 is the cantrip's level-5 upgrade. This is his round-one weapon and
-  nothing after.
+  force. The d10 is the cantrip's level-5 upgrade. He uses it in round one only.
 
 ## His bonus action
 
@@ -190,7 +195,7 @@ What the three bolded ones are for:
 - [***Wall of Stone***][wall-of-stone] — ten panels, ten feet by ten. Across the hilltop it
   splits the party; around the trunk it puts the tree out of reach. His one 5th-level slot.
 
-**No Stoneskin.** It wants 100 gp of diamond dust, which he has no way of having, and
+**No Stoneskin.** It needs 100 gp of diamond dust, which he has no way of having, and
 halving everything the party does would drag the fight out. The 45 temporary hit points
 cover it instead.
 
@@ -230,9 +235,9 @@ fight they give him somewhere to Step to.
 
 ## Round two — the Ancestor, every time
 
-- **Action: The Ancestor.** He becomes Large, with 45 temporary hit points and a 10-foot
-  reach. He keeps [*Spike Growth*][spike-growth] up; growing is not a spell and costs him
-  no concentration.
+- **Action: The Ancestor.** He makes himself Large, with 45 temporary hit points and a
+  10-foot reach. He keeps [*Spike Growth*][spike-growth] up; the Ancestor is not a spell,
+  so it costs him no concentration.
 - **This happens whether the fight is going well or badly**, and his hit points are set
   low because of it.
 - **Legendary: Root the ground** (2), or another [*Thorn Whip*][thorn-whip].
@@ -289,9 +294,9 @@ island going under, the dragon coming out of the water
 
 - **Too hard:** 60 hit points and one Legendary Resistance. Keep the Ancestor.
 - **Too easy:** 110 hit points and three legendary actions.
-- **Five against one is five turns to his one.** The two legendary actions and the
-  reaction let him fight five characters; if David forgets them for a round, hand them
-  back.
+- **The five characters get five turns for every one of his.** The two legendary actions
+  and the reaction let him fight five characters; if David forgets them for a round, hand
+  them back.
 
 ## Connections
 
