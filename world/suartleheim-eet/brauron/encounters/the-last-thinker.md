@@ -79,8 +79,8 @@ And at 0 hit points:
 # PART TWO — STAT BLOCK
 
 *Small humanoid (halfling) · a druid 9 build · effective challenge ~6 — above the deadly
-encounter threshold for five level-3 characters, which is the intent. Retune the ability
-array and the spell picks to taste.*
+encounter threshold for five level-3 characters, which is the intent. Change the ability
+scores and the spells if you want to.*
 
 | | |
 |---|---|
@@ -203,16 +203,17 @@ cover it instead.
 
 ## The map `[settling]`
 
-Build the map custom. **Nothing in the opened OneWorld library is a bare grass summit
-with one tree** ([the map inventory](../../../../tts/one-world-maps-inventory.md)), and
-the 272 unopened maps are names only, so *Grandfather Tree* and *Low Hill* are guesses
-until somebody imports them. What is worth taking from the opened ones:
+**Grandfather Tree** (`9fcef4`), in staging
+([the map inventory](../../../../tts/one-world-maps-inventory.md)). Four objects, and
+the prune took nothing out of it. Its own floor image is a printed illustration with a
+title card and labels on it, so the floor is set to **Small town's grass with the pond
+taken out** (`Mods/Images/grass_no_pond.jpg`). That file is local, so it shows on this
+machine and nowhere else until it goes up through TTS's Cloud Manager.
 
-- **Small town** (`189d29`) — its grass floor image is already fixed and Steam-hosted.
-  Reuse its ground texture. In staging.
-- **Valience Farmhouse** (`c3aa13`) — the hut. Imported into staging 9/15.
+The rest of the hilltop is built out of props: a **tree out of Valience Farmhouse**
+(`c3aa13`, in staging), the statues, and a hut.
 
-What the fight needs on it: **a flat about 60 feet across**, the tree at the middle with
+What the fight needs on it: **about 60 feet of level ground**, the tree at the middle with
 turned soil and a cistern around its roots, the hut or the cave mouth to one side, and the
 **statues scattered where you like — small, none over three feet tall, each a different
 size.** Three or four is plenty. They are solid rock with nothing inside them; in the
@@ -269,7 +270,7 @@ to *Call Lightning*. He stays within 60 feet of the tree.
 
 - [***Wall of Stone***][wall-of-stone] in a ring around the trunk, on the turn the first
   axe lands. Ten feet of stone, and nobody can reach the trunk.
-- After that he stops defending himself: no stepping away, no melding, straight at the
+- After that he stops defending himself: no stepping away, no melding. He attacks the
   nearest character.
 
 ## How it ends
