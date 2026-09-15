@@ -21,8 +21,8 @@ status: next
 The storm snapped the mast, and there is one tree on the island. **Nobody in the party can
 replace a mast with magic at level 3.**
 
-- [*Mending*][mending] repairs a break no bigger than a foot across. A snapped mast is not
-  that.
+- [*Mending*][mending] repairs a break no bigger than a foot across. A snapped mast is
+  bigger than that.
 - **Blackacre's concept is that a druid grows and repairs timber**, and it is why the
   Fleet valued him. There is no spell on a druid 3's list that does it. If Sam asks, tell
   him so. It is why they need the tree.
@@ -36,8 +36,7 @@ So they need his tree, and he will not give it.
 `[DM]` **Nor can he grow them another one.** No druid spell makes a tree, at his level or
 any other. [*Plant Growth*][plant-growth] enriches half a mile of land for a year and
 doubles what it yields, which is why there is a garden here, and
-[*Druidcraft*][druidcraft] opens a bud. Neither grows a tree. Even with a seed and the
-enriched soil, a tree tall enough for a mast takes forty years to grow.
+[*Druidcraft*][druidcraft] opens a bud. Even with a seed and the enriched soil, a tree tall enough for a mast takes forty years to grow.
 
 ## The trigger `[settling]`
 
@@ -50,8 +49,9 @@ same. Only the round-one script assumes he is standing between them and the trun
 
 ## How David plays him
 
-- **He is not trying to kill them.** His first round does nothing but keep them off him
-  and off the tree, and he gives them a round to back off before he does more.
+- **He fights to drive them off the hill, and escalates only when they stay.** In round
+  one he keeps them off him and off the tree, and he gives them a round to back off before
+  he does more.
 - **He never goes more than 60 feet from the tree.** An archer standing off at 150 feet
   can shoot him all fight without being reached, and if the party retreat down the slope
   he does not follow.
@@ -62,7 +62,7 @@ same. Only the round-one script assumes he is standing between them and the trun
   it for him. With no interpreter at all, he points: the garden, the cistern, the broken
   mast.
 
-Four lines, and he does not have many more:
+Four lines:
 
 > *"Water's in the cistern. Food in the garden."*
 
@@ -102,8 +102,7 @@ array and the spell picks to taste.*
 
 **130 hit points across the fight, counting the Ancestor's 45.** Five level-3 characters
 do 45 to 50 a round when they all connect, so this is four or five rounds. **Adjust this
-number and nothing else** if it runs long or short — the Ancestor is not the thing to
-adjust, he uses it every fight.
+number and nothing else** if it runs long or short. He uses the Ancestor every fight.
 
 **Legendary Resistance (3/Day).** When he fails a saving throw, he can choose to succeed
 instead. [*Hold Person*][hold-person], [*Sleep*][sleep] and a shove off the hill are what
@@ -111,12 +110,11 @@ these are for.
 
 **The Ancestor (1/Day, action).** He makes himself **Large** for 10 minutes, gains **45
 temporary hit points**, his Speed becomes 40 ft., and he makes **two slams** a turn: +8 to hit, reach
-10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He does not change shape. He is the
-same halfling, four times as large. **He does this in round two of every fight**, win or
+10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He is the same halfling, four times
+as large. **He does this in round two of every fight**, win or
 lose; the hit points above are set on the assumption that he does.
 
-**No Wild Shape.** A druid 9 has it; he does not use it. The Ancestor is the only shape he
-takes.
+**No Wild Shape.** A druid 9 has it. The Ancestor is the only shape he takes.
 
 **Reaction — the ground rises (1/round).** When he is hit by an attack he can see, the
 ground or a nearby statue comes up: **+5 AC against that attack**, which can turn it into
@@ -144,8 +142,8 @@ not both.
 Two a round, spent at the end of another creature's turn, refreshed at the start of his.
 
 - **Step (1).** He teleports up to 30 feet to an unoccupied space he can see within 5 feet
-  of a Thinker statue. **Needs at least three statues spread around the hilltop** for this
-  to be worth anything — see *The map* below.
+  of a Thinker statue. **Needs at least three statues spread around the hilltop** — see
+  *The map* below.
 - **[*Thorn Whip*][thorn-whip] (1).** Melee spell attack at 30 feet, +8, **7 (2d6)**
   piercing, and the target is pulled 10 feet toward him. `[DM]` **Forced movement sets off
   [*Spike Growth*][spike-growth]** — the spell says a creature that moves into or within
@@ -265,7 +263,7 @@ fight they give him somewhere to Step to.
   out with his movement on a later turn. The statues are too small to hold him.
 
 **If they stand off and shoot him,** he drops the spikes, walks out of the area, and goes
-to *Call Lightning*. He still does not leave the tree by more than 60 feet.
+to *Call Lightning*. He stays within 60 feet of the tree.
 
 ## If they do go for the tree
 
