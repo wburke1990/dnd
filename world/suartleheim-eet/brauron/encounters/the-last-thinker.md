@@ -45,7 +45,7 @@ same. Only the round-one script assumes he is standing between them and the trun
 ## How David plays him
 
 - **He is not trying to kill them.** His first round does nothing but keep them off him
-  and off the tree, and he gives them a round to back off before each step up.
+  and off the tree, and he gives them a round to back off before he does more.
 - **He never goes more than 60 feet from the tree.** An archer standing off at 150 feet
   can shoot him all fight without being reached, and if the party retreat down the slope
   he does not follow.
@@ -205,8 +205,8 @@ with one tree** ([the map inventory](../../../../tts/one-world-maps-inventory.md
 the 272 unopened maps are names only, so *Grandfather Tree* and *Low Hill* are guesses
 until somebody imports them. What is worth taking from the opened ones:
 
-- **Small town** (`189d29`) — its grass floor image is already fixed and Steam-hosted. The
-  ground texture to reuse. In staging.
+- **Small town** (`189d29`) — its grass floor image is already fixed and Steam-hosted.
+  Reuse its ground texture. In staging.
 - **Valience Farmhouse** (`c3aa13`) — the hut. Imported into staging 9/15.
 
 What the fight needs on it: **a flat about 60 feet across**, the tree at the middle with
@@ -230,11 +230,11 @@ fight they give him somewhere to Step to.
 
 ## Round two — the Ancestor, every time
 
-- **Action: The Ancestor.** He stands up Large with 45 temporary hit points and a 10-foot
+- **Action: The Ancestor.** He becomes Large, with 45 temporary hit points and a 10-foot
   reach. He keeps [*Spike Growth*][spike-growth] up; growing is not a spell and costs him
   no concentration.
 - **This happens whether the fight is going well or badly**, and his hit points are set
-  low to pay for it.
+  low because of it.
 - **Legendary: Root the ground** (2), or another [*Thorn Whip*][thorn-whip].
 
 ## Round three
@@ -244,12 +244,8 @@ fight they give him somewhere to Step to.
   the spikes stay up.
 - **If the party have split, [*Wall of Stone*][wall-of-stone]** instead — ten panels across
   the hilltop, and he ends up on the side with fewer of them.
-- **Two slams** at whoever is inside 10 feet, on any round he casts nothing.
-- `[DM]` **He does not drop [*Spike Growth*][spike-growth] for
-  [*Faerie Fire*][faerie-fire].** Both need concentration, and dropping the spell that is
-  keeping four characters off him to outline one hidden rogue costs more than it gains. He
-  takes the sneak attacks. He casts *Faerie Fire* only on a round when he has no other
-  concentration spell up.
+- **Legendary: Step** to a statue and a [*Thorn Whip*][thorn-whip] from there, or **Root
+  the ground** on whoever is in melee with him.
 
 ## Round four and after
 
@@ -257,7 +253,7 @@ fight they give him somewhere to Step to.
 - **Bonus action: [*Healing Word*][healing-word]** on himself whenever he is under half, on
   a turn he casts nothing else levelled.
 - [***Call Lightning***][call-lightning] — 3d10 in a 5-foot radius, once a round, once he
-  is losing. It costs him the spikes.
+  is under half his hit points. It costs him the spikes.
 - [***Hold Person***][hold-person] on Jasper.
 - [***Meld into Stone***][meld-into-stone] into the rock of the hilltop when three of them
   have him surrounded. Nothing reaches him in there and he cannot see out; he steps back
@@ -303,8 +299,8 @@ island going under, the dragon coming out of the water
   inside.
 - **[The sail to Brauron](the-sail-to-brauron.md)** — the storm that breaks the mast and
   puts them here.
-- **[Sarric](../../../../characters/sarric.md)** — the Giant speaker, and the only way the
-  party hear a word he says.
+- **[Sarric](../../../../characters/sarric.md)** — speaks Giant, so the conversation runs
+  through him.
 - **[Blackacre](../../../../characters/blackacre.md)** — the druid who grows timber, and
   who cannot make a mast at level 3.
 
