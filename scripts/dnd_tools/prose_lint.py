@@ -188,10 +188,41 @@ FEELING_RULES: frozenset[str] = frozenset({"feeling-word", "emotion-dictation"})
 # blanked span and match words on either side of a quotation as if adjacent.
 QUOTED_SPAN: Pattern[str] = compile(r"[\"“][^\"“”]*[\"”]")
 QUOTE_FILLER = "\x00"
+QUOTE_OPEN = '"“'
+QUOTE_CLOSE = '"”'
+
+# A poem or a scripture verse quoted in a blockquote runs across several lines,
+# and the span regex above only sees one line at a time, so the middle of such a
+# quotation used to be linted as if it were ours. Inside a blockquote the
+# blanking therefore carries a "still inside a quotation" flag from line to
+# line. It is carried in blockquotes only: elsewhere a stray quotation mark (a
+# measurement in inches, say) would blank the rest of the paragraph and hide
+# real findings.
+
+# The attribution under a quotation — ``> — H.G. Wells, *The Time Machine*`` —
+# names the source. A title is the kind of proper noun the coined-label rule
+# fires on, so skip the line.
+ATTRIBUTION_LINE: Pattern[str] = compile(r"^[\s>]*[\u2014\u2013]\s")
 
 
 def _blank_quotations(line: str) -> str:
     return QUOTED_SPAN.sub(lambda m: QUOTE_FILLER * len(m.group(0)), line)
+
+
+def _blank_quotation_run(line: str, in_quote: bool) -> tuple[str, bool]:
+    """Blank quoted spans, carrying an unclosed quotation on to the next line."""
+    out: list[str] = []
+    for ch in line:
+        if in_quote:
+            out.append(QUOTE_FILLER)
+            if ch in QUOTE_CLOSE:
+                in_quote = False
+        elif ch in QUOTE_OPEN:
+            out.append(QUOTE_FILLER)
+            in_quote = True
+        else:
+            out.append(ch)
+    return "".join(out), in_quote
 
 
 def _relpath(path: Path) -> str:
@@ -213,17 +244,26 @@ def iter_findings(
     ``` block is correctly left alone.
     """
     in_fence = False
+    in_quote = False
     for lineno, raw in enumerate(lines, start=1):
         stripped = raw.lstrip()
         if stripped.startswith(("```", "~~~")):
             in_fence = not in_fence
+            in_quote = False
             continue
         if in_fence:
+            continue
+        if stripped.startswith(">"):
+            subject, in_quote = _blank_quotation_run(raw, in_quote)
+        else:
+            in_quote = False
+            subject = _blank_quotations(raw)
+        if ATTRIBUTION_LINE.match(raw):
+            in_quote = False
             continue
         if only_lines is not None and lineno not in only_lines:
             continue
         feel_line = bool(FEEL_TONE_MARKER.match(raw))
-        subject = _blank_quotations(raw)
         for rule in RULES:
             if feel_line and rule.name in FEELING_RULES:
                 continue

@@ -139,6 +139,25 @@ def test_blanked_quotation_does_not_bridge_words_on_either_side() -> None:
     assert "repetition-flourish" not in _rules('the "so it goes" on the wall')
 
 
+def test_attribution_line_under_a_quotation_is_skipped() -> None:
+    # "> — H.G. Wells, *The Time Machine*" is the source's name, not our prose.
+    assert _rules("> — H.G. Wells, *The Time Machine*") == set()
+
+
+def test_quotation_running_across_two_blockquote_lines_is_exempt() -> None:
+    poem = (
+        '> "The sky grew darker, painted blue on blue, one stroke at a time,\n'
+        '> into deeper shades of night."'
+    )
+    assert "repetition-flourish" not in _rules(poem)
+
+
+def test_a_quotation_run_ends_with_the_blockquote() -> None:
+    # An unclosed quotation must not blank the prose that follows the block.
+    text = '> "an unclosed quotation\n\nthe reveal-beat lands in the third room'
+    assert "coined-label" in _rules(text)
+
+
 def test_beat_rule_leaves_stage_directions_and_the_verb() -> None:
     assert "coined-label" not in _rules("*(a beat too long)* he answers")
     assert "coined-label" not in _rules("a deadline Preem is racing to beat")
