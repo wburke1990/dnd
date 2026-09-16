@@ -44,14 +44,28 @@ tall enough for a mast takes forty years to grow.
 `[DM]` **And there is no seed.** Ash trees are male or female, and this one is male: it
 makes pollen. There is no female ash on the island, and no seed anywhere on it.
 
-## The trigger `[settling]`
+## The trigger `[played — session 14]`
 
-He offers what he has: water from the cistern, food out of the garden, a place to sleep.
-He does not bargain over the tree. **The first axe laid against the trunk starts the
-fight.** After that they are fighting him.
+The party would not fight him for the tree
+([session 14](../../../../sessions/session-14.md)). They went to the cistern for water,
+found the door in the hillside, opened it, went down and rang the bell. The fight starts
+at the top of the hill with the bell still sounding below and the beach going under, after
+he says the line above.
 
-`[OPEN]` If something else starts it instead, the stat block and the spell list run the
-same. Only round one assumes he is standing between them and the trunk.
+`[OPEN]` **What he is fighting for.** He never asked them to ring it — that is his dying
+line in the prep, and he is alive. Somebody opened a door he had left shut all his life
+and rang the bell behind it, and now the island is going down. Settle which of these he is
+doing before the next session: stopping them leaving, getting aboard their boat, or
+fighting because the island is ending.
+
+`[run]` **The island is sinking while the fight runs.** The ground they are fighting on is
+sinking, so decide how fast and how much hilltop is left by the last round. He still does
+not go more than 60 feet from the tree, and there is nowhere else to stand.
+
+**The written trigger, unused.** He offers what he has: water from the cistern, food out
+of the garden, a place to sleep, and he does not bargain over the tree. **The first axe
+laid against the trunk starts the fight.** Round one below assumes he is standing between
+them and the trunk; everything else in the block runs the same whatever starts it.
 
 ## How David plays him
 
