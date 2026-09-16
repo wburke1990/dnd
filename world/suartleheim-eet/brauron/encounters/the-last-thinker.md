@@ -18,16 +18,18 @@ status: next
 
 ## The mast `[new — Will 9/15]`
 
-The storm snapped the mast, and there is one tree on the island. **Nobody in the party can
-replace a mast with magic at level 3.**
+The storm snapped the mast, and there is one tree on the island: **a male ash.** **Nobody
+in the party can replace a mast with magic at level 3.**
 
 - [*Mending*][mending] repairs a break no bigger than a foot across. A snapped mast is
   bigger than that.
 - **Blackacre's concept is that a druid grows and repairs timber**, and it is why the
   Fleet valued him. There is no spell on a druid 3's list that does it. If Sam asks, tell
   him so. It is why they need the tree.
-- **Jasper is the ship's carpenter** (session 11). Given a felled trunk and carpenter's
-  tools he can shape a spar and step it: a day's work, DC 13 with the tools. `[run]`
+- **Ash is boat timber.** Oars and spars are made of it. A shipwright would take pine or
+  spruce, which are lighter for the same strength. Ash is the only timber on the island.
+- **Jasper is the ship's carpenter** (session 11). Given the trunk and carpenter's tools
+  he can shape a spar and step it: a day's work, DC 13 with the tools. `[run]`
 - **Nothing else on the island is tall enough.** The statues are stone, and the driftwood
   on the beach is too short.
 
@@ -36,7 +38,11 @@ So they need his tree, and he will not give it.
 `[DM]` **Nor can he grow them another one.** No druid spell makes a tree, at his level or
 any other. [*Plant Growth*][plant-growth] enriches half a mile of land for a year and
 doubles what it yields, which is why there is a garden here, and
-[*Druidcraft*][druidcraft] opens a bud. Even with a seed and the enriched soil, a tree tall enough for a mast takes forty years to grow.
+[*Druidcraft*][druidcraft] opens a bud. Even with a seed and the enriched soil, a tree
+tall enough for a mast takes forty years to grow.
+
+`[DM]` **And there is no seed.** Ash trees are male or female, and this one is male: it
+makes pollen. There is no female ash on the island, and no seed anywhere on it.
 
 ## The trigger `[settling]`
 
