@@ -51,7 +51,7 @@ He does not bargain over the tree. **The first axe laid against the trunk starts
 fight.** After that they are fighting him.
 
 `[OPEN]` If something else starts it instead, the stat block and the spell list run the
-same. Only the round-one script assumes he is standing between them and the trunk.
+same. Only round one assumes he is standing between them and the trunk.
 
 ## How David plays him
 
@@ -79,6 +79,16 @@ Four lines:
 And at 0 hit points:
 
 > *"Ring the bell under the hill."*
+
+And after the bell rings, with the island going down under them `[said at the table, 9/15]`:
+
+> *"The sun turns black, earth sinks in the sea. Mankind returns to clay."*
+
+`[DM]` **That line is two quotations spliced, and it stays exactly as it is.** The first
+half is *Völuspá* 57 in Henry Adams Bellows's 1923 translation; the second is the flood
+tablet of *Gilgamesh*, whose wording varies by translator. It is quoted text, so no style
+pass changes it (see [narration lines](../../../../references/narration-lines.md)).
+He has to be alive to say it, which the 0-hit-point rule below allows.
 
 ---
 

@@ -7,8 +7,7 @@ status: reference
 
 *Real-world quotes collected for use at the table (not in-world canon, not
 handout material). Grouped by when to say them: a time of day passing, a scene
-opening, an event landing. Read them straight, without preamble — the line does
-the work.*
+opening, an event landing. Read them straight, without preamble.*
 
 **Related:** [Homeric epithets](homeric-epithets.md) for the technique of a
 *fixed* recurring formula. These are the opposite tool — one-off lines, each
@@ -108,7 +107,7 @@ Spanning the whole cycle — for a montage, a long voyage, a time skip.
 
 ## Landfall and the sea
 
-Split by the moment, since "landfall" covers four different beats. All of these
+Split by the moment, since "landfall" covers four different moments. All of these
 are public domain, so they can also go into handouts verbatim if a line earns
 it.
 
@@ -126,8 +125,8 @@ it.
 > — Alfred, Lord Tennyson, *Ulysses*
 
 The Tennyson doubles as a callback — [Ulysses](../handouts/ulysses.md) is
-already a handout, so the players may recognize the line, which is worth
-something on a second landfall rather than a first.
+already a handout, so the players may recognize the line — use it at a second
+landfall, not the first.
 
 ### Coming ashore
 
@@ -137,8 +136,7 @@ something on a second landfall rather than a first.
 > "I must down to the seas again, to the lonely sea and the sky."
 > — John Masefield, *Sea-Fever*
 
-Masefield is for a crew glad to be moving again; Melville for a landing that
-wants stillness.
+Masefield is for a crew glad to be moving again, Melville for a quiet landing.
 
 ### An empty or ill-omened coast
 
@@ -149,10 +147,10 @@ wants stillness.
 > "Water, water, every where, nor any drop to drink."
 > — Samuel Taylor Coleridge, *The Rime of the Ancient Mariner*
 
-The Byron is the one for a shore that has swallowed fleets before — it says the
-sea does not care, which is the note the
-[drying of the valley](../world/suartleheim-eet/maalm/lore/the-drying-of-the-valley.md) material keeps
-reaching for.
+The Byron is the one for a shore where fleets have been lost. It says the sea does
+not care, and the
+[drying of the valley](../world/suartleheim-eet/maalm/lore/the-drying-of-the-valley.md) material
+says the same.
 
 ### Putting out to sea
 
@@ -160,8 +158,26 @@ reaching for.
 > — *The Seafarer* (tr. Ezra Pound)
 
 Pairs with the existing [Seafarer handout](../handouts/seafarer-grave-gold.md).
-Use one at departure and the other at the grave, and the players will connect
-them without being told.
+Use one at departure and the other at the grave.
+
+---
+
+## The world ending
+
+> "The sun turns black, earth sinks in the sea."
+> — *Völuspá* 57 (tr. Henry Adams Bellows, 1923)
+
+> "All of mankind had returned to clay."
+> — *Gilgamesh*, the flood tablet (Tablet XI). The wording varies by translator —
+> check the one you want before it is read aloud.
+
+> "Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed."
+> — Job 38:11, KJV. God tells the sea where to stop. For a scene where the water is
+> rising.
+
+**Used.** The Last Thinker says the first two as one line when the island goes down:
+*"The sun turns black, earth sinks in the sea. Mankind returns to clay."* See
+[the last thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md).
 
 ---
 
@@ -187,8 +203,8 @@ Worth checking before any of these gets read aloud as "this is Tolkien":
 - **Both "Homer" lines (midday, dusk).** The midday one is labelled a
   paraphrase in the source, so it isn't a quote at all. The dusk one is
   credited to Pope — but Pope translated the *Iliad* in rhymed heroic couplets,
-  and that line is prose. Almost certainly not his. Good lines; bad labels. Use
-  them as our own narration, unattributed.
+  and that line is prose. Almost certainly not his. The lines are usable and the
+  attributions are wrong, so use them as our own narration, unattributed.
 - **Cather, *O Pioneers!*** — "Day, like a tired woman" doesn't turn up in
   memory as hers. Unverified.
 - **Tolkien, *Fellowship*** — "the last light of evening gilded the
