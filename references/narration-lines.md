@@ -181,12 +181,54 @@ Use one at departure and the other at the grave.
 
 ---
 
+## A death
+
+For the moment an NPC dies, and for a death at the table. All public domain, so
+any of them can go into a handout verbatim.
+
+> "There is hope of a tree, if it be cut down, that it will sprout again, and
+> that the tender branch thereof will not cease… But man dieth, and wasteth
+> away: yea, man giveth up the ghost, and where is he?"
+> — Job 14:7 and 14:10, KJV. For a death beside a felled tree, or any death where a
+> tree or a building is still standing after.
+
+> "Cattle die, and kinsmen die, and so one dies one's self; but a noble name
+> will never die, if good renown one gets."
+> — *Hávamál* 77 (tr. Henry Adams Bellows, 1923). Olive Bray's 1908 wording is
+> the other public-domain one: "fair fame of one who has earned." For a death where
+> what the dead built is still standing, or has just been destroyed.
+
+> "Like leaves on trees the race of man is found."
+> — *Iliad* 6.146 (tr. Alexander Pope, 1715). Glaucus, asked his lineage. For a
+> death that is one of many, or an old man's.
+
+> "All flesh is grass… The grass withereth, the flower fadeth."
+> — Isaiah 40:6–8, KJV. For a death in a garden, or a gardener's.
+
+> "One generation passeth away, and another generation cometh: but the earth
+> abideth for ever."
+> — Ecclesiastes 1:4, KJV. Say it where the earth does **not** abide: a place going
+> under, a house coming down.
+
+**Already used.** *Beowulf*'s lay of the last survivor — "Hold thou, O Earth,
+now heroes may not, the wealth of the race!" (tr. Francis Gummere, 1910) — is
+[Bedraageon](../world/suartleheim-eet/maalm/lore/bedraageon-square.md)'s
+grave inscription, read in [session 6](../sessions/session-06.md). Don't use it for
+another death.
+
+**The Last Thinker's dying line comes out of this list, and David picks it.**
+The line he says when the island goes down is already set (see *The world ending*
+above). The line for his death itself is still to pick, from the list here. See
+[the last thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md).
+
+---
+
 ## Event triggers — still to fill
 
-- **A death at the table** — note the existing handouts already cover the
-  funeral register ([Crossing the Bar](../handouts/crossing-the-bar.md),
+- ~~A death at the table~~ — filled above under *A death*. The handouts cover
+  the funeral register ([Crossing the Bar](../handouts/crossing-the-bar.md),
   [Do Not Go Gentle](../handouts/do-not-go-gentle.md), [Requiem](../handouts/requiem.md));
-  what's missing is a short line for the moment itself.
+  the lines above are for the moment itself.
 - **Battle joined.**
 - **An omen or a god noticed** — ties to
   [myth and poem as literal truth](../world/nila/lore/myth-and-poem-as-literal-truth.md).

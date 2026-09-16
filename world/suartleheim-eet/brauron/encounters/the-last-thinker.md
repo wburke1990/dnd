@@ -84,7 +84,12 @@ And after the bell rings, with the island going down under them `[said at the ta
 
 > *"The sun turns black, earth sinks in the sea. Mankind returns to clay."*
 
-`[DM]` **That line is two quotations spliced, and it stays exactly as it is.** The first
+`[DM]` **He has a second line, for his own death, and David picks it.** Five are held in
+[narration lines](../../../../references/narration-lines.md) under *A death* — Job 14 on
+the felled tree, *Hávamál* 77 on the name outlasting the man, and three others. The line
+above is about the world ending. The death line is about his own death.
+
+`[DM]` **The line above is two quotations spliced, and it stays as it is.** The first
 half is *Völuspá* 57 in Henry Adams Bellows's 1923 translation; the second is the flood
 tablet of *Gilgamesh*, whose wording varies by translator. It is quoted text, so no style
 pass changes it (see [narration lines](../../../../references/narration-lines.md)).
@@ -221,7 +226,7 @@ cover it instead.
 
 **Grandfather Tree** (`9fcef4`), in staging
 ([the map inventory](../../../../tts/one-world-maps-inventory.md)). Four objects, and
-the prune took nothing out of it. Its own floor image is a printed illustration with a
+`clean_ow_map prune` removed nothing from it. Its own floor image is a printed illustration with a
 title card and labels on it, so the floor is set to **Small town's grass with the pond
 taken out** (`Mods/Images/grass_no_pond.jpg`). That file is local, so it shows on this
 machine and nowhere else until it goes up through TTS's Cloud Manager.
