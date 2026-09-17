@@ -54,10 +54,11 @@ status: reference
 
 Her mother was the last of a founder house with a live claim to a reserved,
 elves-only council seat, and allied the house with Preem's cabal. One of the old
-houses had her killed to end the claim. Preem took the orphaned half-blood in and
-chartered her the crew. She wears founder-family clothing, is used to being
+houses had her killed to end the claim. Preem took her in and chartered her the
+crew. She wears founder-family clothing, is used to being
 obeyed, and buys rounds where the room can watch her buy them. She wants Calix,
-who does not know it. She will not turn on Preem for money: she wants the seat,
+who does not know it, and `[settled — session 13b]` the two of them were children
+together. She will not turn on Preem for money: she wants the seat,
 and Preem is the only way to get it. 🔒 On the Writ's tomb-three run she took the
 only unsent copy of the names out through the exit and left her co-founder and the
 hired diggers to drown, then buried them off the Valley path.
@@ -92,8 +93,8 @@ at Aar like him. He takes the first watch on the guest house gallery.
 **[Calix Vire](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#calix-vire--elf--writ-pathfinder-paxs-mirror)**
 — elf, pathfinder, Wizard 3 (School of Divination). `↔` [Pax](pax.md)
 
-Flat, unbothered, a worn coin in hand, a toad on her shoulder that eats better
-than the crew does. She flips for every fork and abides by the throw. She had a
+Flat, unbothered, a worn coin in hand, a well-fed toad on her shoulder. She flips
+the coin at every fork in the road and goes the way it tells her. She had a
 private revelation, has won ever since, and is certain she was chosen. She is
 elven aristocracy, about thirty, and by her own people's reckoning still a child
 with seventy years to go before the seat Setha is fighting for is even open to
@@ -149,8 +150,7 @@ PC by PC:
   and Doruk dropped it. Sarric asked whether he was going to the temple for the
   killing and he said no, he is on a mission he cannot talk about. `[settled]`
   That mission is Preem's name contract. There is no second job.
-- **Sarric and Setha.** He gave her dirty looks all evening on the strength of her
-  being rich. They did not speak.
+- **Sarric and Setha.** He gave her dirty looks all evening because she is rich. They did not speak.
 - **Aniess and Setha.** Aniess rolled a natural 20 investigating her and read
   three things off her: she wears the clothing of a founding family of Maalm, she
   is used to being obeyed, and she has contempt for the Tally House and everyone
@@ -174,16 +174,19 @@ PC by PC:
   doors, the bath house with the fires lit and the tub being filled — **turned
   into a mouse and got into Setha's room**, then came back down to the kitchen.
   The party have seen the room the knife is kept in.
-- **The brawl did not start.** Doruk was drunk and huffing at Mogg's saga all
+- **The brawl did not start.** Doruk was drunk and complaining about Mogg's saga all
   evening and nobody told either of them what the other is
   ([the fight](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md#the-fight--doruk-and-mogg-run)).
 
 `[played]` **Session 13b — Aniess and Setha, the night before the Writ sailed.** A
 side session with Greg only. The two had already named each other as Preem's the
 evening before, so this is a second conversation between two of his crews.
-`[OPEN — ask Greg]` What was said. Setha sailed within the hour of it. Out of the
-same session, Aniess settled that she will take the peseshkef at Brauron rather
-than at Aar ([session 13b](../sessions/session-13b.md)).
+**Setha gave Aniess her own history**: her mother's claim and the seat, her
+childhood with Calix, that she means to be a great adventurer first and take the
+seat after, and what Preem has given her. The notes do not record Aniess telling
+her anything about herself. Setha sailed within the hour of it. Out of the same
+session, Aniess settled that she will take the peseshkef at Brauron rather than at
+Aar ([session 13b](../sessions/session-13b.md)).
 
 `[played]` **Session 14 — they sailed with it.** The party left Aar without going
 for the peseshkef. The bath house, the gallery and the belt were all left alone,
@@ -197,10 +200,13 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
   crews have now identified each other by name.
 - **Doruk believes Sarric does not work for Preem**, from Sarric's own mouth, and
   has not raised it since.
-- **The party know** the Writ finished the whole Valley, that Setha is
-  founder-blood and rich, that Doruk kills for a living and does not regret it,
+- **The party know** the Writ finished the whole Valley, that Setha comes from a
+  founder family and is rich, that Doruk kills for a living and does not regret it,
   that Calix talks to something nobody else can hear, and that the peseshkef and
   the small Anubis are the same stone.
+- **Aniess knows Setha's history from Setha** — the dead mother, the seat, the
+  childhood with Calix, and that Preem is how she means to get the seat back
+  (session 13b). Whether she has told the rest of the party is not recorded.
 - **The party do not know** what Setha did in tomb three, that Calix's toad is
   Preem's, or that Preem pays his crews at different rates and they are near the
   bottom.

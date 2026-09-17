@@ -17,12 +17,20 @@ status: played
 
 ## Aniess and Setha
 
-**A long talk with [Setha Renk](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md)**,
-the night before the Writ sailed.
+**A long talk with [Setha Renk](../characters/the-lapis-writ.md)**, the night before the
+Writ sailed. **Setha told her most of her own history:**
 
-`[OPEN — ask Greg]` What was said. The two of them had already identified each other as
-Preem's in [session 13](session-13.md), so this is the second conversation between crews
-that both work for him.
+- **Her past**, and her mother's claim to the council seat in Maalm that the crew is named
+  for.
+- **Her childhood with Calix.** `[settled — 13b]` The two of them were children together.
+- **What she is doing about it.** She means to become a great adventurer first and take
+  the seat back after.
+- **Her relationship with Preem** — that he took her in after her mother was killed and
+  chartered her the crew.
+
+The two of them had already identified each other as Preem's in
+[session 13](session-13.md), so this is the second conversation between two of his
+crews.
 
 ## The walk with Beartholomew
 
@@ -34,12 +42,14 @@ They covered three things:
 
 - **Their past.** The cohort, the Order, and the year they were both taken off the street
   ([Beartholomew](../characters/beartholomew.md)).
-- **The history of Aar.** Musa's landfall, the stone he set over the harbour, and its four
-  inscriptions ([Aar](../world/suartleheim-eet/raand-copaa/lore/aar.md)).
+- **The history of Aar.** Musa's landfall, and the stone he set over the harbour.
+- **All four inscriptions** ([Aar](../world/suartleheim-eet/raand-copaa/lore/aar.md)) —
+  the founding prophecy of the country the gnomes would take, the prophecy that has already
+  come true, the third, which has not come true yet, and the gnomes' lament for
+  Kalikhat. The
+  party were handed all four in [session 12](session-12.md); this time the two of them read
+  them through.
 - **What happens next.**
-
-`[OPEN — ask Greg]` What either of them said about the past, and which of the four
-inscriptions came up.
 
 ## The plan
 
@@ -62,6 +72,7 @@ where the Writ are going and the party now are
 
 ## Threads
 
-- `[OPEN]` **What Setha wanted.** She sailed within the hour of that conversation.
+- `[OPEN]` **What Setha wanted out of it.** She told a rival crew's spy about her mother,
+  the council seat, Preem, and the woman she wants. She sailed an hour later.
 - `[OPEN]` **Whether Beartholomew knows the plan changed.** The knife is at Brauron now,
   and he asked for it at Aar.
