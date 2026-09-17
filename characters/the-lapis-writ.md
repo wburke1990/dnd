@@ -33,10 +33,11 @@ status: reference
   finish the Valley. They relay names to Preem down a paired sending stone, the
   same way the party do.
 - `[settled]` **Where the name comes from.** Setha Renk's mother died holding a
-  claim to a council seat in Maalm. A writ is the claim. The crew is named for
-  the thing Setha means to win back.
-- `[settled]` **What they are for at the table.** Each of the five is paired with
-  a PC and made the opposite choice: they took the job and are content with it.
+  claim to a council seat in Maalm. A writ is the claim. The crew is named for her
+  mother's claim.
+- `[settled]` **What they are for at the table.** Each of the five took Preem's job and
+  is content with it, and each is
+  written against one PC.
   Doruk to Sarric, Issa to Aniess, Bram to Jasper, Calix to Pax, Setha to
   Blackacre. These are talking scenes.
 - `[settled]` **They sit above the party in Preem's standings,** and Setha will
@@ -56,7 +57,7 @@ Her mother was the last of a founder house with a live claim to a reserved,
 elves-only council seat, and allied the house with Preem's cabal. One of the old
 houses had her killed to end the claim. Preem took her in and chartered her the
 crew. She wears founder-family clothing, is used to being
-obeyed, and buys rounds where the room can watch her buy them. She wants Calix,
+obeyed, and buys rounds in front of the room. She wants Calix,
 who does not know it, and `[settled — session 14]` the two of them were children
 together. She will not turn on Preem for money: she wants the seat,
 and Preem is the only way to get it. 🔒 On the Writ's tomb-three run she took the
@@ -64,7 +65,7 @@ only unsent copy of the names out through the exit and left her co-founder and t
 hired diggers to drown, then buried them off the Valley path.
 
 **[Doruk Pell](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#doruk-pell--dwarf--the-writs-closer-sarrics-mirror)**
-— dwarf, the closer, Fighter 3 (Battle Master). `↔` [Sarric](sarric.md)
+— dwarf, the crew's fighter, Fighter 3 (Battle Master). `↔` [Sarric](sarric.md)
 
 A Suartleheim powderman who used the craft in the pogroms at home — burning out
 the orc quarters of the port towns, families and town-born half-orcs who had never
@@ -73,14 +74,13 @@ asked and does not lie about it. His Church of Sunne calls the orcs sea-devils,
 and he points back to Hjörungavágr three hundred years ago, where his own people
 broke the orc fleets. He does not regret it. He speaks kindly and buys the drinks.
 
-**[Issa Quib](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-tomb-walker-aniesss-mirror)**
-— halfling, tomb-walker, Cleric 3 (Grave Domain). `↔` [Aniess](aniess.md)
+**[Issa Quib](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-the one who goes into the tombs-aniesss-mirror)**
+— halfling, the one who goes into the tombs, Cleric 3 (Grave Domain). `↔` [Aniess](aniess.md)
 
 Cold to the touch and shallow-breathed. She sought out an old funerary rite of the
 dead empire's death-cult and paid for it, awake and on purpose, and it left her
 calm: the mummies and the quiet in the tombs do not bother her. She can cast
-*Locate Object* on anything she has seen inside thirty feet, which is what makes
-the peseshkef hard to keep once it is taken.
+*Locate Object* on anything she has seen inside thirty feet, including the peseshkef.
 
 **[Bram Hale](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#bram-hale--human--writ-muscle-jaspers-mirror)**
 — human, muscle, Fighter 3 (Champion). `↔` [Jasper](jasper.md)
@@ -98,9 +98,8 @@ the coin at every fork in the road and goes the way it tells her. She had a
 private revelation, has won ever since, and is certain she was chosen. She is
 elven aristocracy, about thirty, and by her own people's reckoning still a child
 with seventy years to go before the seat Setha is fighting for is even open to
-her. She tells Setha to stop hurrying and means it kindly. 🔒 The voice she takes
-for God is the telepathy of the toad, the toad is a quasit, and the quasit is
-Preem's. She is not a knowing informant.
+her. She tells Setha to stop hurrying . 🔒 The voice she takes
+for God is the toad's telepathy. The toad is Preem's quasit. She is not a knowing informant.
 
 `[settled 9/1]` **Calix is a woman.** The miniature is a woman, so she is.
 
@@ -123,9 +122,10 @@ The toad has 7 hit points and AC 13.
 
 They do not crew a boat. They are desert aristocrats with money, so they buy
 passage, and they travel with the established traders on the quickest routes,
-which is part of why they finished the Valley first. Where those traders do not
-go, they do not go: Kalikhat, Jotunheim and the orc-held interior of Muspelheim
-are shut to them at any price. At Aar they waited the best part of a fortnight on
+which is part of why they finished the Valley first. They do not go to Kalikhat,
+Jotunheim or the orc-held interior of
+Muspelheim, because the traders they buy passage from do not. At Aar they waited the
+best part of a fortnight on
 a berth north and paid for twelve days of a room they took for three.
 
 ## What has happened with the party
@@ -237,18 +237,18 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
 
 ## Hooks
 
-1. **The graves off the Valley path.** The Writ's record stands only while the
-   graves stay unfound. If the party find them, Setha loses the seat.
+1. **The graves off the Valley path.** The graves are off the Valley path and nobody has
+   found them. If the party find them, Setha loses the seat.
 2. **Work out what Calix's toad is.** Then the Writ are a way for Preem to hear
    what the party do, and Calix is a way to reach Preem.
 3. **Doruk and Mogg.** Doruk burned Mogg's kin. At the Tally House they were
-   twenty feet apart and neither knew who the other was. A PC who has heard
-   Doruk's story can start it on purpose.
+   twenty feet apart and neither knew who the other was. A PC who has heard Doruk's
+   story can tell Mogg who he is.
 4. **Setha and Calix.** Calix does not know Setha wants her, and does not know that
    when she tells Setha to stop hurrying about the seat, she is talking about the
    seat Setha's mother was killed over. A party who works it out can pressure
    Setha.
-5. **Turning Setha.** Nobody can outbid Preem's patronage. The houses that killed
+5. **Turning Setha.** Preem pays her more than anyone else can offer. The houses that killed
    her mother can offer her something else.
 
 ## Open threads

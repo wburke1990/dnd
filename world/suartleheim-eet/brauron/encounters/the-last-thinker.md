@@ -52,9 +52,9 @@ found the door in the hillside, opened it, went down and rang the bell. The figh
 at the top of the hill with the bell still sounding below and the beach going under, after
 he says the line above.
 
-`[OPEN]` **What he is fighting for.** He never asked them to ring it — that is his dying
-line in the prep, and he is alive. Somebody opened a door he had left shut all his life
-and rang the bell behind it, and now the island is going down. Settle which of these he is
+`[OPEN]` **What he is fighting for.** He never asked them to ring it — in the prep he
+says that line at 0 hit points, and here he says it alive. The party opened the door and
+rang the bell, and the island is sinking. Settle which of these he is
 doing before the next session: stopping them leaving, getting aboard their boat, or
 fighting because the island is ending.
 
@@ -82,7 +82,7 @@ them and the trunk; everything else in the block runs the same whatever starts i
   it for him. With no interpreter at all, he points: the garden, the cistern, the broken
   mast.
 
-Four lines:
+Five lines:
 
 > *"Water's in the cistern. Food in the garden."*
 
@@ -146,8 +146,8 @@ these are for.
 **The Ancestor (1/Day, action).** He makes himself **Large** for 10 minutes, gains **45
 temporary hit points**, his Speed becomes 40 ft., and he makes **two slams** a turn: +8 to hit, reach
 10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He is the same halfling, four times
-as large. **He does this in round two of every fight**, win or
-lose; the hit points above are set on the assumption that he does.
+as large. **He does this in round two of every fight**, and the hit points above are set on the
+assumption that he does.
 
 **No Wild Shape.** A druid 9 has it. The Ancestor is the only shape he takes.
 

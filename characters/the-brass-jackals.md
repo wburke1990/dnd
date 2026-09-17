@@ -1,5 +1,5 @@
 ---
-summary: Preem's broke foreign crew from Kuru, met on the stairs in session one and drunk at Aar
+summary: Preem's broke crew from Kuru, met on the stairs in session one and drank at Aar
 status: reference
 ---
 
@@ -7,7 +7,7 @@ status: reference
 
 > **NPC crew.** Five freelancers from the north, hired by [Preem](preem.md) to
 > hunt names and paid badly for it. They are broke, a member or two down from
-> where they started, and stuck in port without a boat. The party first crossed
+> where they started, and stuck in port without a boat. The party first met
 > them on Preem's stairs in [session one](../sessions/session-01.md) and drank
 > with them at the Tally House in Aar in
 > [session 13](../sessions/session-13.md).
@@ -49,8 +49,9 @@ status: reference
 — human, leader, Cleric 3 (Light), lapsed.
 
 A poor Kuru girl with a talent for preaching who rose fast in the Church of Sunne,
-preaching the reconquest as holy work. Her job was the pogroms: she went ahead of
-the torch-men and worked a port's faithful into fury before the burning. It ended
+preaching the reconquest as holy work. Her job was the pogroms: she went ahead of the
+men who set the fires and worked a port's faithful into fury before the burning. It
+ended
 at **Sukkek**, where she walked into the burned quarter at dawn to bless the ground
 and found town-born half-orc families, old people and children. She stole a
 rowboat and rowed to Raand alone. 🔒 The Church believes she died in that fire and
@@ -64,7 +65,7 @@ She keeps the coin, the supplies, the map, and the record of every Jackal they h
 buried, by name, going back to the scavenging years. She prices
 everyone's gear out of habit. The pay on this job is too high for grave-robbing,
 Preem runs an odd number of crews at once, and the sites are a long way to send
-people. She suspects it before she has proof. 🔒 She has started a second tally she
+people. She has no proof. 🔒 She has started a second tally she
 shows nobody, listing what she cannot explain about this job. They are broke and
 there is no other work.
 
@@ -72,11 +73,11 @@ there is no other work.
 — lightfoot halfling, scout, Rogue 2.
 
 A war-orphan the Jackals pulled out of a port wrecked in the reconquest, raised as
-the crew's kid. She worshipped Riska and pulled on the kit when Riska did not come
+the crew's kid. She admired Riska and pulled on the kit when Riska did not come
 back. She goes in first — down the shaft or the stairs, whatever comes first — and
 says so to anyone who will listen. She is the lowest level of anyone in either crew
 and a level below the scout she replaced. Hadda waters her drink. 🔒 She only
-half-knows that Riska died doing this job, and Veska cannot bear to lose her.
+half-knows that Riska died doing this job, and Veska wants to keep her alive.
 
 **[Mogg](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)**
 — half-orc, enforcer and storyteller, Barbarian 3 (Path of the Ancestral
@@ -140,7 +141,7 @@ them working for Preem.
 
 `[played]` **Session 1 — the five on the stairs.** The party's audience with Preem
 ended when a big centipede came up the stairs with five people behind it, and the
-party were bumped out of the office. **The party clocked the centipede.**
+party were bumped out of the office. **The party noticed the centipede.**
 `[settled, retroactive]` That crew of five was the Brass Jackals, and the centipede
 is Preem's — each crew is led up those stairs by its own familiar, and the
 centipede carried the Jackals' summons the way the bat carried the party's
@@ -153,8 +154,7 @@ party in one room. What happened:
   Doruk was drunk and huffing at it from the Writ's end. Nobody started anything.
 - **Pax and Pim got on.** They compared hearing voices, and **Pax gave him a
   mushroom** — one of the large purple-spotted, orange-gilled ones from the market.
-  Pax handed a hallucinogen to a man already taking four compounds a day who cannot
-  go down a hole sober. **Pax met the centipede** and does not know what it is.
+   **Pax met the centipede** and does not know what it is.
 - **Sarric produced bees.**
 - **Pim raised the Sacred Hunt** and asked whether the party would be hunters or
   hunted. `[settled at the table 9/1]` He told them **a hunter's place costs
@@ -178,9 +178,10 @@ Aar by sea. The Jackals are broke, have no berth, and are still there.
   hunter's seat at the Hunt costs 5,000 gp.
 - **The party do not know** that the Jackals are Preem's, that these are the five
   who came up the stairs in session one, or that the centipede Pax met is the one
-  they clocked that day.
+  they noticed that day.
 - **The Jackals have not asked the party who they work for** and nobody has told
-  them. Unlike the Writ, the two crews have not identified each other.
+  them. The party and the Writ have named each other. The party and the Jackals have
+  not.
 - 🔒 **Preem knows whatever the centipede saw at the Tally House.**
 
 ## Not yet run

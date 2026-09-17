@@ -29,7 +29,7 @@
 | [sarric](sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
 | [sayid](sayid.md) | `reference` | Blackacre's former friend, who holds a few ships and cannot back down in front of his crew |
 | [shepard](shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
-| [the brass jackals](the-brass-jackals.md) | `reference` | Preem's broke foreign crew from Kuru, met on the stairs in session one and drunk at Aar |
+| [the brass jackals](the-brass-jackals.md) | `reference` | Preem's broke crew from Kuru, met on the stairs in session one and drank at Aar |
 | [the children](the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |
 | [the lapis writ](the-lapis-writ.md) | `reference` | Preem's crew that cleared the whole Valley, met at Aar with the peseshkef on Setha Renk's belt |
 | [the psychic bat](the-psychic-bat.md) | `reference` | Jasper's familiar, in fact a quasit Preem planted as a spy |

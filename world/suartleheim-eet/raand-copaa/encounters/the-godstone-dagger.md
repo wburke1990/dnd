@@ -7,7 +7,7 @@ status: next
 
 > **The theft did not happen at Aar, and it moves to Brauron.**
 > `[played — sessions 12 to 15]` Aniess and Beartholomew traded the countersign at
-> the watch-stone and he made the ask there
+> the watch-stone and he asked her there
 > ([session 12](../../../../sessions/session-12.md)); the party took the job at the Tally
 > House ([session 13](../../../../sessions/session-13.md)); and then they sailed without
 > going for it ([session 15](../../../../sessions/session-15.md)), so the Writ left Aar
@@ -40,7 +40,7 @@ the foot of the watch-stone on the wharf he is paid to guard, in a Company coat,
 of the dock crews. They trade the cant, he names the job, and after that he would rather
 drink than talk about it ([Beartholomew](../../../../characters/beartholomew.md)). The
 evening at the **[Tally House](../lore/the-tally-house-and-the-guest-house.md)** is the
-drinking and the two crews, not the ask —
+drinking and the two crews, not the job —
 [the run to Copaa](the-run-to-copaa.md), Part Two.
 
 ### At the watch-stone, at noon
@@ -188,8 +188,7 @@ required. Everything else is the spell as written:
   obligation to answer truthfully**. Answers are brief and cryptic.
 
 **There is no command word.** Whoever uses it has to kneel by the body and put the blade to
-its face. There is no casting it from across a room, and there is no
-doing it discreetly in front of anyone.
+its face. There is no casting it from across a room, and anyone in the room will see her do it.
 
 **Attunement is the limit.** At level 3 a 3rd-level spell effect is above tier, so it costs
 a slot of attunement, it is once per dawn, and the RAW limits all stand. Do not also make it
@@ -268,7 +267,7 @@ god's stone and nobody knows what state that one is in.
 So it is unsettled whether the answers come from the dead person or from the stone using the
 mouth. RAW already says the answers are cryptic and need not be true, so nothing has to
 change mechanically. Now and then, have an answer come back that the corpse could not
-possibly have given.
+have given.
 
 ## 3 · Who has it `[settling]`
 
@@ -276,7 +275,8 @@ possibly have given.
 **[Lapis Writ](../../maalm/encounters/tavern-rival-crews.md)** — funded Maalm
 aristocrats, Preem's other crew, who cleared every tomb in the Valley.
 
-**It is her family's, not tomb loot.** The Valley tombs were stripped of their valuables
+**It has been in her family since before the crews worked the Valley.** The Valley tombs
+were stripped of their valuables
 shortly after Maalm was founded ([the Valley](../../maalm/encounters/valley-of-the-kings.md)),
 long before any crew walked into them; the party found empty niches and so did the Writ.
 Renk's people are founder-blood, and this came into the family in that looting. Nobody in
@@ -286,8 +286,8 @@ the family says so.
 [al Qahtani](../../../../characters/the-children.md) have always had the Anubis. What her
 family do know is that it has never needed sharpening and never marks, and they call that
 the house's luck.
-She wears it because it is old and it is theirs — and because her mother's house is the
-claim she is fighting to get back.
+She wears it because it is old and it is theirs, and because she is fighting to get her
+mother's house back.
 
 The Writ are in **Aar's guest house**, the one good building on the basin, waiting on
 passage north to the Sacred Hunt. They do not crew a boat; they buy a berth, and they do
@@ -402,7 +402,7 @@ friend asking a friend, and ask Greg for his answer at the table. Do not ask twi
 - `[OPEN]` Whether anyone tells the al Qahtani what their heirloom is.
 - `[OPEN]` What else came out of that workshop. Two Maalm houses hold a piece of it, both
   by way of the Amseh — one carried down through the tunnels and one taken in the looting.
-- `[OPEN]` Whether Renk ever learns what the knife is, and what she does about the house
+- `[OPEN]` Whether Renk ever learns what the knife is, and what she does about the family
   that killed her mother if she finds out what her house was holding.
 
 ## 11 · The numbers, RAW
@@ -415,8 +415,8 @@ Expertise in two skills and Sneak Attack 1d6.
 - **Manifest Echo** (bonus action) — a translucent grey image of him in **an unoccupied
   space he can see** within 15 feet. AC 16, **1 hit point**, immune to all conditions, his
   size, occupies its space. Any damage destroys it.
-- He can command it to move 30 feet in any direction with no action. **It moves like a
-  creature. Nothing in the feature lets it pass through a wall or a closed door.** If it is
+- He can command it to move 30 feet in any direction with no action. **It moves as a creature
+  does. Nothing in the feature lets it pass through a wall or a closed door.** If it is
   ever more than 30 feet from him at the end of his turn, it is destroyed.
 - Bonus action to **swap places with it** — a teleport, costing 15 feet of his movement.
 - His attacks can originate from the echo's space, and he can take opportunity attacks from
@@ -425,10 +425,11 @@ Expertise in two skills and Sneak Attack 1d6.
 - Also Second Wind, Action Surge, a Fighting Style. *(Seeing and hearing through the echo at
   up to 1,000 feet is **Echo Avatar**, a 7th-level feature he does not have.)*
 
-**So can he just teleport in and take it?** Yes — from arm's reach, and only from arm's
+**He can teleport in and take it, but only from arm's reach.** Yes — from arm's reach,
+and only from arm's
 reach. The echo cannot go through the wall and cannot leave his 30-foot leash, so to put
 himself in Renk's room he has to be **standing on the gallery outside an open window** when
-he does it. There is no version where he does this from the wharf. And the echo is an image
+he does it. He cannot do it from the wharf. And the echo is an image
 **of him**, one hit destroys it, and it cannot lift or carry anything, so the knife has to
 come out in his own hands.
 
@@ -440,8 +441,8 @@ bear-man. **Have him offer it anyway** when a player asks:
 > the knife is gone, and there is one thing in this town that looks like me."*
 
 If the party take him up on it, he does it. The price is the posting, and the Order loses
-its only eyes on what leaves Aar by sea — which is what he was actually sent for, and worth
-more to them than one knife. Let them choose with that said out loud.
+its only watcher on what leaves Aar by sea — which is what he was actually sent for, and worth
+more to them than one knife. Say that to the table before they choose.
 
 ### Hit points and AC `[new — Will 9/8]`
 
@@ -478,7 +479,7 @@ per level after — with the Constitution modifier shown so the numbers can be a
   where the family's talk of luck comes from. It does not tell her what it is made of.
 
 **[Issa Quib](../../maalm/encounters/tavern-rival-crews.md) — halfling, Cleric 3
-(Grave Domain).** Aniess's counterpart, and the one who makes the theft hard to keep.
+(Grave Domain).** Aniess's counterpart, and the one who can find the knife after it is taken.
 
 - **Locate Object** (2nd level) — she has seen the peseshkef inside 30 feet, so she can
   find it: the nearest such object **within 1,000 feet**, concentration up to 10 minutes.
@@ -515,7 +516,8 @@ of Divination).** The hardest of the Writ to get past.
 Riposte, Trip Attack and Menacing Attack.
 
 **[Bram Hale](../../maalm/encounters/tavern-rival-crews.md) — human, Fighter 3
-(Champion).** No darkvision, and he takes the first watch. That is the hour to move.
+(Champion).** No darkvision, and he takes the first watch. His watch is the hour with no
+darkvision on the door.
 
 ## Connections
 

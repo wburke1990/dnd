@@ -195,10 +195,19 @@ uncovered files are named. Generated files (`INDEX.md`, per-directory
 means a hand commit or a fresh clone, and it passes rather than blocking work it
 cannot see.
 
-**For a mechanical sweep with no new prose** — a repo-wide rename, a link fix
-across twenty files — set `PROSE_CRITIC_BYPASS=1` on the commit. It lets the
-commit through and prints the files it skipped, so the skip is visible instead of
-silent. That is the only escape hatch; **`--no-verify` is still forbidden.**
+**Run the critic on every content file you touch, a mechanical sweep included.**
+`[Will, 9/17]` A rename or a link fix still gets a `prose-critic` pass on each file
+it touches — not to satisfy the gate, but because the critic reads the file fresh
+and finds what the sweep was not looking for. On the 9/17 renumbering it caught two
+counting errors that had been sitting in committed files — *"three things"* over a
+four-item list, *"Four lines:"* over five — and forty-odd style flags across four
+files that a bypass had waved through an hour earlier. **Read what comes back and
+make the call yourself:** a critic rewrite is a suggestion, and some of its flags
+are false positives on established campaign terms.
+
+**`PROSE_CRITIC_BYPASS=1` is for a commit the critic cannot be run against at
+all**, not for a sweep you have judged too small, and every use of it says so in
+the commit message. **`--no-verify` is still forbidden.**
 
 Concretely, do not write:
 
@@ -302,6 +311,15 @@ can't statically analyze) trigger a prompt that blocks on mobile. So:
 `Write` the message to e.g. `/tmp/msg.txt`, then
 `git -C /Users/wcb/personal/dnd commit -F /tmp/msg.txt`. A one-line
 `git commit -m "…"` is fine; the heredoc is what trips the analyzer.
+
+**Never commit with a pathspec — `git commit -- <paths>`.** Git builds a temporary
+index for that form and hands the hook `GIT_INDEX_FILE` pointing at it, which the
+`critic-gate` tests inherit: their throwaway repos then commit against the wrong
+index and die with *"invalid object … Error building trees"*, and the whole
+pre-commit run fails on tests that pass by hand. Stage what you want and commit
+with no paths. (Bitten 9/17, when a parallel session had its own work staged and a
+pathspec looked like the tidy way to leave it alone. Unstage their paths, commit,
+re-add them.)
 
 **Never prefix a git command with `cd … &&`.** The Bash cwd is already the
 project root for the whole session, so `git add …` / `git -C

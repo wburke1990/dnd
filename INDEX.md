@@ -14,7 +14,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [kuru](world/kuru/README.md) | 2 | The NE landmass, the Order of Sunne and the phoenix. |
 | [lonka](world/lonka/README.md) | 6 | Jotunheim, the dragonborn origin and the Bleeding Star. |
 | [musleheim](world/musleheim/README.md) | 5 | The fire island: the Muspel empire and the orc wars. |
-| [nila](world/nila/README.md) | 24 | The world itself: cosmology, history, rules, and the powers that span regions. |
+| [nila](world/nila/README.md) | 25 | The world itself: cosmology, history, rules, and the powers that span regions. |
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 6 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
@@ -96,6 +96,7 @@ The world itself: cosmology, history, rules, and the powers that span regions.
 |---|---|---|
 | [campaign overview](world/nila/lore/campaign-overview.md) | `reference` | The campaign design doc — goals, themes, the arc, and the open questions |
 | [demons and the hotspot](world/nila/lore/demons-and-the-hotspot.md) | `reference` | The magma demon, the demon-people, and the deep cities of the Abyss |
+| [divination and sacrifice](world/nila/lore/divination-and-sacrifice.md) | `reference` | How each region of Nila kills a beast and reads the answer, and what the omens cost |
 | [house rules and world mechanics](world/nila/lore/house-rules-and-world-mechanics.md) | `reference` | True names, planar binding, and the tunnels that are the Abyss |
 | [lineages and afterlives](world/nila/lore/lineages-and-afterlives.md) | `reference` | The three lineages and what death is for each of them |
 | [myth and poem as literal truth](world/nila/lore/myth-and-poem-as-literal-truth.md) | `reference` | The design pillar of running real myth and poetry as literal fact |
@@ -298,7 +299,7 @@ Sailing, weather, fleets and what lives in the water.
 | [sarric](characters/sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
 | [sayid](characters/sayid.md) | `reference` | Blackacre's former friend, who holds a few ships and cannot back down in front of his crew |
 | [shepard](characters/shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
-| [the brass jackals](characters/the-brass-jackals.md) | `reference` | Preem's broke foreign crew from Kuru, met on the stairs in session one and drunk at Aar |
+| [the brass jackals](characters/the-brass-jackals.md) | `reference` | Preem's broke crew from Kuru, met on the stairs in session one and drank at Aar |
 | [the children](characters/the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |
 | [the lapis writ](characters/the-lapis-writ.md) | `reference` | Preem's crew that cleared the whole Valley, met at Aar with the peseshkef on Setha Renk's belt |
 | [the psychic bat](characters/the-psychic-bat.md) | `reference` | Jasper's familiar, in fact a quasit Preem planted as a spy |
@@ -324,6 +325,7 @@ Sailing, weather, fleets and what lives in the water.
 | [do not go gentle](handouts/do-not-go-gentle.md) | `reference` | Dylan Thomas, "Do Not Go Gentle Into That Good Night" — grave inscription, placement open |
 | [do not stand at my grave](handouts/do-not-stand-at-my-grave.md) | `reference` | Mary Elizabeth Frye, "Do Not Stand at My Grave and Weep" — carved over the Verdant Fist graves |
 | [dragon hoard warning](handouts/dragon-hoard-warning.md) | `reference` | Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard |
+| [ezekiel 21 belomancy](handouts/ezekiel-21-belomancy.md) | `reference` | Ezekiel 21 in the King James — the king at the parting of the way, taking three omens at once |
 | [hymn to artemis](handouts/hymn-to-artemis.md) | `reference` | Homeric Hymn 27, "To Artemis," trans. Evelyn-White — the shooter of stags and her hounds |
 | [iliad blood on the ground](handouts/iliad-blood-on-the-ground.md) | `reference` | Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles |
 | [into my heart an air that kills](handouts/into-my-heart-an-air-that-kills.md) | `reference` | Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat |
