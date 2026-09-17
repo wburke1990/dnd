@@ -1,14 +1,24 @@
 ---
-summary: Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar
+summary: Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat
 status: next
 ---
 
 # The Godstone Dagger — the peseshkef at Aar
 
-> **§1 was run at the table in [session 12](../../../../sessions/session-12.md).** Aniess
-> and Beartholomew traded the countersign at the watch-stone and he made the ask there, on
-> the spot. **Pick up at the Tally House that evening** — the drinking, the two crews, and
-> the theft ([the run to Copaa](the-run-to-copaa.md), Part Two).
+> **The theft did not happen at Aar, and it moves to Brauron.**
+> `[played — sessions 12, 13, 13b, 14]` Aniess and Beartholomew traded the countersign at
+> the watch-stone and he made the ask there
+> ([session 12](../../../../sessions/session-12.md)); the party took the job at the Tally
+> House ([session 13](../../../../sessions/session-13.md)); and then they sailed without
+> going for it ([session 14](../../../../sessions/session-14.md)), so the Writ left Aar
+> with the knife. On the walk to Musa's stone
+> ([session 13b](../../../../sessions/session-13b.md)) **Aniess settled that she will take
+> it at the [Sacred Hunt](../../brauron/encounters/the-game-preserve.md)** instead.
+>
+> **The Aar scenes below will not be run** — the bath house, the gallery and the guest
+> house. The Writ carry over to Brauron: the five of them, their hit points and AC below,
+> Issa's *Locate Object* on the knife, Calix's Portent, and Calix's toad, which is a
+> quasit.
 >
 > **DM reference.** The party put in at **[Aar](../lore/aar.md)** on their way inland to
 > **[Copaa](../lore/copaa.md)** ([the run to Copaa](the-run-to-copaa.md) §4 and §5).
@@ -64,9 +74,9 @@ written out with the gloss in the handout.
 your clothes hanged on the gallows.)*
 
 He says he is glad to see her and gives the party his name. **Then he asks, standing
-there.** He does not save it for a quiet room — cant is what lets a man name a job in front
-of forty dock hands. The guest house is a hundred yards down the water while he says it,
-with the knife in it.
+there.** He does not save it for a quiet room — cant lets him name the job in front of
+forty dock hands. The guest house is a hundred yards down the water, with the knife in
+it.
 
 He names the job in the second song, and its third line is the ask:
 
@@ -151,7 +161,7 @@ marks match.
 necromancy and so is the statue's *Gentle Repose*, but the stone itself was never enchanted
 and has no school to report
 ([godstone and Detect Magic](../../../kuru/lore/kuru-and-the-phoenix.md)). Pax's glasses see
-both layers, and the second one is how godstone is told from everything else in the world.
+both layers, and the second layer is what identifies godstone.
 
 **It is godstone** — an Amseh god's, like the
 [small Anubis](../../maalm/encounters/the-dream-quest.md), not the phoenix's, so it carries
@@ -199,22 +209,22 @@ rot and cannot be raised as undead.
   what keeps there being one.
 - It lets the party **carry a corpse to ask it later**.
 - **It stays worth having after Aniess can cast it.** Nobody prepares Gentle Repose
-  speculatively — you want it the moment you find a body, which is the one moment it is not
-  on your list.
+  speculatively — it is wanted the moment a body is found, which is too late to have
+  prepared it.
 
 **What was considered and dropped.**
 
 - **Comprehend Languages** — the party already have it at will. Preem issues every crew a
   **Pen of Comprehend Languages** and **Sarric carries theirs**
   ([Preem](../../../../characters/preem.md)). That covers tomb walls and a corpse answering
-  in Amseh both. The difference still worth playing: **the pen is Preem's, and it reads what
-  somebody wrote down.** The knife and the statue are the party's own, and they ask the dead.
+  in Amseh both. **The pen is Preem's, and it reads what somebody wrote down.** The knife
+  and the statue are the party's own, and they ask the dead.
 - **Zone of Truth** — the best fit on paper, since Anubis works the scales and the party
-  have already stood in the Hall of Two Truths. Dropped as a loan against Aniess's own
-  sheet: it is 2nd-level cleric, and she gets it free at three cleric levels.
+  have already stood in the Hall of Two Truths. Dropped because it duplicates a spell she
+  gets on her own: it is 2nd-level cleric, and she gets it free at three cleric levels.
 - **See Invisibility** — the only one nobody in the party could ever cast, and pointed at V.
   and at Preem's quasits. Dropped because it hands them a standing answer to being watched,
-  and being watched by Preem is doing work in the campaign.
+  and Preem watches the party, which is meant to continue.
 
 **Why not the others.** *Augury* is the same loan as Zone of Truth. *Spare the Dying*,
 *Ceremony* and *Protection from Evil and Good* are cantrip or 1st-level cleric, so Aniess
@@ -225,7 +235,7 @@ What that decides:
 
 - **Gentle Repose is out of her reach right now.** Her caster level is 2, so she has
   1st-level slots only. She reaches 2nd-level cleric spells at **Cleric 3, one character
-  level away** — so the statue is doing real work now and keeps doing it afterwards for the
+  level away** — so the statue is useful now and stays useful afterwards for the
   reason above.
 - **She has Thieves' Cant.** Rogue 1 gives it, so the countersign with Beartholomew works as
   written ([canting songs](../../../../handouts/canting-songs.md)).
@@ -245,9 +255,8 @@ What that decides:
 and gives the [al Qahtani](../../../../characters/the-children.md) a real reason to want it
 back if they ever learn what they handed over.
 
-Together the pair let a crew question the Amseh dead directly rather than read tomb walls —
-and reading the Amseh dead is what
-[Preem](../../../../characters/preem.md) has been paying crews to do the whole campaign.
+Together the pair let a crew question the Amseh dead directly rather than read tomb walls.
+[Preem](../../../../characters/preem.md) pays crews to read the Amseh dead.
 
 ### `[OPEN]` Who is actually answering
 
@@ -335,7 +344,7 @@ gets back to Maalm, and what Preem does with it.
 **This happened in the tavern, not on the towpath.** Greg rolled a natural 20 investigating
 Setha, and Aniess put the small Anubis beside the peseshkef and saw they are the same
 stone — a night before the theft rather than three days after it. The canal version below
-is kept for the shape of what she knows.
+is kept for what she learns.
 
 ### The canal version, as written
 
@@ -425,8 +434,7 @@ come out in his own hands.
 
 **And then he has been seen.** A seven-foot bear-man on the Lapis Writ's gallery at three
 in the morning, on the night their heirloom goes missing, in a port where he is the only
-bear-man. **Have him offer it anyway** when a player asks, because a player
-will:
+bear-man. **Have him offer it anyway** when a player asks:
 
 > *"I can put myself in that room. I have to be standing under the window to do it. And then
 > the knife is gone, and there is one thing in this town that looks like me."*
@@ -448,7 +456,7 @@ per level after — with the Constitution modifier shown so the numbers can be a
 | **Issa Quib** | Cleric 3 (d8) | **18** | **14** | +0 | leather |
 | **Calix Vire** | Wizard 3 (d6) | **17** | **15** | +1 | Mage Armor |
 
-- **Issa has the lowest hit points of the five.** CON +0 fits what the death-touched rite
+- **Issa has the lowest hit points of the five.** CON +0 fits what the rite
   left her — a living halfling, cold and shallow-breathed.
 - **Calix is AC 12 without Mage Armor**, and it lasts eight hours.
 - **In the bath house those numbers change.** Setha is AC 12 with no armour, and Doruk and
@@ -475,7 +483,7 @@ per level after — with the Constitution modifier shown so the numbers can be a
 - **Locate Object** (2nd level) — she has seen the peseshkef inside 30 feet, so she can
   find it: the nearest such object **within 1,000 feet**, concentration up to 10 minutes.
   **A thin sheet of lead blocks it.**
-- The getaway has an answer. Get more than 1,000 feet out, or
+- Get more than 1,000 feet out, or
   wrap it in lead — and Aar is an ore port with lead sheet lying on the wharf. The canal
   is the way out of range.
 - **Lucky** (reroll a 1 on any attack roll, ability check or save) and **Brave**. Lightfoot
@@ -485,21 +493,21 @@ per level after — with the Constitution modifier shown so the numbers can be a
 **[Calix Vire](../../maalm/encounters/tavern-rival-crews.md) — elf, Wizard 3 (School
 of Divination).** The hardest of the Writ to get past.
 
-- **Elves do not sleep.** He trances four hours, so half of any night has him awake.
-- **Portent** — two d20s rolled after each long rest, which he can use to **replace an
-  attack roll, saving throw or ability check** made by himself or a creature **he can see**,
-  chosen **before** the roll.
-- `[settled]` **Portent does not fire against the party sneaking.** He cannot see them, and
-  if he could they would already be caught. It is a threat in the open: the wager for the
+- **Elves do not sleep.** She trances four hours, so half of any night has her awake.
+- **Portent** — two d20s rolled after each long rest, which she can use to **replace an
+  attack roll, saving throw or ability check** made by herself or a creature **she can
+  see**, chosen **before** the roll.
+- `[settled]` **Portent does not fire against the party sneaking.** She cannot see them, and
+  if she could they would already be caught. It is a threat in the open: the wager for the
   knife, a Deception or Persuasion check across a table, a save once a fight starts, or the
-  chase after they are spotted. **Save at least one die for the wager** — he can hand Renk a
+  chase after they are spotted. **Save at least one die for the wager** — she can hand Renk a
   19 or hand the party a 3. Do not tell the table the die was spent.
-- **Alarm**, cast as a ritual, so it costs him no slot to ward a door, a window, or a
-  20-foot cube of gallery for 8 hours. The mental ping reaches him within a mile **and wakes
-  him if he is asleep** — and he does not sleep anyway. This, and the quasit, are what
+- **Alarm**, cast as a ritual, so it costs her no slot to ward a door, a window, or a
+  20-foot cube of gallery for 8 hours. The mental ping reaches her within a mile **and wakes
+  her if she is asleep** — and she does not sleep anyway. This, and the quasit, are what
   actually catch an intruder. Also *Detect Magic*, *Sleep*, *Misty Step*, *Detect
   Thoughts*.
-- **The quasit.** His pet toad is Preem's quasit. Darkvision 120 feet, invisible at will,
+- **The quasit.** Her pet toad is Preem's quasit. Darkvision 120 feet, invisible at will,
   and it does not sleep either. Whatever it sees, Preem hears.
 
 **[Doruk Pell](../../maalm/encounters/tavern-rival-crews.md) — dwarf, Fighter 3
