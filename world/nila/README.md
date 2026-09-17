@@ -12,6 +12,7 @@ The world itself: cosmology, history, rules, and the powers that span regions.
 |---|---|---|
 | [campaign overview](lore/campaign-overview.md) | `reference` | The campaign design doc — goals, themes, the arc, and the open questions |
 | [demons and the hotspot](lore/demons-and-the-hotspot.md) | `reference` | The magma demon, the demon-people, and the deep cities of the Abyss |
+| [divination and sacrifice](lore/divination-and-sacrifice.md) | `reference` | How each region of Nila kills a beast and reads the answer, and what the omens cost |
 | [house rules and world mechanics](lore/house-rules-and-world-mechanics.md) | `reference` | True names, planar binding, and the tunnels that are the Abyss |
 | [lineages and afterlives](lore/lineages-and-afterlives.md) | `reference` | The three lineages and what death is for each of them |
 | [myth and poem as literal truth](lore/myth-and-poem-as-literal-truth.md) | `reference` | The design pillar of running real myth and poetry as literal fact |
