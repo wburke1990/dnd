@@ -6,6 +6,13 @@ status: ready
 # Tavern Scene — Rival Crews
 
 > **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+>
+> **Each crew also has a character sheet** — one page for who they are and every
+> interaction the party has had with them, which is the faster lookup mid-session:
+> [the Lapis Writ](../../../../characters/the-lapis-writ.md),
+> [the Brass Jackals](../../../../characters/the-brass-jackals.md),
+> [the Ashfoot](../../../../characters/the-ashfoot.md). The blocks below stay the
+> source for lines, backstory and the DM-only material.
 
 ---
 
@@ -16,22 +23,19 @@ status: ready
 
 
 Two of Preem's other rival crews are drinking in a Maalm tavern when the
-party returns from **tomb four**. They are not a contrivance and not flavor:
-Preem deliberately runs multiple crews against the names, and these two are
-built to be the **party's two reflections** — the engine that makes the quest's
-danger *felt* instead of explained.
+party returns from **tomb four**. Preem runs several crews against the names,
+and each of these two is built off a choice or a wound one PC carries.
 
-> **The design in one line:** the **Lapis Writ** are who you become if you
-> *win* this quest; the **Brass Jackals** are what it *costs*; the **Ashfoot**
-> (held for a later city, bottom of this file) are the wreckage at the end of
-> the road. Mirror → cost → wreckage.
+> **The design in one line:** the **Lapis Writ** took the job and are content
+> with it; the **Brass Jackals** are paying for it; the **Ashfoot** (held for a
+> later city, bottom of this file) have been at the work longest.
 
 Both Maalm crews use standard species (halflings, half-orcs, elves, dwarves,
 humans, gnomes), mixed like Maalm's lower city. The PCs are the exotic ones
 (dragonborn, yuan-ti, firbolg, genasi, aasimar) — so the mirror is never about
 *species*. It's about the **choice each PC refused** and the **wound each PC
-carries**. Standard species keeps the rivals ordinary on purpose: the horror is
-that ordinary people made the choice your party flinched from.
+carries**. Standard species keeps the rivals ordinary: they are ordinary people,
+and they made that choice.
 
 ### Pecking order in the room
 
@@ -54,10 +58,9 @@ middle — and the Writ are holding exactly what the party overlooked.
 
 ## DM levers
 
-- **The danger arc (the through-line of all three crews).** Maalm: the Writ show the
-  *moral* danger (who you become), the Jackals show the *human* cost (what it
-  takes). A later city: the Ashfoot show the *wreckage* (where it ends). Same
-  road, three mileposts. You don't have to explain the names plot once — the
+- **What the three crews show, in order.** Maalm: the Writ are content with what
+  they have done, the Jackals are being ruined by it. A later city: the Ashfoot
+  have been at it longest. You don't have to explain the names plot once — the
   crews are the explanation.
 - **Mirror handoffs.** Stage the missing-names exchange member-to-counterpart
   (Doruk→Sarric, Issa→Aniess, etc.). Delivers the mirror and backfills the
@@ -130,7 +133,7 @@ the rivals — Kalikhat, Jotunheim, the orc-held heart of Muspelheim — where n
 **Hazards differ by route.** The northwest lanes toward Lonka/Jotunheim mean
 the **Lonka Zealots** and the **Dragon Turtle** in the caldera bay; open
 crossings mean pirates and the comet-cycle's swinging weather and volcanic
-flux. A crew's route tells you which danger it's been eating.
+flux. A crew's route tells you which of these it has been meeting.
 
 **Travel hooks.** (1) *Blackacre-as-target:* any crew or faction that learns a
 druid-shipwright sails with the party has reason to court, hire, rob, or
@@ -410,7 +413,7 @@ missing-names handoff — live under **DM levers**. The party first overhear
 ### The bartender — a Letap satyr
 
 **Appearance.** Goat-legged and unhurried behind the bar, forever polishing a
-glass — the wine-god's easiness under a gravekeeper's patience. Like every
+glass. Like every
 tavern-keeper in Nila he's a **Letap** (see
 [`satyr-taverns.md`](../../../nila/lore/satyr-taverns.md)). The mural is up on the wall for
 the players to look at; he doesn't narrate the picture.
@@ -449,10 +452,10 @@ They think the names are **theirs**.*
 **Tavern angle.** Setha buys a round to look magnanimous, then needles the party
 about how careless they've been. Each Writ member drifts toward their counterpart
 — Doruk corners Sarric, Calix unsettles Pax, Bram charms Jasper — so
-the mirror lands as *conversation*, not a lecture. Let the players feel the pull
-and the revulsion at once.
+the mirror lands as *conversation*, not a lecture.
 
-**The missing-names handoff (table-fix, weaponized as a mirror).** The party
+**The missing-names handoff** (the party get the names they missed, handed over
+by their counterparts). The party
 fumbled names in tombs one through three; the Writ didn't — Issa's ledger holds
 the complete set, twelve keepers and two-and-forty judges included (the handout:
 [`the-lapis-writ-ledger.md`](../../../../handouts/the-lapis-writ-ledger.md)). A name is *knowledge*, not a consumable, so the Writ lose
@@ -541,7 +544,7 @@ Calix moves Setha.
 
 **In conversation.** She'll talk freely about the Writ finishing the Valley and
 needle the party's sloppiness. Earn her and the founder-blood story surfaces:
-she's a **founder-blood bomb in half-elf skin.** Her mother was the last of a
+she is half-elf and holds a live founder claim. Her mother was the last of a
 **thinned founder house** — real old blood, a near-dead claim to a reserved,
 elves-only council seat — who tied the dying line to **Preem's cabal** for a road
 back to power and bore Setha to a non-elf father. The **founder bloc** that holds
@@ -577,7 +580,7 @@ what Preem really is, or offer her the houses' heads, and her loyalty is in play
 #### Doruk Pell — dwarf · the Writ's closer *(Sarric's mirror)*
 
 **Appearance.** Dark ale, no hurry, the mug turned slowly between two scarred
-hands. The kindest voice at the worst table.
+hands. He speaks kindly.
 
 **Hook lines.**
 - *Intro.* *"Doruk. Pull up. You look like men who've been underground — I know
@@ -648,7 +651,7 @@ dead; she slips *past* them, she doesn't raise them.
 #### Bram Hale — human · Writ muscle *(Jasper's mirror)*
 
 **Appearance.** Warm, open, easy company; matches the party drink for drink and
-buys his own round. The most dangerous mirror, because you'll *want* to trust him.
+buys his own round.
 
 **Hook lines.**
 - *Intro.* *"Bram Hale. No airs — I'm the muscle, Setha's the blood and Calix
@@ -689,13 +692,11 @@ who hide nothing) — and none of these are lies, which is what makes them land.
 **DM only — what he can't tell you.** *The mirror:* he and Jasper are the same man
 at the fork — both survived the strong eating the weak, both completely open about
 it. But Jasper carries the guilt in the open and spends his life **fighting** the
-strong; Bram carries **no guilt at all** and **became** one of their hands. Same
-warm, honest face, opposite soul — and the party liking him *is the trap.*
+strong; Bram carries **no guilt at all** and **became** one of their hands.
 
 **How to play him.** Never defensive, never a recruiter. If Jasper attacks the
-cause — or Bram himself — Bram *agrees* (*"You're not wrong"*) and stays warm. The
-horror is that he's kind, honest, funny, and damned, and Jasper leaves the table
-having *enjoyed* him.
+cause — or Bram himself — Bram *agrees* (*"You're not wrong"*) and stays warm.
+Play him warm and honest throughout. He never turns on Jasper.
 
 #### Calix Vire — elf · Writ pathfinder *(Pax's mirror)*
 
@@ -840,8 +841,8 @@ out here, no one can.
 **Rogue 3 (Thief)** `[new — Will 9/1]`. Expertise in Investigation and Insight. She uses
 them to price gear and to read people.
 
-**Appearance.** The cheapest thing on the board, watched like it owes her money.
-Keeps the crew's coin, supplies, map — and its **death-book.**
+**Appearance.** The cheapest thing on the board, and she watches it. Keeps the
+crew's coin, supplies, map — and the record of its dead.
 
 **Hook lines.**
 - *Intro.* *"Hadda. I keep the coin and the map, so I'm the one who's sober."*
@@ -855,8 +856,8 @@ Keeps the crew's coin, supplies, map — and its **death-book.**
 name, from the scavenging years — out of stubborn respect (someone should remember
 them). Corner her and the unease leaks: the pay's too high for grave-robbing,
 Preem runs an odd number of crews at once, the sites are a long way to send
-people. She's as new to Preem as the rest and can prove nothing — it's a **nose,**
-a week ahead of the proof, quietly pricing the odds and not liking them.
+people. She's as new to Preem as the rest and can prove nothing. She suspects it before
+she has the proof, quietly pricing the odds and not liking them.
 
 **DM only — what she can't tell you.** She's started a **second tally she shows
 no one** — the small wrong signs about *this* job — because she'd rather see the
@@ -897,9 +898,8 @@ find her alone in the black.
 **Riska died doing exactly this seat.** And **Veska cannot bear to lose her** —
 Sefi is exactly the child the holy war Veska once preached left in the ash, and
 saving this one is the only redemption Veska can imagine; the day the road takes
-her, it's Veska failing the children all over again. Sefi is the **live wire** of
-the scene: reach for her and the Jackals have a reason to love the party; don't,
-and she's the Ashfoot walking, twenty years early.
+her, it's Veska failing the children all over again. If the party look out for her, the Jackals
+warm to them. If they don't, she stays on the road.
 
 #### Mogg — half-orc · Brass Jackals enforcer & storyteller *(Doruk's cross-crew mirror)*
 
@@ -972,9 +972,9 @@ easier than the truth.
 knows the cause is in his own kit, and **takes the next dose anyway** — because the
 alternative is going down a tomb sober, and that he cannot do. He's the Jackals'
 cost worn inside-out: the one who tried to **chemistry the cost away,** and the
-cure is killing him faster than the job would. Played light — the table will be
-fond of him fast — they laugh at the canary for a session
-before anyone clocks that the canary is dying of the air, by his own hand.
+cure is killing him faster than the job would. Play him light. The crew laugh at
+the twitch for a session before anyone works out that the compounds are what is
+wrong with him, and that he mixes them himself.
 
 *Preem's spy in the crew.* 🔒 That centipede is **Preem's** — a **quasit,** planted
 on the Jackals exactly as the psychic bat was planted on Jasper and the toad on
@@ -983,8 +983,8 @@ Calix (a *third* spy-familiar, distinct from each; see
 the Jackals' summons-note** and led them up to Preem's tower in
 [session one](../../../../sessions/session-01.md), right after the party — who **clocked
 it.** It **won't talk to anyone who'd know** — probe it and it's just a mute bug —
-but it **murmurs to Pim,** and there's the cruel joke: his mind is so hollowed by
-his own chemistry that he takes the voice for **more drug damage** and never
+but it **murmurs to Pim,** and there's the cruel joke: his own compounds have
+damaged his mind, so he takes the voice for **more of the same** and never
 guesses the bug is real. That misattribution is exactly why Preem picked him — the
 one host who *hears* his own spy and calls himself crazy. It **watches and answers
 only to Preem,** who doesn't trust this foreign crew and wants an **early-warning

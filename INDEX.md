@@ -229,7 +229,7 @@ Raand, Copaa, Aar and the Haals mines.
 
 | File | Status | What it is |
 |---|---|---|
-| [the godstone dagger](world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) | `next` | Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat at Aar |
+| [the godstone dagger](world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) | `next` | Beartholomew asks the party to lift an Amseh ceremonial blade off a Lapis Writ aristocrat |
 | [the run to copaa](world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md) | `next` | The next session's packet — off the Nasira, down the coast to Aar, and up the canal to Copaa |
 | [the haals runoff](world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md) | `ready` | A Company mine poisoning the watershed below Haals |
 | [the mines of haals](world/suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md) | `draft` | The workings under the Company mine, where each level down is an older time |
@@ -273,6 +273,8 @@ Sailing, weather, fleets and what lives in the water.
 | File | Status | What it is |
 |---|---|---|
 | [beartholomew](characters/beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, working Aar's wharf as a Company ore guard |
+| [the ashfoot](characters/the-ashfoot.md) | `draft` | Preem's crew that has been out among the scattered sites too long, held for a later city |
+| [the ninth](characters/the-ninth.md) | `idea` | The crew that kept a demon's true name and bound it instead of relaying it, on hold |
 | [aniess](characters/aniess.md) | `reference` | Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order |
 | [annibel](characters/annibel.md) | `reference` | The half-orc general who reversed Kuru's reconquest and was defeated at Ilka Mak |
 | [arishat](characters/arishat.md) | `reference` | A dragonborn zealot at Jotunheim who keeps the caldera's books |
@@ -295,7 +297,9 @@ Sailing, weather, fleets and what lives in the water.
 | [sarric](characters/sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
 | [sayid](characters/sayid.md) | `reference` | Blackacre's former friend, who holds a few ships and cannot back down in front of his crew |
 | [shepard](characters/shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
+| [the brass jackals](characters/the-brass-jackals.md) | `reference` | Preem's broke foreign crew from Kuru, met on the stairs in session one and drunk at Aar |
 | [the children](characters/the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |
+| [the lapis writ](characters/the-lapis-writ.md) | `reference` | Preem's crew that cleared the whole Valley, met at Aar with the peseshkef on Setha Renk's belt |
 | [the psychic bat](characters/the-psychic-bat.md) | `reference` | Jasper's familiar, in fact a quasit Preem planted as a spy |
 | [the second hand](characters/the-second-hand.md) | `reference` | Another of Preem's name-hunting crews, met pinned down in the citadel district |
 | [tovin reedhand](characters/tovin-reedhand.md) | `reference` | Pax's friend from the Verdant Fist monastery, a monk who misses him |
@@ -376,6 +380,7 @@ Sailing, weather, fleets and what lives in the water.
 | [session 11](sessions/session-11.md) | `played` | Ship's roles handed out, then the burning wreck outside Maalm and the merfolk fight |
 | [session 12](sessions/session-12.md) | `played` | Rustam killed to end the sepsis, and his body dragged through Aar to his brother's door |
 | [session 13](sessions/session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
+| [session 13b](sessions/session-13b.md) | `played` | A side session with Greg — Aniess and Setha talk, then the walk with Beartholomew |
 | [session 14](sessions/session-14.md) | `played` | Out of Aar without the knife, the storm that took the mast, and the bell under the island |
 | [player messages earth dreams](sessions/player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 

@@ -3,7 +3,7 @@ summary: Another of Preem's name-hunting crews, met pinned down in the citadel d
 status: reference
 ---
 
-# The Second Hand — Preem's other crew, and the party's mirror
+# The Second Hand — Preem's other crew
 
 > **NPC adventuring party.** One of [Preem](preem.md)'s **many name-hunting
 > crews** ([overview](../world/nila/lore/campaign-overview.md)) — a sibling group to the
@@ -11,9 +11,13 @@ status: reference
 > **pinned down and dying** in the citadel district, ambushed by the **rat man**
 > and a knot of **corrupt city guards** exactly as the PCs were in
 > [Session 1](../sessions/session-01.md). If the party saves them, the Second
-> Hand becomes a **standing ally** — and the GM's quiet **anti-TPK lever** for
-> the rest of the campaign. Full set-piece:
+> Hand becomes a **standing ally** — and the way the GM can save the party from a
+> total-party-kill for the rest of the campaign. Full set-piece:
 > [The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md).
+>
+> **The other crews:** [the Lapis Writ](the-lapis-writ.md),
+> [the Brass Jackals](the-brass-jackals.md), [the Ashfoot](the-ashfoot.md),
+> [the Ninth](the-ninth.md).
 >
 > Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
 
@@ -21,11 +25,10 @@ status: reference
 
 ## Snapshot
 
-- `[loose]` **Name:** **The Second Hand.** A triple pun the table isn't meant to
-  unpack: the **second hand of a clock** sweeping toward the one-year Ragnarok
-  fuse; **hired hands** (Preem's, like the PCs); and **second-hand** — used,
-  discarded, one more disposable crew the First Chair will spend without
-  blinking. (Swap the name freely if it doesn't land; the function is what
+- `[loose]` **Name:** **The Second Hand.** A pun on three senses: the **second
+  hand of a clock**, running out the year before the comet; **hired hands**
+  (Preem's, like the PCs); and **second-hand** — used, discarded, one more crew
+  the First Chair will spend. (Swap the name freely if it doesn't land; the function is what
   matters.)
 - `[settled]` **What they are:** **another of Preem's crews,** working the same
   contract as the party — out to the [Valley of the Kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md)
@@ -33,14 +36,14 @@ status: reference
   [atlas and location stone](preem.md#after-the-first-two-sessions--whats-canon-at-the-table)
   and report to **Mul** down the same sending stone. They do **not** know what
   the names are for, any more than the PCs do.
-- `[settled]` **Why they exist at the table:** a **funhouse mirror of the
-  party** (capable, a little more weathered, their own flaws) and the
-  campaign's **lifeline** — the crew the GM can send over the hill when the dice
-  turn murderous. See [The alliance — and the anti-TPK lever](#the-alliance--and-the-anti-tpk-lever).
+- `[settled]` **Why they exist at the table:** another of Preem's crews at the
+  same job as the party, a little more experienced and with their own flaws, and
+  the crew the GM can send in when a fight is about to kill the party. See
+  [The alliance — and the anti-TPK lever](#the-alliance--and-the-anti-tpk-lever).
 - 🔒 `[settled]` **The trap underneath:** Preem **runs them too.** Whatever
   leash is on the PCs (a familiar that spies, a stone that listens) is on the
-  Second Hand as well. The cavalry the party comes to rely on is a cavalry the
-  First Chair can **call off, or turn around,** at the climax.
+  Second Hand as well. At the climax he can order them to stop helping the party,
+  or to attack them.
 
 ## The crew
 
@@ -52,32 +55,31 @@ in-combat mending falls to Halvard's Lay on Hands.
   crew's leader. **Ex–Maalm citadel watch:** she wore the same badge the corrupt
   guards still wear, until she moved to expose her sergeant **Marcellus's** racket — the watch
   taking Ratatat's coin to look away from his robberies and killings — and was
-  **forced out and blacklisted** for it, the rot closing ranks against the one
-  honest badge. That's the wound beneath the trait: she stood in a uniform that
-  bled people for nothing and could save no one, so now she **decides who the
-  Second Hand spends itself for** and guards them ferociously — which is why, the
-  moment the party saves her people, that loyalty swings to them. **The irony she
-  can't see:** in quitting one corrupt master she signed straight onto a worse,
-  hidden one in Preem, and when his leash is finally revealed it lands as the
-  watch all over again — priming her to be the one who **breaks it**
+  **forced out and blacklisted** for it, the other watchmen backing Marcellus. She
+  wore that badge while people died for the coin and could not stop it, so now she
+  **decides what the Second Hand risks itself for** and guards them ferociously —
+  which is why, the moment the party saves her people, that loyalty swings to
+  them. **She does not know Preem holds a leash on her crew.** In quitting one
+  corrupt master she signed onto a worse, hidden one, and when the leash is
+  revealed she may be the one who **breaks it**
   ([the climax](#the-alliance--and-the-anti-tpk-lever)). Pragmatic, dry, hard to
   rattle — right up until she watches the bought guards move to **"arrest"**
   Ratatat and walk him to safety (or pile into the fight when the party won't
   fall for it), and the old fury comes straight back up
   ([the ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md)).
 - `[settled]` **Halvard Stone** — **Suartleheim dwarf,** oath-bound shieldbearer
-  (paladin). The **body that takes the hit:** when the Second Hand bails the
-  party out, Halvard is the one who plants himself in the breach. A **veteran of
+  (paladin). He stands in front of the party when the Second Hand intervenes. A
+  **veteran of
   the [Musleheim Reconquest](../world/kuru/lore/kuru-and-the-phoenix.md):** a shipwright from
   the yards at Ools who took an oath and shipped out with Kuru's holy war against
-  the orc-held lands, and came home **soured on it** — a war of conquest dressed
-  as faith, a god that may be going mad. The crew's **moral anchor,** and its
-  **conscience** about what they're being paid to dig up: he has stood in a holy
-  cause that curdled before, and he watches this one the same way. **Shepard
-  hook:** Shepard spent centuries as a statue in a Suartleheim town, so Halvard
-  can simply **recognize him** — "the iron saint from the square back home" — a
-  quiet way to spring the [Shepard](shepard.md) / [Vigil](../world/kuru/lore/kuru-and-the-phoenix.md)
-  thread through an ally instead of exposition.
+  the orc-held lands, and came home **no longer believing it was holy** — a war
+  for land, called a holy war, under a god that may be going mad. He is the one
+  who objects to the work, and he expects the same of Preem's contract.
+  **Shepard:** Shepard spent centuries as a statue in a Suartleheim town, so
+  Halvard can **recognize him on sight** — "the iron saint from the square back
+  home" — and say so, which opens the
+  [Shepard](shepard.md) / [Vigil](../world/kuru/lore/kuru-and-the-phoenix.md)
+  thread through an ally.
 - `[settled]` **Nuru** — **valley-born mage** of a **hereditary tomb-warden
   line:** the remnant people who never left the [Valley of the
   Kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md), keeping the old script and the
@@ -85,17 +87,16 @@ in-combat mending falls to Halvard's Lay on Hands.
   the dead kings toward judgment and **guarding their graves.** She took Preem's
   contract to get **back into the valley her displaced people were shut out of**
   — only to find the job is the exact desecration her line swore to prevent:
-  cracking sealed tombs and stripping the kings of what was buried with them.
-  Hers is a **keeper's** unease, not a scholar's — she does **not** know what the
-  names are *for*, only that breaking these seals is a sin she was raised to
-  stop. Still the crew's lore-value (she reads the tombs and the old gods) and
-  the keeper of the rescue-signal (below). Quiet, watchful, grieving a little
-  more with every seal they break. (Valley keepers go by given name and lineage,
+  cracking sealed tombs and stripping the kings of what was buried with them. She
+  does **not** know what the names are *for*, only that breaking the seals is a
+  sin her line swore to prevent. She is still the crew's lore-value (she reads the tombs and the
+  old gods) and the keeper of the rescue-signal (below). Quiet, watchful, and she
+  argues against opening each tomb. (Valley keepers go by given name and lineage,
   not a Maalm-style surname — hence simply **Nuru.**)
 - `[settled]` **Corvin Lark** — **half-elf scout & face,** the crew's eyes and
-  mouth in the city. He deals in **forged names and papers** — a mundane rhyme
-  with the campaign's name-obsession: he sells *false* names for coin while Preem
-  steals *true* ones from the dead. Corvin knows Maalm's gates and squares cold,
+  mouth in the city. He deals in **forged names and papers**: he sells false
+  names for coin while Preem's contract collects real ones off the dead. Corvin
+  knows Maalm's gates and squares cold,
   and which guards are bought: at the gate only **Hygelac** takes Ratatat's coin
   — **Wiglaf** and **Unferth** run straight (and **Wiglaf** is Cassia's quiet
   foil — he knows the rot and stays silent to protect the lepers' charity; see
@@ -103,8 +104,9 @@ in-combat mending falls to Halvard's Lay on Hands.
   shifts,** where Ratatat owns every guard as a witness to keep quiet. The ambush
   is **personal** for Corvin: Hygelac was a man he'd dealt with for years, and
   he's the one who took the coin to **look the other way** while the Second Hand
-  walked into the trap. Charming, transactional, never quotes a
-  straight price; in his trade, trust gets you killed.
+  walked into the trap. Charming, transactional, and he never quotes a straight
+  price.
+
 ## Combat stats — running the crew in a fight
 
 `[loose]` Compact allied blocks so the GM can run all four fast without a
@@ -168,13 +170,13 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
 **Speed 30 ft.** · **Init +4**
 
 - **Multiattack.** Two ranged, or two melee.
-- **Longbow** +6, 7 (1d8 + 3) piercing, range 150/600 — the crew's best gun in
-  the opening volley.
+- **Longbow** +6, 7 (1d8 + 3) piercing, range 150/600 — the highest ranged damage
+  in the opening volley.
 - **Shortsword** +6, 6 (1d6 + 3) piercing.
 - **First Shot (once per turn).** When Corvin hits a creature that **hasn't
   acted yet this combat** (everything, on the surprise round) or a creature he
-  has advantage against, add +7 (2d6) to the damage. He is the volley's biggest
-  hit — one guard usually drops before initiative is even rolled.
+  has advantage against, add +7 (2d6) to the damage. On the surprise round this
+  usually kills a guard.
 - **Cunning Action (Bonus Action).** Dash, Disengage, or Hide.
 
 > **No dedicated healer.** The crew has no medic; healing falls to **Halvard's
@@ -182,7 +184,7 @@ shield) · **HP 45** · **Speed 25 ft.** · **Init +0**
 > want a second source. **No PC dies at the docks;** if one goes down, Halvard
 > and the crew are why they wake up on the boat.
 
-## How they meet — the ambush that bonds them
+## How they meet
 
 `[settled]` Full encounter: **[The Second Hand Ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md).**
 In short: just outside Preem's tower the party comes on the Second Hand
@@ -191,36 +193,34 @@ caught the PCs, because Preem **outfits every crew with magic gifts** and the ra
 man **ambushes them the moment they leave, freshly loaded.** This time he's brought
 **his rats** and turns **three of the square's guards he already owns** — bought
 into silence as witnesses to his crimes — to do the killing while he claws for
-the loot. The party wades in — and the bought guards pull the watch's oldest
-trick: badges out, they move to **"arrest" Ratatat** and march him off to
+the loot. The party wades in — and the bought guards show their badges:
+they move to **"arrest" Ratatat** and march him off to
 "custody" (and safety). Let them, and he's gone clean; refuse, and they **drop
 the pretense and fight** to cover his exit. Either way the rat man **runs** (as
 he always does) with whatever he could grab, the corrupt guards are cut down or
 break, and the Second Hand owes the party their lives.
 
 Why it works:
-- **It's the party's own Session-1 ambush, replayed for them to watch.** Seeing
-  it from outside tells the party — correctly — that the rat man is hunting
-  **all** of Preem's crews, and — incorrectly, the way the campaign wants — that
-  **Preem's people are watched,** which curdles their trust toward the patron
+- **It is the party's own Session-1 ambush happening again, with them watching
+  from outside.** Seeing it from there tells the party — correctly — that the rat
+  man is hunting **all** of Preem's crews, and — incorrectly, the way the campaign
+  wants — that **Preem's people are watched,** which makes them distrust Preem
   instead of the real handler. ([Session 1 DM notes](../sessions/session-01.md).)
 - **It introduces the corrupt watch,** not as a one-off: the rat man **already
   owns the square's guards** — every witness to his crimes bought into silence —
   and turns them on his killing. Watching the watch **shield Ratatat with a sham
-  arrest** is the precise rot Cassia was blacklisted for naming, so the fight is
-  personal for her and gives the party a hook into Maalm's civic rot.
+  arrest** is the same arrangement Cassia was blacklisted for reporting, so the
+  fight is personal for her and gives the party a reason to pursue the bought
+  guards.
 - **It tells the party what the ambushes are *for*:** the rat man preys on
   Preem's outfitted crews to **strip them of their gifts** — which is, in
   hindsight, exactly what he tried on the PCs in Session 1.
-- **It earns the alliance.** A rescue that just *shows up* is a cheat; a
-  rescue the party **first earned themselves** is a debt being repaid. The
-  rescue button costs nothing precisely because the party already paid for it
-  here.
+- **It earns the alliance.** The party rescue the Second Hand before the Second
+  Hand ever rescues them, so every later rescue is a debt being repaid.
 
 ## The alliance — and the anti-TPK lever
 
-🔒 **GM-facing.** This is the mechanic the whole writeup exists to serve: a
-**soft safety valve against a total-party-kill** that doesn't defang the stakes.
+🔒 **GM-facing.** A way to prevent a total-party-kill without removing the risk.
 
 - `[loose]` **The signal.** Grateful — and having watched the party fight for
   them a second time — **Nuru splits a scrying-glyph** and gives the party half
@@ -228,34 +228,33 @@ Why it works:
   stone, a paired token, whatever fits your table. *"Break it when you're dying.
   If we can reach you, we will."* When the party shatters their half, Nuru's half
   **flares,** wherever the Second Hand is.
-- `[settled]` **It is not a teleport — reach is the governor.** The cavalry can
-  only come if they're **plausibly within reach** (same region, a hard day's
-  ride at most). Break the shard at the bottom of a sealed tomb across the sea
+- `[settled]` **It is not a teleport — distance is the limit.** They can only
+  come if they are **plausibly within reach** (same region, a hard day's ride at
+  most). Break the shard at the bottom of a sealed tomb across the sea
   and Nuru still sees it flare — but all that crosses the distance is a
-  **Sending-spell's worth of warning or a clue,** not four bodies. This is what
-  keeps the lever honest: the GM decides each time whether the Second Hand is
-  near enough, so the party can never *assume* the save.
+  **Sending-spell's worth of warning or a clue,** not four bodies. The GM decides
+  each time whether the Second Hand is near enough, so the party can never
+  *assume* the save.
 - `[settled]` **Every arrival costs them something.** The signal works as often
   as the party dares use it, but the price climbs: a crew member **badly
   wounded;** the Second Hand **falling behind in the name-race** (and Preem
   punishing the lag); a **favor owed back** that the party must one day answer.
   The alliance is **two-way** — the Second Hand can call *the party* for rescue
-  too, and should, so the relationship reads as comradeship rather than a
-  vending machine.
+  too, and does.
 - `[settled]` **How to use it without killing the tension.** When the dice turn
-  catastrophic and a real TPK looms, the Second Hand can **convert a wipe into a
-  costly survival** — the party goes down, wakes up dragged to safety, having
+  catastrophic and a real TPK looms, the Second Hand can leave **the party alive
+  with losses** — the party goes down, wakes up dragged to safety, having
   lost gear / a prisoner / ground, and **owing.** Use it **rarely** and always
   make it **advance the plot:** the crew learns something, collects a debt, or
   **loses someone** doing it. A rescue that costs the Second Hand a member is the
-  cleanest way to keep the valve from being abused — the party will think twice
-  before breaking the next shard.
+  clearest way to keep it from being used freely. If a rescue kills a crew member,
+  say so.
 - 🔒 `[loose]` **The dark version, saved for the climax.** Because Preem owns
   the Second Hand too, the [volcano-demon finale](preem.md#the-climax--the-volcano-demon-choice)
-  can **invert the cavalry:** the First Chair calls Cassia's crew in against the
-  party, or dangles their lives as the price of the party's compliance. The crew
-  the party leaned on all campaign becomes the **hardest fight — or the hardest
-  rescue** — of the last act. Whether the Second Hand **breaks Preem's leash and
+  can turn them: the First Chair calls Cassia's crew in against the party, or
+  offers their lives as the price of the party's compliance. The crew the party
+  relied on all campaign becomes the **hardest fight, or the hardest rescue,** of
+  the last act. Whether the Second Hand **breaks Preem's leash and
   sides with the party** depends on every favor traded along the way.
 
 ## Encounter hooks
@@ -270,16 +269,13 @@ Why it works:
    per the [overview](../world/nila/lore/campaign-overview.md) — let the party find the
    Second Hand *alive* for once.)
 3. **The favor called back** — the Second Hand breaks **their** shard. The party
-   chooses whether to be someone else's cavalry, and learns what their own
-   rescues have been costing.
-4. **Nuru's divided faith** — the keeper grasps that the contract desecrates the
-   tombs her line swore to guard. She drags her feet, begs to leave certain
-   graves sealed, or quietly works against the dig — a slow-burn loyalty crisis
-   the party can push either way, and a mirror for their own qualms about the
-   work.
-5. **The climax inversion** 🔒 — Preem turns or ransoms the crew at the
-   [volcano-demon choice](preem.md#the-climax--the-volcano-demon-choice). Their
-   allegiance becomes the question.
+   choose whether to go, and learn what their own rescues have been costing.
+4. **Nuru's divided faith** — the keeper works out that the contract desecrates
+   the tombs her line swore to guard. She drags her feet, begs to leave certain
+   graves sealed, or quietly works against the dig. The party can push her either
+   way.
+5. **The climax** 🔒 — Preem turns or ransoms the crew at the
+   [volcano-demon choice](preem.md#the-climax--the-volcano-demon-choice).
 
 ## Open threads
 
@@ -289,6 +285,6 @@ Why it works:
   on rescues vs. escalating-cost model. Pick what your table will actually
   honor.
 - `[OPEN]` **Does a Second Hand member die** in a rescue, and if so **who, and
-  when** — the most reliable way to keep the anti-TPK lever from going stale.
+  when.**
 - `[OPEN]` **Climax allegiance** — do they break Preem's leash for the party, or
   not?

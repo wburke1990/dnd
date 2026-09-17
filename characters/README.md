@@ -5,6 +5,8 @@
 | File | Status | What it is |
 |---|---|---|
 | [beartholomew](beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, working Aar's wharf as a Company ore guard |
+| [the ashfoot](the-ashfoot.md) | `draft` | Preem's crew that has been out among the scattered sites too long, held for a later city |
+| [the ninth](the-ninth.md) | `idea` | The crew that kept a demon's true name and bound it instead of relaying it, on hold |
 | [aniess](aniess.md) | `reference` | Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order |
 | [annibel](annibel.md) | `reference` | The half-orc general who reversed Kuru's reconquest and was defeated at Ilka Mak |
 | [arishat](arishat.md) | `reference` | A dragonborn zealot at Jotunheim who keeps the caldera's books |
@@ -27,7 +29,9 @@
 | [sarric](sarric.md) | `reference` | Player character (Jeremy) — a firbolg ranger who left home to fight for the weak |
 | [sayid](sayid.md) | `reference` | Blackacre's former friend, who holds a few ships and cannot back down in front of his crew |
 | [shepard](shepard.md) | `reference` | Preem's warforged butler, one of Kuru's first hundred, resurrected with no memory |
+| [the brass jackals](the-brass-jackals.md) | `reference` | Preem's broke foreign crew from Kuru, met on the stairs in session one and drunk at Aar |
 | [the children](the-children.md) | `reference` | Muntadhir and Ali al Qahtani, who hire the party to shepherd their father's soul |
+| [the lapis writ](the-lapis-writ.md) | `reference` | Preem's crew that cleared the whole Valley, met at Aar with the peseshkef on Setha Renk's belt |
 | [the psychic bat](the-psychic-bat.md) | `reference` | Jasper's familiar, in fact a quasit Preem planted as a spy |
 | [the second hand](the-second-hand.md) | `reference` | Another of Preem's name-hunting crews, met pinned down in the citadel district |
 | [tovin reedhand](tovin-reedhand.md) | `reference` | Pax's friend from the Verdant Fist monastery, a monk who misses him |
