@@ -1,101 +1,77 @@
 ---
-summary: Out of Aar without the knife, the storm that took the mast, and the bell under the island
+summary: A session with Greg — Aniess and Setha talk, then the walk with Beartholomew
 status: played
 ---
 
-# Session 14 — The Bell Under the Island
-## The dolphins, the mast gone, the Last Thinker, and the door in the hill
+# Session 14 — Aniess at Aar
+## The talk with Setha, and the walk to Musa's stone with Beartholomew
 
-> Live table notes. Out of **[Aar](../world/suartleheim-eet/raand-copaa/lore/the-tally-house-and-the-guest-house.md)**
-> by sea, the storm from
-> [sailing and storms](../world/the-sea/lore/sailing-and-storms.md), then the
-> **[Island of the Thinkers](../world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md)**
-> and [the Last Thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md).
-> Picks up from [session 13](session-13.md), which ended at the Tally House with the
-> theft agreed and the bath house heating.
+> Live table notes. A **session with Greg only**, at
+> **[Aar](../world/suartleheim-eet/raand-copaa/lore/aar.md)** before the party sailed.
+> Picks up from [session 13](session-13.md), the evening at the Tally House, and continues
+> in [session 15](session-15.md), where they sail.
 
 ---
 
 # WHAT HAPPENED
 
-## They left Aar without the knife
+## Aniess and Setha
 
-**The theft never happened.** They sailed without going for the peseshkef, so the bath
-house, the gallery and the belt were all left alone and the Lapis Writ went on their way
-with it ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
-Beartholomew's request is unanswered.
+**A long talk with [Setha Renk](../characters/the-lapis-writ.md)**, the night before the
+Writ sailed. **Setha told her most of her own history:**
 
-## The dolphins, and the storm
+- **Her past**, and her mother's claim to the council seat in Maalm that the crew is named
+  for.
+- **Her childhood with Calix.** `[settled — session 14]` The two of them were children together.
+- **What she is doing about it.** She means to become a great adventurer first and take
+  the seat back after.
+- **Her relationship with Preem** — that he took her in after her mother was killed and
+  chartered her the crew.
 
-**A pod of dolphins came up on the bow-wave as the weather built** — a 1 on the
-[sea table](../world/the-sea/bestiary/sea-beasts.md). Then the storm.
+The two of them had already identified each other as Preem's in
+[session 13](session-13.md). Both crews are his.
 
-- **Round one: Sarric went into the water** on a failed sailing check.
-- **The dolphins put him back aboard.** A pod near a swimmer gives an overboard character
-  advantage to reach a line, which is written into the entry and is what it did.
-- **Round two: Aniess rolled a natural 1.** `[ruled at the table]` **The mast snapped off
-  and flew away.**
-- **They drifted**, and came up on the island.
+## The walk with Beartholomew
 
-## The tree, and the Thinker
+**Aniess and [Beartholomew](../characters/beartholomew.md) walked out to
+[Musa's watch-stone](../world/suartleheim-eet/raand-copaa/lore/aar.md) above the harbour,**
+where he asked her for the knife in [session 12](session-12.md).
 
-They went up to the tree and met him.
+They covered four things:
 
-**They would not fight him for it.** The axe never came off anyone's belt. They went to
-the cistern for water instead.
+- **Their past.** The cohort, the Order, and the year they were both taken off the street
+  ([Beartholomew](../characters/beartholomew.md)).
+- **The history of Aar.** Musa's landfall, and the stone he set over the harbour.
+- **All four inscriptions** ([Aar](../world/suartleheim-eet/raand-copaa/lore/aar.md)) —
+  the prophecy of the country the gnomes would take, the prophecy that has already
+  come true, the third, which has not come true yet, and the gnomes' lament for
+  Kalikhat. The
+  party were handed all four in [session 12](session-12.md); this time the two of them read
+  them through.
+- **What happens next.**
 
-## The door in the hill
+## The plan
 
-**From the cistern they saw the door in the hillside.** It took work to get it open —
-they pulled layers of moss and dirt off the hill to do it.
-
-**From inside, looking back, the door they had opened is cut into a far larger one.** The
-outer door cannot be seen at all from outside the hill: moss and dirt over the whole of
-it.
-
-## The chamber
-
-Down the giant stairs to the hall. The stair going on down, the mural, the throne, the
-bell.
-
-**Jasper picked up the hammer and struck the bell.** `[DM]` The run sheet has the hammer
-taking three of them to lift. At the table Jasper took it alone.
-
-- **The floor shook, and the ringing did not stop.**
-- **They ran back up the stairs** with the bell still going behind them.
-
-## The top of the hill
-
-**The beach was going under.** The Thinker said his line —
-
-> *"The sun turns black, earth sinks in the sea. Mankind returns to clay."*
-
-— and **they rolled initiative.**
-
-**The session ends on round one of that fight.**
+**Aniess will try to take the peseshkef at Brauron.** The theft did not happen at Aar, and
+the Writ sailed with the knife, so the attempt moves to the
+[Sacred Hunt](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md) —
+where the Writ are going and the party now are
+([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
 
 ---
 
 ## Where it stands
 
-- **The fight has not been run.** Initiative is rolled and nobody has taken a turn.
-  The stat block, the spell list and the round-by-round are in
-  [the Last Thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md).
-  **David plays him**, and the dying line is still his to pick.
-- **The mast is gone and the tree is standing.** They took water and left the tree. The
-  island is sinking.
-- **The island is sinking while the fight runs.** Decide before the next session how fast,
-  and how much hilltop is left by the end of it.
-- **They did not take the peseshkef.** The Writ sailed with it and Beartholomew has no
-  knife. What that costs is open.
+- **The theft is still on.** Aniess is running it.
+- **It happens at Brauron**, not Aar. The prep for the bath house, the gallery and the
+  guest house is no longer used. The Writ, their numbers and Issa's *Locate Object* still
+  apply.
+- **Beartholomew stays at Aar.** He is on the Company's books as an ore guard and has not
+  left the wharf.
 
 ## Threads
 
-- `[OPEN]` **The second door.** The one they opened is set into a far larger door that
-  nothing on the outside of the hill shows. Nobody has said what the larger one is for, or
-  what size of thing it was cut for.
-- `[OPEN]` **What he is fighting for.** He never asked them to ring the bell — in the prep
-  that is his dying line, and he is alive. They opened the door and rang the bell.
-- **The stair going further down** was in the chamber and nobody took it. The way below is
-  collapsed in the run sheet; it is still there on the map.
-- **Nobody has explained the island.** The comet cycle stays unnamed, as written.
+- `[OPEN]` **What Setha wanted out of it.** She told a rival crew's spy about her mother,
+  the council seat, Preem, and the woman she wants. She sailed an hour later.
+- `[OPEN]` **Whether Beartholomew knows the plan changed.** The knife is at Brauron now,
+  and he asked for it at Aar.

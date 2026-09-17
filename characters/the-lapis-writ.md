@@ -12,7 +12,7 @@ status: reference
 > Tally House in Aar in [session 13](../sessions/session-13.md), and they sailed
 > north the next morning with the **peseshkef** still on Setha Renk's belt.
 > **Aniess will try to take it at the Sacred Hunt at Brauron**, which is where
-> they go next ([session 13b](../sessions/session-13b.md)).
+> they go next ([session 14](../sessions/session-14.md)).
 >
 > **This sheet is the reference.** The scene material — appearance, hook lines,
 > the full backstory of each member, the DM-only paragraphs — is in
@@ -57,7 +57,7 @@ elves-only council seat, and allied the house with Preem's cabal. One of the old
 houses had her killed to end the claim. Preem took her in and chartered her the
 crew. She wears founder-family clothing, is used to being
 obeyed, and buys rounds where the room can watch her buy them. She wants Calix,
-who does not know it, and `[settled — session 13b]` the two of them were children
+who does not know it, and `[settled — session 14]` the two of them were children
 together. She will not turn on Preem for money: she wants the seat,
 and Preem is the only way to get it. 🔒 On the Writ's tomb-three run she took the
 only unsent copy of the names out through the exit and left her co-founder and the
@@ -178,7 +178,7 @@ PC by PC:
   evening and nobody told either of them what the other is
   ([the fight](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md#the-fight--doruk-and-mogg-run)).
 
-`[played]` **Session 13b — Aniess and Setha, the night before the Writ sailed.** A
+`[played]` **Session 14 — Aniess and Setha, the night before the Writ sailed.** A
 side session with Greg only. The two had already named each other as Preem's the
 evening before, so this is a second conversation between two of his crews.
 **Setha gave Aniess her own history**: her mother's claim and the seat, her
@@ -186,13 +186,13 @@ childhood with Calix, that she means to be a great adventurer first and take the
 seat after, and what Preem has given her. The notes do not record Aniess telling
 her anything about herself. Setha sailed within the hour of it. Out of the same
 session, Aniess settled that she will take the peseshkef at Brauron rather than at
-Aar ([session 13b](../sessions/session-13b.md)).
+Aar ([session 14](../sessions/session-14.md)).
 
-`[played]` **Session 14 — they sailed with it.** The party left Aar without going
+`[played]` **Session 15 — they sailed with it.** The party left Aar without going
 for the peseshkef. The bath house, the gallery and the belt were all left alone,
 **the Writ sailed north at first light with the knife**, and
 [Beartholomew](beartholomew.md)'s request is unanswered
-([session 14](../sessions/session-14.md)).
+([session 15](../sessions/session-15.md)).
 
 ## What each side knows
 
@@ -206,7 +206,7 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
   the small Anubis are the same stone.
 - **Aniess knows Setha's history from Setha** — the dead mother, the seat, the
   childhood with Calix, and that Preem is how she means to get the seat back
-  (session 13b). Whether she has told the rest of the party is not recorded.
+  (session 14). Whether she has told the rest of the party is not recorded.
 - **The party do not know** what Setha did in tomb three, that Calix's toad is
   Preem's, or that Preem pays his crews at different rates and they are near the
   bottom.
@@ -262,7 +262,7 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
   waved at the party
   ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).
 - `[OPEN]` **What Setha wanted** out of the long talk with Aniess in
-  [session 13b](../sessions/session-13b.md). She sailed within the hour of it.
+  [session 14](../sessions/session-14.md). She sailed within the hour of it.
 - `[OPEN]` **Whether Beartholomew knows the plan changed.** He asked for the knife
   at Aar and it is at Brauron now.
 

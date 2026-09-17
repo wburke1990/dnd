@@ -168,7 +168,7 @@ party in one room. What happened:
   evening and nobody told either of them what the other is
   ([the fight](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md#the-fight--doruk-and-mogg-run)).
 
-`[played]` **Session 14 — the party sailed and the Jackals did not.** The party left
+`[played]` **Session 15 — the party sailed and the Jackals did not.** The party left
 Aar by sea. The Jackals are broke, have no berth, and are still there.
 
 ## What each side knows

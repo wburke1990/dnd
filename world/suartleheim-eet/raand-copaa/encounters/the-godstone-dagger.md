@@ -6,13 +6,13 @@ status: next
 # The Godstone Dagger — the peseshkef at Aar
 
 > **The theft did not happen at Aar, and it moves to Brauron.**
-> `[played — sessions 12, 13, 13b, 14]` Aniess and Beartholomew traded the countersign at
+> `[played — sessions 12 to 15]` Aniess and Beartholomew traded the countersign at
 > the watch-stone and he made the ask there
 > ([session 12](../../../../sessions/session-12.md)); the party took the job at the Tally
 > House ([session 13](../../../../sessions/session-13.md)); and then they sailed without
-> going for it ([session 14](../../../../sessions/session-14.md)), so the Writ left Aar
+> going for it ([session 15](../../../../sessions/session-15.md)), so the Writ left Aar
 > with the knife. On the walk to Musa's stone
-> ([session 13b](../../../../sessions/session-13b.md)) **Aniess settled that she will take
+> ([session 14](../../../../sessions/session-14.md)) **Aniess settled that she will take
 > it at the [Sacred Hunt](../../brauron/encounters/the-game-preserve.md)** instead.
 >
 > **The Aar scenes below will not be run** — the bath house, the gallery and the guest

@@ -11,7 +11,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | Region | Files | What it is |
 |---|---|---|
 | [kalikhat](world/kalikhat/README.md) | 1 | The north coast strip, and the gates of the underworld. |
-| [kuru](world/kuru/README.md) | 1 | The NE landmass, the Order of Sunne and the phoenix. |
+| [kuru](world/kuru/README.md) | 2 | The NE landmass, the Order of Sunne and the phoenix. |
 | [lonka](world/lonka/README.md) | 6 | Jotunheim, the dragonborn origin and the Bleeding Star. |
 | [musleheim](world/musleheim/README.md) | 5 | The fire island: the Muspel empire and the orc wars. |
 | [nila](world/nila/README.md) | 24 | The world itself: cosmology, history, rules, and the powers that span regions. |
@@ -40,6 +40,7 @@ The NE landmass, the Order of Sunne and the phoenix.
 | File | Status | What it is |
 |---|---|---|
 | [kuru and the phoenix](world/kuru/lore/kuru-and-the-phoenix.md) | `reference` | Kuru's history and its comet-born phoenix, the one god that does not stay dead |
+| [the flame of ankalia](world/kuru/lore/the-flame-of-ankalia.md) | `reference` | The fire Kuru's priests keep burning, the purity law around it, and the birds they read |
 
 ## lonka
 
@@ -380,8 +381,8 @@ Sailing, weather, fleets and what lives in the water.
 | [session 11](sessions/session-11.md) | `played` | Ship's roles handed out, then the burning wreck outside Maalm and the merfolk fight |
 | [session 12](sessions/session-12.md) | `played` | Rustam killed to end the sepsis, and his body dragged through Aar to his brother's door |
 | [session 13](sessions/session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
-| [session 13b](sessions/session-13b.md) | `played` | A side session with Greg — Aniess and Setha talk, then the walk with Beartholomew |
-| [session 14](sessions/session-14.md) | `played` | Out of Aar without the knife, the storm that took the mast, and the bell under the island |
+| [session 14](sessions/session-14.md) | `played` | A session with Greg — Aniess and Setha talk, then the walk with Beartholomew |
+| [session 15](sessions/session-15.md) | `played` | Out of Aar without the knife, the storm that took the mast, and the bell under the island |
 | [player messages earth dreams](sessions/player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 ## references

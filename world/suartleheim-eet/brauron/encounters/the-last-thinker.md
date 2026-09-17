@@ -44,10 +44,10 @@ tall enough for a mast takes forty years to grow.
 `[DM]` **And there is no seed.** Ash trees are male or female, and this one is male: it
 makes pollen. There is no female ash on the island, and no seed anywhere on it.
 
-## The trigger `[played — session 14]`
+## The trigger `[played — session 15]`
 
 The party would not fight him for the tree
-([session 14](../../../../sessions/session-14.md)). They went to the cistern for water,
+([session 15](../../../../sessions/session-15.md)). They went to the cistern for water,
 found the door in the hillside, opened it, went down and rang the bell. The fight starts
 at the top of the hill with the bell still sounding below and the beach going under, after
 he says the line above.
