@@ -22,9 +22,9 @@ status: draft
 > town is [Brauron](the-peach-town.md).
 
 The land past Brauron is poison, and the poison is what stops anyone settling further
-in — [Brauron](the-peach-town.md) is as far inland as the world gets here. Out in that
+in — no one lives further inland than [Brauron](the-peach-town.md). Out in that
 wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** each turn
-of the season, and [the hell-tree](the-hell-tree.md) stands at the dead center of it,
+of the season, and [the hell-tree](the-hell-tree.md) stands at the center of it,
 where no hunter goes. The party joins the hunt to get past the fence, then breaks off
 and crosses to the tree alone.
 
@@ -33,8 +33,8 @@ comes to the tree at the center.
 
 ## The hunt
 
-The [cult of Artemis](the-peach-town.md) runs it — a sacred hunt, not a business —
-out in the wild, at the turn of the season. Two strands:
+The [cult of Artemis](the-peach-town.md) runs it out in the wild, at the turn of the
+season. Two strands:
 
 - **The beast-hunt (the Calydonian boar).** The cult looses a great beast into the
   wild and the hunters run it down.
@@ -45,26 +45,25 @@ The hunters ride **great hounds** and wear **hound-pelts**. `[proposed]` the hou
 are big enough for a gnome to ride — the pack of the Actaeon rite.
 
 The hunt stays out in the wild and **never goes near the tree.** The tree is holy
-ground, and no hunter enters it — which is what keeps it alone. The hunters come and
-go for the season and never reach it.
+ground, and no hunter enters it. The hunters come and go for the season and never
+reach it.
 
 ## The rival crews at the hunt `[S10]`
 
-The hunt is the **only annual way into the preserve**, so it is the one window all of Preem's
-[rival crews](../../maalm/encounters/tavern-rival-crews.md) get at this spot — and they take it. The hunt
-is crowded with rivals, the race-with-no-rules ([overview §3.C](../../../nila/lore/campaign-overview.md))
-funneled to one chokepoint.
+The hunt is the **only annual way into the preserve**, so every one of Preem's
+[rival crews](../../maalm/encounters/tavern-rival-crews.md) that can get there does
+([overview §3.C](../../../nila/lore/campaign-overview.md)). The hunt is crowded with rivals.
 
 - **The [Lapis Writ](../../maalm/encounters/tavern-rival-crews.md) come as paying hunters.** Founder-blood
-  Maalm aristocrats who buy the best seat — the sort of "wealthy Maalm hunters" who charter
-  the transport. The crew that won the Valley, out hunting.
+  Maalm aristocrats who pay the 5,000 gp — the "wealthy Maalm hunters" who charter the
+  transport. `[settled]` **Setha Renk's crew
+  is the only one with the 5,000 gp.** Every other crew at the fence got in some other way.
 - **The party come as the quarry** — the one entry they can afford (put a name down as the
-  stag, below) — or they slip in. The Writ ride as hunters and the party is quarry. Calix
-  rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
-- **The other crews** turn up as their means allow ([how each crew moves](../../maalm/encounters/tavern-rival-crews.md)):
-  the funded reach the hunt; the broke [Brass Jackals](../../maalm/encounters/tavern-rival-crews.md) if their
-  rotting tub survives the crossing. Rival crews are the danger out in the wild, and the
-  party finds the bodies of the crews that lost.
+  stag, below) — or they slip in. Calix rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
+- **The other crews** turn up if they can pay their way there ([how each crew moves](../../maalm/encounters/tavern-rival-crews.md)):
+  the crews with money reach the hunt; the [Brass Jackals](../../maalm/encounters/tavern-rival-crews.md) only if
+  their boat survives the crossing. Rival crews are what the party run into out in the
+  wild, and the party finds the bodies of the crews that lost.
 - `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at
   the party in [Session 10](../../../../sessions/session-10.md) — they finished the Valley without
   missing a name, so it fits.
@@ -85,8 +84,8 @@ funneled to one chokepoint.
 
 ## Read aloud — the edge of the hunt
 
-> *A long fence runs off into the wild both ways. Past it the ground is bad — the
-> grass grey-green and waist-high, the trees knotted and low. Hunters are
+> *A long fence runs off into the wild both ways. Past it the grass is grey-green and
+> waist-high and the trees are knotted and low. Hunters are
 > gathering: gnomes in hound-pelts, up on the backs of great hounds, with a loose pack
 > of more hounds circling them. Far out past all of it, too far to make out, a single
 > huge tree rises above everything.*
@@ -130,7 +129,7 @@ The shrines are **[Brauron](the-peach-town.md)'s** — cut long ago by the town'
 artisans for the [cult of Artemis](the-peach-town.md), who run the hunt and the rite of
 the tree — and untended now, worn by the poison ground. The slabs carry the
 **[Anchar](../../../../handouts/anchar.md)** poem — the lone poison-tree, and the master who
-sends a man to gather from it and not come back, which is the cult's own rite. (The
+sends a man to gather from it and not come back. (The
 Qur'an's [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md) is down the stair at the tree
 itself — see [the hell-tree](the-hell-tree.md).)
 
@@ -139,8 +138,9 @@ itself — see [the hell-tree](the-hell-tree.md).)
 > *A bird is singing in a dead tree. The song has words: "My mother she killed me, my
 > father he ate me…" It sings them plainly, waits, and sings them again.*
 
-It is a **mockingbird**, warped by the tree's poison, that repeats whatever it hears.
-It once heard the tree muttering to itself. So the party hears the tree's own words long before they reach it (see [the hell-tree](the-hell-tree.md)).
+It is a **mockingbird**, warped by the tree's poison, that repeats whatever it hears,
+and what it heard was the tree talking to itself. The party hear the tree's words
+before they reach it (see [the hell-tree](the-hell-tree.md)).
 
 `[OPEN]` the stages of the approach — how many shrines, and how the mutation is
 tracked.
