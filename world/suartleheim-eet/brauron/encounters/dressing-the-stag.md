@@ -53,17 +53,20 @@ the same for all three. Only the skin and where they go change.
 ## Cassia
 
 **[Captain Cassia Roan](../../../../characters/the-second-hand.md)** is the one dressed
-in the script below. She chartered the party's passage to the hunt, on a merchant
+in the script below. She and the Second Hand chartered passage to the hunt on a merchant
 transport carrying wealthy Maalm hunters
-([session 10](../../../../sessions/session-10.md)). She fought beside them outside
-Preem's tower ([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
+([session 10](../../../../sessions/session-10.md)); the party sail Blackacre's boat and
+get up the coast ahead of them
+([the run to Copaa §3](../../raand-copaa/encounters/the-run-to-copaa.md)). She fought
+beside them outside Preem's tower
+([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
 
 **Why she signed.** Signing as quarry is the only way through the fence that does not
 cost 5,000 gp — only [Setha Renk's crew](../../../../characters/the-lapis-writ.md) has
 that ([the game preserve](the-game-preserve.md)) — and the quarry are paid.
 
 This does not replace **Pax as the stag**. The man-hunt takes as many names as sign,
-and they are dressed in one line. Cassia is dressed before the party sign.
+and they are dressed one after another. Cassia is dressed before the party sign.
 
 ## The live stag
 
@@ -76,7 +79,7 @@ a way out.
 It has to be alive and it has to be a stag. The temple turns away a carcass and turns
 away a doe. A stag brought in after the horn buys nobody out.
 
-## The clock — seven days
+## Seven days
 
 The term is a week. A quarry who is still alive at the gate when the horn goes on the
 seventh day is let back in and paid.
@@ -91,19 +94,19 @@ seventh day is let back in and paid.
 **A quarry who comes back early is turned around at the gate.** The week is the term,
 and the only way out of it before the horn is the live stag.
 
-The week is also what the party need: seven days is the crossing to
-[the hell-tree](the-hell-tree.md) and back, and the poison is what it costs them
-(the sickness clock is `[OPEN]` in [the game preserve](the-game-preserve.md)).
+The crossing to [the hell-tree](the-hell-tree.md) and back takes seven days. Everyone
+inside the fence breathes the poison for all seven, and how fast the sickness works is
+`[OPEN]` in [the game preserve](the-game-preserve.md).
 
 **Catching a stag**, if they go that way — the deer are inside the fence with the hunt,
 so all of it happens in the preserve:
 
 - **Find one.** One hour an attempt, Wisdom (Survival) DC 15. On a failure by 5 or
-  more the hour turns up something the ground has changed instead
+  more the hour turns up one of the poison-mutated animals instead
   ([the hell-tree](the-hell-tree.md)).
 - **Take it alive.** It has to be subdued or restrained, and the damage that drops it
   has to be nonlethal. The temple turns away a carcass.
-- **Walk it back.** Two hours to the gate from the middle ground, with a bound animal
+- **Walk it back.** Two hours to the gate from out in the preserve, with a bound animal
   making noise the whole way.
 
 ## The pay
@@ -123,7 +126,7 @@ the 5,000 gp entry fee: lower the fee and the pay drops with it.
 |---|---|
 | **Head start** | Out at dawn on day 1. The hounds are loosed at noon the same day. |
 | **Longstrider** | Cast at the door, 1 hour, +10 ft. speed. It runs out before the hounds are loosed. |
-| **Gear** | Whatever they walked in with. The cult takes nothing and gives nothing. |
+| **Gear** | Whatever they walked in with. The cult does not confiscate gear and does not issue any. |
 | **The rack** | Worn until the horn. Disadvantage on Dexterity (Stealth) while it is on, and it stands above the grass. |
 | **The pay** | 4,000 gp split among the quarry who sign — 1,000 gp each for four, 800 gp each for five. |
 | **The horn** | Sundown on day 7. A quarry standing at the gate is let in, and the rack is hung in the temple. |
@@ -145,8 +148,8 @@ the four women will not fight.
 ## The hounds' names
 
 The hounds at the fence are named off the roll the priestess reads, and the cult has
-kept the names as long as there has been a hunt. A player who writes them down has the
-kennel roster.
+kept the names as long as there has been a hunt. The names are the kennel roster at the
+fence.
 
 ## Sources
 
