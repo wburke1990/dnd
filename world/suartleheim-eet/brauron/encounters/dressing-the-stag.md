@@ -71,13 +71,13 @@ and they are dressed one after another. Cassia is dressed before the party sign.
 ## The live stag
 
 At Aulis a deer was put on the altar in Iphigenia's place and the girl was carried off.
-The cult keeps it as a rule: **a live stag brought to the temple before the horn buys a
-quarry out.** The hunter who brings it cuts the rack off that quarry and keeps it, and
-the quarry walks. The priestess says so at the sign-up if she is asked whether there is
+The cult keeps it as a rule: **a live stag brought to the temple before the horn
+releases one quarry.** The hunter who brings it cuts the rack off that quarry and keeps
+it, and the quarry goes free. The priestess says so at the sign-up if she is asked whether there is
 a way out.
 
 It has to be alive and it has to be a stag. The temple turns away a carcass and turns
-away a doe. A stag brought in after the horn buys nobody out.
+away a doe. A stag brought in after the horn releases nobody.
 
 ## Seven days
 
@@ -91,8 +91,8 @@ seventh day is let back in and paid.
 | Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
-**A quarry who comes back early is turned around at the gate.** The week is the term,
-and the only way out of it before the horn is the live stag.
+**A quarry who comes back early is turned around at the gate.** The only way out before
+the horn is the live stag.
 
 The crossing to [the hell-tree](the-hell-tree.md) and back takes seven days. Everyone
 inside the fence breathes the poison for all seven, and how fast the sickness works is
@@ -148,8 +148,7 @@ the four women will not fight.
 ## The hounds' names
 
 The hounds at the fence are named off the roll the priestess reads, and the cult has
-kept the names as long as there has been a hunt. The names are the kennel roster at the
-fence.
+kept the names as long as there has been a hunt.
 
 ## Sources
 
@@ -215,7 +214,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | Why that is bad | **"We keep the hounds at the fence."** |
 | Coming back sooner | **"We turn you around. The gate opens on the seventh evening."** |
 | What is out there | **"Grass to your waist. Bad water."** |
-| The tree | **"No one hunts there."** *(and nothing more)* |
+| The tree | **"No one hunts there."** *(she says nothing else)* |
 | Whether they can sign too | **"Anyone who wants to."** |
 | Whether there is a way out | **"Bring us a live stag before the seventh evening and we let one of the quarry go."** |
 
@@ -376,10 +375,17 @@ the produce of spoil
 > their shoulders. They say it themselves, together, while it is done.*
 
 ```
+I bore the holy vessels
+At seven, then
+I pounded barley
+At the age of ten,
 And clad in yellow robes,
 Soon after this,
 I was Little Bear to
 Brauronian Artemis;
+Then neckletted with figs,
+Grown tall and pretty,
+I was a Basket-bearer,
 ```
 
 ---
