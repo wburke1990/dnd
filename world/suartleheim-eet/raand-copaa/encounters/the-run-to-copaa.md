@@ -607,8 +607,8 @@ a stone floor, a copper, and a bench along one wall with hooks over it.*
 - **[Setha Renk](../../maalm/encounters/tavern-rival-crews.md#setha-renk--half-elf--lapis-writ-leader-blackacres-mirror)**
   in the water. She is alone here with Calix and Issa.
 - **[Calix Vire](../../maalm/encounters/tavern-rival-crews.md#calix-vire--elf--writ-pathfinder-paxs-mirror)**
-  on the bench with the belt, dressed, because **Setha asked her to sit with it.** She would
-  sits where she is told.
+  on the bench with the belt, dressed, because **Setha asked her to sit with it.** She sits
+  where she is told.
 - **[Issa Quib](../../maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-tomb-walker-aniesss-mirror)**
   in and out. She does not want the hot water.
 - **The toad.** See *What actually guards the knife*, below.
@@ -788,7 +788,7 @@ at all.
 
 **The toad.** Quasit: **Scare** (DC 10 Wisdom save, frightened), a poisoned claw,
 invisibility at will, and Magic Resistance. `[run]` **If the party kill it in front of
-Calix, she loses the thing she has been asking for answers.** She does not know what it
+Calix, she loses the voice she has been asking for answers.** She does not know what it
 was.
 
 ### Round one — what each of them does `[run]`
