@@ -49,6 +49,7 @@
 | [actaeon](actaeon.md) | `reference` | Ovid, "Metamorphoses" Bk 3, trans. Golding — Diana turns Actaeon to a stag; his hounds kill him |
 | [anchar](anchar.md) | `reference` | Pushkin, "Anchar" (The Upas Tree) — a poison tree in the desert, in two English translations |
 | [because i could not stop for death](because-i-could-not-stop-for-death.md) | `reference` | Emily Dickinson, "Because I could not stop for Death" — incantation for a Speak with Dead rite |
+| [callimachus hymn to artemis](callimachus-hymn-to-artemis.md) | `reference` | Callimachus, Hymn 3, trans. Mair — the child Artemis asks her father for the mountains |
 | [canting songs](canting-songs.md) | `reference` | Two real thieves' canting songs, used as the countersign and the ask between Aniess and Beartholomew |
 | [clay tablet of baruch](clay-tablet-of-baruch.md) | `reference` | 2 Baruch, the letter to the scattered tribes — a clay tablet Blackacre found on Kuru |
 | [copaa lament](copaa-lament.md) | `reference` | The Admonitions of Ipuwer — dirge for poisoned Copaa, the river run to blood |
@@ -63,13 +64,15 @@
 | [dragon hoard warning](dragon-hoard-warning.md) | `reference` | Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard |
 | [ezekiel 21 belomancy](ezekiel-21-belomancy.md) | `reference` | Ezekiel 21 in the King James — the king at the parting of the way, taking three omens at once |
 | [homer the sacrifice](homer-the-sacrifice.md) | `reference` | Homer on making a sacrifice, trans. Murray — washed hands, barley, and a lock of hair burned |
-| [hymn to artemis](hymn-to-artemis.md) | `reference` | Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White — the shooter of stags |
+| [hymn to artemis](hymn-to-artemis.md) | `reference` | Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White |
 | [iliad blood on the ground](iliad-blood-on-the-ground.md) | `reference` | Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles |
 | [into my heart an air that kills](into-my-heart-an-air-that-kills.md) | `reference` | Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat |
 | [invictus](invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |
+| [iphigenia at aulis](iphigenia-at-aulis.md) | `reference` | Euripides, "Iphigenia at Aulis," trans. Coleridge — the garlands, and a deer on the altar |
 | [kronos and uranus](kronos-and-uranus.md) | `reference` | Hesiod, "Theogony," trans. Evelyn-White — the sickle, the blood, and the ash-tree nymphs |
 | [last kings lament](last-kings-lament.md) | `reference` | Lament of Amseh IV, the last king — given in the Tomb 4 inner chamber over the little coffins |
 | [locksley hall vision](locksley-hall-vision.md) | `reference` | Tennyson, "Locksley Hall" — tomb inscription on Musa's watch-stone at the landing port |
+| [lysistrata the bear](lysistrata-the-bear.md) | `reference` | Aristophanes, "Lysistrata" 638-651, trans. Lindsay — a girl was a Bear at Brauron |
 | [momotaro](momotaro.md) | `reference` | Momotaro, from Ozaki's "Japanese Fairy Tales" — a child steps out of a peach |
 | [on ragnarok 1](on-ragnarok-1.md) | `reference` | Alan Gould, "Krakatoa" — an ancient scroll, Musa's ship's log of the night the star fell |
 | [psalm 91](psalm-91.md) | `reference` | Psalm 91 in the King James — incantation for Forbiddance, a warded sanctuary |
@@ -102,5 +105,6 @@
 | [voluspa ask and embla](voluspa-ask-and-embla.md) | `reference` | Völuspá 17–18 and 65, trans. Bellows — the creation the Lonka zealots teach at the two trees |
 | [who has seen the wind](who-has-seen-the-wind.md) | `reference` | Christina Rossetti, "Who Has Seen the Wind?" — inscription for a temple with unseen guardians |
 | [wynken blynken and nod](wynken-blynken-and-nod.md) | `reference` | Eugene Field, "Wynken, Blynken, and Nod" — incantation for Dream of the Blue Veil |
+| [xenophon on hunting](xenophon-on-hunting.md) | `reference` | Xenophon, "Cynegeticus," trans. Dakyns — hunting as a gift of Apollo and Artemis |
 
 <!-- END GENERATED INDEX -->

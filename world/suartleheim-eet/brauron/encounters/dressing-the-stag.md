@@ -26,8 +26,8 @@ The priestesses put the quarry through the steps of a Greek animal sacrifice. Th
 victim is washed, barley is thrown over it, a lock is cut from its head and burned, and it is
 crowned and brought to the altar. Every one of those steps is out of Homer, in Homer's
 order, and the text is printed in
-[Homer — the making of a sacrifice](../../../../handouts/homer-the-sacrifice.md). At
-the altar the order stops. Instead of the knife they tie on antlers, lay a deer-hide
+[Homer — the making of a sacrifice](../../../../handouts/homer-the-sacrifice.md). The
+steps stop at the altar. Instead of the knife they tie on antlers, lay a deer-hide
 over the shoulders, read out the names of dogs, and open the door.
 
 The priestess who takes the name asks where to send the money before she asks
@@ -38,12 +38,12 @@ anything else.
 The **bee-priestesses (the Melissae)**, veiled, four of them: one takes the name, one
 carries the water, one carries the basket, one reads. The **eunuch priests (the
 Megabyzoi)** stand along the wall and do not touch the quarry. They keep the
-castration rite, and nothing is cut here. `[proposed]`
+castration rite. They do not cut anything in this scene. `[proposed]`
 
 ## The three skins
 
 The cult dresses its people in the skins of the goddess's beasts, and the stations
-below are the same for all three. Only the skin and the last line change.
+below are the same for all three. Only the skin and where they go change.
 
 | Who | Skin | Where they go |
 |---|---|---|
@@ -55,58 +55,51 @@ below are the same for all three. Only the skin and the last line change.
 
 **[Captain Cassia Roan](../../../../characters/the-second-hand.md)** is the one dressed
 in the run sheet below. She has been running wealthy Maalm hunters up the coast to this
-hunt ([the run to Copaa §3](../../raand-copaa/encounters/the-run-to-copaa.md)), and the
-party watch a woman they fought beside at the Maalm docks stand still while four
-strangers cut her hair off.
+hunt ([the run to Copaa §3](../../raand-copaa/encounters/the-run-to-copaa.md)). She
+fought beside the party at the Maalm docks. In the run sheet below, four priestesses
+cut her hair off and she stands still for it.
 
-`[OPEN]` **Why she signed.** Two that work: the transport contract paid in a place
-on the board rather than coin, or she put her own name down to buy the party through
+`[OPEN]` **Why she signed.** Two options: the transport contract paid in a place
+on the board rather than coin, or she put her own name down to pay the party's way through
 the fence when they could not raise the 5,000 gp
 ([session 13](../../../../sessions/session-13.md)). Pick one before the scene; the rite
 does not change either way.
 
-This does not displace **Pax as the stag** ([the game preserve](the-game-preserve.md)).
+This does not replace **Pax as the stag** ([the game preserve](the-game-preserve.md)).
 The man-hunt takes as many names as sign, and they are dressed in one line. Cassia is
 dressed before the party sign.
 
 ## The deer
 
 At Aulis a deer was put on the altar in Iphigenia's place and the girl was carried off.
-The cult keeps the swap as a rule: **any hunter who brings a live stag to the temple
+The cult keeps this as a rule: **any hunter who brings a live stag to the temple
 before the horn may cut the rack off a quarry and go home with it**, and the quarry is
 released. `[proposed]` The priestesses state this at the sign-up. A party that hears
 it has until the horn to catch a deer.
 
+The text the rule comes out of is the messenger's speech at the end of
+[Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md), and a priestess will
+quote the last of it to anyone who asks where the rule comes from:
+
+> *"This is more welcome to her by far than the maid, that she may not defile her
+> altar by shedding noble blood."*
+
 ## Sources
 
-Each station uses a real text. The two the party are read aloud are already handouts.
+Each station uses a real text. All of them are handouts, and all are public domain.
 
 | Station | Text |
 |---|---|
+| The name and the money | [Callimachus — the child asks for the mountains](../../../../handouts/callimachus-hymn-to-artemis.md), *Hymn* 3.1–40, tr. Mair |
 | The water, the barley, the hair | [Homer — the making of a sacrifice](../../../../handouts/homer-the-sacrifice.md), *Iliad* 1 and *Odyssey* 3, tr. Murray |
+| The crown | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md), 1468–1490, tr. Coleridge |
 | The antlers and the hide | [Actaeon](../../../../handouts/actaeon.md), Ovid *Metamorphoses* 3, tr. Golding |
-| The hounds named | [Actaeon](../../../../handouts/actaeon.md) — and see the `[to pull]` note there for the full roll of dogs' names |
+| The hounds named | [Actaeon](../../../../handouts/actaeon.md) — the roll of dogs' names, *Metamorphoses* 3.206–225 |
 | The hymn | [Hymn to Artemis](../../../../handouts/hymn-to-artemis.md), Homeric Hymn 27, tr. Evelyn-White |
 | The dismissal at the door | [Hymn to Artemis](../../../../handouts/hymn-to-artemis.md), Homeric Hymn 9, closing formula |
-
-### Not pulled yet
-
-Texts chosen for this rite that there was no copy to transcribe from. Each is public
-domain; pull the wording and add the handout.
-
-- **Ovid, *Metamorphoses* 3.206–225, tr. Golding (1567)** — the roll of Actaeon's
-  hounds, thirty-odd dogs' names in a run. This is what the fourth priestess reads at
-  the sixth station. Wikisource carries Golding.
-- **Callimachus, *Hymn 3 to Artemis*, tr. A. W. Mair (Loeb, 1921)** — the goddess as a
-  child on Zeus's knee asking for the bow, the hounds and the mountains. For the
-  priestess who takes the name to say over the board. Perseus carries Mair.
-- **Euripides, *Iphigenia at Aulis*, tr. E. P. Coleridge (1891)** — Iphigenia asking
-  for the garlands and the lustral water, and the messenger's deer on the altar at the
-  end. For the crowning and for the deer rule above.
-- **Aristophanes, *Lysistrata* 641–647** — "and I was a Bear at the Brauronia," the
-  chorus listing what an Athenian girl served as. For the town's girls.
-- **Xenophon, *Cynegeticus*, tr. H. G. Dakyns (1897)** — hunting given to men by Apollo
-  and Artemis, and the vow of a share of the kill. For the hunters' dressing.
+| The deer rule | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md), 1578–1601 — the messenger's deer |
+| The hunters' dressing | [Xenophon — on hunting](../../../../handouts/xenophon-on-hunting.md), *Cynegeticus* I, V and VI, tr. Dakyns |
+| The girls' dressing | [Lysistrata — I was Little Bear](../../../../handouts/lysistrata-the-bear.md), 638–651, tr. Lindsay |
 
 ---
 
@@ -126,14 +119,27 @@ domain; pull the wording and add the handout.
 > dark with age. A veiled woman takes a blank tablet down and a stylus, and looks at
 > Cassia.*
 
-**The priestess takes the money first.**
+**Read before she speaks** — the priestess says this over the board, facing it rather
+than the room. [Callimachus](../../../../handouts/callimachus-hymn-to-artemis.md),
+*Hymn* 3, the child on Zeus's knee (quotation — leave the wording alone):
+
+> *"And give me sixty daughters of Oceanus for my choir — all nine years old, all
+> maidens yet ungirdled; and give me for handmaidens twenty nymphs of Amnisus who
+> shall tend well my buskins, and, when I shoot no more at lynx or stag, shall tend my
+> swift hounds. And give to me all mountains; and for city, assign me any, even
+> whatsoever thou wilt: for seldom is it that Artemis goes down to the town."*
+
+The full forty lines are in the handout. The child asks for the nymphs, the hounds,
+every mountain, and a town she comes down to only when a woman in labour calls her.
+
+**Then she takes the money, before anything else.**
 
 | Asked | She says |
 |---|---|
 | Nothing — she opens | *"Where do we send your pay?"* |
 | Why she asks that first | *"You are not expected back."* |
-| What it pays | *"Five hundred, out of the hunters' fees. It goes wherever you say, the day the horn blows."* |
-| Whether anyone comes back | *"Some do. Most run for the fence. The hounds are already there."* |
+| What it pays | *"Five hundred, out of the hunters' fees. We send it wherever you say, the day of the hunt."* |
+| Whether anyone comes back | *"Some do. Most run for the fence, where the hounds already are."* |
 | What is out there | *"Grass to your waist. Bad water."* |
 | The tree | *"No one hunts there."* And she does not say more. |
 | Whether a party can sign together | *"As many as want."* |
@@ -173,8 +179,8 @@ The knife is in the basket and is not used. Do not point at it.
 [Homer — the making of a sacrifice](../../../../handouts/homer-the-sacrifice.md),
 *Iliad* 1.458–459:
 
-> *Then, when they had prayed and had sprinkled the barley grains, they first drew back
-> the victims' heads and cut their throats and flayed them*
+> *Then, when they had prayed, and had sprinkled the barley grains, they first drew
+> back the victims' heads, and cut their throats, and flayed them,*
 
 ---
 
@@ -187,8 +193,7 @@ The knife is in the basket and is not used. Do not point at it.
 
 **Read while she cuts** — *Odyssey* 3.445–446, same handout:
 
-> *cutting off as first offering the hair from the head of the victim and casting it
-> into the fire*
+> *cutting off as first offering the hair from the head, and casting it into the fire*
 
 The same cut is made over the town's girls before they marry, and over an ox.
 
@@ -200,6 +205,17 @@ The same cut is made over the town's girls before they marry, and over an ox.
 
 > *They wind a band of white wool twice around her head and set a wreath of leaves over
 > it, and tie the ends of the wool under her hair so it will not come off.*
+
+**Read while they wind it** —
+[Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md) 1475–1479, tr.
+Coleridge. In the play the girl asks for these herself, walking to the altar
+(quotation — leave the wording alone):
+
+> *give me wreaths to cast about me; bring them here; here are my tresses to crown;
+> bring lustral water too*
+
+The basin from the last station is still on the floor. If Cassia says nothing, the
+priestess reading it does not look up.
 
 ---
 
@@ -236,8 +252,26 @@ cult treats them as any other trespasser inside the fence.
 > thirty or more of them, and she reads them all the way through without stopping.
 > They are dogs' names.*
 
-Read the roll of Actaeon's hounds — `[to pull]`, see Part One. Until it is pulled,
-read the two lines already in [Actaeon](../../../../handouts/actaeon.md):
+**The reading** — the roll of Actaeon's hounds, Ovid *Metamorphoses* 3.206–225, tr.
+Golding, in [Actaeon](../../../../handouts/actaeon.md). Twenty-seven lines, and she
+reads all of them. It opens:
+
+```
+His houndes espyde him where he was, and Blackfoote first of all
+And Stalker speciall good of scent began aloud to call.
+```
+
+and closes:
+
+```
+With divers mo whose names to tell it were but losse of tyme.
+```
+
+Before reading it, look at the three `[doubtful]` lines flagged in the handout. One of
+them — `And shaggie Crete,` — is four words where Golding wrote thirteen, and the
+restored reading is in the table there.
+
+Then the two lines that come after the chase:
 
 ```
 They hem him in on everie side, and in the shape of Stagge,
@@ -245,7 +279,8 @@ With greedie teeth and griping pawes their Lord in peeces dragge.
 ```
 
 The hounds at the fence are named after the hounds in the list, and the cult has kept
-the names as long as there has been a hunt. `[proposed]`
+the names as long as there has been a hunt. `[proposed]` A player who writes the names
+down has the kennel roster.
 
 ---
 
@@ -264,8 +299,7 @@ Hymn 27:
 > golden sword. Over the shadowy hills and windy peaks she draws her golden bow,
 > rejoicing in the chase, and sends out grievous shafts.*
 
-**The blessing is Longstrider** — the temple casts it on each quarry at the door, on
-every one of them, one after another.
+**The blessing is Longstrider** — the temple casts it on each quarry at the door.
 
 **Then the dismissal** — Homeric Hymn 9, the closing formula, said to the room and not
 to her:
@@ -298,15 +332,15 @@ Then they open the door, and the priestess says:
 They can stop it. Nobody in the room is armed, the Megabyzoi are against the wall, and
 the four women will not fight.
 
-- **Take the tablet off the board** — the sign-up is the whole contract, and the
+- **Take the tablet off the board** — the tablet is the contract, and the
   priestess will scrape the wax flat and ask who is going instead.
-- **Bring a deer** — the swap in Part One. A live stag at the temple before the horn
-  buys the quarry back, and the party have until sundown.
+- **Bring a deer** — the deer rule in Part One. A live stag at the temple before the
+  horn frees the quarry, and the party have until sundown.
 - **Go in her place** — she is on the board and they are not. The priestess writes a
   second tablet without argument.
 
 If they do none of it, Cassia walks out into the grass with antlers strapped to her
-head. The party are in the temple, and the hounds go out at noon.
+head, and the hounds go out at noon.
 
 ---
 
@@ -314,11 +348,35 @@ head. The party are in the temple, and the hounds go out at noon.
 
 **The hunters** are dressed in the same room, after: the hound-pelt over the
 shoulders, the same water, the same barley, no hair cut and no crown. They pay 5,000 gp
-and go to the muster at the fence. `[to pull]` Xenophon for what is read over them.
+and go to the muster at the fence.
+
+**Read over them** — [Xenophon, *Cynegeticus*](../../../../handouts/xenophon-on-hunting.md)
+I and VI, tr. Dakyns (quotation — leave the wording alone):
+
+> *To the gods themselves is due the discovery, to Apollo and Artemis, patrons of the
+> chase and protectors of the hound.*
+
+> *Then with prayer and promise to Apollo and to Artemis, our Lady of the Chase, to
+> share with them the produce of spoil, he lets slip a single hound, the cunningest at
+> scenting of the pack.*
+
+The second line is a condition of the hunt. Each hunter names his share out loud before
+the pelt goes on, and the temple holds him to it at the horn. The cult does not sell a
+place again to a hunter who takes a rack and gives the temple nothing.
 
 **The girls** are dressed in the temple for a season and do not go out at all. Bear-skin
-over the shoulders, and the hair cut is the one they would get before marrying. `[to
-pull]` the Lysistrata lines.
+over the shoulders, and the hair cut is the one they would get before marrying.
+
+**Read over them** — [Lysistrata](../../../../handouts/lysistrata-the-bear.md)
+638–651, tr. Lindsay. The chorus of Athenian women listing the offices they held as
+girls, of which the Bear at Brauron is one (quotation — leave the wording alone):
+
+> *I bore the holy vessels / At seven, then / I pounded barley / At the age of ten, /
+> And clad in yellow robes, / Soon after this, / I was Little Bear to / Brauronian
+> Artemis*
+
+The girls in the temple are the town's own, and their mothers are in the square
+outside. Any townsperson the party ask about the hunt served a season here.
 
 ---
 
