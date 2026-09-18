@@ -16,7 +16,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [musleheim](world/musleheim/README.md) | 5 | The fire island: the Muspel empire and the orc wars. |
 | [nila](world/nila/README.md) | 25 | The world itself: cosmology, history, rules, and the powers that span regions. |
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
-| [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 6 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
+| [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 7 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
 | [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 10 | Raand, Copaa, Aar and the Haals mines. |
 | [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
@@ -150,6 +150,7 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 |---|---|---|
 | [island of the thinkers](world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md) | `next` | An island of shrinking statues where a storm wrecks the party |
 | [the last thinker](world/suartleheim-eet/brauron/encounters/the-last-thinker.md) | `next` | The Last Thinker's stat block, his spell list, and how he fights for the tree |
+| [dressing the stag](world/suartleheim-eet/brauron/encounters/dressing-the-stag.md) | `ready` | The priestesses of Artemis dress Cassia as the stag, using the steps of a Homeric sacrifice |
 | [the sail to brauron](world/suartleheim-eet/brauron/encounters/the-sail-to-brauron.md) | `ready` | The northern leg — the sail up the coast, the storm, the Thinkers, and Brauron |
 | [the game preserve](world/suartleheim-eet/brauron/encounters/the-game-preserve.md) | `draft` | The cult of Artemis hunt in the poison wild outside Brauron |
 | [the hell tree](world/suartleheim-eet/brauron/encounters/the-hell-tree.md) | `draft` | The giant tree north of Raand, and the demon inside its fruit |
@@ -326,7 +327,8 @@ Sailing, weather, fleets and what lives in the water.
 | [do not stand at my grave](handouts/do-not-stand-at-my-grave.md) | `reference` | Mary Elizabeth Frye, "Do Not Stand at My Grave and Weep" — carved over the Verdant Fist graves |
 | [dragon hoard warning](handouts/dragon-hoard-warning.md) | `reference` | Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard |
 | [ezekiel 21 belomancy](handouts/ezekiel-21-belomancy.md) | `reference` | Ezekiel 21 in the King James — the king at the parting of the way, taking three omens at once |
-| [hymn to artemis](handouts/hymn-to-artemis.md) | `reference` | Homeric Hymn 27, "To Artemis," trans. Evelyn-White — the shooter of stags and her hounds |
+| [homer the sacrifice](handouts/homer-the-sacrifice.md) | `reference` | Homer on making a sacrifice, trans. Murray — washed hands, barley, and a lock of hair burned |
+| [hymn to artemis](handouts/hymn-to-artemis.md) | `reference` | Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White — the shooter of stags |
 | [iliad blood on the ground](handouts/iliad-blood-on-the-ground.md) | `reference` | Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles |
 | [into my heart an air that kills](handouts/into-my-heart-an-air-that-kills.md) | `reference` | Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat |
 | [invictus](handouts/invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |

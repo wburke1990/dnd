@@ -62,7 +62,8 @@
 | [do not stand at my grave](do-not-stand-at-my-grave.md) | `reference` | Mary Elizabeth Frye, "Do Not Stand at My Grave and Weep" — carved over the Verdant Fist graves |
 | [dragon hoard warning](dragon-hoard-warning.md) | `reference` | Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard |
 | [ezekiel 21 belomancy](ezekiel-21-belomancy.md) | `reference` | Ezekiel 21 in the King James — the king at the parting of the way, taking three omens at once |
-| [hymn to artemis](hymn-to-artemis.md) | `reference` | Homeric Hymn 27, "To Artemis," trans. Evelyn-White — the shooter of stags and her hounds |
+| [homer the sacrifice](homer-the-sacrifice.md) | `reference` | Homer on making a sacrifice, trans. Murray — washed hands, barley, and a lock of hair burned |
+| [hymn to artemis](hymn-to-artemis.md) | `reference` | Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White — the shooter of stags |
 | [iliad blood on the ground](iliad-blood-on-the-ground.md) | `reference` | Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles |
 | [into my heart an air that kills](into-my-heart-an-air-that-kills.md) | `reference` | Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat |
 | [invictus](invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |

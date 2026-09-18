@@ -30,3 +30,17 @@ The hounds:
 They hem him in on everie side, and in the shape of Stagge,
 With greedie teeth and griping pawes their Lord in peeces dragge.
 ```
+
+---
+
+## The roll of the hounds — `[to pull]`
+
+**Ovid, *Metamorphoses* 3.206–225, Golding.** Between the two passages above Golding
+names Actaeon's dogs, about thirty of them in a list — Blackfoot, Ringwood, Stalker
+and the rest. The priestesses at
+[Brauron](../world/suartleheim-eet/brauron/encounters/the-peach-town.md) read this list over the
+quarry while the antlers go on; see
+[the dressing](../world/suartleheim-eet/brauron/encounters/dressing-the-stag.md). There was no copy
+to transcribe from — pull the passage from the Wikisource Golding
+(https://en.wikisource.org/wiki/Metamorphoses_(tr._Golding)/Book_3) and add it here
+verbatim, spelling kept.
