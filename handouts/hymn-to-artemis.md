@@ -1,5 +1,5 @@
 ---
-summary: Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White — the shooter of stags
+summary: Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White
 status: reference
 ---
 
@@ -8,7 +8,7 @@ status: reference
 ## Hymn 27 — To Artemis
 
 > **Handout — hymn.** Homeric Hymn 27, "To Artemis," trans. Hugh G. Evelyn-White
-> (1914). The goddess of the hunt, her golden bow and her hounds.
+> (1914). Names Artemis, her golden bow and her hounds.
 > Kept verbatim. Source: Perseus Digital Library
 > (http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=27).
 
@@ -27,11 +27,10 @@ shafts.
 > **Handout — hymn.** Homeric Hymn 9, "To Artemis," same translator and volume. Short
 > enough to say whole. The last three lines are the singer's closing formula, which the
 > priestesses at [Brauron](../world/suartleheim-eet/brauron/encounters/the-peach-town.md) use to
-> end the dressing and turn away from the one they have dressed — see
+> end the dressing and turn away from the person they have dressed — see
 > [the dressing](../world/suartleheim-eet/brauron/encounters/dressing-the-stag.md).
->
-> `[to confirm]` Transcribed without a copy of Evelyn-White to hand. Check against
-> Perseus before printing for players.
+> Checked word for word against Perseus
+> (http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0138:hymn=9).
 
 ```
 Muse, sing of Artemis, sister of the Far-shooter, the virgin who delights
