@@ -53,35 +53,80 @@ the same for all three. Only the skin and where they go change.
 ## Cassia
 
 **[Captain Cassia Roan](../../../../characters/the-second-hand.md)** is the one dressed
-in the script below. She has been running wealthy Maalm hunters up the coast to this
-hunt ([the run to Copaa §3](../../raand-copaa/encounters/the-run-to-copaa.md)). She
-fought beside the party at the Maalm docks.
+in the script below. She chartered the party's passage to the hunt, on a merchant
+transport carrying wealthy Maalm hunters
+([session 10](../../../../sessions/session-10.md)). She fought beside them outside
+Preem's tower ([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
 
 **Why she signed.** Signing as quarry is the only way through the fence that does not
-cost 5,000 gp, and only [Setha Renk's crew](../../../../characters/the-lapis-writ.md)
-has that ([the game preserve](the-game-preserve.md)).
+cost 5,000 gp — only [Setha Renk's crew](../../../../characters/the-lapis-writ.md) has
+that ([the game preserve](the-game-preserve.md)) — and the quarry are paid.
 
 This does not replace **Pax as the stag**. The man-hunt takes as many names as sign,
 and they are dressed in one line. Cassia is dressed before the party sign.
 
-## The deer rule
+## The live stag
 
 At Aulis a deer was put on the altar in Iphigenia's place and the girl was carried off.
-The cult keeps this as a rule: **any hunter who brings a live stag to the temple before
-the horn may cut the rack off a quarry and go home with it**, and the quarry is
-released. The priestess states it at the sign-up if she is asked what the ways out are.
-A party that hears it has until sundown to catch a deer.
+The cult keeps it as a rule: **a live stag brought to the temple before the horn buys a
+quarry out.** The hunter who brings it cuts the rack off that quarry and keeps it, and
+the quarry walks. The priestess says so at the sign-up if she is asked whether there is
+a way out.
+
+It has to be alive and it has to be a stag. The temple turns away a carcass and turns
+away a doe. A stag brought in after the horn buys nobody out.
+
+## The clock — seven days
+
+The term is a week. A quarry who is still alive at the gate when the horn goes on the
+seventh day is let back in and paid.
+
+| When | What happens |
+|---|---|
+| Day 1, dawn | The quarry go out through the gate. |
+| Day 1, noon | The hounds are loosed. |
+| Days 1–7 | The hunters are in the preserve, and the poison is working on everyone in it. |
+| Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
+
+**A quarry who comes back early is turned around at the gate.** The week is the term,
+and the only way out of it before the horn is the live stag.
+
+The week is also what the party need: seven days is the crossing to
+[the hell-tree](the-hell-tree.md) and back, and the poison is what it costs them
+(the sickness clock is `[OPEN]` in [the game preserve](the-game-preserve.md)).
+
+**Catching a stag**, if they go that way — the deer are inside the fence with the hunt,
+so all of it happens in the preserve:
+
+- **Find one.** One hour an attempt, Wisdom (Survival) DC 15. On a failure by 5 or
+  more the hour turns up something the ground has changed instead
+  ([the hell-tree](the-hell-tree.md)).
+- **Take it alive.** It has to be subdued or restrained, and the damage that drops it
+  has to be nonlethal. The temple turns away a carcass.
+- **Walk it back.** Two hours to the gate from the middle ground, with a bound animal
+  making noise the whole way.
+
+## The pay
+
+A hunting party pays **5,000 gp** for its place. The temple keeps **1,000 gp** and
+divides the other **4,000 gp** among the quarry who sign for that hunt — **1,000 gp
+each for four, 800 gp each for five**. It is paid to a named address whether or not the
+quarry lives.
+
+`[watch this]` For a party of five that is 4,000 gp coming into the game at once,
+before anything they find past the fence. If that is too much coin, the pay is set by
+the 5,000 gp entry fee: lower the fee and the pay drops with it.
 
 ## What the quarry carries out
 
 | | |
 |---|---|
-| **Head start** | Out at dawn. The hounds are loosed at noon. |
+| **Head start** | Out at dawn on day 1. The hounds are loosed at noon the same day. |
 | **Longstrider** | Cast at the door, 1 hour, +10 ft. speed. It runs out before the hounds are loosed. |
 | **Gear** | Whatever they walked in with. The cult takes nothing and gives nothing. |
 | **The rack** | Worn until the horn. Disadvantage on Dexterity (Stealth) while it is on, and it stands above the grass. |
-| **The pay** | 500 gp to the named address, paid whether or not the quarry lives. |
-| **The horn** | Sundown. A quarry still standing is released, and the rack is hung in the temple. |
+| **The pay** | 4,000 gp split among the quarry who sign — 1,000 gp each for four, 800 gp each for five. |
+| **The horn** | Sundown on day 7. A quarry standing at the gate is let in, and the rack is hung in the temple. |
 
 A hunter who takes a rack off a living quarry has won it and is done. A quarry who
 takes it off has left the hunt, and the cult treats them as any other trespasser inside
@@ -94,7 +139,7 @@ the four women will not fight.
 
 - **Take the tablet off the board.** The tablet is the contract. The priestess scrapes
   the wax flat and asks who is going instead.
-- **Bring a deer.** The deer rule above. They have until sundown.
+- **Bring a live stag.** The rule above, and the clock above. They have until sundown.
 - **Go in her place.** The priestess writes a second tablet without argument.
 
 ## The hounds' names
@@ -115,9 +160,9 @@ own handout, with the translator, the edition and the source URL.
 | The crown | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md) 1468–1490, tr. Coleridge |
 | The hide and the antlers | [Actaeon](../../../../handouts/actaeon.md), Ovid *Metamorphoses* 3, tr. Golding |
 | The hounds | [Actaeon](../../../../handouts/actaeon.md) — the roll of dogs' names, *Metamorphoses* 3.206–225 |
+| The live stag | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md) 1578–1601 — the deer on the altar |
 | The hymn | [Hymn to Artemis](../../../../handouts/hymn-to-artemis.md), Homeric Hymn 27, tr. Evelyn-White |
 | The door | [Hymn to Artemis](../../../../handouts/hymn-to-artemis.md), Homeric Hymn 9, closing formula |
-| The deer rule | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md) 1578–1601 |
 | The hunters | [Xenophon — on hunting](../../../../handouts/xenophon-on-hunting.md), *Cynegeticus* I and VI, tr. Dakyns |
 | The girls | [Lysistrata — I was Little Bear](../../../../handouts/lysistrata-the-bear.md) 638–651, tr. Lindsay |
 
@@ -142,8 +187,8 @@ Crete,` where Wikisource prints three words. Both readings are set out in
 ## 1 — The board
 
 > *A board of wax tablets hangs by the door, names scratched into them, some of them
-> dark with age. A veiled woman takes down a blank tablet and a stylus. She turns to
-> the board, not to you, and reads.*
+> dark. A veiled woman takes down a blank tablet and a stylus. She faces the board and
+> reads.*
 
 ```
 Artemis we hymn—no light thing is it for singers to forget her—whose study
@@ -186,13 +231,17 @@ Harbours." So he spake and bent his head to confirm his words.
 
 | If they ask | She says |
 |---|---|
-| Why that first | **"You are not expected back."** |
-| What it pays | **"Five hundred, out of the hunters' fees. We send it wherever you say, the day of the hunt."** |
-| Whether anyone comes back | **"Some do. Most run for the fence. That's where the hounds are."** |
+| Why that first | **"The pay goes out whether you come back or not."** |
+| What it pays | **"Four thousand, split between however many of you sign."** |
+| Where that comes from | **"The hunters pay five thousand. The temple keeps a thousand."** |
+| How long | **"Seven days. Come to the gate on the seventh evening and we open it."** |
+| Whether anyone comes back | **"Some do. Most run for the fence."** |
+| Why that is bad | **"We keep the hounds at the fence."** |
+| Coming back sooner | **"We turn you around. The gate opens on the seventh evening."** |
 | What is out there | **"Grass to your waist. Bad water."** |
 | The tree | **"No one hunts there."** *(and nothing more)* |
-| Whether they can sign too | **"As many as want."** |
-| Whether there is a way out | **"Bring us a live stag before sundown. Then you take the antlers home and she is out of the hunt."** |
+| Whether they can sign too | **"Anyone who wants to."** |
+| Whether there is a way out | **"Bring us a live stag before the seventh evening and we let one of the quarry go."** |
 
 > *She scratches the name into the wax and hangs the tablet on the board with the rest.*
 
@@ -335,7 +384,7 @@ shafts.
 
 **Longstrider.** Cast on each quarry at the door, one after another.
 
-> *The woman at the altar speaks to the room, not to her.*
+> *The woman at the altar speaks to the room.*
 
 ```
 And so hail to you, Artemis, in my song and to all goddesses as well. Of

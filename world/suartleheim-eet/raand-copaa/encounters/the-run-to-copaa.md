@@ -118,8 +118,8 @@ Maalm to Aar is a coastal run of several days. The loop, in short:
 the Brauron run, and the party are not going to Brauron. If the table wants weather, a
 Rising sea and one hard night of watches is enough.
 
-**Cassia and the convoy go on north.** The Second Hand are carrying wealthy Maalm hunters
-to the Sacred Hunt and do not stop for Copaa. **The party's sloop is the faster boat and
+**Cassia and the convoy go on north.** The Second Hand have chartered passage on a merchant
+transport carrying wealthy Maalm hunters to the Sacred Hunt, and it does not stop for Copaa. **The party's sloop is the faster boat and
 gets to Aar ahead of them,** so they part at sea or in the basin and the convoy
 carries on up the coast. The hunters are not who the party drink with at Aar; the rival
 crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and

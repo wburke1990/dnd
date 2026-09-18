@@ -14,8 +14,8 @@ status: reference
 > [Brauron](../world/suartleheim-eet/brauron/encounters/the-peach-town.md) say over the crowning —
 > the wool, the wreath, the basin — see
 > [the dressing](../world/suartleheim-eet/brauron/encounters/dressing-the-stag.md). The second
-> matches the cult's rule: a deer on the altar in a person's place. A hunter who brings
-> a live stag to the temple before the horn sounds at sundown may cut the antlers off
+> is where the cult's rule comes from: a deer on the altar in a person's place. A
+> hunter who brings a live stag to the temple before the horn may cut the antlers off
 > the person he was hunting and keep them, and that person is released.
 >
 > Kept verbatim. Source: Perseus Digital Library
