@@ -1,20 +1,20 @@
 ---
-summary: The next session's packet — off the Nasira, down the coast to Aar, and up the canal to Copaa
+summary: The next session — off the Nasira, down the coast to Aar, and up the canal to Copaa
 status: next
 ---
 
 # The Run to Copaa — the wreck, the coast, Aar, and the canal road
 
-> **DM reference.** This packet runs from the *Nasira* to Copaa: the wreck, the sail down
+> **DM reference.** This file runs from the *Nasira* to Copaa: the wreck, the sail down
 > the coast, the landfall at **[Aar](../lore/aar.md)**, and the road up the canal. The party
 > chose Copaa over Brauron at the table, so the storm and the Thinkers are not in this run —
 > they are in [the sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md), for
-> whenever the party turn north. Each section runs from the summary; the `→` link is for
-> depth.
+> whenever the party turn north. Run each section from the summary here; the `→` link goes to
+> the full write-up.
 >
 > **§1 to §4 are part run** — [session 12](../../../../sessions/session-12.md) finished the
 > wreck, killed Rustam, carried his body to his brother at Aar, ran the market, and ended
-> at the watch-stone, where Aniess and Beartholomew traded the cant and he made his ask on
+> at the watch-stone, where Aniess and Beartholomew traded the cant and he asked on
 > the spot. **Session 13 is the evening at the Tally House,** with the job already in hand
 > and the Writ sailing tomorrow. The whole evening, character by character, is in
 > **[Part Two](#part-two--run-sheet-the-night-at-aar)** at the bottom of this file.
@@ -97,8 +97,7 @@ Blackacre handed out the stations in session 11 and the party are learning them:
 - **Aniess speaks Primordial,** and Aquan is one of its dialects, so she can talk to
   anything that comes up out of the water. This was ruled the wrong way in session 11
   and corrected after ([the language rules](../../../nila/lore/house-rules-and-world-mechanics.md)).
-- **Pax believes the world is flat,** and says so. He stands watch with the horizon in
-  front of him.
+- **Pax believes the world is flat,** and says so.
 
 ## 3 · The sail down the coast  `→` [sailing-and-storms.md](../../../the-sea/lore/sailing-and-storms.md) · [sea-beasts.md](../../../the-sea/bestiary/sea-beasts.md)
 
@@ -121,8 +120,7 @@ Rising sea and one hard night of watches is enough.
 **Cassia and the convoy go on north.** The Second Hand have chartered passage on a merchant
 transport carrying wealthy Maalm hunters to the Sacred Hunt, and it does not stop for Copaa. **The party's sloop is the faster boat and
 gets to Aar ahead of them,** so they part at sea or in the basin and the convoy
-carries on up the coast. The hunters are not who the party drink with at Aar; the rival
-crews are (§4). `[OPEN]` whether the party mean to make the Hunt later, and
+carries on up the coast. At Aar the party drink with the rival crews (§4). `[OPEN]` whether the party mean to make the Hunt later, and
 whether Cassia is still on the coast when they do.
 
 ## 4 · Landfall — Aar  `→` [aar.md](../lore/aar.md)
@@ -136,15 +134,15 @@ on everything, more men than buildings. A canal runs straight inland from the ba
    Company built its wharves around it. Four inscriptions, handed over as printed
    handouts — no check, no scene:
    [the vision of the land to come](../../../../handouts/locksley-hall-vision.md) (Tennyson),
-   [a prophecy already come true](../../../../handouts/the-second-coming.md) (Yeats),
-   [his last vision, still ahead](../../../../handouts/revelation-6-pale-horse.md) (Revelation),
+   [The Second Coming](../../../../handouts/the-second-coming.md) (Yeats),
+   [the pale horse](../../../../handouts/revelation-6-pale-horse.md) (Revelation 6),
    and [the lament for Kalikhat](../../../../handouts/into-my-heart-an-air-that-kills.md) (Housman).
    For **Blackacre** this is a wandering dragonborn seer's grave, one of the sea-road
    watch-stones he has kept all his life.
 2. **Ruslan.** `[part played]` They left the body at his door and told his household
    nothing, so Ruslan does not know how his brother died. Rustam's brother is at the house by the water
    stair, and he is the Company man his brother argued with for years. He gives them the
-   name of the arrangement and who holds it in Aar, and a debt. Short scene, no prep —
+   name of the arrangement and who holds it in Aar, and he owes them for it. Short scene, no prep —
    [wreck §8](../../../the-sea/encounters/the-drifting-wreck.md).
 3. **The Hunt crews.**  `→` [tavern-rival-crews.md](../../maalm/encounters/tavern-rival-crews.md)
    The party left Maalm without ever drinking with Preem's other crews, and the crews are
@@ -159,14 +157,13 @@ on everything, more men than buildings. A canal runs straight inland from the ba
    two down. Each crew member is paired with a PC. Use **Calix's pet toad** once,
    murmuring into her head, and do not explain it.
 4. **Beartholomew.** `[played — session 12]` `→` [the godstone dagger](the-godstone-dagger.md)
-   The watch-stone scene is run: the cant, and **the ask, made on the spot** — the **Amseh
+   The watch-stone scene is run: the cant, and **he asked on the spot** — the **Amseh
    ceremonial blade** off **Setha Renk's** belt, carried up the canal, because he cannot
    leave the wharf without losing the posting. He gets it out of the way in the first
    minute and then wants to drink. The Writ leave tomorrow, so it is one night.
 5. **A day in port** clears the hull boxes and refills stores.
 
-**They landed at Aar.** [Aal](../lore/aar.md) up the coast is still there and still worth
-a visit, but it is not this landfall.
+**They landed at Aar.** [Aal](../lore/aar.md) up the coast is not where they landed.
 
 ## 5 · Up the canal to Copaa  `→` [copa-irish-beasts.md](../bestiary/copa-irish-beasts.md)
 
@@ -174,11 +171,11 @@ The inland road is the canal: dead straight, a paved towpath down one bank, load
 riding the current down to the port while donkey-teams haul the empty ones back up.
 Newer stonework sits on older courses the whole way in.
 
-- **Sker — the stranded port.** Where the canal meets the old river channel stand dry
+- **Sker.** Where the canal meets the old river channel stand dry
   stone quays and a breakwater standing in reeds, well short of any water. Gnome
   stonework, older than anything Mughal or Company. The Mughals took the city by
   diverting the river in the siege, and it never reached the sea again.
-- **The Returner and the Stone.** **Prince Farhad**, a son of the Mughal founder, comes
+- **Prince Farhad.** **Prince Farhad**, a son of the Mughal founder, comes
   down the road asking after a father and an empire centuries gone. A woman of the Land
   of Youth carried him off and told him never to touch the ground; he stops to help men
   lift a stone, his stirrup breaks, and he ages every year he skipped, at once. The party
@@ -186,7 +183,7 @@ Newer stonework sits on older courses the whole way in.
 - **The Piper out of the Mound.** The Company's digging opens a mound and a piper walks
   out still playing. A year underground made him a master. He believes that year is
   ending now. Told the truth, he ages where he stands or walks back into the hill.
-- **Copaa, on the lake.**  `→` [copaa.md](../lore/copaa.md) An old-west ore town: the
+- **Copaa, on the lake.**  `→` [copaa.md](../lore/copaa.md) An ore town: the
   landing where the Haals ore comes down the river, a tavern, an inn. The river runs
   fouled and the fields carry the leprosy the party saw in session 10. **Jogo's story is
   here,** and so is the Second Foundation's guarded chinampa operation at the river mouth,
@@ -284,7 +281,7 @@ Hadda has the Expertise, and Sefi is a level below Riska, the scout she replaced
 
 ## The order of the evening
 
-**The ask is already made.** [Session 12](../../../../sessions/session-12.md) stopped at the
+**He has already asked.** [Session 12](../../../../sessions/session-12.md) stopped at the
 watch-stone at noon, and Beartholomew put it to Aniess there. He asked in the first minute
 ([Beartholomew](../../../../characters/beartholomew.md)). He does not ask again tonight.
 The party already have the job, and the evening is: the room, the two crews, whatever they
@@ -336,13 +333,13 @@ him. He does not cross the room to the Writ once all evening and he does not loo
 knife.
 
 - *If they want to talk about it at all.* *"Not in here. Come out to the rail."* Two lamps,
-  the basin, and the guest house lit a hundred yards down the water — and the five Writ in
+  the basin, and the guest house lit a hundred yards down the water. The five Writ are in
   the room behind them.
 - *On the sailing.* *"They've sat here a week. She goes up that gangway in the morning with
   it on her belt."* *[drinks]* *"So it's tonight."*
 - *What he can tell them.* When Renk eats, when she is out, which room is hers, when the
-  belt comes off. He has stood on that wharf all day looking at the guest
-  house for four months.
+  belt comes off. For four months he has spent his days on that wharf, looking at the guest
+  house.
 - *If they ask what the Order wants with a knife.* *"I wasn't told. A description, a town,
   and do it."* That is the truth — [the godstone dagger](the-godstone-dagger.md) §1.
 - *If they ask why he does not take it himself.* — he offers to put himself through Renk's
@@ -546,7 +543,7 @@ preached the sermons that called for them, and walked away from the Church over 
 
 ### How to run it
 
-**A brawl, not a fight to the death.** Fists, benches, mugs; damage is nonlethal unless a
+**A brawl.** Fists, benches, mugs; damage is nonlethal unless a
 PC makes it otherwise. Nobody at the Writ's table wants a corpse the night before a boat.
 
 - **Doruk** — Battle Master Fighter 3, 4d8 superiority dice, **Trip Attack** and
@@ -567,8 +564,7 @@ stretch is the bath at dawn.
 Which means a party that has worked out what Doruk did can start it. `[run]` **Let them.** They are starting a fight over Mogg's dead kin to empty the
 gallery.
 Do not comment on it at the table; [Mogg](../../maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)
-is still bleeding on the floor afterwards, and he bought them a drink earlier in the
-evening.
+is still bleeding on the floor afterwards.
 
 ### Afterward
 
@@ -644,8 +640,8 @@ asking for it.
 ### Setha interrogates Calix `[run]`
 
 **She has been working up to this for years and she does it here**, in the water, with an
-hour left, because after the boat there is no privacy again for a month. She is not trying
-to win an argument. She is trying to get Calix to put the thing down and choose her.
+hour left, because after the boat there is no privacy again for a month. She wants Calix
+to put the thing down and choose her.
 
 **She argues from history rather than from magic.** She is a Lore bard, and this is the
 first thing a Maalm education gives you: **nothing has heard from a god in recorded history.** The last
@@ -668,8 +664,7 @@ that is the best-documented try anyone ever made.
 
 - *"It is."*
 - *To the history, and she does not dispute a word of it.* *"Then it's the first time since
-  Jotunheim."* `[run]` She does not argue with Setha's facts. She assumes she is the exception, and she says it as calmly as she says
-  everything.
+  Jotunheim."* `[run]` She does not argue with Setha's facts. She assumes she is the exception, and she says it calmly.
 - *"It's not a toad."* `[DM]` She means it as devotion. Anyone hidden in the room hears
   her say the toad is not a toad.
 - *And then she flips the coin to decide whether to go to Setha.* Whatever it says, that is
@@ -680,15 +675,15 @@ toad, while they are hiding there to steal the knife.
 
 `[run]` **And Aniess is carrying one.** Godstone produces a voice its carrier hears and
 takes for their god ([the godstone dagger](the-godstone-dagger.md) §2, *Who is actually
-answering*). So Setha, in a bathtub, is describing the exact thing in Aniess's pack — and
-the exact thing they are about to steal a second piece of. **Do not point at it.** Say
+answering*). So Setha, in a bathtub, is describing what is in Aniess's pack, and what
+they are about to steal a second piece of. **Do not point at it.** Say
 Setha's lines straight and let whoever is listening make the connection or not.
 
 ### Issa, if she is in the room `[settling]`
 
 **She recognizes what is going on and does not bring it up.** Issa paid a death-cult for what was
 done to her, was awake for it and does not regret it. A person carrying something that speaks to them,
-and glad about it, looks to her like what she did.
+and glad about it, is no different to her from what she did.
 
 - *If Setha pushes.* *"Leave her. She's happy."*
 - *If somebody asks her straight what she thinks the toad is.* *"Something talks to her. Not my
@@ -704,7 +699,7 @@ it, not from a spell.
 
 ### If it comes to initiative — the steam `[settled 9/2]`
 
-**The room's conditions decide this fight.** A stone floor, a copper going hard, and a tub. House ruling for
+A stone floor, a copper going hard, and a tub. House ruling for
 this fight:
 
 - **The whole bath house is lightly obscured.** Disadvantage on sight-based Perception.
@@ -714,8 +709,8 @@ this fight:
   then it settles back. Any creature can do it as an action, **including the party**, and
   it is the cheapest escape in the building.
 - **Darkvision does not help.** Steam is not darkness. That goes for Setha's and Calix's
-  sixty feet — **and for the quasit's hundred and twenty**, which is the party's answer to
-  the thing that has been guarding the knife all night. Say this out loud when a player
+  sixty feet — **and for the quasit's hundred and twenty**, so it cannot see in the steam
+  either. Say this out loud when a player
   asks. Fighting here rather than on the gallery takes the quasit's darkvision away.
 
 **Setha is naked and unarmed in a tub.** No armour, no instrument, and the knife is on the
@@ -774,7 +769,7 @@ works blind or near enough.
 - **Hold Person**, **Bane**, and **Path to the Grave** (Channel Divinity) — the curse goes
   on whoever is holding the knife, and the next hit on them is doubled.
 - `[DM]` **Sacred Flame needs a target she can see.** Heavy steam stops it. Play that
-  honestly; it is most of what the party's fog is buying them.
+  honestly; that is most of what the steam does for the party.
 
 **Calix Vire — Wizard 3 (Divination).** Unbothered. She flips to decide whether to fight
 at all.
@@ -782,7 +777,7 @@ at all.
 - **Mirror Image** `[new]` — three duplicates in a room where nobody can see properly.
 - **Silent Image** `[new]` — the room is already obscured, so she uses it for a wall that
   is not there.
-- **Misty Step** — to the doorway, and now the exit has a wizard in it.
+- **Misty Step** — to the doorway, and she stands in the door.
 - **Sleep**, **Detect Thoughts**, **Alarm** as written.
 - **Portent** — two dice, and they fire the moment somebody is seen.
 
@@ -881,7 +876,7 @@ morning her boat leaves.
 
 ### What actually guards the knife
 
-**Not Calix. The toad.** Calix hears its telepathy and takes it for the voice of God — she
+**The toad guards the knife.** Calix hears its telepathy and takes it for the voice of God — she
 has no idea it is a **quasit**, and none that it is **Preem's**
 ([Preem's demons](../../../../characters/preems-demons.md)). What that means in this room:
 
@@ -901,8 +896,8 @@ somebody is spotted, talks their way in, or runs.
 ### The way in
 
 **Setha's attention is on Calix, not on the belt.** She wants it back and has an hour left
-to get it. Anything that pulls Calix into that conversation — or into the water — takes the
-watcher off the bench without anyone rolling against her.
+to get it. Anything that pulls Calix into that conversation — or into the water — takes
+Calix off the bench without anyone rolling against her.
 
 - **Give Setha an opening and she will take it herself.** She has been working up to the
   room-next-to-mine line all night.
@@ -932,6 +927,6 @@ sails at dawn, so she is out of range by morning either way.
 - **[Copaa](../lore/copaa.md)** and **[the Haals runoff](the-haals-runoff.md)** — where this
   run ends and the Haals sessions begin.
 - **[The sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md)** — the other
-  half of the old packet, held for the Hunt.
+  half of the old file, held for the Hunt.
 - **[Session 11](../../../../sessions/session-11.md)** — the crew list, the fork, and the
   unfinished encounter.
