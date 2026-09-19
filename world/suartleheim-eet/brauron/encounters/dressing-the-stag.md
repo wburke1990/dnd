@@ -7,7 +7,7 @@ status: ready
 
 ## A D&D Rite / Scene — Design Note `[ready]`
 
-> **How to use this doc.** Two parts. Part One is background and rules — read once in prep. Part Two is the script: what you describe, and the words the priestesses say. Run the scene from Part Two.
+> **How to use this doc.** Part One is background and rules. Part Two is the script — run the scene from it.
 
 ---
 
@@ -20,29 +20,20 @@ status: ready
 > hunt is [the game preserve](the-game-preserve.md), and the tree at the center of the
 > preserve is [the hell-tree](the-hell-tree.md).
 
-## What the rite is
+## The rite
 
-The priestesses put the quarry through the steps of a Greek animal sacrifice. The
-victim is washed, barley is thrown over it, a lock is cut from its head and burned, and
-it is crowned and brought to the altar. Every one of those steps is out of Homer, in
-Homer's order. The steps stop at the altar. They do not cut her throat. They tie on
-antlers, lay a deer-hide over the shoulders, read out the names of dogs, and open the
-door.
+The priestesses put the quarry through a Greek animal sacrifice, step for step out of
+Homer: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
+the altar. There the steps stop. Instead of the knife they tie on antlers, lay a
+deer-hide over her shoulders, read out the names of dogs, and open the door.
 
-The priestess who takes the name asks where to send the money before she asks anything
-else.
-
-## Who performs it
-
-The **bee-priestesses (the Melissae)**, veiled, four of them: one takes the name, one
-carries the water, one carries the basket, one reads. The **eunuch priests (the
-Megabyzoi)** stand along the wall and do not touch the quarry. They keep the castration
-rite. They take no part in this one.
+Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the water, one
+the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
+take no part.
 
 ## The three skins
 
-The cult dresses its people in the skins of the goddess's beasts, and the steps are
-the same for all three. Only the skin and where they go change.
+Same steps for all three. Only the skin and where they go change.
 
 | Who | Skin | Where they go |
 |---|---|---|
@@ -52,37 +43,20 @@ the same for all three. Only the skin and where they go change.
 
 ## Cassia
 
-**[Captain Cassia Roan](../../../../characters/the-second-hand.md)** is the one dressed
-in the script below. She and the Second Hand chartered passage to the hunt on a merchant
-transport carrying wealthy Maalm hunters
-([session 10](../../../../sessions/session-10.md)); the party sail Blackacre's boat and
-get up the coast ahead of them
+**[Captain Cassia Roan](../../../../characters/the-second-hand.md)** is the one dressed.
+She and the Second Hand chartered passage on a merchant transport carrying wealthy Maalm
+hunters ([session 10](../../../../sessions/session-10.md)); the party sail Blackacre's
+boat and get up the coast ahead of them
 ([the run to Copaa §3](../../raand-copaa/encounters/the-run-to-copaa.md)). She fought
 beside them outside Preem's tower
 ([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
 
-**Why she signed.** Signing as quarry is the only way through the fence that does not
-cost 5,000 gp — only [Setha Renk's crew](../../../../characters/the-lapis-writ.md) has
-that ([the game preserve](the-game-preserve.md)) — and the quarry are paid.
-
-This does not replace **Pax as the stag**. The man-hunt takes as many names as sign,
-and they are dressed one after another. Cassia is dressed before the party sign.
-
-## The live stag
-
-At Aulis a deer was put on the altar in Iphigenia's place and the girl was carried off.
-The cult keeps it as a rule: **a live stag brought to the temple before the horn
-releases one quarry.** The hunter who brings it cuts the rack off that quarry and keeps
-it, and the quarry goes free. The priestess says so at the sign-up if she is asked whether there is
-a way out.
-
-It has to be alive and it has to be a stag. The temple turns away a carcass
-or a doe. A stag brought in after the horn releases nobody.
+**Why she signed.** It is the only way through the fence that does not cost 5,000 gp —
+only [Setha Renk's crew](../../../../characters/the-lapis-writ.md) can pay it — and the
+quarry are paid. This does not replace **Pax as the stag**: anyone who signs goes out as
+quarry, and Cassia is dressed first.
 
 ## Seven days
-
-The term is a week. A quarry who is still alive at the gate when the horn goes on the
-seventh day is let back in and paid.
 
 | When | What happens |
 |---|---|
@@ -91,100 +65,78 @@ seventh day is let back in and paid.
 | Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
-**A quarry who comes back early is turned around at the gate.** The only way out before
-the horn is the live stag.
+A quarry who comes back early is turned around. The crossing to
+[the hell-tree](the-hell-tree.md) and back takes seven days; how fast the sickness works
+is `[OPEN]` in [the game preserve](the-game-preserve.md).
 
-The crossing to [the hell-tree](the-hell-tree.md) and back takes seven days. How fast
-the sickness works is `[OPEN]` in [the game preserve](the-game-preserve.md).
+## The live stag
 
-**Catching a stag**, if they go that way — the deer are inside the fence with the hunt,
-so all of it happens in the preserve:
+At Aulis a deer was put on the altar in Iphigenia's place. The cult still does it: **a live
+stag at the temple before the horn releases one quarry,** and the hunter who brings it
+cuts that quarry's rack off and keeps it. Alive, and a stag — the temple turns away a
+carcass or a doe. The priestess says so at the sign-up if she is asked for a way out.
 
-- **Find one.** One hour an attempt, Wisdom (Survival) DC 15. On a failure by 5 or
-  more the attempt finds one of the animals the poison has changed instead
-  ([the hell-tree](the-hell-tree.md)).
-- **Take it alive.** It has to be subdued or restrained, and the damage that drops it
-  has to be nonlethal. The temple turns away a carcass.
-- **Walk it back.** Two hours to the gate from out in the preserve, with a bound animal
-  making noise the whole way.
+Catching one while the hunt is running: an hour an attempt at DC 15 Wisdom (Survival),
+and on a failure by 5 or more one of the poisoned animals comes instead
+([the hell-tree](the-hell-tree.md)). It has to be subdued or restrained, nonlethal only,
+and two hours to walk it back, noisy the whole way.
 
 ## The pay
 
-A hunting party pays **5,000 gp** for its place. The temple keeps **1,000 gp** and
-divides the other **4,000 gp** among the quarry who sign for that hunt — **1,000 gp
-each for four, 800 gp each for five**. It is paid to a named address whether or not the
-quarry lives.
-
-For a party of five that is 4,000 gp coming into the game at once,
-before anything they find past the fence. If that is too much coin, the pay is set by
-the 5,000 gp entry fee: lower the fee and the pay drops with it.
+A hunting party pays **5,000 gp**. The temple keeps **1,000** and splits the other
+**4,000** among the quarry who sign — 1,000 each for four, 800 each for five — paid to a
+named address whether or not they live. If 4,000 gp is too much coin for the
+party, lower the entry fee and the pay drops with it.
 
 ## What the quarry carries out
 
 | | |
 |---|---|
-| **Head start** | Out at dawn on day 1. The hounds are loosed at noon the same day. |
+| **Head start** | Out at dawn on day 1, hounds loosed at noon. |
 | **Longstrider** | Cast at the door, 1 hour, +10 ft. speed. It runs out before the hounds are loosed. |
-| **Gear** | Whatever they walked in with. The cult does not confiscate gear and does not issue any. |
-| **The rack** | Worn until the horn. Disadvantage on Dexterity (Stealth) while it is on, and it stands above the grass. |
-| **The pay** | 4,000 gp split among the quarry who sign — 1,000 gp each for four, 800 gp each for five. |
-| **The horn** | Sundown on day 7. A quarry standing at the gate is let in, and the rack is hung in the temple. |
+| **Gear** | Whatever they walked in with. The cult neither confiscates nor issues. |
+| **The rack** | Worn until the horn, and it stands above the grass. Disadvantage on Dexterity (Stealth). A hunter who takes it off a living quarry has won and is done; a quarry who takes it off is a trespasser inside the fence. |
+| **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
+| **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
-A hunter who takes a rack off a living quarry has won it and is done. A quarry who
-takes it off has left the hunt, and the cult treats them as any other trespasser inside
-the fence.
+The hounds at the fence are named off the roll she reads, and the cult has kept the
+names as long as there has been a hunt.
 
 ## If the party interrupt
 
-They can stop it. Nobody in the room is armed, the Megabyzoi are against the wall, and
-the four women will not fight.
+Nobody in the room is armed and the four women will not fight.
 
-- **Take the tablet off the board.** The tablet is the contract. The priestess scrapes
-  the wax flat and asks who is going instead.
-- **Bring a live stag.** The rule above. They have until sundown on day 7.
-- **Go in her place.** The priestess writes a second tablet without argument.
-
-## The hounds' names
-
-The hounds at the fence are named off the roll the priestess reads, and the cult has
-kept the names as long as there has been a hunt.
+- **Take the tablet off the board.** It is the contract. She scrapes the wax flat and
+  asks who is going instead.
+- **Bring a live stag.** They have until sundown on day 7.
+- **Go in her place.** She writes a second tablet without argument.
 
 ## Sources
 
-Every text in Part Two is public domain. Each has a handout with the full text, the
-translator, the edition and the source URL.
+Public domain, and each has a handout with the full text, translator and edition.
 
 | Step | Text |
 |---|---|
-| The board | [Callimachus — the child asks for the mountains](../../../../handouts/callimachus-hymn-to-artemis.md), *Hymn* 3.1–40, tr. Mair |
-| The barley, the hair | [Homer — the making of a sacrifice](../../../../handouts/homer-the-sacrifice.md), *Iliad* 1 and *Odyssey* 3, tr. Murray |
-| The crown | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md) 1468–1490, tr. Coleridge |
-| The hide and the antlers | [Actaeon](../../../../handouts/actaeon.md), Ovid *Metamorphoses* 3, tr. Golding |
-| The hounds | [Actaeon](../../../../handouts/actaeon.md) — the roll of dogs' names, *Metamorphoses* 3.206–225 |
-| The live stag | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md) 1578–1601 — the deer on the altar |
-| The hymn | [Hymn to Artemis](../../../../handouts/hymn-to-artemis.md), Homeric Hymn 27, tr. Evelyn-White |
-| The door | [Hymn to Artemis](../../../../handouts/hymn-to-artemis.md), Homeric Hymn 9, closing formula |
-| The hunters | [Xenophon — on hunting](../../../../handouts/xenophon-on-hunting.md), *Cynegeticus* I and VI, tr. Dakyns |
-| The girls | [Lysistrata — I was Little Bear](../../../../handouts/lysistrata-the-bear.md) 638–651, tr. Lindsay |
+| The board | [Callimachus](../../../../handouts/callimachus-hymn-to-artemis.md), *Hymn* 3, tr. Mair |
+| The barley, the hair | [Homer](../../../../handouts/homer-the-sacrifice.md), *Iliad* 1 and *Odyssey* 3, tr. Murray |
+| The crown, the live stag | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md), tr. Coleridge |
+| The antlers, the hounds | [Actaeon](../../../../handouts/actaeon.md), Ovid *Metamorphoses* 3, tr. Golding |
+| The hymn, the door | [Homeric Hymns 27 and 9](../../../../handouts/hymn-to-artemis.md), tr. Evelyn-White |
+| The hunters | [Xenophon](../../../../handouts/xenophon-on-hunting.md), *Cynegeticus*, tr. Dakyns |
+| The girls | [Lysistrata](../../../../handouts/lysistrata-the-bear.md) 638–651, tr. Lindsay |
 
-**The roll of hounds below follows the 1904 Rouse edition of Golding at three points
-where the Wikisource scan is damaged** — `Kilbucke` for `Bilbucke`, `Ringwood` for
-`Kingwood`, and the full line `And shaggie Rugge with other twaine that had a Syre of
-Crete,` where Wikisource prints three words. Both readings are set out in
-[the Actaeon handout](../../../../handouts/actaeon.md).
+The roll of hounds below follows Rouse's 1904 Golding where the Wikisource scan is
+damaged — `Kilbucke`, `Ringwood`, and the full `shaggie Rugge` line. Both readings are
+in [the Actaeon handout](../../../../handouts/actaeon.md).
 
 ---
 
 # PART TWO — SCRIPT
-*What you describe, and what they say. Read it straight through.*
 
 ---
 
-> The party have come in off the square and are standing at the back. One priestess
-> does all the reading; the others do the work. Pause after each step.
->
-> Everything in a fenced block is a real quotation, word for word. Do not edit it.
-> These are the lines to read out; the full texts are in the handouts listed in Part One.
+> The party are at the back of the temple. One priestess reads; the others work. Pause
+> after each step. Fenced blocks are real quotations — read them as printed.
 
 ---
 
@@ -216,7 +168,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | What is out there | **"Grass to your waist. Bad water."** |
 | The tree | **"No one hunts there."** *(she says nothing else)* |
 | Whether they can sign too | **"Anyone who wants to."** |
-| Whether there is a way out | **"Bring us a live stag before the seventh evening and we let one of the quarry go."** |
+| A way out | **"Bring us a live stag before the seventh evening and we let one of the quarry go."** |
 
 > *She scratches the name in and hangs it with the rest.*
 
@@ -225,8 +177,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 ## 2 — The water
 
 > *A bronze basin inside the door. She quenches a brand from the altar fire in it and
-> holds it out to each of you in turn. They wash Cassia standing, head to feet, and the
-> water runs off onto the floor.*
+> holds it out to each of you in turn. Cassia stands while they wash her, head to feet.*
 
 ---
 
@@ -257,7 +208,7 @@ the fire.
 ## 5 — The crown
 
 > *White wool twice around her head, a wreath of leaves over it, the ends tied under her
-> hair so it will not come off.*
+> hair.*
 
 ```
 Lead me away, the destroyer of Ilium's town and the Phrygians; give me
@@ -270,8 +221,7 @@ bring lustral water too.
 ## 6 — The hide and the antlers
 
 > *A deer's hide across her shoulders, tied at the throat. Then the rack — a full-grown
-> stag's — bolted to a leather cap, buckled under her chin and pulled tight enough that
-> her head goes back.*
+> stag's — buckled under her chin and pulled tight enough that her head goes back.*
 
 ```
 A payre of lively olde Harts hornes upon his sprinckled head.
@@ -324,9 +274,7 @@ she draws her golden bow, rejoicing in the chase, and sends out grievous
 shafts.
 ```
 
-> *A hand flat on her chest.*
-
-**Longstrider.** Cast on each quarry at the door, one after another.
+> *She puts a hand flat on Cassia's chest.* **Longstrider** — on each quarry in turn.
 
 > *She turns to the room.*
 
@@ -343,9 +291,8 @@ that I have begun with you, I will turn to another song.
 
 ## The hunters, after
 
-> *The hunters come in behind you, in ones and twos. They use the same basin and the
-> same basket. No hair is cut and no wreath is tied. A hound-pelt goes over each
-> hunter's shoulders.*
+> *They come in behind you, in ones and twos. The same basin, the same basket. No hair
+> cut, no wreath. A hound-pelt over each one's shoulders.*
 
 ```
 To the gods themselves is due the discovery, to Apollo and Artemis,
