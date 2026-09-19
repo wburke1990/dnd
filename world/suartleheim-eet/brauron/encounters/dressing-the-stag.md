@@ -7,7 +7,7 @@ status: ready
 
 ## A D&D Rite / Scene — Design Note `[ready]`
 
-> **How to use this doc.** Two parts. Part One is background and rules — read once in prep. Part Two is the script: what you describe, and the words the priestesses say. Every text they read is printed there in full. Run the scene from Part Two and do not look anything up.
+> **How to use this doc.** Two parts. Part One is background and rules — read once in prep. Part Two is the script: what you describe, and the words the priestesses say. Run the scene from Part Two.
 
 ---
 
@@ -76,8 +76,8 @@ releases one quarry.** The hunter who brings it cuts the rack off that quarry an
 it, and the quarry goes free. The priestess says so at the sign-up if she is asked whether there is
 a way out.
 
-It has to be alive and it has to be a stag. The temple turns away a carcass and turns
-away a doe. A stag brought in after the horn releases nobody.
+It has to be alive and it has to be a stag. The temple turns away a carcass
+or a doe. A stag brought in after the horn releases nobody.
 
 ## Seven days
 
@@ -94,15 +94,14 @@ seventh day is let back in and paid.
 **A quarry who comes back early is turned around at the gate.** The only way out before
 the horn is the live stag.
 
-The crossing to [the hell-tree](the-hell-tree.md) and back takes seven days. Everyone
-inside the fence breathes the poison for all seven, and how fast the sickness works is
-`[OPEN]` in [the game preserve](the-game-preserve.md).
+The crossing to [the hell-tree](the-hell-tree.md) and back takes seven days. How fast
+the sickness works is `[OPEN]` in [the game preserve](the-game-preserve.md).
 
 **Catching a stag**, if they go that way — the deer are inside the fence with the hunt,
 so all of it happens in the preserve:
 
 - **Find one.** One hour an attempt, Wisdom (Survival) DC 15. On a failure by 5 or
-  more the hour turns up one of the poison-mutated animals instead
+  more the attempt finds one of the animals the poison has changed instead
   ([the hell-tree](the-hell-tree.md)).
 - **Take it alive.** It has to be subdued or restrained, and the damage that drops it
   has to be nonlethal. The temple turns away a carcass.
@@ -116,7 +115,7 @@ divides the other **4,000 gp** among the quarry who sign for that hunt — **1,0
 each for four, 800 gp each for five**. It is paid to a named address whether or not the
 quarry lives.
 
-`[watch this]` For a party of five that is 4,000 gp coming into the game at once,
+For a party of five that is 4,000 gp coming into the game at once,
 before anything they find past the fence. If that is too much coin, the pay is set by
 the 5,000 gp entry fee: lower the fee and the pay drops with it.
 
@@ -152,8 +151,8 @@ kept the names as long as there has been a hunt.
 
 ## Sources
 
-Every text in Part Two is public domain and is printed there in full. Each also has its
-own handout, with the translator, the edition and the source URL.
+Every text in Part Two is public domain. Each has a handout with the full text, the
+translator, the edition and the source URL.
 
 | Step | Text |
 |---|---|
@@ -181,17 +180,18 @@ Crete,` where Wikisource prints three words. Both readings are set out in
 
 ---
 
-> The party have come in off the square and are standing at the back. Everything in a
-> fenced block below is a real quotation, word for word. Do not edit it. These are the
-> lines to read out; the full texts are in the handouts listed in Part One.
+> The party have come in off the square and are standing at the back. One priestess
+> does all the reading; the others do the work. Pause after each step.
+>
+> Everything in a fenced block is a real quotation, word for word. Do not edit it.
+> These are the lines to read out; the full texts are in the handouts listed in Part One.
 
 ---
 
 ## 1 — The board
 
-> *A board of wax tablets hangs by the door, names scratched into them, the wax on the
-> older ones darkened. A veiled woman takes down a blank tablet and a stylus. She faces the board and
-> reads.*
+> *A board of wax tablets by the door, some of them darkened. A veiled woman takes down
+> a blank one, faces the board, and reads.*
 
 ```
 And give to me all mountains; and for city, assign me any, even
@@ -218,25 +218,22 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | Whether they can sign too | **"Anyone who wants to."** |
 | Whether there is a way out | **"Bring us a live stag before the seventh evening and we let one of the quarry go."** |
 
-> *She scratches the name into the wax and hangs the tablet on the board with the rest.*
+> *She scratches the name in and hangs it with the rest.*
 
 ---
 
 ## 2 — The water
 
-> *A bronze basin stands inside the door. One of the women lifts a burning brand out of
-> the altar fire and puts it out in the water. She carries the basin round and each of
-> you washes your hands in it. They wash Cassia standing — head, arms, feet — and the
+> *A bronze basin inside the door. She quenches a brand from the altar fire in it and
+> holds it out to each of you in turn. They wash Cassia standing, head to feet, and the
 > water runs off onto the floor.*
 
 ---
 
 ## 3 — The barley
 
-> *A covered basket comes round. The woman carrying it lifts the cloth to take a
-> handful of grain, and there is a knife lying in the barley. She throws the grain over
-> Cassia's head and shoulders, and it goes on the floor around her feet. The fourth
-> woman reads.*
+> *A covered basket comes round. Under the cloth there is a knife lying in the barley.
+> She throws a handful over Cassia's head and shoulders.*
 
 ```
 Then, when they had prayed, and had sprinkled the barley grains, they
@@ -248,8 +245,7 @@ them,
 
 ## 4 — The hair
 
-> *One of them takes a lock of Cassia's hair at the front, cuts it off close to the
-> scalp, and drops it in the altar fire. It burns up. The fourth woman reads.*
+> *A lock off Cassia's forehead, cut close to the scalp, dropped in the altar fire.*
 
 ```
 cutting off as first offering the hair from the head, and casting it into
@@ -260,9 +256,8 @@ the fire.
 
 ## 5 — The crown
 
-> *They wind a band of white wool twice around her head and set a wreath of leaves over
-> it, and tie the ends of the wool under her hair so it will not come off. The fourth
-> woman reads.*
+> *White wool twice around her head, a wreath of leaves over it, the ends tied under her
+> hair so it will not come off.*
 
 ```
 Lead me away, the destroyer of Ilium's town and the Phrygians; give me
@@ -274,10 +269,9 @@ bring lustral water too.
 
 ## 6 — The hide and the antlers
 
-> *They lay a deer's hide across her shoulders and tie it at the throat. Then the
-> rack — a full-grown stag's, bolted to a leather cap — over the wool and the wreath,
-> and they buckle it under her chin and pull it tight enough that her head goes back.
-> The fourth woman reads while they work.*
+> *A deer's hide across her shoulders, tied at the throat. Then the rack — a full-grown
+> stag's — bolted to a leather cap, buckled under her chin and pulled tight enough that
+> her head goes back.*
 
 ```
 A payre of lively olde Harts hornes upon his sprinckled head.
@@ -290,7 +284,7 @@ She wrappes him in a hairie hyde beset with speckled spottes,
 
 ## 7 — The hounds
 
-> *The woman at the altar starts a list. They are dogs' names.*
+> *She starts a list. They are dogs' names.*
 
 ```
 His houndes espyde him where he was, and Blackfoote first of all
@@ -303,7 +297,7 @@ Wight, Bowman, Royster, Beautie faire and white as winters snow,
 And Ringwood with a shyrle loud mouth the which he freely spent,
 ```
 
-> *She reads on down the list, and finishes:*
+> *She reads on, and finishes:*
 
 ```
 With divers mo whose names to tell it were but losse of tyme.
@@ -320,7 +314,7 @@ With greedie teeth and griping pawes their Lord in peeces dragge.
 
 ## 8 — The hymn and the door
 
-> *They walk her to the door. Behind her the fourth woman reads.*
+> *They walk her to the door.*
 
 ```
 I sing of Artemis, whose shafts are of gold, who cheers on the hounds,
@@ -330,11 +324,11 @@ she draws her golden bow, rejoicing in the chase, and sends out grievous
 shafts.
 ```
 
-> *A hand is laid flat on Cassia's chest.*
+> *A hand flat on her chest.*
 
 **Longstrider.** Cast on each quarry at the door, one after another.
 
-> *The woman at the altar speaks to the room.*
+> *She turns to the room.*
 
 ```
 And so hail to you, Artemis, in my song and to all goddesses as well. Now
@@ -349,9 +343,9 @@ that I have begun with you, I will turn to another song.
 
 ## The hunters, after
 
-> *The hunters are brought in behind you, in ones and twos, and the same basin and the
-> same basket go round them. No hair is cut and no wreath is wound. A hound-pelt goes
-> over each pair of shoulders. The fourth woman reads.*
+> *The hunters come in behind you, in ones and twos. They use the same basin and the
+> same basket. No hair is cut and no wreath is tied. A hound-pelt goes over each
+> hunter's shoulders.*
 
 ```
 To the gods themselves is due the discovery, to Apollo and Artemis,
@@ -370,9 +364,9 @@ the produce of spoil
 
 ## The girls, if the party stay
 
-> *A line of town girls is waiting along the far wall in yellow. One at a time they are
-> washed at the same basin, their hair is cut the same way, and a bear-skin goes over
-> their shoulders. They say it themselves, together, while it is done.*
+> *A line of town girls along the far wall in yellow. They go up one at a time — washed
+> at the same basin, hair cut the same way, a bear-skin over the shoulders. The rest
+> speak the lines while each one is dressed.*
 
 ```
 I bore the holy vessels
