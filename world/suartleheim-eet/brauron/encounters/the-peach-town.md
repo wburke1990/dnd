@@ -17,7 +17,7 @@ status: draft
 ---
 
 > Part of the Brauron quest — the town the party comes in through, at the edge of the
-> poison land. See [the hell-tree](the-hell-tree.md) (the root) and
+> poison land. See [the hell-tree](the-hell-tree.md) (the tree itself) and
 > [the game preserve](the-game-preserve.md) (the hunt).
 
 **Brauron** is the last town before the poison deadland, on the coast north of
@@ -47,7 +47,7 @@ grove, the statue, the fountain, and the plays.
 
 `[DM background]` The Megabyzoi are real: Artemis's priests at Ephesus were castrated,
 in the manner of the **Galli**, the self-cut priests of Cybele and Attis. Attis
-castrates himself under the pine and dies, and his priests followed him into it. The
+castrates himself under the pine and dies, and his priests castrated themselves as well. The
 Attis story is about castration and a god who dies, so the eunuch priests keep it and
 the bee-priestesses do not. (For when a player asks.)
 
@@ -55,7 +55,7 @@ the bee-priestesses do not. (For when a player asks.)
 
 ## The bee-priestesses and Sarric
 
-`[lands on Sarric]` Sarric carries his beehive everywhere
+`[Sarric]` Sarric carries his beehive everywhere
 ([sheet](../../../../characters/sarric.md)); here there is a temple of **bee**-priestesses. Jeremy decides what Sarric makes of it.
 
 ---
@@ -86,6 +86,10 @@ The founding: **[Momotarō](../../../../handouts/momotaro.md)**, a childless cou
 boy inside a peach and raise the town with him. The gnomes act it in the street in
 kabuki masks; the statue is the boy; the Momotarō text is cut into the base.
 
+`[DM]` The line on the base — *"Wait a bit, old man!"* — is one of the lines a newborn
+demon says at [the hell-tree](the-hell-tree.md). Read it out here; the same line comes
+back at the tree.
+
 ---
 
 ## Read aloud — the fountain
@@ -97,6 +101,10 @@ kabuki masks; the statue is the boy; the Momotarō text is cut into the base.
 **[The Three Citrons](../../../../handouts/the-three-citrons.md):** a maiden bursts from a cut
 citron begging for water, and vanishes if she is not given it at once. The fountain
 carving shows that moment.
+
+`[DM]` At [the hell-tree](the-hell-tree.md) a newborn demon asks for water and stops
+talking when it does not get it. Here in town the water has never stopped running over
+the carved maiden's mouth.
 
 ---
 
@@ -126,13 +134,13 @@ The priestesses also serve Artemis as **Hecate**, of the moon and the dead. The
 deadland and the tree are hers under that name. The town's
 girls serve the goddess as **bears** before they marry (the real Brauron rite).
 
-*(The eunuch Megabyzoi priests and the Attis mystery, and how the bee-priestesses land on Sarric — see Background: "The Megabyzoi and the Attis mystery" and "The bee-priestesses and Sarric".)*
+*(The eunuch Megabyzoi priests and the Attis mystery, and what the bee-priestesses mean for Sarric — see Background: "The Megabyzoi and the Attis mystery" and "The bee-priestesses and Sarric".)*
 
 ---
 
 ## The hunt starts here — dressing the quarry as the stag
 
-The cult runs the sacred hunt out in the wild — two strands, the beast-hunt and the
+The cult runs the sacred hunt out in the wild — two hunts, the beast-hunt and the
 Actaeon man-hunt (see [the game preserve](the-game-preserve.md)) — and it is set up
 here, in the temple. The cult dresses its people in the skins of the goddess's beasts:
 the girls are her **bears**, the quarry is her **stag** (antlers and a deer-hide), and

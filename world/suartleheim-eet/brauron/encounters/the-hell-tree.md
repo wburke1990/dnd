@@ -16,12 +16,12 @@ status: draft
 
 ---
 
-> **Start here.** Root of the Brauron quest. Read this file, then
+> **Start here.** The start of the Brauron quest. Read this file, then
 > [the game preserve](the-game-preserve.md) (the hunt and the approach), then
 > [Brauron](the-peach-town.md) (the town). In play the party goes the other way:
 > Brauron first, this tree last.
 
-The far end of the Brauron hunt: a single giant tree at the northern tip of
+The last stop of the Brauron hunt: a single giant tree at the northern tip of
 [Suartleheim](../../../nila/lore/nila-atlas.md), north of [Raand](../../../nila/lore/nila-atlas.md) (94, 74)
 and across the strait from [Sukkek](../../../nila/lore/nila-atlas.md) (95, 61). A dot on
 [Preem's map](../../../../characters/preem.md).
@@ -54,8 +54,7 @@ and then the tree began to fruit.
 
 Because the giants killed the god, no god rose here, no new land was raised, and no
 [road of the dead](../../../nila/lore/demons-and-the-hotspot.md) was ever kept. The tree fell in
-the first pass, so it is older than the gnomes and the Muspel empire — older
-than almost everything here. `[OPEN]` exact date.
+the first pass, so it is older than the gnomes and the Muspel empire. `[OPEN]` exact date.
 
 ---
 
@@ -87,15 +86,15 @@ god, and whether it happened more than once.
 
 ## What still needs building
 
-- The **ritual** — the holy rite the site is built around (the real upas legend sent
+- The **ritual** — the holy rite performed here (the real upas legend sent
   condemned people to the poison-tree to gather it).
-- The **monsters** — the poison-mutated beasts of the hunt. `[for David]`
+- The **monsters** — the beasts of the hunt, mutated by the poison. `[for David]`
 - The **stair** — how many levels, and what is at the stone.
 - The **mutation** — how the alchemical sickness works on the party the closer they
   get, and how to track it.
 - The **level**, and where it sits on the itinerary.
-- The **name-taking mechanic** — the window when a fruit opens.
-- What the party **recovers**, and how the demons are statted.
+- What the party **recovers** besides the name.
+- Whether **Brauron's founder** came out of this tree (see the run sheet).
 
 ---
 
@@ -124,19 +123,18 @@ struck down, a tree from the wound); the [Juniper Tree](../../../../handouts/the
 > the eyes and is hard to breathe. The tree is muttering to itself — a low, steady
 > voice that does not stop.*
 
-Everything else in this note is behind that. The party has to work it out.
+The party has to work out everything else in this note.
 
 ---
 
 ## The tree
 
 **The fruit.** Huge fruits grow on the tree, and inside each one is a baby demon.
-When a fruit splits open, the newborn is out in the open for a moment before it comes
-to itself — the window to name it (below, and the
-[Three Citrons](../../../../handouts/the-three-citrons.md)).
+When a fruit splits open, the newborn is out in the open and talking before it comes
+to itself. See [what comes out of the fruit](#what-comes-out-of-the-fruit), below.
 
 **The voice.** The muttering is a mind — the mind of the dead god the tree grew from
-(below). It can be spoken to (Speak with Plants, or anything like it). It lies and grieves, and it calls the demons its children. The party can deal with it by talking
+(below). It can be spoken to (Speak with Plants, or anything like it). It gives false answers, it mourns, and it calls the demons its children. The party can deal with it by talking
 instead of fighting. `[OPEN]` its voice — what it wants, what it lies about, what it
 will trade.
 
@@ -145,15 +143,81 @@ foot of the stair (see the descent, below).
 
 ---
 
+## What comes out of the fruit
+
+**It talks, and everything it says is something it has heard.** A newborn demon comes
+out speaking and has no words of its own. What it has heard is the tree's muttering and
+the stories the tree's children have carried out of here for as long as the tree has
+fruited — the stories the party watched acted out in the square at
+[Brauron](the-peach-town.md) three days before. The newborn says them back.
+
+Read these out word for word. They are the texts on the statue base and the fountain in
+town:
+
+> *"Wait a bit, old man!"*
+> — [Momotarō](../../../../handouts/momotaro.md). The boy says it from inside the peach
+> as it splits. It is cut into the base of the statue in the square.
+
+> *"Give me to drink!"*
+> — [the Three Citrons](../../../../handouts/the-three-citrons.md). The maiden says it
+> when the fruit is cut. The fountain in the square is carved with the moment.
+
+> *its spathes are as the heads of Satans*
+> — [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md), Arberry, 37:65. It is also a
+> verse on the stair below.
+
+`[quotations]` All three are real translated texts. Say them as written — don't smooth
+the wording out, and leave them alone on a style pass.
+
+**The water.** In the tale the maiden asks for water and is gone
+when it does not come quickly enough. Here the newborn asks, and the answer decides
+whether the party gets anything:
+
+- **Water, in the round it asks** — it keeps talking, and goes on talking as long as
+  someone keeps pouring. The party has only the water in the skins they carried across
+  the deadland. This is what the town does at the fountain, where three stone maidens stand
+  under running water and have for centuries.
+- **No water** — it stops speaking and hardens. After that it guards its name, and it
+  fights or goes into the ground.
+
+**The name.** It says its own name in its first breath, in among the quotations, and it
+will say it again to anyone who asks while it is still wet. It has not learned that a
+name is a thing to keep. No roll: read the speech out and let the table catch the one
+word that is not a quotation.
+
+**Or the party names it.** A newborn answers to whatever it is first called. Name it
+before it names itself and the given name is its true name, and binds like any other.
+If they name it first, the name holds and Preem pays for it.
+
+**What steps out.** In every one of the town's stories a child steps out of the fruit,
+so a child steps out here. Once it hardens it is a **Quasit** (CR 1); its shape after
+that is the DM's call. See [the roster](../../../nila/bestiary/available-demons.md).
+
+**Fruit that already split.** Fruits split whether or not anyone is standing there. What
+came out of the split fruits on the ground hardened days or years ago and does not
+talk: **Manes** (CR 1/8) and **Dretch** (CR 1/4), in the branches and down among the
+roots. They are what the party fights at the tree.
+
+**More than one fruit.** Preem pays for one name. Every fruit past the first is a demon
+loose in the world that heard the party's voices first. `[OPEN]` whether one comes
+back.
+
+`[proposed]` **Brauron's founder came out of this tree.** A fruit carried out of the
+poison land, and an old couple who gave it water and raised it. The party can work it
+out from the lines the newborn says. Decide before the arc runs — it changes the
+town's founding story.
+
+---
+
 ## The land around it
 
 No one lives here; the land is ancient and worn out, and the air near the tree is
 poison (see [Anchar](../../../../handouts/anchar.md)). The poison is the tree's **alchemical
-sickness**, and it works on anything that stays in it — the animals here are what it mutated them into. `[for David]` pick the set of monsters the party meets on the hunt.
+sickness**, and it works on anything that stays in it — the animals here have been mutated by it. `[for David]` pick the set of monsters the party meets on the hunt.
 
 `[proposed mechanic]` It works on the party too. The closer they get and the longer
 they stay, the more it mutates them — worst at the tree, worse still down the stair,
-where they are standing on the source. Get in and out quickly.
+where they are standing on the source.
 
 `[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness
 his people were mutated by, so it strengthens him instead of changing him — more so the
