@@ -17,27 +17,27 @@ status: draft
 ---
 
 > Part of the Brauron quest — the town the party comes in through, at the edge of the
-> poison land. See [the hell-tree](the-hell-tree.md) (the tree itself) and
+> poison deadland. See [the hell-tree](the-hell-tree.md) (the tree itself) and
 > [the game preserve](the-game-preserve.md) (the hunt).
 
 **Brauron** is the last town before the poison deadland, on the coast north of
 [Raand](../../../nila/lore/nila-atlas.md). It is a town of **dragon-descended gnome artisans and
 performers**, where the hunters and pilgrims gather and where the **priestesses of
-Artemis** keep their temple. The town was founded by the Momotarō peach-boy: a peach
-grove rings it, the founder's statue stands in the square, and the gnomes act the
-stories of children born from fruit out in the streets.
+Artemis** keep their temple. The town was founded by Momotarō, who came out of a fruit of [the hell-tree](the-hell-tree.md)
+([the founding](../lore/the-founding-of-brauron.md)): a peach grove rings the town, the
+founder's statue stands in the square, and the gnomes act the stories of children born
+from fruit out in the streets.
 
 `[name]` Brauron `[settled]` — the real Artemis sanctuary where girls served as bears,
 the rite the town keeps. The name is Greek, not Norse: the Norse map-names (Raand, Aar,
-Suartleheim) came with the Muspel empire, and this town predates it, the way Lonka and
-Kalikhat keep their older names. The cult's name is literal: **the cult of Artemis**,
-word for word.
+Suartleheim) came with the Muspel empire, and this town predates it. Lonka and Kalikhat also keep older
+names. The cult's name is literal: **the cult of Artemis**.
 
 ---
 
 ## The people
 
-Gnome artisans and performers, dragon-descended like [Raand](../../../nila/lore/nila-atlas.md).
+Gnome artisans and performers, dragon-descended, as in [Raand](../../../nila/lore/nila-atlas.md).
 They carve, build, and act. A child born from a fruit is their holy story. It appears in the
 grove, the statue, the fountain, and the plays.
 
@@ -86,9 +86,13 @@ The founding: **[Momotarō](../../../../handouts/momotaro.md)**, a childless cou
 boy inside a peach and raise the town with him. The gnomes act it in the street in
 kabuki masks; the statue is the boy; the Momotarō text is cut into the base.
 
+`[DM]` The town really was founded by the boy from the peach, and the boy was a demon
+out of [the hell-tree](the-hell-tree.md). See
+[the founding of Brauron](../lore/the-founding-of-brauron.md).
+
 `[DM]` The line on the base — *"Wait a bit, old man!"* — is one of the lines a newborn
-demon says at [the hell-tree](the-hell-tree.md). Read it out here; the same line comes
-back at the tree.
+demon says at [the hell-tree](the-hell-tree.md). Read it out here; the same line is used
+again at the tree.
 
 ---
 
@@ -103,8 +107,7 @@ citron begging for water, and vanishes if she is not given it at once. The fount
 carving shows that moment.
 
 `[DM]` At [the hell-tree](the-hell-tree.md) a newborn demon asks for water and stops
-talking when it does not get it. Here in town the water has never stopped running over
-the carved maiden's mouth.
+talking when it does not get it. The fountain here runs water over her mouth all day.
 
 ---
 

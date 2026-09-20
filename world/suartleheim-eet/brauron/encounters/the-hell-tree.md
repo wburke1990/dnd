@@ -44,8 +44,7 @@ and cannot be controlled, so Preem cannot own it or work it himself.
 
 Long ago, in the **first pass** (the first age of the world), a comet-stone fell here.
 A comet-stone normally grows into a god — a cosmic beast that a people descends from
-(see [lineages & afterlives](../../../nila/lore/lineages-and-afterlives.md)). This one never got
-the chance: the **True Giants** — the world's oldest people, who become mountains
+(see [lineages & afterlives](../../../nila/lore/lineages-and-afterlives.md)). This one did not: the **True Giants** — the world's oldest people, who become mountains
 when they die — tore it apart before it could land and take root. (That is the killing in
 [Kronos and Uranus](../../../../handouts/kronos-and-uranus.md): a sky-god killed, a tree
 grown from the wound.) A tree grew up where the torn body fell, and its mind stayed
@@ -73,7 +72,7 @@ already saw:
   table, out of order, two days before they reach the tree.
 - **The myths line up.** The stories they met in [Brauron](the-peach-town.md) — the
   temple images, the statue, the fountain — and the texts on the shrines and the stair
-  are all about this tree: the god struck down, the child that comes out of the fruit.
+  are all about this tree: the god killed, the child that comes out of the fruit.
 
 ---
 
@@ -96,7 +95,8 @@ god, and whether it happened more than once.
   get, and how to track it.
 - The **level**, and where it sits on the itinerary.
 - What the party **recovers** besides the name.
-- Whether **Brauron's founder** came out of this tree (see the run sheet).
+- The **founder of Brauron**, who came out of this tree — see
+  [the founding of Brauron](../lore/the-founding-of-brauron.md), which is unfinished.
 
 ---
 
@@ -105,7 +105,7 @@ god, and whether it happened more than once.
 [Anchar](../../../../handouts/anchar.md) (a lone poison-tree); the Qur'an's
 [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md) (a tree in the root of hell, its fruit the
 heads of devils); [Kronos and Uranus](../../../../handouts/kronos-and-uranus.md) (a sky-god
-struck down, a tree from the wound); the [Juniper Tree](../../../../handouts/the-juniper-tree.md)
+killed, a tree from the wound); the [Juniper Tree](../../../../handouts/the-juniper-tree.md)
 (a dead soul living on in a tree); and [Momotarō](../../../../handouts/momotaro.md), the
 [Three Citrons](../../../../handouts/the-three-citrons.md),
 [Attis](../../../../handouts/the-birth-of-attis.md),
@@ -252,7 +252,7 @@ town:
 `[quotations]` All three are real translated texts. Say them as written — don't smooth
 the wording out, and leave them alone on a style pass.
 
-**The water.** In the tale the maiden asks for water and is gone
+**The water.** In the tale the maiden asks for water and vanishes
 when it does not come quickly enough. Here the newborn asks, and the answer decides
 whether the party gets anything:
 
@@ -263,7 +263,7 @@ whether the party gets anything:
 - **No water** — it stops speaking and hardens. After that it guards its name, and it
   fights or goes into the ground.
 
-**The name.** It says its own name in its first breath, in among the quotations, and it
+**The name.** It says its own name the first time it speaks, in among the quotations, and it
 will say it again to anyone who asks while it is still wet. It has not learned that a
 name is a thing to keep. No roll: read the speech out and let the table catch the one
 word that is not a quotation.
@@ -285,10 +285,10 @@ roots. They are what the party fights at the tree.
 loose in the world that heard the party's voices first. `[OPEN]` whether one comes
 back.
 
-`[proposed]` **Brauron's founder came out of this tree.** A fruit carried out of the
-poison land, and an old couple who gave it water and raised it. The party can work it
-out from the lines the newborn says. Decide before the arc runs — it changes the
-town's founding story.
+`[settled]` **Brauron's founder came out of this tree.** Someone carried a fruit out of
+the poison deadland, gave it water, and raised what came out. The party can work it out
+from the lines the newborn says. See
+[the founding of Brauron](../lore/the-founding-of-brauron.md).
 
 ---
 
@@ -299,7 +299,7 @@ poison (see [Anchar](../../../../handouts/anchar.md)). The poison is the tree's 
 sickness**, and it works on anything that stays in it — the animals here have been mutated by it. `[for David]` pick the set of monsters the party meets on the hunt.
 
 `[proposed mechanic]` It works on the party too. The closer they get and the longer
-they stay, the more it mutates them — worst at the tree, worse still down the stair,
+they stay, the more it mutates them — worse at the tree, worst at the foot of the stair,
 where they are standing on the source.
 
 `[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness

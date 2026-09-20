@@ -1,5 +1,5 @@
 ---
-summary: The cult of Artemis hunt in the poison wild outside Brauron
+summary: The cult of Artemis hunt in the poison deadland outside Brauron
 status: draft
 ---
 
@@ -16,7 +16,7 @@ status: draft
 
 ---
 
-> The middle of the Brauron quest — the poison wild between the town and
+> The middle of the Brauron quest — the poison deadland between the town and
 > [the hell-tree](the-hell-tree.md). The party gets in through the hunt, then leaves
 > it and crosses to the tree alone. Read [the hell-tree](the-hell-tree.md) first; the
 > town is [Brauron](the-peach-town.md).
@@ -28,8 +28,7 @@ of the season, and [the hell-tree](the-hell-tree.md) stands at the center of it,
 where no hunter goes. The party joins the hunt to get past the fence, then breaks off
 and crosses to the tree alone.
 
-Source for the approach: *Heart of Darkness* — the way in gets worse the closer it
-comes to the tree at the center.
+Source for the approach: *Heart of Darkness*.
 
 ## The hunt
 
@@ -42,7 +41,7 @@ season. Two strands:
   is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
 
 The hunters ride **great hounds** and wear **hound-pelts**. `[proposed]` the hounds
-are big enough for a gnome to ride — the pack of the Actaeon rite.
+are big enough for a gnome to ride.
 
 The hunt stays out in the wild and **never goes near the tree.** The tree is holy
 ground, and no hunter enters it. The hunters come and go for the season and never
@@ -62,16 +61,17 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
   stag, below) — or they slip in. Calix rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
 - **The other crews** turn up if they can pay their way there ([how each crew moves](../../maalm/encounters/tavern-rival-crews.md)):
   the crews with money reach the hunt; the [Brass Jackals](../../maalm/encounters/tavern-rival-crews.md) only if
-  their boat survives the crossing. Rival crews are what the party run into out in the
-  wild, and the party finds the bodies of the crews that lost.
+  their boat survives the crossing. The party runs into rival crews out in the
+  deadland, and finds the bodies of the crews that lost.
 - `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at
   the party in [Session 10](../../../../sessions/session-10.md) — they finished the Valley without
-  missing a name, so it fits.
+  missing a name.
 
 ## What still needs building
 
 - The **rules of the hunt** at the table — the two strands.
-- The **stages** of the approach — the shrines, the bird, the mutation clock.
+- The **stages** of the approach — the shrines, the bird, and how the mutation is
+  tracked.
 - **Level** and placement.
 - What the party **recovers** at the tree — see [the hell-tree](the-hell-tree.md).
 
@@ -106,7 +106,7 @@ that.
   one the party can afford.
 - **Slip in** past the fence.
 
-Once inside, the party leaves the hunt and crosses the poison land to the tree alone,
+Once inside, the party leaves the hunt and crosses the poison deadland to the tree alone,
 while the hunt runs on out in the wild, far from the tree.
 
 `[OPEN]` the rules of the hunt at the table.
@@ -115,9 +115,9 @@ while the hunt runs on out in the wild, far from the tree.
 
 ## The approach to the tree
 
-The way in gets worse the closer they come — the poison thicker, the mutated beasts
-worse (see [the hell-tree](the-hell-tree.md)), and the sickness starting to work on
-the party themselves. **Get in and out quickly.**
+The closer they come, the thicker the poison, the worse the mutated beasts (see
+[the hell-tree](the-hell-tree.md)), and the sickness starts to work on the party
+themselves.
 
 ### Read aloud — a shrine on the way
 
