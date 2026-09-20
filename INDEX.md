@@ -311,7 +311,9 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
+| [a poison tree](handouts/a-poison-tree.md) | `reference` | Blake, "A Poison Tree" — anger watered until it bears fruit, and the enemy dead under it |
 | [actaeon](handouts/actaeon.md) | `reference` | Ovid, "Metamorphoses" Bk 3, trans. Golding — Diana turns Actaeon to a stag; his hounds kill him |
+| [aeneid polydorus](handouts/aeneid-polydorus.md) | `reference` | Aeneid III — Aeneas pulls shoots from a mound and the buried boy speaks |
 | [anchar](handouts/anchar.md) | `reference` | Pushkin, "Anchar" (The Upas Tree) — a poison tree in the desert, in two English translations |
 | [because i could not stop for death](handouts/because-i-could-not-stop-for-death.md) | `reference` | Emily Dickinson, "Because I could not stop for Death" — incantation for a Speak with Dead rite |
 | [callimachus hymn to artemis](handouts/callimachus-hymn-to-artemis.md) | `reference` | Callimachus, Hymn 3, trans. Mair — the child Artemis asks her father for the mountains |
@@ -328,23 +330,30 @@ Sailing, weather, fleets and what lives in the water.
 | [do not stand at my grave](handouts/do-not-stand-at-my-grave.md) | `reference` | Mary Elizabeth Frye, "Do Not Stand at My Grave and Weep" — carved over the Verdant Fist graves |
 | [dragon hoard warning](handouts/dragon-hoard-warning.md) | `reference` | Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard |
 | [ezekiel 21 belomancy](handouts/ezekiel-21-belomancy.md) | `reference` | Ezekiel 21 in the King James — the king at the parting of the way, taking three omens at once |
+| [goblin market](handouts/goblin-market.md) | `reference` | Rossetti, "Goblin Market" — the goblins' selling cry, and what the fruit does to Laura |
+| [havamal the windy tree](handouts/havamal-the-windy-tree.md) | `reference` | Hávamál 138-141, trans. Bellows — Odin hung nine nights on the tree, given to himself |
 | [homer the sacrifice](handouts/homer-the-sacrifice.md) | `reference` | Homer on making a sacrifice, trans. Murray — washed hands, barley, and a lock of hair burned |
 | [hymn to artemis](handouts/hymn-to-artemis.md) | `reference` | Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White |
 | [iliad blood on the ground](handouts/iliad-blood-on-the-ground.md) | `reference` | Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles |
+| [inferno wood of suicides](handouts/inferno-wood-of-suicides.md) | `reference` | Inferno XIII — the wood where the dead are trees and speak only when broken |
 | [into my heart an air that kills](handouts/into-my-heart-an-air-that-kills.md) | `reference` | Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat |
 | [invictus](handouts/invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |
 | [iphigenia at aulis](handouts/iphigenia-at-aulis.md) | `reference` | Euripides, "Iphigenia at Aulis," trans. Coleridge — the garlands, and a deer on the altar |
+| [isaiah 14 fallen from heaven](handouts/isaiah-14-fallen-from-heaven.md) | `reference` | Isaiah 14 in the King James — the king brought down to the pit, and hell stirred up to meet him |
+| [job 14 hope of a tree](handouts/job-14-hope-of-a-tree.md) | `reference` | Job 14 in the King James — a cut tree grows back, and a dead man does not rise |
 | [kronos and uranus](handouts/kronos-and-uranus.md) | `reference` | Hesiod, "Theogony," trans. Evelyn-White — the sickle, the blood, and the ash-tree nymphs |
 | [last kings lament](handouts/last-kings-lament.md) | `reference` | Lament of Amseh IV, the last king — given in the Tomb 4 inner chamber over the little coffins |
 | [locksley hall vision](handouts/locksley-hall-vision.md) | `reference` | Tennyson, "Locksley Hall" — tomb inscription on Musa's watch-stone at the landing port |
 | [lysistrata the bear](handouts/lysistrata-the-bear.md) | `reference` | Aristophanes, "Lysistrata" 638-651, trans. Lindsay — a girl was a Bear at Brauron |
 | [momotaro](handouts/momotaro.md) | `reference` | Momotaro, from Ozaki's "Japanese Fairy Tales" — a child steps out of a peach |
 | [on ragnarok 1](handouts/on-ragnarok-1.md) | `reference` | Alan Gould, "Krakatoa" — an ancient scroll, Musa's ship's log of the night the star fell |
+| [ovid myrrha and adonis](handouts/ovid-myrrha-and-adonis.md) | `reference` | Metamorphoses X, trans. Golding — a woman turns to a tree, the bark splits, a child comes out |
 | [psalm 91](handouts/psalm-91.md) | `reference` | Psalm 91 in the King James — incantation for Forbiddance, a warded sanctuary |
 | [ramses victory dijay](handouts/ramses-victory-dijay.md) | `reference` | Ramses III's victory inscriptions, opening on the bleeding star — the Tomb 3 inner chamber |
 | [recessional](handouts/recessional.md) | `reference` | Kipling, "Recessional" — lament over the drowned caldera of Lonka, placement open |
 | [requiem](handouts/requiem.md) | `reference` | R. L. Stevenson, "Requiem" — the inscription on Idris the Tide-Strong's watch-stone |
 | [revelation 6 pale horse](handouts/revelation-6-pale-horse.md) | `reference` | Revelation 6 in the King James — the pale horse, cut into Musa's watch-stone |
+| [rock a bye baby](handouts/rock-a-bye-baby.md) | `reference` | The nursery rhyme — a baby asleep in a treetop, the bough breaks, and it falls |
 | [seafarer grave gold](handouts/seafarer-grave-gold.md) | `reference` | Old English "The Seafarer," trans. Pound — a tomb warning that grave-gold is no use to the dead |
 | [shipwrecked sailor](handouts/shipwrecked-sailor.md) | `reference` | The Egyptian Tale of the Shipwrecked Sailor — the Tomb 2 inner chamber text |
 | [shop price list](handouts/shop-price-list.md) | `reference` | 5e price tables for shops, taverns, gear, mounts, and spellcasting services |
@@ -361,6 +370,7 @@ Sailing, weather, fleets and what lives in the water.
 | [the three citrons](handouts/the-three-citrons.md) | `reference` | Basile, "The Three Citrons," trans. Burton — a maiden bursts from a cut citron |
 | [the tide rises the tide falls](handouts/the-tide-rises-the-tide-falls.md) | `reference` | Longfellow, "The Tide Rises, the Tide Falls" — grave inscription, placement open |
 | [the tree of zaqqum](handouts/the-tree-of-zaqqum.md) | `reference` | The Qur'an on Zaqqum, the tree that grows in Hell — Arberry and Sahih translations |
+| [the twa sisters](handouts/the-twa-sisters.md) | `reference` | The Twa Sisters (Child 10) — a harp strung from a drowned girl's bones names her killer |
 | [the tyger](handouts/the-tyger.md) | `reference` | Blake, "The Tyger" — for a Rakshasa temple in Jotunheim or northeastern Muspelheim |
 | [the wanderer lament](handouts/the-wanderer-lament.md) | `reference` | Old English "The Wanderer" — Musleheim elegy, recited by Annibel in her cups |
 | [theres no earthly way of knowing](handouts/theres-no-earthly-way-of-knowing.md) | `reference` | Roald Dahl, "There's no earthly way of knowing" — the text behind the river with no downstream |

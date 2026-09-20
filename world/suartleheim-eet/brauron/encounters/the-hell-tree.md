@@ -66,9 +66,11 @@ already saw:
 - **The tree grew from a dead god** — the torn ground and old giant-work around the
   tree, and the broken comet-stone at the foot of the stair. See
   [Kronos/Uranus](../../../../handouts/kronos-and-uranus.md).
-- **The tree is alive** — it talks. See the [Juniper Tree](../../../../handouts/the-juniper-tree.md).
-  They hear it first from the [mockingbird](the-game-preserve.md) on the approach,
-  which learned to copy the muttering.
+- **The tree is alive** — it talks. See the [Juniper Tree](../../../../handouts/the-juniper-tree.md)
+  and **the gibbering** in the run sheet. They hear it first from the
+  [mockingbird](the-game-preserve.md) on the approach, which learned to copy the
+  muttering — give the bird three or four lines from the
+  table, out of order, two days before they reach the tree.
 - **The myths line up.** The stories they met in [Brauron](the-peach-town.md) — the
   temple images, the statue, the fountain — and the texts on the shrines and the stair
   are all about this tree: the god struck down, the child that comes out of the fruit.
@@ -77,9 +79,9 @@ already saw:
 
 ## A note on canon
 
-This adds one new thing to the world: **the giants killed a god.** Everywhere else the
-[True Giants](../../../nila/lore/lineages-and-afterlives.md) are quiet — they become
-mountains when they die. Here they killed, once. Keep that straight. `[OPEN]` why they killed this
+This adds one new thing to the world: **the giants killed a god.** No other story has the
+[True Giants](../../../nila/lore/lineages-and-afterlives.md) killing anything — they become
+mountains when they die. Here they killed a god. Keep that straight. `[OPEN]` why they killed this
 god, and whether it happened more than once.
 
 ---
@@ -106,8 +108,30 @@ heads of devils); [Kronos and Uranus](../../../../handouts/kronos-and-uranus.md)
 struck down, a tree from the wound); the [Juniper Tree](../../../../handouts/the-juniper-tree.md)
 (a dead soul living on in a tree); and [Momotarō](../../../../handouts/momotaro.md), the
 [Three Citrons](../../../../handouts/the-three-citrons.md),
-[Attis](../../../../handouts/the-birth-of-attis.md), and
-[Thumbelina](../../../../handouts/thumbelina.md) (a child born out of a fruit).
+[Attis](../../../../handouts/the-birth-of-attis.md),
+[Thumbelina](../../../../handouts/thumbelina.md), and Ovid's
+[Myrrha](../../../../handouts/ovid-myrrha-and-adonis.md) (a child born out of a fruit
+or out of the wood itself).
+
+The tree's lines are built out of these, and the table is in the run sheet below:
+[Polydorus](../../../../handouts/aeneid-polydorus.md) (a murdered boy speaking from
+the root of the thicket grown out of him);
+[Inferno XIII](../../../../handouts/inferno-wood-of-suicides.md) (the dead kept as
+trees, who speak only when they are broken);
+[Hávamál](../../../../handouts/havamal-the-windy-tree.md) (a god nine nights on a
+tree, wounded with a spear, given to himself);
+[Isaiah 14](../../../../handouts/isaiah-14-fallen-from-heaven.md) (the king brought
+down to the pit, and hell stirring up its dead to meet him);
+[Job 14](../../../../handouts/job-14-hope-of-a-tree.md) (a cut tree grows back and a dead
+man does not rise);
+[A Poison Tree](../../../../handouts/a-poison-tree.md) (a grievance watered until it
+fruits, and the enemy dead beneath it);
+[Rock-a-bye baby](../../../../handouts/rock-a-bye-baby.md) (a baby asleep in a
+treetop, and the bough breaks);
+[Goblin Market](../../../../handouts/goblin-market.md) (fruit
+called out by name, and what eating it does); and
+[The Twa Sisters](../../../../handouts/the-twa-sisters.md) (a harp strung from a
+drowned girl that says the killer's name without being asked).
 
 ---
 
@@ -135,19 +159,78 @@ to itself. See [what comes out of the fruit](#what-comes-out-of-the-fruit), belo
 
 **The voice.** The muttering is a mind — the mind of the dead god the tree grew from
 (below). It can be spoken to (Speak with Plants, or anything like it). It gives false answers, it mourns, and it calls the demons its children. The party can deal with it by talking
-instead of fighting. `[OPEN]` its voice — what it wants, what it lies about, what it
-will trade.
+instead of fighting. The lines it mutters are in **the gibbering**, below.
+`[OPEN]` its voice — what it wants, what it lies about, what it will trade. The
+gibbering does not settle that; it is what the tree says when nobody has asked it
+anything.
 
 **The comet, far down.** The stone the tree grew from is deep underground now, at the
 foot of the stair (see the descent, below).
 
 ---
 
+## The gibbering
+
+The tree talks the whole time the party is there, to itself, and does not stop for
+them. Roll d20 or pick. Repeat lines — say one twice in a row, come back to one from
+ten minutes ago, break off in the middle and start a different one. It does not answer
+a question until somebody casts Speak with Plants, and it goes on muttering underneath
+the answer.
+
+**Say the Juniper lines first** (1–3). The [mockingbird](the-game-preserve.md) on the
+approach has already sung them two days out.
+
+`[quoted]` is real text, said as written. **Do not rewrite these, and do not smooth
+them out** — they are quotations, and the house style does not govern them (see
+CLAUDE.md). `[built]` is ours, made out of the source next to it.
+
+Rows 4, 6, 8 and 9 are `[built]` only because their handouts are still
+`[to transcribe]`. Once the real translations are in, swap in the translator's
+words and mark them `[quoted]`.
+
+| d20 | What it says | Where it is from |
+|---|---|---|
+| 1 | "My mother she killed me. My father he ate me." | `[quoted]` [Juniper Tree](../../../../handouts/the-juniper-tree.md) |
+| 2 | "Gathered together all my bones, tied them in a silken handkerchief." | `[quoted]` [Juniper Tree](../../../../handouts/the-juniper-tree.md) |
+| 3 | "Kywitt, kywitt. What a beautiful bird am I." | `[quoted]` [Juniper Tree](../../../../handouts/the-juniper-tree.md) |
+| 4 | "Why dost thou tear me? Spare me in my grave." | `[built]` [Polydorus](../../../../handouts/aeneid-polydorus.md) |
+| 5 | "The spears they put in me took root." | `[built]` [Polydorus](../../../../handouts/aeneid-polydorus.md) |
+| 6 | "We were men once. Now we are stocks." | `[built]` [Inferno XIII](../../../../handouts/inferno-wood-of-suicides.md) |
+| 7 | "They will bring our bodies back and hang them on us." | `[built]` [Inferno XIII](../../../../handouts/inferno-wood-of-suicides.md) |
+| 8 | "I hung on the windy tree. Nine nights." | `[built]` [Hávamál](../../../../handouts/havamal-the-windy-tree.md) |
+| 9 | "Given to myself. Myself to myself." | `[built]` [Hávamál](../../../../handouts/havamal-the-windy-tree.md) |
+| 10 | "How art thou fallen from heaven." | `[quoted]` [Isaiah 14](../../../../handouts/isaiah-14-fallen-from-heaven.md) |
+| 11 | "Cut down to the ground. Cut down to the ground." | `[quoted]` [Isaiah 14](../../../../handouts/isaiah-14-fallen-from-heaven.md) |
+| 12 | "There is hope of a tree, if it be cut down, that it will sprout again." | `[quoted]` [Job 14](../../../../handouts/job-14-hope-of-a-tree.md) |
+| 13 | "But man dieth, and wasteth away. And where is he." | `[quoted]` [Job 14](../../../../handouts/job-14-hope-of-a-tree.md) |
+| 14 | "When the bough breaks, the cradle will fall." | `[quoted]` [Rock-a-bye baby](../../../../handouts/rock-a-bye-baby.md) |
+| 15 | "Down will come baby. Cradle and all." | `[quoted]` [Rock-a-bye baby](../../../../handouts/rock-a-bye-baby.md) |
+| 16 | "Come buy. Come buy." | `[quoted]` [Goblin Market](../../../../handouts/goblin-market.md) |
+| 17 | "Apples and quinces. Lemons and oranges. Plump unpecked cherries." | `[quoted]` [Goblin Market](../../../../handouts/goblin-market.md) |
+| 18 | "They made a harp out of her breast-bone. It said the name of the man who killed her." | `[built]` [The Twa Sisters](../../../../handouts/the-twa-sisters.md) |
+| 19 | "The bark split and the child came out." | `[built]` [Myrrha](../../../../handouts/ovid-myrrha-and-adonis.md) |
+| 20 | "Mine. All of them mine." | `[built]` the tree, on the demons |
+
+**When something happens, drop the roll and use the line that fits.**
+
+- A fruit splits: 14, 15, 19.
+- Somebody cuts, pulls, or digs: 4, 5.
+- Somebody names a fruit: 20.
+- Down the stair, the closer to the stone: 6, 7, 10, 11, 12, 13. The
+  [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md) verses stay on the levels,
+  one a level, as below.
+
+`[OPEN]` whether the tree goes quiet unless something breaks it, as in Inferno XIII.
+Then there is nothing muttering on the approach and nothing for the mockingbird to
+copy, so it is written the other way here.
+
+---
+
 ## What comes out of the fruit
 
 **It talks, and everything it says is something it has heard.** A newborn demon comes
-out speaking and has no words of its own. What it has heard is the tree's muttering and
-the stories the tree's children have carried out of here for as long as the tree has
+out speaking and has no words of its own. What it has heard is the tree's muttering —
+**the gibbering**, above — and the stories the tree's children have carried out of here for as long as the tree has
 fruited — the stories the party watched acted out in the square at
 [Brauron](the-peach-town.md) three days before. The newborn says them back.
 
@@ -211,7 +294,7 @@ town's founding story.
 
 ## The land around it
 
-No one lives here; the land is ancient and worn out, and the air near the tree is
+No one lives here, the ground is bare, and the air near the tree is
 poison (see [Anchar](../../../../handouts/anchar.md)). The poison is the tree's **alchemical
 sickness**, and it works on anything that stays in it — the animals here have been mutated by it. `[for David]` pick the set of monsters the party meets on the hunt.
 
@@ -229,8 +312,7 @@ closer he gets, more so again down the stair. See
 ## The descent — the stair to the stone
 
 At the base of the tree a **stair goes down**, following the roots into the earth, and
-ends far below at the **broken stone** — the comet-stone the god was, all that is left of
-him.
+ends far below at the **broken stone** — the comet-stone the god was.
 
 The party goes down it a level at a time. Each level carries one verse of the Qur'an's
 **[Zaqqum](../../../../handouts/the-tree-of-zaqqum.md)** in Arberry's words — *a tree that comes
