@@ -70,7 +70,7 @@ already saw:
   [mockingbird](the-game-preserve.md) on the approach, which learned to copy the
   muttering — give the bird three or four lines from the
   table, out of order, two days before they reach the tree.
-- **The myths line up.** The stories they met in [Brauron](the-peach-town.md) — the
+- **The myths match.** The stories they met in [Brauron](the-peach-town.md) — the
   temple images, the statue, the fountain — and the texts on the shrines and the stair
   are all about this tree: the god killed, the child that comes out of the fruit.
 
@@ -265,8 +265,8 @@ whether the party gets anything:
 
 **The name.** It says its own name the first time it speaks, in among the quotations, and it
 will say it again to anyone who asks while it is still wet. It has not learned that a
-name is a thing to keep. No roll: read the speech out and let the table catch the one
-word that is not a quotation.
+name is a thing to keep. No roll: read the speech out. The name is the one word in it
+that is not a quotation.
 
 **Or the party names it.** A newborn answers to whatever it is first called. Name it
 before it names itself and the given name is its true name, and binds like any other.
@@ -281,9 +281,9 @@ came out of the split fruits on the ground hardened days or years ago and does n
 talk: **Manes** (CR 1/8) and **Dretch** (CR 1/4), in the branches and down among the
 roots. They are what the party fights at the tree.
 
-**More than one fruit.** Preem pays for one name. Every fruit past the first is a demon
-loose in the world that heard the party's voices first. `[OPEN]` whether one comes
-back.
+**More than one fruit.** Preem pays for one name. Every fruit past the first is another
+demon loose in the world, and the party's voices are the first it heard. `[OPEN]`
+whether one comes back.
 
 `[settled]` **Brauron's founder came out of this tree.** Someone carried a fruit out of
 the poison deadland, gave it water, and raised what came out. The party can work it out
@@ -300,7 +300,7 @@ sickness**, and it works on anything that stays in it — the animals here have 
 
 `[proposed mechanic]` It works on the party too. The closer they get and the longer
 they stay, the more it mutates them — worse at the tree, worst at the foot of the stair,
-where they are standing on the source.
+where the stone is.
 
 `[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness
 his people were mutated by, so it strengthens him instead of changing him — more so the
@@ -312,14 +312,61 @@ closer he gets, more so again down the stair. See
 ## The descent — the stair to the stone
 
 At the base of the tree a **stair goes down**, following the roots into the earth, and
-ends far below at the **broken stone** — the comet-stone the god was.
+ends far below at the **broken stone** — the comet-stone, the god's body.
 
 The party goes down it a level at a time. Each level carries one verse of the Qur'an's
 **[Zaqqum](../../../../handouts/the-tree-of-zaqqum.md)** in Arberry's words — *a tree that comes
 forth in the root of Hell*. `[proposed]` the As-Saffat run (37:62–68), one verse a level, ending on
 the stone.
 
-`[OPEN]` how many levels, and what is at the stone.
+`[OPEN]` how many levels, and what else is at the stone.
+
+---
+
+## How the stone defends itself `[proposed — Will 9/20]`
+
+The stone drives them back up the stair. It cannot move and it cannot strike, so it
+casts illusions until they leave.
+
+**[*Major Image*](https://dnd2024.wikidot.com/spell:major-image) does no damage.** The
+spell cannot hurt anyone, and a character who touches it or takes the Study action makes
+an Intelligence (Investigation) check against the save DC, after which it goes
+see-through. It is for the stair — a wall across the steps, or the way up replaced with
+solid rock.
+
+**Three illusions do damage. All three are psychic, and land only on somebody who takes
+the illusion for real.**
+
+- [*Phantasmal Force*](https://dnd2024.wikidot.com/spell:phantasmal-force) — one
+  character, 1d6 psychic a turn, Intelligence save. Nobody else can see it.
+- [*Phantasmal Killer*](https://dnd2024.wikidot.com/spell:phantasmal-killer) — one
+  character, frightened, 4d10 psychic at the end of each of its turns, Wisdom save,
+  concentration. One character at a time.
+- [*Weird*](https://dnd2024.wikidot.com/spell:weird) — every character in a 30-foot
+  sphere, each one seeing something different, frightened, 4d10 psychic a turn. It hits
+  the whole party at once.
+
+A character who disbelieves takes nothing, so the stone cannot kill the party.
+
+**Before they arrive.** [*Dream*](https://dnd2024.wikidot.com/spell:dream) reaches a
+sleeper at any distance: a Wisdom save, 3d6 psychic and no benefit from the night's
+rest. The [mockingbird](the-game-preserve.md) already carries the tree's voice two days
+out. The stone can use this on them while they sleep in the deadland.
+
+**Running since the first pass.**
+[*Antipathy/Sympathy*](https://dnd2024.wikidot.com/spell:antipathy-sympathy) on the
+stone — anyone who sees it makes a Wisdom save or is frightened and has to move away.
+It runs for ten days at a time and needs nobody standing there to cast it, so it can
+have been on the stone since the giants tore the god apart.
+
+`[OPEN]` the party's level here, which decides how much of the list is legal:
+*Phantasmal Force* is 2nd, *Phantasmal Killer* 4th, *Dream* 5th, *Antipathy/Sympathy*
+8th, *Weird* 9th. The stone does not cast from spell slots — give it a fixed list and a
+number of uses a day.
+
+`[DM]` The Last Thinker fights with earth and stone ([his block](the-last-thinker.md))
+and the party meets him first, on the sail up. Keep this to illusion so the two fights
+do not run the same way.
 
 ---
 
