@@ -334,8 +334,8 @@ an Intelligence (Investigation) check against the save DC, after which it goes
 see-through. It is for the stair — a wall across the steps, or the way up replaced with
 solid rock.
 
-**Three illusions do damage. All three are psychic, and land only on somebody who takes
-the illusion for real.**
+**Three illusions do damage. All three are psychic, and land only on a character who
+believes it.**
 
 - [*Phantasmal Force*](https://dnd2024.wikidot.com/spell:phantasmal-force) — one
   character, 1d6 psychic a turn, Intelligence save. Nobody else can see it.
@@ -350,19 +350,35 @@ A character who disbelieves takes nothing, so the stone cannot kill the party.
 
 **Before they arrive.** [*Dream*](https://dnd2024.wikidot.com/spell:dream) reaches a
 sleeper at any distance: a Wisdom save, 3d6 psychic and no benefit from the night's
-rest. The [mockingbird](the-game-preserve.md) already carries the tree's voice two days
-out. The stone can use this on them while they sleep in the deadland.
+rest. The [mockingbird](the-game-preserve.md) already repeats the tree's muttering two
+days out. The stone can use this on them while they sleep in the deadland.
 
-**Running since the first pass.**
+**Always on.**
 [*Antipathy/Sympathy*](https://dnd2024.wikidot.com/spell:antipathy-sympathy) on the
 stone — anyone who sees it makes a Wisdom save or is frightened and has to move away.
 It runs for ten days at a time and needs nobody standing there to cast it, so it can
 have been on the stone since the giants tore the god apart.
 
+**Not picked, still on the list.**
+
+- [*Detect Thoughts*](https://dnd2024.wikidot.com/spell:detect-thoughts) (2nd) — read
+  them first, then put what it finds into the *Major Image*.
+- [*Programmed Illusion*](https://dnd2024.wikidot.com/spell:programmed-illusion) (3rd) —
+  the illusion shows the killing of the god, and repeats whenever somebody steps onto a
+  level. Cast once; it repeats without the stone casting again.
+- [*Modify Memory*](https://dnd2024.wikidot.com/spell:modify-memory) (5th) — they climb
+  out of the deadland without the name.
+- [*Mirage Arcane*](https://dnd2024.wikidot.com/spell:mirage-arcane) (7th) — rebuilds
+  the stair and the ground above it for ten days, and it is solid to the touch.
+- [*Project Image*](https://dnd2024.wikidot.com/spell:project-image) (7th) and
+  [*Seeming*](https://dnd2024.wikidot.com/spell:seeming) (5th) — a body on the stair for
+  the stone to talk through, since the stone itself cannot move.
+
 `[OPEN]` the party's level here, which decides how much of the list is legal:
-*Phantasmal Force* is 2nd, *Phantasmal Killer* 4th, *Dream* 5th, *Antipathy/Sympathy*
-8th, *Weird* 9th. The stone does not cast from spell slots — give it a fixed list and a
-number of uses a day.
+*Phantasmal Force* and *Detect Thoughts* are 2nd, *Programmed Illusion* 3rd,
+*Phantasmal Killer* 4th, *Dream*, *Modify Memory* and *Seeming* 5th, *Mirage Arcane*
+and *Project Image* 7th, *Antipathy/Sympathy* 8th, *Weird* 9th. The stone does not cast
+from spell slots — give it a fixed list and a number of uses a day.
 
 `[DM]` The Last Thinker fights with earth and stone ([his block](the-last-thinker.md))
 and the party meets him first, on the sail up. Keep this to illusion so the two fights
