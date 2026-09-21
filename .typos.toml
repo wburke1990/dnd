@@ -62,6 +62,26 @@ Gude = "Gude"  # Danish "gods" in Sophus Bugge's title, "Studier over de nordisk
 ende = "ende"  # Old Saxon "and", quoted verbatim from the Old Saxon Baptismal Vow
                # (c. 800): "Thunaer ende Woden ende Saxnote" —
                # encounters/jotunheim-trees-rite.md
+# The hell-tree handouts, added 9/21. Arthur Golding's Ovid (1567) and Child
+# ballad 10 C are Elizabethan and Scots; Cary's Dante (1814) and the Garth
+# Ovid (1717) elide a syllable with an apostrophe, which typos reads as a
+# clipped word. All of it is verbatim quotation — do not "correct" the poems.
+ane = "ane"  # Scots "one": "The eldest said to the youngest ane" — the-twa-sisters.md
+Anoyed = "Anoyed"  # Golding: "Anoyed bee, from both of them exempt mee"
+comming = "comming"  # Golding: "but met the comming tree"
+deviding = "deviding"  # Golding: "and the barke deviding made away"
+entent = "entent"  # Golding: "How bee it to th'entent"
+hardned = "hardned"  # Golding: "Her skin was hardned into bark"
+theyr = "theyr"  # Golding: "To such as doo confesse theyr faults"
+wrything = "wrything"  # Golding: "went rootes, which wrything heere and there"
+cornel = "cornel"  # the cornel tree (Cornus mas), Dryden and Williams, Aeneid III
+cornels = "cornels"  # Dryden: "Sharp myrtles on the sides, and cornels grew"
+mis = "mis"  # Garth/Dryden: "the mis-begotten Infant grows"
+strugling = "strugling"  # Garth/Dryden: "Beside the strugling Boughs"
+wou = "wou"  # Garth/Dryden elision: "wou'd have pray'd"
+believ = "believ"  # Cary elision: "as it seem'd, believ'd"
+describ = "describ"  # Cary elision: "in my verse describ'd"
+issu = "issu"  # Cary elision: "From whom they might have issu'd"
 
 [default.extend-identifiers]
 # TTS / Lua identifiers.

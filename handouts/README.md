@@ -38,22 +38,21 @@
 Sources for what the tree mutters at
 [the hell-tree](../world/suartleheim-eet/brauron/encounters/the-hell-tree.md) — the
 d20 table is in that file's run sheet, and these are the texts the lines come off.
-Four of them are **scaffolds**: the session that wrote them had no network access, so
-they carry a `[to transcribe]` note and the text still has to be pasted in.
+All eleven hold the full text now.
 
-| Handout | What the tree takes from it | State |
-|---|---|---|
-| [the-juniper-tree](the-juniper-tree.md) | A murdered child singing out of a tree | complete |
-| [aeneid-polydorus](aeneid-polydorus.md) | A boy speaking from the root of the thicket grown out of him | `[to transcribe]` |
-| [inferno-wood-of-suicides](inferno-wood-of-suicides.md) | The dead kept as trees, who speak only where they are broken | `[to transcribe]` |
-| [havamal-the-windy-tree](havamal-the-windy-tree.md) | A god nine nights on a tree, speared, given to himself | `[to transcribe]` |
-| [isaiah-14-fallen-from-heaven](isaiah-14-fallen-from-heaven.md) | The king brought down to the pit | complete |
-| [job-14-hope-of-a-tree](job-14-hope-of-a-tree.md) | A cut tree grows back and a dead man does not rise | complete |
-| [a-poison-tree](a-poison-tree.md) | A grievance watered until it fruits, and the enemy dead under it | complete |
-| [rock-a-bye-baby](rock-a-bye-baby.md) | A baby asleep in a treetop, and the bough breaks | complete |
-| [goblin-market](goblin-market.md) | Fruit called out by name, and what eating it does | `[to transcribe]` |
-| [the-twa-sisters](the-twa-sisters.md) | A harp that says the killer's name without being asked | `[to transcribe]` |
-| [ovid-myrrha-and-adonis](ovid-myrrha-and-adonis.md) | A woman turns to a tree, the bark splits, and a child comes out | `[to transcribe]` |
+| Handout | What the tree takes from it |
+|---|---|
+| [the-juniper-tree](the-juniper-tree.md) | A murdered child singing out of a tree |
+| [aeneid-polydorus](aeneid-polydorus.md) | A boy speaking from the root of the thicket grown out of him |
+| [inferno-wood-of-suicides](inferno-wood-of-suicides.md) | The dead kept as trees, who speak only where they are broken |
+| [havamal-the-windy-tree](havamal-the-windy-tree.md) | A god nine nights on a tree, speared, sacrificed to himself |
+| [isaiah-14-fallen-from-heaven](isaiah-14-fallen-from-heaven.md) | The king brought down to the pit |
+| [job-14-hope-of-a-tree](job-14-hope-of-a-tree.md) | A cut tree grows back and a dead man does not rise |
+| [a-poison-tree](a-poison-tree.md) | A grievance watered until it fruits, and the enemy dead under it |
+| [rock-a-bye-baby](rock-a-bye-baby.md) | A baby asleep in a treetop, and the bough breaks |
+| [goblin-market](goblin-market.md) | Fruit called out by name, and what eating it does |
+| [the-twa-sisters](the-twa-sisters.md) | A harp that says the killer's name without being asked |
+| [ovid-myrrha-and-adonis](ovid-myrrha-and-adonis.md) | A woman turns to a tree, the bark splits, and a child comes out |
 
 ## Saved, placement open
 
@@ -87,12 +86,12 @@ they carry a `[to transcribe]` note and the text still has to be pasted in.
 | [do not stand at my grave](do-not-stand-at-my-grave.md) | `reference` | Mary Elizabeth Frye, "Do Not Stand at My Grave and Weep" — carved over the Verdant Fist graves |
 | [dragon hoard warning](dragon-hoard-warning.md) | `reference` | Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard |
 | [ezekiel 21 belomancy](ezekiel-21-belomancy.md) | `reference` | Ezekiel 21 in the King James — the king at the parting of the way, taking three omens at once |
-| [goblin market](goblin-market.md) | `reference` | Rossetti, "Goblin Market" — the goblins' selling cry, and what the fruit does to Laura |
-| [havamal the windy tree](havamal-the-windy-tree.md) | `reference` | Hávamál 138-141, trans. Bellows — Odin hung nine nights on the tree, given to himself |
+| [goblin market](goblin-market.md) | `reference` | Rossetti, "Goblin Market" — the goblins' selling cry, and Laura wasting after she eats |
+| [havamal the windy tree](havamal-the-windy-tree.md) | `reference` | Hávamál 139-142, trans. Bellows — Odin hung nine nights on the tree, sacrificed to himself |
 | [homer the sacrifice](homer-the-sacrifice.md) | `reference` | Homer on making a sacrifice, trans. Murray — washed hands, barley, and a lock of hair burned |
 | [hymn to artemis](hymn-to-artemis.md) | `reference` | Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White |
 | [iliad blood on the ground](iliad-blood-on-the-ground.md) | `reference` | Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles |
-| [inferno wood of suicides](inferno-wood-of-suicides.md) | `reference` | Inferno XIII — the wood where the dead are trees and speak only when broken |
+| [inferno wood of suicides](inferno-wood-of-suicides.md) | `reference` | Inferno XIII — the dead are trees and speak only when someone breaks a branch |
 | [into my heart an air that kills](into-my-heart-an-air-that-kills.md) | `reference` | Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat |
 | [invictus](invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |
 | [iphigenia at aulis](iphigenia-at-aulis.md) | `reference` | Euripides, "Iphigenia at Aulis," trans. Coleridge — the garlands, and a deer on the altar |
@@ -104,7 +103,7 @@ they carry a `[to transcribe]` note and the text still has to be pasted in.
 | [lysistrata the bear](lysistrata-the-bear.md) | `reference` | Aristophanes, "Lysistrata" 638-651, trans. Lindsay — a girl was a Bear at Brauron |
 | [momotaro](momotaro.md) | `reference` | Momotaro, from Ozaki's "Japanese Fairy Tales" — a child steps out of a peach |
 | [on ragnarok 1](on-ragnarok-1.md) | `reference` | Alan Gould, "Krakatoa" — an ancient scroll, Musa's ship's log of the night the star fell |
-| [ovid myrrha and adonis](ovid-myrrha-and-adonis.md) | `reference` | Metamorphoses X, trans. Golding — a woman turns to a tree, the bark splits, a child comes out |
+| [ovid myrrha and adonis](ovid-myrrha-and-adonis.md) | `reference` | Metamorphoses X — a woman turns to a tree, the bark splits, a child comes out |
 | [psalm 91](psalm-91.md) | `reference` | Psalm 91 in the King James — incantation for Forbiddance, a warded sanctuary |
 | [ramses victory dijay](ramses-victory-dijay.md) | `reference` | Ramses III's victory inscriptions, opening on the bleeding star — the Tomb 3 inner chamber |
 | [recessional](recessional.md) | `reference` | Kipling, "Recessional" — lament over the drowned caldera of Lonka, placement open |

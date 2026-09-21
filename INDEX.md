@@ -336,12 +336,12 @@ Sailing, weather, fleets and what lives in the water.
 | [do not stand at my grave](handouts/do-not-stand-at-my-grave.md) | `reference` | Mary Elizabeth Frye, "Do Not Stand at My Grave and Weep" — carved over the Verdant Fist graves |
 | [dragon hoard warning](handouts/dragon-hoard-warning.md) | `reference` | Kierkegaard, "The Sickness Unto Death" — a warning inscribed above a dragon's hoard |
 | [ezekiel 21 belomancy](handouts/ezekiel-21-belomancy.md) | `reference` | Ezekiel 21 in the King James — the king at the parting of the way, taking three omens at once |
-| [goblin market](handouts/goblin-market.md) | `reference` | Rossetti, "Goblin Market" — the goblins' selling cry, and what the fruit does to Laura |
-| [havamal the windy tree](handouts/havamal-the-windy-tree.md) | `reference` | Hávamál 138-141, trans. Bellows — Odin hung nine nights on the tree, given to himself |
+| [goblin market](handouts/goblin-market.md) | `reference` | Rossetti, "Goblin Market" — the goblins' selling cry, and Laura wasting after she eats |
+| [havamal the windy tree](handouts/havamal-the-windy-tree.md) | `reference` | Hávamál 139-142, trans. Bellows — Odin hung nine nights on the tree, sacrificed to himself |
 | [homer the sacrifice](handouts/homer-the-sacrifice.md) | `reference` | Homer on making a sacrifice, trans. Murray — washed hands, barley, and a lock of hair burned |
 | [hymn to artemis](handouts/hymn-to-artemis.md) | `reference` | Homeric Hymns 27 and 9, "To Artemis," trans. Evelyn-White |
 | [iliad blood on the ground](handouts/iliad-blood-on-the-ground.md) | `reference` | Homer, "Iliad," trans. A. T. Murray — death lines to read over kills in the Iliad battles |
-| [inferno wood of suicides](handouts/inferno-wood-of-suicides.md) | `reference` | Inferno XIII — the wood where the dead are trees and speak only when broken |
+| [inferno wood of suicides](handouts/inferno-wood-of-suicides.md) | `reference` | Inferno XIII — the dead are trees and speak only when someone breaks a branch |
 | [into my heart an air that kills](handouts/into-my-heart-an-air-that-kills.md) | `reference` | Housman, "Into my heart an air that kills" — the gnomes' lament for lost Kalikhat |
 | [invictus](handouts/invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |
 | [iphigenia at aulis](handouts/iphigenia-at-aulis.md) | `reference` | Euripides, "Iphigenia at Aulis," trans. Coleridge — the garlands, and a deer on the altar |
@@ -353,7 +353,7 @@ Sailing, weather, fleets and what lives in the water.
 | [lysistrata the bear](handouts/lysistrata-the-bear.md) | `reference` | Aristophanes, "Lysistrata" 638-651, trans. Lindsay — a girl was a Bear at Brauron |
 | [momotaro](handouts/momotaro.md) | `reference` | Momotaro, from Ozaki's "Japanese Fairy Tales" — a child steps out of a peach |
 | [on ragnarok 1](handouts/on-ragnarok-1.md) | `reference` | Alan Gould, "Krakatoa" — an ancient scroll, Musa's ship's log of the night the star fell |
-| [ovid myrrha and adonis](handouts/ovid-myrrha-and-adonis.md) | `reference` | Metamorphoses X, trans. Golding — a woman turns to a tree, the bark splits, a child comes out |
+| [ovid myrrha and adonis](handouts/ovid-myrrha-and-adonis.md) | `reference` | Metamorphoses X — a woman turns to a tree, the bark splits, a child comes out |
 | [psalm 91](handouts/psalm-91.md) | `reference` | Psalm 91 in the King James — incantation for Forbiddance, a warded sanctuary |
 | [ramses victory dijay](handouts/ramses-victory-dijay.md) | `reference` | Ramses III's victory inscriptions, opening on the bleeding star — the Tomb 3 inner chamber |
 | [recessional](handouts/recessional.md) | `reference` | Kipling, "Recessional" — lament over the drowned caldera of Lonka, placement open |
