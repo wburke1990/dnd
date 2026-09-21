@@ -99,14 +99,14 @@ the other **4,000** among the quarry who sign — 1,000 each for four, 800 each 
 paid to a named address whether or not they live. If 4,000 gp is too much coin for the
 party, lower the entry fee and the pay drops with it.
 
-## What the quarry carries out
+## What the quarry gets
 
 | | |
 |---|---|
 | **Head start** | Out in the morning on day 1, hounds loosed at noon. Four hours. |
-| **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It covers the first hour of the head start. |
-| **Gear** | Whatever they walked in with. The cult neither confiscates nor issues. |
-| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who takes it off a living quarry has won and is done; a quarry who takes it off is a trespasser inside the fence. |
+| **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It runs for the first hour of the four. |
+| **Gear** | Whatever they walked in with. The cult takes nothing off them and gives them nothing. |
+| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who takes the rack off a living quarry has won. A quarry who takes it off has nothing to show at the gate, and the horn does not open it for them. |
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
@@ -368,8 +368,8 @@ to it when the rite is done.
 > comes out is a boar the size of a horse. It goes through into the grass, out of sight.
 > They can hear it after that.*
 
-`[for David]` The Calydonian boar — the beast-hunt's quarry, loosed into the preserve
-the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
+`[for David]` The Calydonian boar — the animal the beast-hunt is after, loosed into the
+preserve the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
 David's. **It is in the preserve while the party are.** It does not hunt them, and they
 can walk into it.
 
@@ -391,10 +391,10 @@ hounds already have their smell (step 7) and nothing inside the fence washes it 
 
 | | |
 |---|---|
-| **Four hours** | At a fast pace, four hours of travel and no exhaustion — that only starts past eight hours in a day, at a DC 10 Constitution save each hour. |
+| **Four hours** | About 16 miles at a fast pace. Exhaustion only starts past eight hours in a day, at a DC 10 Constitution save each hour. |
 | **Longstrider** | +10 ft. for the first hour of the four. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
-| **At noon** | The horn at the fence, and the hounds and the riders come through. |
+| **At noon** | The horn at the fence, and the hounds and the riders come through at Speed 50 ft. They make 30 miles a day to the quarry's 24, so they close the 16 miles ([the game preserve](the-game-preserve.md)). |
 
 ---
 

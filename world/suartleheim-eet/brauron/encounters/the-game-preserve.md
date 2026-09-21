@@ -47,19 +47,39 @@ hounds loosed four hours later at noon, the horn at sundown on day seven. The fu
 the boar is loose wherever the party are walking. It is not hunting them. The riders
 following it cross the same ground.
 
-The hunters ride **great hounds** and wear **hound-pelts**. `[proposed]` the hounds
-are big enough for a gnome to ride.
+## The hounds, and how fast they close `[proposed — Will 9/21]`
 
-**The hounds have the quarry's smell before the quarry leaves.** They are walked up to
-each one at the dressing and take it off the deer-hide and the hands
-([the dressing](dressing-the-stag.md), step 7). The quarry's only advantage is the four
-hours: the pack does not have to find a trail, and breaking line of sight does
-not throw the hounds off.
+The hunters ride **great hounds** and wear **hound-pelts**. The hounds are big enough for
+a gnome to ride, and the pack running loose alongside is the same animal.
+
+**Great hound.** Large beast, **Speed 50 ft.**, keen smell, and a Small rider up.
+`[for David]` the block — a dire wolf or a worg is the right size and speed to start from.
+
+**They have the quarry's smell before the quarry leaves.** Each hound is walked up to the
+altar and smells the deer-hide and the hands
+([the dressing](dressing-the-stag.md), step 7). The pursuit uses no tracking checks.
+Breaking line of sight does not lose the hounds, and neither does a night's gap. The
+quarry can only open the gap by moving.
 
 `[settled — Will 9/21]` **Nothing inside the fence washes it off.** It would take a long
 scrub in clean water, and every water inside the fence is poison — which is what the
 priestess means by *"Bad water."* A quarry who gets in it to break the scent is drinking
-and breathing the poison. So the hounds follow the scent for seven days.
+and breathing the poison. So the hounds hold the scent for all seven days. What changes
+is the distance between them and the quarry.
+
+**What each side makes in a day.**
+
+| | |
+|---|---|
+| **The riders** | **30 miles**, at a fast pace, and one hour of it can be a gallop for about **4 more**. They use that hour to close the distance. |
+| **A quarry pacing themselves** | 24 miles, at a normal pace. |
+| **A quarry running flat out** | 30 miles, at a fast pace — and past eight hours in a day that is a forced march, DC 10 Constitution each hour or a level of exhaustion. Everyone inside the fence is breathing the poison while they do it. |
+
+**The gap closes about four miles a day against a quarry running as hard as the riders,
+and about ten against one pacing themselves.** The four-hour head start is about **16
+miles**. That puts the hounds on a quarry who keeps the pace up around **day four**, and
+on one who does not around **day two**. The crossing to [the hell-tree](the-hell-tree.md)
+and back is seven days, so the pack arrives somewhere near the tree.
 
 The hunt stays out in the wild and **never goes near the tree.** The tree is holy
 ground, and no hunter enters it. The priestesses set a line the hunt turns back at,
