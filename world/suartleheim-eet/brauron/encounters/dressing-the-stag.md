@@ -25,15 +25,16 @@ status: ready
 The priestesses put the quarry through a Greek animal sacrifice, in the order Homer
 gives: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
 the altar. The sequence stops before the killing. They tie on antlers, lay a deer-hide
-over her shoulders, read out the names of dogs, and walk her out to the gate.
+over her shoulders, read out the names of dogs, and walk her out to the gate. The killing
+happens in the preserve instead ([the game preserve](the-game-preserve.md)).
 
 Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the water, one
 the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
 take no part.
 
 **The hunters are pelted and mounted before the quarry's rite starts, and they ride into
-the temple to watch it.** The whole muster is in the hall on hound-back, ranged below the
-altar, looking up at the quarry while she is dressed. The hounds are there to take her
+the temple to watch it.** The whole muster is in the hall on hound-back, sitting below
+the altar, looking up at the quarry while she is dressed. The hounds are there to take her
 smell, which happens at step 7. Nobody arrives partway through and nobody comes in
 afterwards.
 
@@ -75,9 +76,9 @@ quarry, and Cassia is dressed first.
 | Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
-A quarry who comes back early is turned around. **The tree is one day out**, so they have
-about five days past the line the hunt turns back at before they have to start for the
-gate ([the game preserve](the-game-preserve.md)). How fast the sickness works is `[OPEN]`
+A quarry who comes back early is turned around. **The tree is one day out**, so there is
+room in the seven days to reach it and get back, with the hunters after them the whole
+way ([the game preserve](the-game-preserve.md)). How fast the sickness works is `[OPEN]`
 there too.
 
 ## The live stag
@@ -108,7 +109,7 @@ party, lower the entry fee and the pay drops with it.
 | **Head start** | Out an hour before noon on day 1, hounds loosed at noon. One hour. |
 | **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It lasts one hour, which is the whole head start. |
 | **Gear** | Whatever they walked in with. The cult takes nothing off them. |
-| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who takes the rack off a living quarry has won. A quarry who takes it off has nothing to show at the gate, and the gate does not open for them. |
+| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who kills a quarry cuts the rack off the body and keeps it. A quarry who takes it off has nothing to show at the gate, and the gate does not open for them. |
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
@@ -151,7 +152,7 @@ in [the Actaeon handout](../../../../handouts/actaeon.md).
 ---
 
 > **Cassia is up on the altar and the hunters are in the hall on hound-back, looking up
-> at her.** The whole muster is mounted and pelted, ranged below the altar, the
+> at her.** The whole muster is mounted and pelted, sitting below the altar, the
 > **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them and Setha Renk
 > and Calix Vire at the front. The party are at the back. The Megabyzoi are along the
 > wall. Nobody comes in or goes out until Cassia goes out the door at step 8.
@@ -394,10 +395,11 @@ and nothing inside the fence washes it off.
 | | |
 |---|---|
 | **One hour** | About four miles at a fast pace. |
-| **Longstrider** | +10 ft., and it runs out as the horn goes. |
+| **Longstrider** | +10 ft. for the hour. Blackacre has the spell too and can keep one character at 40 for an hour a slot. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
 | **At noon** | The hounds and riders come through at Speed 50 ft. and cover four miles at a gallop in well under an hour. **They are on the quarry the same afternoon** ([the game preserve](the-game-preserve.md)). |
-| **What the quarry is running for** | The line the priestesses set, short of the tree. No hunter crosses it. The tree is one day out. |
+| **After the hour** | Longstrider ends and the party are at 30 against 50, unless Blackacre spends slots keeping it up. |
+| **Staying alive** | Getting out means standing at the gate at sundown on day seven. **The hunters are hunting to kill** ([the game preserve](the-game-preserve.md)), and they will follow anywhere in the preserve, including the tree. |
 
 ---
 

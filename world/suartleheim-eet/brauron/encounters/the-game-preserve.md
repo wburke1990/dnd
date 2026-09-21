@@ -70,12 +70,29 @@ and breathing the poison.
 the hounds come through at noon. An hour on foot is about four miles; a gallop covers
 that in well under an hour. **So the riders are on them the first afternoon.**
 
-## The line, and why the chase ends at it
+## Both hunts are kills
 
-**The tree is one day from the gate.** The party are running for **the line the
-priestesses set**, somewhere short of the tree. No hunter
-crosses it. The ground past it is the goddess's under the name Hecate and the cult has
-kept people off it since the founding ([the founding](../lore/the-founding-of-brauron.md)).
+**The hunters are hunting to kill.** The boar is run down and killed. So is the person in
+the antlers. Actaeon is the model and the temple reads it out over the quarry at the
+dressing — the hounds pull the stag down and tear it apart
+([the dressing](dressing-the-stag.md), step 7). The temple pays out to a named address
+either way.
+
+**So the quarry survives only by standing at the gate at sundown on day seven.** A quarry
+cannot surrender, and the hunt does not stop for them.
+
+**The rack is the trophy.** Worn, it is taller than the grass, and every rider in the
+preserve is looking for it. The hunter who makes the kill cuts it off the body and it is
+hung in the temple. A quarry who takes it off themselves has nothing to show at the gate
+and the gate does not open for them ([the dressing](dressing-the-stag.md)).
+
+## There is nowhere safe inside the fence
+
+**The tree stands inside the fence, one day from the gate.** No hunter goes to it to hunt
+— there is no game there and the ground is the goddess's under the name Hecate
+([the founding](../lore/the-founding-of-brauron.md)) — but a rider running a quarry down
+follows the quarry. **If the party are caught at the tree, the fight happens there**, with
+whatever is in the branches ([the hell-tree](the-hell-tree.md)).
 
 The crossing runs:
 
@@ -83,28 +100,30 @@ The crossing runs:
 |---|---|
 | **Day 1, an hour before noon** | Through the gate, with the boar already out ahead of them. |
 | **Day 1, noon** | The hounds and riders come through. |
-| **Day 1, afternoon** | First contact, and further contacts through the afternoon. |
-| **Day 1 evening or day 2** | They reach the line. **The hunt breaks off at it and will not follow.** |
-| **Past the line** | [The hell-tree](the-hell-tree.md), the stair, and the poison working on them. No hunters. |
-| **Coming back** | They have to cross the line the other way, into a hunt that has been waiting on it. |
+| **Day 1, afternoon** | First contact. |
+| **Days 1–7** | Contact again whenever the pursuit catches up, which the pack can always do. |
+| **Day 2** | The tree, if they get that far, and the stair below it. |
+| **Day 7, sundown** | The horn. The gate opens for whoever is standing at it. |
 
-**The hunters ride for the rack. They do not try to kill the quarry.** A hunter who takes
-the rack off a living quarry has won and is done, so every contact is people trying to get
-a hand on the antlers. A caught quarry loses the rack and lives.
+## How fast they move
 
-Worn, the rack is taller than the grass and it is what everyone in the preserve is riding
-at. Taken off, the quarry has nothing to show at the gate on day seven and the gate does
-not open for them ([the dressing](dressing-the-stag.md)).
+**Longstrider is +10 ft. for one hour**, cast at the gate. It lasts the hour of the head
+start and ends when the hounds come through. After that the party are at **30 against the
+hounds' 50** — unless **Blackacre keeps it up.** Longstrider is a druid 1st-level spell and
+he can put one character back to 40 for an hour a slot
+([Blackacre](../../../../characters/blackacre.md)).
+
+Nobody outruns the pack. The party can break line of sight, fight the riders off, or use
+the terrain.
 
 `[run]` **Run the contacts as chases** (*DMG* chase rules): a creature can Dash a number
 of times equal to 3 + its Constitution modifier before it starts making DC 10 Constitution
-saves or taking exhaustion, and the grass, the gullies and the poisoned animals are the
-complications. The party are at Speed 30 against Speed 50, so they cannot outrun the pack.
-They can break line of sight long enough to reach the line, fight the riders off, or give
-up the rack.
+saves or taking exhaustion, and the grass, the gullies, the boar and the poisoned animals
+are the complications.
 
-The hunt stays out in the wild and **never goes near the tree.** The tree is holy
-ground and no hunter enters it. The priestesses set the line it turns back at.
+`[OPEN]` **Who is riding at them.** The Lapis Writ paid to be here and Calix rides with
+the hunters (below). Whether the crew that drank with the party at the Tally House is the
+crew that runs them down is not settled. The option is to use the same crew.
 
 ## The rival crews at the hunt `[S10]`
 

@@ -56,8 +56,9 @@ inscriptions in the square.
   [the grove](#the-grove), below).
 - **The sanctuary.** It gave the deadland and the tree to the goddess the gnomes had
   brought with them, under the name Hecate, and the cult has kept hunters off the tree
-  since. The [sacred hunt](../encounters/the-game-preserve.md) runs once a year and
-  turns back at a line the priestesses set.
+  since. The [sacred hunt](../encounters/the-game-preserve.md) runs once a year and does
+  not hunt the tree, though a rider running a quarry down will go there
+  ([the game preserve](../encounters/the-game-preserve.md)).
 - **The Megabyzoi.** It made the eunuch priesthood after the first peach in the grove
   split, and put what came out into it (see
   [what the town knows](#what-the-town-knows), below).
@@ -78,13 +79,12 @@ The paintings the party sees in
 [the temple](../encounters/the-peach-town.md) — a young man gored and mourned, a tree
 growing where his blood falls — are the Boy, told as
 [Attis](../../../../handouts/the-birth-of-attis.md). The Megabyzoi mourn him once a year.
-The man-hunt has run every year since, and the quarry is not expected to come back.
+The man-hunt has run every year since, and most quarry do not come back.
 
 **Where it is.** It re-formed in the Abyss and it is there now. The demon-people's
 cities sit over the hotspot, and the living one is under the Kurunatukas, where demons
-have been coming up on Moku for a generation. It has not come back for the plinth: it
-spent its first six hundred years on the surface because it had never been anywhere
-else, and the surface burns it now.
+have been coming up on Moku for a generation. It spent its first six hundred years on the
+surface. It has not come back for the plinth, and the surface burns it now.
 
 `[proposed]` What it is now: **Nabassu** (CR 15, MPMM) off
 [the roster](../../../nila/bestiary/available-demons.md) — a demon that grows by feeding on
