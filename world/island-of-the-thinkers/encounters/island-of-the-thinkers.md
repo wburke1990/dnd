@@ -6,6 +6,9 @@ status: next
 # The Island of the Thinkers
 
 > **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+>
+> **Played in [session 15](../../../sessions/session-15.md)** up to the bell. The fight on
+> the hilltop is **[the Last Thinker](the-last-thinker.md)** and it has not been run.
 
 ---
 
@@ -16,98 +19,41 @@ status: next
 
 ## Premise
 
-After failing a sailing check, the group is blown off course and the mast of their vessel is broken. They wash up on a strange island covered in statues. They can see a single tree standing deep in the island.
+A failed sailing check blows the party off course and the mast breaks. They come ashore on
+an island covered in stone statues. One tree stands at the middle of it.
 
-## The Statues — A Petrified Evolutionary Chart
+## The statues
 
-### 1. Arrival of the Giants
+**The first settlers were giants.** They carved statues of themselves at their own height:
+seated figures on the cliffs and the beaches, facing the sea, knees higher than a standing
+man.
 
-- When the first giant settlers arrive, they're immense—like the crouched figure in the photo above.
-- They carve huge statues of themselves in their original size: towering bodies huddled on cliffs and beaches, staring out to sea.
-- These early statues are awe-inspiring, so big they cast shadows like buildings.
+**Over centuries the people got smaller.** There was little to eat on the island and each
+generation was shorter than the one before. They kept carving at their own height, and
+they kept carving further inland.
 
-### 2. Generations Pass – Insular Dwarfism
+**So the statues are smaller the further in you go.** The biggest stand at the coast. Along the
+inland paths they are the size of a man. At the center they are under three feet.
 
-- Food is scarcer on the island, resources are limited, and over many centuries the population gradually shrinks in size.
-- As each generation is smaller, so are their statues. You'd see rows of massive giants by the shore, then further inland statues that are slightly smaller, then smaller still.
-- It becomes like a timeline carved into stone—giants at the edges, halflings in the heart of the island.
+Some of the middle statues are heavy through the chest and shoulders; others are thin,
+with the ribs cut in. The faces are cut in detail on all of them, the coastal ones
+weathered.
 
-### 3. The Transition Period
+## The Thinkers
 
-- Midway through, the statues look almost human-sized but still exaggerated.
-- Some show muscular figures, others look gaunt—reflecting the stresses of adapting to island life.
-- The difference between early colossi and later life-sized statues becomes a visible record of their shrinking bodies.
+Each generation crowned a leader called the Thinker. The office was political and
+religious. A statue of each one was carved while they lived, at their height, in the same
+pose every time: seated, head bowed, arms folded.
 
-### 4. Halfling Era
+- **The first Thinkers** sit on the coastal cliffs, weathered, at giant size.
+- **The middle ones** stand along the inland paths at the size of a man.
+- **The last ones** are at the center, about two feet tall, on stone seats.
 
-- Eventually, the people are no taller than a modern child.
-- Their statues are no bigger than waist height on a modern human.
-- Walking through the island, you'd see a progression: enormous crumbling giants eroded by wind and sea, medium-sized figures in the interior, and then tiny, almost toy-like statues near the most recent villages.
+## The tree and the garden
 
-### 5. Atmosphere
-
-- The island becomes a living museum of scale.
-- Outsiders who visit centuries later would be astonished: "Why are the statues smaller the further inland you go?"
-- For the halflings, it's a sacred genealogy—each generation remembering their giant ancestors by carving at their own scale.
-- It would look like a petrified evolutionary chart, carved into stone rather than drawn on paper.
-
-**Atmosphere:** Imagine walking across the island encountering immense crouched, lifelike giants huddled in corners of the landscape. It would feel uncanny—like a land inhabited by sleeping or fallen titans.
-
-**Impact:** Scholars would see some of the earliest hyperrealist monumental sculptures in history.
-
-## The Tradition of the Thinkers
-
-- Each generation crowns a leader called The Thinker, whose role is political and spiritual — the embodiment of wisdom, patience, and survival.
-- During their lifetime, a life-sized statue of them is carved, always in the same brooding seated pose: head bowed, arms folded, deep in contemplation.
-- The statues are made in exact scale to the living Thinker at the time, meaning they gradually shrink with each generation.
-
-### The Visual Progression
-
-**The First Thinkers (Giants)**
-
-- Towering colossi seated on coastal cliffs, knees higher than a human.
-- Their faces weathered but still solemn, their bodies monumental like mountains.
-- From a distance, they look like guardians watching the sea.
-
-**The Middle Generations (Human-sized Thinkers)**
-
-- Statues still serious, contemplative, but smaller, more human-proportioned.
-- These are found inland, each generation building further from the shore, marking the slow retreat of their size.
-- The rows of statues begin to resemble a shrinking genealogy.
-
-**The Halfling Thinkers**
-
-- The most recent ones are only child-sized, perched on stone seats.
-- To modern eyes, they might look like dolls or votive figures, but in their society they were equally revered.
-- Their small size doesn't reduce their dignity — their brooding posture is the same as their giant ancestors, binding them across time.
-
-### Atmosphere on the Island
-
-Walking across the island, you'd pass through eras of scale:
-
-- At the edges, colossal giants slumped in timeless thought.
-- In the middle, human-sized figures lining pathways like ancestors watching you pass.
-- At the core, a quiet grove of halfling Thinkers — small, almost hidden, but no less solemn.
-
-It would feel like a pilgrimage through the psychology of a people, shrinking in body but not in mind.
-
-## The island's symbolism from the sea
-
-### Symbolism
-
-To the adventurers, the island might look like:
-
-- A graveyard of giants, with its statues slumped in eternal mourning.
-- A warning, that even the greatest fall if they exhaust their world.
-- Or perhaps a sanctuary, if they can find the garden that sustains the Last Thinker.
-
-## The symbolism of the tree, the Thinker, and the garden
-
-### The Symbolism
-
-- The single tree represents the last breath of nature, a fragile green world clinging to life.
-- The Thinker embodies continuity — even in decline, he maintains the ritual of contemplation and stewardship.
-- The garden is both literal sustenance and symbolic resistance: a tiny act of creation against the void of collapse.
+The island was forested once and one tree is left, at the top of the hill at the center. A
+tended garden grows around its roots, and a cistern holds water. Nothing else on the island
+is growing.
 
 ---
 
@@ -116,91 +62,115 @@ To the adventurers, the island might look like:
 
 ---
 
-## The View from the Sea
+## The view from the sea
 
-A small, battered boat drifts across a restless ocean, its mast cracked and sail hanging limp.
+> *The boat is drifting, the mast cracked and the sail down. Land is ahead.*
+>
+> *On the cliffs above the water, seated stone figures, hunched, facing out. Behind them
+> the hills are bare — no trees, the soil cut through with gullies. At the middle of the
+> island, on the highest ground, one tree stands on the skyline.*
 
-The adventurers, exhausted and sunburnt, see the outline of land ahead.
+## Walking inland
 
-### First Impressions of the Island
+> *The statues get smaller the further you walk. The ones above the beach are seated
+> giants with their knees above your head. Along the paths inland they are the size of a
+> man, in rows, facing the way you are going. Near the center they come up to your knee.*
 
-- **Silhouette of Giants:** On the coastal cliffs, the largest Thinker statues loom, hunched and brooding, their forms etched against the sky. From the sea, they look like silent titans slumped in thought, watching the horizon.
-- **Bare Hills:** Behind them, the island appears scarred and barren — ridges stripped of forest, slopes dotted with eroded soil. It feels both desolate and heavy with history.
-- **The Lone Tree:** At the very center of the island's skyline, far above everything, rises the silhouette of the last standing tree — small against the vast sky, but striking in its isolation.
-
-### Atmosphere
-
-The adventurers feel an uncanny mix of hope and dread.
-
-- Hope, because there is land, and perhaps food.
-- Dread, because the statues and the barren earth whisper of a fallen world — a civilization that once was mighty, now gone.
-
-The broken mast seems to mirror the broken grandeur of the island itself.
-
-*(What the island might look like to the party — see Background: "The island's symbolism from the sea".)*
+`[run]` There is no driftwood long enough for a mast, and the statues are stone. The one
+tree is the only timber on the island.
 
 ---
 
-## The Last Thinker, sustained by the last tree
+## The hilltop
 
-### The Setting
+> *At the top of the hill one tree stands. Turned soil is laid out around its roots, with
+> green plants in rows, and a stone cistern holds water. A cave is cut into the hillside
+> under the tree. A stone figure about two feet tall sits at the edge of the garden, head
+> bowed, arms folded.*
 
-- At the highest point of the island, where the land curves upward into a lonely hill, stands the final tree.
-- Once, the island was forested, but after centuries of overexploitation, only this tree remains. It is old, gnarled, and revered.
-- Around its roots is a small tended garden, carefully maintained — the last patch of fertility amid barren land.
+The **Last Thinker** lives in the cave and comes out to tend the garden. He is the size of
+a halfling. The seated statue beside the garden is his, carved at his height, in the same
+pose as the giants on the cliffs.
 
-### The Last Thinker
-
-- Unlike his monumental ancestors, he is small — the size of a halfling.
-- He lives in a small cave carved into the hillside beneath the tree, emerging each day to tend the garden.
-- In keeping with the ancestral tradition, his statue (life-sized to him) sits quietly in the garden, brooding in thought as all Thinkers before him.
-
-*(What the tree, the Thinker, and the garden represent — see Background: "The symbolism of the tree, the Thinker, and the garden".)*
-
-### Atmosphere
-
-Approaching the hill, you'd see the lone tree rising above the barren island, like a beacon. At its base, the garden glows faintly with life, and the small contemplative statue — the Last Thinker — seems almost swallowed by the enormity of the past.
-
-It's a scene of both melancholy and dignity: the ending of a civilization, but also a quiet persistence.
+He speaks Giant and Halfling and no Common. He offers water from the cistern and food from
+the garden. He does not give up the tree. His stat block, his lines and the fight are in
+**[the Last Thinker](the-last-thinker.md)**.
 
 ---
 
-## Under the Hill
+## The door in the hill  `[played — session 15]`
 
-With his last words, the thinker beseeched the party to ring the bell beneath the earth. The freshly-hewn mast was slotted into its frame, and the ship was loaded with what meager provisions could be had on the island, and there was nothing left to do but descend into the womb of the earth.
+The party went to the cistern for water rather than fight him for the tree, and found the
+door from there. It took work to get open — they pulled moss and dirt off the hillside.
 
-The cave mouth was a gaping wound in the hillside. The air cold on their skin as they stepped inside, the sound of the surf nothing but a whisper inside the cave. Their boots crunched on loose gravel, and the air smelled of damp stone and old roots.
+> *From inside, looking back, the door you opened is cut into a much larger door. Nothing
+> on the outside of the hill shows the larger one.*
 
-As they walked deeper into the cave, the floor fell away, a staircase carved into the ancient rock dropping down, each step broad and enough for a giant's stride. Water dripped and echoed somewhere in the dark. The smell was weaker now—moss, rot, and the faint metallic tang of rusted iron or old blood slowly bowed to father time in the silent darkness.
+`[OPEN]` What the larger door is for, and what size of thing it was cut for. Not
+decided.
 
-The chamber opened before them: a vast hall. A crumbling stone throne, 10 times the size of a man, leaned against one wall, its back split by a deep fracture. Across from it stood a great altar, its surface scarred by time and half-buried under the rubble of a collapsed ceiling so high that the light of the torches revealed nothing but a black starless void. Shadows filled the vaulted space, broken only by the flicker of their torches.
+---
 
-Beneath the chamber, the steps ended in ruin. The way further down had collapsed long ago. Jagged blocks of stone lay tumbled in heaps. Tree roots snaked through the cracks, pale and wet, searching for water in the gloom.
+## Under the hill
 
-Against one wall of the chamber hung a vast bell, black with age, suspended on chains as thick as a man's arm. Beside it lay a hammer. Its head was chipped but whole. The air around the bell was heavy, carrying something - a sound yet unstruck?
+> *The air inside is cold. The surf goes quiet a few steps in. The floor is loose gravel,
+> and the air smells of wet stone and roots.*
+>
+> *Further in, the floor drops away into a staircase cut into the rock. Each step is broad
+> enough for a giant's stride. Water drips somewhere below. There is a faint metallic
+> smell.*
+>
+> *The stair opens into a hall. A stone throne ten times the size of a man leans against
+> one wall, its back split by a fracture. Across from it is an altar, its surface pitted,
+> half buried under rubble from the ceiling. The torchlight does not reach the ceiling.*
+>
+> *Below the hall the steps end in rubble. The way further down is blocked. Jagged
+> blocks lie in heaps. Pale wet tree roots run through the cracks.*
+>
+> *A bell hangs against one wall, black with age, on chains as thick as a man's arm. A
+> hammer lies beside it, its head chipped.*
+>
+> *Above the altar there is a mural. Dragons wind through a painted sky over an island.
+> The island in the mural is forested, and only a few stone figures stand on its ridges.*
+>
+> *Every so often a tremor moves through the floor.*
 
-Above the altar stretched a mural. Dragons coiled through a painted sky above a wooded island. The trees were sparse, the cliffs bare—only a few stone figures watched from the ridges. It was the same island, but not as they knew it.
+**The hammer takes three of them to lift.** `[DM]` At the table Jasper took it alone
+([session 15](../../../sessions/session-15.md)); it was allowed.
 
-The adventurers stood silent for a long time, listening. The hall was still. The dust from their footsteps shifted slowly overhead. Yet now and then, a faint tremor moved beneath their feet, almost like the slow exhale of the underwater mountain sleeping below.
+**The stair going further down** is collapsed in this sheet and nobody took it. It is
+still on the map.
 
-When at last they moved to the hammer, it took three of them to lift it. Muscles strained, backs bent, boots slipped against the stone. They staggered, then swung.
+---
 
-The bell rang.
+## The bell, and the island
 
-The sound was low, deep, and endless. It filled the hall, pressed into their bones, made their hearts falter. The hall awoke. Dust fell in sheets from the ceiling. The mural quivered. The ground shook. A crack split the floor near the altar.
+> *The sound is low and it carries. It does not stop. Dust falls from the ceiling. The
+> ground shakes. A crack opens in the floor by the altar.*
 
-They fled.
+Then the climb out, with the bell still sounding behind them. Stones come down in the
+stairwell.
 
-The stairwell groaned with the weight of the hill above. Stones fell. The air thickened with the stench of earth breaking open. They climbed, lungs burning, while behind them the deep bell still sang.
+> *At the cave mouth the ground heaves. Statues come off the cliffs and break below.
+> Whole ridges slide into the sea.*
 
-At the cave mouth, the ground heaved. The island trembled. Statues toppled from their perches, shattering against the cliffs. Whole ridges slid into the sea. They ran for their boat, the earth splitting underfoot, the roar of water and stone chasing them.
+**The beach goes under first.** This is where
+[the Last Thinker](the-last-thinker.md) fights them, on the hilltop, while the ground
+sinks. How fast it sinks and how much hilltop is left by the last round
+is `[OPEN]` and decided before the session.
 
-They pushed off, rowing into the swell as the island groaned and folded in on itself. Hills sank. Forests vanished. After 10 minutes, at last only one summit remained, far on the horizon.
+---
 
-Then it too was gone.
+## What is still ahead
 
-From the place where the island had stood, small now in the distance, a dragon slipped from the waves, a speck to their eyes, vast and terrible in their minds, water streaming from its wings. It shot upward, silently, relentlessly rising towards the clouds before vanishing into the depths of the gaping sky.
+They row out. The hills go under. After about ten minutes one summit is left on the
+horizon, and then it is gone.
 
-The ocean gave no hint that this place had once held an island. The waves rolled, smooth and empty.
+> *Out where the island stood, a dragon comes up out of the water with the water running
+> off its wings. It climbs without sound until it is out of sight.*
+>
+> *The sea where the island was is empty.*
 
-The bell was silent.
+**Do not explain it.** The comet cycle is not named for the party until much later. **Pax
+says the world is flat** ([his notes](../../../characters/pax-dm-notes.md)); he watched
+the island sink and the dragon rise out of the water.

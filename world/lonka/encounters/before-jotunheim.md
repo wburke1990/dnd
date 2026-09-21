@@ -25,21 +25,19 @@ two sides want opposite things done with a dead person.
 
 - **His mother's people give the dead up.** No name, nothing kept, no grave and no
   monument. A forest-person lies down and becomes a tree, then litter and root and rot,
-  and the wood draws the next of them out of that stock. Nothing is saved and nothing
-  is held.
+  and the wood draws the next of them out of that stock.
 - **His father's side saves them.** A name, a heaven, someone who keeps you and can
-  call you. In the Latin register the practice is: the bones kept above ground, the
-  name read at the altar, the debt paid by one who can pay it.
+  call you. His father's church does this: the bones kept above ground, the name read
+  at the altar, the debt paid by one who can pay it.
 
 Both apply at the trees, in the same minute — strike the names and let the two go back
 into the stock, or give them true names and keep them. So every encounter below is the
-same choice on a smaller matter, and none of them is scored. Andrew answers each one
-the way he answers it, and the rite at the trees is the last one.
+same choice on a smaller matter, and none of them changes anything mechanically. Andrew
+decides each one, and the rite at the trees is the last one.
 
 `[for Doug]` The father's side has its argument written down in his period: **Anselm,
 *Cur Deus Homo* (1098)** — a debt only man owes and only God can pay, so someone must
-be both to pay it. The mother's side has no book, because a people that keeps nothing
-does not write a liturgy. Play it that way: one side has a book, the other has none
+be both to pay it. The mother's side has no book, because they keep no records. Play it that way: one side has a book, the other has none
 (see the `[OPEN]` at the end).
 
 ---
@@ -72,8 +70,8 @@ of them lies down.
   dead are given back to it. This is where he gathers the litter, root and seed he
   carries to Jotunheim.
 - **The foreshadow:** two of the forest's dead never became trees here. The stock still
-  holds what the ash and the elm were, and no tree in this wood answers to it.
-  Jotunheim comes up here first, before anyone names it.
+  holds what the ash and the elm were. No tree here grew from them. Someone here
+  describes the two trees without naming Jotunheim.
 - **The choice, small:** someone asks him for a name — for the one lying down, or for
   a child, or for himself. His people have none to give.
 - `[OPEN]` what the Verdant Fist has to do with this country, and whether the order
@@ -102,20 +100,20 @@ consecration stands and this is a reconciliation.
 
 - **Teaches:** the distinction the Jotunheim rite depends on — restoring a place is a
   different act from making one, and the man who restores it does not thereby own it.
-- **The choice, small:** none. This one is a scene, not a decision. It is here so that
+- **The choice, small:** none. It is here so that
   when Pax is told at Jotunheim that he is reconciling and not consecrating, he has
   seen it once and knows the difference.
 
 ### 5. The relic that is not what they say `[to build]`
 
-A town keeps a relic, and the cult around it is real, old, and holding the place
-together. The relic is not what they say it is. The party can prove it, leave it
+A town keeps a relic. The cult around it is real and old, and the town is organised
+around it. The relic is not what they say it is. The party can prove it, leave it
 alone, or take the thing away.
 
 - **Teaches:** that sincerity does not make a false thing true — Guibert of Nogent's
   argument, written c. 1119–25, and the exact problem at Jotunheim.
-- **The choice, small:** the zealots love their trees the way this town loves this
-  bone. Whatever they do here, they face the same choice at the trees.
+- **The choice, small:** the zealots' trees are in the same position as this town's
+  relic. Whatever they do here, they face the same choice at the trees.
 
 ### 6. The degradation `[to build — small]`
 
@@ -150,7 +148,7 @@ dragon, the ash and the elm, the first man and the first woman.
 ## Where else the foreshadowing goes
 
 The seven above are encounters to build. These are places already in the world where
-blood and trees can be put in front of the party at no cost.
+blood and trees can be put in front of the party without building anything new.
 
 - **The warforged who became a grove** `[Will 8/15]` — the first statement of the rule,
   and it comes from something that chose to become a tree. Verbatim, as written:
@@ -160,17 +158,17 @@ blood and trees can be put in front of the party at no cost.
 - **Musa in the cave** `[Will 8/15]` — already written into
   [the mines of Haals](../../suartleheim-eet/raand-copaa/encounters/the-mines-of-haals.md), and said by a man who holds the whole
   arrangement in contempt. Of Sarric: *"His fate is to return to the earth and lose his
-  soul and all he ever was to its eternal hunger."* The ground eats whatever goes into
-  it — the rule the rite runs on, spoken four thousand years before anyone carries a
-  tree across the sea. To Pax in the same conversation: *"Your father's people are in
-  the sky already. What did they send you down for?"* Both halves of what Pax is, out
-  of one mouth, in one scene.
+  soul and all he ever was to its eternal hunger."* Whatever is buried is lost, which is
+  the rule the rite runs on. To Pax in the same conversation: *"Your father's people are
+  in the sky already. What did they send you down for?"* Both sides of Pax's parentage
+  come up in one conversation.
 - **Brauron's temple wall** — already written into
-  [the peach town](../../suartleheim-eet/brauron/encounters/the-peach-town.md): *a young man is gored by a boar and mourned, and
-  a tree grows where his blood falls.* Painted on the wall of the temple of Artemis,
+  [the peach town](../../suartleheim-eet/brauron/encounters/the-peach-town.md): *a young
+  man is gored by a boar, figures stand over his body, and a tree grows where his blood
+  falls.* Painted on the wall of the temple of Artemis,
   where the party is standing anyway. Read it aloud.
 - **The hell-tree** — a tree kept in power by the deaths around it, and a cult that
-  runs the killing every season without going near it
+  runs the killing once a year without going near it
   ([the hell-tree](../../suartleheim-eet/brauron/encounters/the-hell-tree.md), [the game preserve](../../suartleheim-eet/brauron/encounters/the-game-preserve.md)).
 - **Mímir's well** — a head in the water under the world-tree that names its price
   before it will speak, and takes an eye, a memory, or a year off the end of a life
@@ -180,8 +178,7 @@ blood and trees can be put in front of the party at no cost.
   [the Iliad, blood on the ground](../../../handouts/iliad-blood-on-the-ground.md).
 - **Jasper** — Doug is the one at the table who can read the book, and Jasper is the
   one the hell-tree's poison strengthens instead of changing
-  ([Jasper — DM notes](../../../characters/jasper-dm-notes.md)). The Latin thread has a
-  reader in the party already.
+  ([Jasper — DM notes](../../../characters/jasper-dm-notes.md)). Doug reads Latin.
 
 ---
 
@@ -191,13 +188,12 @@ blood and trees can be put in front of the party at no cost.
 dragonborn zealots left the Muspel empire on foot, came up through the forests of the
 northwest to reach the demon-tunnels, and took two of the forest's dead as cuttings on
 the way past ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §4–5). Then they walked
-under the sea and massacred the Maalm colonists on the caldera and called it a
+under the sea and killed the Maalm colonists on the caldera and called it a
 reconsecration.
 
-So one march did all of it: the theft from Pax's mother's people, the blood the two
-trees were consecrated with, and the human–dragonborn rupture that opened the Time of
-Troubles. The endgame is the same people doing it again — the zealot fleet sailing for
-Moku ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6).
+That march took the cuttings from Pax's mother's people, killed the colonists whose
+blood consecrated the two trees, and started the human–dragonborn war of the Time of
+Troubles. The zealot fleet sailing for Moku is the same people doing it again ([Lonka / Jotunheim](../lore/lonka-jotunheim.md) §6).
 
 `[OPEN]` whether the forest-nameless know they were robbed, and whether a people with
 no names and no records can hold a grievance for 1,900 years at all.
@@ -210,8 +206,7 @@ no names and no records can hold a grievance for 1,900 years at all.
   Latin, the water and ash and the scraping. His mother's people have no rite at all,
   because they keep nothing. So as written, he has to use his father's rites to give
   the two trees the ending his mother's people would give them. Whether that is the
-  point, or whether the forest has a wordless version of its own, is the decision the
-  rest of this depends on.
+  point, or whether the forest has a wordless version of its own, is undecided.
 - Which of the seven sit before the hell-tree and which after.
 - Whether the zealots' book (stage: the pontifical) comes out of Kuru, the false-relic
   town, or Jotunheim itself.

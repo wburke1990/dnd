@@ -50,11 +50,11 @@ The party would not fight him for the tree
 ([session 15](../../../sessions/session-15.md)). They went to the cistern for water,
 found the door in the hillside, opened it, went down and rang the bell. The fight starts
 at the top of the hill with the bell still sounding below and the beach going under, after
-he says the line above.
+he says the *Völuspá* line under **How David plays him**, below.
 
-`[OPEN]` **What he is fighting for.** He never asked them to ring it — in the prep he
-says that line at 0 hit points, and here he says it alive. The party opened the door and
-rang the bell, and the island is sinking. Settle which of these he is
+`[OPEN]` **What he is fighting for.** He never asked them to ring it — in the prep
+*"Ring the bell under the hill"* is his line at 0 hit points, and at the table they rang
+it while he was alive and unhurt. The island is sinking. Settle which of these he is
 doing before the next session: stopping them leaving, getting aboard their boat, or
 fighting because the island is ending.
 
@@ -69,9 +69,8 @@ them and the trunk; everything else in the block runs the same whatever starts i
 
 ## How David plays him
 
-- **He fights to drive them off the hill, and escalates only when they stay.** In round
-  one he keeps them off him and off the tree, and he gives them a round to back off before
-  he does more.
+- **He fights to drive them off the hill. If they stay, he does more.** In round one he
+  keeps them off him and off the tree, and he gives them a round to back off first.
 - **He never goes more than 60 feet from the tree.** An archer standing off at 150 feet
   can shoot him all fight without being reached, and if the party retreat down the slope
   he does not follow.
@@ -322,7 +321,7 @@ to *Call Lightning*. He stays within 60 feet of the tree.
 **At 0 hit points** he is dying, not dead — stabilise him and he lives, and either way he
 gets his last words out. The rest of the session is unchanged: the bell, the hall, the
 island going under, the dragon coming out of the water
-([the island of the thinkers](island-of-the-thinkers.md), Under the Hill).
+([the island of the thinkers](island-of-the-thinkers.md), Under the hill).
 
 ## If it runs too hard or too easy
 
@@ -334,7 +333,7 @@ island going under, the dragon coming out of the water
 
 ## Connections
 
-- **[The island of the thinkers](island-of-the-thinkers.md)** — the run sheet this sits
+- **[The island of the thinkers](island-of-the-thinkers.md)** — the run sheet this is
   inside.
 - **[The sail to Brauron](../../suartleheim-eet/brauron/encounters/the-sail-to-brauron.md)** — the storm that breaks the mast and
   puts them here.

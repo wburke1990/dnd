@@ -53,12 +53,13 @@ and seven days is not long enough to reach the tree and hunt as well.
 
 The hunt is the **only annual way into the preserve**, so every one of Preem's
 [rival crews](../../maalm/encounters/tavern-rival-crews.md) that can get there does
-([overview §3.C](../../../nila/lore/campaign-overview.md)). The hunt is crowded with rivals.
+([overview §3.C](../../../nila/lore/campaign-overview.md)).
 
-- **The [Lapis Writ](../../maalm/encounters/tavern-rival-crews.md) come as paying hunters.** Founder-blood
-  Maalm aristocrats who pay the 5,000 gp — the "wealthy Maalm hunters" who charter the
-  transport. `[settled]` **Setha Renk's crew
-  is the only one with the 5,000 gp.** Every other crew at the fence got in some other way.
+- **The [Lapis Writ](../../maalm/encounters/tavern-rival-crews.md) come as paying hunters.** Maalm
+  aristocrats descended from the founders, of the same class as the "wealthy Maalm hunters"
+  who chartered the transport out of Maalm; they bought berths north out of Aar and paid
+  the 5,000 gp at the temple. `[settled]` **Setha Renk's crew
+  is the only one with the 5,000 gp.** Every other crew got in some other way.
 - **The party come as the quarry** — the one entry they can afford (put a name down as the
   stag, below) — or they slip in. Calix rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
 - **[Captain Cassia Roan](../../../../characters/the-second-hand.md) signs as quarry too**,
