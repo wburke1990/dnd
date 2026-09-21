@@ -22,8 +22,8 @@ status: ready
 
 ## The rite
 
-The priestesses put the quarry through a Greek animal sacrifice, step for step out of
-Homer: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
+The priestesses put the quarry through a Greek animal sacrifice, in the order Homer
+gives: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
 the altar. There the steps stop. Instead of the knife they tie on antlers, lay a
 deer-hide over her shoulders, read out the names of dogs, and open the door.
 
@@ -31,24 +31,30 @@ Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the wat
 the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
 take no part.
 
-## The three skins
+**Everyone who is going out is in the room for all of it.** The quarry are dressed first
+and the hunters watch, then the hunters are dressed and the quarry are still there. The
+temple does not run the two rites separately and nobody arrives partway through.
+
+## Who is dressed, and in what
 
 Same steps for all three. Only the skin and where they go change.
 
 | Who | Skin | Where they go |
 |---|---|---|
 | The town's girls, before they marry | bear | the temple, for a season — the historical Brauron rite |
-| The hunters, who pay 5,000 gp | hound-pelt | the muster at the fence |
+| The hunters, who pay 5,000 gp each | hound-pelt | the muster at the fence |
 | The quarry, who are paid | deer-hide and a rack of antlers | out into the wild at dawn |
 
 ## Cassia
 
 **[Captain Cassia Roan](../../../../characters/the-second-hand.md)** is the one dressed.
 She and the Second Hand chartered passage on a merchant transport carrying wealthy Maalm
-hunters ([session 10](../../../../sessions/session-10.md)); the party sail Blackacre's
-boat and get up the coast ahead of them
-([the run to Copaa §3](../../raand-copaa/encounters/the-run-to-copaa.md)). She fought
-beside them outside Preem's tower
+hunters ([session 10](../../../../sessions/session-10.md)). **That convoy got here
+first.** The party went to Copaa and Aar instead
+([the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md)), then lost the mast
+in the storm on the way north
+([session 15](../../../../sessions/session-15.md)), so they walk into a town the hunters
+have been in for some time. She fought beside them outside Preem's tower
 ([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
 
 **Why she signed.** It is the only way through the fence that does not cost 5,000 gp —
@@ -72,9 +78,9 @@ is `[OPEN]` in [the game preserve](the-game-preserve.md).
 ## The live stag
 
 At Aulis a deer was put on the altar in Iphigenia's place. The cult still does it: **a live
-stag at the temple before the horn releases one quarry,** and the hunter who brings it
-cuts that quarry's rack off and keeps it. Alive, and a stag — the temple turns away a
-carcass or a doe. The priestess says so at the sign-up if she is asked for a way out.
+stag brought to the temple before the horn on day 7, and the temple lets one quarry go.**
+The hunter who brings it cuts that quarry's rack off and keeps it. It must be alive and
+male. The temple turns away a carcass or a doe. The priestess says so at the sign-up if she is asked for a way out.
 
 Catching one while the hunt is running: an hour an attempt at DC 15 Wisdom (Survival),
 and on a failure by 5 or more one of the poisoned animals comes instead
@@ -83,10 +89,11 @@ and two hours to walk it back, noisy the whole way.
 
 ## The pay
 
-A hunting party pays **5,000 gp**. The temple keeps **1,000** and splits the other
-**4,000** among the quarry who sign — 1,000 each for four, 800 each for five — paid to a
-named address whether or not they live. If 4,000 gp is too much coin for the
-party, lower the entry fee and the pay drops with it.
+A hunter's place costs **5,000 gp**, settled at the table on 9/1 and told to the party by
+Pim Riddle at Aar ([session 13](../../../../sessions/session-13.md)). The temple pays
+**4,000** of what it takes in to the quarry who sign — 1,000 each for four, 800 each for
+five — to a named address whether or not they live, and keeps the rest. If 4,000 gp is
+too much coin for the party, lower the payout.
 
 ## What the quarry carries out
 
@@ -99,12 +106,14 @@ party, lower the entry fee and the pay drops with it.
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
-The hounds at the fence are named off the roll she reads, and the cult has kept the
-names as long as there has been a hunt.
+The hounds at the fence are named off the roll she reads. The names do not change from
+hunt to hunt.
 
 ## If the party interrupt
 
-Nobody in the room is armed and the four women will not fight.
+The four women will not fight and nothing in the rite is guarded. The hunters are in
+the room, though, and the Writ are five armed adventurers who have paid 5,000 gp each
+to be there.
 
 - **Take the tablet off the board.** It is the contract. She scrapes the wax flat and
   asks who is going instead.
@@ -135,8 +144,11 @@ in [the Actaeon handout](../../../../handouts/actaeon.md).
 
 ---
 
-> The party are at the back of the temple. One priestess reads; the others work. Pause
-> after each step. Fenced blocks are real quotations — read them as printed.
+> The party are at the back of the temple. The hunters are already in it — the
+> **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them, Setha Renk
+> and Calix Vire standing where they can see — and the Megabyzoi are along the wall.
+> Nobody comes in or goes out until Cassia does. One priestess reads; the others work.
+> Pause after each step. Fenced blocks are real quotations — read them as printed.
 
 ---
 
@@ -160,7 +172,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 |---|---|
 | Why that first | **"The pay goes out whether you come back or not."** |
 | What it pays | **"Four thousand, split between however many of you sign."** |
-| Where that comes from | **"The hunters pay five thousand. The temple keeps a thousand."** |
+| Where that comes from | **"The hunters pay. A place in the hunt is five thousand."** |
 | How long | **"Seven days. Come to the gate on the seventh evening and we open it."** |
 | Whether anyone comes back | **"Some do. Most run for the fence."** |
 | Why that is bad | **"We keep the hounds at the fence."** |
@@ -289,10 +301,11 @@ that I have begun with you, I will turn to another song.
 
 ---
 
-## The hunters, after
+## The hunters
 
-> *They come in behind you, in ones and twos. The same basin, the same basket. No hair
-> cut, no wreath. A hound-pelt over each one's shoulders.*
+> *They have watched the whole of it from the side of the room. When the door shuts
+> they come forward, in ones and twos. The same basin, the same basket. No hair cut,
+> no wreath. A hound-pelt over each one's shoulders.*
 
 ```
 To the gods themselves is due the discovery, to Apollo and Artemis,

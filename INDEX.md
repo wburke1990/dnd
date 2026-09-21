@@ -10,16 +10,28 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 
 | Region | Files | What it is |
 |---|---|---|
+| [island-of-the-thinkers](world/island-of-the-thinkers/README.md) | 2 | The island of shrinking statues, out in the water north of Aar, and the hilltop fight on it. |
 | [kalikhat](world/kalikhat/README.md) | 1 | The north coast strip, and the gates of the underworld. |
 | [kuru](world/kuru/README.md) | 2 | The NE landmass, the Order of Sunne and the phoenix. |
 | [lonka](world/lonka/README.md) | 6 | Jotunheim, the dragonborn origin and the Bleeding Star. |
 | [musleheim](world/musleheim/README.md) | 5 | The fire island: the Muspel empire and the orc wars. |
 | [nila](world/nila/README.md) | 25 | The world itself: cosmology, history, rules, and the powers that span regions. |
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
-| [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 8 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
+| [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 6 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
 | [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 10 | Raand, Copaa, Aar and the Haals mines. |
 | [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
+
+## island-of-the-thinkers
+
+The island of shrinking statues, out in the water north of Aar, and the hilltop fight on it.
+
+### Encounters
+
+| File | Status | What it is |
+|---|---|---|
+| [island of the thinkers](world/island-of-the-thinkers/encounters/island-of-the-thinkers.md) | `next` | An island of shrinking statues where a storm wrecks the party |
+| [the last thinker](world/island-of-the-thinkers/encounters/the-last-thinker.md) | `next` | The Last Thinker's stat block, his spell list, and how he fights for the tree |
 
 ## kalikhat
 
@@ -154,8 +166,6 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 
 | File | Status | What it is |
 |---|---|---|
-| [island of the thinkers](world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md) | `next` | An island of shrinking statues where a storm wrecks the party |
-| [the last thinker](world/suartleheim-eet/brauron/encounters/the-last-thinker.md) | `next` | The Last Thinker's stat block, his spell list, and how he fights for the tree |
 | [dressing the stag](world/suartleheim-eet/brauron/encounters/dressing-the-stag.md) | `ready` | The priestesses of Artemis dress Cassia as the stag, using the steps of a Homeric sacrifice |
 | [the sail to brauron](world/suartleheim-eet/brauron/encounters/the-sail-to-brauron.md) | `ready` | The northern leg — the sail up the coast, the storm, the Thinkers, and Brauron |
 | [the game preserve](world/suartleheim-eet/brauron/encounters/the-game-preserve.md) | `draft` | The cult of Artemis hunt in the poison deadland outside Brauron |
@@ -406,7 +416,7 @@ Sailing, weather, fleets and what lives in the water.
 | [session 12](sessions/session-12.md) | `played` | Rustam killed to end the sepsis, and his body dragged through Aar to his brother's door |
 | [session 13](sessions/session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
 | [session 14](sessions/session-14.md) | `played` | A session with Greg — Aniess and Setha talk, then the walk with Beartholomew |
-| [session 15](sessions/session-15.md) | `played` | Out of Aar without the knife, the storm that took the mast, and the bell under the island |
+| [session 15](sessions/session-15.md) | `played` | Out of Aar without the knife, the storm that snapped the mast, and the bell under the island |
 | [player messages earth dreams](sessions/player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 ## references

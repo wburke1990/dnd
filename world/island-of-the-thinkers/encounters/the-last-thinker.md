@@ -47,7 +47,7 @@ makes pollen. There is no female ash on the island, and no seed anywhere on it.
 ## The trigger `[played — session 15]`
 
 The party would not fight him for the tree
-([session 15](../../../../sessions/session-15.md)). They went to the cistern for water,
+([session 15](../../../sessions/session-15.md)). They went to the cistern for water,
 found the door in the hillside, opened it, went down and rang the bell. The fight starts
 at the top of the hill with the bell still sounding below and the beach going under, after
 he says the line above.
@@ -77,7 +77,7 @@ them and the trunk; everything else in the block runs the same whatever starts i
   he does not follow.
 - **He speaks Giant and Halfling, and no Common.** **Sarric speaks Giant** — a firbolg
   does, and in Nila the firbolgs are giant-kin
-  ([lineages](../../../nila/lore/lineages-and-afterlives.md)), so the conversation runs
+  ([lineages](../../nila/lore/lineages-and-afterlives.md)), so the conversation runs
   through Jeremy. Blackacre may have Halfling off the Fleet; ask Sam rather than deciding
   it for him. With no interpreter at all, he points: the garden, the cistern, the broken
   mast.
@@ -99,14 +99,14 @@ And after the bell rings, with the island going down under them `[said at the ta
 > *"The sun turns black, earth sinks in the sea. Mankind returns to clay."*
 
 `[DM]` **He has a second line, for his own death, and David picks it.** Five are held in
-[narration lines](../../../../references/narration-lines.md) under *A death* — Job 14 on
-the felled tree, *Hávamál* 77 on the name outlasting the man, and three others. The line
-above is about the world ending. The death line is about his own death.
+[narration lines](../../../references/narration-lines.md) under *A death* — Job 14 on
+the felled tree, *Hávamál* 77 on the name outlasting the man, and three others. Pick one of those five
+for his death; the line above is what he says once the bell has rung.
 
 `[DM]` **The line above is two quotations spliced, and it stays as it is.** The first
 half is *Völuspá* 57 in Henry Adams Bellows's 1923 translation; the second is the flood
 tablet of *Gilgamesh*, whose wording varies by translator. It is quoted text, so no style
-pass changes it (see [narration lines](../../../../references/narration-lines.md)).
+pass changes it (see [narration lines](../../../references/narration-lines.md)).
 He has to be alive to say it, which the 0-hit-point rule below allows.
 
 ---
@@ -114,7 +114,7 @@ He has to be alive to say it, which the 0-hit-point rule below allows.
 # PART TWO — STAT BLOCK
 
 *Small humanoid (halfling) · a druid 9 build · effective challenge ~6 — above the deadly
-encounter threshold for five level-3 characters, which is the intent. Change the ability
+encounter threshold for five level-3 characters. Change the ability
 scores and the spells if you want to.*
 
 | | |
@@ -145,8 +145,8 @@ these are for.
 
 **The Ancestor (1/Day, action).** He makes himself **Large** for 10 minutes, gains **45
 temporary hit points**, his Speed becomes 40 ft., and he makes **two slams** a turn: +8 to hit, reach
-10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He is the same halfling, four times
-as large. **He does this in round two of every fight**, and the hit points above are set on the
+10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He is the same halfling at Large
+size. **He does this in round two of every fight**, and the hit points above are set on the
 assumption that he does.
 
 **No Wild Shape.** A druid 9 has it. The Ancestor is the only shape he takes.
@@ -239,7 +239,7 @@ cover it instead.
 ## The map `[settling]`
 
 **Grandfather Tree** (`9fcef4`), in staging
-([the map inventory](../../../../tts/one-world-maps-inventory.md)). Four objects, and
+([the map inventory](../../../tts/one-world-maps-inventory.md)). Four objects, and
 `clean_ow_map prune` removed nothing from it. Its own floor image is a printed illustration with a
 title card and labels on it, so the floor is set to **Small town's grass with the pond
 taken out** (`Mods/Images/grass_no_pond.jpg`). That file is local, so it shows on this
@@ -336,11 +336,11 @@ island going under, the dragon coming out of the water
 
 - **[The island of the thinkers](island-of-the-thinkers.md)** — the run sheet this sits
   inside.
-- **[The sail to Brauron](the-sail-to-brauron.md)** — the storm that breaks the mast and
+- **[The sail to Brauron](../../suartleheim-eet/brauron/encounters/the-sail-to-brauron.md)** — the storm that breaks the mast and
   puts them here.
-- **[Sarric](../../../../characters/sarric.md)** — speaks Giant, so the conversation runs
+- **[Sarric](../../../characters/sarric.md)** — speaks Giant, so the conversation runs
   through him.
-- **[Blackacre](../../../../characters/blackacre.md)** — the druid who grows timber, and
+- **[Blackacre](../../../characters/blackacre.md)** — the druid who grows timber, and
   who cannot make a mast at level 3.
 
 [absorb-elements]: https://dnd5e.wikidot.com/spell:absorb-elements

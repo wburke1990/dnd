@@ -1,5 +1,5 @@
 ---
-summary: Out of Aar without the knife, the storm that took the mast, and the bell under the island
+summary: Out of Aar without the knife, the storm that snapped the mast, and the bell under the island
 status: played
 ---
 
@@ -10,8 +10,8 @@ status: played
 > **[Aar](../world/suartleheim-eet/raand-copaa/lore/the-tally-house-and-the-guest-house.md)**,
 > meet the storm from
 > [sailing and storms](../world/the-sea/lore/sailing-and-storms.md), and land on the
-> **[Island of the Thinkers](../world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md)**,
-> where [the Last Thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md)
+> **[Island of the Thinkers](../world/island-of-the-thinkers/encounters/island-of-the-thinkers.md)**,
+> where [the Last Thinker](../world/island-of-the-thinkers/encounters/the-last-thinker.md)
 > is.
 > Picks up from [session 14](session-14.md), the night before at Aar, and from
 > [session 13](session-13.md) for the rest of the party, which ended at the Tally House
@@ -83,7 +83,7 @@ taking three of them to lift. At the table Jasper took it alone.
 
 - **The fight has not been run.** Initiative is rolled and nobody has taken a turn.
   The stat block, the spell list and the round-by-round are in
-  [the Last Thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md).
+  [the Last Thinker](../world/island-of-the-thinkers/encounters/the-last-thinker.md).
   **David plays him**, and the dying line is still his to pick.
 - **The mast is gone.** They took water and left the tree, and the island is sinking.
 - **The island is sinking while the fight runs.** Decide before the next session how fast,
@@ -93,11 +93,11 @@ taking three of them to lift. At the table Jasper took it alone.
 
 ## Threads
 
-- `[OPEN]` **The second door.** The one they opened is set into a far larger door that
-  nothing on the outside of the hill shows. Nobody has said what the larger one is for, or
+- `[OPEN]` **The second door.** The one they opened is set into a far larger door. Nothing
+  on the outside of the hill shows that larger door. Nobody has said what it is for, or
   what size of thing it was cut for.
 - `[OPEN]` **What he is fighting for.** He never asked them to ring the bell. In the prep,
-  asking for it is his dying line, and here he is alive when they ring it.
+  asking for it is his dying line; at the table he was alive when they rang it.
 - **The stair going further down** was in the chamber and nobody took it. The way below is
   collapsed in the run sheet; it is still there on the map.
 - **Nobody has explained the island.** Nobody named the comet cycle at the table, and the

@@ -157,14 +157,13 @@ The party has to work out everything else in this note.
 ## The tree
 
 **The fruit.** Huge fruits grow on the tree, and inside each one is a baby demon.
-When a fruit splits open, the newborn is out in the open and talking before it knows
-where it is. See [what comes out of the fruit](#what-comes-out-of-the-fruit), below.
+When a fruit splits open, the newborn is out in the open and talking at once. See [what comes out of the fruit](#what-comes-out-of-the-fruit), below.
 
 **The voice.** The muttering comes from the mind of the dead god the tree grew from
 (below). It can be spoken to (Speak with Plants, or anything like it). It gives false answers, and it calls the demons its children. The party can deal with it by talking
-instead of fighting. The lines it mutters are in **the gibbering**, below.
+instead of fighting. The lines it mutters are in **the muttering**, below.
 `[OPEN]` its voice — what it wants, what it lies about, what it will trade. The
-gibbering does not settle that; it is what the tree says when nobody has asked it
+muttering does not settle that; it is what the tree says when nobody has asked it
 anything.
 
 **The comet, far down.** The stone the tree grew from is deep underground now, at the
@@ -172,7 +171,7 @@ foot of the stair (see the descent, below).
 
 ---
 
-## The gibbering
+## The muttering
 
 The tree talks the whole time the party is there, to itself, and does not stop for
 them. Roll d20 or pick. Repeat lines — say one twice in a row, come back to one from
@@ -231,7 +230,7 @@ copy, so it is written the other way here.
 
 **It talks, and everything it says is something it has heard.** A newborn demon comes
 out speaking and has no words of its own. What it has heard is the tree's muttering,
-in **the gibbering** above, and the stories the demons out of this tree have carried
+in **the muttering** above, and the stories the demons out of this tree have carried
 away for as long as the tree has fruited. Those are the stories the party watched
 acted out in the square at [Brauron](the-peach-town.md) three days before. The
 newborn says them back.
@@ -267,7 +266,7 @@ whether the party gets anything:
   fights or goes into the ground.
 
 **The name.** It says its own name the first time it speaks, in among the quotations, and it
-will say it again to anyone who asks while it is still wet. It does not guard its name.
+will say it again to anyone who asks before it hardens. It does not guard its name.
 No roll: read the speech out. The name is the one word in it
 that is not a quotation.
 
@@ -353,8 +352,8 @@ believes the illusion.**
 the sphere: the sphere sets which characters make the first save, and after that the
 damage follows the frightened creature. And the stone is a broken rock, not a caster
 standing there, so there is nothing for the party to damage to break its concentration.
-Five characters taking 22 a turn, and neither leaving the sphere nor damaging the stone
-ends the spell, is a dead party in three rounds. **Here it ends for a character the
+Five characters take 22 a turn, nothing they can do ends the spell, and the party dies in
+three rounds. **Here it ends for a character the
 moment they reach the level above.** The stone casts it to make them climb.
 
 *Phantasmal Force* and *Phantasmal Killer* take one character at a time, and a made save
@@ -392,7 +391,7 @@ have been on the stone since the giants tore the god apart.
 and *Project Image* 7th, *Antipathy/Sympathy* 8th, *Weird* 9th. The stone does not cast
 from spell slots — give it a fixed list and a number of uses a day.
 
-`[DM]` The Last Thinker fights with earth and stone ([his block](the-last-thinker.md))
+`[DM]` The Last Thinker fights with earth and stone ([his block](../../../island-of-the-thinkers/encounters/the-last-thinker.md))
 and the party meets him first, on the sail up. Keep this to illusion so the two fights
 do not run the same way.
 

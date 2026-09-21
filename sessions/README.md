@@ -124,7 +124,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [session 12](session-12.md) | `played` | Rustam killed to end the sepsis, and his body dragged through Aar to his brother's door |
 | [session 13](session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
 | [session 14](session-14.md) | `played` | A session with Greg — Aniess and Setha talk, then the walk with Beartholomew |
-| [session 15](session-15.md) | `played` | Out of Aar without the knife, the storm that took the mast, and the bell under the island |
+| [session 15](session-15.md) | `played` | Out of Aar without the knife, the storm that snapped the mast, and the bell under the island |
 | [player messages earth dreams](player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 <!-- END GENERATED INDEX -->

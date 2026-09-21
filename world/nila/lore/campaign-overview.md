@@ -21,17 +21,17 @@ you want it, but we honestly don't care whether you follow it. Mostly: have fun,
 at things, and see what happens."* It's an open **sandbox** — which is exactly why
 *no railroading* (§4) is rule one.
 
-**The quiet through-line underneath** (for the DMs, not the pitch): a mixed band takes work
+**The through-line** (for the DMs, not the pitch): a mixed band takes work
 from a wizard in the conquest-city of Maalm, collecting names from the tombs of a dead
-empire. The names are not trophies — they are **keys**, and the party is being taught,
-one job at a time, what a key can do to a soul, so that when they are finally handed
-the most dangerous name in the world, the choice to use it is entirely their own.
+empire. A true name gives its holder power over a soul, and the party learns what that
+does one job at a time, so that when they are finally handed the most dangerous name in
+the world, the choice to use it is theirs.
 
 ---
 
 ## 2. The Central Thesis — Names & Ownership
 
-The campaign's three big themes are really **one idea seen from three sides:**
+The campaign's three big themes share one idea:
 
 - **Colonialism** is taking power over others and renaming their world as yours.
 - **Transformation** (binding, the Order's rituals, the snake-island rites) is
@@ -40,13 +40,12 @@ The campaign's three big themes are really **one idea seen from three sides:**
   own and remake a soul with no saving throw (see
   [house rules](house-rules-and-world-mechanics.md)).
 
-> **Thesis:** *The power to name is the power to own, and to remake. You will be
-> handed that power — over a god, a demon, maybe a person — and you will have to
-> choose what kind of power it is.*
+> **Thesis:** *A true name gives its holder power over a soul. You will be handed that
+> power — over a god, a demon, maybe a person — and you will choose how to use it.*
 
-The empire, the Order of Sunne, and Preem are all running the **same operation at
-different scales.** The [dream quest](../../suartleheim-eet/maalm/encounters/the-dream-quest.md) is the
-party's moral rehearsal for the choice the campaign is built toward.
+The empire, the Order of Sunne, and Preem all take power over others and rename what
+they take. The [dream quest](../../suartleheim-eet/maalm/encounters/the-dream-quest.md)
+puts a smaller version of the same choice to the party.
 
 ---
 
@@ -59,7 +58,7 @@ asks to be actively pushed in this direction while brainstorming.*
 Traditional fantasy tropes inverted: **elves are not the good guys** (the Amseh
 elven empire grew rich extracting from the snake-island folk and called it trade);
 **orcs and half-orcs are noble warriors**. Maalm is a conquest-city built on the
-bones of the people it replaced. Preem's demon-slavery underlies all of it.
+ruins of the people it replaced. Preem's demon-slavery underlies all of it.
 
 - **Foreground vs. background (resolved):** **Preem's demon-slavery is the foreground**
   — the party is personally complicit in it (they harvest the names that fuel it), so
@@ -67,21 +66,19 @@ bones of the people it replaced. Preem's demon-slavery underlies all of it.
   the climax. **Kuru's reconquest** (the Order of Sunne; colonies on the Kurunatukas,
   beachheads on Musleheim) is the **visible geopolitical background** — the war on the
   map. The **Amseh elven empire** and **Maalm itself** are the **deep-history backdrop**,
-  proving it has always been this way. *The same operation at four scales.*
+  both earlier instances of the same thing.
 - **Two rival empires, two militaristic arms (resolved — 6/28):** the archipelago is
-  colonized by **two separate powers** whose methods *rhyme but are not coordinated.*
+  colonized by **two separate powers** whose methods are similar but uncoordinated.
   **Kuru** projects power through its militaristic *religious* arm — the
-  [Order of Sunne](../../kuru/lore/kuru-and-the-phoenix.md), crusade and warforged legions, fire and
-  faith. **Noku Kurunatuka** projects power through its militaristic *merchant* arm —
+  [Order of Sunne](../../kuru/lore/kuru-and-the-phoenix.md), crusade and warforged legions. **Noku Kurunatuka** projects power through its militaristic *merchant* arm —
   **the [Company](the-company.md),** Nila's East India Company: coin, charter, and a
-  private army. They rhyme — one burns the [orc diaspora](../../musleheim/lore/the-muspel-empire.md) as
+  private army. The methods are similar — one burns the [orc diaspora](../../musleheim/lore/the-muspel-empire.md) as
   heathens, the other ruins and buys them out — but they are **rivals, not allies:**
   🔒 the Company is secretly the [Second Foundation](the-second-foundation.md)'s (the
   source of Preem's money), and the Foundation has **infiltrated Kuru's Kurunatuka
   colonies while planning to wipe out Kuru's armies — and everyone — with the coming
   comet pass.** The Company is also the **single author the campaign was missing for its
-  ecological atrocities** (the party's backstory crimes included) — *the thing they
-  should want to burn down.*
+  ecological atrocities** (the party's backstory crimes included).
 - **Orcs/half-orcs** *(resolved — see [the Muspel empire & the orc wars](../../musleheim/lore/the-muspel-empire.md))*:
   born ~1,000 years ago when the comet's mutating sickness came down on Musleheim and
   remade the **Muspel empire's own people** — orcs near the impact, half-orcs at the
@@ -95,39 +92,38 @@ Eustace's dragon-change (Dawn Treader), the shapeshifting demons, Aniess's
 snake-merging by the Order, the coming snake-island rituals, and the **comet
 cycle**: stones fall from the comet, become dragons and mythic beasts, then
 become islands, then back again. The contrast between transformation **chosen**
-(redemptive) and transformation **inflicted** (violation) may *be* the point.
+(redemptive) and transformation **inflicted** (violation).
 
 - **Resolved (player-driven):** it's **up to the players.** The world is full of
   transformation-as-*violation* (Aniess, the bound demons, the Order's rituals); the
   hope is that the PCs, over the campaign, will choose to **transform their own
   characters willingly** — making chosen transformation the redemptive counterweight to
-  the inflicted kind. The tension *is* the theme, and the players are the ones who
-  resolve it.
+  the inflicted kind, so the campaign holds both. The players decide how it resolves.
 - **Player discovery (resolved):** reveal the mechanics *slowly* and let the players
   **discover the comet cycle for themselves** — no exposition dump. The
-  [Island of the Thinkers](../../suartleheim-eet/brauron/encounters/island-of-the-thinkers.md) (an island that
+  [Island of the Thinkers](../../island-of-the-thinkers/encounters/island-of-the-thinkers.md) (an island that
   sinks and releases a dragon) and the Egyptian tombs' inner chambers
   ([Valley of the Kings](../../suartleheim-eet/maalm/encounters/valley-of-the-kings.md)) **start this process**,
   each showing a piece of the stones ↔ dragons ↔ beasts ↔ islands cycle without
   explaining it.
 
 ### C. The Name Quest
-*Will has waited years to run a name quest. It is a main arc, not a subplot.*
+*Will has waited years to run a name quest. It is a main arc.*
 
 True names = power over souls (the Egyptian **Ren**; Planar Binding auto-succeeds
 with a true name). The party harvests names for Preem without understanding them.
 
-- **Feel (resolved):** Planar Binding is meant to be **horrifying** — the bound demons
-  are **slaves, in constant pain** (see [house rules](house-rules-and-world-mechanics.md)).
-  **Escalate the horror** as the plot goes: begin with bound demons, then widen to
+- **Feel (resolved):** the bound demons are **slaves, in constant pain** (see
+  [house rules](house-rules-and-world-mechanics.md)).
+  **Escalate** as the plot goes: begin with bound demons, then widen to
   **other enslaved creatures** as the stakes rise.
 - **Scope (resolved):** there is definitely a **climactic name — the volcano-demon** —
   but the campaign seeds **escalating true-name quests along the way**, so the party
   comes to understand the mechanic (and its horror) *before* the final decision.
 - **Many groups, no rules (resolved):** the party is **not Preem's only crew** — he has
   **many groups out hunting names at once,** and it is a **race with no rules.** This is
-  a reusable DM lever: **rival groups (or the scattered remains of their bodies)** are a
-  fun way to **raise a dungeon's danger or add a wrinkle to a quest** — a competitor who
+  reusable: **rival groups (or the scattered remains of their bodies)** can **raise a
+  dungeon's danger or add a wrinkle to a quest** — a competitor who
   beat you to the prize, a trap that already killed the last crew, a wounded survivor
   with information to trade. (One such group escorts the resurrected warforged
   [Shepard](../../../characters/shepard.md), whom [Aniess](../../../characters/aniess.md) means to
@@ -145,7 +141,7 @@ verbatim (see [handouts](../handouts/) and
 cosmology per region, played straight. **Egypt (Maalm) was deliberately first**
 because Will knows it *least* well, which forced disciplined primary-source
 research; the regions the party spends more time in (the Norse north, etc.) will
-be richer and more fully fleshed because Will already knows them deeply. **Egypt
+be more detailed because Will already knows them deeply. **Egypt
 (Maalm) is now complete — its cosmology fully built out — and the work moves on to
 the other regions.** The region → myth map lives in §5.
 
@@ -159,7 +155,7 @@ Nod* is the literal incantation of the river-of-stars crossing).
 
 ## 4. What Makes a Good Encounter
 
-The criteria, in order. The first is load-bearing; the rest are preferences —
+The criteria, in order. The first is required; the rest are preferences —
 hit as many as fit, not all of them every time.
 
 1. **No railroading.** The choices that matter only mean something if they were
@@ -180,7 +176,7 @@ hit as many as fit, not all of them every time.
 
 ## 5. The Shape of the World
 
-- **Nila** — the world. Less dense than Earth, honeycombed with tunnels; the
+- **Nila** — the world. Less dense than Earth, full of tunnels; the
   **Abyss is those tunnels**, not a separate plane (see
   [house rules](house-rules-and-world-mechanics.md)).
 - **Maalm** — conquest-city built atop the ruined Amseh empire and over the place
@@ -203,7 +199,7 @@ hit as many as fit, not all of them every time.
   Later passes (~4,000 / 3,000 / 2,000 years ago) **built the entire island of
   Musleheim** through volcanism. The most recent pass (~1,000 years ago) **went
   badly** — it blanketed the continent in an **alchemical, mutating sickness**.
-  Sea levels swing dramatically and **islands come and go.** It is a wild,
+  Sea levels swing and **islands come and go.** It is a wild,
   unstable time (and a source of transformation in its own right). `[draft]` **A Manichean
   read:** each pass is a contest of **magma demon vs. sky dragon** decided by **pace** —
   slow magma **flows out and builds land**, a fast clash **explodes** (Krakatoa) — which
@@ -216,7 +212,7 @@ hit as many as fit, not all of them every time.
   resettled by orcs and then conquered by Kuru; see [Musleheim](../../musleheim/lore/musleheim.md).)* The
   coming pass's **largest comet fragment is pulled to the hot spot's current position,
   over Moku Kurunatuka** — which is why the finale happens there (§6). And because the
-  world is **land-starved and its old soils are exhausted** (below), this **fresh
+  world is **short of land and its old soils are exhausted** (below), this **fresh
   volcanic land set off a land rush:** the Kurunatukas' **soil is extraordinarily
   fertile** — capable of far more intensive agriculture than tired ground like
   Maalm — which is what made them worth colonizing and let them grow into
@@ -225,8 +221,7 @@ hit as many as fit, not all of them every time.
   **maximum heat, magic, and land-generation** — and **both primordial forces are drawn to
   it:** the **sky-dragons** (comet-beasts) and the **magma-demons** (the power apart — see
   the Manichean note above and [Lonka — Jotunheim](../../lonka/lore/lonka-jotunheim.md)). So the hot spot's
-  wandering path is also a **moving front of dragon-and-demon activity,** and it threads the
-  whole history together:
+  wandering path is where the dragons and the demons appear, through the whole history:
   - **Under Lonka** (~6,000–5,000 ya): the dragons dwelt there and the dragonborn rose, and
     the **Bleeding Star was the dragon-vs-demon contest fought *on that very island*** —
     Lonka's Ragnarok ([Lonka — Jotunheim](../../lonka/lore/lonka-jotunheim.md)).
@@ -241,9 +236,9 @@ hit as many as fit, not all of them every time.
   it will swing close past the planet on its way back **out**, ~**one year** from
   now. **Preem has handed the party that one-year countdown** (the
   [Second Foundation](the-second-foundation.md) expects **Ragnarok** within ~a year;
-  see [Preem](../../../characters/preem.md)). The dramatic irony: the doom hangs in plain
-  sight overhead the entire campaign, and only the party's ignorance hides it.
-- **The world's defining tension** — Nila is *mostly water*, and two forces pull
+  see [Preem](../../../characters/preem.md)). The comet is visible overhead for the whole
+  campaign; the party does not know what it is.
+- **The tension the world runs on** — Nila is *mostly water*, and two forces pull
   against each other with no clean answer:
   - **Colder** → the ice caps grow, sea level drops, **more land** becomes available.
   - **Warmer** → more precipitation and more ocean currents surfacing minerals,
@@ -261,7 +256,7 @@ names, strongly suggestive but unconfirmed]`:
 | Musleheim | Norse — Muspelheim, the realm of fire |
 | Suartleheim (Weet / Eet = West / East) | **Weet:** dwarves (Norse Svartalfheim). **Eet:** [fallen gnome kingdoms](../../suartleheim-eet/raand-copaa/lore/the-fallen-gnome-kingdom.md) — Maalm's SE corner, remnant gnomes at Raand. To the south, off-map: [the giants](../../suartleheim-eet/lore/the-southern-land.md) |
 | Lonka (now **Jotunheim**) | Dragonborn holy origin & Phoenician **Tyre**, *fused on purpose* with Ramayana **Lanka** — Golden Lonka, Mt Trikuta, the Ravana-seizure rhyme (see [Lonka / Jotunheim](../../lonka/lore/lonka-jotunheim.md)) |
-| Kalikhat | South Asian — Kali / Hindu?; **cradle of the Underdark peoples** — drow & deep gnomes who fled underground after the Bleeding Star and first dealt with demons `[OPEN — reconcile with Suartleheim/Svartalfheim]` |
+| Kalikhat | South Asian — Kali / Hindu?; **where the drow and deep gnomes came from** — they fled underground after the Bleeding Star and first dealt with demons `[OPEN — reconcile with Suartleheim/Svartalfheim]` |
 | Kuru | Home of the Order of Sunne; Anglo-Saxon naming (Sunne, Cnihtas) — Anglo-Saxon / Arthurian? Its god is a comet-born **phoenix** that dies and is reborn rather than ending (rebirth timing `[OPEN]`); its warforged clergy remake themselves in god-stone (see [Kuru & the phoenix](../../kuru/lore/kuru-and-the-phoenix.md)) |
 | Moku & Noku Kurunatuka | Polynesian / Oceanic |
 | Mukka | ? — source of the **mercenary pirate ships** Kuru & Noku rely on to supply the Musleheim war (no navy of their own); see [Kuru & the phoenix §5](../../kuru/lore/kuru-and-the-phoenix.md) |
@@ -286,7 +281,7 @@ before the next pass — see "The clock" above.)*
 
 **The through-line** (the campaign's shape): **complicity → recognition →
 choice.** The party works for Preem (Act 1: the tombs / name-gathering), gradually
-discovers what names and binding really *are* (the dream quest is the hinge), uncovers
+discovers what names and binding really *are* (the dream quest shows them what binding does), uncovers
 Preem's demon army, and is finally handed the **volcano-demon's true name** — and must
 decide what kind of power to be. *(Sandbox caveat: this is the through-line if they pull on it,
 not a track they're forced down — see §4.)*
@@ -304,8 +299,6 @@ and reclaim the dragons gathering there with god-stone — which will not work, 
 the dragons are there for the hot spot and no stone or killing brings them
 (`[draft — endgame]`; see [lonka-jotunheim.md §6](../../lonka/lore/lonka-jotunheim.md)). Whether they
 also massacre the colonists is [Blackacre's](../../../characters/blackacre-dm-notes.md).
-The cycle that opened with Taniyn *choosing* to
-become an island closes on the party *choosing* what to do with a name.
 
 **The comet at the end is pale.** `[idea]` The concluding comet fall is a white
 comet, and the beast it drops is white — a giant pegasus or a white dragon. It
@@ -314,13 +307,13 @@ pale rider arriving as a white winged beast, falling at the last pass.
 
 **The closing poem (planned).** `[idea]` Walter de la Mare's **"Nod"** — the old shepherd
 folding his flock at nightfall — read over the very end: **the dragons returning, the
-islands sinking back into the sea,** the age folded up to sleep until the next pass. (See
+islands sinking back into the sea** until the next pass. (See
 [handout placements](../../../handouts/README.md).)
 
 **The setpiece (planned):** a **circle-cast wizard duel** — rival teams of casters. One
 team works the **planar binding** behind an **inverted magic circle + Forcecage**, their
 defenders holding a **Prismatic Wall**; the other team races to **break in and stop the
-casting** before it completes. Deliberately, gloriously complicated. `[OPEN — full
+casting** before it completes. `[OPEN — full
 mechanics of the circle-cast duel]`
 
 ---
@@ -377,5 +370,5 @@ mechanics of the circle-cast duel]`
 
 ---
 
-*Living doc — last shaped during a brainstorming pass. Fill the `[OPEN]` markers
+*Living doc — last edited during a brainstorming pass. Fill the `[OPEN]` markers
 as decisions land.*

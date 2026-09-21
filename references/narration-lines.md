@@ -10,7 +10,7 @@ handout material). Grouped by when to say them: a time of day passing, a scene
 opening, an event landing. Read them straight, without preamble.*
 
 **Related:** [Homeric epithets](homeric-epithets.md) for the technique of a
-*fixed* recurring formula. These are the opposite tool — one-off lines, each
+*fixed* recurring formula. These are one-off lines, each
 used once. If a line here starts getting used every session, move it to the
 formula file and lock the wording.
 
@@ -124,7 +124,7 @@ it.
 > seas."
 > — Alfred, Lord Tennyson, *Ulysses*
 
-The Tennyson doubles as a callback — [Ulysses](../handouts/ulysses.md) is
+The players may recognize the Tennyson — [Ulysses](../handouts/ulysses.md) is
 already a handout, so the players may recognize the line — use it at a second
 landfall, not the first.
 
@@ -148,9 +148,9 @@ Masefield is for a crew glad to be moving again, Melville for a quiet landing.
 > — Samuel Taylor Coleridge, *The Rime of the Ancient Mariner*
 
 The Byron is the one for a shore where fleets have been lost. It says the sea does
-not care, and the
-[drying of the valley](../world/suartleheim-eet/maalm/lore/the-drying-of-the-valley.md) material
-says the same.
+not care. Use it near the
+[drying of the valley](../world/suartleheim-eet/maalm/lore/the-drying-of-the-valley.md)
+material.
 
 ### Putting out to sea
 
@@ -177,7 +177,7 @@ Use one at departure and the other at the grave.
 
 **Used.** The Last Thinker says the first two as one line when the island goes down:
 *"The sun turns black, earth sinks in the sea. Mankind returns to clay."* See
-[the last thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md).
+[the last thinker](../world/island-of-the-thinkers/encounters/the-last-thinker.md).
 
 ---
 
@@ -219,7 +219,7 @@ another death.
 **The Last Thinker's dying line comes out of this list, and David picks it.**
 The line he says when the island goes down is already set (see *The world ending*
 above). The line for his death itself is still to pick, from the list here. See
-[the last thinker](../world/suartleheim-eet/brauron/encounters/the-last-thinker.md).
+[the last thinker](../world/island-of-the-thinkers/encounters/the-last-thinker.md).
 
 ---
 
@@ -247,7 +247,7 @@ Worth checking before any of these gets read aloud as "this is Tolkien":
   credited to Pope — but Pope translated the *Iliad* in rhymed heroic couplets,
   and that line is prose. Almost certainly not his. The lines are usable and the
   attributions are wrong, so use them as our own narration, unattributed.
-- **Cather, *O Pioneers!*** — "Day, like a tired woman" doesn't turn up in
+- **Cather, *O Pioneers!*** — "Day, like a tired woman" is not recorded in
   memory as hers. Unverified.
 - **Tolkien, *Fellowship*** — "the last light of evening gilded the
   battlements" doesn't read as a line from the book. Unverified.
@@ -258,7 +258,7 @@ two Milton *Comus* passages, Dickens, Verne, Wells, Martin, Eliot. The Tolstoy
 wording depends on which translation, and the Pevear & Volokhonsky credit is
 worth confirming.
 
-The safe move for any flagged line: keep the words, drop the attribution, and
+For any flagged line: keep the words, drop the attribution, and
 treat it as ours. At the table nobody asks for a citation — the risk is only in
 telling the players it's Tolkien when it isn't.
 

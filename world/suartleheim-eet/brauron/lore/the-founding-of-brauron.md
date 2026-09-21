@@ -44,8 +44,8 @@ newborn off the tree does. The word was **Emmu**. Hammou wrote down everything i
 and the town cut the writing into stone; the word has been on the plinth in the square
 ever since (see [its name](#its-name), below).
 
-**What the town called it.** The Boy. Four thousand years of inscriptions in that
-square and no other name in any of them.
+**What the town called it.** The Boy. No other name appears in four thousand years of
+inscriptions in the square.
 
 **What it built.**
 
@@ -55,7 +55,7 @@ square and no other name in any of them.
   [the grove](#the-grove), below).
 - **The sanctuary.** It gave the deadland and the tree to the goddess the gnomes had
   brought with them, under the name Hecate, and the cult has kept hunters off the tree
-  since. The [sacred hunt](../encounters/the-game-preserve.md) runs each season and
+  since. The [sacred hunt](../encounters/the-game-preserve.md) runs once a year and
   turns back at a line the priestesses set.
 - **The Megabyzoi.** It made the eunuch priesthood after the first peach in the grove
   split, and put what came out into it (see
@@ -77,7 +77,7 @@ The paintings the party sees in
 [the temple](../encounters/the-peach-town.md) — a young man gored and mourned, a tree
 growing where his blood falls — are the Boy, told as
 [Attis](../../../../handouts/the-birth-of-attis.md). The Megabyzoi mourn him once a year.
-The man-hunt has run every season since, and the quarry is not expected to come back.
+The man-hunt has run every year since, and the quarry is not expected to come back.
 
 **Where it is.** It re-formed in the Abyss and it is there now. The demon-people's
 cities follow the hotspot, and the living one is under the Kurunatukas, where demons
@@ -115,10 +115,9 @@ magecraft, invented in Maalm about 1,850 years ago and kept secret since (see
 maps and always has been. In the town the word is a noise the boy makes.
 
 **Preem's errand takes the party past the plinth.** He pays 5 gp a name and has sent
-them four days north to take one off a newborn at the tree (see
-[Preem](../../../../characters/preem.md)). The name they were hired for is at the tree. The
-name of the thing that founded the town they sleep in on the way is cut into the plinth
-in the square, and said in the play that runs there.
+them to take one off a newborn at the tree, four days inland of the square (see
+[Preem](../../../../characters/preem.md)). The name they were hired for is at the tree.
+Emmu is cut into the plinth in the square and said in the play there.
 
 They cannot read it as a name on the first pass. At the tree a newborn says lines it has
 heard and one word it has not. The last line on the plinth is built the same way. See
@@ -172,9 +171,9 @@ name on the roll is the Boy, and the head of the Melissae hands that down to the
 It is why the priestess who takes a quarry's name asks first where to send the money
 ([the dressing](../encounters/dressing-the-stag.md)).
 
-**The Megabyzoi.** The eleven children born out of the grove are in this order, inside a larger body of cut
-gnome men. The cutting is what the town is told about the beardless faces, and it is
-why nobody asks why a priest has not aged. They know what they are, they know the Boy
+**The Megabyzoi.** The eleven children born out of the grove are in this order, inside a
+larger body of cut gnome men. The town is told the beardless faces come from the cutting,
+so nobody asks why a priest has not aged. They know what they are, they know the Boy
 came off the tree, and they know what the tree is, because he told them. At every
 dressing they stand along the wall and take no part
 ([the dressing](../encounters/dressing-the-stag.md)).
@@ -226,13 +225,13 @@ paintings of his death have been on the temple wall since.
 
 ## The dragonborn founders
 
-`[settled — 9/21]` **Brauron is not an exception.** A wandering dragonborn founded it,
-the way one founded nearly every settlement in the world (see
+`[settled — 9/21]` A wandering dragonborn founded it, the way one founded nearly every
+settlement in the world (see
 [the wandering](../../../the-sea/lore/wandering-dragonborn.md)). Hammou stopped here and a
 town grew where he stopped. He was carrying the fruit.
 
-He was of the branch that kept roaming, and his name is of that register — the Berber
-and Arabic forms, against the zealots' archaic Phoenician. He came north past Raand
+He was of the branch that kept roaming, and his name uses the Berber and Arabic forms,
+not the zealots' archaic Phoenician. He came north past Raand
 about four thousand years ago, in the decades the túatha began to fail
 ([the fallen gnome kingdoms](../../raand-copaa/lore/the-fallen-gnome-kingdom.md)), and he went
 past the last settlement on that coast and kept going.
@@ -241,8 +240,7 @@ past the last settlement on that coast and kept going.
 mask. There was no old woman; the play has one because
 [the tale](../../../../handouts/momotaro.md) has one.
 
-**His watch-stone stands on the shore north of the town**, facing the water, over his
-grave. The inscription is Longfellow's
+**His grave stone stands on the shore north of the town**, facing the water. The inscription is Longfellow's
 [The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md) — a
 traveller goes up the sands toward the town, and the day returns and he does not.
 
@@ -261,8 +259,8 @@ walk through the grove.
 
 `[Sarric]` The **Pen of Comprehend Languages** is at will (see
 [Preem](../../../../characters/preem.md)). Sarric can read the whole plinth on the spot, and
-the last line comes through in plain speech except for one word, which comes through as
-itself. He can do this on day one, four days before the tree, and the pen costs nothing
+the last line comes through in plain speech except for one word, which stays
+untranslated. He can do this on day one, four days before the tree, and the pen costs nothing
 to use.
 
 `[Aniess]` **Timebiter** on a splinter of the oldest tree in the grove returns the
@@ -270,7 +268,7 @@ grove's age. It is the town's age, to the decade.
 
 **Day four, at the tree.** A newborn splits out and says the lines the party watched
 acted in the square, with one word among them that is not a quotation. Preem is paying
-for exactly this word.
+for this word.
 
 **On the way back through town.** The last line on the plinth is built the same way. If
 they work it out here, they have a second name and nobody to stop them taking it.
@@ -293,5 +291,5 @@ they work it out here, they have a second name and nobody to stop them taking it
   [demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)).
 - The temple holds eleven more words, filed and unguarded. `[OPEN]` whether the party
   tells Preem the temple keeps writing, and whether he sends a crew for it.
-- The party reaches the deep city later. Emmu is there, and so is whatever they did
-  with its name.
+- The party reaches the deep city later. Emmu is there. If they sold the name, Preem has
+  it, and Emmu is bound by it.

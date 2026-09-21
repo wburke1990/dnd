@@ -60,6 +60,10 @@ REGION_NOTES = {
         "on the coast north of Raand."
     ),
     "suartleheim-eet/raand-copaa": "Raand, Copaa, Aar and the Haals mines.",
+    "island-of-the-thinkers": (
+        "The island of shrinking statues, out in the water north of Aar, and the "
+        "hilltop fight on it."
+    ),
     "musleheim": "The fire island: the Muspel empire and the orc wars.",
     "kuru": "The NE landmass, the Order of Sunne and the phoenix.",
     "lonka": "Jotunheim, the dragonborn origin and the Bleeding Star.",

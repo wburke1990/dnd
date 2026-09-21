@@ -5,16 +5,22 @@ status: ready
 
 # The Sail to Brauron — the coast north, the storm, and the Thinkers
 
-> **DM reference.** The northern half of the packet that used to cover both routes, held
-> for whenever the party turn north for the **Sacred Hunt**. They chose **Copaa** instead in
-> [session 11](../../../../sessions/session-11.md), so the live route is
-> [the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md); this is what
-> happens when they sail on. The Hunt runs once a year and is the only way into the
-> preserve, so the crews gather when it comes near.
+> **DM reference.** The northern half of the packet that used to cover both routes. The
+> party took **Copaa** first ([session 11](../../../../sessions/session-11.md)) and sailed
+> north out of **Aar** afterwards, so this leg is running now: §§1–4 were played in
+> [session 15](../../../../sessions/session-15.md) and §5 is what is ahead. The Hunt runs
+> once a year and is the only way into the preserve, so the crews gather when it comes
+> near — and the crews that sailed straight north are there already.
 
-**Order of events:** up the coast from Aar or Aal, worsening weather, a storm that breaks
-the mast and puts them on the **[Island of the Thinkers](island-of-the-thinkers.md)**, and
-then Brauron and the hunt itself.
+**Order of events:** up the coast from Aar, worsening weather, a storm that breaks the
+mast and puts them on the
+**[Island of the Thinkers](../../../island-of-the-thinkers/encounters/island-of-the-thinkers.md)**,
+and then Brauron and the hunt itself.
+
+`[OPEN]` **How they leave the island.** The mast is gone, they never took the tree, and
+the island is going under while the fight runs
+([the Last Thinker](../../../island-of-the-thinkers/encounters/the-last-thinker.md)).
+Nothing has been decided about what carries them the rest of the way to Brauron.
 
 ---
 
@@ -27,10 +33,10 @@ a failure costs a watch, a hull box, or the course. Roll **1d6** each watch for 
 weather — 1–2 worse, 3–4 the same, 5–6 better — and shift the result one step worse
 within a day of Brauron.
 
-Roll the **sea table** once per day of open water. Rolls 7, 10, 13 and 15 are settled by
-talking or by solving them; at level 3 the party break contact and run from the rest.
+Roll the **sea table** once per day of open water. Rolls 7, 10, 13 and 15 can be resolved
+without a fight; at level 3 the party break contact and run from the rest.
 
-## 2 · The rising sea — the four choices
+## 2 · The rising sea — the four choices  `[played — session 15]`
 
 When it builds, offer four ways to meet it:
 
@@ -42,7 +48,10 @@ When it builds, offer four ways to meet it:
 **Running before it, or a drive-through that goes badly, is what puts them on the
 island.**
 
-## 3 · The storm set-piece  `→` [sailing-and-storms.md](../../../the-sea/lore/sailing-and-storms.md)
+## 3 · The storm  `[played — session 15]`  `→` [sailing-and-storms.md](../../../the-sea/lore/sailing-and-storms.md)
+
+What the table actually rolled — the dolphins, Sarric overboard, Aniess's natural 1 and
+the mast snapping off — is in [session 15](../../../../sessions/session-15.md).
 
 All hands to three stations — **Helm** (DEX/WIS), **Sails** (STR/DEX), **Deck** (STR/CON,
 or Blackacre's magic). Three phases, rising then peak then breaking; each round everyone
@@ -52,31 +61,35 @@ names what they are doing and rolls their station against **DC 15**.
 - **Half or fewer** — a hull box, gear blown away (a station at disadvantage), or a PC
   overboard.
 - **Overboard** — DC 13 STR (Athletics) or in. Each round in the water is one exhaustion
-  and the boat draws ahead; another PC can throw a line at DC 12. Two rounds unreached
-  and they go under.
+  and the boat draws ahead; another PC can throw a line at DC 12. If no one reaches them
+  within two rounds, they drown.
 - **Three clean rounds** and it passes. Total the hull boxes, then check navigation for
   where it left them.
 
-## 4 · The Island of the Thinkers  `→` [island-of-the-thinkers.md](island-of-the-thinkers.md)
+## 4 · The Island of the Thinkers  `[played — session 15]`
 
-The storm breaks the mast and washes them up. Run it straight from its own run sheet —
-the read-aloud is written out. Order of events:
+The island has its own folder now:
+[the island of the thinkers](../../../island-of-the-thinkers/encounters/island-of-the-thinkers.md)
+for the run sheet, and
+[the Last Thinker](../../../island-of-the-thinkers/encounters/the-last-thinker.md) for
+the fight. What happened:
 
-1. **The island of shrinking statues.** Colossal seated giants on the cliffs; inland the
-   statues get smaller each generation, down to child-sized halfling ones at the center.
-   A dead, deforested island with one tree left at the summit.
-2. **The Last Thinker.** A lone halfling under that tree, tending a garden. He gives them
-   a fix for the mast and provisions, and with his last words asks them to ring the bell
-   beneath the earth.
-3. **Under the hill.** A giant's hall, a great black bell and a hammer it takes three of
-   them to lift, a mural of dragons over a forested island, and a tremor below.
-4. **They ring it and the island sinks.** Statues topple, the ridges slide, they row out
-   as it folds under — and a dragon comes out of the water where it stood and goes up
-   into the sky.
+1. **The island of shrinking statues.** Colossal seated giants on the cliffs, and the
+   statues getting smaller the further inland they stand, down to child-sized halfling
+   ones at the center. A deforested island with one tree left at the summit.
+2. **The Last Thinker.** A lone halfling under that tree, tending a garden. **They would
+   not fight him for it** and went to the cistern for water instead. The mast was never
+   replaced.
+3. **The door in the hill.** From the cistern they found a door under the moss, opened it,
+   and went down giant stairs to a hall: a great black bell, a hammer, a mural of dragons
+   over a forested island, and a tremor below. Jasper struck the bell alone.
+4. **The island began to sink.** They ran out with the bell still going, the beach went
+   under, the Thinker spoke, and they rolled initiative. **The fight has not been run.**
 
-Do not explain it. The comet cycle is not named for them until much later. **Pax says
-the world is flat,** and an island that sinks and goes up into the sky as a dragon
-contradicts him.
+Still ahead: the island sinks while they row out, and a dragon comes out of the water
+where it stood and goes up into the sky. Do not explain it. The comet cycle is not named
+for them until much later. **Pax says the world is flat.** He watched the island sink and
+the dragon rise out of the water.
 
 ## 5 · Brauron and the Hunt  `→` [the-peach-town.md](the-peach-town.md) · [the-game-preserve.md](the-game-preserve.md)
 
@@ -98,3 +111,6 @@ fruit.
   [the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md).
 - **The sea table**, which used to be copied in here, now lives only in
   [sea-beasts.md](../../../the-sea/bestiary/sea-beasts.md), so there is only one copy.
+- **The island**, which is its own place and now has its own folder:
+  [world/island-of-the-thinkers](../../../island-of-the-thinkers/README.md). §4 keeps the
+  order of events and nothing else.

@@ -23,8 +23,8 @@ status: draft
 
 The land past Brauron is poison, and the poison is what stops anyone settling further
 in — no one lives further inland than [Brauron](the-peach-town.md). Out in that
-wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** each turn
-of the season, and [the hell-tree](the-hell-tree.md) stands at the center of it,
+wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** once a year,
+and [the hell-tree](the-hell-tree.md) stands at the center of it,
 where no hunter goes. The party joins the hunt to get past the fence, then breaks off
 and crosses to the tree alone.
 
@@ -32,8 +32,10 @@ Source for the approach: *Heart of Darkness*.
 
 ## The hunt
 
-The [cult of Artemis](the-peach-town.md) runs it out in the wild, at the turn of the
-season. Two strands:
+The [cult of Artemis](the-peach-town.md) runs it out in the wild, once a year, and it
+runs **seven days** — the quarry out through the gate at dawn on day one, the hounds
+loosed at noon, the horn at sundown on day seven. The full shape of it is in
+[the dressing](dressing-the-stag.md). Two strands:
 
 - **The beast-hunt (the Calydonian boar).** The cult looses a great beast into the
   wild and the hunters run it down.
@@ -44,8 +46,8 @@ The hunters ride **great hounds** and wear **hound-pelts**. `[proposed]` the hou
 are big enough for a gnome to ride.
 
 The hunt stays out in the wild and **never goes near the tree.** The tree is holy
-ground, and no hunter enters it. The hunters come and go for the season and never
-reach it.
+ground, and no hunter enters it. The priestesses set a line the hunt turns back at,
+and seven days is not long enough to reach the tree and hunt as well.
 
 ## The rival crews at the hunt `[S10]`
 
@@ -59,10 +61,14 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
   is the only one with the 5,000 gp.** Every other crew at the fence got in some other way.
 - **The party come as the quarry** — the one entry they can afford (put a name down as the
   stag, below) — or they slip in. Calix rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
+- **[Captain Cassia Roan](../../../../characters/the-second-hand.md) signs as quarry too**,
+  and she is dressed first ([the dressing](dressing-the-stag.md)). Her convoy went
+  straight north past Copaa while the party turned inland, and the Writ bought berths out
+  of Aar, so both crews are in the temple before the party reach the town.
 - **The other crews** turn up if they can pay their way there ([how each crew moves](../../maalm/encounters/tavern-rival-crews.md)):
   the crews with money reach the hunt; the [Brass Jackals](../../maalm/encounters/tavern-rival-crews.md) only if
   their boat survives the crossing. The party runs into rival crews out in the
-  deadland, and finds the bodies of the crews that lost.
+  deadland, and finds the bodies of the crews that died out there.
 - `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at
   the party in [Session 10](../../../../sessions/session-10.md) — they finished the Valley without
   missing a name.
@@ -85,10 +91,11 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 ## Read aloud — the edge of the hunt
 
 > *A long fence runs off into the wild both ways. Past it the grass is grey-green and
-> waist-high and the trees are knotted and low. Hunters are
-> gathering: gnomes in hound-pelts, up on the backs of great hounds, with a loose pack
-> of more hounds circling them. Far out past all of it, too far to make out, a single
-> huge tree rises above everything.*
+> waist-high and the trees are knotted and low. Hunters are gathering: gnomes in
+> hound-pelts, up on the backs of great hounds, with a loose pack of more hounds
+> circling them. The ones off the Maalm boats stand in their own groups, in the same
+> pelts, waiting to be mounted. Far out past all of it, too far to make out, a single
+> huge tree stands above the low trees.*
 
 `[OPEN]` the fence, the muster, the first sight of the far tree.
 
@@ -96,8 +103,8 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 
 ## Getting in, and getting to the tree
 
-The hunt is the way past the fence. Reaching the tree is the party's own problem after
-that.
+The hunt is the way past the fence. After that the party crosses to the tree on their
+own.
 
 - **Come as hunters** — join either strand. `[settled at the table 9/1]` **A hunter's
   place costs 5,000 gp**, which Pim Riddle told the party at Aar. They do not have it and
@@ -115,19 +122,19 @@ while the hunt runs on out in the wild, far from the tree.
 
 ## The approach to the tree
 
-The closer they come, the thicker the poison, the worse the mutated beasts (see
-[the hell-tree](the-hell-tree.md)), and the sickness starts to work on the party
-themselves.
+Closer to the tree the poison is thicker and the mutated beasts are worse (see
+[the hell-tree](the-hell-tree.md)). The party start to show the sickness themselves.
 
 ### Read aloud — a shrine on the way
 
 > *A little pile of stones stands beside the path, no taller than a knee, with a flat
-> slab set on top. Words are cut into the slab. Nothing is built near it and no one
-> tends it. Further on there is another, and past that another.*
+> slab set on top. Words are cut into the slab. Nothing is built near it. The stones
+> are weathered and the cut words worn. Further on there is another, and past that
+> another.*
 
 The shrines are **[Brauron](the-peach-town.md)'s** — cut long ago by the town's gnome
 artisans for the [cult of Artemis](the-peach-town.md), who run the hunt and the rite of
-the tree — and untended now, worn by the poison ground. The slabs carry the
+the tree — and untended now. The slabs carry the
 **[Anchar](../../../../handouts/anchar.md)** poem — the lone poison-tree, and the master who
 sends a man to gather from it and not come back. (The
 Qur'an's [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md) is down the stair at the tree

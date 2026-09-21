@@ -12,11 +12,11 @@ and campaign ties live here so the sheet stays the player's.
 
 ## DM Note
 
-Pax's three readings of himself — delusional, chosen, both — should stay unresolved as long as possible. Give the world enough ambiguous evidence that neither the table nor Pax can settle it: plants that *might* lean toward him, healing that *might* be the moss, elemental power that *might* be celestial. Resist confirming or debunking the Green Revelation.
+Pax's three readings of himself — delusional, chosen, both — should stay unresolved as long as possible. Give the world enough ambiguous evidence that neither the table nor Pax can settle it: plants that might lean toward him, healing that might be the moss. Resist confirming or debunking the Green Revelation.
 
-His confession in the Hall of Two Truths during the dream quest gives us a lot to work with: a man who has reframed exile as purpose and sincerely believes he is the world's appointed hand. Decide what Pax confesses if the power he claims to speak for answers him.
+His confession in the Hall of Two Truths during the dream quest: a man who has reframed exile as purpose and believes he was chosen to act for the world. Decide what Pax confesses if the power he claims to speak for answers him.
 
-The organization has three founding members. Their dynamic — who leads, who follows, who holds the others back or pushes them further — is worth establishing now that all three backstories are in hand. Pax is the one most likely to escalate, and the one most likely to read ordinary events as messages meant for him.
+The organization has three founding members. Establish their dynamic — who leads and who follows — now that all three backstories are in hand. Pax is the one most likely to escalate, and the one most likely to read ordinary events as messages meant for him.
 
 ---
 
@@ -25,16 +25,16 @@ The organization has three founding members. Their dynamic — who leads, who fo
 The rule above says give him ambiguous evidence. Go further: give him evidence that
 reads as confirmation and comes from somewhere else.
 
-He has two supernatural inputs and no account tying them together — the earth dreams
-from his mother's forest-nameless side, and the instructed nights from the Celestial
-that named him (see the four-day vision below, and
+He has two sources of dreams and no account tying them together — the earth dreams
+from his mother's forest-nameless side, and the nights the Celestial that named him
+speaks to him (see the four-day vision below, and
 [player messages — earth dreams](../sessions/player-messages-earth-dreams.md)). Pax
 attributes both to the Green Revelation. Neither is.
 
-So every time one of them fires, he gets a fact he can point at. The first is at
+So every time one of them happens, he gets a fact he can point at. The first is at
 **[Haals](../world/suartleheim-eet/raand-copaa/encounters/the-haals-runoff.md)**: he and
-Sarric dream the buried giant harder the closer they get to the mine, and Pax will take
-that as the wounded world naming its wound to him. It is the firbolg dead in the
+Sarric dream the buried giant more often the closer they get to the mine, and Pax will
+take it as the world telling him it is injured. It is the firbolg dead in the
 mountain, and Sarric is having the same dreams and calls them ordinary.
 
 Two things to hold to:
@@ -42,9 +42,9 @@ Two things to hold to:
 - **Do not confirm and do not debunk.** Nobody in the scene knows enough to say. Sarric
   has his people's word for it and offers it flatly; the Green Revelation is Pax's word
   for the same nights.
-- **Let it work.** He acts on the reading and the reading gets him to the right place —
-  the mountain is being dug into and something is wrong with it. He is right about what to
-  do, which makes it harder to notice he is wrong about why.
+- **Follow his reading.** He acts on it and it gets him to the right place — the mountain
+  is being dug into and something is wrong with it. He is right about what to do and wrong
+  about why.
 
 ---
 
@@ -68,15 +68,14 @@ Jogo. From the account:
 own sheet. Pax bought a supply of mushrooms at Aar in S12 and means to eat them
 ([the market mushrooms](../world/nila/encounters/the-market-mushrooms.md)), and that is
 where he is told it. He also hears it a second time in another voice, read off a list with
-names he does not know, so he hears his name twice in one night, the second time on someone
-else's list. Whose list is `[OPEN]`.
+names he does not know. Whose list is `[OPEN]`.
 
 Connections to existing material:
 
 - **The vision includes both of his parents' lineages.** Per
   [lineages & afterlives](../world/nila/lore/lineages-and-afterlives.md) §6, Pax is the
-  child of a Celestial and a nameless earth-person — half true-named (a name, a
-  heaven, the pole above), half nameless (dissolves into the land, unowned). The
+  child of a Celestial and a nameless earth-person. The Celestial side carries a name
+  and a heaven. The earth-nameless side dissolves into the land and is unowned. The
   vision covers both: he rose to the star/celestial side and was named, then
   fell back down through the roots into the network and the common stock — the
   earth side. At death he chooses which claims him; in the vision he saw both.
@@ -104,12 +103,12 @@ Connections to existing material:
   the caldera ring-wall, where the zealots named them Askr and Embla and hold them to
   be the dragon's children ([Lonka / Jotunheim](../world/lonka/lore/lonka-jotunheim.md) §5). Cut
   off from the common stock of the forest-dead, the two trees came to believe it, and
-  the false creation now passes back and forth between trees and zealots. Pax is the
+  the trees and the zealots each repeat the story back to the other. Pax is the
   one forest-nameless still joined to the living forest and its common stock — his tie
   into Jotunheim (Sam's quest); the elm is the tree whose roots gave him the mushroom.
   The rite he performs there is
   [the rite at the Jotunheim trees](../world/lonka/encounters/jotunheim-trees-rite.md).
-- **Names.** Mul's "a name… is a key" line landed the same session Pax described
+- **Names.** Mul's "a name… is a key" line came the same session Pax described
   being named and then losing the name. The sheet lists a **True name: Auralith
   Vael'Tharos**; whether the forgotten star-name is that or the Celestial's name
   for him is open.
@@ -118,7 +117,7 @@ Connections to existing material:
 
 `[Andrew, session 11]` Pax holds that the world is flat, and Andrew plays it straight.
 
-**He has already seen otherwise, twice, and it did not touch the belief.**
+**He has already seen otherwise, twice, and he still holds it.**
 
 - **His own vision.** He rose until "the world became small below him" and he stood among
   the stars looking down at the whole of it. His account, in his own words on
@@ -129,17 +128,16 @@ Connections to existing material:
   [sessions 8](../sessions/session-08.md)–[9](../sessions/session-09.md)), with the stars
   below them as well as above.
 
-So this is not a man who has never seen the evidence. It is a man who has been to space,
-looked down, and come back with the same opinion. Play it that way.
+He has stood above the world and looked down at it, and he still says it is flat. Play it
+that way.
 
 **Do not argue with him through an NPC, and do not stage a lecture.** The world will keep
 putting it in front of him without anyone making a point of it — the horizon at sea with
 a navigator learning the stars beside him, the pre-Fall map in
 [Tomb 1](../world/suartleheim-eet/maalm/prompts/tomb-1-inner-chamber-ancient-map.md), and the
 Thinkers' island going under and coming up as a dragon
-([island of the thinkers](../world/suartleheim-eet/brauron/encounters/island-of-the-thinkers.md)).
-He can go on rejecting all of it. It costs nothing, it is funny, and the one time it
-matters is whenever Andrew decides it does.
+([island of the thinkers](../world/island-of-the-thinkers/encounters/island-of-the-thinkers.md)).
+He can go on rejecting all of it. Leave it to Andrew whether it ever matters.
 
 Open:
 

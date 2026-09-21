@@ -8,8 +8,9 @@ status: next
 > **DM reference.** This file runs from the *Nasira* to Copaa: the wreck, the sail down
 > the coast, the landfall at **[Aar](../lore/aar.md)**, and the road up the canal. The party
 > chose Copaa over Brauron at the table, so the storm and the Thinkers are not in this run —
-> they are in [the sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md), for
-> whenever the party turn north. Run each section from the summary here; the `→` link goes to
+> they are in [the sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md), which
+> the party sailed out of Aar in [session 15](../../../../sessions/session-15.md). Run each
+> section from the summary here; the `→` link goes to
 > the full write-up.
 >
 > **§1 to §4 are part run** — [session 12](../../../../sessions/session-12.md) finished the
@@ -57,7 +58,7 @@ timber, because both masts are gone.
 
 **The body rots and nobody can cast Gentle Repose** — Sarric is a ranger, Blackacre
 a druid, and Aniess is Cleric 2. The route is the **small Anubis in Aniess's pack**, and
-in this scene the party find out the statue does something. Aar is days off, the coast is
+in this scene the party find out the statue `[OPEN]` — name what it does. Aar is days off, the coast is
 hot, and by the second morning they bury him at sea after all, which he had asked them not
 to do. Full timeline and the discovery in
 [wreck §8](../../../the-sea/encounters/the-drifting-wreck.md).
@@ -104,7 +105,7 @@ Blackacre handed out the stations in session 11 and the party are learning them:
 Maalm to Aar is a coastal run of several days. The loop, in short:
 
 - **A coastal hop is one watch; an open stretch three to five.** One hand keeps her and
-  the rest rest. Each watch, the hand on duty makes one check against the weather DC —
+  the others sleep. Each watch, the hand on duty makes one check against the weather DC —
   **calm 8, fresh 10, rising 13, gale 16.** A failure costs a watch, a hull box, or the
   course.
 - **The sloop has six hull boxes.** A day in port clears them all; Blackacre's Shape
@@ -113,15 +114,18 @@ Maalm to Aar is a coastal run of several days. The loop, in short:
   out of myth, and 7, 10, 13 and 15 are settled by talking or by solving them. At level 3
   the party break contact and run rather than fight one.
 
-**No storm on this leg.** The storm set-piece and the island it strands them on belong to
-the Brauron run, and the party are not going to Brauron. If the table wants weather, a
-Rising sea and one hard night of watches is enough.
+**No storm on this leg.** The storm and the island it strands them on belong to the
+northern run out of Aar, which the party sailed later
+([the sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md)). If the table
+wants weather on the way down, a Rising sea and one hard night of watches is enough.
 
 **Cassia and the convoy go on north.** The Second Hand have chartered passage on a merchant
 transport carrying wealthy Maalm hunters to the Sacred Hunt, and it does not stop for Copaa. **The party's sloop is the faster boat and
 gets to Aar ahead of them,** so they part at sea or in the basin and the convoy
-carries on up the coast. At Aar the party drink with the rival crews (§4). `[OPEN]` whether the party mean to make the Hunt later, and
-whether Cassia is still on the coast when they do.
+carries on up the coast. At Aar the party drink with the rival crews (§4). **They sailed
+north after Aar** ([session 15](../../../../sessions/session-15.md)), so the convoy has a
+long head start and Cassia is at Brauron ahead of them
+([the dressing](../../brauron/encounters/dressing-the-stag.md)).
 
 ## 4 · Landfall — Aar  `→` [aar.md](../lore/aar.md)
 
@@ -163,7 +167,7 @@ on everything, more men than buildings. A canal runs straight inland from the ba
    minute and then wants to drink. The Writ leave tomorrow, so it is one night.
 5. **A day in port** clears the hull boxes and refills stores.
 
-**They landed at Aar.** [Aal](../lore/aar.md) up the coast is not where they landed.
+**They landed at Aar**, not at [Aal](../lore/aar.md) up the coast.
 
 ## 5 · Up the canal to Copaa  `→` [copa-irish-beasts.md](../bestiary/copa-irish-beasts.md)
 
@@ -185,7 +189,7 @@ Newer stonework sits on older courses the whole way in.
   ending now. Told the truth, he ages where he stands or walks back into the hill.
 - **Copaa, on the lake.**  `→` [copaa.md](../lore/copaa.md) An ore town: the
   landing where the Haals ore comes down the river, a tavern, an inn. The river runs
-  fouled and the fields carry the leprosy the party saw in session 10. **Jogo's story is
+  fouled and the fields have the same leprosy the party saw in session 10. **Jogo's story is
   here,** and so is the Second Foundation's guarded chinampa operation at the river mouth,
   whose crates never reach the outbound barges. **Ottmar Lisk** keeps the store, and the
   knife is delivered to him.
@@ -206,8 +210,10 @@ that runs slower the nearer Haals they get are the next leg —
 - **The Maalm taverns as written.** The party sailed without them. The crew scene moved
   to Aar, §4 above.
 - **The storm and the Island of the Thinkers,** and Brauron, the peach town and the
-  Sacred Hunt — [the sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md),
-  for whenever they turn north.
+  Sacred Hunt — [the sail to Brauron](../../brauron/encounters/the-sail-to-brauron.md).
+  They turned north out of Aar in [session 15](../../../../sessions/session-15.md), so
+  that leg is running; the island has its own folder,
+  [world/island-of-the-thinkers](../../../island-of-the-thinkers/README.md).
 - **The docks ambush** out of Maalm, skipped in session 10. The Second Hand's split-rune
   has still not changed hands.
 
@@ -296,7 +302,7 @@ tomorrow.** Renk goes aboard wearing the peseshkef. That replaces the two or thr
 **Those days are why there is a job at all.** Beartholomew saw the knife in the port, put it
 in a report, sent it up the canal by bargeman, and the order to take it came back down to
 him — a round trip that needed the Writ to still be sitting here when it arrived
-([Beartholomew](../../../../characters/beartholomew.md)). They are, and now they are going.
+([Beartholomew](../../../../characters/beartholomew.md)). The Writ are still here, and they sail tomorrow.
 
 What is left of the three routes to the knife, in the order they come up:
 
@@ -426,7 +432,7 @@ speaks quietly and he buys. `↔` **[Sarric](../../../../characters/sarric.md)**
   Aniess's slots. Have her ask *"What did you cast on him?"* and the honest answer is the
   small Anubis. Playing it means the Writ's cleric knows the party carry a piece of stone
   the night before their heirloom goes missing, which means the Writ are watching them and
-  there is no unnoticed version of the theft. Decide before the table sits down, not mid-conversation.
+  the Writ will know who took it. Decide before the table sits down, not mid-conversation.
 
 **[Bram Hale](../../maalm/encounters/tavern-rival-crews.md#bram-hale--human--writ-muscle-jaspers-mirror)**
 — human, warm, matches the party drink for drink and buys his own round.
@@ -570,7 +576,7 @@ is still bleeding on the floor afterwards.
 
 - **[Halder Quinn](../lore/the-tally-house-and-the-guest-house.md#if-they-are-caught-loose)** is
   the Company magistrate and a brawl is his. Nobody is held long unless a knife came out.
-- **A knife coming out changes the night.** The Writ cannot have a member in the lock-up
+- **If a knife comes out.** The Writ cannot have a member in the lock-up
   with a boat at first light, and Renk will pay whatever it takes to get him out.
 - `[OPEN]` Whether Veska gave herself away, and who heard it.
 
@@ -648,7 +654,7 @@ first thing a Maalm education gives you: **nothing has heard from a god in recor
 serious attempt to make one answer was the **Jotunheim massacre** — the zealots killed a
 colony on that caldera as a rite to call the dragons back, and **no dragon came**
 ([Lonka / Jotunheim](../../../lonka/lore/lonka-jotunheim.md)). Nineteen hundred years, and
-that is the best-documented try anyone ever made.
+that is the best-documented attempt on record.
 
 - *Testing it, before she says anything.* *"Flip it again."* *[Calix does]* *"Now ask it
   the other way round."*
@@ -707,7 +713,7 @@ this fight:
   is in.
 - **A bucket over the hot stones makes the whole room heavily obscured for one round**,
   then it settles back. Any creature can do it as an action, **including the party**, and
-  it is the cheapest escape in the building.
+  it costs one action.
 - **Darkvision does not help.** Steam is not darkness. That goes for Setha's and Calix's
   sixty feet — **and for the quasit's hundred and twenty**, so it cannot see in the steam
   either. Say this out loud when a player
@@ -874,7 +880,7 @@ action.
 down and walk out."* She would rather have the knife back than a body in the yard on the
 morning her boat leaves.
 
-### What actually guards the knife
+### What guards the knife
 
 **The toad guards the knife.** Calix hears its telepathy and takes it for the voice of God — she
 has no idea it is a **quasit**, and none that it is **Preem's**
@@ -883,8 +889,8 @@ has no idea it is a **quasit**, and none that it is **Preem's**
 - **It turns invisible at will and has darkvision 120 feet.** A dark stone room is no cover.
 - **Calix senses what it senses,** through the familiar bond. So Calix is watching the
   bench from wherever the toad is, whether or not she is looking at it.
-- **Preem hears whatever it hears.** A theft in front of the toad is a theft Preem knows
-  about, whatever the Writ work out.
+- **Preem hears whatever it hears.** If the toad sees the theft, Preem knows about it, whatever the
+  Writ work out.
 - `[OPEN]` **Whether the toad is in the bath house at all.** It goes where it likes. Decide
   before the scene, because it is the difference between a hard Stealth check and an
   impossible one.
@@ -901,7 +907,7 @@ Calix off the bench without anyone rolling against her.
 
 - **Give Setha an opening and she will take it herself.** She has been working up to the
   room-next-to-mine line all night.
-- **Or move the water.** Timo carries wood and hot water in; Yessa is out of bed and
+- **Or give someone a reason to carry the hot water in.** Timo carries wood and hot water in; Yessa is out of bed and
   resentful about it; the copper is the only heat in the yard.
 - **Twenty minutes** and the belt goes back on.
 

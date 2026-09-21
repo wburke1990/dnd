@@ -23,10 +23,13 @@ status: draft
 **Brauron** is the last town before the poison deadland, on the coast north of
 [Raand](../../../nila/lore/nila-atlas.md). It is a town of **dragon-descended gnome artisans and
 performers**, where the hunters and pilgrims gather and where the **priestesses of
-Artemis** keep their temple. The town was founded by Momotarō, who came out of a fruit of [the hell-tree](the-hell-tree.md)
-([the founding](../lore/the-founding-of-brauron.md)): a peach grove rings the town, the
-founder's statue stands in the square, and the gnomes act the stories of children born
-from fruit out in the streets.
+Artemis** keep their temple. It was founded four thousand years ago by a newborn demon
+out of a fruit of [the hell-tree](the-hell-tree.md), carried out of the deadland and given
+water by a wandering dragonborn named **Hammou**
+([the founding](../lore/the-founding-of-brauron.md)). The town tells that as
+[Momotarō](../../../../handouts/momotaro.md) and calls the founder the Boy: a peach grove
+rings the town, his statue stands in the square, and the gnomes act the stories of
+children born from fruit out in the streets.
 
 `[name]` Brauron `[settled]` — the real Artemis sanctuary where girls served as bears,
 the rite the town keeps. The name is Greek, not Norse: the Norse map-names (Raand, Aar,
@@ -62,9 +65,13 @@ the bee-priestesses do not. (For when a player asks.)
 
 ## What still needs building
 
-- The **Attis paintings** — how the mystery is laid out in the temple.
-- Links out to [the game preserve](the-game-preserve.md) and
-  [the hell-tree](the-hell-tree.md).
+- The **Attis paintings** — how the mystery is laid out in the temple. What they show is
+  settled: the Boy's death at the hunt, told as Attis
+  ([the founding](../lore/the-founding-of-brauron.md)). How many panels and where they
+  hang is not.
+- **The eleven words** — one said by each child born out of the grove, written down and
+  kept on file with the record of how many peaches have split — and whether the party
+  ever sees the file.
 
 *End of town design note.*
 
@@ -94,6 +101,15 @@ out of [the hell-tree](the-hell-tree.md). See
 demon says at [the hell-tree](the-hell-tree.md). Read it out here; the same line is used
 again at the tree.
 
+`[DM]` **The plinth carries one more line, and it is the demon's true name.** Under the
+Momotarō passage, in the same hand: *"Then he said Emmu, and asked for water, and I gave
+him water."* Hammou wrote it the day it happened and the town has recut it ever since.
+The players in the square say it every day and nobody in Brauron knows the word is a
+name. Read the whole base out when a PC reads it — Sarric's Pen of Comprehend Languages
+translates the last line and leaves **Emmu** untranslated. This is the
+party's first chance at the name, three days before the tree; the rest are in
+[the founding](../lore/the-founding-of-brauron.md#in-play).
+
 ---
 
 ## Read aloud — the fountain
@@ -107,7 +123,7 @@ citron begging for water, and vanishes if she is not given it at once. The fount
 carving shows that moment.
 
 `[DM]` At [the hell-tree](the-hell-tree.md) a newborn demon asks for water and stops
-talking when it does not get it. The fountain here runs water over her mouth all day.
+talking when it does not get it. Water runs over the carved maiden's open mouth all day.
 
 ---
 
@@ -125,7 +141,7 @@ with a tiny girl inside.
 
 > *The temple is dim and cool. The women who keep it are veiled and still; among them
 > stand a few men, soft-faced and beardless. On the walls, in paint, a young man is
-> gored by a boar and mourned, and a tree grows where his blood falls.*
+> gored by a boar, figures stand over his body, and a tree grows where his blood falls.*
 
 **Two priesthoods keep the temple, borrowed from Ephesus.** The **bee-priestesses (the
 Melissae, "the bees")** are Artemis's virgin women, and they run the hunt. The **eunuch
@@ -138,6 +154,27 @@ deadland and the tree are hers under that name. The town's
 girls serve the goddess as **bears** before they marry (the real Brauron rite).
 
 *(The eunuch Megabyzoi priests and the Attis mystery, and what the bee-priestesses mean for Sarric — see Background: "The Megabyzoi and the Attis mystery" and "The bee-priestesses and Sarric".)*
+
+`[DM]` **The painted man is the founder.** Eleven of the Megabyzoi came out of split
+peaches in the grove. The town is told the castration explains their unlined faces.
+The eldest is **[Ampelos](../lore/the-founding-of-brauron.md#ampelos)**, who came out of
+the first peach the grove ever split and was raised by the Boy. He wants the party's
+account of the tree when they come back, and he will answer questions to get it.
+
+---
+
+## Read aloud — the stone on the shore
+
+> *North of the town, where the peach trees stop, a worn stone stands facing the water
+> with writing on the seaward face. The town calls it the old man's stone.*
+
+It is **Hammou's** grave — the dragonborn who carried the fruit out of the deadland and
+gave it water ([the founding](../lore/the-founding-of-brauron.md#the-dragonborn-founders)).
+The inscription is Longfellow's
+[The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md).
+The town does not remember him as a dragonborn; he is the old man in the play, in a mask.
+`[Blackacre]` The stone is on the road out to the fence and back. Sam decides what
+Blackacre does at it.
 
 ---
 
