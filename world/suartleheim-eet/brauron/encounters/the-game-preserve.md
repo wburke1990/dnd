@@ -66,9 +66,25 @@ scrub in clean water, and every water inside the fence is poison — which is wh
 priestess means by *"Bad water."* A quarry who gets in it to break the scent is drinking
 and breathing the poison.
 
-**The head start is one hour.** The quarry go through the gate an hour before noon and
-the hounds come through at noon. An hour on foot is about four miles; a gallop covers
-that in well under an hour. **So the riders are on them the first afternoon.**
+**The head start is one hour**, and it is about five miles. The quarry go through the
+gate an hour before noon with Longstrider on them (Speed 40, so a fast pace is about
+5 mph), and the hounds come through at noon.
+
+**How long the head start lasts.** A mount gallops for about an hour at double pace, and a great
+hound at Speed 50 makes about 6.5 mph at a fast pace, so 13 at a gallop. The party are
+back to Speed 30 by then, because Longstrider ran out as the horn went.
+
+| The riders | They arrive |
+|---|---|
+| **Galloping from the horn** | **About half an hour after noon**, six or seven miles out from the gate. |
+| At a steady fast pace | About two hours after noon. |
+
+**So the earliest the party can be caught is around half past noon on day one**, six or
+seven miles from the gate. If the quarry walked their hour instead of running it, take ten
+minutes off. Pick which of the two the riders do.
+
+`[run]` **The loose pack arrives first.** The hounds running alongside are carrying
+nobody, so the first thing the party sees is dogs, with the riders coming up behind them.
 
 ## Both hunts are kills
 
@@ -95,7 +111,8 @@ and the gate does not open for them ([the dressing](dressing-the-stag.md)).
 — there is no game there and the ground is the goddess's under the name Hecate
 ([the founding](../lore/the-founding-of-brauron.md)) — but a rider running a quarry down
 follows the quarry. **If the party are caught at the tree, the fight happens there**, with
-whatever is in the branches ([the hell-tree](the-hell-tree.md)).
+the Manes and Dretch that are already in the branches and the roots
+([the hell-tree](the-hell-tree.md)).
 
 The crossing runs:
 

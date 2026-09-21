@@ -72,7 +72,7 @@ quarry, and Cassia is dressed first.
 | Day 1, morning | The dressing in the temple, then the walk out to the gate. |
 | Day 1, an hour before noon | The boar is loosed through the gate, then the quarry. |
 | Day 1, noon | The hounds and the riders are loosed, an hour behind them. |
-| Day 1, afternoon | The riders are on them ([the game preserve](the-game-preserve.md)). |
+| Day 1, about half past noon | The riders reach them, if they gallop from the horn ([the game preserve](the-game-preserve.md)). |
 | Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
@@ -406,11 +406,11 @@ and nothing inside the fence washes it off.
 
 | | |
 |---|---|
-| **One hour** | About four miles at a fast pace. |
+| **One hour** | About five miles, at a fast pace with Longstrider up. |
 | **Longstrider** | +10 ft. for the hour. Blackacre has the spell too and can keep one character at 40 for an hour a slot. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
-| **At noon** | The hounds and riders come through at Speed 50 ft. and cover four miles at a gallop in well under an hour. **They are on the quarry the same afternoon** ([the game preserve](the-game-preserve.md)). |
-| **After the hour** | Longstrider ends and the party are at 30 against 50, unless Blackacre spends slots keeping it up. |
+| **At noon** | The hounds and riders come through at Speed 50 ft. Galloping, they close five miles in about half an hour, so **the earliest contact is around half past noon** ([the game preserve](the-game-preserve.md)). |
+| **After the hour** | Longstrider ends as the horn goes, and the party are at 30 against 50 unless Blackacre spends slots keeping it up. |
 | **Staying alive** | Getting out means standing at the gate at sundown on day seven. **The hunters are hunting to kill** ([the game preserve](the-game-preserve.md)), and they will follow anywhere in the preserve, including the tree. |
 
 ---
