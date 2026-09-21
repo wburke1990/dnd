@@ -24,8 +24,8 @@ status: draft
 The land past Brauron is poison. No one lives further inland than
 [Brauron](the-peach-town.md). Out in that
 wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** once a year,
-and [the hell-tree](the-hell-tree.md) stands at the center of it,
-where no hunter goes. The party joins the hunt to get past the fence, then breaks off
+and [the hell-tree](the-hell-tree.md) stands in the middle of the hunting ground. No
+hunter goes to it. The party joins the hunt to get past the fence, then breaks off
 and crosses to the tree alone.
 
 Source for the approach: *Heart of Darkness*.
@@ -35,7 +35,7 @@ Source for the approach: *Heart of Darkness*.
 The [cult of Artemis](the-peach-town.md) runs it out in the wild, once a year, and it
 runs **seven days** — the quarry out through the gate an hour before noon on day one, the
 hounds loosed at noon behind them, the horn at sundown on day seven. The tree is one day
-out, so most of the seven is theirs to spend once they are past the line. The full shape of it is in
+out, so they have most of the seven days once they are through the gate. The full shape of it is in
 [the dressing](dressing-the-stag.md). Two hunts:
 
 - **The beast-hunt (the Calydonian boar).** The cult brings a boar to the gate in a
@@ -78,15 +78,18 @@ dressing — the hounds pull the stag down and tear it apart
 ([the dressing](dressing-the-stag.md), step 7). The temple pays out to a named address
 either way.
 
-**So the quarry survives only by standing at the gate at sundown on day seven.** A quarry
-cannot surrender, and the hunt does not stop for them.
+**So the quarry survives only by standing at the gate at sundown on day seven**, or by
+bringing a live antlered deer to it, which opens the gate early and puts the deer on the
+altar in their place — one deer for each quarry
+([the dressing](dressing-the-stag.md)). A quarry cannot surrender, and the hunt does not
+stop for them.
 
 **The rack is the trophy.** Worn, it is taller than the grass, and every rider in the
 preserve is looking for it. The hunter who makes the kill cuts it off the body and it is
 hung in the temple. A quarry who takes it off themselves has nothing to show at the gate
 and the gate does not open for them ([the dressing](dressing-the-stag.md)).
 
-## There is nowhere safe inside the fence
+## The tree is inside the fence
 
 **The tree stands inside the fence, one day from the gate.** No hunter goes to it to hunt
 — there is no game there and the ground is the goddess's under the name Hecate
@@ -123,7 +126,8 @@ are the complications.
 
 `[OPEN]` **Who is riding at them.** The Lapis Writ paid to be here and Calix rides with
 the hunters (below). Whether the crew that drank with the party at the Tally House is the
-crew that runs them down is not settled. The option is to use the same crew.
+crew that runs them down is not settled. The option is to use the same crew. **Setha is
+out there but headed for the tree** rather than riding with the other hunters.
 
 ## The rival crews at the hunt `[S10]`
 
@@ -138,6 +142,11 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
   is the only one with the 5,000 gp.** Every other crew got in some other way.
 - **The party come as the quarry** — the one entry they can afford (put a name down as the
   stag, below) — or they slip in. Calix rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
+- `[settled — Will 9/21]` **Setha Renk is going to the tree herself.** She is out in the
+  preserve for the same thing the party are — a name off a newborn to sell to Preem — so
+  she is crossing the same ground the party cross, and she may be at the tree when they
+  get there. `[OPEN]` whether she joins a fight she comes across
+  ([the Lapis Writ](../../../../characters/the-lapis-writ.md)).
 - **[Captain Cassia Roan](../../../../characters/the-second-hand.md) signs as quarry too**,
   and she is dressed first ([the dressing](dressing-the-stag.md)). Her convoy went
   straight north past Copaa while the party turned inland, and the Writ bought berths out

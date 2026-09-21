@@ -83,15 +83,27 @@ there too.
 
 ## The live stag
 
-At Aulis a deer was put on the altar in Iphigenia's place. The cult still does it: **a live
-stag brought to the temple before the horn on day 7, and the temple lets one quarry go.**
-The hunter who brings it cuts that quarry's rack off and keeps it. It must be alive and
-male. The temple turns away a carcass or a doe. The priestess says so at the sign-up if she is asked for a way out.
+At Aulis a deer was put on the altar in Iphigenia's place. The cult still takes a deer in
+place of a person. **A quarry who brings a live, antlered deer to the gate is let in.**
+The deer goes to the altar instead of them and their rack is hung in the temple.
 
-Catching one while the hunt is running: an hour an attempt at DC 15 Wisdom (Survival),
+- **One deer for each quarry.** Five going out as quarry need five. One quarry's deer
+  does not get another quarry through the gate.
+- **Alive, and antlered.** The temple turns away a carcass, a doe, or a stag that has
+  dropped its antlers.
+- **It is the only thing that opens the gate early.** Otherwise the gate opens at sundown
+  on day seven and a quarry who comes back before that is turned around.
+- The priestess says so at the sign-up if she is asked for a way out.
+
+**Catching one while the hunt is running.** An hour an attempt at DC 15 Wisdom (Survival),
 and on a failure by 5 or more one of the poisoned animals comes instead
 ([the hell-tree](the-hell-tree.md)). It has to be subdued or restrained, nonlethal only,
-and two hours to walk it back, noisy the whole way.
+and two hours to walk it back, with the deer making noise the whole way.
+
+`[run]` **Walking a deer does not hide anyone.** The deer slows them down and makes
+noise, and the hounds still have their smell
+([the game preserve](the-game-preserve.md)). A party that wants five of them spends days
+catching and holding deer in open ground while the hunters are after them.
 
 ## The pay
 
@@ -124,7 +136,7 @@ hall on hound-back, though, and the Writ are five armed adventurers whose crew p
 
 - **Take the tablet off the board.** It is the contract. She scrapes the wax flat and
   asks who is going instead.
-- **Bring a live stag.** They have until sundown on day 7.
+- **Bring a live stag.** One for each quarry, alive and antlered, at the gate.
 - **Go in her place.** She writes a second tablet without argument.
 
 ## Sources
@@ -217,7 +229,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | Washing it off | **"In what?"** |
 | The tree | **"No one hunts there."** *(she says nothing else)* |
 | Whether they can sign too | **"Anyone who wants to."** |
-| A way out | **"Bring us a live stag before the seventh evening. Then we let one of you go."** |
+| A way out | **"Bring a live stag to the gate and the gate opens. One stag for each of you."** |
 
 > *She scratches the name in and hangs it with the rest.*
 

@@ -40,7 +40,7 @@ status: reference
   paired with one PC.
   Doruk to Sarric, Issa to Aniess, Bram to Jasper, Calix to Pax, Setha to
   Blackacre. These are talking scenes.
-- `[settled]` **They sit above the party in Preem's standings,** and Setha will
+- `[settled]` **Preem ranks them above the party,** and Setha will
   make sure the party know it. Preem pays most to the crews that finish first and
   miss no names; the party are on 5 gp a name
   ([rival crew plots](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md)).
@@ -74,7 +74,7 @@ asked and does not lie about it. His Church of Sunne calls the orcs sea-devils,
 and he points back to Hjörungavágr three hundred years ago, where his own people
 destroyed the orc fleets. He does not regret it. He speaks kindly and buys the drinks.
 
-**[Issa Quib](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-the one who goes into the tombs-aniesss-mirror)**
+**[Issa Quib](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-tomb-walker-aniesss-mirror)**
 — halfling, the one who goes into the tombs, Cleric 3 (Grave Domain). `↔` [Aniess](aniess.md)
 
 Cold to the touch, and her breathing is shallow. She sought out an old funerary rite of
@@ -225,7 +225,12 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
   for finishing first and missing nothing. It is where the party learn Preem pays
   his crews at different rates
   ([rival crew plots](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md)).
-- **The Sacred Hunt.** The Writ come as paying hunters, at 5,000 gp for the crew, and
+- **The Sacred Hunt.** `[settled — Will 9/21]` **Setha goes into the preserve for the
+  hell-tree.** She wants a name off a newborn to sell to Preem, the same thing the party
+  were sent for, so she is out in the preserve while they are being run down and she may
+  be at the tree when they reach it. `[OPEN]` whether she joins a fight she comes across
+  ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).
+  The Writ come as paying hunters, at 5,000 gp for the crew, and
   Calix rides with them. The party cannot afford it and go in as quarry, with Pax
   run as the stag
   ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).
@@ -249,8 +254,8 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
    when she tells Setha to stop hurrying about the seat, she is talking about the
    seat Setha's mother was killed over. A party who works it out can pressure
    Setha.
-5. **Setha changes sides.** Preem pays her more than anyone else can offer. The houses that killed
-   her mother can offer her something else.
+5. **Setha changes sides.** Preem pays her more than anyone else can offer. `[OPEN]` what
+   the houses that killed her mother could offer her instead.
 
 ## Open threads
 
@@ -274,7 +279,7 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
 - [The Brass Jackals](the-brass-jackals.md) — the other crew in the room, broke
   and close to a brawl with them.
 - [The Second Hand](the-second-hand.md) — the crew the party saved in Maalm.
-- [The Ashfoot](the-ashfoot.md) — a crew that has been at it longer.
+- [The Ashfoot](the-ashfoot.md) — a crew that has been hunting names longer.
 - [The rival crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md) — full blocks and lines.
 - [The run to Copaa](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md) — the Aar run sheet.
 - [The godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md) — the peseshkef and the numbers.

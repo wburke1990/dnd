@@ -152,6 +152,12 @@ drowned girl that says the killer's name without being asked).
 
 The party has to work out everything else in this note.
 
+`[settled — Will 9/21]` **Setha Renk is coming here too**, for a name off a newborn to
+sell to Preem
+([the Lapis Writ](../../../../characters/the-lapis-writ.md)). Whether she is at the tree
+when the party arrive, already gone, or on her way in behind them is `[OPEN]`, and so is
+whether the two crews fight over a fruit.
+
 ---
 
 ## The tree
@@ -166,7 +172,7 @@ instead of fighting. The lines it mutters are in **the muttering**, below.
 muttering does not settle that; it is what the tree says when nobody has asked it
 anything.
 
-**The comet, far down.** The stone the tree grew from is deep underground now, at the
+**The comet-stone.** The stone the tree grew from is deep underground now, at the
 foot of the stair (see the descent, below).
 
 ---
