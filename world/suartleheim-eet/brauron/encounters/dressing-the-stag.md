@@ -25,8 +25,7 @@ status: ready
 The priestesses put the quarry through a Greek animal sacrifice, in the order Homer
 gives: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
 the altar. The sequence stops before the killing. They tie on antlers, lay a deer-hide
-over her shoulders, read out the names of dogs, and open the door onto the road to the
-gate.
+over her shoulders, read out the names of dogs, and walk her out to the gate.
 
 Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the water, one
 the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
@@ -69,8 +68,9 @@ quarry, and Cassia is dressed first.
 
 | When | What happens |
 |---|---|
-| Day 1, dawn | The quarry go out through the gate. |
-| Day 1, noon | The hounds are loosed. |
+| Day 1, before dawn | The dressing in the temple, then the walk out to the gate. |
+| Day 1, first light | The boar is loosed through the gate, then the quarry. |
+| Day 1, noon | The hounds and the riders are loosed. |
 | Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
@@ -103,8 +103,8 @@ party, lower the entry fee and the pay drops with it.
 
 | | |
 |---|---|
-| **Head start** | Out at dawn on day 1, hounds loosed at noon. |
-| **Longstrider** | Cast at the door, 1 hour, +10 ft. speed. It runs out before the hounds are loosed. |
+| **Head start** | Out at first light on day 1, hounds loosed at noon. Six hours. |
+| **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It covers the first hour of the head start. |
 | **Gear** | Whatever they walked in with. The cult neither confiscates nor issues. |
 | **The rack** | Worn until the horn, and it stands above the grass. Disadvantage on Dexterity (Stealth). A hunter who takes it off a living quarry has won and is done; a quarry who takes it off is a trespasser inside the fence. |
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
@@ -210,7 +210,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | Why that is bad | **"We keep the hounds at the fence."** |
 | Coming back sooner | **"We turn you around. The gate opens on the seventh evening."** |
 | What is out there | **"Grass to your waist. Bad water."** |
-| Whether the hounds will know them | **"They smell your hands before you go out. That is how they know you."** |
+| Whether the hounds will know them | **"They smell your hands before you go out."** |
 | Washing it off | **"In what?"** |
 | The tree | **"No one hunts there."** *(she says nothing else)* |
 | Whether they can sign too | **"Anyone who wants to."** |
@@ -324,8 +324,6 @@ she draws her golden bow, rejoicing in the chase, and sends out grievous
 shafts.
 ```
 
-> *She puts a hand flat on Cassia's chest.* **Longstrider** — on each quarry in turn.
-
 > *She turns to the room.*
 
 ```
@@ -337,6 +335,65 @@ that I have begun with you, I will turn to another song.
 > hall, watching her go.*
 
 **"The hounds go out at noon."**
+
+---
+
+## 9 — The road to the gate
+
+The rite is done in the dark. The gate is outside the town at the edge of the preserve,
+and the quarry are walked out to it to be let through at first light.
+
+> *The Megabyzoi take you out. They walk either side of the quarry and do not talk. The
+> riders come up the road behind you at a walk and then past you, and are gone ahead.
+> The town ends. The road runs on between stubble fields, then past open ground, and the
+> grass beside it gets taller and greyer.*
+
+- **The escort is the Megabyzoi**, who took no part in the rite and do this instead.
+  They will not answer questions on the road. A PC who puts the same question to the
+  same priest again, a week afterwards, is sent to Ampelos
+  ([the founding](../lore/the-founding-of-brauron.md#ampelos)).
+- **A quarry cannot slip away on the road.** That is what the escort is for. Leaving
+  before the gate means leaving the town, unpaid, with the tablet still on the board.
+
+---
+
+## 10 — The gate
+
+> *A gate in the long fence, with the hunters drawn up behind it on their hounds. Grass
+> to your waist on the other side. It is not light yet.*
+
+**The boar goes out first.**
+
+> *They bring up a cart with a crate on it, back it to the gate, and pull the pins. What
+> comes out is a boar the size of a horse. It goes through into the grass, out of sight,
+> and stays audible after that.*
+
+`[for David]` The Calydonian boar — the beast-hunt's quarry, loosed into the preserve
+the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
+David's. **It is in the preserve while the party are.** It does not hunt them, and they
+can walk into it.
+
+**Then the quarry.**
+
+> *She puts a hand flat on Cassia's chest.* **Longstrider** — on each quarry in turn. It
+> is cast here rather than at the temple, so the spell runs out during the head start.
+
+> *They open the gate. It shuts behind you. The priestess says one thing through the
+> fence and the Megabyzoi start back down the road.*
+
+**"The hounds come through at noon."**
+
+## The head start
+
+**Dawn to noon — six hours.** The hounds already have their smell (step 7) and nothing
+inside the fence washes it off ([the game preserve](the-game-preserve.md)).
+
+| | |
+|---|---|
+| **Six hours** | At a fast pace that is about 24 miles, at no cost. Past eight hours in a day it is a forced march and a DC 10 Constitution save each hour or a level of exhaustion. |
+| **Longstrider** | +10 ft. for the first hour of it. |
+| **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
+| **At noon** | The horn at the fence, and the hounds and the riders come through. |
 
 ---
 

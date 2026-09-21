@@ -37,10 +37,15 @@ runs **seven days** — the quarry out through the gate at dawn on day one, the 
 loosed at noon, the horn at sundown on day seven. The full shape of it is in
 [the dressing](dressing-the-stag.md). Two hunts:
 
-- **The beast-hunt (the Calydonian boar).** The cult looses a great beast into the
-  wild and the hunters run it down.
+- **The beast-hunt (the Calydonian boar).** The cult brings a boar to the gate in a
+  crate and looses it at first light on day one, ahead of the quarry
+  ([the dressing](dressing-the-stag.md), step 10). `[for David]` its stat block.
 - **The man-hunt (Actaeon).** A person is marked as the stag and run down. The quarry
   is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
+
+**Both go out the same gate on the same morning and are hunted in the same ground.** So
+the boar is loose wherever the party are walking. It is not hunting them, and it crosses
+the ground they are crossing, and the riders following the boar are moving through the same country.
 
 The hunters ride **great hounds** and wear **hound-pelts**. `[proposed]` the hounds
 are big enough for a gnome to ride.
@@ -82,8 +87,8 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
   their boat survives the crossing. The party runs into rival crews out in the
   deadland, and finds the bodies of the crews that died out there.
 - `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at
-  the party in [Session 10](../../../../sessions/session-10.md) — they finished the Valley without
-  missing a name.
+  the party in [Session 10](../../../../sessions/session-10.md) — they cleared the Valley
+  and brought back every name in it.
 
 ## What still needs building
 
@@ -111,6 +116,10 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 
 `[OPEN]` the fence, the muster, the first sight of the far tree.
 
+This is what a **hunter** sees, at noon on day one. A **quarry** sees the same fence in
+the dark six hours earlier, from the other side of the gate, with the boar's crate coming
+up behind them ([the dressing](dressing-the-stag.md), step 10).
+
 ---
 
 ## Getting in, and getting to the tree
@@ -118,7 +127,7 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 The hunt is the way past the fence. After that the party crosses to the tree on their
 own.
 
-- **Come as hunters** — join either strand. `[settled at the table 9/1]` **A hunting
+- **Come as hunters** — join either hunt. `[settled at the table 9/1]` **A hunting
   party's place costs 5,000 gp**, which Pim Riddle told the party at Aar. They do not have it and
   said so, so buying in is not the way they get through the fence.
 - **Come as the quarry** — put your name down as the stag in the man-hunt. This is the
@@ -135,8 +144,8 @@ while the hunt runs on out in the wild, far from the tree.
 ## The approach to the tree
 
 Closer to the tree there is more poison in the air and more of the mutated beasts (see
-[the hell-tree](the-hell-tree.md)). The party begin to show it themselves; what the
-symptoms are and how they are tracked is `[OPEN]` below.
+[the hell-tree](the-hell-tree.md)). The party start showing symptoms themselves; what
+the symptoms are and how they are tracked is `[OPEN]` below.
 
 ### Read aloud — a shrine on the way
 
@@ -158,7 +167,7 @@ itself — see [the hell-tree](the-hell-tree.md).)
 > *A bird is singing in a dead tree. The song has words: "My mother she killed me, my
 > father he ate me…" It sings them plainly, waits, and sings them again.*
 
-It is a **mockingbird**, warped by the tree's poison, that repeats whatever it hears,
+It is a **mockingbird**, mutated by the tree's poison, that repeats whatever it hears,
 and what it heard was the tree talking to itself. The party hear the tree's words
 before they reach it (see [the hell-tree](the-hell-tree.md)).
 
