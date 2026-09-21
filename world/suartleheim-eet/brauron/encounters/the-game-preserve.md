@@ -33,27 +33,27 @@ Source for the approach: *Heart of Darkness*.
 ## The hunt
 
 The [cult of Artemis](the-peach-town.md) runs it out in the wild, once a year, and it
-runs **seven days** — the quarry out through the gate at dawn on day one, the hounds
-loosed at noon, the horn at sundown on day seven. The full shape of it is in
+runs **seven days** — the quarry out through the gate on the morning of day one, the
+hounds loosed four hours later at noon, the horn at sundown on day seven. The full shape of it is in
 [the dressing](dressing-the-stag.md). Two hunts:
 
 - **The beast-hunt (the Calydonian boar).** The cult brings a boar to the gate in a
-  crate and looses it at first light on day one, ahead of the quarry
+  crate and looses it on the morning of day one, ahead of the quarry
   ([the dressing](dressing-the-stag.md), step 10). `[for David]` its stat block.
 - **The man-hunt (Actaeon).** A person is marked as the stag and run down. The quarry
   is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
 
 **Both go out the same gate on the same morning and are hunted in the same ground.** So
-the boar is loose wherever the party are walking. It is not hunting them, and it crosses
-the ground they are crossing, and the riders following the boar are moving through the same country.
+the boar is loose wherever the party are walking. It is not hunting them. The riders
+following it cross the same ground.
 
 The hunters ride **great hounds** and wear **hound-pelts**. `[proposed]` the hounds
 are big enough for a gnome to ride.
 
 **The hounds have the quarry's smell before the quarry leaves.** They are walked up to
 each one at the dressing and take it off the deer-hide and the hands
-([the dressing](dressing-the-stag.md), step 7). The quarry's only advantage is the head
-start in distance: the pack does not have to find a trail, and breaking line of sight does
+([the dressing](dressing-the-stag.md), step 7). The quarry's only advantage is the four
+hours: the pack does not have to find a trail, and breaking line of sight does
 not throw the hounds off.
 
 `[settled — Will 9/21]` **Nothing inside the fence washes it off.** It would take a long
@@ -86,7 +86,7 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
   the crews with money reach the hunt; the [Brass Jackals](../../maalm/encounters/tavern-rival-crews.md) only if
   their boat survives the crossing. The party runs into rival crews out in the
   deadland, and finds the bodies of the crews that died out there.
-- `[OPEN]` Whether the Writ are the **"second party"** whose fuller name-sheet Mul waved at
+- `[OPEN]` Whether the Writ are the **"second party"** whose longer list of names Mul waved at
   the party in [Session 10](../../../../sessions/session-10.md) — they cleared the Valley
   and brought back every name in it.
 
@@ -116,9 +116,9 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 
 `[OPEN]` the fence, the muster, the first sight of the far tree.
 
-This is what a **hunter** sees, at noon on day one. A **quarry** sees the same fence in
-the dark six hours earlier, from the other side of the gate, with the boar's crate coming
-up behind them ([the dressing](dressing-the-stag.md), step 10).
+This is what a **hunter** sees, at noon on day one. A **quarry** sees the same fence four
+hours earlier, from the other side of the gate, with the boar's crate coming up behind
+them ([the dressing](dressing-the-stag.md), step 10).
 
 ---
 

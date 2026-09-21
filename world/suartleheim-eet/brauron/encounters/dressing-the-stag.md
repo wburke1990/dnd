@@ -45,7 +45,7 @@ Same steps for all three. Only the skin and where they go change.
 |---|---|---|
 | The town's girls, before they marry | bear | the temple, for a season — the historical Brauron rite |
 | The hunters, whose party pays 5,000 gp | hound-pelt | the muster at the fence |
-| The quarry, who are paid | deer-hide and a rack of antlers | out into the wild at dawn |
+| The quarry, who are paid | deer-hide and a rack of antlers | out through the gate in the morning |
 
 ## Cassia
 
@@ -68,9 +68,9 @@ quarry, and Cassia is dressed first.
 
 | When | What happens |
 |---|---|
-| Day 1, before dawn | The dressing in the temple, then the walk out to the gate. |
-| Day 1, first light | The boar is loosed through the gate, then the quarry. |
-| Day 1, noon | The hounds and the riders are loosed. |
+| Day 1, morning | The dressing in the temple, then the walk out to the gate. |
+| Day 1, midmorning | The boar is loosed through the gate, then the quarry. |
+| Day 1, noon | The hounds and the riders are loosed, four hours behind them. |
 | Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
@@ -103,10 +103,10 @@ party, lower the entry fee and the pay drops with it.
 
 | | |
 |---|---|
-| **Head start** | Out at first light on day 1, hounds loosed at noon. Six hours. |
+| **Head start** | Out in the morning on day 1, hounds loosed at noon. Four hours. |
 | **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It covers the first hour of the head start. |
 | **Gear** | Whatever they walked in with. The cult neither confiscates nor issues. |
-| **The rack** | Worn until the horn, and it stands above the grass. Disadvantage on Dexterity (Stealth). A hunter who takes it off a living quarry has won and is done; a quarry who takes it off is a trespasser inside the fence. |
+| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who takes it off a living quarry has won and is done; a quarry who takes it off is a trespasser inside the fence. |
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
@@ -340,8 +340,8 @@ that I have begun with you, I will turn to another song.
 
 ## 9 — The road to the gate
 
-The rite is done in the dark. The gate is outside the town at the edge of the preserve,
-and the quarry are walked out to it to be let through at first light.
+The gate is outside the town at the edge of the preserve, and the quarry are walked out
+to it when the rite is done.
 
 > *The Megabyzoi take you out. They walk either side of the quarry and do not talk. The
 > riders come up the road behind you at a walk and then past you, and are gone ahead.
@@ -360,13 +360,13 @@ and the quarry are walked out to it to be let through at first light.
 ## 10 — The gate
 
 > *A gate in the long fence, with the hunters drawn up behind it on their hounds. Grass
-> to your waist on the other side. It is not light yet.*
+> to your waist on the other side. The sun is up and it is not yet hot.*
 
 **The boar goes out first.**
 
 > *They bring up a cart with a crate on it, back it to the gate, and pull the pins. What
-> comes out is a boar the size of a horse. It goes through into the grass, out of sight,
-> and stays audible after that.*
+> comes out is a boar the size of a horse. It goes through into the grass, out of sight.
+> They can hear it after that.*
 
 `[for David]` The Calydonian boar — the beast-hunt's quarry, loosed into the preserve
 the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
@@ -385,13 +385,14 @@ can walk into it.
 
 ## The head start
 
-**Dawn to noon — six hours.** The hounds already have their smell (step 7) and nothing
-inside the fence washes it off ([the game preserve](the-game-preserve.md)).
+**Four hours.** They go out in the morning and the hounds come through at noon. The
+hounds already have their smell (step 7) and nothing inside the fence washes it off
+([the game preserve](the-game-preserve.md)).
 
 | | |
 |---|---|
-| **Six hours** | At a fast pace that is about 24 miles, at no cost. Past eight hours in a day it is a forced march and a DC 10 Constitution save each hour or a level of exhaustion. |
-| **Longstrider** | +10 ft. for the first hour of it. |
+| **Four hours** | At a fast pace, four hours of travel and no exhaustion — that only starts past eight hours in a day, at a DC 10 Constitution save each hour. |
+| **Longstrider** | +10 ft. for the first hour of the four. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
 | **At noon** | The horn at the fence, and the hounds and the riders come through. |
 
