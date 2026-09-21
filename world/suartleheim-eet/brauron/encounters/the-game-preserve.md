@@ -25,7 +25,7 @@ The land past Brauron is poison. No one lives further inland than
 [Brauron](the-peach-town.md). Out in that
 wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** once a year,
 and [the hell-tree](the-hell-tree.md) stands in the middle of the hunting ground. No
-hunter goes to it. The party joins the hunt to get past the fence, then breaks off
+hunter goes to it. The party joins the hunt to get past the wall, then breaks off
 and crosses to the tree alone.
 
 Source for the approach: *Heart of Darkness*.
@@ -61,8 +61,8 @@ altar and smells the deer-hide and the hands
 ([the dressing](dressing-the-stag.md), step 7). The pursuit uses no tracking checks.
 Breaking line of sight does not lose the hounds, and neither does a night's gap.
 
-`[settled — Will 9/21]` **Nothing inside the fence washes it off.** It would take a long
-scrub in clean water, and every water inside the fence is poison — which is what the
+`[settled — Will 9/21]` **Nothing inside the wall washes it off.** It would take a long
+scrub in clean water, and every water inside the wall is poison — which is what the
 priestess means by *"Bad water."* A quarry who gets in it to break the scent is drinking
 and breathing the poison.
 
@@ -83,8 +83,60 @@ back to Speed 30 by then, because Longstrider ran out as the horn went.
 seven miles from the gate. If the quarry walked their hour instead of running it, take ten
 minutes off. Pick which of the two the riders do.
 
-`[run]` **The loose pack arrives first.** The hounds running alongside are carrying
-nobody, so the first thing the party sees is dogs, with the riders coming up behind them.
+**Every hound has a rider.** There is no loose pack. The hounds are mounts.
+
+## The fight: mounted hunters against the party `[proposed — Will 9/21]`
+
+Five **[Lapis Writ](../../../../characters/the-lapis-writ.md)** at level 3 — Maalm
+aristocrats on great hounds — against the party on foot. Their hit points, AC and classes
+are in their own file.
+
+### The mounted rules, in short
+
+*PHB "Mounted Combat."*
+
+| | |
+|---|---|
+| **Mounting or dismounting** | Once during your move, on a creature within 5 feet. It costs movement equal to **half your speed** — 15 feet for a Speed 30 character. |
+| **A controlled mount** | Its **initiative changes to match the rider's** and it moves as directed. It can take only **Dash, Disengage or Dodge** — it does not attack. |
+| **An independent mount** | Keeps its own initiative and can take any action, including attacking. |
+| **Rider knocked prone** | DC 10 Dexterity save or fall off, landing prone within 5 feet of the mount. |
+| **The mount moved against its will** | Same save, same result. |
+| **The mount knocked prone** | The rider can use a **reaction** to dismount and land on their feet. Otherwise they fall prone within 5 feet of it. |
+| **Targeting** | Mount and rider are separate creatures. An attacker picks which one to attack. |
+
+### The call for this fight
+
+**The hounds are controlled mounts.** Five riders act, not ten. **A hound whose rider is
+killed goes independent on the next round** and fights on its own initiative.
+
+**The mounts give the hunters speed.** On the rider's turn the hound can Dash — Speed 50,
+so up to 100 feet — while the rider attacks, and it can Disengage instead to ride out
+without an opportunity attack. The riders ride in, spear, ride off and come back. A party
+member moving 30 feet cannot reach a rider who has ridden off.
+
+`[proposed]` **The grass is difficult terrain for the party and not for the hounds.** It
+is waist-high and the animals are bred for this ground.
+
+### What actually works against them
+
+- **Restrain the mount.** [*Entangle*](https://dnd2024.wikidot.com/spell:entangle) is a
+  druid 1st-level spell, a 20-foot square, Strength save or restrained — and a restrained
+  hound does not move, so the rider stays in reach.
+- **[*Spike Growth*](https://dnd2024.wikidot.com/spell:spike-growth)** is 2d4 for every
+  5 feet moved through it. Against a hound Dashing 100 feet a turn, that is 2d4 for every
+  5 feet it covers inside the area, and Blackacre has the slots for it at druid 3
+  ([Blackacre](../../../../characters/blackacre.md)).
+- **Move the mount.** Anything that shoves or drags the hound forces the DC 10 save and
+  can knock the rider prone within 5 feet of it.
+- **Kill the hound instead of the rider.** It drops the rider prone unless they spend a
+  reaction, and a hunter on foot is in the difficult terrain too.
+- **Ready an action.** Against a hit-and-run rider, readied attacks are worth more than
+  chasing.
+
+`[OPEN]` **What the hunters carry.** A lance is the mounted weapon: 1d12, reach 10 feet,
+and disadvantage against anything within 5 feet, so a rider is at disadvantage against
+anything that closes. Not settled against what the Writ already carry.
 
 ## Both hunts are kills
 
@@ -105,9 +157,9 @@ preserve is looking for it. The hunter who makes the kill cuts it off the body a
 hung in the temple. A quarry who takes it off themselves has nothing to show at the gate
 and the gate does not open for them ([the dressing](dressing-the-stag.md)).
 
-## The tree is inside the fence
+## The tree is inside the wall
 
-**The tree stands inside the fence, one day from the gate.** No hunter goes to it to hunt
+**The tree stands inside the wall, one day from the gate.** No hunter goes to it to hunt
 — there is no game there and the ground is the goddess's under the name Hecate
 ([the founding](../lore/the-founding-of-brauron.md)) — but a rider running a quarry down
 follows the quarry. **If the party are caught at the tree, the fight happens there**, with
@@ -121,7 +173,7 @@ The crossing runs:
 | **Day 1, an hour before noon** | Through the gate, with the boar already out ahead of them. |
 | **Day 1, noon** | The hounds and riders come through. |
 | **Day 1, afternoon** | First contact. |
-| **Days 1–7** | Contact again whenever the pursuit catches up, which the pack can always do. |
+| **Days 1–7** | Contact again whenever the pursuit catches up. |
 | **Day 2** | The tree, if they get that far, and the stair below it. |
 | **Day 7, sundown** | The horn. The gate opens for whoever is standing at it. |
 
@@ -193,16 +245,22 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 
 ## Read aloud — the edge of the hunt
 
-> *A long fence runs off into the wild both ways. Past it the grass is grey-green and
-> waist-high and the trees are knotted and low. Hunters are gathering: gnomes in
-> hound-pelts, up on the backs of great hounds, with a loose pack of more hounds
-> circling them. The ones off the Maalm boats stand in their own groups, in the same
-> pelts, waiting to be mounted. Far out past all of it, a single huge tree stands above
-> the low trees.*
+> *A stone wall runs out of sight in both directions, higher than a house. Set in it is a
+> gate with a windlass at either side: timber the thickness of a mast, bound and barred,
+> tall enough to ride four abreast under. Past it the grass is grey-green and waist-high
+> and the trees are knotted and low. Hunters are gathering: gnomes in hound-pelts, up on
+> the backs of great hounds, one hound to each rider. The ones off the Maalm boats stand
+> in their own groups, in the same pelts, waiting to be mounted. Far out past the grass,
+> one tree stands above the low trees.*
 
-`[OPEN]` the fence, the muster, the first sight of the far tree.
+`[OPEN]` **Who built the wall, and what a gate that size was cut for.** The cult keeps it
+and runs the hunt through it, and the town is four thousand years old
+([the founding](../lore/the-founding-of-brauron.md)). The cult does not claim it built the
+wall. What goes through the gate is the boar's crate and the riders.
 
-This is what a **hunter** sees, at noon on day one. A **quarry** sees the same fence an
+`[OPEN]` the muster, and the first sight of the far tree.
+
+This is what a **hunter** sees, at noon on day one. A **quarry** sees the same wall an
 hour earlier, from the other side of the gate, with the boar's crate coming up behind
 them ([the dressing](dressing-the-stag.md), step 10).
 
@@ -210,15 +268,15 @@ them ([the dressing](dressing-the-stag.md), step 10).
 
 ## Getting in, and getting to the tree
 
-The hunt is the way past the fence. After that the party crosses to the tree on their
+The hunt is the way past the wall. After that the party crosses to the tree on their
 own.
 
 - **Come as hunters** — join either hunt. `[settled at the table 9/1]` **A hunting
   party's place costs 5,000 gp**, which Pim Riddle told the party at Aar. They do not have it and
-  said so, so buying in is not the way they get through the fence.
+  said so, so buying in is not the way they get through the gate.
 - **Come as the quarry** — put your name down as the stag in the man-hunt. This is the
   one the party can afford.
-- **Slip in** past the fence.
+- **Get over the wall** somewhere else.
 
 Once inside, the party leaves the hunt and crosses the poison deadland to the tree alone,
 while the hunt runs on out in the wild, far from the tree.

@@ -45,7 +45,7 @@ Same steps for all three. Only the skin and where they go change.
 | Who | Skin | Where they go |
 |---|---|---|
 | The town's girls, before they marry | bear | the temple, for a season — the historical Brauron rite |
-| The hunters, whose party pays 5,000 gp | hound-pelt | the muster at the fence |
+| The hunters, whose party pays 5,000 gp | hound-pelt | the muster at the gate |
 | The quarry, who are paid | deer-hide and a rack of antlers | out through the gate in the morning |
 
 ## Cassia
@@ -60,7 +60,7 @@ in the storm on the way north
 have been in for some time. She fought beside them outside Preem's tower
 ([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
 
-**Why she signed.** It is the only way through the fence that does not cost 5,000 gp —
+**Why she signed.** It is the only way through the wall that does not cost 5,000 gp —
 only [Setha Renk's crew](../../../../characters/the-lapis-writ.md) can pay it — and the
 quarry are paid. This does not replace **Pax as the stag**: anyone who signs goes out as
 quarry, and Cassia is dressed first.
@@ -73,7 +73,7 @@ quarry, and Cassia is dressed first.
 | Day 1, an hour before noon | The boar is loosed through the gate, then the quarry. |
 | Day 1, noon | The hounds and the riders are loosed, an hour behind them. |
 | Day 1, about half past noon | The riders reach them, if they gallop from the horn ([the game preserve](the-game-preserve.md)). |
-| Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
+| Days 1–7 | The hunters are in the preserve, and everyone inside the wall is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
 A quarry who comes back early is turned around. **The tree is one day out**, so there is
@@ -121,11 +121,11 @@ party, lower the entry fee and the pay drops with it.
 | **Head start** | Out an hour before noon on day 1, hounds loosed at noon. One hour. |
 | **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It lasts one hour, which is the whole head start. |
 | **Gear** | Whatever they walked in with. The cult takes nothing off them. |
-| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who kills a quarry cuts the rack off the body and keeps it. A quarry who takes it off has nothing to show at the gate, and the gate does not open for them. |
+| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who kills a quarry cuts the rack off the body and keeps it. A quarry who takes it off has nothing to show at the gate, and it does not open for them. |
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
-The hounds at the fence are named off the roll she reads. The names do not change from
+The hounds at the gate are named off the roll she reads. The names do not change from
 hunt to hunt.
 
 ## If the party interrupt
@@ -221,15 +221,15 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | What it pays | **"Four thousand, split between however many of you sign."** |
 | Where that comes from | **"The hunters pay five thousand. The temple keeps a thousand."** |
 | How long | **"Seven days. Come to the gate on the seventh evening and we open it."** |
-| Whether anyone comes back | **"Some do. Most run for the fence."** |
-| Why that is bad | **"We keep the hounds at the fence."** |
+| Whether anyone comes back | **"Some do. Most run back to the wall and cannot get over it."** |
+| Why that is bad | **"There are hounds along the wall the whole seven days."** |
 | Coming back sooner | **"We turn you around. The gate opens on the seventh evening."** |
 | What is out there | **"Grass to your waist. Bad water."** |
 | Whether the hounds will know them | **"They smell your hands before you go out."** |
 | Washing it off | **"In what?"** |
 | The tree | **"No one hunts there."** *(she says nothing else)* |
 | Whether they can sign too | **"Anyone who wants to."** |
-| A way out | **"Bring a live stag to the gate and the gate opens. One stag for each of you."** |
+| A way out | **"Bring a live stag and we open the gate. One stag each."** |
 
 > *She scratches the name in and hangs it with the rest.*
 
@@ -374,14 +374,16 @@ to it when the rite is done.
 
 ## 10 — The gate
 
-> *A gate in the long fence, with the hunters drawn up behind it on their hounds. Grass
+> *The wall goes up higher than a house and runs out of sight both ways. The gate in it
+> is timber the thickness of a mast, bound and barred, and it takes a dozen men on the
+> windlass to start it moving. The hunters are drawn up behind you on their hounds. Grass
 > to your waist on the other side. The sun is up and it is not yet hot.*
 
 **The boar goes out first.**
 
-> *They bring up a cart with a crate on it, back it to the gate, and pull the pins. What
-> comes out is a boar the size of a horse. It goes through into the grass, out of sight.
-> They can hear it after that.*
+> *They bring up a cart with a crate on it, back it to the gate, and pull the pins. A
+> boar the size of a horse comes out. It goes through into the grass, out of sight. You
+> can hear it after that.*
 
 `[for David]` The Calydonian boar — the animal the beast-hunt is after, loosed into the
 preserve the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
@@ -393,8 +395,8 @@ can walk into it.
 > *She puts a hand flat on Cassia's chest.* **Longstrider** — on each quarry in turn. It
 > is cast here rather than at the temple, so the spell runs out during the head start.
 
-> *They open the gate. It shuts behind you. The priestess says one thing through the
-> fence and the Megabyzoi start back down the road.*
+> *They open the gate. It shuts behind you. The priestess speaks through the gate, and
+> the Megabyzoi start back down the road.*
 
 **"The hounds come through at noon."**
 
@@ -402,7 +404,7 @@ can walk into it.
 
 **One hour.** They go through the gate an hour before noon and the hounds come through at
 noon. The hounds already have their smell (step 7)
-and nothing inside the fence washes it off.
+and nothing inside the wall washes it off.
 
 | | |
 |---|---|

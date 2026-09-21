@@ -50,9 +50,9 @@ grove, the statue, the fountain, and the plays.
 
 `[DM background]` The Megabyzoi are real: Artemis's priests at Ephesus were castrated,
 in the manner of the **Galli**, the self-cut priests of Cybele and Attis. Attis
-castrates himself under the pine and dies, and his priests castrated themselves as well. The
-Attis story is about castration and a god who dies, so the eunuch priests keep it and
-the bee-priestesses do not. (For when a player asks.)
+castrates himself under the pine and dies, and his priests castrated themselves as well.
+The eunuch priests keep the Attis story; the bee-priestesses do not. (For when a player
+asks.)
 
 ---
 
@@ -84,7 +84,7 @@ the bee-priestesses do not. (For when a player asks.)
 
 ## Read aloud — the square
 
-> *The town is ringed with peach trees, heavy with fruit. In the square a stone statue
+> *The town is ringed with peach trees, the branches loaded with fruit. In the square a stone statue
 > of a boy stands on a plinth, with writing carved into the base. In front of it,
 > players in painted masks and robes are acting something out for a small crowd — an
 > old couple, a great peach, a child stepping out of it.*
@@ -93,8 +93,8 @@ The founding: **[Momotarō](../../../../handouts/momotaro.md)**, a childless cou
 boy inside a peach and raise the town with him. The gnomes act it in the street in
 kabuki masks; the statue is the boy; the Momotarō text is cut into the base.
 
-`[DM]` The town really was founded by the boy from the peach, and the boy was a demon
-out of [the hell-tree](the-hell-tree.md). See
+`[DM]` The town was founded by the boy from the peach, and the boy was a demon out of
+[the hell-tree](the-hell-tree.md). See
 [the founding of Brauron](../lore/the-founding-of-brauron.md).
 
 `[DM]` The line on the base — *"Wait a bit, old man!"* — is one of the lines a newborn
@@ -140,14 +140,14 @@ with a tiny girl inside.
 ## Read aloud — the temple of Artemis
 
 > *The temple is dim and cool. The women who keep it are veiled and still; among them
-> stand a few men, soft-faced and beardless. On the walls, in paint, a young man is
+> stand a few men with smooth faces and no beards. On the walls, in paint, a young man is
 > gored by a boar, figures stand over his body, and a tree grows where his blood falls.*
 
 **Two priesthoods keep the temple, borrowed from Ephesus.** The **bee-priestesses (the
 Melissae, "the bees")** are Artemis's virgin women, and they run the hunt. The **eunuch
 priests (the Megabyzoi)** keep the **[Attis mystery](../../../../handouts/the-birth-of-attis.md)**
-— the young god born from the almond of a tree grown from the blood of a god who was
-killed, who dies and is mourned. The party sees the Attis story only here, painted on the temple walls.
+— the young god born from the almond of a tree that grew where a killed god's blood fell.
+He dies, and he is mourned. The party sees the Attis story only here, painted on the temple walls.
 
 The priestesses also serve Artemis as **Hecate**, of the moon and the dead. The
 deadland and the tree are hers under that name. The town's
@@ -173,7 +173,7 @@ gave it water ([the founding](../lore/the-founding-of-brauron.md#the-dragonborn-
 The inscription is Longfellow's
 [The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md).
 The town does not remember him as a dragonborn. In the play he is the old man, in a mask.
-`[Blackacre]` The stone is on the road out to the fence and back. Sam decides what
+`[Blackacre]` The stone is on the road out to the gate and back. Sam decides what
 Blackacre does at it.
 
 ---
