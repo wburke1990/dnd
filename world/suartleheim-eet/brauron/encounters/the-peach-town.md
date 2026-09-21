@@ -105,10 +105,9 @@ again at the tree.
 hand, which gives the demon's true name:** *"Then I called him Emmu, and he asked for water, and
 I gave him water."* Hammou wrote it the day it happened and the town has recut it ever
 since.
-The players in the square say it every day and nobody in Brauron knows the word is a
-name. Read the whole base out when a PC reads it — Sarric's Pen of Comprehend Languages
+The players in the square say it every day. Nobody in Brauron knows the word is a name. Read the whole base out when a PC reads it — Sarric's Pen of Comprehend Languages
 translates the last line and leaves **Emmu** untranslated, because it is a name. The party
-can learn the name here, three days before they reach the tree. The other places it can be
+can learn the name here, before the hunt starts. The other places it can be
 learned are in [the founding](../lore/the-founding-of-brauron.md#in-play).
 
 ---
@@ -124,7 +123,7 @@ citron begging for water, and vanishes if she is not given it at once. The fount
 carving shows that moment.
 
 `[DM]` At [the hell-tree](the-hell-tree.md) a newborn demon asks for water and stops
-talking when it does not get it. Water runs over the carved maiden's open mouth all day.
+talking when it does not get it. The fountain here runs day and night.
 
 ---
 
@@ -147,8 +146,8 @@ with a tiny girl inside.
 **Two priesthoods keep the temple, borrowed from Ephesus.** The **bee-priestesses (the
 Melissae, "the bees")** are Artemis's virgin women, and they run the hunt. The **eunuch
 priests (the Megabyzoi)** keep the **[Attis mystery](../../../../handouts/the-birth-of-attis.md)**
-— the young god born from the almond of a tree grown from a slain god's blood, who dies
-and is mourned. The party sees the Attis story only here, painted on the temple walls.
+— the young god born from the almond of a tree grown from the blood of a god who was
+killed, who dies and is mourned. The party sees the Attis story only here, painted on the temple walls.
 
 The priestesses also serve Artemis as **Hecate**, of the moon and the dead. The
 deadland and the tree are hers under that name. The town's

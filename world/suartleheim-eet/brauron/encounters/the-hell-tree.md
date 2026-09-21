@@ -23,8 +23,8 @@ status: draft
 
 The last stop of the Brauron hunt: a single giant tree at the northern tip of
 [Suartleheim](../../../nila/lore/nila-atlas.md), north of [Raand](../../../nila/lore/nila-atlas.md) (94, 74)
-and across the strait from [Sukkek](../../../nila/lore/nila-atlas.md) (95, 61). A dot on
-[Preem's map](../../../../characters/preem.md).
+and across the strait from [Sukkek](../../../nila/lore/nila-atlas.md) (95, 61). It is
+marked on [Preem's map](../../../../characters/preem.md).
 
 ---
 
@@ -36,7 +36,7 @@ pluck one of the fruits, and name whatever is inside. He pays them for the name.
 `[DM]` What is inside is a baby demon, and a newborn demon has no true name yet — so the
 party gives it one and that is the name Preem buys (see
 [the name quest](../../../nila/lore/demons-and-the-hotspot.md)). The site is poisoned and
-holy, and no one can control it, so Preem cannot own it or work it himself.
+no one can control it, so Preem cannot own it or work it himself.
 
 ---
 
@@ -51,7 +51,7 @@ grown from the wound.) A tree grew up where the torn body fell, and its mind sta
 alive in the wood. Over thousands of years the roots grew down until they reached hell,
 and then the tree began to fruit.
 
-Because the giants killed the god, no god rose here, no new land was raised, and no
+Because the giants killed the god, no god rose here and no new land was raised. No
 [road of the dead](../../../nila/lore/demons-and-the-hotspot.md) was kept. The tree fell in
 the first pass, so it is older than the gnomes and the Muspel empire. `[OPEN]` exact date.
 
@@ -232,7 +232,7 @@ copy, so it is written the other way here.
 out speaking and has no words of its own. What it has heard is the tree's muttering,
 in **the muttering** above, and the stories demons from this tree have repeated elsewhere
 for as long as the tree has fruited. Those are the stories the party watched
-acted out in the square at [Brauron](the-peach-town.md) three days before. The
+acted out in the square at [Brauron](the-peach-town.md) two days before. The
 newborn says them back.
 
 Read these out word for word. They are the texts on the statue base and the fountain in
@@ -287,7 +287,7 @@ demon loose in the world. `[OPEN]` whether one comes back.
 `[settled]` **Brauron's founder came out of this tree.** A dragonborn named Hammou carried
 a fruit out of the poison deadland, gave it water, called it **Emmu**, and raised what
 came out. That is how the town's founder got a true name, and the last line on the plinth
-in the square is that name. The party walked past it three days ago. See
+in the square is that name. The party walked past it two days ago. See
 [the founding of Brauron](../lore/the-founding-of-brauron.md).
 
 ---

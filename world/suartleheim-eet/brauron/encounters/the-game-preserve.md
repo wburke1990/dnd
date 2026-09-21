@@ -33,12 +33,13 @@ Source for the approach: *Heart of Darkness*.
 ## The hunt
 
 The [cult of Artemis](the-peach-town.md) runs it out in the wild, once a year, and it
-runs **seven days** — the quarry out through the gate on the morning of day one, the
-hounds loosed four hours later at noon, the horn at sundown on day seven. The full shape of it is in
+runs **seven days** — the quarry out through the gate an hour before noon on day one, the
+hounds loosed at noon behind them, the horn at sundown on day seven. The tree is one day
+out, so most of the seven is theirs to spend once they are past the line. The full shape of it is in
 [the dressing](dressing-the-stag.md). Two hunts:
 
 - **The beast-hunt (the Calydonian boar).** The cult brings a boar to the gate in a
-  crate and looses it on the morning of day one, ahead of the quarry
+  crate and looses it an hour before noon on day one, ahead of the quarry
   ([the dressing](dressing-the-stag.md), step 10). `[for David]` its stat block.
 - **The man-hunt (Actaeon).** A person is marked as the stag and run down. The quarry
   is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
@@ -47,7 +48,7 @@ hounds loosed four hours later at noon, the horn at sundown on day seven. The fu
 the boar is loose wherever the party are walking. It is not hunting them. The riders
 following it cross the same ground.
 
-## The hounds, and how fast they close `[proposed — Will 9/21]`
+## The hounds, and the chase `[proposed — Will 9/21]`
 
 The hunters ride **great hounds** and wear **hound-pelts**. The hounds are big enough for
 a gnome to ride, and the pack running loose alongside is the same animal.
@@ -58,32 +59,52 @@ a gnome to ride, and the pack running loose alongside is the same animal.
 **They have the quarry's smell before the quarry leaves.** Each hound is walked up to the
 altar and smells the deer-hide and the hands
 ([the dressing](dressing-the-stag.md), step 7). The pursuit uses no tracking checks.
-Breaking line of sight does not lose the hounds, and neither does a night's gap. The
-quarry can only open the gap by moving.
+Breaking line of sight does not lose the hounds, and neither does a night's gap.
 
 `[settled — Will 9/21]` **Nothing inside the fence washes it off.** It would take a long
 scrub in clean water, and every water inside the fence is poison — which is what the
 priestess means by *"Bad water."* A quarry who gets in it to break the scent is drinking
-and breathing the poison. So the hounds hold the scent for all seven days. What changes
-is the distance between them and the quarry.
+and breathing the poison.
 
-**What each side makes in a day.**
+**The head start is one hour.** The quarry go through the gate an hour before noon and
+the hounds come through at noon. An hour on foot is about four miles; a gallop covers
+that in well under an hour. **So the riders are on them the first afternoon.**
+
+## The line, and why the chase ends at it
+
+**The tree is one day from the gate.** The party are running for **the line the
+priestesses set**, somewhere short of the tree. No hunter
+crosses it. The ground past it is the goddess's under the name Hecate and the cult has
+kept people off it since the founding ([the founding](../lore/the-founding-of-brauron.md)).
+
+The crossing runs:
 
 | | |
 |---|---|
-| **The riders** | **30 miles**, at a fast pace, and one hour of it can be a gallop for about **4 more**. They use that hour to close the distance. |
-| **A quarry pacing themselves** | 24 miles, at a normal pace. |
-| **A quarry running flat out** | 30 miles, at a fast pace — and past eight hours in a day that is a forced march, DC 10 Constitution each hour or a level of exhaustion. Everyone inside the fence is breathing the poison while they do it. |
+| **Day 1, an hour before noon** | Through the gate, with the boar already out ahead of them. |
+| **Day 1, noon** | The hounds and riders come through. |
+| **Day 1, afternoon** | First contact, and further contacts through the afternoon. |
+| **Day 1 evening or day 2** | They reach the line. **The hunt breaks off at it and will not follow.** |
+| **Past the line** | [The hell-tree](the-hell-tree.md), the stair, and the poison working on them. No hunters. |
+| **Coming back** | They have to cross the line the other way, into a hunt that has been waiting on it. |
 
-**The gap closes about four miles a day against a quarry running as hard as the riders,
-and about ten against one pacing themselves.** The four-hour head start is about **16
-miles**. That puts the hounds on a quarry who keeps the pace up around **day four**, and
-on one who does not around **day two**. The crossing to [the hell-tree](the-hell-tree.md)
-and back is seven days, so the pack arrives somewhere near the tree.
+**The hunters ride for the rack. They do not try to kill the quarry.** A hunter who takes
+the rack off a living quarry has won and is done, so every contact is people trying to get
+a hand on the antlers. A caught quarry loses the rack and lives.
+
+Worn, the rack is taller than the grass and it is what everyone in the preserve is riding
+at. Taken off, the quarry has nothing to show at the gate on day seven and the gate does
+not open for them ([the dressing](dressing-the-stag.md)).
+
+`[run]` **Run the contacts as chases** (*DMG* chase rules): a creature can Dash a number
+of times equal to 3 + its Constitution modifier before it starts making DC 10 Constitution
+saves or taking exhaustion, and the grass, the gullies and the poisoned animals are the
+complications. The party are at Speed 30 against Speed 50, so they cannot outrun the pack.
+They can break line of sight long enough to reach the line, fight the riders off, or give
+up the rack.
 
 The hunt stays out in the wild and **never goes near the tree.** The tree is holy
-ground, and no hunter enters it. The priestesses set a line the hunt turns back at,
-and seven days is not long enough to reach the tree and hunt as well.
+ground and no hunter enters it. The priestesses set the line it turns back at.
 
 ## The rival crews at the hunt `[S10]`
 
@@ -136,8 +157,8 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 
 `[OPEN]` the fence, the muster, the first sight of the far tree.
 
-This is what a **hunter** sees, at noon on day one. A **quarry** sees the same fence four
-hours earlier, from the other side of the gate, with the boar's crate coming up behind
+This is what a **hunter** sees, at noon on day one. A **quarry** sees the same fence an
+hour earlier, from the other side of the gate, with the boar's crate coming up behind
 them ([the dressing](dressing-the-stag.md), step 10).
 
 ---

@@ -116,7 +116,7 @@ magecraft, invented in Maalm about 1,850 years ago and kept secret since (see
 maps and always has been. In the town it is a word the boy says in the play.
 
 **Preem's errand takes the party past the plinth.** He pays 5 gp a name and has sent
-them to take one off a newborn at the tree, four days inland of the square (see
+them to take one off a newborn at the tree, a day inland of the gate (see
 [Preem](../../../../characters/preem.md)). The name they were hired for is at the tree.
 Emmu is cut into the plinth in the square and said in the play there.
 
@@ -252,36 +252,36 @@ old man's stone. Sam decides what Blackacre does at it.
 
 ## In play
 
-`[settled — 9/21]` They come into town first and reach the tree last. Emmu is in the
-square on day one and still there on the way back, and there are three other routes to it
-below.
+`[settled — 9/21]` They come into town first and reach the tree last. The word is cut
+into the plinth in the square; they pass it on the way in and again on the way back, and
+three other ways they can learn it are below.
 
-**Day one, the square.** They watch the play, read the plinth, see the fountain, and
+**In town, before the hunt.** They watch the play, read the plinth, see the fountain, and
 walk through the grove.
 
 `[Sarric]` The **Pen of Comprehend Languages** is at will (see
 [Preem](../../../../characters/preem.md)). Sarric can read the whole plinth on the spot, and
 the last line comes through in plain speech except for **Emmu**, which stays
-untranslated because it is a name. He can do this on day one, four days before the tree,
-and the pen costs nothing to use.
+untranslated because it is a name. He can do this in town, before the hunt starts, and
+the pen costs nothing to use.
 
 `[Aniess]` **Timebiter** on a splinter of the oldest tree in the grove returns the
 grove's age. It is the town's age, to the decade.
 
-**Day four, at the tree.** A newborn splits out saying nothing but the lines the party
+**Day two, at the tree.** The fruit splits and the newborn says only the lines the party
 watched acted in the square. It has no name and takes the first one it is given, which is
 the name Preem is paying for.
 
 **On the way back through town.** Having named one themselves, they can read the last
-line on the plinth for what it is. If they work it out here, they have a second name and
+line on the plinth as a name. If they work it out here, they have a second name and
 nobody to stop them taking it.
 
-**Other routes in.**
+**Other ways they learn it.**
 
 - **The dressing.** If a PC goes in as the quarry
   ([the dressing](../encounters/dressing-the-stag.md)), the party is in the room, and the
-  Megabyzoi are standing along the wall not taking part. A PC who asks a priest why gets
-  nothing. A PC who asks the same priest twice, a week later, is sent to Ampelos.
+  Megabyzoi are standing along the wall not taking part. A priest who is asked why does
+  not answer. A PC who asks the same priest twice, a week later, is sent to Ampelos.
 - **Ampelos.** He comes to them after the tree, wanting the account, and he will answer
   questions to get it.
 - **The roll of the quarry.** The bee-priestesses' list, and the first name on it.

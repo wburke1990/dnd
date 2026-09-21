@@ -69,14 +69,16 @@ quarry, and Cassia is dressed first.
 | When | What happens |
 |---|---|
 | Day 1, morning | The dressing in the temple, then the walk out to the gate. |
-| Day 1, midmorning | The boar is loosed through the gate, then the quarry. |
-| Day 1, noon | The hounds and the riders are loosed, four hours behind them. |
+| Day 1, an hour before noon | The boar is loosed through the gate, then the quarry. |
+| Day 1, noon | The hounds and the riders are loosed, an hour behind them. |
+| Day 1, afternoon | The riders are on them ([the game preserve](the-game-preserve.md)). |
 | Days 1–7 | The hunters are in the preserve, and everyone inside the fence is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
-A quarry who comes back early is turned around. The crossing to
-[the hell-tree](the-hell-tree.md) and back takes seven days; how fast the sickness works
-is `[OPEN]` in [the game preserve](the-game-preserve.md).
+A quarry who comes back early is turned around. **The tree is one day out**, so they have
+about five days past the line the hunt turns back at before they have to start for the
+gate ([the game preserve](the-game-preserve.md)). How fast the sickness works is `[OPEN]`
+there too.
 
 ## The live stag
 
@@ -103,10 +105,10 @@ party, lower the entry fee and the pay drops with it.
 
 | | |
 |---|---|
-| **Head start** | Out in the morning on day 1, hounds loosed at noon. Four hours. |
-| **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It runs for the first hour of the four. |
-| **Gear** | Whatever they walked in with. The cult takes nothing off them and gives them nothing. |
-| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who takes the rack off a living quarry has won. A quarry who takes it off has nothing to show at the gate, and the horn does not open it for them. |
+| **Head start** | Out an hour before noon on day 1, hounds loosed at noon. One hour. |
+| **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It lasts one hour, which is the whole head start. |
+| **Gear** | Whatever they walked in with. The cult takes nothing off them. |
+| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who takes the rack off a living quarry has won. A quarry who takes it off has nothing to show at the gate, and the gate does not open for them. |
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
@@ -385,16 +387,17 @@ can walk into it.
 
 ## The head start
 
-**Four hours.** They go out in the morning and the hounds come through at noon. The
-hounds already have their smell (step 7) and nothing inside the fence washes it off
-([the game preserve](the-game-preserve.md)).
+**One hour.** They go through the gate an hour before noon and the hounds come through at
+noon. The hounds already have their smell (step 7)
+and nothing inside the fence washes it off.
 
 | | |
 |---|---|
-| **Four hours** | About 16 miles at a fast pace. Exhaustion only starts past eight hours in a day, at a DC 10 Constitution save each hour. |
-| **Longstrider** | +10 ft. for the first hour of the four. |
+| **One hour** | About four miles at a fast pace. |
+| **Longstrider** | +10 ft., and it runs out as the horn goes. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
-| **At noon** | The horn at the fence, and the hounds and the riders come through at Speed 50 ft. They make 30 miles a day to the quarry's 24, so they close the 16 miles ([the game preserve](the-game-preserve.md)). |
+| **At noon** | The hounds and riders come through at Speed 50 ft. and cover four miles at a gallop in well under an hour. **They are on the quarry the same afternoon** ([the game preserve](the-game-preserve.md)). |
+| **What the quarry is running for** | The line the priestesses set, short of the tree. No hunter crosses it. The tree is one day out. |
 
 ---
 
