@@ -15,23 +15,20 @@ that raised Muspelheim, and how that alliance fell apart. Companion to
 
 ## Two different things people call "demon"
 
-The word covers two completely different things, and keeping them apart
-matters.
+The word covers two different things.
 
-**The magma demon** is a cosmic force, not a creature. It is the slow,
-land-building pole of every Ragnarok, opposite the comet and the sky-dragon
-that destroy (see the Ragnarok frame in
+**The magma demon** is a cosmic force, not a creature. In every Ragnarok it
+builds land, while the comet and the sky-dragon destroy (see the Ragnarok frame in
 [the Second Foundation](the-second-foundation.md)). It does not think, speak,
 or care about people any more than the falling comet-stones do. It is a force
-of nature. When the magma flows slow it builds land; when something forces it
-to spend all at once, it blows the world open.
+of nature. When the magma flows slow it builds land; when it comes
+up all at once, it breaks the world.
 
 **The demon-people** are persons — shapechangers and others — who live in the
 Abyss-tunnels and draw their life from the hotspot's heat. Manizheh
 ([the dream-quest demon-wife](../../../characters/manizheh.md)) and Mul (Preem's
 right hand) are of this kind; both are Yochlols. They are not the force. They
-live off it, the way a people live around a sea or beneath a volcano. The
-oldest of them are older than the oldest elves.
+live off it. The oldest of them are older than the oldest elves.
 
 ## The deep cities follow the heat
 
@@ -42,7 +39,7 @@ it, because their cities run on its heat. The Abyss is the tunnel-network that
 honeycombs Nila, and their cities are strung along it, abandoned and rebuilt as
 the heat moves on.
 
-So beneath the island chain there is a buried chain that mirrors it:
+The deep cities run beneath the island chain:
 
 - **Beneath Jotunheim** — the oldest, dead city, left when the Bleeding Star
   drove the hotspot away.
@@ -55,8 +52,7 @@ So beneath the island chain there is a buried chain that mirrors it:
 
 When the First Foundation raised Muspelheim, the demon-people powered it.
 The empire ran on their power and their heat; men, dragonborn, and demons built
-the iron north together. The demons were infrastructure, not enemies. This is
-the part later ages forgot.
+the iron north together.
 
 It came apart in steps:
 
@@ -67,42 +63,38 @@ It came apart in steps:
 2. They crossed to Jotunheim on foot, under the sea, through the demon-tunnels —
    the demon-people gave them the road — and came up inside the caldera to
    massacre the elf colonists holding it (see
-   [Lonka / Jotunheim](../../lonka/lore/lonka-jotunheim.md)). The demons' tunnels were the means
-   of that slaughter.
-3. Two things soured the alliance at once. The human empire recoiled from the
+   [Lonka / Jotunheim](../../lonka/lore/lonka-jotunheim.md)).
+3. Two things broke the alliance at once. The human empire recoiled from the
    demons' hand in the killing, and the departure of the dragonborn removed the
-   people who had held humans and demons together — the dragonborn had been the
-   bridge. Internal politics did the rest.
-4. Weak and divided, the empire was ripe for revolt. **Kuru**, a Muspel
+   people who had held humans and demons together. Internal politics did the rest.
+4. Weak and divided, the empire could not hold down a revolt. **Kuru**, a Muspel
    subject, rose against it and took up the Phoenix faith as it did. Because the
    empire's power had been demon-power, Kuru's revolution was anti-demon at its
    root, and the Phoenix later made a creed of it — *look what their power did*
    (see [Kuru and the Phoenix](../../kuru/lore/kuru-and-the-phoenix.md)).
 5. Later — ~1,850 years ago, in the wake of the Jotunheim massacre — the elves founded the **Second
    Foundation** as the expanding Muspel empire marched toward their cities, and
-   it was they who **invented the binding of demons by their true names.** That
+   they **invented the binding of demons by their true names.** That
    technique is the order's own, not an ancient inheritance; it turned the
-   demon-people from former partners into enslaved instruments. Maalm had not
-   forgotten Jotunheim, either: it was the **demon-people's tunnels** that had
+   demon-people from former partners into enslaved instruments. Maalm's other reason
+   was Jotunheim: it was the **demon-people's tunnels** that had
    carried the zealots up into the caldera to slaughter Maalm's colonists (step
-   2), so binding demons was both retribution and defense — the power that had
-   been the road to that massacre, taken and chained. With the old
+   2), so binding demons was both retribution and defense. With the old
    alliance long gone, the demon-people were left with only the mortals who hunt
    them — the binders of Maalm, and Kuru's crusaders carrying holy war into the
-   Kalikhat tunnels. What had been one relationship among several became the only
-   one left.
+   Kalikhat tunnels.
 
 **A note on ships.** The early dragonborn hulls could not move armies; the
 longship is a later evolution of that tech. That is why the crossing to
 Jotunheim went under the sea on foot rather than by fleet, and why the
-alliance's collapse played out on land and in tunnels instead of in naval war.
+alliance broke apart on land and in tunnels rather than at sea.
 Large-scale sea power is a recent thing.
 
 ## True names
 
 For the binding rule itself — Planar Binding plus a true name, no save — see
 [Preem's demons](../../../characters/preems-demons.md). What matters here is how a
-name is gotten in the first place, which is hard on purpose. The art of taking a
+name is gotten in the first place. The art of taking a
 name and binding by it is **recent** — the Second Foundation's own invention (the
 working figure is ~1,850 years, though the timing is still loose);
 through the long alliance before that the demon-people were partners, not
@@ -116,36 +108,40 @@ gave the line-gods as sureties, handed down through the gods' death-rites, the
 one kind of place a demon's true name was ever set down (below). The second is
 to **take it fresh:** bring the demon to the edge of true
 death and have it surrender its name for its life — for a demon, true death is
-final, no return, which is what makes the threat absolute. Either way, once a name
+final, no return. Either way, once a name
 is had it can be copied and handed on and **never recalled;** a bound demon's only
 escape is to change its own name, which unmakes it (see
 [Manizheh](../../../characters/manizheh.md)).
 
+Both ways work on a demon that already has a name to keep. A demon that has not got
+one yet takes the first word it is called and keeps that, which is why the newborns
+out of [the hell-tree](../../suartleheim-eet/brauron/encounters/the-hell-tree.md) matter:
+whoever speaks first to one makes its true name rather than taking it. Brauron's founder got its name that way and the word is cut in the town square
+([the founding](../../suartleheim-eet/brauron/lore/the-founding-of-brauron.md)).
+
 ### Where the names come from — and why the party hunts them
 
-**The elves built the key.** Binding by true name is **elven magecraft, invented
-to kill an empire** — not demon-lore handed over by a merciful captive. **The seed
-was a story they already told: Isis and Ra** — the goddess who masters the
+**The elves invented the binding.** Binding by true name is **elven magecraft,
+invented as a weapon against the Muspel empire.** They worked from a story they
+already told, **Isis and Ra** — the goddess who masters the
 sun-god not by any gift but by **poisoning him and prising his hidden true name
-out of him at the edge of death.** The Maalm mages read that myth as a recipe, and
-it handed them both halves of what they built: the **principle** (a secret name is
-a leash, even on a god) and the **method** (take it at the brink). Working from
+out of him at the edge of death.** The Maalm mages took two things from the myth:
+the **principle** (a secret name controls whoever holds it, a god included) and the
+**method** (take it at the brink). Working from
 **inside the First Foundation** (the Asimov nesting: a hidden order
 within the elder one; see [the Second Foundation](the-second-foundation.md)), they
 turned it into the weapon — **Planar Binding, spoken with a true name, takes hold
-with no save and never lets go** (see [Preem's demons](../../../characters/preems-demons.md)).
+with no save and does not end** (see [Preem's demons](../../../characters/preems-demons.md)).
 
-**But the key is useless without names to turn — and no living demon will give
-one up.** A true name was **always secret, even then.** The myth the elves built
+**But the binding is useless without names, and no living demon will give one up.** A true name was **always secret, even then.** The myth the elves built
 from says so itself: Ra's name was *hidden* — Isis had to poison it out of him
-because it was written nowhere. So it is in the world. Mortal, demon, and god
+because it was written nowhere. The same holds in the world. Mortal, demon, and god
 alike went by **public names** — throne-names, temple-names, use-names — and
 those are what fill the temple-rolls, treaty-stones, and ledgers of every age.
 An archive can be combed for nine hundred years and give up nothing but public
-names, which bind nothing. That combing has been done. It found what it could
-find.
+names, which bind nothing. The order has already combed the archives.
 
-**The one exception is the dead — and it is the whole quest.** The road to the
+**The one exception is the dead.** The road to the
 [Duat](../../suartleheim-eet/maalm/lore/egyptian-afterlife-mythology.md) runs *down*, through the Abyss: the sun
 leaves the world at the western horizon, crosses the hollow deep, and rises in
 the east — and every dead soul follows it. The gates on that road are not the
@@ -166,23 +162,21 @@ mortals can lose is the **names**, not the right — and most have lost them.
 **The toll.** A soul that carries the keepers' names passes free — each name,
 spoken at its gate, invokes the compact. A soul without the names still
 crosses: **a gate admits whoever submits to its toll,** paid out of grave-goods — that is what grave-goods are for — and
-the strippings, offerings, and trials the myths remember are the gates
-collecting. Each land's funerary tradition carried its own roll for its own
+the strippings, offerings and trials in the myths are those tolls. Each land's funerary tradition carried its own roll for its own
 stretch of the road — Maalm's dead were buried with the
 [twelve keepers of the hours](../../suartleheim-eet/maalm/encounters/valley-of-the-kings.md); the dead
 of the Musleheim country with the
 [seven gates](../../musleheim/encounters/the-descent-of-inanna.md) and their keepers.
 
 Giving a name cost a keeper nothing then. The spell that turns a name into a
-chain had not been dreamed of; a name given as surety was a toll-word, not a
-leash.
+chain had not been dreamed of; a name given as surety only opened a gate.
 
 **One road, two planes.** The world of the living and the world of the dead
 overlap. The dead travel the road as the **river of stars**; the living walk
-the same road in the flesh as the **Abyss tunnels** — one geography, two
-faces. **The planes intersect at people and at demons.** A sleeping mortal
-brushes the far side — **dreams are real,** and their country is the dead's
-country; an ordinary dream is a shallow, forgetful crossing, and a deep one
+the same road in the flesh as the **Abyss tunnels**. **The planes intersect at
+people and at demons.** A sleeping mortal crosses partway — **dreams are real,**
+and their country is the dead's country; an ordinary dream crosses briefly and is
+not remembered, and a deep one
 (*Dream of the Blue Veil*) carries the sleeper all the way over (see
 [the dream quest](../../suartleheim-eet/maalm/encounters/the-dream-quest.md)). A demon does not cross
 at all: **it stands on both planes at once, always.** A keeper at its gate
@@ -204,24 +198,21 @@ Mul at his desk, Manizheh in her doorway — and whether Preem knows or uses it.
 > fill it with life.** In exchange for their share of the living world, the
 > deep-people **keep the gates of the dead's road,** and their keepers'
 > names, given to the gods as sureties, are the covenant names above. Read
-> this way, the Ragnarok cycle is **the pact under strain** — each pass a
-> renegotiation of pace: a slow pass is the pact working (land built), a fast
-> one the partnership failing (the world broken; see the Manichean draft in
+> this way, each pass tests the pact: a slow pass is the pact working (land
+> built), a fast one the partnership failing (the world broken; see the Manichean draft in
 > [the Second Foundation](the-second-foundation.md)) — and the two
-> Foundations are mortals meddling in an immortal arrangement they only half
-> understand. **The unpacted elders:** some of the most ancient demons never
-> joined. Nothing of them was given, sworn, or written — which is why the
+> Foundations act on the pact without knowing its terms. **The eldest demons
+> never joined the pact.** Nothing of them was given, sworn, or written — which is why the
 > **magma demon's name is in no tomb** and rests with an eldest of the deep,
-> takeable only at the brink (below): the covenant economy the party mines
-> does not reach that deep. **Later generations are pass-born:** new demons
+> takeable only at the brink (below): the covenant names the party hunts do not
+> include it. **Later demons formed during the passes:** new demons
 > condense from the shattering and the heat of each pass — the first demons
-> predate the stones, and every pass since has added to the deep's people.
-> **The unpacted are the eldest:** the ancient, most powerful demons of the
+> predate the stones, and every pass since has added to the deep's people. The
+> ancient, most powerful demons of the
 > deep (the high-CR tier of [the demon roster](../bestiary/available-demons.md))
 > stand outside the pact — and the magma demon itself, a force and never a
 > person, was party to nothing; its name exists only as the deep's derived
-> knowledge (below). And the magma-demon/sky-dragon contest **is the pact
-> under strain:** each pass the two poles renegotiate — held, the magma flows
+> knowledge (below). **Each pass tests the pact:** held, the magma flows
 > slow and builds land; broken, the pass runs fast and the world shatters
 > (the Manichean frame in
 > [the Second Foundation](the-second-foundation.md)).
@@ -235,19 +226,18 @@ be interrogated for the road,** and why the demon-people cannot be tortured
 into surrendering what they do not hold. The covenant names exist in the mortal
 funerary lineage, or nowhere.
 
-The invention of binding turned the covenant inside out. Every burial that
-carries the road-names is now a cache of keys, given in trust by the very
-beings they now enslave — and a keeper that has never changed its name (to
+The invention of binding made the covenant names dangerous to the keepers who
+gave them. Every burial that carries the road-names is now a store of names that
+bind the keepers who gave them — and a keeper that has never changed its name (to
 change it is to be unmade) can **still be bound today by the name it gave the
 temples five thousand years ago.**
 
 #### The quest — and why the hunt is running now
 
-This is the campaign's core. For most of its history the order needed a
-**stable, not an army.** Its first names were taken the Isis-and-Ra way — at
+For most of its history the order needed a few bound demons, not many. Its first names were taken the Isis-and-Ra way — at
 the brink, in the war era — and the centuries since added a name here and a
-name there, enough for a tower of bound servants. The order binds what climbs
-*up.* It never needed the road *down.*
+name there, enough for a tower of bound servants. The order binds demons that
+reach the surface, so it had no use for the route into the deep.
 
 **Preem does.** The magma demon's name is written in no tomb (below); it rests
 with the eldest keeper in the living deep city, and no mortal reaches the deep
@@ -262,43 +252,40 @@ errand" the party was hired for — assembling two things from the same digs:
   scheme. Most are not: cheap provincial editions carry only the keepers'
   **epithets** — public names, worthless — and many keepers are five millennia
   dead. A dead keeper's name binds nothing, and the successor at its gate is
-  named in no old tomb. Royal master editions carrying the covenant names are
-  the rare jackpots. That is why every dig is a fishing expedition, and why the
-  net still has to be cast at every site on the map.
+  named in no old tomb. Royal master editions carry the covenant names, and they
+  are rare, so every site has to be dug to find out.
 - **The road itself.** The gate-sequence down to the deep city, assembled
-  fragment by fragment from scattered editions. This is the cargo no hired
-  crew understands it is carrying.
+  fragment by fragment from scattered editions. No hired crew is told what the
+  fragments are for.
 
-Two things give the hunt teeth:
+Two things complicate the hunt:
 
 - **The demons guard their own chains.** The demon-people remember the covenant
-  and know what sleeps in those tombs — the names that can enslave them — so
+  and know what the tombs hold — the names that can enslave them — so
   they **hunt the texts to destroy them and hold the sites against intruders.**
   But the surface burns them (demons sicken in the open, above), so they cannot
   freely purge the sunlit sites themselves — which is exactly why a patron needs
-  **mortals,** who can walk in where demons can't. Every name-hunt is a race
-  against something with everything to lose.
+  **mortals,** who can walk in where demons can't.
 - **The party's discovery.** The party think they are grave-robbing for a scholar-patron.
-  What the names are *for* dawns on them slowly: every one they recover and hand
-  up is the key that locks a living demon into servitude — a vrock in a pit as
-  readily as anything wearing a human face. They are forging chains, link by link,
-  and delivering them to Preem, and they grasp it only after they have done it.
+  They are not told what the names are for. Every name they hand to Preem can be
+  used to bind the demon that holds it — a vrock in a pit as readily as anything
+  wearing a human face.
 
 **And the party will need the road themselves.** The endgame runs through the
 deep city (below). When they descend, every gate on the way down answers to a
 keeper's covenant name — the covenant still holds the keeper, and there is no
-other door. To walk the road they must speak the names they have been selling,
-and watch each gate stop resisting.
+other door. To walk the road they must open each gate with a name they have been
+selling.
 
 The endpoint of the hunt is the **one name no tomb holds — the magma demon's** —
-which is why getting *it* (below) is a different and far worse deed than robbing a
-tomb.
+which no tomb holds.
 
 > `[OPEN — the timing.]` Exactly when the binding was invented, and when the
 > covenant age ended, is **not pinned** (working figure ~1,850 ya, but loose).
 > **Settled and load-bearing for play:** a true name was always secret in life;
-> the only written true names are the covenant names of the road's keepers,
-> set down in funerary texts and sealed one edition per burial; the weapon came
+> the written true names are the covenant names of the road's keepers,
+> set down in funerary texts and sealed one edition per burial, and whatever a
+> namer wrote down at the hell-tree before the newborn learned to keep it; the weapon came
 > later and made those texts lethal; and what Preem is assembling is not a heap
 > of trophies but the **gate-sequence down.** Recovering the texts from
 > scattered, demon-watched sites is the endless hunt — and that hunt is the
@@ -307,8 +294,8 @@ tomb.
 The magma demon has no mind to bargain with, so its name cannot be taken that
 way. It can only be **derived**, and only the demon-people, who have lived
 inside the force for ages, ever derived it. The First Foundation never
-independently held it. Manizheh does not know it. This is exactly why the
-volcano-demon's name is the campaign's central object: Preem cannot torture it
+independently held it. Manizheh does not know it. So the volcano-demon's name can
+only come from the demon-people: Preem cannot torture it
 out of a force of nature, cannot simply order it from a bound servant, and must
 instead reach the demon-people's own knowledge of it (see the climax in
 [Preem](../../../characters/preem.md)).
@@ -326,11 +313,11 @@ it. The difference is the target — a demon powerful enough that few could
 survive the attempt (a very high CR; see
 [the demon roster](../bestiary/available-demons.md)). The late campaign
 builds toward this deed. To win the magma demon's name the party must do the
-very act the rest of the story condemns — wrench a name out of a demon at
-the brink — before they are ever asked whether to use it.
+same act the rest of the story condemns: take a name from a demon at the edge of
+true death, before they decide whether to use the name.
 
 > **[OPEN]** Which demon holds it (a bespoke eldest of the deep, or a reflavored
 > printed demon lord), and where the confrontation happens. The living deep-city
-> under the current hotspot is the natural site; and because a demon can only
+> under the current hotspot is one site; and because a demon can only
 > die for good in the Abyss, the fight that threatens it with true death likely has
 > to happen down in the tunnels themselves.

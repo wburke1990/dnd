@@ -33,8 +33,8 @@ and across the strait from [Sukkek](../../../nila/lore/nila-atlas.md) (95, 61). 
 Preem asks the party to make their way to a large tree in the wilderness near Brauron,
 pluck one of the fruits, and name whatever is inside. He pays them for the name.
 
-`[DM]` What is inside is a baby demon, and a newborn demon has not learned to guard its
-true name yet — so the name can be taken (see
+`[DM]` What is inside is a baby demon, and a newborn demon has no true name yet — so the
+party gives it one and that is the name Preem buys (see
 [the name quest](../../../nila/lore/demons-and-the-hotspot.md)). The site is poisoned and
 holy, and no one can control it, so Preem cannot own it or work it himself.
 
@@ -52,7 +52,7 @@ alive in the wood. Over thousands of years the roots grew down until they reache
 and then the tree began to fruit.
 
 Because the giants killed the god, no god rose here, no new land was raised, and no
-[road of the dead](../../../nila/lore/demons-and-the-hotspot.md) was ever kept. The tree fell in
+[road of the dead](../../../nila/lore/demons-and-the-hotspot.md) was kept. The tree fell in
 the first pass, so it is older than the gnomes and the Muspel empire. `[OPEN]` exact date.
 
 ---
@@ -66,7 +66,7 @@ Brauron:
   the tree, and the broken comet-stone at the foot of the stair. See
   [Kronos/Uranus](../../../../handouts/kronos-and-uranus.md).
 - **The tree is alive** — it talks. See the [Juniper Tree](../../../../handouts/the-juniper-tree.md)
-  and **the gibbering** in the run sheet. They hear it first from the
+  and **the muttering** in the run sheet. They hear it first from the
   [mockingbird](the-game-preserve.md) on the approach, which learned to copy the
   muttering — give the bird three or four lines from the
   table, out of order, two days before they reach the tree.
@@ -98,8 +98,8 @@ god, and whether it happened more than once.
 - ~~The **founder of Brauron**, who came out of this tree.~~ Written up in
   [the founding of Brauron](../lore/the-founding-of-brauron.md): it was called **Emmu**,
   it built the town and the cult, the town killed it at the hunt, and it is in the deep
-  city now. Its true name is cut into the plinth in the square, and the party can work
-  that out from the newborn here.
+  city now. Its true name is cut into the plinth in the square, and it got that name the
+  same way the newborn here gets one.
 
 ---
 
@@ -230,8 +230,8 @@ copy, so it is written the other way here.
 
 **It talks, and everything it says is something it has heard.** A newborn demon comes
 out speaking and has no words of its own. What it has heard is the tree's muttering,
-in **the muttering** above, and the stories the demons out of this tree have carried
-away for as long as the tree has fruited. Those are the stories the party watched
+in **the muttering** above, and the stories demons from this tree have repeated elsewhere
+for as long as the tree has fruited. Those are the stories the party watched
 acted out in the square at [Brauron](the-peach-town.md) three days before. The
 newborn says them back.
 
@@ -262,17 +262,15 @@ whether the party gets anything:
   someone keeps pouring. The party has only the water in the skins they carried across
   the deadland. This is what the town does at the fountain, where three stone maidens stand
   under running water; the fountain has run for centuries.
-- **No water** — it stops speaking and hardens. After that it guards its name, and it
-  fights or goes into the ground.
+- **No water** — it stops speaking and hardens. After that it fights or goes into the
+  ground, and if it was named it guards that name from then on.
 
-**The name.** It says its own name the first time it speaks, in among the quotations, and it
-will say it again to anyone who asks before it hardens. It does not guard its name.
-No roll: read the speech out. The name is the one word in it
-that is not a quotation.
-
-**Or the party names it.** A newborn answers to whatever it is first called. Name it
-before it names itself and the given name is its true name, and binds like any other.
-If they name it first, the name holds and Preem pays for it.
+**The name. `[settled — Will 9/21]`** A demon's true name is **its own**, and it keeps it
+secret, which is why the only ways to get one are to find it written or to force it out of
+a demon just before true death
+([demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)). A newborn has not
+got one yet. It takes the first word it is called and keeps that. So the party gives the
+newborn a name, and that name binds it like any other true name. No roll.
 
 **What steps out.** In every one of the town's stories a child steps out of the fruit,
 so a child steps out here. Once it hardens it is a **Quasit** (CR 1); its shape after
@@ -286,9 +284,10 @@ roots. They are what the party fights at the tree.
 **More than one fruit.** Preem pays for one name. Every fruit past the first is another
 demon loose in the world. `[OPEN]` whether one comes back.
 
-`[settled]` **Brauron's founder came out of this tree.** Someone carried a fruit out of
-the poison deadland, gave it water, and raised what came out. The party can work it out
-from the lines the newborn says. See
+`[settled]` **Brauron's founder came out of this tree.** A dragonborn named Hammou carried
+a fruit out of the poison deadland, gave it water, called it **Emmu**, and raised what
+came out. That is how the town's founder got a true name, and the last line on the plinth
+in the square is that name. The party walked past it three days ago. See
 [the founding of Brauron](../lore/the-founding-of-brauron.md).
 
 ---
@@ -350,8 +349,8 @@ believes the illusion.**
 
 `[DM]` **Cap the *Weird*.** As printed the damage continues on a character who leaves
 the sphere: the sphere sets which characters make the first save, and after that the
-damage follows the frightened creature. And the stone is a broken rock, not a caster
-standing there, so there is nothing for the party to damage to break its concentration.
+damage follows the frightened creature. There is nothing for the party to damage to break
+the stone's concentration.
 Five characters take 22 a turn, nothing they can do ends the spell, and the party dies in
 three rounds. **Here it ends for a character the
 moment they reach the level above.** The stone casts it to make them climb.

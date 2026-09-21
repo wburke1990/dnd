@@ -19,9 +19,8 @@ Brauron's founder came out of a fruit of [the hell-tree](../encounters/the-hell-
 Someone plucked the fruit, carried it out of the deadland, and gave it water when it
 asked. Whoever carried it raised what came out, and people settled around them.
 
-The town tells this as [Momotarō](../../../../handouts/momotaro.md) — the childless
-couple, the great peach, the boy who steps out. A statue of the boy stands in the
-square, with the text cut into its base, and the gnomes act the story in the street.
+The town tells this as [Momotarō](../../../../handouts/momotaro.md). A statue of the boy
+stands in the square, with the text cut into its base, and the gnomes act the story in the street.
 
 The founder was a newborn demon. For what one is, what it says, and the water it asks
 for, see
@@ -39,10 +38,12 @@ túatha were emptying (see [the dragonborn founders](#the-dragonborn-founders), 
 He crossed the deadland, plucked one fruit, and carried it out. It split on the way.
 He gave it water.
 
-**What it called itself.** It said its own name the first time it spoke, as every
-newborn off the tree does. The word was **Emmu**. Hammou wrote down everything it said
-and the town cut the writing into stone; the word has been on the plinth in the square
-ever since (see [its name](#its-name), below).
+**What Hammou called it.** A newborn off the tree has no name, and the first word it is
+called becomes its true name (see
+[what comes out of the fruit](../encounters/the-hell-tree.md#what-comes-out-of-the-fruit)).
+Hammou called it **Emmu**. He wrote down everything that happened and the town cut the
+writing into stone; the word has been on the plinth in the square ever since (see
+[its name](#its-name), below).
 
 **What the town called it.** The Boy. No other name appears in four thousand years of
 inscriptions in the square.
@@ -80,7 +81,7 @@ growing where his blood falls — are the Boy, told as
 The man-hunt has run every year since, and the quarry is not expected to come back.
 
 **Where it is.** It re-formed in the Abyss and it is there now. The demon-people's
-cities follow the hotspot, and the living one is under the Kurunatukas, where demons
+cities sit over the hotspot, and the living one is under the Kurunatukas, where demons
 have been coming up on Moku for a generation. It has not come back for the plinth: it
 spent its first six hundred years on the surface because it had never been anywhere
 else, and the surface burns it now.
@@ -101,30 +102,30 @@ the dead. It was a Quasit when Hammou carried it out.
 [Momotarō](../../../../handouts/momotaro.md) passage — the peach splitting, the child
 stepping out — and under it, in the same hand, one more line:
 
-> *Then he said Emmu, and asked for water, and I gave him water.*
+> *Then I called him Emmu, and he asked for water, and I gave him water.*
 
 The tale is in the third person and that line is in the first. It is Hammou's, written
 down the day it happened. The town takes it for the end of the story and has recut it
 every few centuries as the stone wore. The players in the square say it in the street
-every day: the boy steps out of the peach, says *"Wait a bit, old man!"*, says
+every day: the boy steps out of the peach, says *"Wait a bit, old man!"*, is called
 **Emmu**, and asks for water.
 
 **Nobody in Brauron knows it is a name.** Binding a demon by its true name is elven
 magecraft, invented in Maalm about 1,850 years ago and kept secret since (see
 [demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)). Brauron is off the
-maps and always has been. In the town the word is a noise the boy makes.
+maps and always has been. In the town it is a word the boy says in the play.
 
 **Preem's errand takes the party past the plinth.** He pays 5 gp a name and has sent
 them to take one off a newborn at the tree, four days inland of the square (see
 [Preem](../../../../characters/preem.md)). The name they were hired for is at the tree.
 Emmu is cut into the plinth in the square and said in the play there.
 
-They cannot read it as a name on the first pass. At the tree a newborn says lines it has
-heard and one word it has not. The last line on the plinth is built the same way. See
-[in play](#in-play), below.
+They cannot read it as a name on the first pass. Once they have named a newborn at the
+tree themselves, the last line on the plinth is a record of somebody doing the same
+thing. See [in play](#in-play), below.
 
 **If they sell it.** Planar Binding spoken with a true name takes hold with no save and
-never lets go (see [Preem's demons](../../../../characters/preems-demons.md)). Emmu is four
+does not end (see [Preem's demons](../../../../characters/preems-demons.md)). Emmu is four
 thousand years old and in the deep city the party will later have to walk to.
 
 ---
@@ -140,10 +141,10 @@ peach trees, and the town eats the fruit.
 **The fruit splits.** Rarely. The town has counted **eleven** since the founding, and
 keeps the count in the temple. The last was ninety years ago.
 
-What comes out is what comes out at the tree: a child, talking before it comes to
-itself, saying back whatever it has heard. What it has heard is the square — the play
+What comes out is what comes out at the tree: a child, talking, repeating whatever it
+has heard. What it has heard is the square — the play
 runs daily fifty yards off — so a grove child comes out reciting the town's own lines,
-with one word in them that is its own.
+and the temple gives it a word of its own.
 
 **What the town does.** Whoever finds a split peach shouts, and the water comes from
 the fountain in the square, which runs over three open stone mouths day and night and
@@ -178,8 +179,8 @@ came off the tree, and they know what the tree is, because he told them. At ever
 dressing they stand along the wall and take no part
 ([the dressing](../encounters/dressing-the-stag.md)).
 
-Each of them said a word when it came out, and each word was written down. The temple
-holds eleven of them, filed with the count of the splits. Nobody in the temple knows a
+Each of them was given a word when it came out, and each word was written down. The
+temple holds eleven of them, filed with the count of the splits. Nobody in the temple knows a
 demon's name can be used to bind it.
 
 ### Ampelos
@@ -242,7 +243,7 @@ mask. There was no old woman; the play has one because
 
 **His grave stone stands on the shore north of the town**, facing the water. The inscription is Longfellow's
 [The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md) — a
-traveller goes up the sands toward the town, and the day returns and he does not.
+traveller goes up the sands toward the town and does not come back.
 
 `[Blackacre]` The stone is on the party's road in and out, and the town calls it the
 old man's stone. Sam decides what Blackacre does at it.
@@ -251,27 +252,29 @@ old man's stone. Sam decides what Blackacre does at it.
 
 ## In play
 
-`[settled — 9/21]` The party has four chances at the name. They come into town first
-and reach the tree last.
+`[settled — 9/21]` They come into town first and reach the tree last. Emmu is in the
+square on day one and still there on the way back, and there are three other routes to it
+below.
 
 **Day one, the square.** They watch the play, read the plinth, see the fountain, and
 walk through the grove.
 
 `[Sarric]` The **Pen of Comprehend Languages** is at will (see
 [Preem](../../../../characters/preem.md)). Sarric can read the whole plinth on the spot, and
-the last line comes through in plain speech except for one word, which stays
-untranslated. He can do this on day one, four days before the tree, and the pen costs nothing
-to use.
+the last line comes through in plain speech except for **Emmu**, which stays
+untranslated because it is a name. He can do this on day one, four days before the tree,
+and the pen costs nothing to use.
 
 `[Aniess]` **Timebiter** on a splinter of the oldest tree in the grove returns the
 grove's age. It is the town's age, to the decade.
 
-**Day four, at the tree.** A newborn splits out and says the lines the party watched
-acted in the square, with one word among them that is not a quotation. Preem is paying
-for this word.
+**Day four, at the tree.** A newborn splits out saying nothing but the lines the party
+watched acted in the square. It has no name and takes the first one it is given, which is
+the name Preem is paying for.
 
-**On the way back through town.** The last line on the plinth is built the same way. If
-they work it out here, they have a second name and nobody to stop them taking it.
+**On the way back through town.** Having named one themselves, they can read the last
+line on the plinth for what it is. If they work it out here, they have a second name and
+nobody to stop them taking it.
 
 **Other routes in.**
 

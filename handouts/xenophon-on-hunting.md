@@ -12,11 +12,11 @@ status: reference
 > two of them a share of what he takes; and the line about leaving the young alone.
 >
 > **Why it's here.** This is read over the hunters at
-> [Brauron](../world/suartleheim-eet/brauron/encounters/the-peach-town.md) when the hunters put on
-> the hound pelts, before they go to the muster at the fence — see
+> [Brauron](../world/suartleheim-eet/brauron/encounters/the-peach-town.md) when they put on
+> the hound pelts, before the quarry is dressed — see
 > [the dressing](../world/suartleheim-eet/brauron/encounters/dressing-the-stag.md). The 5,000 gp
-> pays for a place in the hunt. The temple also asks each hunter to promise it a share
-> of what he takes.
+> pays for a hunting party's place in the hunt. The temple also asks each hunter to
+> promise it a share of what he takes.
 >
 > Kept verbatim, line breaks as printed. The bracketed numbers are Dakyns' own
 > footnote markers, left in. Source: Project Gutenberg ebook 1180

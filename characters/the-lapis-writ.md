@@ -19,8 +19,8 @@ status: reference
 > [the rival crews](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#the-lapis-writ--the-ones-who-won).
 > The numbers are in
 > [the godstone dagger §11](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md).
-> This file is who they are in one page, plus everything that has passed between
-> them and the party.
+> This file is who they are in one page, plus what has happened between them and the
+> party.
 >
 > Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
 
@@ -37,7 +37,7 @@ status: reference
   mother's claim.
 - `[settled]` **What they are for at the table.** Each of the five took Preem's job and
   is content with it, and each is
-  written against one PC.
+  paired with one PC.
   Doruk to Sarric, Issa to Aniess, Bram to Jasper, Calix to Pax, Setha to
   Blackacre. These are talking scenes.
 - `[settled]` **They sit above the party in Preem's standings,** and Setha will
@@ -72,13 +72,14 @@ the orc quarters of the port towns, families and town-born half-orcs who had nev
 raided anyone. Sukkek was one of them, and two others after it. He says so when
 asked and does not lie about it. His Church of Sunne calls the orcs sea-devils,
 and he points back to Hjörungavágr three hundred years ago, where his own people
-broke the orc fleets. He does not regret it. He speaks kindly and buys the drinks.
+destroyed the orc fleets. He does not regret it. He speaks kindly and buys the drinks.
 
 **[Issa Quib](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#issa-quib--halfling--writ-the one who goes into the tombs-aniesss-mirror)**
 — halfling, the one who goes into the tombs, Cleric 3 (Grave Domain). `↔` [Aniess](aniess.md)
 
-Cold to the touch and shallow-breathed. She sought out an old funerary rite of the
-dead empire's death-cult and paid for it, awake and on purpose, and it left her
+Cold to the touch, and her breathing is shallow. She sought out an old funerary rite of
+the dead empire's death-cult and paid for it. She was awake for it and chose it, and it
+left her
 calm: the mummies and the quiet in the tombs do not bother her. She can cast
 *Locate Object* on anything she has seen inside thirty feet, including the peseshkef.
 
@@ -87,18 +88,18 @@ calm: the mummies and the quiet in the tombs do not bother her. She can cast
 
 Powerful people wrecked his home when he was a boy, and he decided he would not be
 weak again. He took work from people like them and kept taking harder jobs until a
-chartered crew hired him. He tells all of it openly, without shame. The dock crews
+chartered crew hired him. He tells all of it openly. The dock crews
 at Aar like him. He takes the first watch on the guest house gallery.
 
 **[Calix Vire](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#calix-vire--elf--writ-pathfinder-paxs-mirror)**
 — elf, pathfinder, Wizard 3 (School of Divination). `↔` [Pax](pax.md)
 
-Flat, unbothered, a worn coin in hand, a well-fed toad on her shoulder. She flips
+A worn coin in hand, a well-fed toad on her shoulder. She flips
 the coin at every fork in the road and goes the way it tells her. She had a
-private revelation, has won ever since, and is certain she was chosen. She is
+private revelation and is certain she was chosen. She is
 elven aristocracy, about thirty, and by her own people's reckoning still a child
 with seventy years to go before the seat Setha is fighting for is even open to
-her. She tells Setha to stop hurrying . 🔒 The voice she takes
+her. She tells Setha to stop hurrying. 🔒 The voice she takes
 for God is the toad's telepathy. The toad is Preem's quasit. She is not a knowing informant.
 
 `[settled 9/1]` **Calix is a woman.** The miniature is a woman, so she is.
@@ -125,12 +126,12 @@ passage, and they travel with the established traders on the quickest routes,
 which is part of why they finished the Valley first. They do not go to Kalikhat,
 Jotunheim or the orc-held interior of
 Muspelheim, because the traders they buy passage from do not. At Aar they waited the
-best part of a fortnight on
+nearly two weeks on
 a berth north and paid for twelve days of a room they took for three.
 
 ## What has happened with the party
 
-`[played]` **Session 3 — the trace in the Valley.** The party found a roughly dug
+`[played]` **Session 3 — the third entrance and the prints.** The party found a roughly dug
 third entrance and the sandal prints of at least three people, no more than a week
 old, with no sign of who made them
 ([valley of the kings](../world/suartleheim-eet/maalm/encounters/valley-of-the-kings.md)).
@@ -224,7 +225,7 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
   for finishing first and missing nothing. It is where the party learn Preem pays
   his crews at different rates
   ([rival crew plots](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md)).
-- **The Sacred Hunt.** The Writ come as paying hunters, at 5,000 gp a seat, and
+- **The Sacred Hunt.** The Writ come as paying hunters, at 5,000 gp for the crew, and
   Calix rides with them. The party cannot afford it and go in as quarry, with Pax
   run as the stag
   ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).
@@ -248,7 +249,7 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
    when she tells Setha to stop hurrying about the seat, she is talking about the
    seat Setha's mother was killed over. A party who works it out can pressure
    Setha.
-5. **Turning Setha.** Preem pays her more than anyone else can offer. The houses that killed
+5. **Setha changes sides.** Preem pays her more than anyone else can offer. The houses that killed
    her mother can offer her something else.
 
 ## Open threads

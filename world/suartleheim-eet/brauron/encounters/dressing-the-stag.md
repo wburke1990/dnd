@@ -24,16 +24,19 @@ status: ready
 
 The priestesses put the quarry through a Greek animal sacrifice, in the order Homer
 gives: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
-the altar. There the steps stop. Instead of the knife they tie on antlers, lay a
-deer-hide over her shoulders, read out the names of dogs, and open the door.
+the altar. The sequence stops before the killing. They tie on antlers, lay a deer-hide
+over her shoulders, read out the names of dogs, and open the far door onto the road to
+the gate.
 
 Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the water, one
 the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
 take no part.
 
-**Everyone who is going out is in the room for all of it.** The quarry are dressed first
-and the hunters watch, then the hunters are dressed and the quarry are still there. The
-temple does not run the two rites separately and nobody arrives partway through.
+**The hunters are dressed and mounted before the quarry's rite starts, and the hounds
+are there to take the quarry's smell.** That is what the muster at the door is for. The
+pelting happens first and is finished; by the time Cassia is brought in the hunters are
+outside the open door on their hounds, and the hounds are walked up to her at step 7.
+Nobody arrives partway through and nobody comes in afterwards.
 
 ## Who is dressed, and in what
 
@@ -42,7 +45,7 @@ Same steps for all three. Only the skin and where they go change.
 | Who | Skin | Where they go |
 |---|---|---|
 | The town's girls, before they marry | bear | the temple, for a season — the historical Brauron rite |
-| The hunters, who pay 5,000 gp each | hound-pelt | the muster at the fence |
+| The hunters, whose party pays 5,000 gp | hound-pelt | the muster at the fence |
 | The quarry, who are paid | deer-hide and a rack of antlers | out into the wild at dawn |
 
 ## Cassia
@@ -89,11 +92,12 @@ and two hours to walk it back, noisy the whole way.
 
 ## The pay
 
-A hunter's place costs **5,000 gp**, settled at the table on 9/1 and told to the party by
-Pim Riddle at Aar ([session 13](../../../../sessions/session-13.md)). The temple pays
-**4,000** of what it takes in to the quarry who sign — 1,000 each for four, 800 each for
-five — to a named address whether or not they live, and keeps the rest. If 4,000 gp is
-too much coin for the party, lower the payout.
+**A hunting party's place costs 5,000 gp** — the whole party, not each hunter. Settled at
+the table on 9/1 and told to the party by Pim Riddle at Aar
+([session 13](../../../../sessions/session-13.md)). The temple keeps **1,000** and splits
+the other **4,000** among the quarry who sign — 1,000 each for four, 800 each for five —
+paid to a named address whether or not they live. If 4,000 gp is too much coin for the
+party, lower the entry fee and the pay drops with it.
 
 ## What the quarry carries out
 
@@ -111,9 +115,9 @@ hunt to hunt.
 
 ## If the party interrupt
 
-The four women will not fight and nothing in the rite is guarded. The hunters are in
-the room, though, and the Writ are five armed adventurers who have paid 5,000 gp each
-to be there.
+The four women will not fight and nothing in the rite is guarded. The hunters are in the
+doorway, though, and the Writ are five armed adventurers whose crew paid 5,000 gp to be
+there.
 
 - **Take the tablet off the board.** It is the contract. She scrapes the wax flat and
   asks who is going instead.
@@ -144,11 +148,40 @@ in [the Actaeon handout](../../../../handouts/actaeon.md).
 
 ---
 
-> The party are at the back of the temple. The hunters are already in it — the
-> **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them, Setha Renk
-> and Calix Vire standing where they can see — and the Megabyzoi are along the wall.
-> Nobody comes in or goes out until Cassia does. One priestess reads; the others work.
-> Pause after each step. Fenced blocks are real quotations — read them as printed.
+> The party are at the back of the temple. The Megabyzoi are along the wall. The near
+> door stands open on the forecourt, and the hunters are drawn up out there — already
+> pelted and up on their hounds, the
+> **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them, Setha Renk and
+> Calix Vire where they can see in. They watch the rite, and at step 7 the hounds
+> are brought up to take her smell. Nobody comes in or goes out until Cassia goes out the
+> far door at step 8. One priestess reads; the others work. Pause after each step. Fenced
+> blocks are real quotations — read them as printed.
+
+---
+
+## 0 — The hunters, before the quarry is brought in
+
+> *The hunting parties are pelted first, and it is over before the quarry is brought
+> in. The basin and the basket, in ones and twos. No hair cut, no wreath. A
+> hound-pelt over each one's shoulders. Then they go out to the hounds and mount up,
+> and the door is left open.*
+
+```
+To the gods themselves is due the discovery, to Apollo and Artemis,
+patrons of the chase and protectors of the hound.
+```
+
+> *Each hunter says a line back.*
+
+```
+Then with prayer and promise to
+Apollo and to Artemis, our Lady of the Chase, (20) to share with them
+the produce of spoil
+```
+
+They sit their hounds outside the open door through the rest of the rite. The hounds
+are there to take the quarry's smell, which happens at step 7. Setha Renk and Calix Vire
+are among them.
 
 ---
 
@@ -172,7 +205,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 |---|---|
 | Why that first | **"The pay goes out whether you come back or not."** |
 | What it pays | **"Four thousand, split between however many of you sign."** |
-| Where that comes from | **"The hunters pay. A place in the hunt is five thousand."** |
+| Where that comes from | **"The hunters pay five thousand. The temple keeps a thousand."** |
 | How long | **"Seven days. Come to the gate on the seventh evening and we open it."** |
 | Whether anyone comes back | **"Some do. Most run for the fence."** |
 | Why that is bad | **"We keep the hounds at the fence."** |
@@ -246,7 +279,10 @@ She wrappes him in a hairie hyde beset with speckled spottes,
 
 ## 7 — The hounds
 
-> *She starts a list. They are dogs' names.*
+> *They bring the hounds in off the forecourt, one handler to each, and walk them up to
+> Cassia. The hounds put their heads against the deer-hide and the backs of her hands
+> and take her smell. They are led out again. While it happens, the priestess starts a
+> list. They are dogs' names.*
 
 ```
 His houndes espyde him where he was, and Blackfoote first of all
@@ -276,7 +312,7 @@ With greedie teeth and griping pawes their Lord in peeces dragge.
 
 ## 8 — The hymn and the door
 
-> *They walk her to the door.*
+> *They walk her to the far door.*
 
 ```
 I sing of Artemis, whose shafts are of gold, who cheers on the hounds,
@@ -295,30 +331,10 @@ And so hail to you, Artemis, in my song and to all goddesses as well. Now
 that I have begun with you, I will turn to another song.
 ```
 
-> *They open the door.*
+> *They open the far door. Behind you, out in the forecourt, the hunters are still
+> sitting their hounds and watching.*
 
 **"The hounds go out at noon."**
-
----
-
-## The hunters
-
-> *They have watched the whole of it from the side of the room. When the door shuts
-> they come forward, in ones and twos. The same basin, the same basket. No hair cut,
-> no wreath. A hound-pelt over each one's shoulders.*
-
-```
-To the gods themselves is due the discovery, to Apollo and Artemis,
-patrons of the chase and protectors of the hound.
-```
-
-> *Each hunter says a line back before he goes out to the fence.*
-
-```
-Then with prayer and promise to
-Apollo and to Artemis, our Lady of the Chase, (20) to share with them
-the produce of spoil
-```
 
 ---
 

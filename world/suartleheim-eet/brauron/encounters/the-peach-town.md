@@ -34,7 +34,7 @@ children born from fruit out in the streets.
 `[name]` Brauron `[settled]` — the real Artemis sanctuary where girls served as bears,
 the rite the town keeps. The name is Greek, not Norse: the Norse map-names (Raand, Aar,
 Suartleheim) came with the Muspel empire, and this town predates it. Lonka and Kalikhat also keep older
-names. The cult's name is literal: **the cult of Artemis**.
+names. The cult is **the cult of Artemis**.
 
 ---
 
@@ -69,7 +69,7 @@ the bee-priestesses do not. (For when a player asks.)
   settled: the Boy's death at the hunt, told as Attis
   ([the founding](../lore/the-founding-of-brauron.md)). How many panels and where they
   hang is not.
-- **The eleven words** — one said by each child born out of the grove, written down and
+- **The eleven words** — one given to each child born out of the grove, written down and
   kept on file with the record of how many peaches have split — and whether the party
   ever sees the file.
 
@@ -101,14 +101,15 @@ out of [the hell-tree](the-hell-tree.md). See
 demon says at [the hell-tree](the-hell-tree.md). Read it out here; the same line is used
 again at the tree.
 
-`[DM]` **The plinth carries one more line, and it is the demon's true name.** Under the
-Momotarō passage, in the same hand: *"Then he said Emmu, and asked for water, and I gave
-him water."* Hammou wrote it the day it happened and the town has recut it ever since.
+`[DM]` **The plinth carries one more line, under the Momotarō passage and in the same
+hand, which gives the demon's true name:** *"Then I called him Emmu, and he asked for water, and
+I gave him water."* Hammou wrote it the day it happened and the town has recut it ever
+since.
 The players in the square say it every day and nobody in Brauron knows the word is a
 name. Read the whole base out when a PC reads it — Sarric's Pen of Comprehend Languages
-translates the last line and leaves **Emmu** untranslated. This is the
-party's first chance at the name, three days before the tree; the rest are in
-[the founding](../lore/the-founding-of-brauron.md#in-play).
+translates the last line and leaves **Emmu** untranslated, because it is a name. The party
+can learn the name here, three days before they reach the tree. The other places it can be
+learned are in [the founding](../lore/the-founding-of-brauron.md#in-play).
 
 ---
 
@@ -172,7 +173,7 @@ It is **Hammou's** grave — the dragonborn who carried the fruit out of the dea
 gave it water ([the founding](../lore/the-founding-of-brauron.md#the-dragonborn-founders)).
 The inscription is Longfellow's
 [The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md).
-The town does not remember him as a dragonborn; he is the old man in the play, in a mask.
+The town does not remember him as a dragonborn. In the play he is the old man, in a mask.
 `[Blackacre]` The stone is on the road out to the fence and back. Sam decides what
 Blackacre does at it.
 

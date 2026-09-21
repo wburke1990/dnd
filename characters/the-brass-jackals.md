@@ -30,7 +30,7 @@ status: reference
 - `[settled]` **Their dead.** Their founder, **Old Brakker**, went down with a
   salvage that flooded, which is how Veska came to lead a crew she did not found.
   The most recent name in Hadda's book is **Riska**, their young scout, lost on the
-  road not long ago. Sefi took the scout's job and is not ready.
+  road not long ago. Sefi took the scout's job.
 - `[settled]` **What they are for at the table.** They are not paired with the PCs
   the way the [Lapis Writ](the-lapis-writ.md) are. They rob graves because the
   alternative is starving. Loud and sneering in a group; alone, Hadda talks about
@@ -76,8 +76,8 @@ A war-orphan the Jackals pulled out of a port wrecked in the reconquest, raised 
 the crew's kid. She admired Riska and pulled on the kit when Riska did not come
 back. She goes in first — down the shaft or the stairs, whatever comes first — and
 says so to anyone who will listen. She is the lowest level of anyone in either crew
-and a level below the scout she replaced. Hadda waters her drink. 🔒 She only
-half-knows that Riska died doing this job, and Veska wants to keep her alive.
+and a level below the scout she replaced. Hadda waters her drink. 🔒 She has not been
+told that Riska died doing this job, and Veska wants to keep her alive.
 
 **[Mogg](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#mogg--half-orc--brass-jackals-enforcer--storyteller-doruks-cross-crew-mirror)**
 — half-orc, enforcer and storyteller, Barbarian 3 (Path of the Ancestral
@@ -130,7 +130,7 @@ it; hit points and AC have not been written down the way the
 They own a cheap, rotting dwarf-built tub and nobody aboard can sail or mend it
 competently. They travel on their own, arrive after everyone else, and a storm
 could sink the boat. At Aar they priced the Writ's berth north at a year of their income
-and watched somebody find the Writ one in a day. Veska says they will walk the four
+and the Writ found one in a day. Veska says they will walk the four
 hundred miles if they have to.
 
 `[loose]` **Fixing their boat.** Their hull is rotting and
@@ -157,15 +157,15 @@ party in one room. What happened:
    **Pax met the centipede** and does not know what it is.
 - **Sarric produced bees.**
 - **Pim raised the Sacred Hunt** and asked whether the party would be hunters or
-  hunted. `[settled at the table 9/1]` He told them **a hunter's place costs
+  hunted. `[settled at the table 9/1]` He told them **a hunting party's place costs
   5,000 gp.** The party do not have it and said so
   ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).
 - **Pax introduced Pim to Sarric.**
-- **Sefi talked back to Setha.** When Renk called the Jackals *"those amateurs?"*
+- **Sefi talked back to Renk.** When Renk called the Jackals *"those amateurs?"*
   across the room, Sefi answered her: *"Setha! Don't be such a jerk!"* Nobody else
   in either crew talks to Renk that way, and Renk had nothing to say to it.
 - **The brawl did not start.** Doruk and Mogg were both drunk in the same room all
-  evening and nobody told either of them what the other is
+  evening and nobody told either of them the other's part in the burnings
   ([the fight](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md#the-fight--doruk-and-mogg-run)).
 
 `[played]` **Session 15 — the party sailed and the Jackals did not.** The party left
@@ -175,18 +175,18 @@ Aar by sea. The Jackals are broke, have no berth, and are still there.
 
 - **The party know** the Jackals are name-hunters too, that they are broke and
   waiting on a boat, that Pim hears something and takes bottles for it, and that a
-  hunter's seat at the Hunt costs 5,000 gp.
+  hunting party's place at the Hunt costs 5,000 gp.
 - **The party do not know** that the Jackals are Preem's, that these are the five
   who came up the stairs in session one, or that the centipede Pax met is the one
   they noticed that day.
 - **The Jackals have not asked the party who they work for** and nobody has told
-  them. The party and the Writ have named each other. The party and the Jackals have
-  not.
+  them. The party and the Writ have told each other who they work for. The party and
+  the Jackals have not.
 - 🔒 **Preem knows whatever the centipede saw at the Tally House.**
 
 ## Not yet run
 
-- **Veska's alliance pitch.** *"Screw the aristocrats"* — she may make it in front
+- **Veska's offer of an alliance.** *"Screw the aristocrats"* — she may make it in front
   of the room, and she has not yet.
 - **Hadda's suspicions.** She will start the thought about Preem's pay and stop
   herself. The party have not drawn it out.
