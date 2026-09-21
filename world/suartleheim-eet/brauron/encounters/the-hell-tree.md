@@ -337,8 +337,8 @@ an Intelligence (Investigation) check against the save DC, after which it goes
 see-through. It is for the stair — a wall across the steps, or the way up replaced with
 solid rock.
 
-**Three illusions do damage. All three are psychic, and land only on a character who
-believes it.**
+**Three illusions do damage. All three are psychic, and damage only a character who
+believes the illusion.**
 
 - [*Phantasmal Force*](https://dnd2024.wikidot.com/spell:phantasmal-force) — one
   character, 1d6 psychic a turn, Intelligence save. Nobody else can see it.
@@ -346,10 +346,19 @@ believes it.**
   character, frightened, 4d10 psychic at the end of each of its turns, Wisdom save,
   concentration. One character at a time.
 - [*Weird*](https://dnd2024.wikidot.com/spell:weird) — every character in a 30-foot
-  sphere, each one seeing something different, frightened, 4d10 psychic a turn. It hits
-  the whole party at once.
+  sphere, each one seeing something different, frightened, 4d10 psychic at the end of
+  each of its turns until it saves. It hits the whole party at once.
 
-A character who disbelieves takes nothing, so the stone cannot kill the party.
+`[DM]` **Cap the *Weird*.** As printed the damage continues on a character who leaves
+the sphere: the sphere sets which characters make the first save, and after that the
+damage follows the frightened creature. And the stone is a broken rock, not a caster
+standing there, so there is nothing for the party to damage to break its concentration.
+Five characters taking 22 a turn, and neither leaving the sphere nor damaging the stone
+ends the spell, is a dead party in three rounds. **Here it ends for a character the
+moment they reach the level above.** The stone casts it to make them climb.
+
+*Phantasmal Force* and *Phantasmal Killer* take one character at a time, and a made save
+ends them. The party can carry somebody up the stair through either one.
 
 **Before they arrive.** [*Dream*](https://dnd2024.wikidot.com/spell:dream) reaches a
 sleeper at any distance: a Wisdom save, 3d6 psychic and no benefit from the night's
