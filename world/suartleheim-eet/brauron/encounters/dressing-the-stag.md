@@ -25,18 +25,18 @@ status: ready
 The priestesses put the quarry through a Greek animal sacrifice, in the order Homer
 gives: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
 the altar. The sequence stops before the killing. They tie on antlers, lay a deer-hide
-over her shoulders, read out the names of dogs, and open the far door onto the road to
-the gate.
+over her shoulders, read out the names of dogs, and open the door onto the road to the
+gate.
 
 Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the water, one
 the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
 take no part.
 
-**The hunters are dressed and mounted before the quarry's rite starts, and the hounds
-are there to take the quarry's smell.** That is what the muster at the door is for. The
-pelting happens first and is finished; by the time Cassia is brought in the hunters are
-outside the open door on their hounds, and the hounds are walked up to her at step 7.
-Nobody arrives partway through and nobody comes in afterwards.
+**The hunters are pelted and mounted before the quarry's rite starts, and they ride into
+the temple to watch it.** The whole muster is in the hall on hound-back, ranged below the
+altar, looking up at the quarry while she is dressed. The hounds are there to take her
+smell, which happens at step 7. Nobody arrives partway through and nobody comes in
+afterwards.
 
 ## Who is dressed, and in what
 
@@ -116,8 +116,8 @@ hunt to hunt.
 ## If the party interrupt
 
 The four women will not fight and nothing in the rite is guarded. The hunters are in the
-doorway, though, and the Writ are five armed adventurers whose crew paid 5,000 gp to be
-there.
+hall on hound-back, though, and the Writ are five armed adventurers whose crew paid
+5,000 gp to be there.
 
 - **Take the tablet off the board.** It is the contract. She scrapes the wax flat and
   asks who is going instead.
@@ -148,23 +148,22 @@ in [the Actaeon handout](../../../../handouts/actaeon.md).
 
 ---
 
-> The party are at the back of the temple. The Megabyzoi are along the wall. The near
-> door stands open on the forecourt, and the hunters are drawn up out there — already
-> pelted and up on their hounds, the
-> **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them, Setha Renk and
-> Calix Vire where they can see in. They watch the rite, and at step 7 the hounds
-> are brought up to take her smell. Nobody comes in or goes out until Cassia goes out the
-> far door at step 8. One priestess reads; the others work. Pause after each step. Fenced
-> blocks are real quotations — read them as printed.
+> **Cassia is up on the altar and the hunters are in the hall on hound-back, looking up
+> at her.** The whole muster is mounted and pelted, ranged below the altar, the
+> **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them and Setha Renk
+> and Calix Vire at the front. The party are at the back. The Megabyzoi are along the
+> wall. Nobody comes in or goes out until Cassia goes out the door at step 8.
+> One priestess reads; the others work. Pause after each step. Fenced blocks are real
+> quotations — read them as printed.
 
 ---
 
 ## 0 — The hunters, before the quarry is brought in
 
-> *The hunting parties are pelted first, and it is over before the quarry is brought
-> in. The basin and the basket, in ones and twos. No hair cut, no wreath. A
-> hound-pelt over each one's shoulders. Then they go out to the hounds and mount up,
-> and the door is left open.*
+> *The hunting parties are pelted first, and it is over before the quarry is brought in.
+> The basin and the basket, in ones and twos. No hair cut, no wreath. A hound-pelt over
+> each one's shoulders. Then they go out to the hounds, mount up, and ride back in. They
+> fill the hall below the altar and sit there.*
 
 ```
 To the gods themselves is due the discovery, to Apollo and Artemis,
@@ -179,9 +178,9 @@ Apollo and to Artemis, our Lady of the Chase, (20) to share with them
 the produce of spoil
 ```
 
-They sit their hounds outside the open door through the rest of the rite. The hounds
-are there to take the quarry's smell, which happens at step 7. Setha Renk and Calix Vire
-are among them.
+They sit their hounds in the hall through the rest of the rite, below the altar, looking
+up. The hounds are there to take the quarry's smell, which happens at step 7. Setha Renk
+and Calix Vire are among them.
 
 ---
 
@@ -211,9 +210,11 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | Why that is bad | **"We keep the hounds at the fence."** |
 | Coming back sooner | **"We turn you around. The gate opens on the seventh evening."** |
 | What is out there | **"Grass to your waist. Bad water."** |
+| Whether the hounds will know them | **"They smell your hands before you go out. That is how they know you."** |
+| Washing it off | **"In what?"** |
 | The tree | **"No one hunts there."** *(she says nothing else)* |
 | Whether they can sign too | **"Anyone who wants to."** |
-| A way out | **"Bring us a live stag before the seventh evening and we let one of the quarry go."** |
+| A way out | **"Bring us a live stag before the seventh evening. Then we let one of you go."** |
 
 > *She scratches the name in and hangs it with the rest.*
 
@@ -265,8 +266,10 @@ bring lustral water too.
 
 ## 6 — The hide and the antlers
 
-> *A deer's hide across her shoulders, tied at the throat. Then the rack — a full-grown
-> stag's — buckled under her chin and pulled tight enough that her head goes back.*
+> *They put her up on the altar, where the animal would go. Every rider in the hall is
+> looking up at her. A deer's hide across her shoulders, tied at the throat. Then the
+> rack — a full-grown stag's — buckled under her chin and pulled tight enough that her
+> head goes back.*
 
 ```
 A payre of lively olde Harts hornes upon his sprinckled head.
@@ -279,10 +282,9 @@ She wrappes him in a hairie hyde beset with speckled spottes,
 
 ## 7 — The hounds
 
-> *They bring the hounds in off the forecourt, one handler to each, and walk them up to
-> Cassia. The hounds put their heads against the deer-hide and the backs of her hands
-> and take her smell. They are led out again. While it happens, the priestess starts a
-> list. They are dogs' names.*
+> *The riders bring their hounds up to the altar one at a time. Each one puts its head
+> against the deer-hide and the backs of her hands and takes her smell, and is backed off
+> again. While it happens, the priestess starts a list. They are dogs' names.*
 
 ```
 His houndes espyde him where he was, and Blackfoote first of all
@@ -312,7 +314,7 @@ With greedie teeth and griping pawes their Lord in peeces dragge.
 
 ## 8 — The hymn and the door
 
-> *They walk her to the far door.*
+> *They bring her down off the altar and walk her to the door.*
 
 ```
 I sing of Artemis, whose shafts are of gold, who cheers on the hounds,
@@ -331,8 +333,8 @@ And so hail to you, Artemis, in my song and to all goddesses as well. Now
 that I have begun with you, I will turn to another song.
 ```
 
-> *They open the far door. Behind you, out in the forecourt, the hunters are still
-> sitting their hounds and watching.*
+> *They open the door. Behind you the hunters are still sitting their hounds in the
+> hall, watching her go.*
 
 **"The hounds go out at noon."**
 

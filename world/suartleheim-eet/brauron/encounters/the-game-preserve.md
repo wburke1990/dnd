@@ -49,8 +49,12 @@ are big enough for a gnome to ride.
 each one at the dressing and take it off the deer-hide and the hands
 ([the dressing](dressing-the-stag.md), step 7). The quarry's only advantage is the head
 start in distance: the pack does not have to find a trail, and breaking line of sight does
-not throw the hounds off. `[OPEN]` what beats the scent at the table: water, the poison ground
-itself, or trading the hide off.
+not throw the hounds off.
+
+`[settled — Will 9/21]` **Nothing inside the fence washes it off.** It would take a long
+scrub in clean water, and every water inside the fence is poison — which is what the
+priestess means by *"Bad water."* A quarry who gets in it to break the scent is drinking
+and breathing the poison. So the hounds follow the scent for seven days.
 
 The hunt stays out in the wild and **never goes near the tree.** The tree is holy
 ground, and no hunter enters it. The priestesses set a line the hunt turns back at,
@@ -130,8 +134,9 @@ while the hunt runs on out in the wild, far from the tree.
 
 ## The approach to the tree
 
-Closer to the tree the poison is thicker and the mutated beasts are worse (see
-[the hell-tree](the-hell-tree.md)). The party start to show the sickness themselves.
+Closer to the tree there is more poison in the air and more of the mutated beasts (see
+[the hell-tree](the-hell-tree.md)). The party begin to show it themselves; what the
+symptoms are and how they are tracked is `[OPEN]` below.
 
 ### Read aloud — a shrine on the way
 
