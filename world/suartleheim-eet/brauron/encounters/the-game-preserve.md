@@ -87,9 +87,83 @@ minutes off. Pick which of the two the riders do.
 
 ## The fight: mounted hunters against the party `[proposed — Will 9/21]`
 
-Five **[Lapis Writ](../../../../characters/the-lapis-writ.md)** at level 3 — Maalm
-aristocrats on great hounds — against the party on foot. Their hit points, AC and classes
-are in their own file.
+**A hunting party of Maalm aristocrats on great hounds, against the party on foot.** Not
+the [Lapis Writ](../../../../characters/the-lapis-writ.md) — they are one paying crew
+among many and Setha is off to the tree (below). These are the other aristocrats who
+chartered the transport, and there are several such parties spread across the preserve.
+**The party meet one hunting party at a time, not every rider in the preserve.**
+
+### Maalm hunter
+
+*Medium humanoid · CR 2 (450 XP) · mounted on a great hound*
+
+| | |
+|---|---|
+| **Armor Class** | 16 (scale mail and shield) |
+| **Hit Points** | 39 (6d8 + 12) |
+| **Speed** | 30 ft. on foot, 50 ft. mounted |
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 13 (+1) | 14 (+2) | 11 (+0) | 12 (+1) | 15 (+2) |
+
+- **Skills** Animal Handling +3, Perception +3, Survival +3
+- **Passive Perception** 13
+- **Languages** Common
+
+**Charge.** If the hunter moves at least 20 feet straight at a target and hits it with the
+lance on the same turn, the target takes an extra **7 (2d6)** piercing and makes a
+**DC 13 Strength save or is knocked prone.**
+
+**Lance.** +4 to hit, reach 10 ft., **8 (1d12 + 2)** piercing. `[settled — Will 9/21]`
+**They carry lances.** Disadvantage against anything within 5 feet, and two hands to use
+on foot — so a dismounted hunter either drops the shield or drops the lance.
+
+**Hunting sword.** +4 to hit, reach 5 ft., **6 (1d8 + 2)** slashing.
+
+**The hound under them.** AC 14, 37 hit points, Speed 50 ft. It takes no actions of its
+own while it is ridden (below). It can be attacked, but it does not attack.
+
+### How many ride in, and what level the party should be
+
+`[settled — Will 9/21]` **The party come into the preserve at level 4.** At level 3 every
+size of hunting party is past the deadly threshold before the beasts and the poison are
+counted, and the crossing becomes several fights instead of one.
+
+| Five characters at | Hard | Deadly | Adventuring day |
+|---|---|---|---|
+| **Level 3** | 1,125 | 2,000 | 6,000 |
+| **Level 4** | 1,875 | 2,500 | 8,500 |
+
+Hunters at CR 2, adjusted by the group multiplier for a party of five or more:
+
+| | Adjusted XP | At level 3 | At level 4 |
+|---|---|---|---|
+| **Three hunters** | 2,025 | Past deadly | Between hard and deadly |
+| **Four hunters** | 2,700 | Past deadly | Just past deadly |
+| **Five hunters** | 3,375 | Past deadly | Past deadly |
+
+**Four for the first fight**, and three for the ones after it. The fight ends with the
+party breaking off; the hunters are not meant to die, and the chase rules below are how
+the party get away.
+
+**Level 4 also gives an ASI or a feat, and Sentinel matters here.** It sets a creature's
+speed to 0 when you hit it with an opportunity attack, so a rider cannot get out of reach
+as they ride away. If a character takes it, the hunters have to stay and fight instead of
+riding out each turn.
+
+### Resting
+
+`[proposed — Will 9/21]` The day's budget is 8,500 XP and four hunters spend 1,800 of it,
+so the arithmetic says the party can take four or five fights in a day. **Spell slots run
+out before the XP budget does**, and the hounds follow the scent, so the party cannot
+break off and rest during the day.
+
+**The hunters camp at night.** It is a seven-day sport hunt. They stop at dark and start
+again at first light. That is the party's long rest, and it is the only one they get. A
+party that fights all afternoon reaches dark with no spell slots.
+
+`[OPEN]` whether the poison interferes with a long rest out there.
 
 ### The mounted rules, in short
 
@@ -105,20 +179,20 @@ are in their own file.
 | **The mount knocked prone** | The rider can use a **reaction** to dismount and land on their feet. Otherwise they fall prone within 5 feet of it. |
 | **Targeting** | Mount and rider are separate creatures. An attacker picks which one to attack. |
 
-### The call for this fight
+### How the mounts are run
 
-**The hounds are controlled mounts.** Five riders act, not ten. **A hound whose rider is
-killed goes independent on the next round** and fights on its own initiative.
+**The hounds are controlled mounts.** Four riders act, not eight. **A hound whose rider
+is killed goes independent on the next round** and fights on its own initiative.
 
 **The mounts give the hunters speed.** On the rider's turn the hound can Dash — Speed 50,
 so up to 100 feet — while the rider attacks, and it can Disengage instead to ride out
-without an opportunity attack. The riders ride in, spear, ride off and come back. A party
-member moving 30 feet cannot reach a rider who has ridden off.
+without an opportunity attack. The riders ride in, attack with the lance, and ride out of
+reach. A party member moving 30 feet cannot reach a rider who has ridden off.
 
 `[proposed]` **The grass is difficult terrain for the party and not for the hounds.** It
 is waist-high and the animals are bred for this ground.
 
-### What actually works against them
+### What works against them
 
 - **Restrain the mount.** [*Entangle*](https://dnd2024.wikidot.com/spell:entangle) is a
   druid 1st-level spell, a 20-foot square, Strength save or restrained — and a restrained
@@ -129,14 +203,14 @@ is waist-high and the animals are bred for this ground.
   ([Blackacre](../../../../characters/blackacre.md)).
 - **Move the mount.** Anything that shoves or drags the hound forces the DC 10 save and
   can knock the rider prone within 5 feet of it.
-- **Kill the hound instead of the rider.** It drops the rider prone unless they spend a
-  reaction, and a hunter on foot is in the difficult terrain too.
-- **Ready an action.** Against a hit-and-run rider, readied attacks are worth more than
-  chasing.
+- **Kill the hound instead of the rider.** 37 hit points and AC 14, and it drops the
+  rider prone unless they spend a reaction. A hunter on foot is in the difficult terrain
+  too, and has to choose between the shield and the lance.
+- **Ready an action.** Against a rider who attacks and rides out of reach, readied attacks
+  are worth more than chasing.
 
-`[OPEN]` **What the hunters carry.** A lance is the mounted weapon: 1d12, reach 10 feet,
-and disadvantage against anything within 5 feet, so a rider is at disadvantage against
-anything that closes. Not settled against what the Writ already carry.
+**Closing is worth it.** A lance has disadvantage against anything within 5 feet, so a
+character who gets inside the reach is harder to hit than one standing off at ten.
 
 ## Both hunts are kills
 
@@ -172,8 +246,8 @@ The crossing runs:
 |---|---|
 | **Day 1, an hour before noon** | Through the gate, with the boar already out ahead of them. |
 | **Day 1, noon** | The hounds and riders come through. |
-| **Day 1, afternoon** | First contact. |
-| **Days 1–7** | Contact again whenever the pursuit catches up. |
+| **Day 1, afternoon** | The first fight. |
+| **Days 1–7** | Another one whenever the pursuit catches up. |
 | **Day 2** | The tree, if they get that far, and the stair below it. |
 | **Day 7, sundown** | The horn. The gate opens for whoever is standing at it. |
 
@@ -188,7 +262,7 @@ he can put one character back to 40 for an hour a slot
 Nobody outruns the pack. The party can break line of sight, fight the riders off, or use
 the terrain.
 
-`[run]` **Run the contacts as chases** (*DMG* chase rules): a creature can Dash a number
+`[run]` **Run the breaking-off as a chase** (*DMG* chase rules): a creature can Dash a number
 of times equal to 3 + its Constitution modifier before it starts making DC 10 Constitution
 saves or taking exhaustion, and the grass, the gullies, the boar and the poisoned animals
 are the complications.
@@ -245,8 +319,8 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 
 ## Read aloud — the edge of the hunt
 
-> *A stone wall runs out of sight in both directions, higher than a house. Set in it is a
-> gate with a windlass at either side: timber the thickness of a mast, bound and barred,
+> *A stone wall runs out of sight in both directions, twenty feet of dressed stone. Set
+> in it is a gate with a windlass at either side: timber a foot thick, bound and barred,
 > tall enough to ride four abreast under. Past it the grass is grey-green and waist-high
 > and the trees are knotted and low. Hunters are gathering: gnomes in hound-pelts, up on
 > the backs of great hounds, one hound to each rider. The ones off the Maalm boats stand

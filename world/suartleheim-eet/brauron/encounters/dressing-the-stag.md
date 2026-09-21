@@ -33,8 +33,8 @@ the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wa
 take no part.
 
 **The hunters are pelted and mounted before the quarry's rite starts, and they ride into
-the temple to watch it.** The whole muster is in the hall on hound-back, sitting below
-the altar, looking up at the quarry while she is dressed. The hounds are there to take her
+the temple to watch it.** They are all in the hall on their hounds, sitting below the
+altar and looking up at the quarry while she is dressed. The hounds are there to learn her
 smell, which happens at step 7. Nobody arrives partway through and nobody comes in
 afterwards.
 
@@ -102,8 +102,8 @@ and two hours to walk it back, with the deer making noise the whole way.
 
 `[run]` **Walking a deer does not hide anyone.** The deer slows them down and makes
 noise, and the hounds still have their smell
-([the game preserve](the-game-preserve.md)). A party that wants five of them spends days
-catching and holding deer in open ground while the hunters are after them.
+([the game preserve](the-game-preserve.md)). Five quarry need five deer, each one its own
+attempt and its own two-hour walk back.
 
 ## The pay
 
@@ -164,7 +164,7 @@ in [the Actaeon handout](../../../../handouts/actaeon.md).
 ---
 
 > **Cassia is up on the altar and the hunters are in the hall on hound-back, looking up
-> at her.** The whole muster is mounted and pelted, sitting below the altar, the
+> at her.** Every hunter is mounted and pelted, sitting below the altar, the
 > **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them and Setha Renk
 > and Calix Vire at the front. The party are at the back. The Megabyzoi are along the
 > wall. Nobody comes in or goes out until Cassia goes out the door at step 8.
@@ -193,8 +193,8 @@ Apollo and to Artemis, our Lady of the Chase, (20) to share with them
 the produce of spoil
 ```
 
-They sit their hounds in the hall through the rest of the rite, below the altar, looking
-up. The hounds are there to take the quarry's smell, which happens at step 7. Setha Renk
+They stay on their hounds in the hall through the rest of the rite, below the altar,
+looking up. The hounds are there to learn the quarry's smell, which happens at step 7. Setha Renk
 and Calix Vire are among them.
 
 ---
@@ -281,8 +281,8 @@ bring lustral water too.
 
 ## 6 — The hide and the antlers
 
-> *They put her up on the altar, where the animal would go. Every rider in the hall is
-> looking up at her. A deer's hide across her shoulders, tied at the throat. Then the
+> *They put her up on the altar, where the animal would go. A deer's hide across her
+> shoulders, tied at the throat. Then the
 > rack — a full-grown stag's — buckled under her chin and pulled tight enough that her
 > head goes back.*
 
@@ -374,15 +374,15 @@ to it when the rite is done.
 
 ## 10 — The gate
 
-> *The wall goes up higher than a house and runs out of sight both ways. The gate in it
-> is timber the thickness of a mast, bound and barred, and it takes a dozen men on the
-> windlass to start it moving. The hunters are drawn up behind you on their hounds. Grass
+> *The wall goes up twenty feet of dressed stone and runs out of sight both ways. The gate
+> in it is timber a foot thick, bound and barred, and it takes a dozen men on the windlass
+> to start it moving. The hunters are drawn up behind you on their hounds. Grass
 > to your waist on the other side. The sun is up and it is not yet hot.*
 
 **The boar goes out first.**
 
 > *They bring up a cart with a crate on it, back it to the gate, and pull the pins. A
-> boar the size of a horse comes out. It goes through into the grass, out of sight. You
+> boar six feet at the shoulder comes out. It goes through into the grass, out of sight. You
 > can hear it after that.*
 
 `[for David]` The Calydonian boar — the animal the beast-hunt is after, loosed into the
@@ -411,7 +411,7 @@ and nothing inside the wall washes it off.
 | **One hour** | About five miles, at a fast pace with Longstrider up. |
 | **Longstrider** | +10 ft. for the hour. Blackacre has the spell too and can keep one character at 40 for an hour a slot. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
-| **At noon** | The hounds and riders come through at Speed 50 ft. Galloping, they close five miles in about half an hour, so **the earliest contact is around half past noon** ([the game preserve](the-game-preserve.md)). |
+| **At noon** | The hounds and riders come through at Speed 50 ft. Galloping, they close five miles in about half an hour, so **the earliest they are caught is around half past noon** ([the game preserve](the-game-preserve.md)). |
 | **After the hour** | Longstrider ends as the horn goes, and the party are at 30 against 50 unless Blackacre spends slots keeping it up. |
 | **Staying alive** | Getting out means standing at the gate at sundown on day seven. **The hunters are hunting to kill** ([the game preserve](the-game-preserve.md)), and they will follow anywhere in the preserve, including the tree. |
 
