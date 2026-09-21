@@ -62,8 +62,8 @@ the first pass, so it is older than the gnomes and the Muspel empire. `[OPEN]` e
 No one tells them. They work it out from what is at the tree and what they saw in
 Brauron:
 
-- **The tree grew from a dead god** — the torn ground and old giant-work around the
-  tree, and the broken comet-stone at the foot of the stair. See
+- **The tree grew from a dead god** — the torn ground and old giant stonework around
+  the tree, and the broken comet-stone at the foot of the stair. See
   [Kronos/Uranus](../../../../handouts/kronos-and-uranus.md).
 - **The tree is alive** — it talks. See the [Juniper Tree](../../../../handouts/the-juniper-tree.md)
   and **the gibbering** in the run sheet. They hear it first from the
@@ -132,7 +132,7 @@ fruits, and the enemy dead beneath it);
 [Rock-a-bye baby](../../../../handouts/rock-a-bye-baby.md) (a baby asleep in a
 treetop, and the bough breaks);
 [Goblin Market](../../../../handouts/goblin-market.md) (fruit
-called out by name, and what eating it does); and
+called out by name, and the wasting that follows eating it); and
 [The Twa Sisters](../../../../handouts/the-twa-sisters.md) (a harp strung from a
 drowned girl that says the killer's name without being asked).
 
@@ -147,7 +147,7 @@ drowned girl that says the killer's name without being asked).
 
 > *One huge old tree stands alone. Fruit hangs in it — swollen and heavy, each one
 > bigger than a man's head, and here and there a fruit has split open. The air stings
-> the eyes and is hard to breathe. The tree is muttering to itself — a low, steady
+> the eyes and is hard to breathe. The tree is muttering — a low, steady
 > voice that does not stop.*
 
 The party has to work out everything else in this note.
@@ -157,10 +157,10 @@ The party has to work out everything else in this note.
 ## The tree
 
 **The fruit.** Huge fruits grow on the tree, and inside each one is a baby demon.
-When a fruit splits open, the newborn is out in the open and talking before it comes
-to itself. See [what comes out of the fruit](#what-comes-out-of-the-fruit), below.
+When a fruit splits open, the newborn is out in the open and talking before it knows
+where it is. See [what comes out of the fruit](#what-comes-out-of-the-fruit), below.
 
-**The voice.** The muttering is a mind — the mind of the dead god the tree grew from
+**The voice.** The muttering comes from the mind of the dead god the tree grew from
 (below). It can be spoken to (Speak with Plants, or anything like it). It gives false answers, and it calls the demons its children. The party can deal with it by talking
 instead of fighting. The lines it mutters are in **the gibbering**, below.
 `[OPEN]` its voice — what it wants, what it lies about, what it will trade. The
@@ -185,23 +185,21 @@ approach has already sung them two days out.
 
 `[quoted]` is real text, said as written. **Do not rewrite these, and do not smooth
 them out** — they are quotations, and the house style does not govern them (see
-CLAUDE.md). `[built]` is ours, made out of the source next to it.
-
-Rows 4, 6, 8 and 9 are `[built]` only because their handouts are still
-`[to transcribe]`. Once the real translations are in, swap in the translator's
-words and mark them `[quoted]`.
+CLAUDE.md). `[built]` is ours, made out of the source next to it. Row 9 drops
+*To Othin* out of the middle of Bellows's line so the tree does not name a
+real-world god; nothing else is cut.
 
 | d20 | What it says | Where it is from |
 |---|---|---|
 | 1 | "My mother she killed me. My father he ate me." | `[quoted]` [Juniper Tree](../../../../handouts/the-juniper-tree.md) |
 | 2 | "Gathered together all my bones, tied them in a silken handkerchief." | `[quoted]` [Juniper Tree](../../../../handouts/the-juniper-tree.md) |
 | 3 | "Kywitt, kywitt. What a beautiful bird am I." | `[quoted]` [Juniper Tree](../../../../handouts/the-juniper-tree.md) |
-| 4 | "Why dost thou tear me? Spare me in my grave." | `[built]` [Polydorus](../../../../handouts/aeneid-polydorus.md) |
+| 4 | "Why dost thou thus my buried body rend?" | `[quoted]` [Polydorus](../../../../handouts/aeneid-polydorus.md), Dryden |
 | 5 | "The spears they put in me took root." | `[built]` [Polydorus](../../../../handouts/aeneid-polydorus.md) |
-| 6 | "We were men once. Now we are stocks." | `[built]` [Inferno XIII](../../../../handouts/inferno-wood-of-suicides.md) |
+| 6 | "Men once we were, and now are changed to trees." | `[quoted]` [Inferno XIII](../../../../handouts/inferno-wood-of-suicides.md), Longfellow |
 | 7 | "They will bring our bodies back and hang them on us." | `[built]` [Inferno XIII](../../../../handouts/inferno-wood-of-suicides.md) |
-| 8 | "I hung on the windy tree. Nine nights." | `[built]` [Hávamál](../../../../handouts/havamal-the-windy-tree.md) |
-| 9 | "Given to myself. Myself to myself." | `[built]` [Hávamál](../../../../handouts/havamal-the-windy-tree.md) |
+| 8 | "I ween that I hung on the windy tree, hung there for nights full nine." | `[quoted]` [Hávamál](../../../../handouts/havamal-the-windy-tree.md), Bellows |
+| 9 | "With the spear I was wounded, and offered I was. Myself to myself." | `[quoted]` [Hávamál](../../../../handouts/havamal-the-windy-tree.md), Bellows |
 | 10 | "How art thou fallen from heaven." | `[quoted]` [Isaiah 14](../../../../handouts/isaiah-14-fallen-from-heaven.md) |
 | 11 | "Cut down to the ground. Cut down to the ground." | `[quoted]` [Isaiah 14](../../../../handouts/isaiah-14-fallen-from-heaven.md) |
 | 12 | "There is hope of a tree, if it be cut down, that it will sprout again." | `[quoted]` [Job 14](../../../../handouts/job-14-hope-of-a-tree.md) |
@@ -210,7 +208,7 @@ words and mark them `[quoted]`.
 | 15 | "Down will come baby. Cradle and all." | `[quoted]` [Rock-a-bye baby](../../../../handouts/rock-a-bye-baby.md) |
 | 16 | "Come buy. Come buy." | `[quoted]` [Goblin Market](../../../../handouts/goblin-market.md) |
 | 17 | "Apples and quinces. Lemons and oranges. Plump unpecked cherries." | `[quoted]` [Goblin Market](../../../../handouts/goblin-market.md) |
-| 18 | "They made a harp out of her breast-bone. It said the name of the man who killed her." | `[built]` [The Twa Sisters](../../../../handouts/the-twa-sisters.md) |
+| 18 | "They made a harp out of her breast-bone. It said the killer's name." | `[built]` [The Twa Sisters](../../../../handouts/the-twa-sisters.md) |
 | 19 | "The bark split and the child came out." | `[built]` [Myrrha](../../../../handouts/ovid-myrrha-and-adonis.md) |
 | 20 | "Mine. All of them mine." | `[built]` the tree, on the demons |
 
@@ -232,10 +230,11 @@ copy, so it is written the other way here.
 ## What comes out of the fruit
 
 **It talks, and everything it says is something it has heard.** A newborn demon comes
-out speaking and has no words of its own. What it has heard is the tree's muttering —
-**the gibbering**, above — and the stories the demons that came out of this tree have carried away for as long as the tree has
-fruited — the stories the party watched acted out in the square at
-[Brauron](the-peach-town.md) three days before. The newborn says them back.
+out speaking and has no words of its own. What it has heard is the tree's muttering,
+in **the gibbering** above, and the stories the demons out of this tree have carried
+away for as long as the tree has fruited. Those are the stories the party watched
+acted out in the square at [Brauron](the-peach-town.md) three days before. The
+newborn says them back.
 
 Read these out word for word. They are the texts on the statue base and the fountain in
 town:
@@ -246,7 +245,8 @@ town:
 
 > *"Give me to drink!"*
 > — [the Three Citrons](../../../../handouts/the-three-citrons.md). The maiden says it
-> when the fruit is cut. The fountain in the square is carved with the moment.
+> when the fruit is cut. The fountain in the square is carved with the fruit being
+> cut open.
 
 > *its spathes are as the heads of Satans*
 > — [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md), Arberry, 37:65. It is also a
@@ -304,9 +304,9 @@ sickness**, and it works on anything that stays in it — the animals here have 
 they stay, the more it mutates them — strongest at the foot of the stair, where the
 stone is.
 
-`[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness
-his people were mutated by, so it strengthens him instead of changing him, and more the
-closer he gets. See
+`[DM]` The mutation does not affect Jasper. The poison here is the alchemical sickness
+his people were mutated by, so it strengthens him instead of changing him, and the
+effect is stronger the closer he gets. See
 [Jasper — DM Notes](../../../../characters/jasper-dm-notes.md).
 
 ---
@@ -316,8 +316,9 @@ closer he gets. See
 At the base of the tree a **stair goes down**, following the roots into the earth, and
 ends far below at the **broken stone** — the comet-stone, the god's body.
 
-The party goes down it a level at a time. Each level carries one verse of the Qur'an's
-**[Zaqqum](../../../../handouts/the-tree-of-zaqqum.md)** in Arberry's words — *a tree that comes
+The party goes down it a level at a time. One verse of the Qur'an's
+**[Zaqqum](../../../../handouts/the-tree-of-zaqqum.md)** goes on each level,
+in Arberry's words — *a tree that comes
 forth in the root of Hell*. `[proposed]` the As-Saffat run (37:62–68), one verse a level, ending on
 the stone.
 
