@@ -35,8 +35,8 @@ pluck one of the fruits, and name whatever is inside. He pays them for the name.
 
 `[DM]` What is inside is a baby demon, and a newborn demon has not learned to guard its
 true name yet — so the name can be taken (see
-[the name quest](../../../nila/lore/demons-and-the-hotspot.md)). The site is poisoned, holy,
-and cannot be controlled, so Preem cannot own it or work it himself.
+[the name quest](../../../nila/lore/demons-and-the-hotspot.md)). The site is poisoned and
+holy, and no one can control it, so Preem cannot own it or work it himself.
 
 ---
 
@@ -45,7 +45,7 @@ and cannot be controlled, so Preem cannot own it or work it himself.
 Long ago, in the **first pass** (the first age of the world), a comet-stone fell here.
 A comet-stone normally grows into a god — a cosmic beast that a people descends from
 (see [lineages & afterlives](../../../nila/lore/lineages-and-afterlives.md)). This one did not: the **True Giants** — the world's oldest people, who become mountains
-when they die — tore it apart before it could land and take root. (That is the killing in
+when they die — tore it apart before it could land. (That is the killing in
 [Kronos and Uranus](../../../../handouts/kronos-and-uranus.md): a sky-god killed, a tree
 grown from the wound.) A tree grew up where the torn body fell, and its mind stayed
 alive in the wood. Over thousands of years the roots grew down until they reached hell,
@@ -59,8 +59,8 @@ the first pass, so it is older than the gnomes and the Muspel empire. `[OPEN]` e
 
 ## What the party can work out, and how
 
-No one tells them any of it. The evidence is in front of them, and in what they
-already saw:
+No one tells them. They work it out from what is at the tree and what they saw in
+Brauron:
 
 - **The tree grew from a dead god** — the torn ground and old giant-work around the
   tree, and the broken comet-stone at the foot of the stair. See
@@ -95,8 +95,11 @@ god, and whether it happened more than once.
   get, and how to track it.
 - The **level**, and where it sits on the itinerary.
 - What the party **recovers** besides the name.
-- The **founder of Brauron**, who came out of this tree — see
-  [the founding of Brauron](../lore/the-founding-of-brauron.md), which is unfinished.
+- ~~The **founder of Brauron**, who came out of this tree.~~ Written up in
+  [the founding of Brauron](../lore/the-founding-of-brauron.md): it was called **Emmu**,
+  it built the town and the cult, the town killed it at the hunt, and it is in the deep
+  city now. Its true name is cut into the plinth in the square, and the party can work
+  that out from the newborn here.
 
 ---
 
@@ -158,7 +161,7 @@ When a fruit splits open, the newborn is out in the open and talking before it c
 to itself. See [what comes out of the fruit](#what-comes-out-of-the-fruit), below.
 
 **The voice.** The muttering is a mind — the mind of the dead god the tree grew from
-(below). It can be spoken to (Speak with Plants, or anything like it). It gives false answers, it mourns, and it calls the demons its children. The party can deal with it by talking
+(below). It can be spoken to (Speak with Plants, or anything like it). It gives false answers, and it calls the demons its children. The party can deal with it by talking
 instead of fighting. The lines it mutters are in **the gibbering**, below.
 `[OPEN]` its voice — what it wants, what it lies about, what it will trade. The
 gibbering does not settle that; it is what the tree says when nobody has asked it
@@ -230,7 +233,7 @@ copy, so it is written the other way here.
 
 **It talks, and everything it says is something it has heard.** A newborn demon comes
 out speaking and has no words of its own. What it has heard is the tree's muttering —
-**the gibbering**, above — and the stories the tree's children have carried out of here for as long as the tree has
+**the gibbering**, above — and the stories the demons that came out of this tree have carried away for as long as the tree has
 fruited — the stories the party watched acted out in the square at
 [Brauron](the-peach-town.md) three days before. The newborn says them back.
 
@@ -259,13 +262,13 @@ whether the party gets anything:
 - **Water, in the round it asks** — it keeps talking, and goes on talking as long as
   someone keeps pouring. The party has only the water in the skins they carried across
   the deadland. This is what the town does at the fountain, where three stone maidens stand
-  under running water and have for centuries.
+  under running water; the fountain has run for centuries.
 - **No water** — it stops speaking and hardens. After that it guards its name, and it
   fights or goes into the ground.
 
 **The name.** It says its own name the first time it speaks, in among the quotations, and it
-will say it again to anyone who asks while it is still wet. It has not learned that a
-name is a thing to keep. No roll: read the speech out. The name is the one word in it
+will say it again to anyone who asks while it is still wet. It does not guard its name.
+No roll: read the speech out. The name is the one word in it
 that is not a quotation.
 
 **Or the party names it.** A newborn answers to whatever it is first called. Name it
@@ -282,8 +285,7 @@ talk: **Manes** (CR 1/8) and **Dretch** (CR 1/4), in the branches and down among
 roots. They are what the party fights at the tree.
 
 **More than one fruit.** Preem pays for one name. Every fruit past the first is another
-demon loose in the world, and the party's voices are the first it heard. `[OPEN]`
-whether one comes back.
+demon loose in the world. `[OPEN]` whether one comes back.
 
 `[settled]` **Brauron's founder came out of this tree.** Someone carried a fruit out of
 the poison deadland, gave it water, and raised what came out. The party can work it out
@@ -299,12 +301,12 @@ poison (see [Anchar](../../../../handouts/anchar.md)). The poison is the tree's 
 sickness**, and it works on anything that stays in it — the animals here have been mutated by it. `[for David]` pick the set of monsters the party meets on the hunt.
 
 `[proposed mechanic]` It works on the party too. The closer they get and the longer
-they stay, the more it mutates them — worse at the tree, worst at the foot of the stair,
-where the stone is.
+they stay, the more it mutates them — strongest at the foot of the stair, where the
+stone is.
 
 `[DM]` The mutation does not touch Jasper. The poison here is the alchemical sickness
-his people were mutated by, so it strengthens him instead of changing him — more so the
-closer he gets, more so again down the stair. See
+his people were mutated by, so it strengthens him instead of changing him, and more the
+closer he gets. See
 [Jasper — DM Notes](../../../../characters/jasper-dm-notes.md).
 
 ---

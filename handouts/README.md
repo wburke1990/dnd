@@ -125,7 +125,7 @@ they carry a `[to transcribe]` note and the text still has to be pasted in.
 | [the ruin](the-ruin.md) | `reference` | Old English "The Ruin," trans. Fahey — a lay over the giants' abandoned halls in Weet |
 | [the second coming](the-second-coming.md) | `reference` | Yeats, "The Second Coming" — cut into Musa's watch-stone; incantation for a portent spell |
 | [the three citrons](the-three-citrons.md) | `reference` | Basile, "The Three Citrons," trans. Burton — a maiden bursts from a cut citron |
-| [the tide rises the tide falls](the-tide-rises-the-tide-falls.md) | `reference` | Longfellow, "The Tide Rises, the Tide Falls" — grave inscription, placement open |
+| [the tide rises the tide falls](the-tide-rises-the-tide-falls.md) | `reference` | Longfellow, "The Tide Rises, the Tide Falls" — the inscription on Hammou's watch-stone |
 | [the tree of zaqqum](the-tree-of-zaqqum.md) | `reference` | The Qur'an on Zaqqum, the tree that grows in Hell — Arberry and Sahih translations |
 | [the twa sisters](the-twa-sisters.md) | `reference` | The Twa Sisters (Child 10) — a harp strung from a drowned girl's bones names her killer |
 | [the tyger](the-tyger.md) | `reference` | Blake, "The Tyger" — for a Rakshasa temple in Jotunheim or northeastern Muspelheim |

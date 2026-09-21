@@ -1,11 +1,11 @@
 ---
-summary: Longfellow, "The Tide Rises, the Tide Falls" — grave inscription, placement open
+summary: Longfellow, "The Tide Rises, the Tide Falls" — the inscription on Hammou's watch-stone
 status: reference
 ---
 
 # The Tide Rises, the Tide Falls (Player Handout)
 
-*A candidate grave inscription / handout in the sea-and-homecoming vein of [Requiem](requiem.md) and [Crossing the Bar](crossing-the-bar.md). A traveller does not return; the tide keeps its rhythm. Verbatim, line breaks preserved — placement not yet assigned.*
+*The inscription on the watch-stone of **Hammou**, the wandering dragonborn who carried the fruit out of the deadland and founded [Brauron](../world/suartleheim-eet/brauron/lore/the-founding-of-brauron.md). The stone stands on the shore north of the town, over his grave. Other sea poems in handouts: [Requiem](requiem.md), [Crossing the Bar](crossing-the-bar.md). Verbatim, line breaks preserved.*
 
 *Real-world source: Henry Wadsworth Longfellow (1807–1882), "The Tide Rises, the Tide Falls" (from* Ultima Thule*, 1880).*
 
