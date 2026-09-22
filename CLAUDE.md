@@ -770,6 +770,11 @@ adjust-ow-map             # rotate or resize a OneWorld map already registered
                           # which is what the Hub actually spawns from.
                           # See docs/oneworld.md.
 
+calibrate-minis IN OUT    # mark every injected mini on the table calibrated
+                          # to the grid, so it resizes itself when the grid
+                          # changes (no right-click "Calibrate Scale" needed).
+                          # See docs/minis.md.
+
 critic-gate               # pre-commit check: confirms a prose-critic subagent
                           # ran since HEAD on every staged content file, by
                           # reading the session transcripts under
@@ -836,6 +841,9 @@ keeps only the must-know; load these on demand when the task touches them:
   (Player.log location, GET-probe-with-peek pattern, why HEAD requests
   miss HTML-content-wrong failures, cleanup approach). **Read this when
   cleaning broken assets out of a save.**
+- **`docs/minis.md`** — How the DND Mini Injector resizes minis when the
+  grid changes, and `calibrate-minis` for calibrating a whole table at once. Read
+  this before touching mini sizes or the grid in a save.
 - **`docs/tts-layout-tooling.md`** — Design notes for combining mods and
   rescaling layouts.
 
