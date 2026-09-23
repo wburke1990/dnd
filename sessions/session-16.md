@@ -26,10 +26,19 @@ status: played
 
 **He is at 50 hit points** at the end of the session.
 
+## Where they stopped
+
+**Blackacre is alone with the Thinker inside the earth walls around the tree.** The
+rest of the party are outside the walls.
+
+**Blackacre is restrained** by the Thinker's **Root the ground** legendary action. `[DM]` Expect him to cast
+*Misty Step* out on his next turn.
+
 ---
 
 ## Where it stands
 
 - **The fight is not over.** The Thinker is at 50 hit points and the tree is down.
+- **Blackacre acts next**, inside the walls and restrained.
 - **The mast is still gone**, and the tree they needed for a new one is on the ground.
 - **The island is still sinking.** How much hilltop is left has not been settled.
