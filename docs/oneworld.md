@@ -93,9 +93,19 @@ Both `tts/lua/TS_Save_18/55c90c.lua` (Nila) and
 4. `ButtonBack` no-aBase branch likewise defaults to home instead of
    the last `treeMap` entry.
 
-`homeGuid` in all four post-fix branches is derived from
+`homeGuid` in all four edited branches is derived from
 `aBag.Description` (format `_OW_aBaG_<guid>`):
 `local homeGuid = string.sub(aBag.getDescription(), 10)`.
+
+A fifth edit is in the mBag script, **staging only** so far
+(`tts/lua/TS_Save_19/c30535.lua`, 9/23): objects tagged **`noPack`** stay on
+the table through Build, Clear and switching maps. Upstream reads the tag only
+in the Hub's Pack-button zone scan; Clear and switch act only on the GUID list `ss`
+recorded at Build, and upstream does not check the tag there. `UnderPack` now leaves `noPack` objects out
+of `ss`, and `DoClear`/`DoPack` skip them through `PackTarget`. The PC minis
+(Blackacre, Sarric, Jasper, Aniess, Pax Verdant) carry the tag, and the old PC
+copies were taken out of the Wizards_Tower map bag and its SBx manifest so a
+Build does not spawn duplicates. Copy this edit to Nila (`TS_Save_18`) after it has been tested in staging.
 
 If a future task asks to update the Hub Lua, edit the per-save file
 directly. The two save forks are kept in sync by copying staging → Nila
