@@ -775,6 +775,10 @@ calibrate-minis IN OUT    # mark every injected mini on the table calibrated
                           # changes (no right-click "Calibrate Scale" needed).
                           # See docs/minis.md.
 
+clean-tts-virus FILE...   # strip the "Spawning object" Lua virus from save /
+                          # object JSON. Reports only; --write cleans. See
+                          # docs/tts-virus.md.
+
 critic-gate               # pre-commit check: confirms a prose-critic subagent
                           # ran since HEAD on every staged content file, by
                           # reading the session transcripts under
@@ -841,6 +845,10 @@ keeps only the must-know; load these on demand when the task touches them:
   (Player.log location, GET-probe-with-peek pattern, why HEAD requests
   miss HTML-content-wrong failures, cleanup approach). **Read this when
   cleaning broken assets out of a save.**
+- **`docs/tts-virus.md`** — The Lua virus found in the saves on 9/23, how to
+  find it, and `clean-tts-virus`. Read this when a save's scripts carry code
+  the repo's `tts/lua/` copy does not, or after subscribing to a new Workshop
+  item.
 - **`docs/minis.md`** — How the DND Mini Injector resizes minis when the
   grid changes, and `calibrate-minis` for calibrating a whole table at once. Read
   this before touching mini sizes or the grid in a save.
