@@ -87,7 +87,15 @@ function Build()
         )
     end
 end
+-- Local edit: objects tagged noPack (the PC minis) stay on the table through
+-- Build, Clear and switch. Upstream honors the tag only in the Hub's zone scan.
+function PackTarget(guid)
+    local obj = getObjectFromGUID(guid)
+    if obj and not obj.hasTag("noPack") then return obj end
+    return nil
+end
 function UnderPack(obj)
+    if obj.hasTag("noPack") then return end
     ss = ss..obj.guid..","
     if(obj.hasTag("noInteract")) then obj.interactable = false else obj.interactable = true end
 end
@@ -112,8 +120,8 @@ function DoClear()
     local packGUID, index = vBase.call("parseStringInWords", {pString=ss,rStr="[^,]+"}), 1
     if(oneWorld.getVar("toggleMapBuild")) then
         while(index <= #packGUID) do
-            if(getObjectFromGUID(packGUID[index])) then
-                getObjectFromGUID(packGUID[index]).destruct()
+            if(PackTarget(packGUID[index])) then
+                PackTarget(packGUID[index]).destruct()
             end
             index = index + 1
             if(index >= 5001) then print("[ff0000]ERROR[-]") break end
@@ -123,8 +131,8 @@ function DoClear()
         Wait.condition(function()
             Wait.time(|| EndClear(), 0.2)
         end, function()
-            if(getObjectFromGUID(packGUID[index])) then
-                getObjectFromGUID(packGUID[index]).destruct()
+            if(PackTarget(packGUID[index])) then
+                PackTarget(packGUID[index]).destruct()
             end
             index = index + 1
             return index > #packGUID
@@ -155,8 +163,8 @@ function DoPack(mBag)
     local packGUID, index = vBase.call("parseStringInWords", {pString=ss,rStr="[^,]+"}), 1
     if(oneWorld.getVar("toggleMapBuild")) then
         while(index <= #packGUID) do
-            if(getObjectFromGUID(packGUID[index])) then
-                mBag.putObject(getObjectFromGUID(packGUID[index]))
+            if(PackTarget(packGUID[index])) then
+                mBag.putObject(PackTarget(packGUID[index]))
                 ss = ss.gsub(packGUID[index], "", 1)
             end
             index = index + 1
@@ -167,8 +175,8 @@ function DoPack(mBag)
         Wait.condition(function()
             Wait.time(|| EndPack(mBag), 0.2)
         end, function()
-            if(getObjectFromGUID(packGUID[index])) then
-                mBag.putObject(getObjectFromGUID(packGUID[index]))
+            if(PackTarget(packGUID[index])) then
+                mBag.putObject(PackTarget(packGUID[index]))
                 ss = ss.gsub(packGUID[index], "", 1)
             end
             index = index + 1
