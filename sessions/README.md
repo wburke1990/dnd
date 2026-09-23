@@ -22,6 +22,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [13](session-13.md) | The Tally House | Aar | Drinking with the **Lapis Writ** and the Brass Jackals. Sarric and Doruk traded killings; Pax gave **Pim** a mushroom and met Preem's centipede without knowing it; the Hunt costs **5,000 gp** and they do not have it. **They took Beartholomew's job** — steal the peseshkef |
 | [14](session-14.md) | Aniess at Aar | Aar | **A session with Greg only.** A long talk with **Setha** the night before the Writ sailed, then a walk to **Musa's watch-stone** with **Beartholomew** — the cohort and their past, the history of Aar, and what happens next. **Aniess will take the peseshkef at Brauron**, not Aar |
 | [15](session-15.md) | The Bell Under the Island | Aar → the sea → the Island of the Thinkers | **Sailed without the knife.** A pod of dolphins on the bow-wave as the storm built, and the pod put **Sarric** back aboard when he went in. **Aniess rolled a natural 1 and the mast snapped off and flew away.** They drifted to the island, met the **Last Thinker**, and would not fight him for his tree. From the cistern they found the door in the hillside, opened it under layers of moss, and saw from inside that it is **a door cut into a far larger door**. Down the giant stairs: the mural, the throne, the bell. **Jasper rang it alone**, the floor shook, they ran. At the top the beach was going under, the Thinker said his line, and **initiative was rolled** |
+| [16](session-16.md) | The Tree Cut Down | The Island of the Thinkers | **The whole session was the fight.** **Jasper, then Sarric, then Aniess attacked the tree**, and the tree is dead. The Thinker is at **50 hit points** at the end of the session, and the fight is still going |
 
 ## Running threads
 
@@ -125,6 +126,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 | [session 13](session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
 | [session 14](session-14.md) | `played` | A session with Greg — Aniess and Setha talk, then the walk with Beartholomew |
 | [session 15](session-15.md) | `played` | Out of Aar without the knife, the storm that snapped the mast, and the bell under the island |
+| [session 16](session-16.md) | `played` | The whole session is the fight on the hilltop, and the tree is cut down |
 | [player messages earth dreams](player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 <!-- END GENERATED INDEX -->

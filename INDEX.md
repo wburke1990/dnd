@@ -417,6 +417,7 @@ Sailing, weather, fleets and what lives in the water.
 | [session 13](sessions/session-13.md) | `played` | The evening at the Tally House, the two rival crews drunk, and the party take the theft |
 | [session 14](sessions/session-14.md) | `played` | A session with Greg — Aniess and Setha talk, then the walk with Beartholomew |
 | [session 15](sessions/session-15.md) | `played` | Out of Aar without the knife, the storm that snapped the mast, and the bell under the island |
+| [session 16](sessions/session-16.md) | `played` | The whole session is the fight on the hilltop, and the tree is cut down |
 | [player messages earth dreams](sessions/player-messages-earth-dreams.md) | `reference` | Chat messages to Jeremy and Andrew offering Sarric and Pax inherited dreams |
 
 ## references
