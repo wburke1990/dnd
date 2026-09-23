@@ -97,8 +97,8 @@ Both `tts/lua/TS_Save_18/55c90c.lua` (Nila) and
 `aBag.Description` (format `_OW_aBaG_<guid>`):
 `local homeGuid = string.sub(aBag.getDescription(), 10)`.
 
-A fifth edit is in the mBag script, **staging only** so far
-(`tts/lua/TS_Save_19/c30535.lua`, 9/23): objects tagged **`noPack`** stay on
+A fifth edit is in the mBag script, in **staging and temp (`TS_Save_24`)** only
+so far (`tts/lua/TS_Save_19/c30535.lua`, 9/23): objects tagged **`noPack`** stay on
 the table through Build, Clear and switching maps. Upstream reads the tag only
 in the Hub's Pack-button zone scan; Clear and switch act only on the GUID list `ss`
 recorded at Build, and upstream does not check the tag there. `UnderPack` now leaves `noPack` objects out
