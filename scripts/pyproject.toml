@@ -20,6 +20,7 @@ critic-gate = "dnd_tools.critic_gate:main"
 pack-ow-map = "dnd_tools.pack_ow_map:main"
 adjust-ow-map = "dnd_tools.adjust_ow_map:main"
 calibrate-minis = "dnd_tools.calibrate_minis:main"
+clean-tts-virus = "dnd_tools.clean_tts_virus:main"
 
 [dependency-groups]
 dev = [
