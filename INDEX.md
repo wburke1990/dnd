@@ -331,6 +331,7 @@ Sailing, weather, fleets and what lives in the water.
 | [actaeon](handouts/actaeon.md) | `reference` | Ovid, "Metamorphoses" Bk 3, trans. Golding — Diana turns Actaeon to a stag; his hounds kill him |
 | [aeneid polydorus](handouts/aeneid-polydorus.md) | `reference` | Aeneid III — Aeneas pulls shoots from a mound and the buried boy speaks |
 | [anchar](handouts/anchar.md) | `reference` | Pushkin, "Anchar" (The Upas Tree) — a poison tree in the desert, in two English translations |
+| [ballad of the ichthyosaurus](handouts/ballad-of-the-ichthyosaurus.md) | `reference` | May Kendall, "Ballad of the Ichthyosaurus" — a fossil in a museum complains about its brain |
 | [because i could not stop for death](handouts/because-i-could-not-stop-for-death.md) | `reference` | Emily Dickinson, "Because I could not stop for Death" — incantation for a Speak with Dead rite |
 | [callimachus hymn to artemis](handouts/callimachus-hymn-to-artemis.md) | `reference` | Callimachus, Hymn 3, trans. Mair — the child Artemis asks her father for the mountains |
 | [canting songs](handouts/canting-songs.md) | `reference` | Two real thieves' canting songs, used as the countersign and the ask between Aniess and Beartholomew |
