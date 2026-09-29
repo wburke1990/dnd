@@ -4,8 +4,10 @@ On 9/23/2026 a Lua virus was found in the TTS install: 707 objects in Nila
 (`TS_Save_18`), 400 in staging (`TS_Save_19`) and in `TS_Save_24`, 422 in each
 autosave, and six Saved Objects (`tree`, `Beartholomew`, `Beartholomews Echo`,
 `The Brass Jackals`, `The Lapis Writ`, `statues`). It came from the Workshop
-minis pack **"[Ленивый] Minis" (3618998883)**, which was deleted from
-`Mods/Workshop/`. The repo's `tts/lua/` files were clean.
+minis pack **"[Ленивый] Minis" (3618998883)**, which the 9/23 note records as
+deleted from `Mods/Workshop/`; the files were still there, and the install was
+infected again on 9/29 — see *Reinfected: 9/29* below. The repo's `tts/lua/`
+files were clean.
 
 ## What it is
 
@@ -51,8 +53,10 @@ appears in it. Without `--write` it only reports.
    uv --directory /Users/wcb/personal/dnd/scripts run clean-tts-virus --write FILE...
    ```
 
-4. Delete the Workshop item it came from, and unsubscribe from it on Steam, or
-   Steam downloads it again.
+4. Unsubscribe from the item in TTS's Workshop list, which deletes its files
+   from `Mods/Workshop/` too. Deleting the files without unsubscribing does not
+   remove them — TTS downloads them again on the next launch. See
+   *Reinfected: 9/29*.
 
 A file reported as `FAIL` holds a variant the pattern does not match and was
 not changed. The minis pack had one such variant.
@@ -68,25 +72,38 @@ On 9/29 the same 13 files were infected again — `TS_Save_18` (707),
 Saved Objects, and `Mods/Workshop/3618998883.json`. The counts match the 9/23
 counts for every file.
 
-**Deleting the Workshop file does not hold on its own — unsubscribe on Steam.**
+**Deleting the Workshop file does not remove it — unsubscribe on Steam.**
 The 9/23 note records the mod as deleted from `Mods/Workshop/`. On 9/29
 `3618998883.json` and `3618998883.png` were both there with that day's
 timestamp, and `Mods/Workshop/WorkshopFileInfos.json` listed
 `[Ленивый] Minis` with an `UpdateTime` from that day. TTS asks Steam for the
 subscribed items on launch and downloads whatever is missing, so a local delete
-is undone the next time TTS starts. Step 4 is two actions: delete the file and
-unsubscribe.
+is undone the next time TTS starts. Unsubscribing is the step that removes it,
+and it deletes the files as well — see below.
 
-**Unsubscribe from the web while Steam is closed**, at
-`https://steamcommunity.com/sharedfiles/filedetails/?id=<id>`. Steam then has
-nothing to re-sync when it next starts. Unsubscribing from inside TTS means
-launching TTS first, which is the moment the download happens.
+**Unsubscribe from inside TTS; the Steam web page can show an item as not
+subscribed while it is.** On 9/29 the page at
+`https://steamcommunity.com/sharedfiles/filedetails/?id=3618998883` showed the
+item as not subscribed. The file had been deleted and verified gone; TTS was
+launched a few minutes later and downloaded it again, so the subscription was
+live while the page showed it as not subscribed. `WorkshopFileInfos.json` had no
+entry for it either, so TTS asked Steam rather than reading a local record. Launch
+TTS and see whether it downloads the file.
 
-**Delete the source mod rather than cleaning it.** The Workshop file is the
+Unsubscribing in TTS's Workshop list then deleted `3618998883.json` and
+`3618998883.png`, with no manual delete and no restart.
+
+**The payload does not run if no save is loaded.** Opening TTS to reach the
+Workshop list does not spread it, so unsubscribe without loading a save. Check
+the saves afterwards: on 9/29 that launch left all 12 of them clean and
+re-created only the Workshop file.
+
+**The source mod cannot be cleaned, only removed.** The Workshop file is the
 variant that `clean-tts-virus` reports `FAIL` on — on 9/29 it cut 365 payloads
 and still left `gninwapS`, so the tool wrote nothing. Cleaning the saves while
-that file sits in `Mods/Workshop/` puts the virus back. Delete the `.json` and
-its `.png`, and drop the item's entry from
+that file sits in `Mods/Workshop/` puts the virus back, so it has to go before
+the saves are worth cleaning. Unsubscribing removes both files; deleting them by
+hand also works, and then drop the item's entry from
 `Mods/Workshop/WorkshopFileInfos.json` so TTS stops listing a mod whose file is
 gone.
 
