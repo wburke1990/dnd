@@ -106,17 +106,17 @@ one.** The first is to **find it already written:** lifted from the funerary
 texts of the old empires — the covenant names the keepers of the dead's road
 gave the line-gods as sureties, handed down through the gods' death-rites, the
 one kind of place a demon's true name was ever set down (below). The second is
-to **take it fresh:** bring the demon to the edge of true
-death and have it surrender its name for its life — for a demon, true death is
-final, no return. Either way, once a name
-is had it can be copied and handed on and **never recalled;** a bound demon's only
-escape is to change its own name, which unmakes it (see
+to **get it from the demon itself:** beat the demon until it is about to die for good
+ and have it surrender its name for its life — for a demon, true death is
+final, no return. Either way, once someone
+has a name it can be copied and handed on and **never recalled;** a bound demon's only
+escape is to change its own name, which destroys it (see
 [Manizheh](../../../characters/manizheh.md)).
 
 Both ways work on a demon that already has a name to keep. A demon that has not got
-one yet takes the first word it is called and keeps that, which is why the newborns
-out of [the hell-tree](../../suartleheim-eet/brauron/encounters/the-hell-tree.md) matter:
-whoever speaks first to one makes its true name rather than taking it. Brauron's founder got its name that way and the word is cut in the town square
+one yet takes the first word it is called and keeps that. The demons that come out of
+[the hell-tree](../../suartleheim-eet/brauron/encounters/the-hell-tree.md) have no names yet,
+and whoever speaks first to one gives it its true name. Brauron's founder got its name that way, and nobody wrote the word down
 ([the founding](../../suartleheim-eet/brauron/lore/the-founding-of-brauron.md)).
 
 ### Where the names come from — and why the party hunts them

@@ -96,10 +96,9 @@ god, and whether it happened more than once.
 - The **level**, and where it sits on the itinerary.
 - What the party **recovers** besides the name.
 - ~~The **founder of Brauron**, who came out of this tree.~~ Written up in
-  [the founding of Brauron](../lore/the-founding-of-brauron.md): it was called **Emmu**,
+  [the founding of Brauron](../lore/the-founding-of-brauron.md): it was **Momotarō**,
   it built the town and the cult, the town killed it at the hunt, and it is in the deep
-  city now. Its true name is cut into the plinth in the square, and it got that name the
-  same way the newborn here gets one.
+  city now.
 
 ---
 
@@ -290,11 +289,10 @@ roots. They are what the party fights at the tree.
 **More than one fruit.** Preem pays for one name. Every fruit past the first is another
 demon loose in the world. `[OPEN]` whether one comes back.
 
-`[settled]` **Brauron's founder came out of this tree.** A dragonborn named Hammou carried
-a fruit out of the poison deadland, gave it water, called it **Emmu**, and raised what
-came out. That is how the town's founder got a true name, and the last line on the plinth
-in the square is that name. The party walked past it two days ago. See
-[the founding of Brauron](../lore/the-founding-of-brauron.md).
+`[settled]` **Brauron's founder came out of this tree.** A fruit fell in the river and
+came down out of the deadland to an old gnome couple, who gave the child water and raised
+him as **Momotarō**. His statue is in the square the party walked through two days ago.
+See [the founding of Brauron](../lore/the-founding-of-brauron.md).
 
 ---
 

@@ -16,134 +16,96 @@ status: ready
 ## Settled
 
 Brauron's founder came out of a fruit of [the hell-tree](../encounters/the-hell-tree.md).
-Someone plucked the fruit, carried it out of the deadland, and gave it water when it
-asked. Whoever carried it raised what came out, and people settled around them.
+The fruit came down the river out of the deadland to an old gnome couple, who gave it
+water when it asked and raised what came out. People settled around them.
 
-The town tells this as [Momotarō](../../../../handouts/momotaro.md). A statue of the boy
-stands in the square, with the text cut into its base, and the gnomes act the story in the street.
+The town tells this as [Momotarō](../../../../handouts/momotaro.md), and it is the story
+as it happened. A statue of Momotarō stands in the square, with the text cut into its
+base, and the gnomes act the story in the street.
 
-The founder was a newborn demon. For what one is, what it says, and the water it asks
-for, see
-[what comes out of the fruit](../encounters/the-hell-tree.md#what-comes-out-of-the-fruit).
+Momotarō was a newborn demon. For what one is, what it says, and the water it asks for,
+see [what comes out of the fruit](../encounters/the-hell-tree.md#what-comes-out-of-the-fruit).
 
 ---
 
 ## The founder
 
-`[settled — 9/21]`
+`[settled]`
 
-**Who carried it out.** A wandering dragonborn named **Hammou**, who came up the coast
-past [Raand](../../../nila/lore/nila-atlas.md) about four thousand years ago, when the gnome
-túatha were emptying (see [the dragonborn founders](#the-dragonborn-founders), below).
-He crossed the deadland, plucked one fruit, and carried it out. It split on the way.
-He gave it water.
+**Who found him.** An old gnome couple with no children, living on the river that runs
+out of the deadland south to the sea. This was about four thousand years ago, when
+gnomes were leaving the túatha and going north up the coast past
+[Raand](../../../nila/lore/nila-atlas.md)
+([the fallen gnome kingdoms](../../raand-copaa/lore/the-fallen-gnome-kingdom.md)). A fruit
+off the tree fell in the river and came down it. The old woman was washing clothes and
+pulled it out. The old man went to cut it, and it split, and a child stepped out and
+asked for water. They gave him water.
 
-**What Hammou called it.** A newborn off the tree has no name, and the first word it is
-called becomes its true name (see
+**His name.** They named him Momotarō. That was not the first word they called him, and
+a newborn demon takes the first word it is called as its true name (see
 [what comes out of the fruit](../encounters/the-hell-tree.md#what-comes-out-of-the-fruit)).
-Hammou called it **Emmu**. He wrote down everything that happened and the town cut the
-writing into stone; the word has been on the plinth in the square ever since (see
-[its name](#its-name), below).
+Nobody wrote the first word down. Nobody alive knows it.
 
-**What the town called it.** The Boy. No other name appears in four thousand years of
-inscriptions in the square.
+**What he built.**
 
-**What it built.**
-
-- **The town.** Gnomes going north out of the failing túatha stopped where Hammou had
-  stopped. Within a generation there was a town, and the Boy was running it.
-- **The grove.** It planted the peach trees out of the fruit it came out of (see
+- **The town.** Gnomes leaving the túatha and going north stopped at the old couple's
+  house on the river. Within a generation there was a town, and Momotarō was running it.
+- **The grove.** He planted the peach trees out of the fruit he came out of (see
   [the grove](#the-grove), below).
-- **The sanctuary.** It gave the deadland and the tree to the goddess the gnomes had
+- **The sanctuary.** He gave the deadland and the tree to the goddess the gnomes had
   brought with them, under the name Hecate, and the cult has kept hunters off the tree
   since. The [sacred hunt](../encounters/the-game-preserve.md) runs once a year and does
   not hunt the tree, though a rider running a quarry down will go there
   ([the game preserve](../encounters/the-game-preserve.md)).
-- **The Megabyzoi.** It made the eunuch priesthood after the first peach in the grove
+- **The Megabyzoi.** He made the eunuch priesthood after the first peach in the grove
   split, and put what came out into it (see
   [what the town knows](#what-the-town-knows), below).
 
-**Whether it is dead.** It was killed here, and it came back. A demon dies for good
+**Whether he is dead.** He was killed here and re-formed in the Abyss. A demon dies for good
 only in the Abyss (see
-[demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)), and it was killed
+[demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)), and he was killed
 on the surface.
 
-About six hundred years in, it began walking into the deadland and coming back carrying
-fruit. The town gave water to the first ones. When it kept going back, the
-bee-priestesses put its name down as the stag. It went out at dawn in antlers and a
-deer-hide, with the roll of the hounds read over it, and the hunters ran it down
+About six hundred years in, he began walking into the deadland and coming back carrying
+fruit. The town gave water to the first ones. When he kept going back, the
+bee-priestesses put his name down as the stag. He went out at dawn in antlers and a
+deer-hide, with the roll of the hounds read over him, and the hunters ran him down
 ([Actaeon](../../../../handouts/actaeon.md); the rite is
 [the dressing](../encounters/dressing-the-stag.md)).
 
 The paintings the party sees in
 [the temple](../encounters/the-peach-town.md) — a young man gored and mourned, a tree
-growing where his blood falls — are the Boy, told as
+growing where his blood falls — are Momotarō, told as
 [Attis](../../../../handouts/the-birth-of-attis.md). The Megabyzoi mourn him once a year.
 The man-hunt has run every year since, and most quarry do not come back.
 
-**Where it is.** It re-formed in the Abyss and it is there now. The demon-people's
-cities sit over the hotspot, and the living one is under the Kurunatukas, where demons
-have been coming up on Moku for a generation. It spent its first six hundred years on the
-surface. It has not come back for the plinth, and the surface burns it now.
+**Where he is.** He re-formed in the Abyss and he is there now. The demon-people's
+cities sit over the hotspot, and the one still inhabited is under the Kurunatukas, where demons
+have been coming up on Moku for a generation. He spent his first six hundred years on
+the surface. He has not come back, and the surface burns him now.
 
-`[proposed]` What it is now: **Nabassu** (CR 15, MPMM) off
+`[proposed]` What he is now: **Nabassu** (CR 15, MPMM) off
 [the roster](../../../nila/bestiary/available-demons.md) — a demon that grows by feeding on
-the dead. It was a Quasit when Hammou carried it out.
+the dead. He was a Quasit when the old woman pulled him out of the river.
 
-`[OPEN]` Whether the party meets it on the road down.
-
----
-
-## Its name
-
-`[settled — 9/21]`
-
-**The name is Emmu and it is in the square.** The plinth carries the
-[Momotarō](../../../../handouts/momotaro.md) passage — the peach splitting, the child
-stepping out — and under it, in the same hand, one more line:
-
-> *Then I called him Emmu, and he asked for water, and I gave him water.*
-
-The tale is in the third person and that line is in the first. It is Hammou's, written
-down the day it happened. The town takes it for the end of the story and has recut it
-every few centuries as the stone wore. The players in the square say it in the street
-every day: the boy steps out of the peach, says *"Wait a bit, old man!"*, is called
-**Emmu**, and asks for water.
-
-**Nobody in Brauron knows it is a name.** Binding a demon by its true name is elven
-magecraft, invented in Maalm about 1,850 years ago and kept secret since (see
-[demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)). Brauron is off the
-maps and always has been. In the town it is a word the boy says in the play.
-
-**Preem's errand takes the party past the plinth.** He pays 5 gp a name and has sent
-them to take one off a newborn at the tree, a day inland of the gate (see
-[Preem](../../../../characters/preem.md)). The name they were hired for is at the tree.
-Emmu is cut into the plinth in the square and said in the play there.
-
-They cannot read it as a name on the first pass. Once they have named a newborn at the
-tree themselves, the last line on the plinth is a record of somebody doing the same
-thing. See [in play](#in-play), below.
-
-**If they sell it.** Planar Binding spoken with a true name takes hold with no save and
-does not end (see [Preem's demons](../../../../characters/preems-demons.md)). Emmu is four
-thousand years old and in the deep city the party will later have to walk to.
+`[OPEN]` Whether the party meets him on the road down.
 
 ---
 
 ## The grove
 
-`[settled — 9/21]`
+`[settled]`
 
-**The peach trees came off the hell-tree.** The Boy planted them in a ring around the
-town out of the fruit it came out of. Off the deadland's ground they came up as ordinary
+**The peach trees came off the hell-tree.** Momotarō planted them in a ring around the
+town out of the fruit he came out of. Off the deadland's ground they came up as ordinary
 peach trees, and the town eats the fruit.
 
 **The fruit splits.** Rarely. The town has counted **eleven** since the founding, and
 keeps the count in the temple. The last was ninety years ago.
 
-What comes out is what comes out at the tree: a child, talking, repeating whatever it
-has heard. What it has heard is the square — the play
-runs daily fifty yards off — so a grove child comes out reciting the town's own lines,
+The same thing comes out as at the tree: a child, talking, repeating whatever it
+has heard. It has heard the play in the square, which runs daily fifty yards off, so a
+grove child comes out reciting the town's own lines,
 and the temple gives it a word of its own.
 
 **What the town does.** Whoever finds a split peach shouts, and the water comes from
@@ -158,36 +120,40 @@ it goes to the Megabyzoi.
 
 ## What the town knows
 
-`[settled — 9/21]`
+`[settled]`
 
 Three groups, and they know different amounts.
 
 **The artisans and performers.** They know that a peach splits now and then and a child
 comes out of it, and that the water has to come at once. They call it the goddess
 giving the town a child. They have no word for demon and nobody has ever brought them
-one. They say Emmu in the street every day and do not know the word means anything.
+one.
 
 **The bee-priestesses.** They run the hunt and keep the roll of the quarry. The first
-name on the roll is the Boy, and the head of the Melissae hands that down to the next.
-It is why the priestess who takes a quarry's name asks first where to send the money
+name on the roll is Momotarō, and the head of the Melissae hands that down to the next.
+He did not come back from the hunt, and most quarry since have not, so the priestess who
+takes a quarry's name asks first where to send the money
 ([the dressing](../encounters/dressing-the-stag.md)).
 
 **The Megabyzoi.** The eleven children born out of the grove are in this order, inside a
 larger body of cut gnome men. The town is told the beardless faces come from the cutting,
-so nobody asks why a priest has not aged. They know what they are, they know the Boy
+so nobody asks why a priest has not aged. They know what they are, they know Momotarō
 came off the tree, and they know what the tree is, because he told them. At every
 dressing they stand along the wall and take no part
 ([the dressing](../encounters/dressing-the-stag.md)).
 
 Each of them was given a word when it came out, and each word was written down. The
-temple holds eleven of them, filed with the count of the splits. Nobody in the temple knows a
-demon's name can be used to bind it.
+temple holds eleven of them, filed with the count of the splits. Nobody in the temple
+knows a demon's name can be used to bind it. Binding by true name is elven magecraft,
+invented in Maalm about 1,850 years ago and kept secret since (see
+[demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)), and the secret
+never reached Brauron.
 
 ### Ampelos
 
 `[NPC]` The eldest of the Megabyzoi. He came out of the first peach the grove ever
-split, was raised by the Boy, and has been in the temple since. He wears a gnome's
-shape, soft-faced, and he has never been to the tree.
+split, was raised by Momotarō, and has been in the temple since. He looks like a gnome,
+soft-faced, and he has never been to the tree.
 
 He wants the party's account of it when they come back, and he asks for it in order:
 
@@ -195,16 +161,11 @@ He wants the party's account of it when they come back, and he asks for it in or
 
 > "Not what it looked like. The words, in the order you heard them."
 
-If they ask him about the last line on the plinth:
-
-> "That line is not part of the story. That is what the child said when it came out,
-> and the old man wrote it down."
-
 ---
 
 ## The cult
 
-`[settled — 9/21]`
+`[settled]`
 
 **The goddess came with the gnomes, before the town.** The Kalikhat refugees who took
 Suartleheim Eet brought her up the coast with them (see
@@ -212,58 +173,32 @@ Suartleheim Eet brought her up the coast with them (see
 town's Greek name is hers — the sanctuary where the girls serve as bears. The
 bee-priestesses are older than Brauron.
 
-**The deadland is the founder's addition.** The Boy gave her the deadland and the tree
+**The deadland is the founder's addition.** Momotarō gave her the deadland and the tree
 under the name Hecate, of the moon and the dead, and the cult took charge of keeping
 people off both. Before that she was of the hunt and the girls; after, she was also of
 the dead.
 
-**The Megabyzoi are the founder's too.** It made them a place to put the children out
+**The Megabyzoi are the founder's too.** He made them a place to put the children out
 of the grove, and borrowed the cutting and the Attis mystery from Ephesus to cover them.
-The Megabyzoi stood along the wall while the Melissae dressed the Boy as the stag. The
+The Megabyzoi stood along the wall while the Melissae dressed Momotarō as the stag. The
 paintings of his death have been on the temple wall since.
 
 ---
 
-## The dragonborn founders
+## The old couple's grave
 
-`[settled — 9/21]` A wandering dragonborn founded it, the way one founded nearly every
-settlement in the world (see
-[the wandering](../../../the-sea/lore/wandering-dragonborn.md)). Hammou stopped here and a
-town grew where he stopped. He was carrying the fruit.
-
-He was of the branch that kept roaming, and his name uses the Berber and Arabic forms,
-not the zealots' archaic Phoenician. He came north past Raand
-about four thousand years ago, in the decades the túatha began to fail
-([the fallen gnome kingdoms](../../raand-copaa/lore/the-fallen-gnome-kingdom.md)), and he went
-past the last settlement on that coast and kept going.
-
-**The town does not remember him as a dragonborn.** He is the old man in the play, in a
-mask. There was no old woman; the play has one because
-[the tale](../../../../handouts/momotaro.md) has one.
-
-**His grave stone stands on the shore north of the town**, facing the water. The inscription is Longfellow's
-[The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md) — a
-traveller goes up the sands toward the town and does not come back.
-
-`[Blackacre]` The stone is on the party's road in and out, and the town calls it the
-old man's stone. Sam decides what Blackacre does at it.
+**Their grave stone stands on the shore north of the town**, where the river meets the
+sea. The town calls it the old man's stone. The inscription is Longfellow's
+[The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md).
 
 ---
 
 ## In play
 
-`[settled — 9/21]` They come into town first and reach the tree last. The word is cut
-into the plinth in the square; they pass it on the way in and again on the way back, and
-three other ways they can learn it are below.
+`[settled]` They come into town first and reach the tree last.
 
-**In town, before the hunt.** They watch the play, read the plinth, see the fountain, and
-walk through the grove.
-
-`[Sarric]` The **Pen of Comprehend Languages** is at will (see
-[Preem](../../../../characters/preem.md)). Sarric can read the whole plinth on the spot, and
-the last line comes through in plain speech except for **Emmu**, which stays
-untranslated because it is a name. He can do this in town, before the hunt starts, and
-the pen costs nothing to use.
+**In town, before the hunt.** They watch the play, read the statue base, see the
+fountain, and walk through the grove.
 
 `[Aniess]` **Timebiter** on a splinter of the oldest tree in the grove returns the
 grove's age. It is the town's age, to the decade.
@@ -272,12 +207,10 @@ grove's age. It is the town's age, to the decade.
 watched acted in the square. It has no name and takes the first one it is given, which is
 the name Preem is paying for.
 
-**On the way back through town.** Having named one themselves, they can read the last
-line on the plinth as a name. If they work it out here, they have a second name and
-nobody to stop them taking it.
+**How they learn the founder came off the tree.**
 
-**Other ways they learn it.**
-
+- **The newborn.** It says the lines from the play. The party heard them in the square
+  two days before.
 - **The dressing.** If a PC goes in as the quarry
   ([the dressing](../encounters/dressing-the-stag.md)), the party is in the room, and the
   Megabyzoi are standing along the wall not taking part. A priest who is asked why does
@@ -286,13 +219,9 @@ nobody to stop them taking it.
   questions to get it.
 - **The roll of the quarry.** The bee-priestesses' list, and the first name on it.
 
-**What changes when they have it.**
+**What changes when they know.**
 
-- They can sell Emmu to Preem for 5 gp and bind a four-thousand-year-old demon in the
-  deep city. They will not know that is what they have done until much later. The same
-  is true of the other names they sell him (see
-  [demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)).
-- The temple holds eleven more words, filed and unguarded. `[OPEN]` whether the party
-  tells Preem the temple keeps writing, and whether he sends a crew for it.
-- The party reaches the deep city later. Emmu is there. If they sold the name, Preem has
-  it, and Emmu is bound by it.
+- The temple holds eleven words, one for each grove child, filed and unguarded. They are
+  the true names of eleven demons in the temple. `[OPEN]` whether the party tells Preem
+  the temple holds the written names, and whether he sends a crew for it.
+- The party reaches the deep city later. Momotarō is there.
