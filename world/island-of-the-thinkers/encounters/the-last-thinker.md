@@ -26,8 +26,7 @@ in the party can replace a mast with magic at level 3.**
 - **Blackacre's concept is that a druid grows and repairs timber**, and it is why the
   Fleet valued him. There is no spell on a druid 3's list that does it. If Sam asks, tell
   him so. It is why they need the tree.
-- **Ash is boat timber.** Oars and spars are made of it. A shipwright would take pine or
-  spruce, which are lighter for the same strength. Ash is the only timber on the island.
+- **Ash is boat timber.** Oars and spars are made of it. Ash is the only timber on the island.
 - **Jasper is the ship's carpenter** (session 11). Given the trunk and carpenter's tools
   he can shape a spar and step it: a day's work, DC 13 with the tools. `[run]`
 - **Nothing else on the island is tall enough.** The statues are stone, and the driftwood
@@ -46,8 +45,7 @@ makes pollen. There is no female ash on the island, and no seed anywhere on it.
 
 ## The trigger `[played — session 15]`
 
-The party would not fight him for the tree
-([session 15](../../../sessions/session-15.md)). They went to the cistern for water,
+In [session 15](../../../sessions/session-15.md) the party left the tree alone. They went to the cistern for water,
 found the door in the hillside, opened it, went down and rang the bell. The fight starts
 at the top of the hill with the bell still sounding below and the beach going under, after
 he says the *Völuspá* line under **How David plays him**, below.
@@ -59,8 +57,8 @@ doing before the next session: stopping them leaving, getting aboard their boat,
 fighting because the island is ending.
 
 `[run]` **The island is sinking while the fight runs.** The ground they are fighting on is
-sinking, so decide how fast and how much hilltop is left by the last round. He still does
-not go more than 60 feet from the tree, and there is nowhere else to stand.
+sinking, so decide how fast and how much hilltop is left by the last round. He stays
+within 60 feet of the tree, and there is nowhere else to stand.
 
 **The written trigger, unused.** He offers what he has: water from the cistern, food out
 of the garden, a place to sleep, and he does not bargain over the tree. **The first axe
@@ -77,8 +75,7 @@ them and the trunk; everything else in the block runs the same whatever starts i
 - **He speaks Giant and Halfling, and no Common.** **Sarric speaks Giant** — a firbolg
   does, and in Nila the firbolgs are giant-kin
   ([lineages](../../nila/lore/lineages-and-afterlives.md)), so the conversation runs
-  through Jeremy. Blackacre may have Halfling off the Fleet; ask Sam rather than deciding
-  it for him. With no interpreter at all, he points: the garden, the cistern, the broken
+  through Jeremy. Blackacre may have Halfling off the Fleet; ask Sam. With no interpreter at all, he points: the garden, the cistern, the broken
   mast.
 
 Five lines:
@@ -99,8 +96,7 @@ And after the bell rings, with the island going down under them `[said at the ta
 
 `[DM]` **He has a second line, for his own death, and David picks it.** Five are held in
 [narration lines](../../../references/narration-lines.md) under *A death* — Job 14 on
-the felled tree, *Hávamál* 77 on the name outlasting the man, and three others. Pick one of those five
-for his death; the line above is what he says once the bell has rung.
+the felled tree, *Hávamál* 77 on the name outlasting the man, and three others. Pick one of those five.
 
 `[DM]` **The line above is two quotations spliced, and it stays as it is.** The first
 half is *Völuspá* 57 in Henry Adams Bellows's 1923 translation; the second is the flood
@@ -144,8 +140,7 @@ these are for.
 
 **The Ancestor (1/Day, action).** He makes himself **Large** for 10 minutes, gains **45
 temporary hit points**, his Speed becomes 40 ft., and he makes **two slams** a turn: +8 to hit, reach
-10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. He is the same halfling at Large
-size. **He does this in round two of every fight**, and the hit points above are set on the
+10 ft., **11 (1d12 + 5)** bludgeoning. He can still cast. **He does this in round two of every fight**, and the hit points above are set on the
 assumption that he does.
 
 **No Wild Shape.** A druid 9 has it. The Ancestor is the only shape he takes.
@@ -160,7 +155,7 @@ not both.
 - **Slam** (Large only): +8 to hit, reach 10 ft., **11 (1d12 + 5)** bludgeoning, twice a
   turn.
 - **Staff, under [*Shillelagh*][shillelagh]:** +8 to hit, reach 5 ft., **9 (1d10 + 4)**
-  force. The d10 is the cantrip's level-5 upgrade. He uses it in round one only.
+  force. The d10 is the cantrip's level-5 upgrade. He uses it before he takes the Ancestor.
 
 ## His bonus action
 
@@ -181,8 +176,7 @@ Two a round, spent at the end of another creature's turn, refreshed at the start
 - **[*Thorn Whip*][thorn-whip] (1).** Melee spell attack at 30 feet, +8, **7 (2d6)**
   piercing, and the target is pulled 10 feet toward him. `[DM]` **Forced movement sets off
   [*Spike Growth*][spike-growth]** — the spell says a creature that moves into or within
-  the area, and being dragged is moving. A target pulled this way takes the spike damage
-  without having walked in.
+  the area, and being dragged is moving.
 - **Root the ground (2).** Every creature within 10 feet of him makes a DC 16 Strength
   save or is restrained until the end of its next turn.
 
@@ -227,10 +221,6 @@ What the three bolded ones are for:
 - [***Wall of Stone***][wall-of-stone] — ten panels, ten feet by ten. Across the hilltop it
   splits the party; around the trunk it puts the tree out of reach. His one 5th-level slot.
 
-**No Stoneskin.** It needs 100 gp of diamond dust, which he has no way of having, and
-halving everything the party does would drag the fight out. The 45 temporary hit points
-cover it instead.
-
 ---
 
 # PART THREE — THE FIGHT
@@ -238,8 +228,7 @@ cover it instead.
 ## The map `[settling]`
 
 **Grandfather Tree** (`9fcef4`), in staging
-([the map inventory](../../../tts/one-world-maps-inventory.md)). Four objects, and
-`clean_ow_map prune` removed nothing from it. Its own floor image is a printed illustration with a
+([the map inventory](../../../tts/one-world-maps-inventory.md)). Four objects. Its own floor image is a printed illustration with a
 title card and labels on it, so the floor is set to **Small town's grass with the pond
 taken out** (`Mods/Images/grass_no_pond.jpg`). That file is local, so it shows on this
 machine and nowhere else until it goes up through TTS's Cloud Manager.
@@ -250,8 +239,8 @@ The rest of the hilltop is built out of props: a **tree out of Valience Farmhous
 What the fight needs on it: **about 60 feet of level ground**, the tree at the middle with
 turned soil and a cistern around its roots, the hut or the cave mouth to one side, and the
 **statues scattered where you like — small, none over three feet tall, each a different
-size.** Three or four is plenty. They are solid rock with nothing inside them; in the
-fight they give him somewhere to Step to.
+size.** Three or four is plenty. They are solid rock. In the fight they give him somewhere
+to Step to.
 
 ## Round one — what he does `[run]`
 
@@ -264,7 +253,8 @@ fight they give him somewhere to Step to.
   5 feet.
 - **Legendary: [*Thorn Whip*][thorn-whip]** on whoever is closest, twice if the first one
   misses. The 10-foot pull drags the target through the spikes: 2d4 per 5 feet.
-- **He attacks nobody in round one.** If they back off the tree here, he stops.
+- **The Thorn Whips are his only attacks in round one.** If they back off the tree here,
+  he stops.
 
 ## Round two — the Ancestor, every time
 
@@ -315,11 +305,10 @@ to *Call Lightning*. He stays within 60 feet of the tree.
   the garden are still on offer.
 - Anybody mends the tree, waters it, or puts a seed in the soil in front of him. That ends
   the fight.
-- They get him to half hit points and then stop. He stops too — nobody has landed on this
-  island in his lifetime.
+- They get him to half hit points and then stop. He stops too.
 
 **At 0 hit points** he is dying, not dead — stabilise him and he lives, and either way he
-gets his last words out. The rest of the session is unchanged: the bell, the hall, the
+gets his last words out. The rest of the session follows: the bell, the hall, the
 island going under, the dragon coming out of the water
 ([the island of the thinkers](island-of-the-thinkers.md), Under the hill).
 

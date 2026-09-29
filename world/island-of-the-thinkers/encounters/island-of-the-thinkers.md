@@ -76,8 +76,7 @@ is growing.
 > giants with their knees above your head. Along the paths inland they are the size of a
 > man, in rows, facing the way you are going. Near the center they come up to your knee.*
 
-`[run]` There is no driftwood long enough for a mast, and the statues are stone. The one
-tree is the only timber on the island.
+`[run]` The one tree is the only timber on the island long enough for a mast.
 
 ---
 
@@ -100,14 +99,12 @@ the garden. He does not give up the tree. His stat block, his lines and the figh
 
 ## The door in the hill  `[played — session 15]`
 
-The party went to the cistern for water rather than fight him for the tree, and found the
-door from there. It took work to get open — they pulled moss and dirt off the hillside.
+The party went to the cistern for water and found the door from there. It took work to get open — they pulled moss and dirt off the hillside.
 
 > *From inside, looking back, the door you opened is cut into a much larger door. Nothing
 > on the outside of the hill shows the larger one.*
 
-`[OPEN]` What the larger door is for, and what size of thing it was cut for. Not
-decided.
+`[OPEN]` What the larger door is for, and what size of thing it was cut for.
 
 ---
 
@@ -138,8 +135,7 @@ decided.
 **The hammer takes three of them to lift.** `[DM]` At the table Jasper took it alone
 ([session 15](../../../sessions/session-15.md)); it was allowed.
 
-**The stair going further down** is collapsed in this sheet and nobody took it. It is
-still on the map.
+**The stair going further down** is collapsed. It is drawn on the map but cannot be used.
 
 ---
 
@@ -154,14 +150,14 @@ stairwell.
 > *At the cave mouth the ground heaves. Statues come off the cliffs and break below.
 > Whole ridges slide into the sea.*
 
-**The beach goes under first.** This is where
-[the Last Thinker](the-last-thinker.md) fights them, on the hilltop, while the ground
+**The beach goes under first.**
+[The Last Thinker](the-last-thinker.md) fights them on the hilltop while the ground
 sinks. How fast it sinks and how much hilltop is left by the last round
 is `[OPEN]` and decided before the session.
 
 ---
 
-## What is still ahead
+## Leaving the island
 
 They row out. The hills go under. After about ten minutes one summit is left on the
 horizon, and then it is gone.

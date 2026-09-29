@@ -22,29 +22,29 @@ status: reference
 > This file is who they are in one page, plus what has happened between them and the
 > party.
 >
-> Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
+> Legend: `[loose]` · `[OPEN]` · 🔒 DM secret.
 
 ---
 
 ## Snapshot
 
-- `[settled]` **What they are.** One of [Preem](preem.md)'s name-hunting crews,
-  chartered and funded rather than hired off the street, and the first crew to
+- **What they are.** One of [Preem](preem.md)'s name-hunting crews,
+  chartered and funded by him, and the first crew to
   finish the Valley. They relay names to Preem down a paired sending stone, the
   same way the party do.
-- `[settled]` **Where the name comes from.** Setha Renk's mother died holding a
+- **Where the name comes from.** Setha Renk's mother died holding a
   claim to a council seat in Maalm. A writ is the claim. The crew is named for her
   mother's claim.
-- `[settled]` **What they are for at the table.** Each of the five took Preem's job and
+- **What they are for at the table.** Each of the five took Preem's job and
   is content with it, and each is
   paired with one PC.
   Doruk to Sarric, Issa to Aniess, Bram to Jasper, Calix to Pax, Setha to
   Blackacre. These are talking scenes.
-- `[settled]` **Preem ranks them above the party,** and Setha will
+- **Preem ranks them above the party,** and Setha will
   make sure the party know it. Preem pays most to the crews that finish first and
   miss no names; the party are on 5 gp a name
   ([rival crew plots](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md)).
-- 🔒 `[settled]` **Preem has a source inside the crew that Setha does not know
+- 🔒 **Preem has a source inside the crew that Setha does not know
   about.** Calix's toad is a quasit and it is his
   ([Preem's demons](preems-demons.md)).
 
@@ -58,9 +58,9 @@ elves-only council seat, and allied the house with Preem's cabal. One of the old
 houses had her killed to end the claim. Preem took her in and chartered her the
 crew. She wears founder-family clothing, is used to being
 obeyed, and buys rounds in front of the room. She wants Calix,
-who does not know it, and `[settled — session 14]` the two of them were children
+who does not know it, and the two of them were children
 together. She will not turn on Preem for money: she wants the seat,
-and Preem is the only way to get it. 🔒 On the Writ's tomb-three run she took the
+and Preem is the only way to get it. 🔒 In tomb three she took the
 only unsent copy of the names out through the exit and left her co-founder and the
 hired diggers to drown, then buried them off the Valley path.
 
@@ -70,7 +70,7 @@ hired diggers to drown, then buried them off the Valley path.
 A Suartleheim powderman who used the craft in the pogroms at home — burning out
 the orc quarters of the port towns, families and town-born half-orcs who had never
 raided anyone. Sukkek was one of them, and two others after it. He says so when
-asked and does not lie about it. His Church of Sunne calls the orcs sea-devils,
+asked. His Church of Sunne calls the orcs sea-devils,
 and he points back to Hjörungavágr three hundred years ago, where his own people
 destroyed the orc fleets. He does not regret it. He speaks kindly and buys the drinks.
 
@@ -78,9 +78,7 @@ destroyed the orc fleets. He does not regret it. He speaks kindly and buys the d
 — halfling, the one who goes into the tombs, Cleric 3 (Grave Domain). `↔` [Aniess](aniess.md)
 
 Cold to the touch, and her breathing is shallow. She sought out an old funerary rite of
-the dead empire's death-cult and paid for it. She was awake for it and chose it, and it
-left her
-calm: the mummies and the quiet in the tombs do not bother her. She can cast
+the dead empire's death-cult and paid for it. It left her calm: the mummies and the quiet in the tombs do not bother her. She can cast
 *Locate Object* on anything she has seen inside thirty feet, including the peseshkef.
 
 **[Bram Hale](../world/suartleheim-eet/maalm/encounters/tavern-rival-crews.md#bram-hale--human--writ-muscle-jaspers-mirror)**
@@ -100,9 +98,7 @@ private revelation and is certain she was chosen. She is
 elven aristocracy, about thirty, and by her own people's reckoning still a child
 with seventy years to go before the seat Setha is fighting for is even open to
 her. She tells Setha to stop hurrying. 🔒 The voice she takes
-for God is the toad's telepathy. The toad is Preem's quasit. She is not a knowing informant.
-
-`[settled 9/1]` **Calix is a woman.** The miniature is a woman, so she is.
+for God is the toad's telepathy. The toad is Preem's quasit.
 
 ## Numbers
 
@@ -121,7 +117,7 @@ The toad has 7 hit points and AC 13.
 
 ## How they travel
 
-They do not crew a boat. They are desert aristocrats with money, so they buy
+They are desert aristocrats with money, so they buy
 passage, and they travel with the established traders on the quickest routes,
 which is part of why they finished the Valley first. They do not go to Kalikhat,
 Jotunheim or the orc-held interior of
@@ -149,8 +145,8 @@ PC by PC:
   money he said she pays well for services rendered and is not in it for the
   money, which is true. He asked Sarric whether he works for Preem; Sarric said no
   and Doruk dropped it. Sarric asked whether he was going to the temple for the
-  killing and he said no, he is on a mission he cannot talk about. `[settled]`
-  That mission is Preem's name contract. There is no second job.
+  killing and he said no, he is on a mission he cannot talk about.
+  That mission is Preem's name contract.
 - **Sarric and Setha.** He gave her dirty looks all evening because she is rich. They did not speak.
 - **Aniess and Setha.** Aniess rolled a natural 20 investigating her and read
   three things off her: she wears the clothing of a founding family of Maalm, she
@@ -180,17 +176,16 @@ PC by PC:
   ([the fight](../world/suartleheim-eet/raand-copaa/encounters/the-run-to-copaa.md#the-fight--doruk-and-mogg-run)).
 
 `[played]` **Session 14 — Aniess and Setha, the night before the Writ sailed.** A
-side session with Greg only. The two had already named each other as Preem's the
-evening before, so this is a second conversation between two of his crews.
+side session with Greg only.
 **Setha gave Aniess her own history**: her mother's claim and the seat, her
 childhood with Calix, that she means to be a great adventurer first and take the
 seat after, and what Preem has given her. The notes do not record Aniess telling
-her anything about herself. Setha sailed within the hour of it. Out of the same
-session, Aniess settled that she will take the peseshkef at Brauron rather than at
-Aar ([session 14](../sessions/session-14.md)).
+her anything about herself. Setha sailed within an hour of the talk. Out of the same
+session, Aniess decided she will take the peseshkef at Brauron
+([session 14](../sessions/session-14.md)).
 
 `[played]` **Session 15 — they sailed with it.** The party left Aar without going
-for the peseshkef. The bath house, the gallery and the belt were all left alone,
+for the peseshkef,
 **the Writ sailed north at first light with the knife**, and
 [Beartholomew](beartholomew.md)'s request is unanswered
 ([session 15](../sessions/session-15.md)).
@@ -215,17 +210,16 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
 
 ## Not yet run
 
-- **The missing-names handoff.** The Writ hold the complete Valley ledger,
+- **The Writ give the party the missing names.** The Writ hold the complete Valley ledger,
   including everything the party left on the walls, and a name costs them nothing
-  to give away ([the ledger](../handouts/the-lapis-writ-ledger.md)). It was written
-  for the tavern scene in Maalm, which became Aar, and it did not happen there. It
-  is still available whenever the two crews meet again. Every name they hand over
+  to give away ([the ledger](../handouts/the-lapis-writ-ledger.md)). It
+  can be run whenever the two crews meet again. Every name they hand over
   is another name the party relay to Preem.
 - **Setha tells the party what she was paid.** She was paid many times what they were,
-  for finishing first and missing nothing. It is where the party learn Preem pays
+  for finishing first and missing nothing. This is how the party learn Preem pays
   his crews at different rates
   ([rival crew plots](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md)).
-- **The Sacred Hunt.** `[settled — Will 9/21]` **Setha goes into the preserve for the
+- **The Sacred Hunt.** **Setha goes into the preserve for the
   hell-tree.** She wants a name off a newborn to sell to Preem, the same thing the party
   were sent for, so she is out in the preserve while they are being run down and she may
   be at the tree when they reach it. `[OPEN]` whether she joins a fight she comes across
@@ -234,9 +228,8 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
   Calix rides with them. The party cannot afford it and go in as quarry, with Pax
   run as the stag
   ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).
-- **The theft, moved to Brauron.** The Aar scenes — the bath house, the gallery,
-  the guest house — will not be run. **Aniess is running the theft at the Sacred
-  Hunt**, where the Writ are going and the party now are. What carries over is the
+- **The theft at Brauron.** **Aniess is running the theft at the Sacred
+  Hunt**, where the Writ are going and the party now are. It uses the
   five of them, their hit points and AC, Issa's *Locate Object* on the knife,
   Calix's Portent, and the toad
   ([the godstone dagger](../world/suartleheim-eet/raand-copaa/encounters/the-godstone-dagger.md)).
@@ -268,7 +261,7 @@ for the peseshkef. The bath house, the gallery and the belt were all left alone,
   waved at the party
   ([the game preserve](../world/suartleheim-eet/brauron/encounters/the-game-preserve.md)).
 - `[OPEN]` **What Setha wanted** out of the long talk with Aniess in
-  [session 14](../sessions/session-14.md). She sailed within the hour of it.
+  [session 14](../sessions/session-14.md). She sailed within an hour of the talk.
 - `[OPEN]` **Whether Beartholomew knows the plan changed.** He asked for the knife
   at Aar and it is at Brauron now.
 
