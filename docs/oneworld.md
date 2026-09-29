@@ -97,20 +97,45 @@ Both `tts/lua/TS_Save_18/55c90c.lua` (Nila) and
 `aBag.Description` (format `_OW_aBaG_<guid>`):
 `local homeGuid = string.sub(aBag.getDescription(), 10)`.
 
-A fifth edit is in the mBag script, in **staging and temp (`TS_Save_24`)** only
-so far (`tts/lua/TS_Save_19/c30535.lua`, 9/23): objects tagged **`noPack`** stay on
-the table through Build, Clear and switching maps. Upstream reads the tag only
-in the Hub's Pack-button zone scan; Clear and switch act only on the GUID list `ss`
-recorded at Build, and upstream does not check the tag there. `UnderPack` now leaves `noPack` objects out
-of `ss`, and `DoClear`/`DoPack` skip them through `PackTarget`. The PC minis
-(Blackacre, Sarric, Jasper, Aniess, Pax Verdant) carry the tag, and the old PC
-copies were taken out of the Wizards_Tower map bag and its SBx manifest so a
-Build does not spawn duplicates. Copy this edit to Nila (`TS_Save_18`) after it has been tested in staging.
+A fifth edit is in the mBag script (`tts/lua/TS_Save_19/c30535.lua`, 9/23):
+objects tagged **`noPack`** stay on the table through Build, Clear and switching
+maps. Upstream reads the tag only in the Hub's Pack-button zone scan; Clear and
+switch act only on the GUID list `ss` recorded at Build, and upstream does not
+check the tag there. `UnderPack` now leaves `noPack` objects out of `ss`, and
+`DoClear`/`DoPack` skip them through `PackTarget`. The old PC copies were taken
+out of the Wizards_Tower map bag and its SBx manifest so a Build does not spawn
+duplicates. Copy this edit to Nila (`TS_Save_18`) after it has been tested in
+staging.
+
+### The script edit and the tag both have to be in the save
+
+**Tag each mini. Without the tag, the script edit does not keep a mini on the
+table.** Temp (`TS_Save_24`) was recorded on 9/23 as carrying the mBag edit. On
+9/29 it did not carry it: its Hub had `shouldPackItem`, its mBag was upstream — no
+`PackTarget`, no guard in `UnderPack` — and every PC mini carried an empty `Tags`
+array. Check the save rather than the note; a `grep` for `PackTarget` in the mBag
+script and for `noPack` in the minis' `Tags` shows whether both are present.
+
+**Clear reads the `ss` list and Pack scans the map zone, so Clear leaves an
+untagged mini alone and Pack takes it.** A mini placed by hand was never in `ss`,
+so Clear does not destroy it. The Hub's Pack button acts on every object in the
+zone, so Pack puts the mini in the map bag. A later Build re-spawns it through
+`UnderPack`, which writes it into `ss`, and the next Clear destroys it. The 9/29
+report describes this: the minis were left alone by Clear, were packed, and were
+destroyed by the next Clear.
+
+**A mini that is already inside a map bag stays there until it is taken out.**
+Tagging it does not lift it out, and on the next Build of that map it spawns and
+skips `ss`, after which no Clear or Pack will remove it. Each Build adds another
+copy to the table. Take those copies out of the OWx bag and its SBx manifest, as
+the Wizards_Tower copies were taken out.
 
 If a future task asks to update the Hub Lua, edit the per-save file
 directly. The two save forks are kept in sync by copying staging → Nila
 after verification. **Don't re-derive a "clean" Hub from upstream** —
-you'll lose these four fixes.
+you'll lose the four Hub edits above. The mBag edit lives in a different
+object and is not lost to a Hub re-derive, but it goes the same way if the
+mBag script is replaced from upstream.
 
 ## Importing a new OW map
 
