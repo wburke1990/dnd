@@ -97,26 +97,21 @@ For the binding rule itself — Planar Binding plus a true name, no save — see
 name is gotten in the first place. The art of taking a
 name and binding by it is **recent** — the Second Foundation's own invention (the
 working figure is ~1,850 years, though the timing is still loose);
-through the long alliance before that the demon-people were partners, not
-property.
+through the long alliance before that the demon-people were partners.
 
-A personal demon's true name cannot be read off it or overheard — a living demon
-that guards its name gives nothing away. There are only **two ways to come by
-one.** The first is to **find it already written:** lifted from the funerary
+There are **two ways to learn a personal demon's true name.** The first is to **find it already written:** lifted from the funerary
 texts of the old empires — the covenant names the keepers of the dead's road
-gave the line-gods as sureties, handed down through the gods' death-rites, the
-one kind of place a demon's true name was ever set down (below). The second is
+gave the line-gods as sureties, handed down through the gods' death-rites. Funerary texts are the only place demons' true names were
+written down (below). The second is
 to **get it from the demon itself:** beat the demon until it is about to die for good
- and have it surrender its name for its life — for a demon, true death is
-final, no return. Either way, once someone
-has a name it can be copied and handed on and **never recalled;** a bound demon's only
+and have it surrender its name for its life. Either way, once someone
+has a name it can be copied and handed on, and the demon stays bound by every copy. A bound demon's only
 escape is to change its own name, which destroys it (see
 [Manizheh](../../../characters/manizheh.md)).
 
-Both ways work on a demon that already has a name to keep. A demon that has not got
-one yet takes the first word it is called and keeps that. The demons that come out of
-[the hell-tree](../../suartleheim-eet/brauron/encounters/the-hell-tree.md) have no names yet,
-and whoever speaks first to one gives it its true name. Brauron's founder got its name that way, and nobody wrote the word down
+Both ways work on a demon that already has a name to keep. The demons that come out of
+[the hell-tree](../../suartleheim-eet/brauron/encounters/the-hell-tree.md) take as their true
+name the first word anyone speaks to them. Brauron's founder got its name that way
 ([the founding](../../suartleheim-eet/brauron/lore/the-founding-of-brauron.md)).
 
 ### Where the names come from — and why the party hunts them

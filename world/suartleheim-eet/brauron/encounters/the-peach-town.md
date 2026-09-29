@@ -12,7 +12,7 @@ status: draft
 ---
 
 # PART ONE — BACKGROUND
-*Read in prep. Not needed at the table.*
+*Read in prep.*
 
 ---
 
@@ -67,7 +67,7 @@ asks.)
 - The **Attis paintings** — how many panels, and where they hang in the temple. They show
   Momotarō's death at the hunt, told as Attis
   ([the founding](../lore/the-founding-of-brauron.md)).
-- **The eleven words** — one given to each child born out of the grove, written down and
+- **The eleven names** — one given to each child born out of the grove, written down and
   kept on file with the record of how many peaches have split — and whether the party
   ever sees the file.
 
@@ -129,7 +129,7 @@ with a tiny girl inside.
 ## Read aloud — the temple of Artemis
 
 > *The temple is dim and cool. The women who keep it are veiled and still; among them
-> stand a few men with smooth faces and no beards. On the walls, in paint, a young man is
+> stand a few men with smooth faces. On the walls, in paint, a young man is
 > gored by a boar, figures stand over his body, and a tree grows where his blood falls.*
 
 **Two priesthoods keep the temple, modelled on those at Ephesus.** The **bee-priestesses (the
@@ -152,19 +152,6 @@ account of the tree when they come back, and he will answer questions to get it.
 
 ---
 
-## Read aloud — the stone on the shore
-
-> *North of the town, where the peach trees stop and the river meets the sea, a worn
-> stone stands facing the water with writing on the seaward face. The town calls it the
-> old man's stone.*
-
-It is the grave of the old gnome couple who found Momotarō
-([the founding](../lore/the-founding-of-brauron.md#the-old-couples-grave)). The
-inscription is Longfellow's
-[The Tide Rises, the Tide Falls](../../../../handouts/the-tide-rises-the-tide-falls.md).
-
----
-
 ## The hunt starts here — dressing the quarry as the stag
 
 The cult runs the sacred hunt out in the wild — two hunts, one for beasts and one for a
@@ -174,7 +161,7 @@ the girls are her **bears**, the quarry is her **stag** (antlers and a deer-hide
 the hunters are her **hounds** (hound-pelts).
 
 A party that goes in as the quarry signs on here. The priestess who takes the name first asks
-**where to send the money.** Most quarry do not come back. (The man-hunt is a sacrifice to Artemis run as a hunt: at Aulis a deer was
+**where to send the money.** Most quarry die in the hunt. (The man-hunt is a sacrifice to Artemis run as a hunt: at Aulis a deer was
 swapped for Iphigenia at the altar; here the quarry wears the antlers and hide.)
 
 **The rite in full is [the dressing](dressing-the-stag.md)** — the sign-up, the water,

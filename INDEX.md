@@ -385,7 +385,7 @@ Sailing, weather, fleets and what lives in the water.
 | [the ruin](handouts/the-ruin.md) | `reference` | Old English "The Ruin," trans. Fahey — a lay over the giants' abandoned halls in Weet |
 | [the second coming](handouts/the-second-coming.md) | `reference` | Yeats, "The Second Coming" — cut into Musa's watch-stone; incantation for a portent spell |
 | [the three citrons](handouts/the-three-citrons.md) | `reference` | Basile, "The Three Citrons," trans. Burton — a maiden bursts from a cut citron |
-| [the tide rises the tide falls](handouts/the-tide-rises-the-tide-falls.md) | `reference` | Longfellow, "The Tide Rises, the Tide Falls" — on the old couple's grave at Brauron |
+| [the tide rises the tide falls](handouts/the-tide-rises-the-tide-falls.md) | `reference` | Longfellow, "The Tide Rises, the Tide Falls" — grave inscription, placement open |
 | [the tree of zaqqum](handouts/the-tree-of-zaqqum.md) | `reference` | The Qur'an on Zaqqum, the tree that grows in Hell — Arberry and Sahih translations |
 | [the twa sisters](handouts/the-twa-sisters.md) | `reference` | The Twa Sisters (Child 10) — a harp strung from a drowned girl's bones names her killer |
 | [the tyger](handouts/the-tyger.md) | `reference` | Blake, "The Tyger" — for a Rakshasa temple in Jotunheim or northeastern Muspelheim |

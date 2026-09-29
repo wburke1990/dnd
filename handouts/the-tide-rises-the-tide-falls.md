@@ -1,11 +1,11 @@
 ---
-summary: Longfellow, "The Tide Rises, the Tide Falls" — on the old couple's grave at Brauron
+summary: Longfellow, "The Tide Rises, the Tide Falls" — grave inscription, placement open
 status: reference
 ---
 
 # The Tide Rises, the Tide Falls (Player Handout)
 
-*The inscription on the grave of the old gnome couple who found Momotarō and founded [Brauron](../world/suartleheim-eet/brauron/lore/the-founding-of-brauron.md). The stone stands on the shore north of the town, where the river meets the sea. Other sea poems in handouts: [Requiem](requiem.md), [Crossing the Bar](crossing-the-bar.md). Verbatim, line breaks preserved.*
+*A candidate grave inscription or handout. Placement open. Other sea poems in handouts: [Requiem](requiem.md), [Crossing the Bar](crossing-the-bar.md). Verbatim, line breaks preserved.*
 
 *Real-world source: Henry Wadsworth Longfellow (1807–1882), "The Tide Rises, the Tide Falls" (from* Ultima Thule*, 1880).*
 

@@ -262,6 +262,11 @@ Concretely, do not write:
     what is there and what happens. (The linter's `gnomic-passive` rule
     catches the "there to be X" form; the rest need the eye. Cut 7/28, when
     a whole doc came out "almost unreadable" this way.)
+14. **Negative statements.** Don't tell the reader what isn't there, what
+    didn't happen, or what nobody knows — "nobody wrote it down", "that
+    word is lost", "it has not come back", "they take no part". State what
+    is there and what happens. If the only content of a sentence is an
+    absence, cut it. `[Will, 9/29]`
 
 This governs both new writing and edits to existing files. When cleaning
 up old text, prefer the plainer rewrite over deleting content outright.
