@@ -25,6 +25,7 @@
       "Bash(grep:*)",
       "Bash(/usr/bin/grep:*)",
       "Bash(rg:*)",
+      "Bash(/opt/homebrew/bin/rg:*)",
       "Bash(find:*)",
       "Bash(/usr/bin/find:*)",
       "Bash(find * -exec ls *)",
