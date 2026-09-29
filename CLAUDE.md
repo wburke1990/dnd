@@ -339,7 +339,12 @@ blocks on mobile. Investigate the actual flag/quoting issue instead, or
 add the absolute-path variant to `.claude/settings.json` explicitly.
 
 **Search with `rg`, never `find … -exec`.** To search file *contents*,
-use `rg` (ripgrep) — it's allowlisted and prompt-free. `find … -exec`,
+use `rg` (ripgrep) — it's allowlisted and prompt-free. **It needs
+`brew install ripgrep`**: `rg` is a shell function that falls through to a
+real binary, and on a machine without one it exits 127 with
+`command not found: rg`. That was the state on 9/29, and a scan run with
+stderr redirected to `/dev/null` printed nothing and read as "no matches"
+— so don't suppress stderr on a search whose emptiness you plan to trust. `find … -exec`,
 escaped grouping `\( … \)`, and the `\;` terminator are constructs the
 permission analyzer can't statically vet (same bucket as heredocs), so
 they prompt *regardless* of any allowlist entry — which hangs a mobile
