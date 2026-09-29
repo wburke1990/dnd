@@ -31,9 +31,9 @@ an old gnome couple, who gave him water and raised him
 statue stands in the square, and the gnomes act the stories of children born from fruit
 out in the streets.
 
-`[name]` Brauron `[settled]` — the real Artemis sanctuary where girls served as bears,
-the rite the town keeps. The name is Greek, not Norse: the Norse map-names (Raand, Aar,
-Suartleheim) came with the Muspel empire, and this town predates it. Lonka and Kalikhat also keep older
+`[name]` Brauron — the real Artemis sanctuary where girls served as bears, the rite the
+town keeps. The name is Greek. The Norse map-names (Raand, Aar, Suartleheim) came with
+the Muspel empire, and this town is older. Lonka and Kalikhat also keep older
 names. The cult is **the cult of Artemis**.
 
 ---
@@ -41,8 +41,7 @@ names. The cult is **the cult of Artemis**.
 ## The people
 
 Gnome artisans and performers, descended from dragons, as in [Raand](../../../nila/lore/nila-atlas.md).
-They carve, build, and act. A child born from a fruit is their holy story. The peach
-grove, the statue, the fountain and the plays all show it.
+They carve, build, and act. A child born from a fruit is their holy story.
 
 ---
 
@@ -51,7 +50,7 @@ grove, the statue, the fountain and the plays all show it.
 `[DM background]` The Megabyzoi are real: Artemis's priests at Ephesus were castrated,
 in the manner of the **Galli**, the priests of Cybele and Attis, who castrated themselves. Attis
 castrates himself under the pine and dies.
-The eunuch priests keep the Attis story; the bee-priestesses do not. (For when a player
+The eunuch priests keep the Attis story. (For when a player
 asks.)
 
 ---
@@ -65,10 +64,9 @@ asks.)
 
 ## What still needs building
 
-- The **Attis paintings** — how the mystery is laid out in the temple. What they show is
-  settled: Momotarō's death at the hunt, told as Attis
-  ([the founding](../lore/the-founding-of-brauron.md)). How many panels and where they
-  hang is not.
+- The **Attis paintings** — how many panels, and where they hang in the temple. They show
+  Momotarō's death at the hunt, told as Attis
+  ([the founding](../lore/the-founding-of-brauron.md)).
 - **The eleven words** — one given to each child born out of the grove, written down and
   kept on file with the record of how many peaches have split — and whether the party
   ever sees the file.
@@ -176,8 +174,7 @@ the girls are her **bears**, the quarry is her **stag** (antlers and a deer-hide
 the hunters are her **hounds** (hound-pelts).
 
 A party that goes in as the quarry signs on here. The priestess who takes the name first asks
-**where to send the money.** The quarry is not expected to come back. The party gives an
-address. (The man-hunt is a sacrifice to Artemis run as a hunt: at Aulis a deer was
+**where to send the money.** Most quarry do not come back. (The man-hunt is a sacrifice to Artemis run as a hunt: at Aulis a deer was
 swapped for Iphigenia at the altar; here the quarry wears the antlers and hide.)
 
 **The rite in full is [the dressing](dressing-the-stag.md)** — the sign-up, the water,

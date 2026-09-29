@@ -18,15 +18,15 @@ status: draft
 
 > The middle of the Brauron quest — the poison deadland between the town and
 > [the hell-tree](the-hell-tree.md). The party gets in through the hunt, then leaves
-> it and crosses to the tree alone. Read [the hell-tree](the-hell-tree.md) first; the
+> it and crosses to the tree. Read [the hell-tree](the-hell-tree.md) first; the
 > town is [Brauron](the-peach-town.md).
 
 The land past Brauron is poison. No one lives further inland than
 [Brauron](the-peach-town.md). Out in that
 wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** once a year,
-and [the hell-tree](the-hell-tree.md) stands in the middle of the hunting ground. No
-hunter goes to it. The party joins the hunt to get past the wall, then breaks off
-and crosses to the tree alone.
+and [the hell-tree](the-hell-tree.md) stands in the middle of the hunting ground. The
+party joins the hunt to get past the wall, then breaks off
+and crosses to the tree.
 
 Source for the approach: *Heart of Darkness*.
 
@@ -35,7 +35,7 @@ Source for the approach: *Heart of Darkness*.
 The [cult of Artemis](the-peach-town.md) runs it out in the wild, once a year, and it
 runs **seven days** — the quarry out through the gate an hour before noon on day one, the
 hounds loosed at noon behind them, the horn at sundown on day seven. The tree is one day
-out, so they have most of the seven days once they are through the gate. The full shape of it is in
+out, so they have most of the seven days once they are through the gate. The full sequence is in
 [the dressing](dressing-the-stag.md). Two hunts:
 
 - **The beast-hunt (the Calydonian boar).** The cult brings a boar to the gate in a
@@ -44,25 +44,24 @@ out, so they have most of the seven days once they are through the gate. The ful
 - **The man-hunt (Actaeon).** A person is marked as the stag and run down. The quarry
   is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
 
-**Both go out the same gate on the same morning and are hunted in the same ground.** So
-the boar is loose wherever the party are walking. It is not hunting them. The riders
-following it cross the same ground.
+**Both go out the same gate on the same morning and are hunted in the same ground.** The
+boar is loose in the ground the party cross, and the riders after it cross it too.
 
 ## The hounds, and the chase `[proposed — Will 9/21]`
 
 The hunters ride **great hounds** and wear **hound-pelts**. The hounds are big enough for
-a gnome to ride, and the pack running loose alongside is the same animal.
+a gnome to ride.
 
-**Great hound.** Large beast, **Speed 50 ft.**, keen smell, and a Small rider up.
+**Great hound.** Large beast, **Speed 50 ft.**, keen smell, and carries a Small or Medium rider.
 `[for David]` the block — a dire wolf or a worg is the right size and speed to start from.
 
 **They have the quarry's smell before the quarry leaves.** Each hound is walked up to the
 altar and smells the deer-hide and the hands
-([the dressing](dressing-the-stag.md), step 7). The pursuit uses no tracking checks.
-Breaking line of sight does not lose the hounds, and neither does a night's gap.
+([the dressing](dressing-the-stag.md), step 7). The hounds follow it without tracking
+checks, out of sight of the quarry and across a night's gap.
 
-`[settled — Will 9/21]` **Nothing inside the wall washes it off.** It would take a long
-scrub in clean water, and every water inside the wall is poison — which is what the
+Washing the smell off takes a long scrub in clean water, and all the water inside the wall
+is poison — which is what the
 priestess means by *"Bad water."* A quarry who gets in it to break the scent is drinking
 and breathing the poison.
 
@@ -72,26 +71,24 @@ gate an hour before noon with Longstrider on them (Speed 40, so a fast pace is a
 
 **How long the head start lasts.** A mount gallops for about an hour at double pace, and a great
 hound at Speed 50 makes about 6.5 mph at a fast pace, so 13 at a gallop. The party are
-back to Speed 30 by then, because Longstrider ran out as the horn went.
+back to Speed 30 by then, because Longstrider ran out at noon.
 
 | The riders | They arrive |
 |---|---|
-| **Galloping from the horn** | **About half an hour after noon**, six or seven miles out from the gate. |
+| **Galloping from noon** | **About half an hour after noon**, six or seven miles out from the gate. |
 | At a steady fast pace | About two hours after noon. |
 
-**So the earliest the party can be caught is around half past noon on day one**, six or
+**The earliest the party can be caught is around half past noon on day one**, six or
 seven miles from the gate. If the quarry walked their hour instead of running it, take ten
 minutes off. Pick which of the two the riders do.
 
-**Every hound has a rider.** There is no loose pack. The hounds are mounts.
+**Every hound has a rider.**
 
 ## The fight: mounted hunters against the party `[proposed — Will 9/21]`
 
-**A hunting party of Maalm aristocrats on great hounds, against the party on foot.** Not
-the [Lapis Writ](../../../../characters/the-lapis-writ.md) — they are one paying crew
-among many and Setha is off to the tree (below). These are the other aristocrats who
-chartered the transport, and there are several such parties spread across the preserve.
-**The party meet one hunting party at a time, not every rider in the preserve.**
+**A hunting party of Maalm aristocrats on great hounds, against the party on foot.** They
+are the aristocrats who chartered the transport, and there are several such parties
+spread across the preserve. **The party meet one hunting party at a time.**
 
 ### Maalm hunter
 
@@ -115,20 +112,18 @@ chartered the transport, and there are several such parties spread across the pr
 lance on the same turn, the target takes an extra **7 (2d6)** piercing and makes a
 **DC 13 Strength save or is knocked prone.**
 
-**Lance.** +4 to hit, reach 10 ft., **8 (1d12 + 2)** piercing. `[settled — Will 9/21]`
-**They carry lances.** Disadvantage against anything within 5 feet, and two hands to use
+**Lance.** +4 to hit, reach 10 ft., **8 (1d12 + 2)** piercing. Disadvantage against anything within 5 feet, and two hands to use
 on foot — so a dismounted hunter either drops the shield or drops the lance.
 
 **Hunting sword.** +4 to hit, reach 5 ft., **6 (1d8 + 2)** slashing.
 
-**The hound under them.** AC 14, 37 hit points, Speed 50 ft. It takes no actions of its
-own while it is ridden (below). It can be attacked, but it does not attack.
+**The hound under them.** AC 14, 37 hit points, Speed 50 ft. While ridden it takes only
+Dash, Disengage or Dodge (below).
 
 ### How many ride in, and what level the party should be
 
-`[settled — Will 9/21]` **The party come into the preserve at level 4.** At level 3 every
-size of hunting party is past the deadly threshold before the beasts and the poison are
-counted, and the crossing becomes several fights instead of one.
+**The party come into the preserve at level 4.** At level 3 every size of hunting party
+is past the deadly threshold before the beasts and the poison are counted.
 
 | Five characters at | Hard | Deadly | Adventuring day |
 |---|---|---|---|
@@ -144,20 +139,17 @@ Hunters at CR 2, adjusted by the group multiplier for a party of five or more:
 | **Five hunters** | 3,375 | Past deadly | Past deadly |
 
 **Four for the first fight**, and three for the ones after it. The fight ends with the
-party breaking off; the hunters are not meant to die, and the chase rules below are how
-the party get away.
+party breaking off, using the chase rules below.
 
-**Level 4 also gives an ASI or a feat, and Sentinel matters here.** It sets a creature's
-speed to 0 when you hit it with an opportunity attack, so a rider cannot get out of reach
-as they ride away. If a character takes it, the hunters have to stay and fight instead of
-riding out each turn.
+**Level 4 also gives an ASI or a feat.** Sentinel sets a creature's speed to 0 when you
+hit it with an opportunity attack, so a rider hit by one stays in reach.
 
 ### Resting
 
-`[proposed — Will 9/21]` The day's budget is 8,500 XP and four hunters spend 1,800 of it,
-so the arithmetic says the party can take four or five fights in a day. **Spell slots run
-out before the XP budget does**, and the hounds follow the scent, so the party cannot
-break off and rest during the day.
+`[proposed — Will 9/21]` The day's budget is 8,500 XP and four hunters spend 2,700 of it
+(1,800 before the group multiplier), so the party can take about three fights in a day. **Spell slots run
+out before the XP budget does**, and the hounds follow the scent, so the party get no
+rest during the day.
 
 **The hunters camp at night.** It is a seven-day sport hunt. They stop at dark and start
 again at first light. That is the party's long rest, and it is the only one they get. A
@@ -172,7 +164,7 @@ party that fights all afternoon reaches dark with no spell slots.
 | | |
 |---|---|
 | **Mounting or dismounting** | Once during your move, on a creature within 5 feet. It costs movement equal to **half your speed** — 15 feet for a Speed 30 character. |
-| **A controlled mount** | Its **initiative changes to match the rider's** and it moves as directed. It can take only **Dash, Disengage or Dodge** — it does not attack. |
+| **A controlled mount** | Its **initiative changes to match the rider's** and it moves as directed. It can take only **Dash, Disengage or Dodge**. |
 | **An independent mount** | Keeps its own initiative and can take any action, including attacking. |
 | **Rider knocked prone** | DC 10 Dexterity save or fall off, landing prone within 5 feet of the mount. |
 | **The mount moved against its will** | Same save, same result. |
@@ -181,62 +173,60 @@ party that fights all afternoon reaches dark with no spell slots.
 
 ### How the mounts are run
 
-**The hounds are controlled mounts.** Four riders act, not eight. **A hound whose rider
+**The hounds are controlled mounts** and act on their riders' turns. **A hound whose rider
 is killed goes independent on the next round** and fights on its own initiative.
 
 **The mounts give the hunters speed.** On the rider's turn the hound can Dash — Speed 50,
 so up to 100 feet — while the rider attacks, and it can Disengage instead to ride out
 without an opportunity attack. The riders ride in, attack with the lance, and ride out of
-reach. A party member moving 30 feet cannot reach a rider who has ridden off.
+reach.
 
-`[proposed]` **The grass is difficult terrain for the party and not for the hounds.** It
-is waist-high and the animals are bred for this ground.
+`[proposed]` **The grass is difficult terrain for the party.** It is waist-high. The
+hounds are bred for this ground and cross it at full speed.
 
 ### What works against them
 
 - **Restrain the mount.** [*Entangle*](https://dnd2024.wikidot.com/spell:entangle) is a
   druid 1st-level spell, a 20-foot square, Strength save or restrained — and a restrained
-  hound does not move, so the rider stays in reach.
+  hound's speed is 0, so the rider stays in reach.
 - **[*Spike Growth*](https://dnd2024.wikidot.com/spell:spike-growth)** is 2d4 for every
   5 feet moved through it. Against a hound Dashing 100 feet a turn, that is 2d4 for every
   5 feet it covers inside the area, and Blackacre has the slots for it at druid 3
   ([Blackacre](../../../../characters/blackacre.md)).
 - **Move the mount.** Anything that shoves or drags the hound forces the DC 10 save and
   can knock the rider prone within 5 feet of it.
-- **Kill the hound instead of the rider.** 37 hit points and AC 14, and it drops the
+- **Kill the hound.** 37 hit points and AC 14, and it drops the
   rider prone unless they spend a reaction. A hunter on foot is in the difficult terrain
   too, and has to choose between the shield and the lance.
 - **Ready an action.** Against a rider who attacks and rides out of reach, readied attacks
   are worth more than chasing.
 
-**Closing is worth it.** A lance has disadvantage against anything within 5 feet, so a
-character who gets inside the reach is harder to hit than one standing off at ten.
+A lance has disadvantage against anything within 5 feet, so a character inside its reach
+is harder to hit.
 
 ## Both hunts are kills
 
 **The hunters are hunting to kill.** The boar is run down and killed. So is the person in
 the antlers. Actaeon is the model and the temple reads it out over the quarry at the
 dressing — the hounds pull the stag down and tear it apart
-([the dressing](dressing-the-stag.md), step 7). The temple pays out to a named address
-either way.
+([the dressing](dressing-the-stag.md), step 7). The temple pays each quarry's share to the
+address they gave, whether they live or not.
 
-**So the quarry survives only by standing at the gate at sundown on day seven**, or by
+**The quarry survive by standing at the gate at sundown on day seven**, or by
 bringing a live antlered deer to it, which opens the gate early and puts the deer on the
 altar in their place — one deer for each quarry
-([the dressing](dressing-the-stag.md)). A quarry cannot surrender, and the hunt does not
-stop for them.
+([the dressing](dressing-the-stag.md)). A quarry cannot surrender.
 
 **The rack is the trophy.** Worn, it is taller than the grass, and every rider in the
 preserve is looking for it. The hunter who makes the kill cuts it off the body and it is
-hung in the temple. A quarry who takes it off themselves has nothing to show at the gate
-and the gate does not open for them ([the dressing](dressing-the-stag.md)).
+hung in the temple. The gate opens only for a quarry wearing the rack
+([the dressing](dressing-the-stag.md)).
 
 ## The tree is inside the wall
 
-**The tree stands inside the wall, one day from the gate.** No hunter goes to it to hunt
-— there is no game there and the ground is the goddess's under the name Hecate
-([the founding](../lore/the-founding-of-brauron.md)) — but a rider running a quarry down
-follows the quarry. **If the party are caught at the tree, the fight happens there**, with
+**The tree stands inside the wall, one day from the gate.** The ground is the goddess's under the name Hecate
+([the founding](../lore/the-founding-of-brauron.md)). A rider running a quarry down
+follows them to it. **If the party are caught at the tree, the fight happens there**, with
 the Manes and Dretch that are already in the branches and the roots
 ([the hell-tree](the-hell-tree.md)).
 
@@ -259,33 +249,31 @@ hounds' 50** — unless **Blackacre keeps it up.** Longstrider is a druid 1st-le
 he can put one character back to 40 for an hour a slot
 ([Blackacre](../../../../characters/blackacre.md)).
 
-Nobody outruns the pack. The party can break line of sight, fight the riders off, or use
-the terrain.
+The party get away by fighting the riders off or using the terrain.
 
 `[run]` **Run the breaking-off as a chase** (*DMG* chase rules): a creature can Dash a number
 of times equal to 3 + its Constitution modifier before it starts making DC 10 Constitution
 saves or taking exhaustion, and the grass, the gullies, the boar and the poisoned animals
 are the complications.
 
-`[OPEN]` **Who is riding at them.** The Lapis Writ paid to be here and Calix rides with
-the hunters (below). Whether the crew that drank with the party at the Tally House is the
-crew that runs them down is not settled. The option is to use the same crew. **Setha is
-out there but headed for the tree** rather than riding with the other hunters.
+`[OPEN]` **Who is riding at them** — whether the crew that drank with the party at the
+Tally House is the crew that runs them down. The Lapis Writ paid to be here and Calix
+rides with the hunters (below). **Setha is headed for the tree.**
 
 ## The rival crews at the hunt `[S10]`
 
-The hunt is the **only annual way into the preserve**, so every one of Preem's
+The hunt is the **only way through the gate**, so every one of Preem's
 [rival crews](../../maalm/encounters/tavern-rival-crews.md) that can get there does
 ([overview §3.C](../../../nila/lore/campaign-overview.md)).
 
 - **The [Lapis Writ](../../maalm/encounters/tavern-rival-crews.md) come as paying hunters.** Maalm
   aristocrats descended from the founders, of the same class as the "wealthy Maalm hunters"
   who chartered the transport out of Maalm; they bought berths north out of Aar and paid
-  the 5,000 gp at the temple. `[settled]` **Setha Renk's crew
-  is the only one with the 5,000 gp.** Every other crew got in some other way.
+  the 5,000 gp at the temple. **Setha Renk's crew
+  is the only one with the 5,000 gp.**
 - **The party come as the quarry** — the one entry they can afford (put a name down as the
   stag, below) — or they slip in. Calix rides with the hunters; **Pax is run as the stag** in the Actaeon man-hunt.
-- `[settled — Will 9/21]` **Setha Renk is going to the tree herself.** She is out in the
+- **Setha Renk is going to the tree herself.** She is out in the
   preserve for the same thing the party are — a name off a newborn to sell to Preem — so
   she is crossing the same ground the party cross, and she may be at the tree when they
   get there. `[OPEN]` whether she joins a fight she comes across
@@ -307,7 +295,7 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 - The **rules of the hunt** at the table — the two hunts.
 - The **stages** of the approach — the shrines, the bird, and how the mutation is
   tracked.
-- **Level** and placement.
+- **Placement** on the itinerary.
 - What the party **recovers** at the tree — see [the hell-tree](the-hell-tree.md).
 
 ---
@@ -329,8 +317,8 @@ The hunt is the **only annual way into the preserve**, so every one of Preem's
 
 `[OPEN]` **Who built the wall, and what a gate that size was cut for.** The cult keeps it
 and runs the hunt through it, and the town is four thousand years old
-([the founding](../lore/the-founding-of-brauron.md)). The cult does not claim it built the
-wall. What goes through the gate is the boar's crate and the riders.
+([the founding](../lore/the-founding-of-brauron.md)). The boar, the quarry and the riders go
+through the gate.
 
 `[OPEN]` the muster, and the first sight of the far tree.
 
@@ -345,15 +333,13 @@ them ([the dressing](dressing-the-stag.md), step 10).
 The hunt is the way past the wall. After that the party crosses to the tree on their
 own.
 
-- **Come as hunters** — join either hunt. `[settled at the table 9/1]` **A hunting
-  party's place costs 5,000 gp**, which Pim Riddle told the party at Aar. They do not have it and
-  said so, so buying in is not the way they get through the gate.
+- **Come as hunters** — join either hunt. **A hunting party's place costs 5,000 gp**,
+  which Pim Riddle told the party at Aar. The party do not have it.
 - **Come as the quarry** — put your name down as the stag in the man-hunt. This is the
   one the party can afford.
 - **Get over the wall** somewhere else.
 
-Once inside, the party leaves the hunt and crosses the poison deadland to the tree alone,
-while the hunt runs on out in the wild, far from the tree.
+Once inside, the party leaves the hunt and crosses the poison deadland to the tree.
 
 `[OPEN]` the rules of the hunt at the table.
 

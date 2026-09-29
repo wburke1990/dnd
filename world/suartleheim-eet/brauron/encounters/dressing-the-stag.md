@@ -26,21 +26,20 @@ The priestesses put the quarry through a Greek animal sacrifice, in the order Ho
 gives: washed, barley thrown over her, a lock cut off and burned, crowned, brought to
 the altar. The sequence stops before the killing. They tie on antlers, lay a deer-hide
 over her shoulders, read out the names of dogs, and walk her out to the gate. The killing
-happens in the preserve instead ([the game preserve](the-game-preserve.md)).
+happens in the preserve ([the game preserve](the-game-preserve.md)).
 
 Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the water, one
 the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
 take no part.
 
-**The hunters are pelted and mounted before the quarry's rite starts, and they ride into
+**The hunters are dressed in hound-pelts and mounted before the quarry's rite starts, and they ride into
 the temple to watch it.** They are all in the hall on their hounds, sitting below the
 altar and looking up at the quarry while she is dressed. The hounds are there to learn her
-smell, which happens at step 7. Nobody arrives partway through and nobody comes in
-afterwards.
+smell, which happens at step 7.
 
 ## Who is dressed, and in what
 
-Same steps for all three. Only the skin and where they go change.
+Same steps for all three.
 
 | Who | Skin | Where they go |
 |---|---|---|
@@ -53,17 +52,17 @@ Same steps for all three. Only the skin and where they go change.
 **[Captain Cassia Roan](../../../../characters/the-second-hand.md)** is the one dressed.
 She and the Second Hand chartered passage on a merchant transport carrying wealthy Maalm
 hunters ([session 10](../../../../sessions/session-10.md)). **That convoy got here
-first.** The party went to Copaa and Aar instead
+first.** The party went to Copaa and Aar
 ([the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md)), then lost the mast
 in the storm on the way north
 ([session 15](../../../../sessions/session-15.md)), so they walk into a town the hunters
 have been in for some time. She fought beside them outside Preem's tower
 ([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
 
-**Why she signed.** It is the only way through the wall that does not cost 5,000 gp —
-only [Setha Renk's crew](../../../../characters/the-lapis-writ.md) can pay it — and the
-quarry are paid. This does not replace **Pax as the stag**: anyone who signs goes out as
-quarry, and Cassia is dressed first.
+**Why she signed.** The hunters pay 5,000 gp to go through the wall, and only
+[Setha Renk's crew](../../../../characters/the-lapis-writ.md) could pay it. The quarry go
+through for free and are paid. Anyone else who signs, **Pax** included, goes out as
+quarry after her; Cassia is dressed first.
 
 ## Seven days
 
@@ -72,7 +71,7 @@ quarry, and Cassia is dressed first.
 | Day 1, morning | The dressing in the temple, then the walk out to the gate. |
 | Day 1, an hour before noon | The boar is loosed through the gate, then the quarry. |
 | Day 1, noon | The hounds and the riders are loosed, an hour behind them. |
-| Day 1, about half past noon | The riders reach them, if they gallop from the horn ([the game preserve](the-game-preserve.md)). |
+| Day 1, about half past noon | The riders reach them, if they gallop from noon ([the game preserve](the-game-preserve.md)). |
 | Days 1–7 | The hunters are in the preserve, and everyone inside the wall is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
@@ -87,12 +86,8 @@ At Aulis a deer was put on the altar in Iphigenia's place. The cult still takes 
 place of a person. **A quarry who brings a live, antlered deer to the gate is let in.**
 The deer goes to the altar instead of them and their rack is hung in the temple.
 
-- **One deer for each quarry.** Five going out as quarry need five. One quarry's deer
-  does not get another quarry through the gate.
-- **Alive, and antlered.** The temple turns away a carcass, a doe, or a stag that has
-  dropped its antlers.
-- **It is the only thing that opens the gate early.** Otherwise the gate opens at sundown
-  on day seven and a quarry who comes back before that is turned around.
+- **One deer for each quarry.** Five going out as quarry need five.
+- **Alive, and antlered.**
 - The priestess says so at the sign-up if she is asked for a way out.
 
 **Catching one while the hunt is running.** An hour an attempt at DC 15 Wisdom (Survival),
@@ -100,16 +95,13 @@ and on a failure by 5 or more one of the poisoned animals comes instead
 ([the hell-tree](the-hell-tree.md)). It has to be subdued or restrained, nonlethal only,
 and two hours to walk it back, with the deer making noise the whole way.
 
-`[run]` **Walking a deer does not hide anyone.** The deer slows them down and makes
-noise, and the hounds still have their smell
-([the game preserve](the-game-preserve.md)). Five quarry need five deer, each one its own
-attempt and its own two-hour walk back.
+`[run]` The hounds track a quarry who is leading a deer
+([the game preserve](the-game-preserve.md)).
 
 ## The pay
 
-**A hunting party's place costs 5,000 gp** — the whole party, not each hunter. Settled at
-the table on 9/1 and told to the party by Pim Riddle at Aar
-([session 13](../../../../sessions/session-13.md)). The temple keeps **1,000** and splits
+**A hunting party pays 5,000 gp for its place**, one fee for the whole party. Pim Riddle
+told the party at Aar ([session 13](../../../../sessions/session-13.md)). The temple keeps **1,000** and splits
 the other **4,000** among the quarry who sign — 1,000 each for four, 800 each for five —
 paid to a named address whether or not they live. If 4,000 gp is too much coin for the
 party, lower the entry fee and the pay drops with it.
@@ -119,25 +111,23 @@ party, lower the entry fee and the pay drops with it.
 | | |
 |---|---|
 | **Head start** | Out an hour before noon on day 1, hounds loosed at noon. One hour. |
-| **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. It lasts one hour, which is the whole head start. |
-| **Gear** | Whatever they walked in with. The cult takes nothing off them. |
-| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who kills a quarry cuts the rack off the body and keeps it. A quarry who takes it off has nothing to show at the gate, and it does not open for them. |
+| **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. |
+| **Gear** | Whatever they walked in with. |
+| **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who kills a quarry cuts the rack off the body and keeps it. The gate opens only for a quarry wearing the rack. |
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
-The hounds at the gate are named off the roll she reads. The names do not change from
-hunt to hunt.
+The hounds at the gate are named off the roll she reads, the same roll every hunt.
 
 ## If the party interrupt
 
-The four women will not fight and nothing in the rite is guarded. The hunters are in the
-hall on hound-back, though, and the Writ are five armed adventurers whose crew paid
-5,000 gp to be there.
+The hunters are in the hall on hound-back, the Writ among them: five armed adventurers
+whose crew paid 5,000 gp to be there.
 
 - **Take the tablet off the board.** It is the contract. She scrapes the wax flat and
   asks who is going instead.
 - **Bring a live stag.** One for each quarry, alive and antlered, at the gate.
-- **Go in her place.** She writes a second tablet without argument.
+- **Go in her place.** She writes a second tablet.
 
 ## Sources
 
@@ -164,19 +154,18 @@ in [the Actaeon handout](../../../../handouts/actaeon.md).
 ---
 
 > **Cassia is up on the altar and the hunters are in the hall on hound-back, looking up
-> at her.** Every hunter is mounted and pelted, sitting below the altar, the
+> at her.** Every hunter is mounted and in a hound-pelt, sitting below the altar, the
 > **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them and Setha Renk
 > and Calix Vire at the front. The party are at the back. The Megabyzoi are along the
-> wall. Nobody comes in or goes out until Cassia goes out the door at step 8.
-> One priestess reads; the others work. Pause after each step. Fenced blocks are real
+> wall. One priestess reads; the others work. Pause after each step. Fenced blocks are real
 > quotations — read them as printed.
 
 ---
 
 ## 0 — The hunters, before the quarry is brought in
 
-> *The hunting parties are pelted first, and it is over before the quarry is brought in.
-> The basin and the basket, in ones and twos. No hair cut, no wreath. A hound-pelt over
+> *The hunting parties are dressed first. The basin and the basket, in ones and twos. A
+> hound-pelt over
 > each one's shoulders. Then they go out to the hounds, mount up, and ride back in. They
 > fill the hall below the altar and sit there.*
 
@@ -194,8 +183,7 @@ the produce of spoil
 ```
 
 They stay on their hounds in the hall through the rest of the rite, below the altar,
-looking up. The hounds are there to learn the quarry's smell, which happens at step 7. Setha Renk
-and Calix Vire are among them.
+looking up.
 
 ---
 
@@ -281,7 +269,7 @@ bring lustral water too.
 
 ## 6 — The hide and the antlers
 
-> *They put her up on the altar, where the animal would go. A deer's hide across her
+> *They put her up on the altar. A deer's hide across her
 > shoulders, tied at the throat. Then the
 > rack — a full-grown stag's — buckled under her chin and pulled tight enough that her
 > head goes back.*
@@ -363,12 +351,11 @@ to it when the rite is done.
 > The town ends. The road runs on between stubble fields, then past open ground, and the
 > grass beside it gets taller and greyer.*
 
-- **The escort is the Megabyzoi**, who took no part in the rite and do this instead.
-  They will not answer questions on the road. A PC who puts the same question to the
-  same priest again, a week afterwards, is sent to Ampelos
+- **The escort is the Megabyzoi.** They will not answer questions on the road. A PC who
+  puts the same question to the same priest a week later is sent to Ampelos
   ([the founding](../lore/the-founding-of-brauron.md#ampelos)).
-- **A quarry cannot slip away on the road.** That is what the escort is for. Leaving
-  before the gate means leaving the town, unpaid, with the tablet still on the board.
+- A quarry who breaks away from the escort leaves the town unpaid, with the tablet still
+  on the board.
 
 ---
 
@@ -377,7 +364,7 @@ to it when the rite is done.
 > *The wall goes up twenty feet of dressed stone and runs out of sight both ways. The gate
 > in it is timber a foot thick, bound and barred, and it takes a dozen men on the windlass
 > to start it moving. The hunters are drawn up behind you on their hounds. Grass
-> to your waist on the other side. The sun is up and it is not yet hot.*
+> to your waist on the other side. The sun is up.*
 
 **The boar goes out first.**
 
@@ -387,13 +374,13 @@ to it when the rite is done.
 
 `[for David]` The Calydonian boar — the animal the beast-hunt is after, loosed into the
 preserve the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
-David's. **It is in the preserve while the party are.** It does not hunt them, and they
-can walk into it.
+David's. It does not hunt the party, and they can walk
+into it.
 
 **Then the quarry.**
 
 > *She puts a hand flat on Cassia's chest.* **Longstrider** — on each quarry in turn. It
-> is cast here rather than at the temple, so the spell runs out during the head start.
+> lasts the hour of the head start.
 
 > *They open the gate. It shuts behind you. The priestess speaks through the gate, and
 > the Megabyzoi start back down the road.*
@@ -403,8 +390,7 @@ can walk into it.
 ## The head start
 
 **One hour.** They go through the gate an hour before noon and the hounds come through at
-noon. The hounds already have their smell (step 7)
-and nothing inside the wall washes it off.
+noon. The hounds already have their smell (step 7).
 
 | | |
 |---|---|
@@ -412,7 +398,7 @@ and nothing inside the wall washes it off.
 | **Longstrider** | +10 ft. for the hour. Blackacre has the spell too and can keep one character at 40 for an hour a slot. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
 | **At noon** | The hounds and riders come through at Speed 50 ft. Galloping, they close five miles in about half an hour, so **the earliest they are caught is around half past noon** ([the game preserve](the-game-preserve.md)). |
-| **After the hour** | Longstrider ends as the horn goes, and the party are at 30 against 50 unless Blackacre spends slots keeping it up. |
+| **After the hour** | Longstrider ends at noon when the hounds come through, and the party move at 30 ft. against the hounds' 50 ft., unless Blackacre spends slots keeping it up. |
 | **Staying alive** | Getting out means standing at the gate at sundown on day seven. **The hunters are hunting to kill** ([the game preserve](the-game-preserve.md)), and they will follow anywhere in the preserve, including the tree. |
 
 ---

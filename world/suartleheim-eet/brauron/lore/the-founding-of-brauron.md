@@ -13,7 +13,7 @@ status: ready
 
 ---
 
-## Settled
+## Summary
 
 Brauron's founder came out of a fruit of [the hell-tree](../encounters/the-hell-tree.md).
 The fruit came down the river out of the deadland to an old gnome couple, who gave it
@@ -30,8 +30,6 @@ see [what comes out of the fruit](../encounters/the-hell-tree.md#what-comes-out-
 
 ## The founder
 
-`[settled]`
-
 **Who found him.** An old gnome couple with no children, living on the river that runs
 out of the deadland south to the sea. This was about four thousand years ago, when
 gnomes were leaving the túatha and going north up the coast past
@@ -41,10 +39,10 @@ off the tree fell in the river and came down it. The old woman was washing cloth
 pulled it out. The old man went to cut it, and it split, and a child stepped out and
 asked for water. They gave him water.
 
-**His name.** They named him Momotarō. That was not the first word they called him, and
+**His name.** They named him Momotarō, but they had called him something else first, and
 a newborn demon takes the first word it is called as its true name (see
 [what comes out of the fruit](../encounters/the-hell-tree.md#what-comes-out-of-the-fruit)).
-Nobody wrote the first word down. Nobody alive knows it.
+That first word is lost.
 
 **What he built.**
 
@@ -54,9 +52,7 @@ Nobody wrote the first word down. Nobody alive knows it.
   [the grove](#the-grove), below).
 - **The sanctuary.** He gave the deadland and the tree to the goddess the gnomes had
   brought with them, under the name Hecate, and the cult has kept hunters off the tree
-  since. The [sacred hunt](../encounters/the-game-preserve.md) runs once a year and does
-  not hunt the tree, though a rider running a quarry down will go there
-  ([the game preserve](../encounters/the-game-preserve.md)).
+  since.
 - **The Megabyzoi.** He made the eunuch priesthood after the first peach in the grove
   split, and put what came out into it (see
   [what the town knows](#what-the-town-knows), below).
@@ -82,7 +78,7 @@ The man-hunt has run every year since, and most quarry do not come back.
 **Where he is.** He re-formed in the Abyss and he is there now. The demon-people's
 cities sit over the hotspot, and the one still inhabited is under the Kurunatukas, where demons
 have been coming up on Moku for a generation. He spent his first six hundred years on
-the surface. He has not come back, and the surface burns him now.
+the surface. The surface burns him now.
 
 `[proposed]` What he is now: **Nabassu** (CR 15, MPMM) off
 [the roster](../../../nila/bestiary/available-demons.md) — a demon that grows by feeding on
@@ -94,10 +90,8 @@ the dead. He was a Quasit when the old woman pulled him out of the river.
 
 ## The grove
 
-`[settled]`
-
 **The peach trees came off the hell-tree.** Momotarō planted them in a ring around the
-town out of the fruit he came out of. Off the deadland's ground they came up as ordinary
+town out of the fruit he came out of. Off the deadland's ground they came up as
 peach trees, and the town eats the fruit.
 
 **The fruit splits.** Rarely. The town has counted **eleven** since the founding, and
@@ -120,14 +114,11 @@ it goes to the Megabyzoi.
 
 ## What the town knows
 
-`[settled]`
-
 Three groups, and they know different amounts.
 
 **The artisans and performers.** They know that a peach splits now and then and a child
 comes out of it, and that the water has to come at once. They call it the goddess
-giving the town a child. They have no word for demon and nobody has ever brought them
-one.
+giving the town a child. They have no word for demon.
 
 **The bee-priestesses.** They run the hunt and keep the roll of the quarry. The first
 name on the roll is Momotarō, and the head of the Melissae hands that down to the next.
@@ -137,7 +128,7 @@ takes a quarry's name asks first where to send the money
 
 **The Megabyzoi.** The eleven children born out of the grove are in this order, inside a
 larger body of cut gnome men. The town is told the beardless faces come from the cutting,
-so nobody asks why a priest has not aged. They know what they are, they know Momotarō
+so nobody asks why a priest has not aged. The eleven know they are demons, they know Momotarō
 came off the tree, and they know what the tree is, because he told them. At every
 dressing they stand along the wall and take no part
 ([the dressing](../encounters/dressing-the-stag.md)).
@@ -146,8 +137,7 @@ Each of them was given a word when it came out, and each word was written down. 
 temple holds eleven of them, filed with the count of the splits. Nobody in the temple
 knows a demon's name can be used to bind it. Binding by true name is elven magecraft,
 invented in Maalm about 1,850 years ago and kept secret since (see
-[demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)), and the secret
-never reached Brauron.
+[demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)).
 
 ### Ampelos
 
@@ -164,8 +154,6 @@ He wants the party's account of it when they come back, and he asks for it in or
 ---
 
 ## The cult
-
-`[settled]`
 
 **The goddess came with the gnomes, before the town.** The Kalikhat refugees who took
 Suartleheim Eet brought her up the coast with them (see
@@ -195,7 +183,7 @@ sea. The town calls it the old man's stone. The inscription is Longfellow's
 
 ## In play
 
-`[settled]` They come into town first and reach the tree last.
+They come into town first and reach the tree last.
 
 **In town, before the hunt.** They watch the play, read the statue base, see the
 fountain, and walk through the grove.
@@ -224,4 +212,4 @@ the name Preem is paying for.
 - The temple holds eleven words, one for each grove child, filed and unguarded. They are
   the true names of eleven demons in the temple. `[OPEN]` whether the party tells Preem
   the temple holds the written names, and whether he sends a crew for it.
-- The party reaches the deep city later. Momotarō is there.
+- If the party reach the deep city, Momotarō is there.

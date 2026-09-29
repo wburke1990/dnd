@@ -5,7 +5,7 @@ status: ready
 
 # The Sail to Brauron — the coast north, the storm, and the Thinkers
 
-> **DM reference.** The northern half of the packet that used to cover both routes. The
+> **DM reference.** The
 > party took **Copaa** first ([session 11](../../../../sessions/session-11.md)) and sailed
 > north out of **Aar** afterwards, so this leg is running now: §§1–4 were played in
 > [session 15](../../../../sessions/session-15.md) and §5 is what is ahead. The Hunt runs
@@ -17,17 +17,16 @@ mast and puts them on the
 **[Island of the Thinkers](../../../island-of-the-thinkers/encounters/island-of-the-thinkers.md)**,
 and then Brauron and the hunt itself.
 
-`[OPEN]` **How they leave the island.** The mast is gone, they never took the tree, and
-the island is going under while the fight runs
+`[OPEN]` **How they leave the island** and what carries them the rest of the way to
+Brauron. The mast is gone, and the island is going under while the fight runs
 ([the Last Thinker](../../../island-of-the-thinkers/encounters/the-last-thinker.md)).
-Nothing has been decided about what carries them the rest of the way to Brauron.
 
 ---
 
 ## 1 · The sail  `→` [sailing-and-storms.md](../../../the-sea/lore/sailing-and-storms.md) · [sea-beasts.md](../../../the-sea/bestiary/sea-beasts.md)
 
 The party sail Blackacre's sloop — six hull boxes, the stations handed out in session 11.
-The loop: a coastal hop is one watch and an open stretch three to five; one hand keeps her
+A coastal hop is one watch and an open stretch three to five; one hand keeps her
 each watch and checks against the weather DC (**calm 8, fresh 10, rising 13, gale 16**);
 a failure costs a watch, a hull box, or the course. Roll **1d6** each watch for the
 weather — 1–2 worse, 3–4 the same, 5–6 better — and shift the result one step worse
@@ -50,7 +49,7 @@ island.**
 
 ## 3 · The storm  `[played — session 15]`  `→` [sailing-and-storms.md](../../../the-sea/lore/sailing-and-storms.md)
 
-What the table actually rolled — the dolphins, Sarric overboard, Aniess's natural 1 and
+The rolls at the table — the dolphins, Sarric overboard, Aniess's natural 1 and
 the mast snapping off — is in [session 15](../../../../sessions/session-15.md).
 
 All hands to three stations — **Helm** (DEX/WIS), **Sails** (STR/DEX), **Deck** (STR/CON,
@@ -77,9 +76,8 @@ the fight. What happened:
 1. **The island of shrinking statues.** Colossal seated giants on the cliffs, and the
    statues getting smaller the further inland they stand, down to child-sized halfling
    ones at the center. A deforested island with one tree left at the summit.
-2. **The Last Thinker.** A lone halfling under that tree, tending a garden. **They would
-   not fight him for it** and went to the cistern for water instead. The mast was never
-   replaced.
+2. **The Last Thinker.** A lone halfling under that tree, tending a garden. The party left
+   the tree standing and went to the cistern for water. The mast is still gone.
 3. **The door in the hill.** From the cistern they found a door under the moss, opened it,
    and went down giant stairs to a hall: a great black bell, a hammer, a mural of dragons
    over a forested island, and a tremor below. Jasper struck the bell alone.
@@ -99,18 +97,14 @@ into the preserve — a beast-hunt announced publicly, with a rumor that people 
 too. The **[hell tree](the-hell-tree.md)** stands north of Raand, and the demon is in its
 fruit.
 
-## What moved out of this packet
+## Elsewhere
 
-- **The Maalm taverns and the rival crews** — the party sailed without them, so the crew
-  scene now runs on Aar's waterfront
-  ([the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md) §4). The scene
-  itself is unchanged: [tavern-rival-crews.md](../../maalm/encounters/tavern-rival-crews.md).
-- **The burned ship in Maalm's approaches** — played in session 11 and finishing in
-  session 12: [the drifting wreck](../../../the-sea/encounters/the-drifting-wreck.md).
+- **The rival crews** — the scene runs on Aar's waterfront
+  ([the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md) §4), from
+  [tavern-rival-crews.md](../../maalm/encounters/tavern-rival-crews.md).
+- **The burned ship in Maalm's approaches** — played in sessions 11 and 12:
+  [the drifting wreck](../../../the-sea/encounters/the-drifting-wreck.md).
 - **The landfall at Aar and the road inland to Copaa** —
   [the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md).
-- **The sea table**, which used to be copied in here, now lives only in
-  [sea-beasts.md](../../../the-sea/bestiary/sea-beasts.md), so there is only one copy.
-- **The island**, which is its own place and now has its own folder:
-  [world/island-of-the-thinkers](../../../island-of-the-thinkers/README.md). §4 keeps the
-  order of events and nothing else.
+- **The sea table** — [sea-beasts.md](../../../the-sea/bestiary/sea-beasts.md).
+- **The island** — [world/island-of-the-thinkers](../../../island-of-the-thinkers/README.md).
