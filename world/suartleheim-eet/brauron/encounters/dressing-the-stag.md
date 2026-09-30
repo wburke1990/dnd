@@ -30,11 +30,11 @@ happens in the preserve ([the game preserve](the-game-preserve.md)).
 
 Four **bee-priestesses (the Melissae)**, veiled: one takes the name, one the water, one
 the basket, one reads. The **eunuch priests (the Megabyzoi)** stand along the wall and
-take no part.
+watch.
 
 **The hunters are dressed in hound-pelts and mounted before the quarry's rite starts, and they ride into
-the temple to watch it.** They are all in the hall on their hounds, sitting below the
-altar and looking up at the quarry while she is dressed. The hounds are there to learn her
+the temple to watch it.** They sit on their hounds below the
+altar while she is dressed. The hounds are there to learn her
 smell, which happens at step 7.
 
 ## Who is dressed, and in what
@@ -56,7 +56,7 @@ first.** The party went to Copaa and Aar
 ([the run to Copaa](../../raand-copaa/encounters/the-run-to-copaa.md)), then lost the mast
 in the storm on the way north
 ([session 15](../../../../sessions/session-15.md)), so they walk into a town the hunters
-have been in for some time. She fought beside them outside Preem's tower
+have been in for some time. She fought beside the party outside Preem's tower
 ([the Second Hand ambush](../../maalm/encounters/the-second-hand-ambush.md)).
 
 **Why she signed.** The hunters pay 5,000 gp to go through the wall, and only
@@ -90,10 +90,10 @@ The deer goes to the altar instead of them and their rack is hung in the temple.
 - **Alive, and antlered.**
 - The priestess says so at the sign-up if she is asked for a way out.
 
-**Catching one while the hunt is running.** An hour an attempt at DC 15 Wisdom (Survival),
-and on a failure by 5 or more one of the poisoned animals comes instead
-([the hell-tree](the-hell-tree.md)). It has to be subdued or restrained, nonlethal only,
-and two hours to walk it back, with the deer making noise the whole way.
+**Catching one while the hunt is running.** Each attempt takes an hour and a DC 15 Wisdom
+(Survival) check. On a failure by 5 or more, one of the poisoned animals comes instead
+([the hell-tree](the-hell-tree.md)). The deer has to be subdued or restrained without
+killing it, and walking it back takes two hours, with the deer making noise the whole way.
 
 `[run]` The hounds track a quarry who is leading a deer
 ([the game preserve](the-game-preserve.md)).
@@ -117,7 +117,7 @@ party, lower the entry fee and the pay drops with it.
 | **The pay** | 4,000 gp split among the quarry — 1,000 each for four, 800 each for five. |
 | **The horn** | Sundown on day 7. A quarry at the gate is let in, and the rack is hung in the temple. |
 
-The hounds at the gate are named off the roll she reads, the same roll every hunt.
+The hounds at the gate are named off the roll the priestess reads, the same roll every hunt.
 
 ## If the party interrupt
 
@@ -144,8 +144,8 @@ Public domain, and each has a handout with the full text, translator and edition
 | The girls | [Lysistrata](../../../../handouts/lysistrata-the-bear.md) 638–651, tr. Lindsay |
 
 The roll of hounds below follows Rouse's 1904 Golding where the Wikisource scan is
-damaged — `Kilbucke`, `Ringwood`, and the full `shaggie Rugge` line. Both readings are
-in [the Actaeon handout](../../../../handouts/actaeon.md).
+damaged — `Kilbucke`, `Ringwood`, and the full `shaggie Rugge` line. [The Actaeon handout](../../../../handouts/actaeon.md)
+gives the Wikisource reading and Rouse's.
 
 ---
 
@@ -164,7 +164,7 @@ in [the Actaeon handout](../../../../handouts/actaeon.md).
 
 ## 0 — The hunters, before the quarry is brought in
 
-> *The hunting parties are dressed first. The basin and the basket, in ones and twos. A
+> *The hunting parties are dressed first. They are washed at the basin and barley is thrown over them, one or two at a time. A
 > hound-pelt over
 > each one's shoulders. Then they go out to the hounds, mount up, and ride back in. They
 > fill the hall below the altar and sit there.*
@@ -215,7 +215,7 @@ women vexed by the sharp pangs of childbirth call me to their aid
 | What is out there | **"Grass to your waist. Bad water."** |
 | Whether the hounds will know them | **"They smell your hands before you go out."** |
 | Washing it off | **"In what?"** |
-| The tree | **"No one hunts there."** *(she says nothing else)* |
+| The tree | **"No one hunts there."** *(and stops there)* |
 | Whether they can sign too | **"Anyone who wants to."** |
 | A way out | **"Bring a live stag and we open the gate. One stag each."** |
 
@@ -346,14 +346,12 @@ that I have begun with you, I will turn to another song.
 The gate is outside the town at the edge of the preserve, and the quarry are walked out
 to it when the rite is done.
 
-> *The Megabyzoi take you out. They walk either side of the quarry and do not talk. The
+> *The Megabyzoi take you out. They walk either side of the quarry in silence. The
 > riders come up the road behind you at a walk and then past you, and are gone ahead.
 > The town ends. The road runs on between stubble fields, then past open ground, and the
 > grass beside it gets taller and greyer.*
 
-- **The escort is the Megabyzoi.** They will not answer questions on the road. A PC who
-  puts the same question to the same priest a week later is sent to Ampelos
-  ([the founding](../lore/the-founding-of-brauron.md#ampelos)).
+- **The Megabyzoi escort the quarry to the gate.**
 - A quarry who breaks away from the escort leaves the town unpaid, with the tablet still
   on the board.
 
@@ -374,7 +372,7 @@ to it when the rite is done.
 
 `[for David]` The Calydonian boar — the animal the beast-hunt is after, loosed into the
 preserve the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
-David's. It does not hunt the party, and they can walk
+David's. It goes its own way through the preserve, and the party can walk
 into it.
 
 **Then the quarry.**

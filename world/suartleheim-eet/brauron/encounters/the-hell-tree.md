@@ -33,10 +33,10 @@ marked on [Preem's map](../../../../characters/preem.md).
 Preem asks the party to make their way to a large tree in the wilderness near Brauron,
 pluck one of the fruits, and name whatever is inside. He pays them for the name.
 
-`[DM]` What is inside is a baby demon, and a newborn demon has no true name yet — so the
-party gives it one and that is the name Preem buys (see
-[the name quest](../../../nila/lore/demons-and-the-hotspot.md)). The site is poisoned and
-no one can control it, so Preem cannot own it or work it himself.
+`[DM]` What is inside is a baby demon, and a newborn demon takes as its true name the first
+word it is called. The party names it, and Preem buys that name (see
+[the name quest](../../../nila/lore/demons-and-the-hotspot.md)). The site is poisoned,
+and the poison would kill anyone Preem sent to work it.
 
 ---
 
@@ -51,8 +51,7 @@ grown from the wound.) A tree grew up where the torn body fell, and its mind sta
 alive in the wood. Over thousands of years the roots grew down until they reached hell,
 and then the tree began to fruit.
 
-Because the giants killed the god, no god rose here and no new land was raised. No
-[road of the dead](../../../nila/lore/demons-and-the-hotspot.md) was kept. The tree fell in
+The tree is the only thing that grew here. The god fell in
 the first pass, so it is older than the gnomes and the Muspel empire. `[OPEN]` exact date.
 
 ---
@@ -142,7 +141,7 @@ drowned girl that says the killer's name without being asked).
 > *One huge old tree stands alone. Fruit hangs in it — swollen and heavy, each one
 > bigger than a man's head, and here and there a fruit has split open. The air stings
 > the eyes and is hard to breathe. The tree is muttering — a low, steady
-> voice that does not stop.*
+> voice.*
 
 **Setha Renk is coming here too**, for a name off a newborn to
 sell to Preem
@@ -161,7 +160,7 @@ When a fruit splits open, the newborn is out in the open and talking at once. Se
 (below). It can be spoken to (Speak with Plants, or anything like it). It gives false answers, and it calls the demons its children. The party can talk with
 it. The lines it mutters are in **the muttering**, below.
 `[OPEN]` its voice — what it wants, what it lies about, what it will trade. The
-muttering is what the tree says when nobody has asked it anything.
+muttering is what the tree says to itself.
 
 **The comet-stone.** The stone the tree grew from is deep underground now, at the
 foot of the stair (see the descent, below).
@@ -171,9 +170,8 @@ foot of the stair (see the descent, below).
 ## The muttering
 
 The tree talks the whole time the party is there, to itself. Roll d20 or pick. Repeat lines — say one twice in a row, come back to one from
-ten minutes ago, break off in the middle and start a different one. It does not answer
-a question until somebody casts Speak with Plants, and it goes on muttering underneath
-the answer.
+ten minutes ago, break off in the middle and start a different one. It answers
+questions only under Speak with Plants, and it goes on muttering underneath the answer.
 
 **Say the Juniper lines first** (1–3). The [mockingbird](the-game-preserve.md) on the
 approach has already sung them two days out.
@@ -221,9 +219,9 @@ real-world god; nothing else is cut.
 ## What comes out of the fruit
 
 **It talks, and everything it says is something it has heard.** A newborn demon comes
-out speaking and has no words of its own. What it has heard is the tree's muttering,
-in **the muttering** above, and the stories demons from this tree have repeated elsewhere
-for as long as the tree has fruited. Those are the stories the party watched
+out speaking. It has heard the tree's muttering,
+in **the muttering** above, and the stories that demons from this tree have told elsewhere
+since it first fruited. Those are the stories the party watched
 acted out in the square at [Brauron](the-peach-town.md) two days before. The
 newborn says them back.
 
@@ -259,21 +257,19 @@ when it does not come quickly enough. Here the newborn asks too:
 **The name.** A demon's true name is **its own**, and it keeps it
 secret, which is why the only ways to get one are to find it written or to force it out of
 a demon just before true death
-([demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)). A newborn has not
-got one yet. It takes the first word it is called and keeps that. So the party gives the
+([demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)). A newborn takes the first word it is called and keeps that. So the party gives the
 newborn a name, and that name binds it like any other true name. No roll.
 
 **What steps out.** In every one of the town's stories a child steps out of the fruit,
 so a child steps out here. Once it hardens it is a **Quasit** (CR 1); its shape after
 that is the DM's call. See [the roster](../../../nila/bestiary/available-demons.md).
 
-**Fruit that already split.** Fruits split on their own. What
-came out of the split fruits on the ground hardened days or years ago and does not
-talk: **Manes** (CR 1/8) and **Dretch** (CR 1/4), in the branches and down among the
+**Fruit that already split.** Fruits split on their own. The demons
+from the fruits already split on the ground hardened days or years ago: **Manes** (CR 1/8) and **Dretch** (CR 1/4), in the branches and down among the
 roots. They are what the party fights at the tree.
 
 **More than one fruit.** Preem pays for one name. Every fruit past the first is another
-demon loose in the world. `[OPEN]` whether one comes back.
+demon loose in the world. `[OPEN]` whether a loose demon comes back to the tree.
 
 **Brauron's founder came out of this tree.** A fruit fell in the river and
 came down out of the deadland to an old gnome couple, who gave the child water and raised
@@ -284,7 +280,7 @@ See [the founding of Brauron](../lore/the-founding-of-brauron.md).
 
 ## The land around it
 
-No one lives here, the ground is bare, and the air near the tree is
+The ground is bare, and the air near the tree is
 poison (see [Anchar](../../../../handouts/anchar.md)). The poison is the tree's **alchemical
 sickness**, and it works on anything that stays in it — the animals here have been mutated by it. `[for David]` pick the set of monsters the party meets on the hunt.
 
@@ -347,13 +343,14 @@ ends them. The party can carry somebody up the stair through either one.
 
 **Before they arrive.** [*Dream*](https://dnd2024.wikidot.com/spell:dream) reaches a
 sleeper at any distance: a Wisdom save, 3d6 psychic and no benefit from the night's
-rest. The [mockingbird](the-game-preserve.md) already repeats the tree's muttering two
-days out. The stone can use this on them while they sleep in the deadland.
+rest. The stone can cast it on them while they sleep
+in the deadland, two days out, where the [mockingbird](the-game-preserve.md) is already
+repeating the tree's muttering.
 
 **Always on.**
 [*Antipathy/Sympathy*](https://dnd2024.wikidot.com/spell:antipathy-sympathy) on the
 stone — anyone who sees it makes a Wisdom save or is frightened and has to move away.
-It runs for ten days at a time and needs nobody standing there to cast it, so it can
+It runs for ten days at a time and needs nobody standing there to cast it, so it may
 have been on the stone since the giants tore the god apart.
 
 **Other spells the stone could have.**
