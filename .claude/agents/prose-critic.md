@@ -86,6 +86,31 @@ literal remainder.
     ("**What was** a kingdom **is** one village", "grieving the home they fled while
     standing on the home they seized", "its founding faith and its first crime at
     once").
+14. **Negative statements** — telling the reader what isn't there, didn't happen, or
+    nobody knows: "nobody wrote it down", "that word is lost", "they take no part",
+    "he has never been to the tree". State what is there and what happens ("they
+    watch"); if the sentence only reports an absence, say **cut it**.
+15. **Placeholder nouns** — a pronoun or a *what*-clause standing where the writer
+    could name the thing: "raised **what came out**", "put **what came out** into it",
+    "**for what one is, what it says**", "cut **the text** into its base", "**People**
+    settled", "keeping people off **both**". Name it: *the child*, *the passage where
+    the peach splits*, *gnomes coming north*, *the deadland*.
+16. **Talk about the telling** — sentences about a story, its truth, or a
+    cross-reference instead of the thing itself: "**the town tells this as** X", "**and
+    it is the story as it happened**", "**for** what it is, **see** Y". Say the fact;
+    give a bare link if one is needed.
+17. **Filler clauses** — a clause that repeats what the sentence already said or adds
+    nothing: "a fruit fell in the river **and came down it**". Cut it or replace it
+    with the missing fact ("and floated down to them").
+18. **Sentences that don't parse on one read** — reduced relatives ("**A priest asked
+    why walks away**"), archaic *of* ("she **was of the hunt**"), noun stacks ("filed
+    with **the count of the splits**"), stacked *that*-clauses of what someone knows
+    ("They know **that** a peach splits … **and that** the water has to come"), and
+    chained verbs ("**took charge of keeping**" for *keeps*). Rewrite as a plain
+    subject–verb–object sentence.
+19. **Contrived conditions** in design notes — an arbitrary count or delay bolted onto
+    a trigger with nothing in the text to motivate it: "a PC who asks **the same priest
+    twice, a week later**". Flag it and suggest cutting the condition.
 
 Proper nouns, stat blocks, dice notation, `[OPEN]`/`[settled]` tags, table syntax,
 and links are not prose — leave them alone.
