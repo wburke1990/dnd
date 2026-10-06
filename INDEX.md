@@ -160,7 +160,7 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 
 | File | Status | What it is |
 |---|---|---|
-| [the founding of brauron](world/suartleheim-eet/brauron/lore/the-founding-of-brauron.md) | `ready` | Brauron was founded by a demon that came out of the hell-tree's fruit |
+| [the founding of brauron](world/suartleheim-eet/brauron/lore/the-founding-of-brauron.md) | `ready` | Brauron was founded by a demon that stepped out of the hell-tree's fruit |
 
 ### Encounters
 
