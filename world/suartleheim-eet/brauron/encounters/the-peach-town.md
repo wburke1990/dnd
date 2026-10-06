@@ -109,6 +109,31 @@ with a tiny girl inside.
 
 ---
 
+## Read aloud — the girls
+
+> *A line of town girls in yellow robes walks across the square to the temple, each with
+> a bear-skin over her shoulders. They chant as they go.*
+
+```
+I bore the holy vessels
+At seven, then
+I pounded barley
+At the age of ten,
+And clad in yellow robes,
+Soon after this,
+I was Little Bear to
+Brauronian Artemis;
+Then neckletted with figs,
+Grown tall and pretty,
+I was a Basket-bearer,
+```
+
+`[quotation]` [Lysistrata](../../../../handouts/lysistrata-the-bear.md) 638–651, tr.
+Lindsay. The town's girls serve the goddess as bears for a season before they marry. Girls
+did this at the real Brauron.
+
+---
+
 ## Read aloud — the temple of Artemis
 
 > *The temple is dim and cool. The priestesses are veiled and still; among them
@@ -116,15 +141,14 @@ with a tiny girl inside.
 > gored by a boar, figures stand over his body, and a tree grows where his blood falls.*
 
 **Two priesthoods serve at the temple, modelled on the priesthoods at Ephesus.** The
-**bee-priestesses (the Melissae, "the bees")** are Artemis's virgin women, and they run
+**bee-priestesses (the Melissae, "the bees")** are Artemis's virgin priestesses, and they run
 the hunt. The **eunuch priests (the Megabyzoi)** perform the
 **[Attis mystery](../../../../handouts/the-birth-of-attis.md)**. Attis is a young god born
 from an almond. The almond tree grew where a killed god's blood fell. Attis dies, and he
-is mourned. The Attis story is painted on the temple walls.
+is mourned.
 
-The priestesses also serve Artemis as **Hecate**, goddess of the moon and the dead. The
-deadland and the tree are hers under that name. The town's girls serve the goddess as
-**bears** before they marry (the real Brauron rite).
+The priestesses also serve Artemis as **Hecate**, goddess of the moon and the dead. As
+Hecate, she is the goddess of the deadland and the hell-tree.
 
 ---
 
