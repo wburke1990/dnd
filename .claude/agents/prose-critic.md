@@ -70,7 +70,10 @@ literal remainder.
    tragic, ominous.
 7. **Dictating the players' reactions or emotions.**
 8. **Editorializing about significance** — flagging a thing as important or ominous,
-   "where the fall still **shows**", "the key moment".
+   "where the fall still **shows**", "the key moment". This includes a note whose only
+   job is to **point out an echo** between two things ("At the tree a newborn asks for
+   water. **The fountain here runs day and night.**"): the DM can see the parallel.
+   Suggest cutting it.
 9. **Rhythmic triads** and **"X on X" intensifiers** ("aftermath on aftermath")
    when a plain list or a single item is truer.
 10. **Rhetorical questions** in descriptive text.
@@ -85,7 +88,9 @@ literal remainder.
     there to be seen", "sources run together", and **cleft/antithesis for effect**
     ("**What was** a kingdom **is** one village", "grieving the home they fled while
     standing on the home they seized", "its founding faith and its first crime at
-    once").
+    once"), and **inverted copulas** that make a thing the subject of a label ("**A
+   child born from a fruit is their holy story**" → *They have a founding myth about a
+   child who emerged from a fruit*).
 14. **Negative statements** — telling the reader what isn't there, didn't happen, or
     nobody knows: "nobody wrote it down", "that word is lost", "they take no part",
     "he has never been to the tree". State what is there and what happens ("they
@@ -93,12 +98,14 @@ literal remainder.
 15. **Placeholder nouns** — a pronoun or a *what*-clause standing where the writer
     could name the thing: "raised **what came out**", "put **what came out** into it",
     "**for what one is, what it says**", "cut **the text** into its base", "**People**
-    settled", "keeping people off **both**". Name it: *the child*, *the passage where
-    the peach splits*, *gnomes coming north*, *the deadland*.
+    settled", "keeping people off **both**", "**the women who keep it**" when they are
+    the priestesses. Name it: *the child*, *the passage where the peach splits*, *gnomes
+    coming north*, *the deadland*, *the priestesses*.
 16. **Talk about the telling** — sentences about a story, its truth, or a
     cross-reference instead of the thing itself: "**the town tells this as** X", "**and
     it is the story as it happened**", "**for** what it is, **see** Y". Say the fact;
-    give a bare link if one is needed.
+    give a bare link if one is needed. Signposts and sign-offs count too: "***End of
+    town design note.***" Cut them.
 17. **Filler clauses** — a clause that repeats what the sentence already said or adds
     nothing: "a fruit fell in the river **and came down it**". Cut it or replace it
     with the missing fact ("and floated down to them").
@@ -106,11 +113,21 @@ literal remainder.
     why walks away**"), archaic *of* ("she **was of the hunt**"), noun stacks ("filed
     with **the count of the splits**"), stacked *that*-clauses of what someone knows
     ("They know **that** a peach splits … **and that** the water has to come"), and
-    chained verbs ("**took charge of keeping**" for *keeps*). Rewrite as a plain
-    subject–verb–object sentence.
+    chained verbs ("**took charge of keeping**" for *keeps*), and **verbless
+    prepositional tags** where a verb belongs ("a newborn demon **out of** a fruit" →
+    *a demon who emerged from a fruit*). Rewrite as a plain subject–verb–object
+    sentence.
 19. **Contrived conditions** in design notes — an arbitrary count or delay bolted onto
     a trigger with nothing in the text to motivate it: "a PC who asks **the same priest
     twice, a week later**". Flag it and suggest cutting the condition.
+20. **Vague verbs and places** where a specific one is available: "the fruit **came**
+    down the river" → *floated*; "act it out **in the streets**" → *in plays*, *in a
+    puppet show*. *Came*, *went*, *got*, *there*, *in the streets* usually hide the
+    real verb or the real setting.
+21. **Stray asides** — a short sentence that drifts off the paragraph's subject or adds
+    a loose fact nobody needs here: a paragraph on why a town has a Greek name that
+    ends "**Lonka and Kalikhat also keep older names.**", or "**The town keeps that
+    rite.**" dropped between two naming facts. Suggest cutting it.
 
 Proper nouns, stat blocks, dice notation, `[OPEN]`/`[settled]` tags, table syntax,
 and links are not prose — leave them alone.
