@@ -35,7 +35,7 @@ watch.
 **The hunters are dressed in hound-pelts and mounted before the quarry's rite starts, and they ride into
 the temple to watch it.** They sit on their hounds below the
 altar while she is dressed. The hounds are there to learn her
-smell, which happens at step 7.
+smell, which happens at step 4.
 
 ## Who is dressed, and in what
 
@@ -61,7 +61,7 @@ have been in for some time. She fought beside the party outside Preem's tower
 
 **Why she signed.** The hunters pay 5,000 gp to go through the wall, and only
 [Setha Renk's crew](../../../../characters/the-lapis-writ.md) could pay it. The quarry go
-through for free and are paid. Anyone else who signs, **Pax** included, goes out as
+through for free and are paid. Anyone else who signs goes out as
 quarry after her; Cassia is dressed first.
 
 ## Seven days
@@ -136,12 +136,10 @@ Public domain, and each has a handout with the full text, translator and edition
 | Step | Text |
 |---|---|
 | The board | [Callimachus](../../../../handouts/callimachus-hymn-to-artemis.md), *Hymn* 3, tr. Mair |
-| The barley, the hair | [Homer](../../../../handouts/homer-the-sacrifice.md), *Iliad* 1 and *Odyssey* 3, tr. Murray |
-| The crown, the live stag | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md), tr. Coleridge |
+| The washing | [Homer](../../../../handouts/homer-the-sacrifice.md), *Iliad* 1 and *Odyssey* 3, tr. Murray |
+| The live stag | [Iphigenia at Aulis](../../../../handouts/iphigenia-at-aulis.md), tr. Coleridge |
 | The antlers, the hounds | [Actaeon](../../../../handouts/actaeon.md), Ovid *Metamorphoses* 3, tr. Golding |
-| The hymn, the door | [Homeric Hymns 27 and 9](../../../../handouts/hymn-to-artemis.md), tr. Evelyn-White |
-| The hunters | [Xenophon](../../../../handouts/xenophon-on-hunting.md), *Cynegeticus*, tr. Dakyns |
-| The girls | [Lysistrata](../../../../handouts/lysistrata-the-bear.md) 638–651, tr. Lindsay |
+| The hymn | [Homeric Hymns 27 and 9](../../../../handouts/hymn-to-artemis.md), tr. Evelyn-White |
 
 The roll of hounds below follows Rouse's 1904 Golding where the Wikisource scan is
 damaged — `Kilbucke`, `Ringwood`, and the full `shaggie Rugge` line. [The Actaeon handout](../../../../handouts/actaeon.md)
@@ -153,37 +151,11 @@ gives the Wikisource reading and Rouse's.
 
 ---
 
-> **Cassia is up on the altar and the hunters are in the hall on hound-back, looking up
-> at her.** Every hunter is mounted and in a hound-pelt, sitting below the altar, the
-> **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them and Setha Renk
+> **Cassia is up on the altar. The hunters sit below it on their hounds, each in a
+> hound-pelt, looking up at her** — the **[Lapis Writ](../../../../characters/the-lapis-writ.md)** among them and Setha Renk
 > and Calix Vire at the front. The party are at the back. The Megabyzoi are along the
-> wall. One priestess reads; the others work. Pause after each step. Fenced blocks are real
-> quotations — read them as printed.
-
----
-
-## 0 — The hunters, before the quarry is brought in
-
-> *The hunting parties are dressed first. They are washed at the basin and barley is thrown over them, one or two at a time. A
-> hound-pelt over
-> each one's shoulders. Then they go out to the hounds, mount up, and ride back in. They
-> fill the hall below the altar and sit there.*
-
-```
-To the gods themselves is due the discovery, to Apollo and Artemis,
-patrons of the chase and protectors of the hound.
-```
-
-> *Each hunter says a line back.*
-
-```
-Then with prayer and promise to
-Apollo and to Artemis, our Lady of the Chase, (20) to share with them
-the produce of spoil
-```
-
-They stay on their hounds in the hall through the rest of the rite, below the altar,
-looking up.
+> wall. One priestess reads; the others dress Cassia. Pause after each step. Fenced blocks
+> are real quotations — read them as printed.
 
 ---
 
@@ -223,17 +195,14 @@ women vexed by the sharp pangs of childbirth call me to their aid
 
 ---
 
-## 2 — The water
+## 2 — The washing
 
 > *A bronze basin inside the door. She quenches a brand from the altar fire in it and
-> holds it out to each of you in turn. Cassia stands while they wash her, head to feet.*
-
----
-
-## 3 — The barley
-
-> *A covered basket comes round. Under the cloth there is a knife lying in the barley.
-> She throws a handful over Cassia's head and shoulders.*
+> holds it out to each of you in turn. Cassia stands while the priestesses wash her, head to
+> feet. A priestess carries a covered basket round; under the cloth a knife lies in the
+> barley. A priestess throws a handful over Cassia's head and shoulders, cuts a lock off
+> her forehead close to the scalp, and drops it in the altar fire. They wind white wool twice around her head,
+> set a wreath of leaves over it, and tie the ends under her hair.*
 
 ```
 Then, when they had prayed, and had sprinkled the barley grains, they
@@ -243,35 +212,11 @@ them,
 
 ---
 
-## 4 — The hair
-
-> *A lock off Cassia's forehead, cut close to the scalp, dropped in the altar fire.*
-
-```
-cutting off as first offering the hair from the head, and casting it into
-the fire.
-```
-
----
-
-## 5 — The crown
-
-> *White wool twice around her head, a wreath of leaves over it, the ends tied under her
-> hair.*
-
-```
-Lead me away, the destroyer of Ilium's town and the Phrygians; give me
-wreaths to cast about me; bring them here; here are my tresses to crown;
-bring lustral water too.
-```
-
----
-
-## 6 — The hide and the antlers
+## 3 — The antlers
 
 > *They put her up on the altar. A deer's hide across her
-> shoulders, tied at the throat. Then the
-> rack — a full-grown stag's — buckled under her chin and pulled tight enough that her
+> shoulders, tied at the throat. Then a full-grown stag's
+> antlers, buckled under her chin and pulled tight enough that her
 > head goes back.*
 
 ```
@@ -283,11 +228,11 @@ She wrappes him in a hairie hyde beset with speckled spottes,
 
 ---
 
-## 7 — The hounds
+## 4 — The hounds
 
 > *The riders bring their hounds up to the altar one at a time. Each one puts its head
-> against the deer-hide and the backs of her hands and takes her smell, and is backed off
-> again. While it happens, the priestess starts a list. They are dogs' names.*
+> against the deer-hide and the backs of her hands and sniffs her, and its rider backs it
+> off. While the hounds sniff her, the priestess reads a list of dogs' names.*
 
 ```
 His houndes espyde him where he was, and Blackfoote first of all
@@ -315,7 +260,7 @@ With greedie teeth and griping pawes their Lord in peeces dragge.
 
 ---
 
-## 8 — The hymn and the door
+## 5 — The hymn and the gate
 
 > *They bring her down off the altar and walk her to the door.*
 
@@ -334,93 +279,34 @@ And so hail to you, Artemis, in my song and to all goddesses as well. Now
 that I have begun with you, I will turn to another song.
 ```
 
-> *They open the door. Behind you the hunters are still sitting their hounds in the
-> hall, watching her go.*
-
 **"The hounds go out at noon."**
 
----
+> *The Megabyzoi walk the quarry out of town, one on either side of each, and the riders
+> pass you on the road. The grass beside the road gets taller and greyer. The wall is
+> twenty feet of dressed stone, and the gate in it is timber a foot thick; a dozen men on
+> the windlass start it moving. They back a cart to the gate and pull the pins on a crate,
+> and a boar six feet at the shoulder goes through into the grass. You hear the boar
+> moving in the grass. The priestess puts a hand flat on Cassia's chest, then on each
+> quarry in turn. Beyond the gate the grass is waist-high.*
 
-## 9 — The road to the gate
+- **Longstrider** on each quarry, for the hour of the head start.
+- A quarry who breaks away from the escort on the road leaves the town unpaid, with the
+  tablet still on the board.
 
-The gate is outside the town at the edge of the preserve, and the quarry are walked out
-to it when the rite is done.
-
-> *The Megabyzoi take you out. They walk either side of the quarry in silence. The
-> riders come up the road behind you at a walk and then past you, and are gone ahead.
-> The town ends. The road runs on between stubble fields, then past open ground, and the
-> grass beside it gets taller and greyer.*
-
-- **The Megabyzoi escort the quarry to the gate.**
-- A quarry who breaks away from the escort leaves the town unpaid, with the tablet still
-  on the board.
-
----
-
-## 10 — The gate
-
-> *The wall goes up twenty feet of dressed stone and runs out of sight both ways. The gate
-> in it is timber a foot thick, bound and barred, and it takes a dozen men on the windlass
-> to start it moving. The hunters are drawn up behind you on their hounds. Grass
-> to your waist on the other side. The sun is up.*
-
-**The boar goes out first.**
-
-> *They bring up a cart with a crate on it, back it to the gate, and pull the pins. A
-> boar six feet at the shoulder comes out. It goes through into the grass, out of sight. You
-> can hear it after that.*
-
-`[for David]` The Calydonian boar — the animal the beast-hunt is after, loosed into the
-preserve the same morning ([the game preserve](the-game-preserve.md)). Its stat block is
-David's. It goes its own way through the preserve, and the party can walk
-into it.
-
-**Then the quarry.**
-
-> *She puts a hand flat on Cassia's chest.* **Longstrider** — on each quarry in turn. It
-> lasts the hour of the head start.
-
-> *They open the gate. It shuts behind you. The priestess speaks through the gate, and
-> the Megabyzoi start back down the road.*
-
-**"The hounds come through at noon."**
+`[for David]` The Calydonian boar. The hunters on the beast hunt are after it, and it is
+loosed into the preserve the same morning ([the game preserve](the-game-preserve.md)).
+Its stat block is David's. It wanders the preserve, and the party may meet it.
 
 ## The head start
 
 **One hour.** They go through the gate an hour before noon and the hounds come through at
-noon. The hounds already have their smell (step 7).
+noon. The hounds already have their smell (step 4).
 
 | | |
 |---|---|
-| **One hour** | About five miles, at a fast pace with Longstrider up. |
-| **Longstrider** | +10 ft. for the hour. Blackacre has the spell too and can keep one character at 40 for an hour a slot. |
+| **One hour** | About five miles, at a fast pace with Longstrider on. |
+| **Longstrider** | +10 ft. for the hour. Blackacre has the spell too, and each slot spent gives one character another hour at 40 ft. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
 | **At noon** | The hounds and riders come through at Speed 50 ft. Galloping, they close five miles in about half an hour, so **the earliest they are caught is around half past noon** ([the game preserve](the-game-preserve.md)). |
-| **After the hour** | Longstrider ends at noon when the hounds come through, and the party move at 30 ft. against the hounds' 50 ft., unless Blackacre spends slots keeping it up. |
+| **After the hour** | Longstrider ends at noon when the hounds come through, and the party move at 30 ft. against the hounds' 50 ft., unless Blackacre recasts it. |
 | **Staying alive** | Getting out means standing at the gate at sundown on day seven. **The hunters are hunting to kill** ([the game preserve](the-game-preserve.md)), and they will follow anywhere in the preserve, including the tree. |
-
----
-
-## The girls, if the party stay
-
-> *A line of town girls along the far wall in yellow. They go up one at a time — washed
-> at the same basin, hair cut the same way, a bear-skin over the shoulders. The rest
-> speak the lines while each one is dressed.*
-
-```
-I bore the holy vessels
-At seven, then
-I pounded barley
-At the age of ten,
-And clad in yellow robes,
-Soon after this,
-I was Little Bear to
-Brauronian Artemis;
-Then neckletted with figs,
-Grown tall and pretty,
-I was a Basket-bearer,
-```
-
----
-
-*End of dressing design note.*
