@@ -218,15 +218,13 @@ real-world god; nothing else is cut.
 
 ## What comes out of the fruit
 
-**It talks, and everything it says is something it has heard.** A newborn demon comes
-out speaking. It has heard the tree's muttering,
-in **the muttering** above, and the stories that demons from this tree have told elsewhere
-since it first fruited. Those are the stories the party watched
-acted out in the square at [Brauron](the-peach-town.md) two days before. The
-newborn says them back.
+A newborn demon speaks as soon as the fruit splits, and repeats only what it has heard.
+It has heard the tree mutter (see **the muttering** above). It has also heard the stories
+this tree's demons have told since the tree first fruited. The gnome players in
+[Brauron](the-peach-town.md) performed those stories in the square two days before. The
+newborn repeats them.
 
-Read these out word for word. They are the texts on the statue base and the fountain in
-town:
+Read these out word for word:
 
 > *"Wait a bit, old man!"*
 > — [Momotarō](../../../../handouts/momotaro.md). The boy says it from inside the peach
@@ -234,31 +232,28 @@ town:
 
 > *"Give me to drink!"*
 > — [the Three Citrons](../../../../handouts/the-three-citrons.md). The maiden says it
-> when the fruit is cut. The fountain in the square is carved with the fruit being
-> cut open.
+> when the fruit is cut. It is cut around the rim of the fountain in the square.
 
 > *its spathes are as the heads of Satans*
-> — [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md), Arberry, 37:65. It is also a
-> verse on the stair below.
+> — [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md), Arberry, 37:65. It is carved
+> on the stair below.
 
 `[quotations]` All three are real translated texts. Say them as written — don't smooth
 the wording out, and leave them alone on a style pass.
 
-**The water.** In the tale the maiden asks for water and vanishes
-when it does not come quickly enough. Here the newborn asks too:
+**The water.** In the Three Citrons the maiden asks for water and vanishes when it comes
+too slowly. The newborn also asks for water:
 
-- **Water, in the same round it asks** — it keeps talking, and goes on talking as long as
-  someone keeps pouring. The party has only the water in the skins they carried across
-  the deadland. This is what the town does at the fountain, where three stone maidens stand
-  under running water.
-- **No water** — it stops speaking and hardens. After that it fights or goes into the
+- **Water given in the same round it asks** — it keeps talking as long as someone pours. The party has only the water in the skins they carried across
+  the deadland.
+- **No water** — it stops speaking and hardens. After that it fights or burrows into the
   ground, and if it was named it guards that name from then on.
 
-**The name.** A demon's true name is **its own**, and it keeps it
-secret, which is why the only ways to get one are to find it written or to force it out of
-a demon just before true death
-([demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)). A newborn takes the first word it is called and keeps that. So the party gives the
-newborn a name, and that name binds it like any other true name. No roll.
+**The name.** A demon keeps its true name secret. To learn one, you find it written or
+force it out of a demon just before true death
+([demons and the hotspot](../../../nila/lore/demons-and-the-hotspot.md)). A newborn takes
+the first word it is called as its true name. If the party names the newborn, that name
+binds it like any other true name. No roll.
 
 **What steps out.** In every one of the town's stories a child steps out of the fruit,
 so a child steps out here. Once it hardens it is a **Quasit** (CR 1); its shape after
