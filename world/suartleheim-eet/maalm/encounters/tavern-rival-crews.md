@@ -336,16 +336,15 @@ in on the *roar* of the hair-joke; Mogg's coda lands in the hush after.
 > men cried at him to strike the sail and run while there was still water to run
 > on. And he says: 'Never have I fled a battle. Let the gods do as they like with
 > my life — but flight I will never take.' And when the last deck was lost, he
-> didn't kneel and he didn't yield. He stepped up onto the rail in his full
+> didn't kneel or yield. He stepped up onto the rail in his full
 > war-gear, lifted his shield over his head, and stepped off into the sea — and
 > the water closed over him, and no living man ever saw him again. Some say he
 > drowned in his iron. Some say he slipped the mail off underwater and swam away
 > to die old under a false name. An orc gets to pick which ending he likes. Me, I
 > like them both."
 
-(Full tales and the saga lines these are drawn from:
-[ships-and-sea-power.md](../../../the-sea/lore/ships-and-sea-power.md).) Linger, and Mogg will
-take requests — or a drink.
+Full tales and saga lines: [ships-and-sea-power.md](../../../the-sea/lore/ships-and-sea-power.md).
+If the party stays, Mogg tells another tale when asked, or when bought a drink.
 
 ### Three shorter pieces — for later rounds or "a tale for a cup" `[added 7/22]`
 
