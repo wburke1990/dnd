@@ -230,8 +230,8 @@ She wrappes him in a hairie hyde beset with speckled spottes,
 
 ## 4 — The hounds
 
-> *The riders bring their hounds up to the altar one at a time. Each one puts its head
-> against the deer-hide and the backs of her hands and sniffs her, and its rider backs it
+> *As Cassia descends from the altar, she walks past the hounds and their riders. Each
+> hound puts its head against the deer-hide and the backs of her hands and sniffs her, and its rider backs it
 > off. While the hounds sniff her, the priestess reads a list of dogs' names.*
 
 ```
@@ -251,7 +251,7 @@ And Ringwood with a shyrle loud mouth the which he freely spent,
 With divers mo whose names to tell it were but losse of tyme.
 ```
 
-> *Then two lines more.*
+> *She reads two more lines.*
 
 ```
 They hem him in on everie side, and in the shape of Stagge,
@@ -262,7 +262,8 @@ With greedie teeth and griping pawes their Lord in peeces dragge.
 
 ## 5 — The hymn and the gate
 
-> *They bring her down off the altar and walk her to the door.*
+> *As the hunted parties are escorted from the temple, the Melissae, Megabyzoi, and the
+> little girls in bear costumes begin to sing.*
 
 ```
 I sing of Artemis, whose shafts are of gold, who cheers on the hounds,
@@ -272,7 +273,9 @@ she draws her golden bow, rejoicing in the chase, and sends out grievous
 shafts.
 ```
 
-> *She turns to the room.*
+> *The wall is twenty feet of dressed stone, and the gate in it is timber a foot thick. At
+> the gate the head priestess turns to face you, and a dozen men on the windlass start
+> opening the gate.*
 
 ```
 And so hail to you, Artemis, in my song and to all goddesses as well. Now
@@ -281,21 +284,19 @@ that I have begun with you, I will turn to another song.
 
 **"The hounds go out at noon."**
 
-> *The Megabyzoi walk the quarry out of town, one on either side of each, and the riders
-> pass you on the road. The grass beside the road gets taller and greyer. The wall is
-> twenty feet of dressed stone, and the gate in it is timber a foot thick; a dozen men on
-> the windlass start it moving. They back a cart to the gate and pull the pins on a crate,
-> and a boar six feet at the shoulder goes through into the grass. You hear the boar
-> moving in the grass. The priestess puts a hand flat on Cassia's chest, then on each
-> quarry in turn. Beyond the gate the grass is waist-high.*
+> *The men back a cart to the open gate and pull the pins on a crate, and a boar six feet
+> at the shoulder runs out into the grass. You hear the boar moving in the grass. The
+> priestess puts a hand flat on Cassia's chest, then on each quarry in turn. The Megabyzoi
+> walk the quarry out through the gate, one on either side of each. The riders wait
+> behind, inside the gate. Beyond the wall the grass is grey and waist-high.*
 
 - **Longstrider** on each quarry, for the hour of the head start.
-- A quarry who breaks away from the escort on the road leaves the town unpaid, with the
+- A quarry who breaks away from the escort on the way to the gate leaves the town unpaid, with the
   tablet still on the board.
 
-`[for David]` The Calydonian boar. The hunters on the beast hunt are after it, and it is
-loosed into the preserve the same morning ([the game preserve](the-game-preserve.md)).
-Its stat block is David's. It wanders the preserve, and the party may meet it.
+`[for David]` This is the Calydonian boar, loosed into the preserve the same morning. The
+beast hunt is after it ([the game preserve](the-game-preserve.md)).
+David has its stat block. It wanders the preserve, and the party may meet it.
 
 ## The head start
 
