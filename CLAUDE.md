@@ -305,6 +305,14 @@ rg --files -g '*.md' world characters sessions handouts references docs \
 Fix every hit of the *new* rule; the back-catalog's other flags stay as
 they are and come out file by file under the paragraph above.
 
+**"Clean up my edits" means typos, line wrapping and consistency — not
+rewording.** `[Will, 10/8]` When the user hand-edits a file and asks for a
+clean-up, keep their sentences as written: fix spelling, wrap long lines, and
+fix what contradicts the rest of the file. Don't swap their phrasing for a
+plainer version of your own; twice in one pass they asked for their original
+back ("As Cassia descends from the altar", "As the hunted parties are escorted
+from the temple").
+
 **The same applies to a fix the user rejects.** When they call a rewrite
 bad, cutting the sentence is usually right — reach for the cut before
 writing a third version. A line that has already failed twice is a line
