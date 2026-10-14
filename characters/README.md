@@ -4,8 +4,8 @@
 
 | File | Status | What it is |
 |---|---|---|
-| [halen](halen.md) | `next` | The Ninth's binder, who read the demon's name off the tomb wall and kept it |
-| [the ninth](the-ninth.md) | `next` | The crew that kept a demon's true name instead of relaying it, now in Brauron |
+| [halen](halen.md) | `next` | The Ninth's wizard, with one of Preem's quasits on his shoulder |
+| [the ninth](the-ninth.md) | `next` | The crew that will keep a demon's true name instead of relaying it, now in Brauron |
 | [beartholomew](beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, working Aar's wharf as a Company ore guard |
 | [the ashfoot](the-ashfoot.md) | `draft` | Preem's crew that has been out among the scattered sites too long, held for a later city |
 | [aniess](aniess.md) | `reference` | Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order |

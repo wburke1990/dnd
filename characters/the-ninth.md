@@ -1,14 +1,15 @@
 ---
-summary: The crew that kept a demon's true name instead of relaying it, now in Brauron
+summary: The crew that will keep a demon's true name instead of relaying it, now in Brauron
 status: next
 ---
 
 # The Ninth — the crew that bound a demon
 
-> **NPC crew, in Brauron.** One of [Preem](preem.md)'s crews on grave-wages found a
-> demon sealed in a tomb with its true name carved on the wall beside it. They
-> were sent to relay that name. They kept it. **The party met their
-> binder, [Halen](halen.md), in a shop in Brauron.**
+> **NPC crew, in Brauron.** One of [Preem](preem.md)'s crews on grave-wages. In the
+> plot they find a demon sealed in a tomb with its true name carved on the wall
+> beside it, are sent to relay that name, and keep it. The crew reach the tomb
+> after Brauron. **The party met their binder, [Halen](halen.md), in a shop in
+> Brauron.**
 >
 > The plot — how the binding works, what happens to the crew, the two fights and
 > the two endings — is written out in
@@ -34,7 +35,7 @@ Five members, standard species like the other rival crews.
 | Name | Role | What they do |
 |---|---|---|
 | **Kesh Dural** | leader | Runs the crew. Halen does the talking. |
-| **[Halen](halen.md)** | full caster | Read the name off the wall and kept it. Below level 9, so he cannot cast Planar Binding yet. Speaks for the crew, including in the first fight. |
+| **[Halen](halen.md)** | full caster | Will read the name off the wall and keep it. Below level 9, so he cannot cast Planar Binding yet. Preem's quasit rides his shoulder. Speaks for the crew, including in the first fight. |
 | **Erin** | sea elf (she/her) diviner | Casts Summon Greater Demon, the summons that needs blood from a fresh kill. If the variant is used where the demon's CR is too high to bind, she spends a Portent die to pass the check. |
 | — | — | Two more, unwritten. |
 
@@ -45,11 +46,10 @@ rename.*
 **The level plan was 9–11: high enough to bind the demon and too low to hold it a
 year.** Two full casters at that level reach a ten-day binding, thirty days by level
 11, and have to keep re-casting it. The party can act while it is being re-cast.
-`[OPEN]` In Brauron Halen is below level 9, so the binding comes later
-and the head demon's current state is undecided — see
-[Halen's file](halen.md#who-he-is).
+`[settled — Will 10/13]` Halen is below level 9 and the crew reach the tomb after
+Brauron. The binding comes after both.
 
-## What is happening to them
+## What happens to them once they have the name
 
 `[settled]` The name makes the binding succeed automatically, so a mid-level crew
 holds a demon far above its level. The demon obeys the exact wording of the binding. It
@@ -73,9 +73,10 @@ applies equally to
 ## What has happened with the party
 
 **Brauron, the shop.** `[played]` The party were taking their time in a shop. Halen
-came in, told them to hurry along, and told them the crew would kill them. A quasit
-was in the room with him, invisible. The party have the name of one man and have
-watched an invisible quasit empty a shelf. To them the Ninth are one more of Preem's crews.
+came in, told them to hurry along, and told them the crew would kill them. Preem's
+quasit sat on his shoulder, invisible; Pax saw it with Detect Magic and by raising
+dust. The party have the name of one man and have seen Preem's quasit on his
+shoulder. To them the Ninth are one more of Preem's crews.
 
 ## Connections
 

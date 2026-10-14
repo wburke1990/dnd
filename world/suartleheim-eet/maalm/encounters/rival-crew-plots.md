@@ -60,12 +60,12 @@ and the party can act during those ten days.
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
 Leader **Kesh Dural**. Two full casters handle the demon:
 **[Halen](../../../../characters/halen.md)** holds the
-Planar Binding on the head demon and renews it *(in Brauron he is below level 9 and
-cannot cast it yet)*, and **Erin** — a sea elf (she/her) diviner —
+Planar Binding on the head demon and renews it *(in Brauron, before the tomb, he is below
+level 9 and cannot cast it yet)*, and **Erin** — a sea elf (she/her) diviner —
 casts Summon Greater Demon, the summons that needs blood from a fresh kill to call
 the lesser demons. If the
 [variant where the demon's CR is too high to bind](../../../../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics)
-is used, her Portent is what lets the crew hold the demon.
+is used, the crew hold the demon with her Portent.
 Five members, standard species like the other rival crews. *(Erin is an homage to a
 past-campaign character of the same name — the sea-elf demon-summoner — the same
 Erin [Preem's voice note](../../../../characters/preem.md) already names. Keep or

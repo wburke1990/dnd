@@ -1,13 +1,15 @@
 ---
-summary: The Ninth's binder, who read the demon's name off the tomb wall and kept it
+summary: The Ninth's wizard, with one of Preem's quasits on his shoulder
 status: next
 ---
 
 # Halen — the Ninth's binder
 
-The wizard in [the Ninth](the-ninth.md), the grave crew of [Preem](preem.md)'s that
-found a demon sealed in a tomb with its true name carved beside it. Halen read the
-name and kept it. He speaks for the crew. The party met him in a shop in Brauron.
+The wizard in [the Ninth](the-ninth.md), one of [Preem](preem.md)'s grave crews. In
+the plot the crew find a demon sealed in a tomb with its true name carved beside
+it, and Halen reads the name and keeps it. In Brauron the Ninth are still on
+Preem's books, hunting names for him, with one of Preem's quasits on Halen's
+shoulder. He speaks for the crew. The party met him in a shop in Brauron.
 
 The crew's plot — the binding, the killings it requires, the two fights and the two
 endings — is in
@@ -21,46 +23,41 @@ endings — is in
 ## Who he is
 
 - **Wizard, below level 9.** `[settled — Will 10/13]` He cannot cast Planar Binding
-  yet. He has the name and is working toward the level that lets him use it. The
-  Ninth's sheet and the plot file assume the binding is already in place; see the
-  open question below.
+  yet.
 - **The crew's reader.** `[draft]` A copyist hired onto grave crews because he reads
   tomb script, and the lowest-paid of the five. He was the one sent up to the wall
   to copy the name for Preem, and the only one of them who could read it.
-- 🔒 **He read the warning too.** `[draft]` Halen read the account carved beside the name:
-  an earlier crew took the name when the demon was near death, and the demon lied
-  to them. He kept the name anyway. He has told the crew the carving was a grave
-  list.
+- 🔒 **He reads the warning too.** `[draft — for the tomb]` When the crew reach the
+  tomb, Halen reads the account carved beside the name: an earlier crew took the
+  name when the demon was near death, and the demon lied to them. He keeps the name
+  anyway and tells the crew the carving was a grave list.
 - **He speaks for the crew.** `[settled — Brauron]` In the plot file the binder does
-  the talking in the first fight, and in Brauron Halen came into the shop. Kesh Dural leads; Halen talks.
+  the talking in the first fight, and in Brauron Halen came into the shop. Kesh
+  Dural leads the crew and Halen does the talking.
 
-`[OPEN]` **Whether the head demon is bound.** Halen cannot bind it yet. Either the
-demon is still sealed in the tomb and the Ninth hold only the name, or it is loose
-and commanding them with no binding at all. The plot file's
-[open ending](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md#the-crew-that-bound-a-demon)
-covers the second case. Decide before the party follow the crew out of Brauron.
+`[settled — Will 10/13]` **The tomb comes after Brauron.** In Brauron the Ninth are
+one of Preem's crews, with the quasit he planted on them. The head demon is still
+sealed where it was left. The plot file's binding, the names that come out of it
+and the killings done to get them all start after the crew find the tomb and Halen
+reaches level 9.
 
 ## How he talks
 
-Quiet and exact. He uses the shop's
-goods and the shopkeeper's name because he has been in the town before. He tells them
+Quiet and exact. He names the
+shopkeeper and the goods on the shelves, because he has been in the town before. He tells them
 what the crew will do that afternoon, and when.
 
 ## What he carries
 
-- **A stoppered vial of blood** on a cord at his throat. It is the component for
-  Erin's Summon Greater Demon, drawn from a humanoid killed within the day. He takes
-  it off and sets it on the counter while he talks, and puts it back on when he
-  leaves. The party learn whose blood it is when they find the village of the dead.
-- **A quasit, invisible, in the room with him.** `[settled — Brauron]` It came into
-  the shop with him. Jars slide, the lamp gutters, a shelf empties onto the floor.
-  He keeps his eyes on the party the whole time. It is Tiny, CR 1, and the first
-  demon the Ninth have called by name.
+- **Preem's quasit, invisible, on his shoulder.** `[settled — Brauron]` One of the
+  [quasits Preem plants in each crew hunting names for him](preems-demons.md#the-crew-familiars--one-planted-quasit-per-group).
+  Tiny, CR 1. Pax saw it with Detect Magic and by raising dust.
 
 ## Brauron — the shop `[played]`
 
 The party were in a shop in Brauron. Halen came in, told them to hurry along, and
-told them the crew would kill them. The quasit was in the room with him, invisible.
+told them the crew would kill them. Preem's quasit sat on his shoulder, invisible.
+Pax saw it with Detect Magic and by raising dust.
 
 ### Leaving `[planned]`
 
@@ -80,8 +77,9 @@ own casting or damage he takes can break it.
 **Erin casts Dimension Door and takes him.** `[settled — Will 10/13]` 4th level,
 500 ft, one willing creature within 5 ft. She casts it from her own slot. She has
 been standing at his shoulder the whole time. She puts a hand on his arm, and the
-two of them are gone. The spell carries one passenger, so the quasit leaves on its
-own: it takes bat form, invisible, and is out the door at 40 ft on its first turn. The party are left in the shop at half speed with the shopkeeper.
+two of them are gone, and the quasit goes with them on Halen's shoulder. Ruling:
+Halen is the spell's one passenger, and a Tiny creature riding on him travels as
+carried. The party are left in the shop at half speed with the shopkeeper.
 
 **Then the beggars.** `[settled — Will 10/13]` The beggars from the street outside
 come in through the door the party are standing in and go for their legs with
@@ -123,10 +121,9 @@ the Constitution save to keep Slow is easier when an arrow lands.
 
 ## What he wants
 
-To cast Planar Binding on the demon whose name he holds. So far he has called one
-quasit, and the crew are paid because he has promised them the name will bind
-a demon. He needs several more levels before he can cast Planar Binding, and each
-one is a season of grave work.
+To cast Planar Binding on a demon of his own. He needs level 9 for the spell and a
+name to cast it with. Until then he is on Preem's grave wages, and each level takes him
+a season of grave work.
 
 ## Connections
 
