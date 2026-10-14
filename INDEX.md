@@ -291,9 +291,10 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
+| [halen](characters/halen.md) | `next` | The Ninth's binder, who read the demon's name off the tomb wall and kept it |
+| [the ninth](characters/the-ninth.md) | `next` | The crew that kept a demon's true name instead of relaying it, now in Brauron |
 | [beartholomew](characters/beartholomew.md) | `draft` | Aniess's friend from the Order's cohort, working Aar's wharf as a Company ore guard |
 | [the ashfoot](characters/the-ashfoot.md) | `draft` | Preem's crew that has been out among the scattered sites too long, held for a later city |
-| [the ninth](characters/the-ninth.md) | `idea` | The crew that kept a demon's true name and bound it instead of relaying it, on hold |
 | [aniess](characters/aniess.md) | `reference` | Player character (Greg) — a yuan-ti rogue-cleric of Kuru's crusader order |
 | [annibel](characters/annibel.md) | `reference` | The half-orc general who reversed Kuru's reconquest and was defeated at Ilka Mak |
 | [arishat](characters/arishat.md) | `reference` | A dragonborn zealot at Jotunheim who keeps the caldera's books |

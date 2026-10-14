@@ -52,7 +52,7 @@ boar is loose in the ground the party cross, and the riders hunting the boar cro
 The hunters ride **great hounds** and wear **hound-pelts**. The hounds are big enough for
 a gnome to ride.
 
-**Great hound.** Large beast, **Speed 50 ft.**, keen smell, and carries a Small or Medium rider.
+**Great hound.** Large beast, **Speed 60 ft.** (a riding horse's speed), keen smell, and carries a Small or Medium rider.
 `[for David]` the block — a dire wolf or a worg is the right size and speed to start from.
 
 **They have the quarry's smell before the quarry leaves.** Each hound is walked up to the
@@ -69,13 +69,13 @@ gate an hour before noon with Longstrider on them (Speed 40, so a fast pace is a
 5 mph), and the hounds come through at noon.
 
 **How long the head start lasts.** A mount gallops for about an hour at double pace, and a great
-hound at Speed 50 makes about 6.5 mph at a fast pace, so 13 at a gallop. The party are
-back to Speed 30 by then, because Longstrider ran out at noon.
+hound at Speed 60 makes about 8 mph at a fast pace, so 16 at a gallop. The party are
+back to Speed 30 by then, because Longstrider ran out at noon, and make about 4 mph.
 
 | The riders | They arrive |
 |---|---|
-| **Galloping from noon** | **About half an hour after noon**, six or seven miles out from the gate. |
-| At a steady fast pace | About two hours after noon. |
+| **Galloping from noon** | **About twenty-five minutes after noon**, six or seven miles out from the gate. |
+| At a steady fast pace | About an hour and a quarter after noon. |
 
 **The earliest the party can be caught is around half past noon on day one**, six or
 seven miles from the gate. If the quarry walked their hour instead of running it, take ten
@@ -97,7 +97,7 @@ spread across the preserve. **The party meet one hunting party at a time.**
 |---|---|
 | **Armor Class** | 16 (scale mail and shield) |
 | **Hit Points** | 39 (6d8 + 12) |
-| **Speed** | 30 ft. on foot, 50 ft. mounted |
+| **Speed** | 30 ft. on foot, 60 ft. mounted |
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -116,7 +116,7 @@ on foot — so a dismounted hunter either drops the shield or drops the lance.
 
 **Hunting sword.** +4 to hit, reach 5 ft., **6 (1d8 + 2)** slashing.
 
-**The hound under them.** AC 14, 37 hit points, Speed 50 ft. While ridden it takes only
+**The hound under them.** AC 14, 37 hit points, Speed 60 ft. While ridden it takes only
 Dash, Disengage or Dodge (below).
 
 ### How many ride in, and what level the party should be
@@ -175,8 +175,8 @@ party that fights all afternoon reaches dark with no spell slots.
 **The hounds are controlled mounts** and act on their riders' turns. **A hound whose rider
 is killed goes independent on the next round** and fights on its own initiative.
 
-**The mounts give the hunters speed.** On the rider's turn the hound can Dash — Speed 50,
-so up to 100 feet — while the rider attacks, and it can Disengage instead to ride out
+**The mounts give the hunters speed.** On the rider's turn the hound can Dash — Speed 60,
+so up to 120 feet — while the rider attacks, and it can Disengage instead to ride out
 without an opportunity attack. The riders ride in, attack with the lance, and ride out of
 reach.
 
@@ -189,8 +189,8 @@ hounds are bred for this ground and cross it at full speed.
   druid 1st-level spell, a 20-foot square, Strength save or restrained — and a restrained
   hound's speed is 0, so the rider stays in reach.
 - **[*Spike Growth*](https://dnd2024.wikidot.com/spell:spike-growth)** is 2d4 for every
-  5 feet moved through it. Against a hound Dashing 100 feet a turn, that is 2d4 for every
-  5 feet it covers inside the area, and Blackacre has the slots for it at druid 3
+  5 feet moved through it. A hound Dashing 120 feet a turn takes it for every 5 feet of
+  the area it crosses, and Blackacre has the slots for it at druid 3
   ([Blackacre](../../../../characters/blackacre.md)).
 - **Move the mount.** Anything that shoves or drags the hound forces the DC 10 save and
   can knock the rider prone within 5 feet of it.
@@ -244,12 +244,12 @@ The crossing runs:
 
 **Longstrider is +10 ft. for one hour**, cast at the gate. It lasts the hour of the head
 start and ends when the hounds come through. After that the party are at **30 against the
-hounds' 50** — unless **Blackacre recasts it.** Longstrider is a druid 1st-level spell and
+hounds' 60** — unless **Blackacre recasts it.** Longstrider is a druid 1st-level spell and
 he can put one character back to 40 for an hour per spell slot
 ([Blackacre](../../../../characters/blackacre.md)).
 
 Once the riders reach them, the party fight. The hounds hold the scent and cover ground at
-50 to the party's 30.
+60 to the party's 30.
 
 `[OPEN]` **Who is riding at them** — whether the crew that drank with the party at the
 Tally House is the crew that runs them down. The Lapis Writ paid to be here and Calix
