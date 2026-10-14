@@ -78,10 +78,34 @@ Slow is concentration, so his crew get him out of range while he holds it. Only 
 own casting or damage he takes can break it.
 
 **Erin casts Dimension Door and takes him.** `[settled — Will 10/13]` 4th level,
-500 ft, one willing creature within 5 ft. She casts it from her own slot. She has been standing
-at his shoulder the whole time. She puts a hand on his arm, and
-the two of them are gone. The party are left in the shop at half speed with the
-shopkeeper, and the quasit is still in the room.
+500 ft, one willing creature within 5 ft. She casts it from her own slot. She has
+been standing at his shoulder the whole time. She puts a hand on his arm, and the
+two of them are gone. The spell carries one passenger, so the quasit leaves on its
+own: it takes bat form, invisible, and is out the door at 40 ft on its first turn. The party are left in the shop at half speed with the shopkeeper.
+
+**Then the beggars.** `[settled — Will 10/13]` The beggars from the street outside
+come in through the door the party are standing in and go for their legs with
+knives. They use the
+[leg strike house rule](../world/nila/lore/house-rules-and-world-mechanics.md#leg-strikes).
+The beggars' job is to make sure the slowest party member is the one still in the
+shop when the crew come back.
+
+| Commoner with a knife | |
+|---|---|
+| AC / HP | 10 / 4 |
+| Speed | 30 ft |
+| Attack | +2 to hit, reach 5 ft |
+| Damage, leg strike | half of 1d4, rounded down: a roll of 1 does 0, 2 or 3 does 1, 4 does 2 |
+| Save | Constitution DC 10 |
+| Save failed | hamstrung: speed halved, no Dash, until healed or bound |
+| Save passed | speed down 10 ft until the end of the target's next turn |
+
+Against AC 16 a beggar hits on 14 or better, and the slowed PC's AC is 2 lower, so
+call it four in ten. Six beggars on one PC land two or three stabs a round, and a
+Constitution 14 fighter fails DC 10 about one time in four. Expect one hamstring a
+round across the group. Slowed PCs have no reactions, so the beggars crawl around
+and under them freely, and one action a turn, so a PC who kills the beggar on one
+leg still has the other beggar's knife in the other.
 
 Other ways out, if Erin is elsewhere:
 

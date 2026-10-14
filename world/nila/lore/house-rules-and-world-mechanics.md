@@ -246,6 +246,37 @@ Maalm specifically sits above an unusually active section of the tunnel network 
 
 ---
 
+# LEG STRIKES
+
+`[settled — Will 10/13]` Anyone with a melee weapon can strike at the legs of a
+creature that has them. Players and monsters use the same rule.
+
+- **Declare the legs, then make a normal melee attack.** On a hit the weapon does
+  **half damage**, rounded down.
+- **The target makes a Constitution save, DC 8 plus the attacker's attack bonus.** A
+  commoner with a knife sets DC 10.
+- **Save failed: hamstrung.** Speed halved, and the creature cannot Dash. It lasts
+  until the creature regains any hit points, or until someone spends an action and
+  a DC 10 Medicine check to bind the leg.
+- **Save passed:** speed reduced by 10 ft until the end of the target's next turn.
+- **A hamstrung creature that is hamstrung again stays at half speed.** Slow and
+  anything else that halves speed apply on top of it.
+
+| Speed | Normal | Slowed | Slowed and hamstrung |
+|---|---|---|---|
+| 30 ft | 30 | 15 | 7 |
+| 25 ft | 25 | 12 | 6 |
+
+Standing up from prone costs half of a creature's speed, so a slowed, hamstrung
+creature that is shoved down stands up and has used all its movement for the turn.
+
+The rule trades damage for the effect so that weak attackers can use it: a
+commoner with a knife at +2 to hit lands a stab on about four attacks in ten
+against a slowed PC in plate; with disadvantage it would be two in ten. First used by the beggars in Brauron,
+in [Halen's exit from the shop](../../../characters/halen.md#leaving-planned).
+
+---
+
 # CAMPAIGN CONNECTIONS
 
 **The wizard's operation:**
