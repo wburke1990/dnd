@@ -16,6 +16,7 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 
 | File | Status | What it is |
 |---|---|---|
+| [the mounted hunters run sheet](encounters/the-mounted-hunters-run-sheet.md) | `next` | Run sheet for David on how four mounted Maalm hunters fight the party, turn by turn |
 | [dressing the stag](encounters/dressing-the-stag.md) | `ready` | The priestesses of Artemis dress Cassia as the stag, using the steps of a Homeric sacrifice |
 | [the sail to brauron](encounters/the-sail-to-brauron.md) | `ready` | The northern leg — the sail up the coast, the storm, the Thinkers, and Brauron |
 | [the game preserve](encounters/the-game-preserve.md) | `draft` | The cult of Artemis hunt in the poison deadland outside Brauron |

@@ -86,6 +86,8 @@ running it, take half an hour off.
 
 ## The fight: mounted hunters against the party `[proposed — Will 9/21]`
 
+David runs the riders from [the mounted hunters run sheet](the-mounted-hunters-run-sheet.md).
+
 **A hunting party of Maalm aristocrats on great hounds, against the party on foot.** They
 are the aristocrats who chartered the transport, and there are several such parties
 spread across the preserve. **The party meet one hunting party at a time.**
