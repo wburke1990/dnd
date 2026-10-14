@@ -8,8 +8,8 @@ status: draft
 > Notes still to be dictated. Picks up from [session 16](session-16.md).
 
 The party roam the peach grove around [Brauron](../world/suartleheim-eet/brauron/encounters/the-peach-town.md).
-They meet a group of satyrs there, a hunting party mounted on great hounds, as the
-preserve's hunters are. The satyrs talk with the party, and the talk ends in a quarrel.
+They meet a group of satyrs in the grove, in town for the hunt. The satyrs talk with the party,
+and the talk ends in a quarrel.
 
 `[Will]` What was said, whether they fought, and how it ended.
 
