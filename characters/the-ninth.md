@@ -13,7 +13,6 @@ status: next
 > The plot — how the binding works, what happens to the crew, the two fights and
 > the two endings — is written out in
 > [rival crew plots → the crew that bound a demon](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md#the-crew-that-bound-a-demon).
-> This page holds the roster.
 >
 > Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
 
@@ -23,7 +22,7 @@ status: next
 
 `[settled — Will 10/13]` The Ninth are in Brauron, and Halen has threatened the
 party in a shop there. See [Halen's file](halen.md) for the scene and how he leaves
-it. The pairing of the Ninth's leader with a PC is still open. `[OPEN]` Current
+the shop. The pairing of the Ninth's leader with a PC is still open. `[OPEN]` Current
 guess: [Aniess](aniess.md) — decide off her actions in play.
 
 **The name is a placeholder** — the ninth crew Preem chartered. Swap it freely.
@@ -57,18 +56,18 @@ holds a demon far above its level. The demon obeys the exact wording of the bind
 gives them the true names of lesser demons one at a time, and each name is a demon
 they can call without a roll. Summon Greater Demon needs blood from a humanoid
 killed within the day, so every name it gives them is another person the crew
-has to kill. Preem runs the same arrangement with his own crews. Here the demon
-gives the orders.
+has to kill. The demon gives the orders.
 
 🔒 **The warning at the seal.** The demon is older than true-name binding. The
 earliest binders brought it near death to force the name out of it, the method
 from the myth of Isis and Ra. It lied and gave a false name. Whoever sealed it
-carved that false name beside it, with an account of how it was taken, as a
-warning. The party can read it.
+carved that false name beside it, with an account of how the name was forced out of
+the demon, as a warning. The party can read it.
 
 `[OPEN]` **Whether the binding is real at all.** Either version works and the
-choice is made at the table. If it was never bound, the demon summoned them. And if the carved name is false, the binding built on it is
-false, which applies equally to
+choice is made at the table. If it was never bound, the demon summoned them. And if
+the carved name is false, a binding cast with that false name is also false, which
+applies equally to
 [the volcano-demon of the climax](preem.md#the-climax--the-volcano-demon-choice).
 
 ## What has happened with the party
@@ -76,7 +75,7 @@ false, which applies equally to
 **Brauron, the shop.** `[played]` The party were taking their time in a shop. Halen
 came in, told them to hurry along, and told them the crew would kill them. A quasit
 was in the room with him, invisible. The party have the name of one man and have
-seen one demon's work. To them the Ninth are one more of Preem's crews.
+watched an invisible quasit empty a shelf. To them the Ninth are one more of Preem's crews.
 
 ## Connections
 

@@ -27,14 +27,12 @@ endings — is in
 - **The crew's reader.** `[draft]` A copyist hired onto grave crews because he reads
   tomb script, and the lowest-paid of the five. He was the one sent up to the wall
   to copy the name for Preem, and the only one of them who could read it.
-- 🔒 **He read the warning too.** `[draft]` The Ninth's sheet leaves open whether the
-  crew could read the account carved beside the name. Halen could. He read the account:
+- 🔒 **He read the warning too.** `[draft]` Halen read the account carved beside the name:
   an earlier crew took the name when the demon was near death, and the demon lied
   to them. He kept the name anyway. He has told the crew the carving was a grave
   list.
 - **He speaks for the crew.** `[settled — Brauron]` In the plot file the binder does
-  the talking in the first fight, and in Brauron it was Halen who came into the
-  shop. Kesh Dural leads; Halen talks.
+  the talking in the first fight, and in Brauron Halen came into the shop. Kesh Dural leads; Halen talks.
 
 `[OPEN]` **Whether the head demon is bound.** Halen cannot bind it yet. Either the
 demon is still sealed in the tomb and the Ninth hold only the name, or it is loose
@@ -44,7 +42,7 @@ covers the second case. Decide before the party follow the crew out of Brauron.
 
 ## How he talks
 
-Quiet and exact. He gives a time and a consequence and stops. He uses the shop's
+Quiet and exact. He uses the shop's
 goods and the shopkeeper's name because he has been in the town before. He tells them
 what the crew will do that afternoon, and when.
 
@@ -77,20 +75,20 @@ told them the crew would kill them. The quasit was in the room with him, invisib
 | Duration | one minute, concentration |
 
 Slow is concentration, so his crew get him out of range while he holds it. Only his
-own casting or damage he takes can break it; a crew member's spell leaves it alone.
+own casting or damage he takes can break it.
 
 **Erin casts Dimension Door and takes him.** `[settled — Will 10/13]` 4th level,
-500 ft, one willing creature within 5 ft. Her slot, not his. She has been standing
+500 ft, one willing creature within 5 ft. She casts it from her own slot. She has been standing
 at his shoulder the whole time. She puts a hand on his arm, and
 the two of them are gone. The party are left in the shop at half speed with the
 shopkeeper, and the quasit is still in the room.
 
 Other ways out, if Erin is elsewhere:
 
-- **Erin casts Fly on him** before he walks in. Her concentration, not his. He steps
+- **Erin casts Fly on him** before he walks in. She holds the concentration. He steps
   out and climbs at 60 ft a round for ten minutes.
-- **A horse held at the door.** Kesh on it, Halen hauled up behind. 60 ft a round,
-  and the party on foot at half speed.
+- **A horse held at the door.** Kesh sits on it and hauls Halen up behind him. 60 ft
+  a round, and the party follow on foot at half speed.
 - **Misty Step on his own next turn.** 30 ft, bonus action, no concentration. It
   has to wait a turn: a bonus action spell locks his action to a cantrip, and Slow
   takes the action.
@@ -101,8 +99,8 @@ the Constitution save to keep Slow is easier when an arrow lands.
 
 ## What he wants
 
-To reach the binding. He has the name of a demon far above him and a quasit to show
-for it so far, and the crew are paid because he has promised them the name will bind
+To cast Planar Binding on the demon whose name he holds. So far he has called one
+quasit, and the crew are paid because he has promised them the name will bind
 a demon. He needs several more levels before he can cast Planar Binding, and each
 one is a season of grave work.
 
