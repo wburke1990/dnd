@@ -7,7 +7,7 @@ status: draft
 
 ## A D&D Encounter — Design Note `[draft]`
 
-> **How to use this doc.** Two parts. Part One is background — read once in prep. Part Two is the run sheet, in play order: read-aloud, the lines to say, the rolls, the resolutions. Run the session from Part Two.
+> **How to use this doc.** Part One is background for prep. Part Two is the run sheet. Run the session from Part Two.
 
 ---
 
@@ -21,8 +21,8 @@ status: draft
 > it and crosses to the tree. Read [the hell-tree](the-hell-tree.md) first; the
 > town is [Brauron](the-peach-town.md).
 
-The land past Brauron is poison. No one lives further inland than
-[Brauron](the-peach-town.md). Out in that
+The land past Brauron is poison. [Brauron](the-peach-town.md) is the last town inland.
+Out in that
 wild land the [cult of Artemis](the-peach-town.md) holds a **sacred hunt** once a year,
 and [the hell-tree](the-hell-tree.md) stands in the middle of the hunting ground. The
 party joins the hunt to get past the wall, then breaks off
@@ -33,8 +33,8 @@ Source for the approach: *Heart of Darkness*.
 ## The hunt
 
 The [cult of Artemis](the-peach-town.md) runs it out in the wild, once a year, and it
-runs **seven days** — the quarry out through the gate an hour before noon on day one, the
-hounds loosed at noon behind them, the horn at sundown on day seven. The tree is one day
+runs **seven days**: the quarry go out through the gate an hour before noon on day one,
+the hounds are loosed at noon behind them, and the horn sounds at sundown on day seven. The tree is one day
 out, so they have most of the seven days once they are through the gate. The full sequence is in
 [the dressing](dressing-the-stag.md). Two hunts:
 
@@ -45,9 +45,9 @@ out, so they have most of the seven days once they are through the gate. The ful
   is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
 
 **Both go out the same gate on the same morning and are hunted in the same ground.** The
-boar is loose in the ground the party cross, and the riders after it cross it too.
+boar is loose in the ground the party cross, and the riders hunting the boar cross the same ground.
 
-## The hounds, and the chase `[proposed — Will 9/21]`
+## The hounds, and the head start `[proposed — Will 9/21]`
 
 The hunters ride **great hounds** and wear **hound-pelts**. The hounds are big enough for
 a gnome to ride.
@@ -56,13 +56,12 @@ a gnome to ride.
 `[for David]` the block — a dire wolf or a worg is the right size and speed to start from.
 
 **They have the quarry's smell before the quarry leaves.** Each hound is walked up to the
-altar and smells the deer-hide and the hands
+altar and smells the deer-hide and the quarry's hands
 ([the dressing](dressing-the-stag.md), step 7). The hounds follow it without tracking
-checks, out of sight of the quarry and across a night's gap.
+checks, out of sight of the quarry and after a night has passed.
 
 Washing the smell off takes a long scrub in clean water, and all the water inside the wall
-is poison — which is what the
-priestess means by *"Bad water."* A quarry who gets in it to break the scent is drinking
+is poison. The priestess calls it *"bad water."* A quarry who gets in it to break the scent is drinking
 and breathing the poison.
 
 **The head start is one hour**, and it is about five miles. The quarry go through the
@@ -138,8 +137,8 @@ Hunters at CR 2, adjusted by the group multiplier for a party of five or more:
 | **Four hunters** | 2,700 | Past deadly | Just past deadly |
 | **Five hunters** | 3,375 | Past deadly | Past deadly |
 
-**Four for the first fight**, and three for the ones after it. The fight ends with the
-party breaking off, using the chase rules below.
+**Four for the first fight**, and three for the ones after it. The party cannot outrun
+the hounds, so each fight is fought to the end: the hunters are killed.
 
 **Level 4 also gives an ASI or a feat.** Sentinel sets a creature's speed to 0 when you
 hit it with an opportunity attack, so a rider hit by one stays in reach.
@@ -204,10 +203,10 @@ hounds are bred for this ground and cross it at full speed.
 A lance has disadvantage against anything within 5 feet, so a character inside its reach
 is harder to hit.
 
-## Both hunts are kills
+## Both hunts end in a kill
 
 **The hunters are hunting to kill.** The boar is run down and killed. So is the person in
-the antlers. Actaeon is the model and the temple reads it out over the quarry at the
+the antlers. The temple reads the Actaeon story over the quarry at the
 dressing — the hounds pull the stag down and tear it apart
 ([the dressing](dressing-the-stag.md), step 7). The temple pays each quarry's share to the
 address they gave, whether they live or not.
@@ -224,7 +223,7 @@ hung in the temple. The gate opens only for a quarry wearing the rack
 
 ## The tree is inside the wall
 
-**The tree stands inside the wall, one day from the gate.** The ground is the goddess's under the name Hecate
+**The tree stands inside the wall, one day from the gate.** The ground belongs to the goddess, worshipped there as Hecate
 ([the founding](../lore/the-founding-of-brauron.md)). A rider running a quarry down
 follows them to it. **If the party are caught at the tree, the fight happens there**, with
 the Manes and Dretch that are already in the branches and the roots
@@ -245,16 +244,12 @@ The crossing runs:
 
 **Longstrider is +10 ft. for one hour**, cast at the gate. It lasts the hour of the head
 start and ends when the hounds come through. After that the party are at **30 against the
-hounds' 50** — unless **Blackacre keeps it up.** Longstrider is a druid 1st-level spell and
-he can put one character back to 40 for an hour a slot
+hounds' 50** — unless **Blackacre recasts it.** Longstrider is a druid 1st-level spell and
+he can put one character back to 40 for an hour per spell slot
 ([Blackacre](../../../../characters/blackacre.md)).
 
-The party get away by fighting the riders off or using the terrain.
-
-`[run]` **Run the breaking-off as a chase** (*DMG* chase rules): a creature can Dash a number
-of times equal to 3 + its Constitution modifier before it starts making DC 10 Constitution
-saves or taking exhaustion, and the grass, the gullies, the boar and the poisoned animals
-are the complications.
+Once the riders reach them, the party fight. The hounds hold the scent and cover ground at
+50 to the party's 30.
 
 `[OPEN]` **Who is riding at them** — whether the crew that drank with the party at the
 Tally House is the crew that runs them down. The Lapis Writ paid to be here and Calix
@@ -301,7 +296,7 @@ The hunt is the **only way through the gate**, so every one of Preem's
 ---
 
 # PART TWO — RUN SHEET
-*Play order. Read-aloud, lines, rolls, resolutions — run the session from here.*
+*Run the session from here.*
 
 ---
 
@@ -312,7 +307,7 @@ The hunt is the **only way through the gate**, so every one of Preem's
 > tall enough to ride four abreast under. Past it the grass is grey-green and waist-high
 > and the trees are knotted and low. Hunters are gathering: gnomes in hound-pelts, up on
 > the backs of great hounds, one hound to each rider. The ones off the Maalm boats stand
-> in their own groups, in the same pelts, waiting to be mounted. Far out past the grass,
+> in their own groups, in the same pelts, waiting for their hounds. Far out past the grass,
 > one tree stands above the low trees.*
 
 `[OPEN]` **Who built the wall, and what a gate that size was cut for.** The cult keeps it
@@ -354,7 +349,7 @@ the symptoms are and how they are tracked is `[OPEN]` below.
 ### Read aloud — a shrine on the way
 
 > *A little pile of stones stands beside the path, no taller than a knee, with a flat
-> slab set on top. Words are cut into the slab. Nothing is built near it. The stones
+> slab set on top. Words are cut into the slab. The stones
 > are weathered and the cut words worn. Further on there is another, and past that
 > another.*
 
@@ -362,7 +357,7 @@ The shrines are **[Brauron](the-peach-town.md)'s** — cut long ago by the town'
 artisans for the [cult of Artemis](the-peach-town.md), who run the hunt and the rite of
 the tree — and untended now. The slabs carry the
 **[Anchar](../../../../handouts/anchar.md)** poem — the lone poison-tree, and the master who
-sends a man to gather from it and not come back. (The
+sends a man to gather its poison, and the man dies of it. (The
 Qur'an's [Zaqqum](../../../../handouts/the-tree-of-zaqqum.md) is down the stair at the tree
 itself — see [the hell-tree](the-hell-tree.md).)
 
@@ -378,6 +373,3 @@ before they reach it (see [the hell-tree](the-hell-tree.md)).
 `[OPEN]` the stages of the approach — how many shrines, and how the mutation is
 tracked.
 
----
-
-*End of preserve design note.*
