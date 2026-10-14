@@ -167,7 +167,7 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 | File | Status | What it is |
 |---|---|---|
 | [the mounted hunters run sheet](world/suartleheim-eet/brauron/encounters/the-mounted-hunters-run-sheet.md) | `next` | Run sheet for David on how four mounted Maalm hunters fight the party, turn by turn |
-| [the satyrs run sheet](world/suartleheim-eet/brauron/encounters/the-satyrs-run-sheet.md) | `next` | Run sheet for David on how the grove satyrs fight the party on day two of the hunt |
+| [the satyrs run sheet](world/suartleheim-eet/brauron/encounters/the-satyrs-run-sheet.md) | `next` | Run sheet for David on how the mounted grove satyrs fight the party on day two of the hunt |
 | [dressing the stag](world/suartleheim-eet/brauron/encounters/dressing-the-stag.md) | `ready` | The priestesses of Artemis dress Cassia as the stag, using the steps of a Homeric sacrifice |
 | [the sail to brauron](world/suartleheim-eet/brauron/encounters/the-sail-to-brauron.md) | `ready` | The northern leg — the sail up the coast, the storm, the Thinkers, and Brauron |
 | [the game preserve](world/suartleheim-eet/brauron/encounters/the-game-preserve.md) | `draft` | The cult of Artemis hunt in the poison deadland outside Brauron |
