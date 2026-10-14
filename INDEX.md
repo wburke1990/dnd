@@ -17,7 +17,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [musleheim](world/musleheim/README.md) | 5 | The fire island: the Muspel empire and the orc wars. |
 | [nila](world/nila/README.md) | 25 | The world itself: cosmology, history, rules, and the powers that span regions. |
 | [suartleheim-eet](world/suartleheim-eet/README.md) | 1 | The SE landmass, and the campaign's home ground. |
-| [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 7 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
+| [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 8 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
 | [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 10 | Raand, Copaa, Aar and the Haals mines. |
 | [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
@@ -167,6 +167,7 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 | File | Status | What it is |
 |---|---|---|
 | [the mounted hunters run sheet](world/suartleheim-eet/brauron/encounters/the-mounted-hunters-run-sheet.md) | `next` | Run sheet for David on how four mounted Maalm hunters fight the party, turn by turn |
+| [the satyrs run sheet](world/suartleheim-eet/brauron/encounters/the-satyrs-run-sheet.md) | `next` | Run sheet for David on how the grove satyrs fight the party on day two of the hunt |
 | [dressing the stag](world/suartleheim-eet/brauron/encounters/dressing-the-stag.md) | `ready` | The priestesses of Artemis dress Cassia as the stag, using the steps of a Homeric sacrifice |
 | [the sail to brauron](world/suartleheim-eet/brauron/encounters/the-sail-to-brauron.md) | `ready` | The northern leg — the sail up the coast, the storm, the Thinkers, and Brauron |
 | [the game preserve](world/suartleheim-eet/brauron/encounters/the-game-preserve.md) | `draft` | The cult of Artemis hunt in the poison deadland outside Brauron |
@@ -405,6 +406,7 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
+| [session 17](sessions/session-17.md) | `draft` | The party meet satyrs in the peach grove around Brauron, and the talk ends in a quarrel |
 | [session 01](sessions/session-01.md) | `played` | Meet Preem, take the names commission, and the rat man escapes |
 | [session 02](sessions/session-02.md) | `played` | The road to the Valley of the Kings, the Set-beast, and Tomb I cleared |
 | [session 03](sessions/session-03.md) | `played` | Tombs II and III — the cave lions and the mummy Kethara |

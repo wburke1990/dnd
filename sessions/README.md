@@ -111,6 +111,7 @@ the **rat man**, who's a real recurring antagonist but not yet statted).
 
 | File | Status | What it is |
 |---|---|---|
+| [session 17](session-17.md) | `draft` | The party meet satyrs in the peach grove around Brauron, and the talk ends in a quarrel |
 | [session 01](session-01.md) | `played` | Meet Preem, take the names commission, and the rat man escapes |
 | [session 02](session-02.md) | `played` | The road to the Valley of the Kings, the Set-beast, and Tomb I cleared |
 | [session 03](session-03.md) | `played` | Tombs II and III — the cave lions and the mummy Kethara |
