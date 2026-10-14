@@ -42,36 +42,38 @@ level 13, or five at level 9), never a grave-crew.
 
 One of Preem's crews on grave-wages, a season from becoming the Ashfoot, found a
 demon **sealed in a tomb** — a guardian left with the dead, its true name carved
-on the wall beside it. That name was the thing they were sent to relay to Preem.
+on the wall beside it. They were sent to relay that name to Preem.
 They kept it, and cast
 [Planar Binding](../../../../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics)
 on the demon with the name instead. The name makes the binding auto-succeed, so a
-mid-level crew held a demon far above its own level. It works. The demon fights
-beside them and does the work that kills lesser crews, and the Ninth start
+mid-level crew held a demon far above its own level. The demon fights
+beside them and fights the battles that kill other crews, and the Ninth start
 winning. The demon is more intelligent than any of them: it obeys every order, and
 gives orders of its own that serve its release. The binding lapses and has to be
-re-cast, and the Ninth are a
-crew, not a wizard-circle — two full casters, nowhere near enough to hold it long
-the way Preem's team will hold the magma demon. So they re-bind every ten days or
+re-cast, and the Ninth have
+two full casters, too few to hold it long the way Preem's team will hold the magma
+demon. So they re-bind every ten days or
 so (see [the binding rules](../../../../characters/preems-demons.md#circle-casting-homebrew--the-exact-rule)),
 and each renewal needs the crew alive and together in one place. Both the demon
 and the party can act in that window.
 
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
-Leader **Kesh Dural**. Two full casters run the demon work: **Halen** holds the
-Planar Binding on the head demon and renews it, and **Erin** — a sea elf (she/her) diviner —
+Leader **Kesh Dural**. Two full casters handle the demon:
+**[Halen](../../../../characters/halen.md)** holds the
+Planar Binding on the head demon and renews it *(in Brauron he is below level 9 and
+cannot cast it yet — see his file)*, and **Erin** — a sea elf (she/her) diviner —
 casts Summon Greater Demon, the summons that needs blood from a fresh kill to call
-the lesser demons. Her Portent is the workaround if the
+the lesser demons. If the
 [variant where the demon's CR is too high to bind](../../../../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics)
-is used — how a crew this size holds a demon this big at all.
+is used, her Portent is what lets the crew hold the demon.
 Five members, standard species like the other rival crews. *(Erin is an homage to a
 past-campaign character of the same name — the sea-elf demon-summoner — the same
-Erin [Preem's voice note](../../../../characters/preem.md) already reaches for. Keep or
+Erin [Preem's voice note](../../../../characters/preem.md) already names. Keep or
 rename freely.)*
 
 **The warning at the seal.** The demon is older than the elves, and older than
 true-name binding, which the elves invented only about eighteen centuries ago. The
-method is the myth of
+method comes from the myth of
 **[Isis and Ra](../../../nila/lore/demons-and-the-hotspot.md#where-the-names-come-from--and-why-the-party-hunts-them)**:
 a secret name controls even a god, and the way to take one is at the edge of
 death, where the dying cannot withhold it. The practice depends on this — Ra could
@@ -80,20 +82,20 @@ exception. In those first years the earliest binders brought it to the edge of
 true death and took a name from it, and it lied and gave a false name, where the
 myth says no false name is possible. It pretended to be bound, and used them, as it
 now uses the Ninth. Whoever finally sealed it carved the false
-name beside it, with the account, as a warning. The Ninth couldn't read it, or
-didn't; the party can, and the carving tells them what the demon is doing to the
-Ninth. Whether the crew's binding is genuine or the same lie again is the open
-ending below. *[loose — a demon that lied while dying breaks the method the
+name beside it, with the account, as a warning. The Ninth passed it over; the
+party can read it, and the carving tells them what the demon is doing to the
+Ninth. The open ending below settles whether the crew's binding holds or the demon lied
+again. *[loose — a demon that lied while dying breaks the method the
 binders and Preem rely on: the
 [false-name problem](../../../../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)
 in true-name binding.]*
 
-**What the demon wants** *(standard D&D — chaotic evil, born of the Abyss)*. Not
-to rule them; that is a devil's want. It wants out of the binding, and short of
-that it wants ruin and their corruption. So it follows every order and spends the
-arrangement steering them toward its release, getting them to cross lines that damn
-them, and pushing toward a wider catastrophe. It gains from every fight and every
-kill. They take the power for their own.
+**What the demon wants** *(standard D&D — chaotic evil, born of the Abyss)*. A
+devil would want to rule them. This one wants out of the binding, and short of
+that it wants ruin and their corruption. So it follows every order, works every
+order toward its release, gets them to kill, and pushes toward a wider
+catastrophe. It gains from every fight and every kill. The crew treat the power as
+their own.
 
 **The method — the crew copy Preem's.** The demon is ancient and knows the true
 names of lesser demons. It feeds the Ninth those names one at a time, and each name
@@ -103,28 +105,25 @@ But Summon Greater Demon needs blood, a vial from a humanoid killed within the p
 day, so every name the head demon hands down is another person the crew has to kill.
 They kill for the blood, call the named demon with it, draw the blood circle in the
 same blood, and take the next job with a demon at their side. Then the head demon
-gives the next name. This is Preem's method at a crew's scale. Preem controls his
-demons; the Ninth's demon controls them, and they do not know it.
+gives the next name. The demon controls the Ninth. The crew believe they control
+it.
 
 **How it corrupts them — across meetings.**
 
 - *First.* They are winning and being paid well. The demon fights beside them and
   the fights are short.
-- *Later.* They kill sooner and take work the crew that started out would have
-  turned down. They defend the demon.
+- *Later.* They kill sooner and take work they would have refused a season ago. They defend the demon.
 - *Late.* They follow the demon's instructions and describe them as their own plan.
-  The binding no longer constrains it: it gives a direction, the crew follow, and
-  they would renew it on any terms rather than give up what it gives them.
+  It gives a direction, the crew follow, and they would renew the binding on any
+  terms rather than lose the demon.
 
 **The first fight — a surprise.** The party's first fight with the Ninth comes
 before they know what the crew is. It looks even — five against five, mercenaries.
 The binder does the talking, telling the party what the crew will do to them, and
-initiative gets rolled on that footing. Then the demon: it was invisible in the room
+initiative is rolled against five humanoids. Then the demon joins: it was invisible in the room
 from the start, or it teleports in on the first round — a creature several CR above
-the rest, attacking the party while the crew fight from the front. The party
-planned for five humanoids, and the demon joins after initiative is rolled.
-The fight is meant to be a hard one, and retreat is a live option, without their
-having learned what the crew is.
+the rest, attacking the party while the crew fight from the front. The fight is meant
+to be a hard one, and the party can retreat before they learn what the crew is.
 
 **What the party finds.** Afterward, following the crew, the party come on a village
 of the dead — bodies pale and emptied of blood, and on the ground the summoning

@@ -32,14 +32,14 @@ Source for the approach: *Heart of Darkness*.
 
 ## The hunt
 
-The [cult of Artemis](the-peach-town.md) runs it out in the wild, once a year, and it
-runs **seven days**: the quarry go out through the gate an hour before noon on day one,
+The [cult of Artemis](the-peach-town.md) runs the hunt inside the wall, once a year, and it
+runs **seven days**: the quarry go out through the gate an hour and a quarter before noon on day one,
 the hounds are loosed at noon behind them, and the horn sounds at sundown on day seven. The tree is one day
 out, so they have most of the seven days once they are through the gate. The full sequence is in
 [the dressing](dressing-the-stag.md). Two hunts:
 
 - **The beast-hunt (the Calydonian boar).** The cult brings a boar to the gate in a
-  crate and looses it an hour before noon on day one, ahead of the quarry
+  crate and looses it an hour and a quarter before noon on day one, ahead of the quarry
   ([the dressing](dressing-the-stag.md), step 10). `[for David]` its stat block.
 - **The man-hunt (Actaeon).** A person is marked as the stag and run down. The quarry
   is given the antlers and hide at the temple (see [Brauron](the-peach-town.md)).
@@ -64,22 +64,23 @@ Washing the smell off takes a long scrub in clean water, and all the water insid
 is poison. The priestess calls it *"bad water."* A quarry who gets in it to break the scent is drinking
 and breathing the poison.
 
-**The head start is one hour**, and it is about five miles. The quarry go through the
-gate an hour before noon with Longstrider on them (Speed 40, so a fast pace is about
-5 mph), and the hounds come through at noon.
+**The head start is an hour and a quarter**, and it is about six miles. The quarry go through the
+gate at a quarter to eleven with Longstrider on them (Speed 40, so a fast pace is a little
+over 5 mph). Longstrider ends at a quarter to twelve, and the last quarter hour is at
+Speed 30, about 4 mph. The hounds come through at noon.
 
-**How long the head start lasts.** A mount gallops for about an hour at double pace, and a great
-hound at Speed 60 makes about 8 mph at a fast pace, so 16 at a gallop. The party are
-back to Speed 30 by then, because Longstrider ran out at noon, and make about 4 mph.
+**How long the head start lasts.** A great hound at Speed 60 makes about 8 mph at a fast
+pace, and 16 at a gallop, which a mount holds for about an hour. The party are at Speed 30
+by then and make about 4 mph.
 
 | The riders | They arrive |
 |---|---|
-| **Galloping from noon** | **About twenty-five minutes after noon**, six or seven miles out from the gate. |
-| At a steady fast pace | About an hour and a quarter after noon. |
+| **At a steady fast pace** | **About an hour and a half after noon**, twelve miles out from the gate. |
+| Galloping from noon | About half an hour after noon, eight miles out. |
 
-**The earliest the party can be caught is around half past noon on day one**, six or
-seven miles from the gate. If the quarry walked their hour instead of running it, take ten
-minutes off. Pick which of the two the riders do.
+**The riders ride at a fast pace, so the party are caught at about half past one on day
+one**, twelve miles from the gate. If the quarry walked their head start instead of
+running it, take half an hour off.
 
 **Every hound has a rider.**
 
@@ -173,7 +174,11 @@ party that fights all afternoon reaches dark with no spell slots.
 ### How the mounts are run
 
 **The hounds are controlled mounts** and act on their riders' turns. **A hound whose rider
-is killed goes independent on the next round** and fights on its own initiative.
+is killed goes independent on the next round** and fights on its own initiative. It
+bites: +5 to hit, **10 (2d6 + 3)** piercing, and the creature hit makes a **DC 13
+Strength save or is knocked prone.** It has advantage on the attack when another hound
+or hunter is within 5 feet of its target (Pack Tactics). Count each hound that fights on
+its own as CR 1 (200 XP) on top of the hunters.
 
 **The mounts give the hunters speed.** On the rider's turn the hound can Dash — Speed 60,
 so up to 120 feet — while the rider attacks, and it can Disengage instead to ride out
@@ -233,17 +238,17 @@ The crossing runs:
 
 | | |
 |---|---|
-| **Day 1, an hour before noon** | Through the gate, with the boar already out ahead of them. |
+| **Day 1, a quarter to eleven** | Through the gate, with the boar already out ahead of them. |
 | **Day 1, noon** | The hounds and riders come through. |
 | **Day 1, afternoon** | The first fight. |
-| **Days 1–7** | Another one whenever the pursuit catches up. |
+| **Days 1–7** | Another fight whenever the riders catch up. |
 | **Day 2** | The tree, if they get that far, and the stair below it. |
 | **Day 7, sundown** | The horn. The gate opens for whoever is standing at it. |
 
 ## How fast they move
 
-**Longstrider is +10 ft. for one hour**, cast at the gate. It lasts the hour of the head
-start and ends when the hounds come through. After that the party are at **30 against the
+**Longstrider is +10 ft. for one hour**, cast at the gate. It covers the first hour of the
+head start and ends a quarter hour before the hounds come through. After that the party are at **30 against the
 hounds' 60** — unless **Blackacre recasts it.** Longstrider is a druid 1st-level spell and
 he can put one character back to 40 for an hour per spell slot
 ([Blackacre](../../../../characters/blackacre.md)).
@@ -318,7 +323,7 @@ through the gate.
 `[OPEN]` the muster, and the first sight of the far tree.
 
 This is what a **hunter** sees, at noon on day one. A **quarry** sees the same wall an
-hour earlier, from the other side of the gate, with the boar's crate coming up behind
+hour and a quarter earlier, from the other side of the gate, with the boar's crate coming up behind
 them ([the dressing](dressing-the-stag.md), step 10).
 
 ---

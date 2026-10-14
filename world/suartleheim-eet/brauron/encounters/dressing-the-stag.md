@@ -69,9 +69,9 @@ quarry after her; Cassia is dressed first.
 | When | What happens |
 |---|---|
 | Day 1, morning | The dressing in the temple, then the walk out to the gate. |
-| Day 1, an hour before noon | The boar is loosed through the gate, then the quarry. |
-| Day 1, noon | The hounds and the riders are loosed, an hour behind them. |
-| Day 1, about half past noon | The riders reach them, if they gallop from noon ([the game preserve](the-game-preserve.md)). |
+| Day 1, a quarter to eleven | The boar is loosed through the gate, then the quarry. |
+| Day 1, noon | The hounds and the riders are loosed, an hour and a quarter behind them. |
+| Day 1, about half past one | The riders reach them, at a fast pace from noon ([the game preserve](the-game-preserve.md)). |
 | Days 1–7 | The hunters are in the preserve, and everyone inside the wall is breathing the poison. |
 | Day 7, sundown | The horn. The gate opens for whoever is standing at it. |
 
@@ -110,7 +110,7 @@ party, lower the entry fee and the pay drops with it.
 
 | | |
 |---|---|
-| **Head start** | Out an hour before noon on day 1, hounds loosed at noon. One hour. |
+| **Head start** | Out at a quarter to eleven on day 1, hounds loosed at noon. An hour and a quarter. |
 | **Longstrider** | Cast at the gate, 1 hour, +10 ft. speed. |
 | **Gear** | Whatever they walked in with. |
 | **The rack** | Worn until the horn, and it is taller than the grass. Disadvantage on Dexterity (Stealth). A hunter who kills a quarry cuts the rack off the body and keeps it. The gate opens only for a quarry wearing the rack. |
@@ -290,7 +290,7 @@ that I have begun with you, I will turn to another song.
 > walk the quarry out through the gate, one on either side of each. The riders wait
 > behind, inside the gate. Beyond the wall the grass is grey and waist-high.*
 
-- **Longstrider** on each quarry, for the hour of the head start.
+- **Longstrider** on each quarry, for the first hour of the head start.
 - A quarry who breaks away from the escort on the way to the gate leaves the town unpaid, with the
   tablet still on the board.
 
@@ -300,14 +300,14 @@ David has its stat block. It wanders the preserve, and the party may meet it.
 
 ## The head start
 
-**One hour.** They go through the gate an hour before noon and the hounds come through at
-noon. The hounds already have their smell (step 4).
+**An hour and a quarter.** They go through the gate at a quarter to eleven and the hounds
+come through at noon. The hounds were given the quarry's scent at step 4.
 
 | | |
 |---|---|
-| **One hour** | About five miles, at a fast pace with Longstrider on. |
+| **An hour and a quarter** | About six miles: five at a fast pace with Longstrider on, and one more at Speed 30 after it ends. |
 | **Longstrider** | +10 ft. for the hour. Blackacre has the spell too, and each slot spent gives one character another hour at 40 ft. |
 | **The rack** | Worn the whole time, and taller than the grass. Disadvantage on Dexterity (Stealth). |
-| **At noon** | The hounds and riders come through at Speed 50 ft. Galloping, they close five miles in about half an hour, so **the earliest they are caught is around half past noon** ([the game preserve](the-game-preserve.md)). |
-| **After the hour** | Longstrider ends at noon when the hounds come through, and the party move at 30 ft. against the hounds' 50 ft., unless Blackacre recasts it. |
+| **At noon** | The hounds and riders come through at Speed 60 ft. At a fast pace they close six miles in about an hour and a half, so **the party are caught at about half past one** ([the game preserve](the-game-preserve.md)). |
+| **After the hour** | Longstrider ends at a quarter to twelve, and the party move at 30 ft. against the hounds' 60 ft., unless Blackacre recasts it. |
 | **Staying alive** | Getting out means standing at the gate at sundown on day seven. **The hunters are hunting to kill** ([the game preserve](the-game-preserve.md)), and they will follow anywhere in the preserve, including the tree. |

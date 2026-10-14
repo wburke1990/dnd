@@ -1,32 +1,30 @@
 ---
-summary: The crew that kept a demon's true name and bound it instead of relaying it, on hold
-status: idea
+summary: The crew that kept a demon's true name instead of relaying it, now in Brauron
+status: next
 ---
 
 # The Ninth — the crew that bound a demon
 
-> **NPC crew, on hold.** One of [Preem](preem.md)'s crews on grave-wages found a
-> demon sealed in a tomb with its true name carved on the wall beside it. That
-> name was the thing they were sent to relay. They kept it and cast Planar Binding
-> with it instead. **The party have never met them.**
+> **NPC crew, in Brauron.** One of [Preem](preem.md)'s crews on grave-wages found a
+> demon sealed in a tomb with its true name carved on the wall beside it. They
+> were sent to relay that name. They kept it. **The party met their
+> binder, [Halen](halen.md), in a shop in Brauron.**
 >
 > The plot — how the binding works, what happens to the crew, the two fights and
 > the two endings — is written out in
 > [rival crew plots → the crew that bound a demon](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md#the-crew-that-bound-a-demon).
-> This page holds the roster and the deployment condition, so the crew can be
-> found from the character index.
+> This page holds the roster.
 >
 > Legend: `[settled]` · `[loose]` · `[OPEN]` · 🔒 DM secret.
 
 ---
 
-## Do not deploy yet
+## Deployed — Brauron
 
-`[settled]` **They need a crew that has fallen behind in play and is under
-pressure.** Not enough in-game time has passed. When a losing crew exists, come
-back, pick which PC the Ninth's leader is paired with based on where the party is
-then, and run it. `[OPEN]` Current guess for the pairing: [Aniess](aniess.md) —
-decide off what she has actually done by then, not off this line.
+`[settled — Will 10/13]` The Ninth are in Brauron, and Halen has threatened the
+party in a shop there. See [Halen's file](halen.md) for the scene and how he leaves
+it. The pairing of the Ninth's leader with a PC is still open. `[OPEN]` Current
+guess: [Aniess](aniess.md) — decide off her actions in play.
 
 **The name is a placeholder** — the ninth crew Preem chartered. Swap it freely.
 
@@ -36,45 +34,49 @@ Five members, standard species like the other rival crews.
 
 | Name | Role | What they do |
 |---|---|---|
-| **Kesh Dural** | leader | Does the talking, including in the first fight. |
-| **Halen** | full caster | Holds the Planar Binding on the head demon and re-casts it. |
-| **Erin** | sea elf (she/her) diviner | Casts Summon Greater Demon, the summons that needs blood from a fresh kill. Her Portent is the workaround if the variant where the demon's CR is too high to bind is used. |
+| **Kesh Dural** | leader | Runs the crew. Halen does the talking. |
+| **[Halen](halen.md)** | full caster | Read the name off the wall and kept it. Below level 9, so he cannot cast Planar Binding yet. Speaks for the crew, including in the first fight. |
+| **Erin** | sea elf (she/her) diviner | Casts Summon Greater Demon, the summons that needs blood from a fresh kill. If the variant is used where the demon's CR is too high to bind, she spends a Portent die to pass the check. |
 | — | — | Two more, unwritten. |
 
 *Erin is an homage to a past-campaign character of the same name, the sea-elf
-demon-summoner — the same Erin [Preem's voice note](preem.md) reaches for. Keep or
+demon-summoner — the Erin [Preem's voice note](preem.md) mentions. Keep or
 rename.*
 
-**Set their level high enough to bind the demon and too low to hold it a year.**
-Two full casters around level 9–11 reach a ten-day binding, thirty days by level
+**The level plan was 9–11: high enough to bind the demon and too low to hold it a
+year.** Two full casters at that level reach a ten-day binding, thirty days by level
 11, and have to keep re-casting it. The party can act while it is being re-cast.
+`[OPEN]` In Brauron Halen is below level 9, so the binding comes later
+and the head demon's current state is undecided — see
+[Halen's file](halen.md#who-he-is).
 
-## What is actually happening to them
+## What is happening to them
 
 `[settled]` The name makes the binding succeed automatically, so a mid-level crew
-holds a demon far above its level. The demon obeys the binding to the letter. It
+holds a demon far above its level. The demon obeys the exact wording of the binding. It
 gives them the true names of lesser demons one at a time, and each name is a demon
 they can call without a roll. Summon Greater Demon needs blood from a humanoid
-killed within the day, so **every name it gives them is another person the crew
-has to kill.** Preem runs the same arrangement with his own crews. Here the demon
+killed within the day, so every name it gives them is another person the crew
+has to kill. Preem runs the same arrangement with his own crews. Here the demon
 gives the orders.
 
 🔒 **The warning at the seal.** The demon is older than true-name binding. The
-earliest binders brought it near death to force the name out of it, which in the
-myth of Isis and Ra no creature can withstand, and it lied and gave a false name.
-Whoever sealed it carved that false name beside it with the account, as a warning.
-The Ninth could not read it; the party can.
+earliest binders brought it near death to force the name out of it, the method
+from the myth of Isis and Ra. It lied and gave a false name. Whoever sealed it
+carved that false name beside it, with an account of how it was taken, as a
+warning. The party can read it.
 
 `[OPEN]` **Whether the binding is real at all.** Either version works and the
-choice is made at the table. If it was never bound, the demon summoned them and the
-binding never happened. And if the carved name is false, the binding built on it is
+choice is made at the table. If it was never bound, the demon summoned them. And if the carved name is false, the binding built on it is
 false, which applies equally to
 [the volcano-demon of the climax](preem.md#the-climax--the-volcano-demon-choice).
 
 ## What has happened with the party
 
-**Nothing.** The party have never met them, never heard the name, and do not know
-a crew has gone off Preem's books.
+**Brauron, the shop.** `[played]` The party were taking their time in a shop. Halen
+came in, told them to hurry along, and told them the crew would kill them. A quasit
+was in the room with him, invisible. The party have the name of one man and have
+seen one demon's work. To them the Ninth are one more of Preem's crews.
 
 ## Connections
 
