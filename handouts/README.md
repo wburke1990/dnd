@@ -20,6 +20,7 @@
 - **`[pending]` Christina Rossetti — "Remember" and "Song" ("When I am dead,
   my dearest")** — grave-elegies in the spoken-by-the-dead vein. **Need new
   characters built to speak them** before placing.
+- **`[pending]` Joaquin Miller, "Columbus"** — [text saved](columbus.md).
 
 ## Placed this session
 
@@ -76,6 +77,7 @@ All eleven hold the full text now.
 | [callimachus hymn to artemis](callimachus-hymn-to-artemis.md) | `reference` | Callimachus, Hymn 3, trans. Mair — the child Artemis asks her father for the mountains |
 | [canting songs](canting-songs.md) | `reference` | Two real thieves' canting songs, used as the countersign and the ask between Aniess and Beartholomew |
 | [clay tablet of baruch](clay-tablet-of-baruch.md) | `reference` | 2 Baruch, the letter to the scattered tribes — a clay tablet Blackacre found on Kuru |
+| [columbus](columbus.md) | `reference` | Joaquin Miller, "Columbus" — a crew at sea asks the admiral what to do; he says "Sail on! |
 | [copaa lament](copaa-lament.md) | `reference` | The Admonitions of Ipuwer — dirge for poisoned Copaa, the river run to blood |
 | [creation aniess](creation-aniess.md) | `reference` | Aniess's creation story — the faith of Sunne, the religion of Kuru she was raised in |
 | [creation jasper](creation-jasper.md) | `reference` | Jasper's creation story — one dragon, one people, and the colonial wound after |
