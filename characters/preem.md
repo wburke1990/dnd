@@ -366,22 +366,30 @@ echo when the party next meets him.
    the party passes is a disguised demon.
 2. **The names come back** — as the party relays names from the tombs, the
    payments arrive (5 gp/name, dropped by an invisible quasit during a long
-   rest). The economy of the quest *is* the on-ramp to discovering what the
-   names are for.
+   rest). The payments are how the party can start to learn what the names are
+   for.
 3. **Drawing the link** — a PC who connects the tower, the council, and the
    Second Foundation gets answers. This is the intended discovery of Preem's
    true role.
 4. **The volcano-demon** — the late-campaign stakes: Preem's plan to seize control of
    the coming Ragnarok's outcome. Jeremy's old fear brought into the game.
 5. **Blackacre's letter** — Preem issued the letter of marque that brought
-   [Blackacre](blackacre.md) to Maalm. Useful lever for tying that PC's arc to
-   the patron.
+   [Blackacre](blackacre.md) to Maalm. This ties Blackacre to
+   Preem.
 6. **The other crews** — Preem runs [many name-hunting groups](#after-the-first-two-sessions--whats-canon-at-the-table)
    at once. One of them, [The Second Hand](the-second-hand.md), the party meets
    being ambushed by the rat man just as they were
    ([the ambush](../world/suartleheim-eet/maalm/encounters/the-second-hand-ambush.md)); saved, the crew
-   becomes a standing ally — and, because Preem runs them too, a lever he can
-   turn against the party at the climax.
+   becomes a standing ally — and, because Preem runs them too, at the climax
+   Preem can order them to fight the party.
+7. **The Abyss briefing** `[settled — Will 11/10]` — at party level 9, after the
+   crews defeat [the Ninth](the-ninth.md), Preem sends them into the Abyss to kill
+   the Ninth's demon for good. Before they go down he tells them about the eldest
+   demons, which keep their save against a true name
+   ([the rule](preems-demons.md#the-eldest-demons-keep-their-save)), and talks
+   about his own fear of the Abyss. `[OPEN]` How much Preem tells them about his
+   past in the Abyss, and what [Setha Renk](the-lapis-writ.md) does in this scene. Scene and his lines:
+   [the descent](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md#the-descent--killing-the-demon-in-the-abyss).
 
 ## Open threads to resolve with the player (sankaku)
 

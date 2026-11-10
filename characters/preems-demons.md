@@ -33,24 +33,25 @@ How Preem binds demons.
   name auto-succeeds — no saving throw.** Without the true name, Planar Binding
   works as written (the target gets its save, with disadvantage if you summoned
   it, etc.).
-- In standard 5e a true name is flavor with no teeth. Here it has teeth. A bound
+- **The eldest demons are the exception** `[settled — Will 11/10]`: a demon with
+  Legendary Resistance keeps its save even against its true name. See
+  [below](#the-eldest-demons-keep-their-save).
+- In standard 5e a true name has no mechanical effect. Here it removes the save. A bound
   demon with *disadvantage* on the save still escapes roughly a quarter of the
   time — over decades, that's a statistical certainty of at least one escape.
-  Auto-success is what makes **lifelong, generational bondage** possible, and
-  what makes the trap feel airtight.
+  Auto-success is what makes **lifelong, generational bondage** possible.
 - This is why Preem wants the names. Every name the party pulls from
   the tombs and sells to Mul is another true name in Preem's ledger — another
-  demon he can bind with no save. He has an *army* of true names.
+  demon he can bind with no save. He holds many true names.
   (See [the names quest](preem.md#the-names-quest--why-he-sends-the-party-to-the-tombs).)
 - It is also the source of the [dream quest's](../world/suartleheim-eet/maalm/encounters/the-dream-quest.md)
   horror: the merchant's demon wife **could not have escaped, ever**, because he
-  held her name. Planar binding is meant to feel **horrific** — a true name
-  turns a person into a possession, with no roll left to make.
+  held her name. A demon bound by its true name gets no save and cannot leave.
 - The endgame turns on it: the party will eventually be handed the
   **volcano-demon's true name** and asked to use it. The dream quest is their
   rehearsal for that choice. (See
   [Preem](preem.md#the-climax--the-volcano-demon-choice).)
-- **`[OPEN — 7/26]` The false-name crack.** A true name auto-succeeds — *if it is
+- **`[OPEN — 7/26]` False names.** A true name auto-succeeds — *if it is
   the real one.* An old, clever demon may leave a **false name** where finders will
   take it and then play bound, never actually compelled; no one can tell a true name
   from a false one by looking. The deeper version: an old enough demon may lie even
@@ -59,12 +60,15 @@ How Preem binds demons.
   this holds in the world it threatens every binding
   built on a supplied name — Preem's whole army, and the **volcano-demon of the
   climax** most of all, where the name the party are handed could be the lie. First
-  surfaced with [the Ninth](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md). Undecided — a table
-  call still to make.
+  surfaced with [the Ninth](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md).
+  `[settled — Will 11/10]` **The Ninth's demon faked its binding.** It is one of
+  the eldest and keeps its save, the Ninth never had the circle to beat it, and the
+  name carved by its seal is false. Whether the crack reaches anything beyond the
+  Ninth's demon is still a table call.
 
 ## Summoning, holding, and binding (homebrew mechanics)
 
-Three separate jobs, three tools. Kept straight, the levels follow.
+Binding a demon takes three steps, each with its own spell.
 
 **A true name overrides both demon spells.** A true name you hold makes both
 auto-succeed against that demon:
@@ -75,10 +79,10 @@ auto-succeed against that demon:
   while you concentrate.
 
 Without the name, both go back to rolls, and the bigger the demon the better it
-resists — so a high demon's saves and Legendary Resistance only bite for demons
-you have **not** named.
+resists. The eldest demons, the ones with Legendary Resistance, roll even when you
+hold the name ([below](#the-eldest-demons-keep-their-save)).
 
-**1. Getting the demon in front of you — the real level-gate.**
+**1. Getting the demon in front of you.** This step sets the caster level needed.
 
 - **Summon Greater Demon** calls a **generic** demon of a type you choose, up to
   a CR ceiling set by the slot:
@@ -116,9 +120,9 @@ you have **not** named.
   hour when inverted. This is the cage for binding, and the only containment that
   works on a demon too big to summon — which has no blood circle to care about.
 
-**3. Binding it — Planar Binding (5th-level).** With the name it auto-succeeds at
-any CR, so the demon's power is no obstacle once it is present and named. The slot
-sets the duration:
+**3. Binding it — Planar Binding (5th-level).** With the name it auto-succeeds
+against any demon without Legendary Resistance, whatever its CR. The eldest still
+save ([below](#the-eldest-demons-keep-their-save)). The slot sets the duration:
 
   | Slot | Duration |
   |------|----------|
@@ -142,7 +146,7 @@ Several casters who all know the spell cast it together over its full casting ti
   Greater Demon, 5th for Planar Binding).
 - **Every caster in the circle, lead and each assistant, expends one spell slot of
   that base level or higher.** A caster who has no slot that high can't join *that*
-  circle. This makes circle-binding a full-caster affair: a 5th-level Planar Binding
+  circle. Only full casters can join: a 5th-level Planar Binding
   circle needs a 5th-level slot from every member — full casters reach that at level
   9, half-casters (paladin, ranger) not until 17, and Planar Binding isn't on their
   list regardless. Half-casters and non-casters don't count toward a circle.
@@ -154,8 +158,10 @@ What the effective level buys:
 - **Summon Greater Demon:** CR ceiling = effective slot level + 1. No 9th-level
   cap — this is how a large enough circle calls a demon no lone caster could.
 - **Planar Binding:** the duration from the table above, read at the effective slot
-  (capped at 9th = 366 days). The name already makes it auto-succeed, so the circle
-  buys **duration**, plus the bodies to hold the demon through the hour.
+  (capped at 9th = 366 days). Against most demons the name already makes it
+  auto-succeed, so the circle buys **duration**, plus the bodies to hold the demon
+  through the hour. Against the eldest, the circle's diviners also bring the Portent
+  dice.
 
 **Summoning (Summon Greater Demon)** — each caster spends a 5th-level slot:
 
@@ -172,8 +178,8 @@ Push higher by everyone spending higher slots — five wizards each burning a
 
 **Binding a found demon (Planar Binding)** — the demon is already there (sealed in
 a tomb, or the magma demon in its volcano), so there is no summoning and no CR
-gate: the name auto-succeeds and the circle only buys the **duration**, plus the
-bodies to hold it the hour. Ways to reach a **9th-level, year-long** binding:
+gate. Against a demon without Legendary Resistance the name auto-succeeds and the
+circle only buys the **duration**, plus the bodies to hold it the hour. Ways to reach a **9th-level, year-long** binding:
 
 | Circle | Each caster spends | Effective slot | Binding lasts |
 |--------|--------------------|----------------|---------------|
@@ -203,34 +209,46 @@ slots.
   Planar Binding with the name, at whatever slot buys the duration he wants.
 - *Circle (a crew):* five level-9 wizards, a 5th-level slot each, reach effective
   9th — Summon Greater Demon calls a **CR-10 yochlol**, and Planar Binding cast the
-  same way (on another day, once slots recover) holds it a **year**. Five ordinary
-  wizards do what one archmage does alone.
+  same way (on another day, once slots recover) holds it a **year**.
 
-**Why the magma demon is the climax and nothing smaller.** It is about **CR 19**
+**Binding the magma demon.** It is about **CR 19**
 and it **is the volcano** — already present, never summoned, so no blood circle
 applies, and a five-wizard circle can't reach it on the summon ceiling anyway
-(CR 14). Its save would throw off any binding tried without its name. So it can be
-bound only the way the campaign is built: a **circle** large enough to hold it
-through the hour (Magic Circle and bodies, not a summon) plus the **true name**
-the party carry, which makes its save moot. Two things are needed; the party hold
-one.
+(CR 14). It keeps its save even against its name (next section). So it can be
+bound only one way: a **circle** large enough to hold it through the hour (Magic
+Circle and bodies, not a summon), the **true name** the party carry, and enough
+**diviners** in the circle to force its saves down. The party have the name, and
+Preem has the circle and the diviners, so a binding needs both.
 
-### `[loose — 7/26]` Variant: unbindable high demons, and the diviner workaround
+### The eldest demons keep their save
 
-An alternative to auto-success at the top end, under consideration: the **very
-high-CR demons don't auto-succeed even with the true name.** They revert to the
-written rule and get their saving throw, and between high Charisma and Legendary
-Resistance they make it — so the biggest demons are effectively unbindable by name
-alone.
+`[settled — Will 11/10]` The demons older than the pact, and the magma demon, keep
+their Charisma save against Planar Binding even when the caster speaks the true
+name. The name only removes disadvantage. In stat terms: **a demon with Legendary
+Resistance keeps its save.** Between high Charisma and Legendary Resistance it makes
+that save, so no caster binds one of the eldest with a name alone.
 
-The workaround is a **diviner.** A School of Divination wizard's **Portent** replaces
-a save with a die rolled in advance, so a diviner can force the demon to *fail.*
-Legendary Resistance then means you have to force enough fails to burn through it
-first — a **circle of diviners** spending Portent dice, and a fight spent stripping
-the demon's resistances before the binding lands. This is why **Preem is a diviner**,
-and why the Ninth's **Erin** is one too: a lone diviner can force a middling demon
-down, but only Preem's coven of them can take the **volcano-demon**. Weigh against
-the current auto-success rule — a table call.
+**The diviners.** A School of Divination wizard rolls two Portent dice each morning
+(three from level 14) and can replace any save the demon makes with one of them. A
+low Portent die forces a failure; a high one is useless against it. Each failure,
+the demon can spend a use of Legendary Resistance to succeed instead. So the circle
+works in this order:
+
+1. Cage the demon (Magic Circle) and cast other save spells at it, forcing failures
+   with Portent dice until its Legendary Resistance is spent for the day.
+2. Cast Planar Binding with one low Portent die held back for the binding save.
+
+A demon with three uses of Legendary Resistance needs four forced failures in one
+day, which takes two or three diviners and low dice that morning. On a morning with
+high dice the circle waits. If a use of Legendary Resistance is left when the
+binding is cast, the binding fails, the jewel is spent, and the demon is loose
+outside the cage at the end of the hour.
+
+This is why **Preem is a diviner** and keeps diviners in his circle, and why the
+Ninth's **Erin** is one too. Erin alone has two Portent dice, which is not enough
+against Legendary Resistance. The Ninth's head demon was never bound: it played
+bound under a false name (see
+[the Ninth](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md#the-crew-that-bound-a-demon)).
 
 ## What the party can cast — the evil route
 
@@ -248,9 +266,9 @@ Of the five PCs, only two can touch demon-binding:
 | Pax | Monk | no | no | no |
 
 - **No one can summon.** Summon Greater Demon is Wizard/Warlock only, and the party
-  has neither — so the party can't manufacture demons or run the kill-for-blood
-  machine the Ninth do. Their only route is to **bind a demon already present** — one
-  sealed in a tomb, or the volcano-demon handed to them at the climax.
+  has neither — so the party can't summon demons, or kill for blood to summon, as the
+  Ninth do. They can only **bind a demon already present**, such as one sealed in a
+  tomb, and only one without Legendary Resistance.
 - **When the spells come** (both are prepared casters, so a spell opens the moment
   its slot does):
   - **Magic Circle** — the cage — at **class level 5**, Cleric list, so **Aniess
@@ -265,17 +283,15 @@ Of the five PCs, only two can touch demon-binding:
   Magic Circle at **Cleric 5** and Planar Binding at **Cleric 9**. Character level is
   that plus the Rogue levels: three Rogue levels would push Planar Binding to
   **character level 12.** (The Rogue/Cleric split isn't on the sheet — `[OPEN]`.)
-- **The route opens late.** Nobody binds before class level 9, and the full
-  cage-and-bind only exists once Aniess reaches Cleric 9 — the campaign's back half,
-  around level 12+, which is where the volcano-demon choice lands anyway.
-- **Under the diviner variant above:** no PC is a Wizard, so no Portent — the party
-  could not bind the volcano-demon (or any top-tier demon) on their own, and would
-  have to go through Preem's coven. Under the base auto-success rule, Aniess can, with
-  the name.
+- **No PC can bind a demon before class level 9.** Aniess can cage and bind alone
+  only from Cleric 9, around character level 12.
+- **The eldest are out of their reach.** No PC is a Wizard, so the party have no
+  Portent dice. They cannot bind the volcano-demon, or any demon with Legendary
+  Resistance, on their own. To use the volcano-demon's name they have to give it to
+  Preem's circle, or find diviners of their own.
 
-So the evil route runs through **Aniess** by class and temperament both: the one
-drawn to power (the [Ninth's mirror](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md)) and the only
-PC who can walk the whole path.
+So a PC binding a demon means **Aniess**, the only PC who can cast both Magic Circle
+and Planar Binding.
 
 ## Demonic Restoration *(homebrew house rule)*
 

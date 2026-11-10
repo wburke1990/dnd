@@ -34,9 +34,9 @@ Five members, standard species like the other rival crews.
 
 | Name | Role | What they do |
 |---|---|---|
-| **Kesh Dural** | leader | Runs the crew. Halen does the talking. |
-| **[Halen](halen.md)** | full caster | Will read the name off the wall and keep it. Below level 9, so he cannot cast Planar Binding yet. Preem's quasit rides his shoulder. Speaks for the crew, including in the first fight. |
-| **Erin** | sea elf (she/her) diviner | Casts Summon Greater Demon, the summons that needs blood from a fresh kill. If the variant is used where the demon's CR is too high to bind, she spends a Portent die to pass the check. |
+| **Kesh Dural** | leader | Runs the crew. |
+| **[Halen](halen.md)** | full caster | Will read the name off the wall and keep it. Below level 9, so he cannot cast Planar Binding yet. Preem's quasit sits on his shoulder. Speaks for the crew, including in the first fight. |
+| **Erin** | sea elf (she/her) diviner | Casts Summon Greater Demon, the summons that needs blood from a fresh kill. The crew believe her two Portent dice are enough to bind the demon. Two are not enough against its Legendary Resistance. |
 | — | — | Two more, unwritten. |
 
 *Erin is an homage to a past-campaign character of the same name, the sea-elf
@@ -51,8 +51,7 @@ Brauron. The binding comes after both.
 
 ## What happens to them once they have the name
 
-`[settled]` The name makes the binding succeed automatically, so a mid-level crew
-holds a demon far above its level. The demon obeys the exact wording of the binding. It
+`[settled]` The crew believe the name has bound the demon. The demon acts bound and obeys the orders it likes. It
 gives them the true names of lesser demons one at a time, and each name is a demon
 they can call without a roll. Summon Greater Demon needs blood from a humanoid
 killed within the day, so every name it gives them is another person the crew
@@ -64,11 +63,12 @@ from the myth of Isis and Ra. It lied and gave a false name. Whoever sealed it
 carved that false name beside it, with an account of how the name was forced out of
 the demon, as a warning. The party can read it.
 
-`[OPEN]` **Whether the binding is real at all.** Either version works and the
-choice is made at the table. If it was never bound, the demon summoned them. And if
-the carved name is false, a binding cast with that false name is also false, which
-applies equally to
-[the volcano-demon of the climax](preem.md#the-climax--the-volcano-demon-choice).
+`[settled — Will 11/10]` **The demon only pretends to be bound.** It is one of the
+eldest, which keep their save even against a true name
+([the rule](preems-demons.md#the-eldest-demons-keep-their-save)), and the carved
+name is false. After the crews defeat the Ninth, Preem sends them into
+the Abyss to kill it for good
+([the descent](../world/suartleheim-eet/maalm/encounters/rival-crew-plots.md#the-descent--killing-the-demon-in-the-abyss)).
 
 ## What has happened with the party
 

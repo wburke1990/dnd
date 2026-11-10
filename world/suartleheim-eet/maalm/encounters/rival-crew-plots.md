@@ -28,34 +28,30 @@ below all use that ranking.
 
 ## The crew that bound a demon
 
-**On hold.** Deploy only once a crew has actually fallen behind in play and the
-pressure on them is real — not enough in-game time has passed for that yet. When
-a losing crew exists, come back and pick which PC this one mirrors from where the
-party is then. Current guess: **Aniess**, the party member most drawn to power
-right now.
+**Deployed in Brauron** (see [the Ninth](../../../../characters/the-ninth.md)). The
+party met their binder, Halen, in a shop there. The crew reach the tomb after
+Brauron. Which PC this crew mirrors is still open. Current guess: **Aniess**, the
+party member most drawn to power.
 
-Set their level high enough to bind the demon and too low to hold it a year. **Two
-full casters around level 9–11** reach a **ten-day** binding (thirty days by level
-11) that they have to keep re-casting, and the party can act while it is being
-re-cast. A full year needs Preem's wizards (three casters at
-level 13, or five at level 9), never a grave-crew.
+`[settled — Will 11/10]` **The plot runs at party level 9.** It opens when the Ninth
+start killing for blood, and it ends with a descent into the Abyss to kill the demon
+for good ([below](#the-descent--killing-the-demon-in-the-abyss)).
 
 One of Preem's crews on grave-wages, a season from becoming the Ashfoot, found a
-demon **sealed in a tomb** — a guardian left with the dead, its true name carved
-on the wall beside it. They were sent to relay that name to Preem.
-They kept it, and cast
+demon **sealed in a tomb** — a guardian left with the dead, a name carved on the
+wall beside it. They were sent to relay that name to Preem. They kept it, and cast
 [Planar Binding](../../../../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics)
-on the demon with the name instead. The name makes the binding auto-succeed, so a
-mid-level crew held a demon far above its own level. The demon fights
-beside them in the battles that kill other crews, and the Ninth start
-winning. The demon is more intelligent than any of them: it obeys every order, and
-gives orders of its own that serve its release. The binding lapses and has to be
-re-cast, and the Ninth have
-two full casters, too few to hold it long the way Preem's team will hold the magma
-demon. So they re-bind every ten days or
-so (see [the binding rules](../../../../characters/preems-demons.md#circle-casting-homebrew--the-exact-rule)),
-and each renewal needs the crew alive and together in one place. Both the demon
-and the party can act during those ten days.
+on the demon with the name instead. The demon is one of the eldest, and the eldest
+keep their save against a true name
+([the rule](../../../../characters/preems-demons.md#the-eldest-demons-keep-their-save)).
+`[settled — Will 11/10]` **The binding never took.** The carved name is false and
+the demon plays bound. The crew believe a mid-level crew holds a demon far above
+its own level. The demon fights beside them in the battles that kill other crews,
+and the Ninth start winning. The demon is more intelligent than any of them: it
+obeys every order the crew give, and gives orders of its own. Every ten days or so
+the crew re-cast the binding, which they believe lapses (see
+[the binding rules](../../../../characters/preems-demons.md#circle-casting-homebrew--the-exact-rule)),
+and each renewal needs the crew alive and together in one place.
 
 **Placeholder name: the Ninth** — the ninth crew Preem chartered *(swap freely)*.
 Leader **Kesh Dural**. Two full casters handle the demon:
@@ -63,9 +59,8 @@ Leader **Kesh Dural**. Two full casters handle the demon:
 Planar Binding on the head demon and renews it *(in Brauron, before the tomb, he is below
 level 9 and cannot cast it yet)*, and **Erin** — a sea elf (she/her) diviner —
 casts Summon Greater Demon, the summons that needs blood from a fresh kill to call
-the lesser demons. If the
-[variant where the demon's CR is too high to bind](../../../../characters/preems-demons.md#summoning-holding-and-binding-homebrew-mechanics)
-is used, the crew hold the demon with her Portent.
+the lesser demons. The crew believe her Portent dice are what make the head demon's
+binding hold. She has two, and against its Legendary Resistance two are not enough.
 Five members, standard species like the other rival crews. *(Erin is an homage to a
 past-campaign character of the same name — the sea-elf demon-summoner — the same
 Erin [Preem's voice note](../../../../characters/preem.md) already names. Keep or
@@ -76,25 +71,21 @@ true-name binding, which the elves invented only about eighteen centuries ago. T
 method comes from the myth of
 **[Isis and Ra](../../../nila/lore/demons-and-the-hotspot.md#where-the-names-come-from--and-why-the-party-hunts-them)**:
 a secret name controls even a god, and the way to take one is at the edge of
-death, where the dying cannot withhold it. The practice depends on this — Ra could
-not lie when dying, so the binders assume nothing can. This demon is the
+death, where the dying cannot withhold it. Ra could not lie when dying, so binders
+assume no dying creature can lie. This demon is the
 exception. In those first years the earliest binders brought it to the edge of
 true death and took a name from it, and it gave a false name. It pretended to be bound, and used them, as it
 now uses the Ninth. Whoever finally sealed it carved the false
 name beside it, with the account, as a warning. The Ninth took the name and left the carving;
 the party can read it, and the carving tells them what the demon is doing to the
-Ninth. The open ending below settles whether the crew's binding holds or the demon lied
-again. *[loose — a demon that lied while dying breaks the method the
-binders and Preem rely on: the
-[false-name problem](../../../../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule)
-in true-name binding.]*
+Ninth. See
+[false names](../../../../characters/preems-demons.md#true-names--planar-binding-homebrew-house-rule).
 
 **What the demon wants** *(standard D&D — chaotic evil, born of the Abyss)*. A
-devil would want to rule them. This one wants out of the binding, and short of
-that it wants ruin and their corruption. So it follows every order, works every
-order toward its release, gets them to kill, and pushes toward a wider
-catastrophe. It gains from every fight and every kill. The crew treat the power as
-their own.
+devil would want to rule them. This one wants the crew to kill more people, and
+wants the comet's pass to fall fast and break the world. It is not bound, so it
+follows the orders it likes and turns each one toward more killing. The crew take
+credit for its wins.
 
 **The method — the crew copy Preem's.** The demon is ancient and knows the true
 names of lesser demons. It feeds the Ninth those names one at a time, and each name
@@ -117,82 +108,89 @@ the demon.
   terms rather than lose the demon.
 
 **The first fight.** The party's first fight with the Ninth comes
-before they know what the crew is. It looks even — five against five, mercenaries.
+before they know the crew has a demon. It looks even — five against five, mercenaries.
 The binder does the talking, telling the party what the crew will do to them, and
 initiative is rolled against five humanoids. Then the demon joins: it was invisible in the room
 from the start, or it teleports in on the first round — a creature several CR above
 the rest, attacking the party while the crew fight from the front. The fight is meant
-to be a hard one, and the party can retreat before they learn what the crew is.
+to be a hard one, and the party can retreat.
 
 **What the party finds.** Afterward, following the crew, the party come on a village
-of the dead — bodies pale and emptied of blood, and on the ground the summoning
-circles drawn in it, one for each demon called there.
+of the dead — bodies pale and emptied of blood, and summoning circles drawn on the
+ground in their blood, one for each demon called there.
 [Timebiter](../../../../characters/preem.md#preems-gifts--bestowed-in-the-first-scene) dates
-the kills to the crew's passing. This is what the crew were doing, and it is
-Preem's method at a smaller scale, seen before the party see Preem's: kill for
-blood, summon by name, and do it again.
+the kills to the crew's passing.
 
-**Preem's order, and the second fight.** Once the drained villages come to light,
-Preem sends the party to destroy the Ninth — a crew binding demons off his books,
-which he wants gone. He calls it cleanup; what he wants is the head demon's true
-name, which he means to take for himself. The party don't know they are being aimed
-at a small copy of their own patron. Now they have a sanction to hunt the crew they
-already fought, and Preem commits more crews: he runs many, so he sends the [Second Hand](../../../../characters/the-second-hand.md) and others in to help
-finish it. The second fight is a battle among crews — the party and their allies
-against the Ninth, the demons the Ninth have summoned, and the head demon itself.
+**Preem's call, and the second fight.** `[settled — Will 11/10]` Once the drained
+villages come to light, Preem calls every crew he runs: stop what you are doing and
+meet him where the Ninth are working. The party, the
+[Second Hand](../../../../characters/the-second-hand.md), the
+[Lapis Writ](../../../../characters/the-lapis-writ.md) and the rest come from
+wherever they are. The second fight is a battle among crews — the party and the other
+crews against the Ninth, the demons the Ninth have summoned, and the head demon
+itself.
 
-Two points. Killing the crew ends the binding and frees the head demon, so a clean
-win over the Ninth gives the demon what it wanted unless the party deal with the
-demon too. And the name Preem wants is the name that re-binds it: hand it over and
-Preem binds the demon himself, using the name the party brought him; keep it and
-they hold something he wants. When the party later learn what Preem is, they will have
-already helped him wipe out a smaller version of himself.
+**It was never bound.** The demon left the false name on the wall itself. It let the
+false binding appear to take and has acted bound ever since — obeying, letting the
+crew re-cast renewals that hold nothing. When it stops obeying them, the crew learn
+it was never bound. Preem wants it dead, for two reasons: it has faked a binding twice and
+can fake another, and no one short of his own circle could hold it if the name were
+real.
 
-**The twist — it was never bound (optional).** Either version works; the one above,
-where the binding is real, stands on its own, so run this only for the bigger
-surprise. The warning was literal, and this demon was never bound at all: the
-carved name was false and the demon left it there itself, and it let the false
-binding take and has pretended to be bound ever since — obeying, letting
-the crew re-cast renewals that hold nothing, letting them believe they owned it
-while it used them. There was never a real binding to lapse, and never a true name
-in anyone's hand. When it drops the act, the crew learn it was never bound.
+**Killing it on the surface does not kill it for good.** The head demon has
+[Demonic Restoration](../../../../characters/preems-demons.md): killed outside the
+Abyss, it re-forms down there at full strength. Winning the second fight sends it
+home. A demon dies for good only in the Abyss.
 
-*[loose] How far this reaches.* If a demon can leave a false name and act bound,
-no true-name binding is reliable, and no one can tell a true name from a false one
-by looking. That threatens Preem's control of his demons, and the
-[volcano-demon of the climax](../../../../characters/preem.md#the-climax--the-volcano-demon-choice)
-most of all: the true name the party are handed could be the lie. Kept to the
-Ninth, this changes nothing else. Applied to Preem, it changes the ending. A
-decision still to make.
+### The descent — killing the demon in the Abyss
 
-**The ending is open.** Two ways to close it: the demon was real and **Preem binds
-it** once the crew are dead, with the party having done the work — or it was faking
-on a **false name** and deceives the party and Preem alike. Either works; pick at
-the table.
+`[settled — Will 11/10]` After the second fight Preem sends the crews into the
+[Abyss](../../../nila/lore/house-rules-and-world-mechanics.md#the-abyss--world-notes),
+the tunnels under the cities, to find the head demon where it re-formed and kill
+it there.
 
-**The tie to Preem's endgame.** A demon that wants the world broken wants what the
-comet is bringing. This crew can be reaching for the catastrophe Preem is reaching
-for, neither side knowing the other — or the demon's push for its own release runs
-it straight into Preem, who does not tolerate a demon in Nila he does not hold
-himself.
+**Preem's briefing.** Before they go down, Preem tells them about the eldest demons.
+A demon this old keeps its save against its own name
+([the rule](../../../../characters/preems-demons.md#the-eldest-demons-keep-their-save)).
+He says it plainly:
+
+> "It is difficult to bind an ancient demon. Only a circle of powerful casters,
+> with the help of diviners, can do it. And even then, it is not a sure thing.
+> Your party and the Ninth cannot hope to bind a demon as powerful as this."
+
+*(Preem's lines are Will's. Keep the wording.)*
+
+The same briefing is where Preem talks about the Abyss and what he is afraid of
+there.
+
+- `[OPEN]` What Preem tells them about his own past in the Abyss: a trip he made
+  down there and what happened on it.
+- `[OPEN]` Whether Preem's fear shows in the present too. Current idea: he does not
+  go down himself and sends crews of level 9 instead.
+- `[OPEN]` Where the crews go in. The breach under Preem's tower is one choice.
+- `[OPEN]` **Setha's part.** The party like
+  [Setha Renk](../../../../characters/the-lapis-writ.md), and this quest is where
+  she moves closer to Preem. Ideas: Preem asks for her by name to lead the descent;
+  she is in the room for the briefing and has heard the story before; or Preem
+  offers her the council seat as her reward. The Writ are level 3 now and would
+  need to be about level 9.
+
+**The tie to Preem's endgame.** An eldest demon in the deep city knows the magma
+demon's name. To get the name, someone has to go down there and take it from that
+demon
+([the name is held by one demon](../../../nila/lore/demons-and-the-hotspot.md#the-name-is-held-by-one-demon-and-it-must-be-taken)).
 
 **What it sets up.** At the climax the party are handed a true name and asked to
-bind the volcano-demon (see [preem.md](../../../../characters/preem.md)). This crew
-have already made that bargain and lost: they bound something bigger than they
-could hold, and now it acts through them. The dream-quest merchant does the same
-thing on a smaller scale.
+bind the volcano-demon (see [preem.md](../../../../characters/preem.md)). The Ninth
+tried to bind a demon stronger than they could hold, and it gave them orders.
 
 **Hooks.**
 
-- Free or kill the demon and the crew lose what the binding bought — their wins and
-  their standing — and drop to grave-wages. Helping the crew's victims costs the
-  crew everything. The tavern's
-  [missing-names favor](tavern-rival-crews.md#the-lapis-writ--the-ones-who-won)
-  works the same way.
-- The crew refuse offers of help. The power is what they have, and they fight to
-  keep it.
-- Preem knows. A powerful demon bound off his books is something he will either
-  break or take.
+- If the demon is freed or killed, the crew lose their wins and their standing and
+  drop to grave-wages.
+- The crew refuse offers of help. They fight anyone who tries to take the demon from
+  them.
+- Preem knows about the demon and wants it dead.
 
 ---
 

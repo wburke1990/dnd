@@ -14,6 +14,23 @@ status: reference
 
 Knowing the true name of any extraplanar being — celestial, elemental, fey, or fiend — causes Planar Binding to auto-succeed. The target makes no Charisma saving throw. The binding is automatic and complete for the spell's full duration.
 
+## The exception — the eldest demons keep their save
+
+`[settled — Will 11/10]` The rule above holds for every demon except the eldest: the
+demons older than the pact, and the magma demon. Against them the true name only
+removes the disadvantage on their save. They still make the Charisma save, and their Legendary
+Resistance applies. In stat terms, the eldest are the demons with Legendary Resistance.
+
+Binding one takes a circle of high-level casters with diviners among them. A
+diviner's Portent die replaces one of the demon's saves with a number the diviner
+rolled that morning, and only a low number forces a failure. Each time the demon
+fails, it can spend a use of Legendary Resistance to succeed instead. So the circle
+first casts other spells at the demon until it has spent every use of Legendary
+Resistance. Then they cast Planar Binding and use a low Portent die on its save. If the dice come up
+high that morning, the circle waits for another morning. If the demon still has a
+use left when the binding is cast, the binding fails. Full mechanics in
+[Preem's demons](../../../characters/preems-demons.md#the-eldest-demons-keep-their-save).
+
 ## Who can be bound — and who can't
 
 The rule reaches **only beings of extraplanar nature** — celestials, elementals, fey, and fiends. **Ordinary mortals have no bindable true name.** A human, elf, dwarf, or halfling cannot be planar-bound no matter who learns what they are called — and neither can someone who has merely been *transformed*: **Aniess**, remade by the Order into a Yuan-ti, is still a mortal at root, so **no one can own her by name** (and, in fact, no one knows it). Her wound is the Order's physical-and-mental remaking, not name-ownership — a different mechanic entirely.
