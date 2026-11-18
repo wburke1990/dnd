@@ -39,6 +39,14 @@ will carry word to House Varek.
   leader tied up for the tigers.
 - `[Will]` What the leader tells them, and what happens to the hunter who surrendered.
 
+## The hounds' names
+
+- Sarric names his hound **Jubjub**.
+- Blackacre names his **Don Junior**, then renames it **New Boat**.
+- Jasper names his **Ivan**.
+- The other two hounds get their names next week. `[Will]` Who picks them: Aniess and Pax, or Aniess and
+  Jasper.
+
 ## On the bodies
 
 Prepped loot:
