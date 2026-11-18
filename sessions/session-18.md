@@ -35,7 +35,9 @@ will carry word to House Varek.
 
 - **Sarric proposes killing both prisoners**, the leader and the hunter who surrendered.
 - **Blackacre wants to leave the bodies for the swamp.**
-- `[Will]` Whether Blackacre agrees to kill the prisoners, and what the party decide.
+- **Sarric agrees to let the leader live in exchange for information.** Then he leaves the
+  leader tied up for the tigers.
+- `[Will]` What the leader tells them, and what happens to the hunter who surrendered.
 
 ## On the bodies
 
