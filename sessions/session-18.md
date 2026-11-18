@@ -25,11 +25,11 @@ The party fight five Maalm hunters on great hounds in
 
 ## The leader's house
 
-The hunters belong to **House Varek**, a Maalm noble house. The noble houses came to Maalm with
+The hunters belong to **House Varek**, a Maalm noble house. The leader is a son of the house. The noble houses came to Maalm with
 Bedragon.
 
 If the leader dies, House Varek puts a bounty on whoever killed him. The hunter who surrendered
-will carry word to House Varek.
+will tell House Varek.
 
 ## After the fight
 
@@ -37,7 +37,10 @@ will carry word to House Varek.
 - **Blackacre wants to leave the bodies for the swamp.**
 - **Sarric agrees to let the leader live in exchange for information.** Then he leaves the
   leader tied up for the tigers.
-- `[Will]` What the leader tells them, and what happens to the hunter who surrendered.
+- The fourth hunter surrendered to Aniess. Sarric disarms him and lets him go.
+  Sarric tells him that if anyone asks what happened to the son of House Varek, he should say
+  *"I don't know."*
+- `[Will]` What the leader tells them.
 
 ## The hounds' names
 
