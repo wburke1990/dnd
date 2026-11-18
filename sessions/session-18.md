@@ -44,8 +44,7 @@ will carry word to House Varek.
 - Sarric names his hound **Jubjub**.
 - Blackacre names his **Don Junior**, then renames it **New Boat**.
 - Jasper names his **Ivan**.
-- The other two hounds get their names next week. `[Will]` Who picks them: Aniess and Pax, or Aniess and
-  Jasper.
+- Aniess and Pax name the other two hounds next week.
 
 ## On the bodies
 
