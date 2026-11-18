@@ -28,8 +28,12 @@ The party fight five Maalm hunters on great hounds in
 The hunters belong to **House Varek**, a Maalm noble house. The leader is a son of the house. The noble houses came to Maalm with
 Bedragon.
 
-If the leader dies, House Varek puts a bounty on whoever killed him. The hunter who surrendered
-will tell House Varek.
+`[DM, after the session]` What happens next, away from the party:
+
+- The tigers find the leader tied to the tree and eat him.
+- The hunter who surrendered gets out of the preserve alive. He breaks his promise to Sarric
+  and tells House Varek what happened.
+- House Varek puts a bounty on Sarric and the rest of the party.
 
 ## After the fight
 
