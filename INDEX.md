@@ -20,7 +20,7 @@ design doc, and [the atlas](world/nila/lore/nila-atlas.md) for where places are.
 | [suartleheim-eet/brauron](world/suartleheim-eet/brauron/README.md) | 8 | The peach town, the game preserve and the hell-tree. Off the map, on the coast north of Raand. |
 | [suartleheim-eet/maalm](world/suartleheim-eet/maalm/README.md) | 34 | The conquest-city and the Valley of the Kings. Played out. |
 | [suartleheim-eet/raand-copaa](world/suartleheim-eet/raand-copaa/README.md) | 10 | Raand, Copaa, Aar and the Haals mines. |
-| [the-sea](world/the-sea/README.md) | 9 | Sailing, weather, fleets and what lives in the water. |
+| [the-sea](world/the-sea/README.md) | 10 | Sailing, weather, fleets and what lives in the water. |
 
 ## island-of-the-thinkers
 
@@ -280,6 +280,7 @@ Sailing, weather, fleets and what lives in the water.
 
 | File | Status | What it is |
 |---|---|---|
+| [the oyster quest](world/the-sea/encounters/the-oyster-quest.md) | `idea` | Idea list for an underwater quest where the hosts eat their guests |
 | [the drifting wreck](world/the-sea/encounters/the-drifting-wreck.md) | `played` | A burned food ship adrift, merfolk stripping her, and the man who told Sayid where to find Blackacre |
 
 ### Bestiary
