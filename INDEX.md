@@ -361,6 +361,7 @@ Sailing, weather, fleets and what lives in the water.
 | [invictus](handouts/invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |
 | [iphigenia at aulis](handouts/iphigenia-at-aulis.md) | `reference` | Euripides, "Iphigenia at Aulis," trans. Coleridge — the garlands, and a deer on the altar |
 | [isaiah 14 fallen from heaven](handouts/isaiah-14-fallen-from-heaven.md) | `reference` | Isaiah 14 in the King James — the king brought down to the pit, and hell stirred up to meet him |
+| [jabberwocky](handouts/jabberwocky.md) | `reference` | Lewis Carroll, "Jabberwocky" — a warning about a monster, placement open |
 | [job 14 hope of a tree](handouts/job-14-hope-of-a-tree.md) | `reference` | Job 14 in the King James — a cut tree grows back, and a dead man does not rise |
 | [kronos and uranus](handouts/kronos-and-uranus.md) | `reference` | Hesiod, "Theogony," trans. Evelyn-White — the sickle, the blood, and the ash-tree nymphs |
 | [last kings lament](handouts/last-kings-lament.md) | `reference` | Lament of Amseh IV, the last king — given in the Tomb 4 inner chamber over the little coffins |

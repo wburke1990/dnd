@@ -63,6 +63,8 @@ All eleven hold the full text now.
   [do-not-go-gentle](do-not-go-gentle.md),
   [do-not-stand-at-my-grave](do-not-stand-at-my-grave.md) — grave-elegy /
   endurance vein; homes not yet assigned.
+- [jabberwocky](jabberwocky.md) — Lewis Carroll; a warning to read before
+  the party meets a monster, possibly given as mirror writing.
 
 <!-- BEGIN GENERATED INDEX -->
 
@@ -99,6 +101,7 @@ All eleven hold the full text now.
 | [invictus](invictus.md) | `reference` | W. E. Henley, "Invictus" — grave inscription for a dragonborn who died on his feet |
 | [iphigenia at aulis](iphigenia-at-aulis.md) | `reference` | Euripides, "Iphigenia at Aulis," trans. Coleridge — the garlands, and a deer on the altar |
 | [isaiah 14 fallen from heaven](isaiah-14-fallen-from-heaven.md) | `reference` | Isaiah 14 in the King James — the king brought down to the pit, and hell stirred up to meet him |
+| [jabberwocky](jabberwocky.md) | `reference` | Lewis Carroll, "Jabberwocky" — a warning about a monster, placement open |
 | [job 14 hope of a tree](job-14-hope-of-a-tree.md) | `reference` | Job 14 in the King James — a cut tree grows back, and a dead man does not rise |
 | [kronos and uranus](kronos-and-uranus.md) | `reference` | Hesiod, "Theogony," trans. Evelyn-White — the sickle, the blood, and the ash-tree nymphs |
 | [last kings lament](last-kings-lament.md) | `reference` | Lament of Amseh IV, the last king — given in the Tomb 4 inner chamber over the little coffins |
