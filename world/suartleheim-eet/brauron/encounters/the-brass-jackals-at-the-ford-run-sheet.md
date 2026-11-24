@@ -123,19 +123,19 @@ about 38 damage a round between them against AC 15. The rolls are the same as ro
 
 ### Getting Sefi out
 
-- **Kill the mound.** It drops what it holds.
+- **Kill the mound.** It drops Sefi.
 - **Pull her out.** A creature next to the mound uses its action: **DC 14 Strength
   (Athletics)**. On a success Sefi lands prone next to it.
 - **Sefi gets out herself.** On her turn she makes the same check, at DC 14.
 
-**The mound can engulf someone new only once Sefi is out.** Once she is out it can,
-and a rider hit by both slams is pulled from the saddle and engulfed. Hounds are Large, too big
+**The mound holds one creature at a time, It holds Sefi now.** Once she is out,
+a rider hit by both slams is pulled from the saddle and engulfed. Hounds are Large, too big
 for the mound to engulf.
 
 ### The mound
 
 It slams whatever is closest, rider or Jackal. It stays in the reeds while Sefi is
-in it. Once she is out, it goes for the nearest Medium creature to engulf.
+in it. Once she is out, it moves toward the nearest Medium creature and tries to engulf it.
 
 ### The tigers
 
