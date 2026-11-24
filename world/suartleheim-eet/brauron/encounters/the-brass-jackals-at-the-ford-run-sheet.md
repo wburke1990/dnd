@@ -12,20 +12,20 @@ The fight after [the mounted hunters](the-mounted-hunters-run-sheet.md) in
 mound. Sefi is inside the mound, and a crocodile has Pim by the leg. Two tigers circle in
 the grass. Two more crocodiles wait in the ford.
 
-The party come into this fight hurt and short of spell slots. It is built so they can win it
-with weapons and cantrips, and take about one round of heavy damage between them. They can
-also ride on and leave the Jackals to fight alone.
+The party come into this fight hurt and short of spell slots. Weapons and cantrips can win it.
+Expect the party to take about one round of heavy damage between them. They can also
+ride on and leave the Jackals to fight alone.
 
 ## The numbers
 
 | | |
 |---|---|
-| **Shambling mound** | AC 15, **80 HP** (136 at full; the Jackals have done the rest). Speed 20, swim 20. Blindsight 60 ft. **Resists cold and fire. Lightning heals it** for the damage it would have taken. |
+| **Shambling mound** | AC 15, **80 HP** (136 at full; the Jackals have dealt the other 56). Speed 20, swim 20. Blindsight 60 ft. **Resists cold and fire. Lightning heals it** for the damage it would have taken. |
 | **Slam ×2** | +7 to hit, reach 5 ft., 13 (2d8 + 4) bludgeoning each. If both hit a Medium or smaller creature, it is grappled (escape DC 14) and engulfed. |
 | **Engulf** | **One creature at a time.** The engulfed creature is blinded, restrained and cannot breathe. At the start of each of the mound's turns it makes a **DC 14 Constitution save** or takes 13 (2d8 + 4) bludgeoning. When the mound moves, it goes with it. |
 | **Crocodile** | AC 12, 19 HP. Speed 20, **swim 30**. **Bite** +4, 7 (1d10 + 2), and the target is grappled (escape DC 12). While it holds something it bites nothing else. |
 | **Tiger** | AC 12, 37 HP, Speed 40. Stealth +6. **Claw** +5, 7 (1d8 + 3). **Bite** +5, 8 (1d10 + 3). **Pounce:** move 20 ft. straight and hit with the claw, and the target makes a **DC 13 Strength save** or is knocked prone; the tiger then bites it as a bonus action. |
-| **Hound** | AC 14, 37 HP, **Speed 60**. Ridden, it can only Dash, Disengage or Dodge. It does not bite while ridden. |
+| **Hound** | AC 14, 37 HP, **Speed 60**. Ridden, it can only Dash, Disengage or Dodge. |
 | **Initiative** | Mound, crocodiles, tigers: roll once for each kind. The Jackals act on the party's count. |
 
 ## The Jackals
@@ -54,35 +54,72 @@ A ridden hound that Dashes has 120 feet of movement. The ford costs 60 of it and
 feet up to the mound costs 20, so **a rider who crosses on round 1 still gets an attack
 on the mound that turn.**
 
-**Two crocodiles lie in the middle of the ford.** Each takes an **opportunity attack** on
-the first hound or character to pass out of its reach: one per crocodile per round, so two
-in all. A crocodile bites the hound, not the rider.
+**Two crocodiles lie under the water in the middle of the ford.** From the bank the ford
+is brown water and reeds. Each crocodile takes an **opportunity attack** on the first hound
+or character to pass out of its reach: one per crocodile per round, so two in all. A
+crocodile bites the hound, not the rider.
+
+**Spotting the crocodiles.** As a rider's hound goes into the water, the rider rolls
+**Wisdom (Perception), DC 12** (the crocodile's Stealth +2, plus 10). The roll is free.
+
+- **Success:** the rider sees two eyes and a snout break the surface a few feet ahead. The
+  crocodile's bite on that hound is a normal roll.
+- **Failure:** the jaws close on the hound before the rider spots the crocodile. The bite has **advantage**.
+
+A rider who sees one can shout a warning to the riders behind. Each of them then rolls the check
+with advantage.
 
 A bitten hound is grappled and its speed is 0. It stays in the river, with its rider on
 it. The rider can stay in the saddle, or get off into the water and make the poison save.
-To free the hound, someone escapes the grapple for it (DC 12) or kills the crocodile.
+To free the hound, its rider or a character next to it uses an action on a DC 12 Strength
+(Athletics) check, or kills the crocodile.
 
-A crocodile that holds a hound bites nothing else. The riders behind it pass that
-crocodile without a bite this round.
+Riders behind a crocodile that holds a hound pass it safely this round.
 
 After the crossing the two crocodiles stay in the river. They bite anything that comes
 within 5 feet of the water or into it.
 
 ## Turn by turn
 
+Each round below lists every roll in it. For the party, use each character's own attack
+bonus and damage; the table gives the AC they roll against.
+
 **Round 1.** At the start of the mound's turn Sefi makes her first save. Mogg hits the
 mound. Hadda and Veska hit Pim's crocodile. The crocodile drags Pim 10 feet toward the
-water and bites him again: he has 9 HP and it does 7. The party cross, take the
-opportunity attacks, and reach the far bank. Anyone with a bow or a ranged cantrip can
-shoot the mound from the near bank.
+water and bites him again. The party cross, take the opportunity attacks, and reach the
+far bank. Anyone with a bow or a ranged cantrip can shoot the mound from the near bank.
+
+| Who | Roll | Bonus | Damage | Target AC |
+|---|---|---|---|---|
+| Sefi | Constitution save, DC 14 | +1 | 13 (2d8 + 4) on a failure | — |
+| Mogg | Greataxe on the mound | +5 | 11 (1d12 + 5) | 15 |
+| Hadda | Shortsword on Pim's crocodile | +5 | 13 (1d6 + 3, plus 2d6 with Veska next to it) | 12 |
+| Veska | Mace on Pim's crocodile | +4 | 5 (1d6 + 2) | 12 |
+| Pim's crocodile | Bite on Pim | +4 | 7 (1d10 + 2) | 16 |
+| Mound | Slam ×2 on Mogg | +7 | 13 (2d8 + 4) each, halved by rage | 14 |
+| Ford crocodiles | Opportunity attack on a hound | +4 (advantage if unseen) | 7 (1d10 + 2), and grappled | 14 |
+| Party | Attacks on the mound | own | own | 15 |
 
 **Round 2.** Sefi's second save. **On a second failure she drops to 0** and makes death
 saves from then on, and the engulf damage counts as failed death saves. Pim's crocodile
-reaches the water and takes him under; he holds his breath, and it keeps biting. The mound
-slams whoever is in front of it.
+reaches the water and takes him under; he holds his breath, and it keeps biting. Pim has
+9 HP, so the second bite drops him. The mound slams the nearest rider or Mogg.
+
+| Who | Roll | Bonus | Damage | Target AC |
+|---|---|---|---|---|
+| Sefi | Constitution save, DC 14 | +1 | 13 (2d8 + 4) on a failure | — |
+| Mogg | Greataxe on the mound | +5 | 11 (1d12 + 5) | 15 |
+| Hadda | Shortsword on Pim's crocodile | +5 | 13 (1d6 + 3, plus 2d6) | 12 |
+| Veska | Mace on Pim's crocodile | +4 | 5 (1d6 + 2) | 12 |
+| Pim's crocodile | Bite on Pim | +4 | 7 (1d10 + 2) | 16 |
+| Mound | Slam ×2 on the nearest rider or Mogg | +7 | 13 (2d8 + 4) each | that character's AC; Mogg 14 |
+| Tigers | Pounce on a lone or downed target, or a riderless hound | +5 claw, +5 bite | 7 (1d8 + 3) claw, 8 (1d10 + 3) bite; DC 13 Strength save or prone | that target's AC; hound 14, Pim 16 |
+| Party | Attacks on the mound | own | own | 15 |
+| Party | Attacks on a crocodile | own | own | 12 |
+| Party | Attacks on a tiger | own | own | 12 |
 
 **Round 3.** With the whole party and Mogg on it, the mound should die here: they do
-about 38 damage a round between them against AC 15.
+about 38 damage a round between them against AC 15. The rolls are the same as round 2.
 
 ### Getting Sefi out
 
@@ -91,13 +128,13 @@ about 38 damage a round between them against AC 15.
   (Athletics)**. On a success Sefi lands prone next to it.
 - **Sefi gets out herself.** On her turn she makes the same check, at DC 14.
 
-**While Sefi is inside, the mound cannot engulf anyone else.** Once she is out it can,
+**The mound can engulf someone new only once Sefi is out.** Once she is out it can,
 and a rider hit by both slams is pulled from the saddle and engulfed. Hounds are Large, too big
 for the mound to engulf.
 
 ### The mound
 
-It slams whatever is closest, rider or Jackal. It does not leave the reeds while Sefi is
+It slams whatever is closest, rider or Jackal. It stays in the reeds while Sefi is
 in it. Once she is out, it goes for the nearest Medium creature to engulf.
 
 ### The tigers
