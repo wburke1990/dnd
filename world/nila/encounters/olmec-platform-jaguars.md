@@ -1,5 +1,5 @@
 ---
-summary: Idea for a jungle encounter on an Olmec-style platform with were-jaguar shaman kings, the Olmec Dragon, the Milky Way and the Olmec gods
+summary: Jungle platform with were-jaguar shaman kings, the Olmec Dragon, the Milky Way and Olmec gods
 status: idea
 ---
 
@@ -34,9 +34,8 @@ An Olmec-style earthen platform stands in the jungle. Were-jaguars live on it.
 
 ## The Milky Way
 
-Many peoples of Mesoamerica and North America believed the dead travel to the
-afterlife along the Milky Way. Some researchers propose that settlements were
-laid out along the Milky Way, and that equinox alignments came later.
+The settlement is laid out along the Milky Way. The dead travel to the
+afterlife along it.
 
 - **Alignment.** The platform, the ball court and the mountain cave lie on
   one line, running toward the point where the Milky Way meets the horizon.
@@ -49,17 +48,17 @@ laid out along the Milky Way, and that equinox alignments came later.
 
 ## The three tiers
 
-The Olmec and later Mesoamerican peoples held the universe to have three
-tiers, joined by a central axis.
+The universe has three tiers joined by a central axis.
 
 - **The abyss.** The underworld, below the earth and full of water. Caves
-  are its doors. The dead go down to it.
+  lead down to it. The dead go down to it.
 - **The material world.** The living world. Carvings of the Olmec Dragon
-  represent the surface of the earth, and the platform stands on it.
+  cover the platform, which stands on the surface of the earth.
 - **The heavens.** The sky above. The Milky Way crosses it and the sun, moon
   and stars move through it.
-- **The axis.** The Maize God stands at the center of the three tiers. The
-  mountain, the cave and the Milky Way over it make that line at the site.
+- **The axis.** The Maize God stands at the center of the three tiers.
+  At the site, the mountain, the cave and the Milky Way above the cave lie on
+  one vertical line.
 - **Passing between tiers.** The shaman kings go down through the cave to the
   abyss and come back as jaguars.
 
@@ -68,12 +67,11 @@ tiers, joined by a central axis.
 Carvings of these gods stand on the terraces and around the cave mouth.
 
 - **Maize God.** Maize cobs sprout from a cleft in the top of its head.
-- **Rain Spirit.** It has were-jaguar features. Karl Taube identifies it as
-  the Maize God in seed form.
-- **Banded-eye God.** It is shown in profile. Taube identifies it as another
-  form of the Maize God.
+- **Rain Spirit.** It has were-jaguar features. It is the Maize God in
+  seed form.
+- **Banded-eye God.** It is shown in profile. It is another form of the Maize
+  God.
 - **Feathered Serpent.** A serpent covered in feathers.
 - **Fish Monster.** A creature with a fish's face and body.
-- **Water God.** Some scholars identify it as the earlier form of Tlaloc and
-  Chac.
+- **Water God.** It is the earlier form of Tlaloc and Chac.
 - **Death God.** It has a fleshless jaw.
