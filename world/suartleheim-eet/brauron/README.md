@@ -16,6 +16,7 @@ The peach town, the game preserve and the hell-tree. Off the map, on the coast n
 
 | File | Status | What it is |
 |---|---|---|
+| [the brass jackals at the ford run sheet](encounters/the-brass-jackals-at-the-ford-run-sheet.md) | `next` | Run sheet for David on the Brass Jackals fighting a shambling mound across a crocodile ford |
 | [the mounted hunters run sheet](encounters/the-mounted-hunters-run-sheet.md) | `next` | Run sheet for David on how four mounted Maalm hunters fight the party, turn by turn |
 | [the satyrs run sheet](encounters/the-satyrs-run-sheet.md) | `next` | Run sheet for David on how the mounted grove satyrs fight the party on day two of the hunt |
 | [dressing the stag](encounters/dressing-the-stag.md) | `ready` | The priestesses of Artemis dress Cassia as the stag, using the steps of a Homeric sacrifice |
