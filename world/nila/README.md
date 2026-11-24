@@ -38,7 +38,7 @@ The world itself: cosmology, history, rules, and the powers that span regions.
 | [the covenant rite](encounters/the-covenant-rite.md) | `draft` | The rite for pledging yourself to a dragon court |
 | [the iliad battles](encounters/the-iliad-battles.md) | `draft` | A frame for pitched battle fought as Homeric duels |
 | [great tree sites](encounters/great-tree-sites.md) | `idea` | A backlog of tree-myth site ideas, none placed yet |
-| [olmec platform jaguars](encounters/olmec-platform-jaguars.md) | `idea` | Idea for a jungle encounter on an Olmec-style platform with were-jaguar shaman kings, the Olmec Dragon and the Olmec gods |
+| [olmec platform jaguars](encounters/olmec-platform-jaguars.md) | `idea` | Idea for a jungle encounter on an Olmec-style platform with were-jaguar shaman kings, the Olmec Dragon, the Milky Way and the Olmec gods |
 | [temple sites](encounters/temple-sites.md) | `idea` | Stubs for sacred-site visits, one mythology each |
 
 ### Bestiary
