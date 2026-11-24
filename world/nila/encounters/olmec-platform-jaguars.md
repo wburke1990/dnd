@@ -44,8 +44,24 @@ laid out along the Milky Way, and that equinox alignments came later.
   of the dead enter the cave and descend to the underworld.
 - **The shaman kings.** They go into the cave when the Milky Way stands over
   it and come out as jaguars.
-- **Carvings.** A band of carved dots runs along the terraces toward the
+- **Carvings.** A band of carved dots circles each terrace and ends at the
   cave.
+
+## The three tiers
+
+The Olmec and later Mesoamerican peoples held the universe to have three
+tiers, joined by a central axis.
+
+- **The abyss.** The underworld, below the earth and full of water. Caves
+  are its doors. The dead go down to it.
+- **The material world.** The living world. Carvings of the Olmec Dragon
+  represent the surface of the earth, and the platform stands on it.
+- **The heavens.** The sky above. The Milky Way crosses it and the sun, moon
+  and stars move through it.
+- **The axis.** The Maize God stands at the center of the three tiers. The
+  mountain, the cave and the Milky Way over it make that line at the site.
+- **Passing between tiers.** The shaman kings go down through the cave to the
+  abyss and come back as jaguars.
 
 ## The pantheon
 
